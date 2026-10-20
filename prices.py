@@ -51,12 +51,78 @@ def yahoo_symbol(company: dict) -> str | None:
     return f"{t}.OL" if (company.get("market") or "").lower() == "oslo" else t
 
 
+def summarize(symbol: str, closes: list[float], currency: str, mtime: float | None = None) -> dict | None:
+    closes = [round(float(c), 4) for c in closes if c is not None and c == c]  # drop None/NaN
+    if len(closes) < 2:
+        return None
+    price, prev = closes[-1], closes[-2]
+
+    def pct(old):
+        return round((price / old - 1) * 100, 2) if old else None
+
+    return {
+        "symbol": symbol,
+        "currency": currency,
+        "price": round(price, 2),
+        "change_pct": pct(prev),
+        "week_pct": pct(closes[-6]) if len(closes) >= 6 else None,
+        "month_pct": pct(closes[-22]) if len(closes) >= 22 else pct(closes[0]),
+        "history": [round(c, 2) for c in closes[-66:]],
+        "market_time": mtime or time.time(),
+    }
+
+
+def fetch_yfinance(symbol: str) -> dict | None:
+    try:
+        try:
+            import yfinance as yf
+        except ImportError:  # installed on first use, so the workflow file needs no change
+            import subprocess, sys
+            subprocess.run([sys.executable, "-m", "pip", "install", "-q", "yfinance"], check=True)
+            import yfinance as yf
+        t = yf.Ticker(symbol)
+        h = t.history(period="3mo", interval="1d", auto_adjust=False)
+        if h is None or h.empty:
+            return None
+        cur = (getattr(t, "history_metadata", None) or {}).get("currency", "")
+        return summarize(symbol, list(h["Close"]), cur, h.index[-1].timestamp())
+    except Exception as exc:
+        print(f"  yfinance {symbol}: {exc.__class__.__name__}: {str(exc)[:120]}")
+        return None
+
+
+STOOQ = {"OSEBX.OL": None, "^GSPC": "^spx", "^IXIC": "^ndq", "BZ=F": "cb.f", "NOK=X": "usdnok"}
+
+
+def fetch_stooq(symbol: str, currency_guess: str) -> dict | None:
+    code = STOOQ.get(symbol, symbol.replace(".OL", ".no") if symbol.endswith(".OL") else symbol + ".us")
+    if not code:
+        return None
+    try:
+        r = requests.get("https://stooq.com/q/d/l/", params={"s": code.lower(), "i": "d"}, headers=UA, timeout=20)
+        rows = [l.split(",") for l in r.text.strip().splitlines()[1:]]
+        closes = [float(x[4]) for x in rows if len(x) > 4 and x[4] not in ("", "null")]
+        return summarize(symbol, closes[-70:], currency_guess)
+    except Exception as exc:
+        print(f"  stooq {symbol}: {exc.__class__.__name__}")
+        return None
+
+
 def fetch(symbol: str) -> dict | None:
+    d = fetch_yahoo(symbol) or fetch_yfinance(symbol)
+    if d:
+        return d
+    guess = "NOK" if symbol.endswith(".OL") or symbol == "NOK=X" else "USD"
+    return fetch_stooq(symbol, guess)
+
+
+def fetch_yahoo(symbol: str) -> dict | None:
     for host in ("query1", "query2"):
         url = f"https://{host}.finance.yahoo.com/v8/finance/chart/{symbol}"
         try:
             r = requests.get(url, params={"range": "3mo", "interval": "1d"}, headers=UA, timeout=20)
             if r.status_code != 200:
+                print(f"  yahoo {symbol}: HTTP {r.status_code}")
                 continue
             res = r.json()["chart"]["result"][0]
         except Exception:

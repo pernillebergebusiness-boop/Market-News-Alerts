@@ -210,6 +210,13 @@ def collect(cfg: dict, seen: dict) -> tuple[list[dict], list[str]]:
                 continue
             seen[key] = now
             summary = clean(entry.get("summary", ""))[:400]
+            source = src["name"]
+            if "news.google.com" in src["url"]:
+                # Google News titles look like "Headline - Publisher"
+                head, sep, pub = title.rpartition(" - ")
+                if sep and head and len(pub) < 60:
+                    title, source = head, pub
+                summary = ""  # Google's summary only repeats the headline
             stocks, keywords = classify(title, summary, cfg)
             if not stocks and not keywords:
                 continue
@@ -218,7 +225,7 @@ def collect(cfg: dict, seen: dict) -> tuple[list[dict], list[str]]:
                 "title": title,
                 "summary": summary[:240],
                 "link": link,
-                "source": src["name"],
+                "source": source,
                 "published": published or now,
                 "stocks": stocks,
                 "keywords": keywords,

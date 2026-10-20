@@ -35,6 +35,8 @@ ROOT = Path(__file__).resolve().parent
 CONFIG_FILE = ROOT / "config.yaml"
 STATE_FILE = ROOT / "data" / "seen.json"
 LOG_FILE = ROOT / "news.md"
+NEWS_JSON = ROOT / "data" / "news.json"   # read by the dashboard (index.html)
+NEWS_JSON_KEEP = 400
 
 USER_AGENT = "Mozilla/5.0 (compatible; MarketNewsAlerts/1.0; personal use)"
 SEEN_KEEP_DAYS = 4
@@ -159,6 +161,13 @@ def build_sources(cfg: dict) -> list[dict]:
     return sources
 
 
+def stock_label(company: dict) -> str:
+    label = company["name"]
+    if company.get("ticker"):
+        label += f" ({company['ticker']})"
+    return label
+
+
 def classify(title: str, summary: str, cfg: dict) -> tuple[list[str], list[str]]:
     """Returns (watchlist hits as 'Name (TICKER)', important keywords hit)."""
     text = f"{title} {summary}"
@@ -169,10 +178,7 @@ def classify(title: str, summary: str, cfg: dict) -> tuple[list[str], list[str]]
     for company in cfg.get("watchlist") or []:
         terms = company.get("match") or [company["name"]]
         if any(word_match(t, text) for t in terms):
-            label = company["name"]
-            if company.get("ticker"):
-                label += f" ({company['ticker']})"
-            stocks.append(label)
+            stocks.append(stock_label(company))
     keywords = [k for k in cfg.get("important_keywords") or [] if word_match(k, title)]
     return stocks, keywords
 
@@ -210,6 +216,7 @@ def collect(cfg: dict, seen: dict) -> tuple[list[dict], list[str]]:
             found.append({
                 "key": key,
                 "title": title,
+                "summary": summary[:240],
                 "link": link,
                 "source": src["name"],
                 "published": published or now,
@@ -321,11 +328,43 @@ def write_log(items: list[dict], settings: dict) -> None:
     LOG_FILE.write_text("\n".join(header + rows) + "\n", encoding="utf-8")
 
 
+def write_news_json(items: list[dict], cfg: dict, errors: list[str]) -> None:
+    """Data file for the dashboard: newest items first, plus the watchlist."""
+    old = []
+    if NEWS_JSON.exists():
+        try:
+            old = json.loads(NEWS_JSON.read_text(encoding="utf-8")).get("items", [])
+        except (json.JSONDecodeError, AttributeError):
+            old = []
+    known = {i.get("key") for i in old}
+    new = [{k: it[k] for k in ("key", "title", "summary", "link", "source",
+                                "published", "stocks", "keywords")}
+           for it in items if it["key"] not in known]
+    merged = sorted(new + old, key=lambda i: -i.get("published", 0))[:NEWS_JSON_KEEP]
+    watchlist = [{"label": stock_label(c), "name": c["name"], "ticker": c.get("ticker", ""),
+                  "market": c.get("market", "")} for c in cfg.get("watchlist") or []]
+    payload = {
+        "updated": time.time(),
+        "watchlist": watchlist,
+        "feed_problems": errors,
+        "items": merged,
+    }
+    NEWS_JSON.parent.mkdir(parents=True, exist_ok=True)
+    NEWS_JSON.write_text(json.dumps(payload, ensure_ascii=False, indent=0), encoding="utf-8")
+
+
 def main() -> int:
     cfg = load_config()
     settings = cfg.get("settings") or {}
     seen = load_seen()
     first_run = not seen
+
+    if not NEWS_JSON.exists() and seen:
+        # Dashboard is new: fill it with the matching news of the last hours
+        # (no notifications for these, they were already "seen").
+        backfill, _ = collect(cfg, {})
+        write_news_json(backfill, cfg, [])
+        print(f"Dashboard backfilled with {len(backfill)} recent headline(s).")
 
     items, errors = collect(cfg, seen)
 
@@ -342,6 +381,7 @@ def main() -> int:
             notify(items, settings)
             write_log(items, settings)
 
+    write_news_json(items, cfg, errors)  # always: refreshes "last updated"
     save_seen(seen)
     for e in errors:
         print(f"Feed problem (skipped): {e}")

@@ -19,42 +19,54 @@ settings:
 #  Stocks you own or are watching. You get an alert whenever
 #  one of the "match" words appears in a headline.
 #  Add or remove companies freely — copy the same layout.
+#  market: Oslo or US (used for the filters in the dashboard).
 # ------------------------------------------------------------
 watchlist:
   # Oslo Børs
   - name: Equinor
     ticker: EQNR
+    market: Oslo
     match: [Equinor]
   - name: Aker BP
     ticker: AKRBP
+    market: Oslo
     match: [Aker BP]
   - name: Aker
     ticker: AKER
+    market: Oslo
     match: [Aker ASA, Nscale, Kjell Inge Røkke]
   - name: Kongsberg Gruppen
     ticker: KOG
+    market: Oslo
     match: [Kongsberg Gruppen, Kongsberg Defence]
   - name: DNB
     ticker: DNB
+    market: Oslo
     match: [DNB Bank, DNB ASA]
   - name: Mowi
     ticker: MOWI
+    market: Oslo
     match: [Mowi]
   # US
   - name: Nvidia
     ticker: NVDA
+    market: US
     match: [Nvidia]
   - name: Meta
     ticker: META
+    market: US
     match: [Meta Platforms, Zuckerberg]
   - name: Tesla
     ticker: TSLA
+    market: US
     match: [Tesla]
   - name: Apple
     ticker: AAPL
+    market: US
     match: [Apple Inc, iPhone, Tim Cook]
   - name: Microsoft
     ticker: MSFT
+    market: US
     match: [Microsoft]
 
 # ------------------------------------------------------------

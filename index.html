@@ -1,0 +1,375 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Market Radar</title>
+<meta name="description" content="Pernille's live market news radar: Oslo Børs and US.">
+<link rel="manifest" href="manifest.json">
+<link rel="icon" type="image/png" sizes="192x192" href="icons/icon-192.png">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Market Radar">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="theme-color" content="#f6f3ee" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#14161a" media="(prefers-color-scheme: dark)">
+<style>
+  :root {
+    --bg: #f6f3ee;
+    --surface: #ffffff;
+    --surface-2: #efeae2;
+    --text: #1b1d21;
+    --muted: #6b6f78;
+    --line: #e2dcd2;
+    --accent: #0f6b5c;
+    --accent-soft: #dcefe9;
+    --oslo: #a3402d;
+    --oslo-soft: #f6e3dd;
+    --us: #2d4fa3;
+    --us-soft: #e0e6f6;
+    --market: #7a5a12;
+    --market-soft: #f3ead2;
+    --shadow: 0 1px 2px rgba(27, 29, 33, .05), 0 4px 14px rgba(27, 29, 33, .05);
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #14161a;
+      --surface: #1c1f24;
+      --surface-2: #262a31;
+      --text: #ecebe7;
+      --muted: #9a9ea8;
+      --line: #2e333b;
+      --accent: #5cc8b0;
+      --accent-soft: #173a33;
+      --oslo: #f09a85;
+      --oslo-soft: #3d241e;
+      --us: #93acf0;
+      --us-soft: #1f2a47;
+      --market: #e3c06e;
+      --market-soft: #3a3020;
+      --shadow: none;
+    }
+  }
+  * { box-sizing: border-box; }
+  html { -webkit-text-size-adjust: 100%; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font: 15px/1.45 -apple-system, BlinkMacSystemFont, "SF Pro Text", "Inter", "Segoe UI", system-ui, sans-serif;
+    padding: env(safe-area-inset-top) 0 env(safe-area-inset-bottom);
+  }
+  .wrap { max-width: 860px; margin: 0 auto; padding: 0 16px 48px; }
+
+  header { padding: 22px 0 14px; display: flex; align-items: flex-end; justify-content: space-between; gap: 12px; }
+  .brand { display: flex; align-items: center; gap: 10px; }
+  .logo {
+    width: 34px; height: 34px; border-radius: 9px; background: var(--accent);
+    display: grid; place-items: center; flex: none;
+  }
+  .logo svg { width: 20px; height: 20px; }
+  h1 { font-size: 21px; line-height: 1.1; margin: 0; letter-spacing: -.01em; }
+  .sub { color: var(--muted); font-size: 13px; margin-top: 2px; }
+  .status { text-align: right; font-size: 12.5px; color: var(--muted); white-space: nowrap; }
+  .dot { display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: var(--accent); margin-right: 6px; vertical-align: 1px; }
+  .dot.stale { background: var(--market); }
+  .refresh {
+    margin-top: 6px; border: 1px solid var(--line); background: var(--surface); color: var(--text);
+    border-radius: 8px; padding: 5px 10px; font: inherit; font-size: 12.5px; cursor: pointer;
+  }
+
+  .stats { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin: 6px 0 16px; }
+  .stat { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 12px 14px; box-shadow: var(--shadow); }
+  .stat b { display: block; font-size: 22px; letter-spacing: -.02em; font-variant-numeric: tabular-nums; }
+  .stat span { color: var(--muted); font-size: 12.5px; }
+
+  .controls { position: sticky; top: 0; z-index: 5; background: var(--bg); padding: 10px 0 10px; border-bottom: 1px solid var(--line); }
+  .search {
+    width: 100%; border: 1px solid var(--line); background: var(--surface); color: var(--text);
+    border-radius: 10px; padding: 10px 12px; font: inherit; outline: none;
+  }
+  .search:focus { border-color: var(--accent); }
+  .chips { display: flex; gap: 8px; overflow-x: auto; padding: 10px 0 2px; scrollbar-width: none; }
+  .chips::-webkit-scrollbar { display: none; }
+  .chip {
+    flex: none; border: 1px solid var(--line); background: var(--surface); color: var(--text);
+    border-radius: 999px; padding: 6px 12px; font: inherit; font-size: 13.5px; cursor: pointer; white-space: nowrap;
+  }
+  .chip[aria-pressed="true"] { background: var(--text); color: var(--bg); border-color: var(--text); }
+  .chip .n { color: var(--muted); margin-left: 4px; font-variant-numeric: tabular-nums; }
+  .chip[aria-pressed="true"] .n { color: inherit; opacity: .7; }
+
+  .watch { margin: 16px 0 4px; }
+  .watch h2, .day { font-size: 12px; text-transform: uppercase; letter-spacing: .08em; color: var(--muted); margin: 0 0 8px; font-weight: 600; }
+  .watch-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 8px; }
+  .wcard {
+    text-align: left; border: 1px solid var(--line); background: var(--surface); color: var(--text);
+    border-radius: 10px; padding: 9px 11px; font: inherit; cursor: pointer; box-shadow: var(--shadow);
+  }
+  .wcard[aria-pressed="true"] { border-color: var(--accent); outline: 2px solid var(--accent); outline-offset: -1px; }
+  .wcard .t { font-weight: 650; font-size: 14px; }
+  .wcard .m { font-size: 12px; color: var(--muted); display: flex; justify-content: space-between; margin-top: 2px; }
+
+  .day { margin: 22px 0 8px; }
+  .list { display: flex; flex-direction: column; gap: 8px; }
+  .item {
+    display: block; text-decoration: none; color: inherit; background: var(--surface);
+    border: 1px solid var(--line); border-radius: 12px; padding: 12px 14px; box-shadow: var(--shadow);
+  }
+  .item:hover { border-color: var(--muted); }
+  .item.new { border-left: 3px solid var(--accent); }
+  .meta { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; font-size: 12.5px; color: var(--muted); }
+  .time { font-variant-numeric: tabular-nums; font-weight: 600; color: var(--text); }
+  .title { font-size: 15.5px; font-weight: 600; margin: 5px 0 0; line-height: 1.35; overflow-wrap: anywhere; }
+  .summary { color: var(--muted); font-size: 13.5px; margin-top: 4px; overflow-wrap: anywhere;
+    display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+  .tag { font-size: 11.5px; font-weight: 650; padding: 2px 7px; border-radius: 6px; }
+  .tag.oslo { background: var(--oslo-soft); color: var(--oslo); }
+  .tag.us { background: var(--us-soft); color: var(--us); }
+  .tag.market { background: var(--market-soft); color: var(--market); }
+
+  .empty { text-align: center; color: var(--muted); padding: 48px 12px; }
+  .note { margin-top: 28px; font-size: 12.5px; color: var(--muted); border-top: 1px solid var(--line); padding-top: 14px; }
+  .note a { color: var(--accent); }
+  @media (max-width: 520px) {
+    header { flex-direction: column; align-items: flex-start; }
+    .status { text-align: left; }
+    .stat b { font-size: 19px; }
+    .watch-grid { display: flex; overflow-x: auto; scrollbar-width: none; padding-bottom: 4px; }
+    .watch-grid::-webkit-scrollbar { display: none; }
+    .wcard { flex: none; width: 148px; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="brand">
+      <div class="logo" aria-hidden="true">
+        <svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M3 17l5-5 4 4 8-8"/><path d="M15 8h5v5"/></svg>
+      </div>
+      <div>
+        <h1>Market Radar</h1>
+        <div class="sub">Oslo Børs &amp; US news, checked every 15 minutes</div>
+      </div>
+    </div>
+    <div class="status">
+      <div id="updated"><span class="dot"></span>Loading…</div>
+      <button class="refresh" id="refresh" type="button">Refresh</button>
+    </div>
+  </header>
+
+  <section class="stats" aria-label="Today">
+    <div class="stat"><b id="s-today">–</b><span>headlines today</span></div>
+    <div class="stat"><b id="s-mine">–</b><span>about your stocks</span></div>
+    <div class="stat"><b id="s-hour">–</b><span>in the last hour</span></div>
+  </section>
+
+  <div class="controls">
+    <input class="search" id="q" type="search" placeholder="Search headlines…" autocomplete="off">
+    <div class="chips" id="filters" role="group" aria-label="Filter">
+      <button class="chip" data-f="all" aria-pressed="true">All<span class="n" id="n-all"></span></button>
+      <button class="chip" data-f="mine" aria-pressed="false">My stocks<span class="n" id="n-mine"></span></button>
+      <button class="chip" data-f="oslo" aria-pressed="false">Oslo Børs<span class="n" id="n-oslo"></span></button>
+      <button class="chip" data-f="us" aria-pressed="false">US<span class="n" id="n-us"></span></button>
+      <button class="chip" data-f="market" aria-pressed="false">Big market news<span class="n" id="n-market"></span></button>
+    </div>
+  </div>
+
+  <section class="watch">
+    <h2>Your watchlist · last 7 days</h2>
+    <div class="watch-grid" id="watch"></div>
+  </section>
+
+  <main id="feed"></main>
+
+  <p class="note">
+    News only, not advice. For analysis and ideas, ask Claude. To change your watchlist, edit
+    <a id="cfg" href="#">config.yaml</a> on GitHub.
+  </p>
+</div>
+
+<script>
+(() => {
+  const DATA_URL = "data/news.json";
+  const state = { data: null, filter: "all", stock: null, q: "" };
+  const $ = (id) => document.getElementById(id);
+  const DAY = 86400000;
+
+  // Link to config on GitHub (works for any username/repo on GitHub Pages)
+  try {
+    const user = location.hostname.split(".")[0];
+    const repo = location.pathname.split("/").filter(Boolean)[0];
+    if (location.hostname.endsWith("github.io") && repo) {
+      $("cfg").href = `https://github.com/${user}/${repo}/edit/main/config.yaml`;
+    }
+  } catch (e) {}
+
+  function marketOf(label) {
+    const w = (state.data?.watchlist || []).find((x) => x.label === label);
+    return (w?.market || "").toLowerCase();
+  }
+  function itemMarkets(it) {
+    const s = new Set((it.stocks || []).map(marketOf).filter(Boolean));
+    return s;
+  }
+  function matches(it) {
+    if (state.stock && !(it.stocks || []).includes(state.stock)) return false;
+    const f = state.filter;
+    if (f === "mine" && !(it.stocks || []).length) return false;
+    if (f === "oslo" && !itemMarkets(it).has("oslo") && !/oslo|norges bank|norsk|norway|styringsrent/i.test(it.title)) return false;
+    if (f === "us" && !itemMarkets(it).has("us") && !/wall street|fed|federal reserve|s&p|nasdaq|dow/i.test(it.title)) return false;
+    if (f === "market" && (it.stocks || []).length) return false;
+    if (state.q) {
+      const hay = `${it.title} ${it.summary || ""} ${(it.stocks || []).join(" ")} ${it.source}`.toLowerCase();
+      if (!hay.includes(state.q)) return false;
+    }
+    return true;
+  }
+
+  const fmtTime = new Intl.DateTimeFormat("en-GB", { hour: "2-digit", minute: "2-digit", timeZone: "Europe/Oslo" });
+  const fmtDay = new Intl.DateTimeFormat("en-GB", { weekday: "long", day: "numeric", month: "long", timeZone: "Europe/Oslo" });
+  const dayKey = (ms) => new Intl.DateTimeFormat("en-CA", { timeZone: "Europe/Oslo" }).format(ms);
+
+  function dayLabel(ms) {
+    const k = dayKey(ms), today = dayKey(Date.now()), yest = dayKey(Date.now() - DAY);
+    if (k === today) return "Today";
+    if (k === yest) return "Yesterday";
+    return fmtDay.format(ms);
+  }
+  function ago(ms) {
+    const m = Math.round((Date.now() - ms) / 60000);
+    if (m < 1) return "just now";
+    if (m < 60) return `${m} min ago`;
+    const h = Math.round(m / 60);
+    if (h < 24) return `${h} h ago`;
+    return `${Math.round(h / 24)} d ago`;
+  }
+  function el(tag, cls, text) {
+    const e = document.createElement(tag);
+    if (cls) e.className = cls;
+    if (text != null) e.textContent = text;
+    return e;
+  }
+  function cleanSource(s) { return (s || "").replace(/\s*\(Google News\)$/, ""); }
+
+  function render() {
+    const d = state.data;
+    if (!d) return;
+    const items = d.items || [];
+    const now = Date.now();
+
+    // Header + stats
+    const upd = (d.updated || 0) * 1000;
+    const stale = now - upd > 45 * 60000;
+    $("updated").innerHTML = "";
+    const dot = el("span", "dot" + (stale ? " stale" : ""));
+    $("updated").append(dot, document.createTextNode(`Updated ${ago(upd)}`));
+    const today = dayKey(now);
+    $("s-today").textContent = items.filter((i) => dayKey(i.published * 1000) === today).length;
+    $("s-mine").textContent = items.filter((i) => dayKey(i.published * 1000) === today && (i.stocks || []).length).length;
+    $("s-hour").textContent = items.filter((i) => now - i.published * 1000 < 3600000).length;
+
+    // Filter counts (before search/stock filters)
+    const saveF = state.filter, saveS = state.stock, saveQ = state.q;
+    state.stock = null; state.q = "";
+    for (const f of ["all", "mine", "oslo", "us", "market"]) {
+      state.filter = f;
+      $("n-" + f).textContent = items.filter(matches).length;
+    }
+    state.filter = saveF; state.stock = saveS; state.q = saveQ;
+
+    // Watchlist cards
+    const week = now - 7 * DAY;
+    const wl = $("watch"); wl.innerHTML = "";
+    for (const w of d.watchlist || []) {
+      const its = items.filter((i) => (i.stocks || []).includes(w.label));
+      const recent = its.filter((i) => i.published * 1000 > week);
+      const b = el("button", "wcard");
+      b.type = "button";
+      b.setAttribute("aria-pressed", state.stock === w.label ? "true" : "false");
+      b.append(el("div", "t", w.name));
+      const m = el("div", "m");
+      m.append(el("span", null, `${w.ticker}${w.market ? " · " + w.market : ""}`),
+               el("span", null, recent.length ? `${recent.length} news` : "quiet"));
+      b.append(m);
+      b.onclick = () => { state.stock = state.stock === w.label ? null : w.label; render(); };
+      wl.append(b);
+    }
+
+    // Feed
+    const feed = $("feed"); feed.innerHTML = "";
+    const shown = items.filter(matches).slice(0, 250);
+    if (!shown.length) {
+      feed.append(el("div", "empty", items.length
+        ? "Nothing matches this filter yet."
+        : "No headlines yet. The radar checks every 15 minutes, so new news will appear here soon."));
+      return;
+    }
+    let curDay = null, list = null;
+    for (const it of shown) {
+      const ms = it.published * 1000;
+      const dl = dayLabel(ms);
+      if (dl !== curDay) {
+        curDay = dl;
+        feed.append(el("h2", "day", dl));
+        list = el("div", "list");
+        feed.append(list);
+      }
+      const a = el("a", "item" + (now - ms < 3600000 ? " new" : ""));
+      a.href = it.link; a.target = "_blank"; a.rel = "noopener";
+      const meta = el("div", "meta");
+      meta.append(el("span", "time", fmtTime.format(ms)));
+      for (const s of it.stocks || []) {
+        const mk = marketOf(s);
+        meta.append(el("span", "tag " + (mk === "oslo" ? "oslo" : mk === "us" ? "us" : "market"), s));
+      }
+      if (!(it.stocks || []).length) {
+        meta.append(el("span", "tag market", (it.keywords || [])[0] || "Market"));
+      }
+      meta.append(el("span", null, cleanSource(it.source)));
+      a.append(meta, el("div", "title", it.title));
+      if (it.summary && it.summary !== it.title && !it.summary.startsWith(it.title)) {
+        a.append(el("div", "summary", it.summary));
+      }
+      list.append(a);
+    }
+  }
+
+  async function load() {
+    try {
+      const r = await fetch(`${DATA_URL}?t=${Date.now()}`, { cache: "no-store" });
+      if (!r.ok) throw new Error(r.status);
+      state.data = await r.json();
+      render();
+    } catch (e) {
+      $("updated").textContent = "Couldn't load news. Check your connection.";
+    }
+  }
+
+  // Remember the last filter (per device only)
+  try {
+    const saved = localStorage.getItem("radar-filter");
+    if (saved) state.filter = saved;
+  } catch (e) {}
+  document.querySelectorAll("#filters .chip").forEach((c) => {
+    c.setAttribute("aria-pressed", c.dataset.f === state.filter ? "true" : "false");
+    c.onclick = () => {
+      state.filter = c.dataset.f;
+      try { localStorage.setItem("radar-filter", state.filter); } catch (e) {}
+      document.querySelectorAll("#filters .chip").forEach((x) =>
+        x.setAttribute("aria-pressed", x === c ? "true" : "false"));
+      render();
+    };
+  });
+  $("q").addEventListener("input", (e) => { state.q = e.target.value.trim().toLowerCase(); render(); });
+  $("refresh").onclick = load;
+  document.addEventListener("visibilitychange", () => { if (!document.hidden) load(); });
+  setInterval(load, 5 * 60000);
+  setInterval(render, 60000); // keep "x min ago" fresh
+  load();
+})();
+</script>
+</body>
+</html>

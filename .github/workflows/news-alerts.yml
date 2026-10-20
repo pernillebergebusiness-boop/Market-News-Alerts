@@ -1,0 +1,46 @@
+name: Market news alerts
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"   # every 15 minutes (GitHub may start a few minutes late)
+  workflow_dispatch: {}       # lets you press "Run workflow" by hand
+
+permissions:
+  contents: write             # needed to save which headlines were already sent
+
+concurrency:
+  group: news-alerts
+  cancel-in-progress: false
+
+jobs:
+  check-news:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install
+        run: pip install -r requirements.txt
+
+      - name: Check news and send alerts
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: python news_alerts.py
+
+      - name: Save progress
+        run: |
+          git config user.name "news-bot"
+          git config user.email "news-bot@users.noreply.github.com"
+          git add data/seen.json news.md
+          if git diff --cached --quiet; then
+            echo "Nothing new to save."
+          else
+            git commit -m "Update news log" --quiet
+            git pull --rebase --quiet || true
+            git push --quiet
+          fi

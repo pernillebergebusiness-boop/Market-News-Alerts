@@ -1,5 +1,5 @@
 {
-"updated": 1792622584.1514502,
+"updated": 1792624120.4106514,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,6 +73,78 @@
 ],
 "items": [
 {
+"key": "3ccdd8e093ebf256",
+"title": "Microsoft employee headcount confirmed reduced by 5,000 for the first time in 10 years",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPOXJ2UTdqbVk5VUpsRWd2U2V6b0lwU2JFYlpLNXNreFRMVGZKTVNXS3QtSnYzcWM1bUxVakZkYndyV0ZRZjZLbzFwa1Z3aWJCeFVOZjN0WVozNXhGWDJtTVo5d1Qxcl9rV2Qtbm9tb2VGQXctOC1sNlZoM3JZV3hERzFtc3B3b0VENU5yZEI4VXgyUmZrTVRCNmFRV3FhczdIWmRmMFM1eDU4V3g0azNETGZlR1BGWDFvMDNILURqNGppMnRUaVg1OUMwMHVtV3M?oc=5",
+"source": "TweakTown",
+"published": 1792623915.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "26d912dbf1271a6f",
+"title": "AI Research Foundry London launches with Imperial, DeepMind and Microsoft researchers",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQenIyRDBCQWtSSTFvVk5tMVNTVEIwRXdCVE9Xb3IxMGJqaGEtc1IzR1BjaFJaX0d6TVRQc2xPc2hFWlVlTW5KemlGcjZwb3IyZjFIdk1QclFWVTE1ZFltaVo3ZFhuZ19KbU9MUzRsWllfMV90MnBzcnQzTUZEeUJDQkhLaW91SERyRHMzT2lub01KMHVEWl9yVFNCcW1HMTRoLW94QjhoQzU5cUdTa2xVdm5CNXlFS0V3NjNnSklCd0FjZzA?oc=5",
+"source": "EdTech Innovation Hub",
+"published": 1792623690.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "e1cbff1b1c1ec85a",
+"title": "Tesla Earnings Beat, FSD Revenue Strong, But TSLA Falls After Call",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTnZraWtJM1kyeXlrZjBuVS0zUmpIb1BiSDFKNXZpQzEwUkhRVUZuQWlCc2tlWnpIMnY0RUptNlM4NUVHeGxUVWtWY2VVM3l1cmRPS1RremUtN2tNcEVUVVlCMnRnbjZEdERDZ2Y0cFNudWJ4Q19wUUVIRmdiWFo0Z1h5S2E3YzJHTjVHTjF1a29IWEcyRGJHalY2NVc?oc=5",
+"source": "Investor's Business Daily",
+"published": 1792623420.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "4e16edfa0ceef66b",
+"title": "Tech Moves: 2 Microsoft execs depart; Kymeta hires former CIA leader; Alaska Air names CITO",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMWhmWWlIb09mLXRNSjN4dnptVVIzUUFVby1vSWV3Q1pvTk5ielFuekV1eVduLUxjekF5NjU0RzBqWUg4dUlrX21TWmJfcHA4NXlTTTFXbDZ0dnNGUFE1OWs2dzBUbFVWZlJ0SDZLa254SmhGZWxPdHJMSXpmRkFNUkdqQUVxTlJOVEhOeVh2cmxUbE5VaEtJbU84T01haUJnNzVFdFk4ZDRIZDJ0ZzlsY0IwaXI4b1lnZncw?oc=5",
+"source": "GeekWire",
+"published": 1792623097.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "2ef1c5a628a2427a",
+"title": "Tesla surprises Wall Street with lower-than-expected AI spending as SpaceX merger talks heat up",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMnBUQS0tNWFqQzJ2blowSlRhMk5MREtSemJPUFJrTkhvSnFKY2Y4QXdELXBsUTQ0WkNreFNjTDdBVHdYQnNRSjBmOENWNDI3bGtKR2JlTGN0MVFzQjhuZ1NkSk1HTmJIa3Z0Q0pzdUxRQVFBcW1ucmtkNmRyLWdadFdtWGpMM2hCNlBDRGRmaU9adDByNE1YeHp5OGY1Z3R3bF9sNQ?oc=5",
+"source": "New York Post",
+"published": 1792622475.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "944bc639198ea83c",
+"title": "Why Microsoft and others are on the sidelines of WA ‘millionaires tax’ fight",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOSWtZZGk4bWRSWThBVzR6NV8yY3RJaURTbHJvTnRaWkxDeHBBYllEWDE5OXBKc2t6LWw1OFBhTnR0b1FTUG9vdEVfMVRnczZxYTMyVzBxMUFtZWhBMmc5dlZoYTA3WmtuMTlNOHFnQ0szOEZkNmZCNS0yaW1pVTFPc2YxdlkwV2pzOTMzclFKcXJEUGdKZUR2OXBWa1BQMzRGWVR0OUc2blFkVmlVdlJZV2N2bF9Ganl5NmExOFJZMHdPYXk3V3J5SEhkN2J1aktjMlBaTmpERzh3UV9ZZGgyVTd0eVZPOTltM3cyZVdxNTVjaE51b1FN?oc=5",
+"source": "The Wenatchee World",
+"published": 1792622415.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
 "key": "b7e69c0cee139854",
 "title": "Nvidia debuts new AI reference architectures, development tools",
 "summary": "",
@@ -117,6 +189,18 @@
 "published": 1792621500.0,
 "stocks": [
 "Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "ceed2c2bb0b958c7",
+"title": "Tesla's Q3 profit drops as it prepares for possible merger with Musk's other public company, SpaceX",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSXdhQWprLWpWNjJ2VUVrV2ZDdngwcmprc212cGxBU19LVlhVeW92NHU2M1Fka1FydDduT0VoUXc4cFFWMGFTZkZ0eTE4bFp3UVJRWV9JRU9yN3JVU3cyWDZjRTN0NGdIX2FRSVNQVW5rOFhtV085d29Eb1h2NHR0YV91UzlMTWtRY2xJVFRTQ3k1cTZVcHN3SWV2OUtBUkRlVDBNSQ?oc=5",
+"source": "AP News",
+"published": 1792621260.0,
+"stocks": [
+"Tesla (TSLA)"
 ],
 "keywords": []
 },
@@ -169,6 +253,18 @@
 "keywords": []
 },
 {
+"key": "524140f7b8b77975",
+"title": "Meta Q3 revenue tops estimates and Zuckerberg says Muse accounts have topped 10 million",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQWFNobVotZi1HdTVweUNYMk9vRFhDSU5uQUZlUlZtN3cwTm0xU2RTX1lFc2psWjFOM0o0WVYzVnZiaU44eUYtRmR5SHpSamNVc2lGM254YklCNkN0Y2F5V0gtcVo5WTBDV1VlWXZFTFJNWVBPN0FqbkM3YzlhRmxtaHphNXlBcTNCRmJpdkFQQ2pqelZwSHh1MDlhbncza3JEbTIwMU9WX3h0bXhncmp6X1Z2WXd6QnVmTlZQM2lIUkRHSTAyUnNGbmYyMVNkU1dQQ0FvLTNkd3YtNWo0Z1JIdnlnXzlsU3R0T2JnX3lMM1JoZVZBSEtVbV9IVWx0UQ?oc=5",
+"source": "The Killeen Daily Herald",
+"published": 1792620265.0,
+"stocks": [
+"Meta (META)"
+],
+"keywords": []
+},
+{
 "key": "3b78591c0e5a1f81",
 "title": "Meta Q3 revenue tops estimates and Zuckerberg says Muse accounts have topped 10 million",
 "summary": "",
@@ -199,6 +295,18 @@
 "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPTzZuNC1Bb3pCYjl2cmZUQV9VdWpLcDl5R0VCc1VTUWdpemRxamMtX1pqQmdKc01LZ2UzNTBxNVdDNWJUdVpJdWxVRDVUYkxKdUoyTV9OV3M0U3Y4TzNMUXVYWS1fRmFaV3hZZzJzSXoyRnJrdVlNSXo3U0p4ZF94dnBJbjB4YnVKZk5nbU5YcElTU0RfeUJKTFZkV2FlZ0xmRjFTcW9WU0ZveHVESm1lZ3AxeGE5Z0g1MUM3UGtvQjJkLS1sdV9LZ2owYTJvRnFLVndMdTJJc2ZwUTBNcW5CLVFXVE9WRlg4Y1U0N2RTUXpQSTQ5d3JSQzZENkllOFBOWU5KMzNNakQ?oc=5",
 "source": "Marietta Daily Journal",
 "published": 1792620265.0,
+"stocks": [
+"Meta (META)"
+],
+"keywords": []
+},
+{
+"key": "71be7b93730f8feb",
+"title": "Meta Q3 revenue tops estimates and Zuckerberg says Muse accounts have topped 10 million",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeWxZRlZBb0ZKdDlmcm83Z2JxVjZsRm9kQlV0Szdid25vRmx2am1iQ1JsSS1qSkpBM3hmUkVUdkJTWVBOOHFnY2tqc3c0a3JzM2ViNVFtSFkwZmZfb3RqT1ZEbk45cm15VDJIX1JLeHl6UWNQenpiSV9abElpenhNbEhvV2wxQk1uV2RvZjdVeDdONDhNTWludUNLZw?oc=5",
+"source": "Yahoo Finance",
+"published": 1792620264.0,
 "stocks": [
 "Meta (META)"
 ],
@@ -553,6 +661,19 @@
 "keywords": []
 },
 {
+"key": "5353441089105bdb",
+"title": "Stocks making the biggest moves after hours: Meta Platforms, Tesla, Lam Research, IBM & more",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOc0JaU05EWGtzNHRUOHV4ZUlPSGxhTHFVUC1Nel9ESFkwODVuWUtoMnAzdW9wcjNSSndDTUpxU1VCbUN4elhFYlNFQklrWVRMTnhjVTVOUGt0WGhfdFdGMGhsb0JhaXFTOURGODczazhIX3dnd1dkQXpEVFU4R3pTM3JpMEIyVjVDcG5NYzRUM29iMHRTeTVmakM1S2dJQnFa?oc=5",
+"source": "CNBC",
+"published": 1792616650.0,
+"stocks": [
+"Meta (META)",
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
 "key": "fd90c7f3b56cccf6",
 "title": "UI switches from Duo to Microsoft Authenticator for multifactor sign-in",
 "summary": "",
@@ -561,6 +682,18 @@
 "published": 1792616584.0,
 "stocks": [
 "Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "e0b0d0501f0d26cb",
+"title": "Meta Platforms, Inc. reports results for the quarter ended September 30 - Earnings Summary",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQaFAwWjZoMDdkWnQzM0YxeC1DbTExZjNxQTk1WTYxV1hTLUM0TU1wT0Nqbjh3VjdWVk5HLWNVUUpleXNDczlTdTBzZmZXeTR3SF9JQlB6dTQ3WkVkQV9Dc3RGNEliTzZLdkk0UXhNTGF3WEc2M01JSlFmN1N1TTVUNTFua2VRNjEzQVhZYTROb2t1dFQzLTZaMnFtZEFZcUdKa0VaYlpuT0tEUGNVNHp0Rkt4cVBmTGpCbzVBbWhSRHJvcUdhUGNCRTZjb2N5dTVJckFLY0lPMm5IMEhQTUkzQkFUaHJHeFZsUTRTag?oc=5",
+"source": "TradingView",
+"published": 1792616542.0,
+"stocks": [
+"Meta (META)"
 ],
 "keywords": []
 },
@@ -693,6 +826,18 @@
 "published": 1792615902.0,
 "stocks": [
 "Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "fa1c6ee866ad0a36",
+"title": "Meta Platforms (META) Tops Q3 Earnings and Revenue Estimates",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSTFGVHFxVmExUmJ2WHRRZHBtbF9weE1RdzBreW5UdThWRHl0ZEt5ejR2VUVrWUxQOS1jQUVFVmRWbHcxYW40SjItMDhCWEx0NG5RNWlOX0JMUU1lYndyRXlwR29QZTNBVjg0eHhrbVNCX0VpUENjQTQtZV9nNjRkSVJSNTdKX0Q4NW81QlVUY0lHTlpXNC1j?oc=5",
+"source": "Yahoo Finance",
+"published": 1792615806.0,
+"stocks": [
+"Meta (META)"
 ],
 "keywords": []
 },
@@ -1053,6 +1198,18 @@
 "published": 1792614438.0,
 "stocks": [
 "Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "784c40ac28e5f45b",
+"title": "Meta Platforms Q3 2026 Earnings Call Is Live",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdjhJeC0zVWs1Q291cFpmQVBCZUpNdmlNcXgxbThoUzlSWXcyRmxjdzU2SUI2MjlZWVY0anFvbVVVUm00MmFOa2dQX0dqT2YyVVZIRU5rcHY0V2hscXRia1ZoSUZIRTZabUVBWklIS21lTUp6bkhZVTUxQUlHUkdPWFdXZTlaUk5CbVhmMjNUWWdHQXVFQ1J5ZkJBUWloTlA4cktGYzFZVWRpTEZqR0tYQTRaYw?oc=5",
+"source": "TradingView",
+"published": 1792614424.0,
+"stocks": [
+"Meta (META)"
 ],
 "keywords": []
 },
@@ -1442,6 +1599,18 @@
 "keywords": []
 },
 {
+"key": "c340873b84c7790f",
+"title": "(META) Meta Platforms, Inc. Expects Q4 Revenue Range $73B - $76B",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVlNRdjBsVjV6TzRVcnlyd1h0d1hFSV9BOHQyZDNHZ2kzU29fRjVvX1NSSHpiMmFkaE9WSW5TU1RXQW1GM3R5cVNaa3QzNURIT01RTW9MQlJuMXVoZGdmMC1EdjBwaHc2UDRtRVc2dzdxNk5RSEh6Vm9uaUs4blpEUFZJUmtSbVphYl9nQ0FkT2VkWlFsbE5lZEhUekNiNUk4TFhlS0tJWFh2Q0FGLVE?oc=5",
+"source": "www.marketscreener.com",
+"published": 1792613210.0,
+"stocks": [
+"Meta (META)"
+],
+"keywords": []
+},
+{
 "key": "15a42e654fe7296c",
 "title": "Tesla earnings are out – here are the numbers",
 "summary": "",
@@ -1598,6 +1767,18 @@
 "keywords": []
 },
 {
+"key": "5775caf478c9131b",
+"title": "Meta Platforms, Inc. Reports Earnings Results for the Third Quarter and Nine Months Ended September 30, 2026",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPY2ZGalhldTQ4S1FCOUs0b3RDZjBPMjRrZ21SXy1UZ255clhKR3Q0bndqRzN2N2ZYS01KSk5OZ3duN2tIYVZZLURjMmtfX2JsaGJXZDgyQVZzemhUSDNjUkdhZ0k0alpITXdaRUU1d0ZTdFBxbXkzSkVubC1KaXRxZDd0LThWNkpxRHdNbGVscmJ4cmNEYzRhRVdoWFRxRzk5eGpZVXRHd2ZGS1B4TGJlVFFaemRvQlhZWUd1d2JPRjRjSllXMzJvRXRVMktPVlBmemJIeDdBTkp5NWRzWDk1WENDY1U?oc=5",
+"source": "www.marketscreener.com",
+"published": 1792613040.0,
+"stocks": [
+"Meta (META)"
+],
+"keywords": []
+},
+{
 "key": "8399761a48aeb6ca",
 "title": "The FAA confirms if the Tesla Roadster will need to be classed as an aircraft as it's revealed to be a flying car",
 "summary": "",
@@ -1690,6 +1871,18 @@
 "published": 1792612311.0,
 "stocks": [
 "Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "2355d6c5dacead0b",
+"title": "$4,000 in These 4 Non-Nvidia Chip Stocks Could Be Worth This Much by 2030",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQd3VLbGVuR2RSSUVIUnIxTnZUcTcyZlAxSDI4ZW9zMjhfYnNGaGZxdTJreTJ3ZjRJd1dDR1NxVUJvUzUtQ1ZOVXp4Vkg5T3hiLUg5T3ozV1NwMTJ5M0l5aTFuellaNFZua29MdHc2ZDY0eGw0R2NNSVB5YjNhZ2dZQlI1bmIydlg5NXk2eFJtTmJmZ2UxRUNuaA?oc=5",
+"source": "The Motley Fool",
+"published": 1792612284.0,
+"stocks": [
+"Nvidia (NVDA)"
 ],
 "keywords": []
 },
@@ -1969,6 +2162,18 @@
 "published": 1792609204.0,
 "stocks": [
 "Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "3bce3f499b7019d8",
+"title": "Nvidia woos wary Europeans with more open weights models",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPak1QV1lOZ1E2aFdJVXNWRXppOUUyYzljYnNoeXdndzRRWU1zYkNvczl5T2h6U3BRbnNGUE9vRzVBN2VSQjhBeWI0RlZEbDhzWGhYWXFoaWE2MHRyT3I1RjVVNE0wMWxrWnl3dGJ0VEVyNnpHTFpvNFVHaWQxQng1Vk16TW5JT2VnZnlwTmlWRnJCWm9pWl9HUEc1dUZkZE1fejhySExYTC04b2lxamVSbTRaSQ?oc=5",
+"source": "The Register",
+"published": 1792609200.0,
+"stocks": [
+"Nvidia (NVDA)"
 ],
 "keywords": []
 },
@@ -4679,210 +4884,6 @@
 "Microsoft (MSFT)"
 ],
 "keywords": []
-},
-{
-"key": "60852118ca8f0052",
-"title": "Nvidia’s latest GPU driver brings a new way to speed up PC games",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaDBETHJXTWl6b3BJZ0lhT0w5VUVVVElKLUxDUnlyaGxfdEt5S01iZ1RrcDJTcWdXX1N4elJ5Z3J2emtFVDR5MVJ3V0VlNWcxbC1VM2RMdmtGWW8teUIweFowazd3ZllkVEU1aVFuN01wNXJfNDR1eHZCZW5BbUUyX3VPZU1veVZaaVJabE1ELUxDMF8tRVp5OGV3?oc=5",
-"source": "The Verge",
-"published": 1792588166.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "b43d7c907dd2d3d3",
-"title": "Nokia and Nvidia keep AI-RAN momentum going as they edge closer to commercial reality",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOUZHMDhFLWNsU1RkUzV1SHFQc2tRWDJXdmVhaFA3Xzh2UENwUUJOTXlScHJDbFBPa2pCb2NtVlZLTEZyRlNZekZGNGYxeVNDNjA2UXhOXy1TZk9IWXQ3NFdxcUt0WjVGOVRrRlkwTWZWeUN1dS1NV0x0M1lFdFhuOWd2YUpMS0lhdkIyVEcxYng1aDhYUVVnaGZPaWJVdHhJLXl1TXllVTZHUQ?oc=5",
-"source": "Fierce Network",
-"published": 1792588009.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "d57cb40e9598e1e3",
-"title": "SpaceX and Tesla Form Merger Exploration Committee That Excludes Elon Musk",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNc3ItLVBPWGtXTXpzUW1fdGZ2ckxQOGpCa0NZVDJXY3RqQlU3V09Xc0JRanMzaGZLMk51ZVQtRUpoRGhhSzlsQXo3VzhLREdacWxZNVljeENTNmUzcTMzMnNVU01yek9UZldYZUFReDdWcnQ4U0FyazVTeXVOeVNtMndLcW53UFl1QVAzTzlGREQ1LVotMmRjN21GUGFOQW1DUml0VUlLUF80UURRQkJ6SUhpbWkwcTh2?oc=5",
-"source": "The Motley Fool",
-"published": 1792587934.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "f97b1b95c1824c83",
-"title": "Keep Your Business Projects Moving with Microsoft Project 2024—on Sale for Just $49.97",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObFNsWFpTdnVkWTVOU0FfRlJ0eXJTdnZjbnRmTEI0MVFhOGRSWUxtaXlIOFJXWllmWldzWEhuVjFWakFRaGhOOGdLcVNKdUZ0a1RQamllbWdLbjdIVmtja2ZobFR3U2J0aUZLNTQ2eGYyTW1CRUVSWFBHUG53a3RITnlPbjJDWFkwRWMtNjdHcXZZZnFiRmxCaFJ6anFCYWFDMGdNNVFldGFIWjlUdTlHZU9idGpfRm04YU13VVlaNnA2RWE0MTFsWS1FOExrQQ?oc=5",
-"source": "Entrepreneur",
-"published": 1792587881.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "765f70a167ee44c4",
-"title": "Vaisala Xweather Collaborates with NVIDIA to Deliver AI-Powered Early Warning for High-Impact Weather",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVEtXLXRtRTBsTmlUMjJIVzNjaXQxd3lZSUhjSHoxQVZVMWJ0TFRuMjQwM3dWb2xOS2xCSUtpNlBrczg0VXpDc25sdXFwa1pHZjN4eXRDM1cxQ2FhSldRUFVTcHJVOUtOMXVhX1I3VG1jZDJVSlg4SkZYOXNuclBBdXd1ZFJLT1JydndCeHdDcUpaakhrS1RwbXpvUXZYcXNwYXZabjJzb1gxbTYx?oc=5",
-"source": "Yahoo Finance",
-"published": 1792587720.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "a8b533c8a9e27720",
-"title": "SpaceX Jumps 8% on Q3 Revenue Beat as Musk Backs Tesla Merger Idea; Rocket Lab and AST SpaceMobile Edge Higher",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVHp1T1d0c2VXY2J2OGREVkJpUFBSQWMxLUdDNjhLV2RoRWZUOV9qZ3pseVJSOVNfZGVWbkRXdHA4bTBFS3NOYlhIMkhlNXhERk1ld2NNX0VDdlVrT2JUNnFMWDlQRC1NejFUZnlmalZMMkdFa3NieDZvTnZicDl5aURMWHR0c0JmdXZBUnNYN1NSbEdr?oc=5",
-"source": "Yahoo Finance",
-"published": 1792587694.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "d6d56650f71d90df",
-"title": "SpaceX Jumps 8% on Q3 Revenue Beat as Musk Backs Tesla Merger Idea; Rocket Lab and AST SpaceMobile Edge Higher",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZWR2Ni1BdFM0UHBwZTczUENFb2p3NGZkZ0lWYVB1b3FhZE1acHJjTE1MVGlXNkRycHY1NG1jR1QxZjRmN000V3NnNkVONFlUT2ZqTmRlR19yczA4bzNSek5tVGxiWVUzVldiLVczdTA3Tkc3akx4b2NsWkJ6Ymwwa3dCN1NKWjZRZ3ZVMlFhVlVJQVJJcVhSOEM4NHVpUHBVVWhtWFM2U2NIYThRQ19NOWR2OFhxTEtFLXdVYm5xdVhwZjhfaWl1VU1MeGktbGdKdHhwdmpMYlB0SzVyeVlUWWF1V0V6anc?oc=5",
-"source": "24/7 Wall St.",
-"published": 1792587660.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "b7c1f2f5aae3cceb",
-"title": "Microsoft (MSFT) Earnings Expected to Grow: What to Know Ahead of Next Week's Release",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbjlpQWhTY0NBUTRLWDJSb2VnRWxHYWo3QzZzVTFzd0xuTzJ6MktWOHB0X25ROU1lWE9IWUdINE9nSEtQa2Q5WmNfMHBrRzRzNkNFY0IwRWlSUzBXM1RnNHdQNi1BU29pNTVIRXBNbDY5Vlk5aDhfY1htWHEyWExYWWxPUnhmdV9LWnBzQmZwQW54Uk84SllLMVdFd185ZS1KWTk5Uw?oc=5",
-"source": "Yahoo Finance",
-"published": 1792587620.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "fc4decdd2fbeddd4",
-"title": "Tesla’s ‘flying car’ draws public concern in China – and an official response",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZlhUSGpsQVkwWWxjMVpNc1FDY0gzYlFMaVFkRHJ1aHZBcmdMZklEZnhkZDVDclRUUkZBcHFueEYwTFRjVEczNVdZS3NGaXBFXzNtWEliTTROYS1faks5eW5hQWRwaTQ4bEJkQWwyUmxuWVFGX2F0cHYxeEx2MnpWQ3BVbWZxRlg4andwaF9QLXFycWw1eGkyTm5JWVU2VnNMZnV0TURlVWZrb2JIWkE3ZGJPaWR4a0ZWekpKVEZrU3pKMWM?oc=5",
-"source": "South China Morning Post",
-"published": 1792587610.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "58d445042ed31cc5",
-"title": "NVIDIA DLSS 4.5: CoD MW4 & Cyberpunk 2077",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdlZjWlgxaWpRd3ZoVVZjSDBmcFFfcGYyOVJsanJUZ0FrRWZPSE1PbVR4X1ljVDU3OVZYNFhYalJzeEttbHpyX0Y1RzZoMXhVTklpdUVqOGFvR09uaFFBNjlSMDFmV2xMZUJFZkg4dVhGaXJ4SzFseHZ3UVd2ZXV0LTB0dFVTY3FUMUFEQkduSGRmN3pFdUhrN0laMXM?oc=5",
-"source": "NVIDIA",
-"published": 1792587447.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "02068fe30503a044",
-"title": "Protecting Against AiTM Attacks: Is Your Microsoft Environment at Risk?",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeEtsYktCTkZpWVRTOHIwMUppRFhyU0Fpby1HTlZLc2ljcC15cW5McmREWFBERnFNZk1LYjNfcTRUNVpxaW9FdDEwVWtRVVJlZGV5R0Z3NWx4ckttcThxdjZjd0VmZVdNQ3A4c0hsZjA5SjVTaDc5RHdVck5lN3ZlQzdEanY4U3hOT2ZvMDlSWmR0akREdWx2Y1pjX18xTXVwbjRMTGh2ekNQYldm?oc=5",
-"source": "Security Boulevard",
-"published": 1792587375.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "cb30441484253c66",
-"title": "Nokia Teams Up with Super Micro on Nvidia-Based AI-RAN. Here’s the Setup for Nokia Stock",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNeWhIaW0xLXVVX0FyVXB0anh4T0E2WHpOdnVBOFZDS1N6eHdCOXdPRFlXdXZOMU0wTVgwbnNlVFBITlNranFSYVBFMHRlLXJOc2pGcURHUVR2ZTU5YVNTbHhSbWZJUUxmME1jWjduMXhhMEIzckx0UEtxY3BFSzZTTFhqMngtOXByaGhZQUVvOUNvZWdtUzNwUGI0UHVLbVNZVUwtY2IyQUtvc3FDMEwwcFR0a3U1a0RsT1YwWEt5Y3I4RWE1T3I0RGdQUlljSWMtUGN0RXh4OGhMNlpnakVrYQ?oc=5",
-"source": "Benzinga",
-"published": 1792587331.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "6ba4f950ca326881",
-"title": "SpaceX rises in premarket after earnings beat and Musk hints at Tesla tie-up",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNY2hwS09CT3pjMGJUNzlyV2M3V0lHNWV6TWZXVjExVWMyS1loaUlfTUZnR3QwWEI2OFVCUmUwRGZYN25XZi1Wd2VmbF9vMm5CZEhtZ3VHZUdCRU1YR0p5YkF5V1F6X3NzSG1jNU1wYXJsTWJ3UlpVcjkwUDN1XzBxdmtnUnpzdDNidTcwX3h1S193UnNEU1h2emJxZWZRLVF2a3BkN004NWFucnRIUlBR?oc=5",
-"source": "CNBC",
-"published": 1792587279.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "b75097acd69ac825",
-"title": "Nvidia Aims To Speed Deployment Of AI Factories",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcVFUcFRrREhOM2cyOEFQN25HamstcFl0QjB2YXcwbHlyOW1EcTB1d0ZjOW5XX2NWckpldVU1YVZ1VnNJeGZ1TzloS0VKN1dERTFmU21mU3RoM2RwVWVBMGh5WnBPRnVTa2JsUWE5U3M3QnRwYUltc2NicnNoVUM5Y0FIQ3pwWGxy?oc=5",
-"source": "Investor's Business Daily",
-"published": 1792587180.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "5a4bc2224e64c830",
-"title": "SMCI Teams Up With Nokia, Nvidia To Bring AI Computing To 5G Networks — Eyes AI-Native 6G Expansion",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNkMxVXBVX0tFY193NVRwd01jckhWQU9MVk9XZFp0UUQ5ZzdxVXR1d0lZbEZ3NUNPSmJVTWdvY3g0akdJNlJBaktyTzlTV2xEVmRycThYY2tadDNFLV8zSGJtLU55eGt3UDFIZkQ3VERMcUJjSTlfSDJtaFIwbnRYWllnTVE2WmhPUUtoSjlVT0ZxWlVmNFAycQ?oc=5",
-"source": "Yahoo Finance",
-"published": 1792587163.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "2cd26f4e5719f184",
-"title": "Day 1 : Moomoo AI analysis on Meta Platforms (META.US)",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQUZmOE1IOW9vVHlWUlFpaGhXSFdqWXRfS3ZVRnd6cFBRYVlJMThaQVlSRjQtLVR3UTNMaE9Ea1JXR1BrMTR3bzhXcUd6WHZUUDdHVm9EbVZkbXVtbzVkZk12RlpyMzlsQWsyLWlzYW5mUG5CeFZKcVA0eXM1SjZtSnpXSDdhM3BIYjdyYXZuNm9ScXZDYmRES0dDcFVqU1ZEbURhdzB3aw?oc=5",
-"source": "Moomoo",
-"published": 1792586977.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "715ba9856ef181f6",
-"title": "Oil prices little changed as traders assess Middle East developments",
-"summary": "Iran's Revolutionary Guards said Tuesday that naval mines had prevented three tankers attempting to pass through the Strait of Hormuz.",
-"link": "https://www.cnbc.com/2026/10/21/oil-price-today-wti-brent-rise-on-middle-east-worries.html",
-"source": "CNBC Top News",
-"published": 1792586935.0,
-"stocks": [],
-"keywords": [
-"oil prices"
-]
 }
 ]
 }

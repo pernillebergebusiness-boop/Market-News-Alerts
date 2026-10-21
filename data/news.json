@@ -1,5 +1,5 @@
 {
-"updated": 1792579337.557323,
+"updated": 1792581254.5742278,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,6 +73,306 @@
 ],
 "items": [
 {
+"key": "48442563f96f12fc",
+"title": "Tesla and SpaceX form board committees to review a possible merger",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9waTJMLURCb19UUlNVeE43WEtPWFZVMVpNdXZQbFFqZ1ZpZHJpMEh2ZzZkaUpSakpXZ0VVV0JZUDVkM1lFbmFSVUl0dGFjb1hqM25Dc0pQaHJTSWlrcVJKbm9qZzVhYS1xakQwNHpFT0dPcTFuTXc?oc=5",
+"source": "Quartz",
+"published": 1792581128.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "87eb1fbcfa0f2026",
+"title": "Nvidia’s Jensen Huang Keynote Reveals AI Data Center Quick-Fix and Winning Stocks",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmUDhYeUJnWWhob3owVVl0czY4VWFJck5oTk84ZHpJa2tFaEd5TElmdGJRUnl5bEcxVTZ1S21QcEUtY2QwZ2pDaUdmemNzdlgwRnY4QnBIVG95dTkzOHRaaXFaX3ZRdE45RTJQb0FiVWhZdE5UbE15elNvTWpPWFE?oc=5",
+"source": "Barron's",
+"published": 1792580700.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "4836183619bf9652",
+"title": "Piper Sandler Maintains Microsoft(MSFT.US) With Buy Rating, Maintains Target Price $610",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNb0ZCZW5ORkJVbll2X0M2RFRVc1VsTlNBekhJeWp3VDhock56d1ZUNE56eHFoMDRlSUZrbTZXcHF3NHAzT3M0ODlQMDlTLVFlYWJsb1p0QXdzeWVZTV8ta3Q3dXJOX0ZBNDdodi02UVBYQmU5bUdmNE5XZHZGaG9RN0w0Tl9wVFpXQTdtRDNXMVJvZHBPU2FzLWJtRG9jYXVSQWN4Vmo0c0xyZmRWVUVTN0w1dHZ2SXBk?oc=5",
+"source": "Moomoo",
+"published": 1792580661.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "4d7213157d6ed6b1",
+"title": "Nvidia says its new AI data centers can stay cool using almost no water",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOX25ha3hKNUZNaXRtNUVLTEoyTUNqS0NCamRkWHd6U0xxZXJnZW5HandHMnY5TkEzSHZaQ3lCLWRvTC1ic1Zhd0ZOSVN5Z19zTHIzaUp6QmhsUFpJa0diUVNzdTJSMzV5bk4zcUloUnljeE84c1JVTjNzWm1wUmI0aE1IdFZWNFFG?oc=5",
+"source": "Stock Titan",
+"published": 1792580650.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "3524ba298df6110e",
+"title": "45 ETFs Add to NVIDIA (NVDA) Holdings on Oct. 19",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNXNtTHp3OHlDc0ZXbnhycmdSVExPSzU3NlJ5b3VwbzlRVzN1Q2MwZGxTQV8tRjVYeHlMMkg3Ql84cHF6LU4xUm9HbzUwbmtvRDhnYk9fUVBMSEpRazFaaG55QmRuV05YSUs0LUxZVWNUcXpFbDFMblhYUjNIS1pPRktqTENXZGlEM0pwRnA4YUMwZw?oc=5",
+"source": "Yahoo Finance",
+"published": 1792580437.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "9f742a55a685a593",
+"title": "Microsoft says it’s optimizing Windows 11 for 8GB PCs, so I tested 26H2 on an 8GB laptop",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSWFSU0xfOTgycHdHbkF3LUpQaDY4YXNDS2dNemxTNmNSZlpkZk9sYnBZWTl2bWtXbWVIM05abDdRVzZYMVFVRjhJNzBtYUhHai1VbUowY2tzYXVDTlBfUmp6QUJjc0d4VWV4ZGg1MUZLbDAwRVJjSjFzWC1mNmZvdmZ3cTBFeS1JNEJ1WnkxUTNvNkVoejlUZ2swU01wc21UYy03SmlndThUOWROeXRPc2N0Z2NXV0w1OENIMVdJeXF1dEN3TXp3?oc=5",
+"source": "Windows Latest",
+"published": 1792580432.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "d45a67e3a8f09e68",
+"title": "Altera’s 100G FPGA-Based Holoscan Sensor Bridge Solution on Display at NVIDIA GTC Berlin",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOX05kc1lKbXVrSU5xM19mZXBxM3NjclZMWVhwMjBMeDBUdXZOTVBnQkwwa1ZTdEFNa05uOF9yby1BcVRCVHlTeWxrdXRMVEVzTE9HdXhqazBmU3drN0p3QkdqeE5ha0tZQTJDaWFzQ25UaHpRZVd4dHY2Tm03a0xGOUZTdTlDeUpZUnhZazVtSm4tTEpNaEpMVmZwNlF0cmxMRkFHS1Vwakdaakw2WE1OTHQxWkFzWUJqSzRmel9GM1MzRDZJNFRWbi1SUEhRaDJSWHFvVk9QVVJpc2xr?oc=5",
+"source": "Business Wire",
+"published": 1792580400.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "a536f125ef472c90",
+"title": "Nvidia launches DSX POD, aims for modular, preintegrated AI factories",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNLXY1ME90UXdFM3NMRmZjdjJ6UDRsWW8zTU8xS082YVN6RE5DM0ZCWFBFVEdETFZGbnF5UG1xSEl1UldDNE9RUkVFSnYzdGNQbWRZRFdfNl83UXhTdXppaDZSc09DX0pRR3JMNVpwWFFTY25VbkttR0pGNm82eE0yVHZkVlRuNTJIRHlMNG1HNVBpTDBCOXVib1BILVNTU0FRYmpoaXFKcThwemk0?oc=5",
+"source": "Constellation Research",
+"published": 1792580395.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "af47e9f13dc3f519",
+"title": "Elon Musk Says SpaceX and Tesla Are Exploring a Merger",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZWg4ZGc4eElFTUc3STkzZnNLZ3hoZkVQWDMwbm9MMnFpRFIyYTV1OGh0NEo3RFZxUExBOV9fckd6SlV1WjNPTGdnbm83LTFpRS15elZOeWlWajI1TlhvQ0pSNVdLNWptMFZyRjZob2paWXFObkhOR1dFNWpUdUZfcWlHUTg?oc=5",
+"source": "The New York Times",
+"published": 1792580316.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "17d4b14263c9077b",
+"title": "Einride expands Nvidia partnership to deploy AI reasoning model for self-driving trucks",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZEFIVWxsdm9QSkVrWDY4UTgzc3RXRUE5YWZTVmRkaWlzZHR2THozNnA0Rkx6dWp2QndzaXdoMllsM0V4WDZEZW9XZUVKVnFicHp5eEhEbkNNNXVvZFlJZW5hVjhMcklwY0tnWHhsTWx2amd6V2RZSGY2RmVGNFpJVnRIcG1jQ2ZEYWZNd0xfeTRmRGhRSkN5WWpoQjhqM00tenZ3U3VvUXdmTUhpTVNvUVZXWUQ4aW9yVlFvWHNmdXpKeEk?oc=5",
+"source": "Reuters",
+"published": 1792580263.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "550321c462d7c1b0",
+"title": "Bitcoin advances as SpaceX, Tesla explore a merger holding 30,000 BTC: Crypto Markets Today",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTVFlN1FDYWE2WkhLODZ4bG41bUlkZXctNy1qdWFYeG5HY3ItVHlQRmp0QU84OXlYTTAtZHM4WURtRTNjTVd4aVJvV0tHOUwxV3NDTlozUXMzcFVJb3VDWkRNeFBzdlN6VF9nM2F4TGdvUmtKWExycXU1NWpJenlHMW9YRzhRekVUajNuLXl1dXh6cjQ3RUdMRDZFZTN4Q0paQVRYUUsxanQ2a3JwRmJ5MnBVb1VDWnRHT0ZhSW10ZG9wUFE?oc=5",
+"source": "CoinDesk",
+"published": 1792580197.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "67e9774dc34ed05f",
+"title": "Microsoft Q1 Preview: Looking Beyond The Rally (NASDAQ:MSFT)",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaUFYRHp2X0RZUXU4Mm91d3NHLTJHUUlFWTJVNlFIdlV4TE9oaXRxeVFhTk5KeFhBVnUwQUh2Nk1ZbmpqV2w0VFZhYU1Hek5ULWdFTGVfbll0NW5JQ1FiU1dnZEFCdTh6bWM4YnRKdWNlblBxZ1AxTllPMmM4Qkk0VlpJMXZuMUFuNVVJSlRxcw?oc=5",
+"source": "Seeking Alpha",
+"published": 1792580192.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "78889ab9b6649948",
+"title": "Microsoft expands sovereign cloud offerings as data control concerns grow",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVVNvQ0pHZXlZNDUxelhNeWJRZ3ZIclNjWE5CcjF1M2lBbHVzc014WjRQcURCNG55WFFTeGVsOFlLUk9IOFdjZEpzTzNLNnRUdVREUFB2Vm9pcWJaTW5nd0pGakUwRzl3M25wZ01PZXkzZ3h5cEp6LWVlMjMwYzVQQmhKcENPaE1KVFRLS2NVTTByeVY4UmhicE1QZlZjZ2ptNVJ1M3UyZGI0d3ZPNUgxWENlQlA?oc=5",
+"source": "CIO",
+"published": 1792580092.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "472358e043a6f197",
+"title": "Nvidia CEO Huang Pitches Europe on All Industries Adopting AI",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOa2NBYnZUQnZwdTlyUF9DUzJDbkpZZWpNUUFVM19KR1NoYTIydmhydjlfT01GamRFSE50cmdfMXJXcUFhT09NSDlsZEwyOFIya0JJLS1nQVZBWng0eTYwUThiU1JZVURnVmhnYnVXT25iOVFtaTNHaDNJVDlmaW9WUFpUbEdKYUR1R1ZxTzFQUHJvLVdKR21zY1pnVU4yZjhtQmg5MlRWMjFESG1tazJLWHRfaTB3WTJtcnBHUzVZdk95Zw?oc=5",
+"source": "Bloomberg.com",
+"published": 1792580047.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "b756bbacd619401f",
+"title": "Google Cloud and NVIDIA Announce General Availability of NVIDIA Vera Rubin Infrastructure",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBJNE5tbERxR1F1VWQtQUNPNXppNGFmTlZremNiRFNwclFHeWVFVkUwZXdZU1NhSUNtNG5uRUIya0lMNkw0RUExOTFmdVJWc1Q1djRDd1FVV1VlYnpHVzlfdzU0MTNTMDA4WnJ2YWdkMnItTndvYko5NQ?oc=5",
+"source": "NVIDIA Blog",
+"published": 1792580039.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "3713861d41a056a1",
+"title": "SpaceX up over 8% in premarket after earnings beat and Musk hints at Tesla tie-up",
+"summary": "SpaceX shares jumped after the company reported surging revenue growth in its third quarter, and owner Elon Musk floated a potential SpaceX-Tesla merger.",
+"link": "https://www.cnbc.com/2026/10/21/spacex-spcx-stock-musk-merger-tesla.html",
+"source": "CNBC Top News",
+"published": 1792579959.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "fd41bacfc839e616",
+"title": "SpaceX, Tesla Study Potential $3.5 Trillion Combination",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaUV4MW44VVNuRWh1dF84UXlZUVZ1RTBKVjVKMEVTZTgzeXMxU1l4c0xDM3dJekRFb292Qi1jdzdZUm5wbGhyZmw4U0FwYnY5UVVkbWtlb0VUYnFQN3hKOHdZZkEzN0s5dE80TXhNZHM5anpaTmh6TWZpajBfQU5CYTZyZ3l3LVUxZkpwWE9BdlFVWE5KLU1pbV80WEN3MmxVTDkzLVFCVzVQeUk?oc=5",
+"source": "Bloomberg.com",
+"published": 1792579952.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "1a237b931b695b85",
+"title": "NVIDIA Confidential Computing Expands to Securely Scale Global Infrastructure",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRUtuNl9WRkxzZERuS0l1RkRIbHBKeEw0bGt1WlM4dWJwcklvQzQydklHZmFlNWdVQ3pub0RoSE0zMy1wbjJXYWVTQVgwbTFpOGliMkRSeGxTcGVXX0dxcEQ2U3FCVVhhVDVrUk5SMHYxMldHdzBXc213em1ESVNCME9SMGNLazhfUUM0?oc=5",
+"source": "NVIDIA Blog",
+"published": 1792579950.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "832d1848f95704c9",
+"title": "Aker BP, Hoegh Evi Win EUR223m EU Backing for Atlas CO2 Storage - News and Statistics",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMWVwbVVORHZESExoSElKeUJpYTMtODhfREpOMk9HMTNuY2xHZGVsV2dDOVBKQ0s2ZUxkVUFmc2YzZTlIbDFGT0Q4bzRBWmFIV3hsZDBiWWdRak9FdjVlVzlNYWRXaUZiSUJKRzgwUWNvTEh3bTY2YW5lTmpLWXVSMUsxY1VTQ3FQZlFnbXBqYW1GZFdPaXJncXFRNlBra2lBNy1HR0dlM2lhZDBGZVhaUU93bUJCcktuUWRON0tmSQ?oc=5",
+"source": "IndexBox",
+"published": 1792579851.0,
+"stocks": [
+"Aker BP (AKRBP)"
+],
+"keywords": []
+},
+{
+"key": "26759c88212d6b5c",
+"title": "Meta Platforms (NASDAQ:META): A Growth-at-a-Reasonable-Price Screen Case Study",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNb09rVkphZ19XM193c2tTbnpJTEhmMl9pVGpwbzF3MFBHT0tPOTVRdFRrU2NsWGxVbWotbEtvNmxKTnVkamJEa2tVM1puYVBQSG5iTmRDWmEtNmpNeEtCZ1Z3bU5tVEpnNWp5alJBalJDQUJRRGtYR3FPX0NfU3IxTHRRSk9zcUVUVjFxcjR2OTNqODcwNTBBNzRKNWJxVGRGRHBPVTRYRGF4S0VtWmZyVm15Ry1KVWszNGFHVm53eGQyM25N?oc=5",
+"source": "ChartMill",
+"published": 1792579847.0,
+"stocks": [
+"Meta (META)"
+],
+"keywords": []
+},
+{
+"key": "0675e7b70846ffe5",
+"title": "European Leaders Turn to NVIDIA Vera CPUs to Build Local Infrastructure",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5FYUwwTU5lNXFTZEhQQUxtWnNRdGRFTGpnRGg1Q1lLSm9BU2R0U3dKMXJDUDZRMWJ3MElyWUtBMHNJZWY2QS12WGwzRGVScXZXb2RIalFyQmNCN2pPcV9NU01CUjZHdG9GcnA1bURLLUwyc1MyMzVESDdMUQ?oc=5",
+"source": "NVIDIA Blog",
+"published": 1792579739.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "d91578906774d948",
+"title": "Elon Musk replies to question about if the Tesla Roadster will be street-legal after reveal",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9KM3JFbDhXZ3pGZEQ2V3A0a1VleVZCcEpJc20tUlN2NXR3blRzdUFzSmNwQzdrYllWTV9uazZYY2UxZG5UanNhQVRKQnFUTGxNNGM5a2N6dnVjMXpMdVFvdlBmbGZZQ1FjUjhCdE5uSzlwLWhXbW9yUEp1Sm92UQ?oc=5",
+"source": "Supercar Blondie",
+"published": 1792579680.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "ee0431ec6dc133df",
+"title": "Windows 11 Home and Microsoft 365-Loaded Lenovo Laptop Hits an All-Time Low, Now Costs a Fraction of a MacBook",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPY0M2TU5uMVRfa0ZveGRzMGdEbTdwX3JHUGowWGVYLXc3V09wUEhUaUVDVXluLTVBdjFkQ0lvZUtNbGFFVklWXzV2SHVvY3ZOTWh0b2JhVU15NFFGY2E2TTQyVmlBbWdNQXpCNXpKRXVJSnJvdTRyYWVLTG9Jek5VUFpEM2pxc2s1ZTJuMy1jT25Rbjg3M1haWGxKQXBhVGZTZU1SR01zemhvUkpLZllvRWVxeFk0ckZlemFTYXRUdldRbUtIX3ZuMG56Umk2ajBRR1FsSDJn?oc=5",
+"source": "Kotaku",
+"published": 1792579548.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "1236ae0d68220521",
+"title": "NVIDIA and Supply Chain Partners Expand Capacity to Accelerate AI Infrastructure Buildout",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbFl2YjlqcF9vQ0s2QkdFMDBxNzdVT29ibDFOOUhxRlZhSDJmY0M4VENxOUNyLVNRdEFEcG54RkdUSHk0X2c4V0xOb1d0UmI3aHdSR0d2V0hRd2lQV0hWcXJfcU5vc0JzcUdOVzFTMl9XQjNaamF6ZTZSdWZuOU15RWVRNnBIMUh4c0ZfVy1JcDhUR0hGczl3UXBmcjc2ekxrVW9YMXdHU3lBYWZBMmxhbE5ScnFYTUhRZ0g1QjBpRmxCQQ?oc=5",
+"source": "NVIDIA Newsroom",
+"published": 1792579382.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "ece4bb327ab6902f",
+"title": "Microsoft's Project Perception Adds Controls for AI Agents Acting as Insiders",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kZlRnUTZqU25EM0IwbVpoY0tCVXEwWTVTMmxGdzdfY0FwOEljVTlXNHhIOXV6ZTQwb2dmbERPTXROQkFZZW1LeUVoVzRVZ1VvZkJvRnFUNVlIbjZWZXRNVlF0d2RsNEdaTGdlMmlNRWpZbjFHRmlUMXJPanVVenc?oc=5",
+"source": "eWeek",
+"published": 1792579341.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
 "key": "dcff98f45b7952e9",
 "title": "[Live preview]Microsoft Q1 FY2027 earnings conference call",
 "summary": "",
@@ -81,6 +381,18 @@
 "published": 1792579156.0,
 "stocks": [
 "Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "0183d18ee5a958e7",
+"title": "NVIDIA Cloud Partners Scale Across Europe — Sovereign, Open and Built for Safe AI Agents",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMzc3ZkVrM1VNUndSTEE5NGl6UmRQVGdzUS1yck5nT094Y2ktNW5IZ2J1TjI3S3J6dFNqOXRacUxwR29TY19CeHpmaUFaX1RPaTNVQ0RRY3FoVjFKYVhVbWJ2Smd0TnozRWcyV2hqelBmdFRqeVFYbDBUWGNIcTMyTTQ0TEtvMnJZ?oc=5",
+"source": "NVIDIA Blog",
+"published": 1792579136.0,
+"stocks": [
+"Nvidia (NVDA)"
 ],
 "keywords": []
 },
@@ -313,12 +625,36 @@
 "keywords": []
 },
 {
+"key": "243532e8028c1f90",
+"title": "Nvidia Reportedly Discusses Investment in Firmus Grid Following Cancelled Australian IPO",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOM3NYSWNvRGJqX1lpRHJhajdWNHBGamZUd2o5Zy1sc211Z05ibEVfTW9nQ0wzR3NrcEtIYng1VURtTS1Kb3BCQWVEbnBjVDNwZ2VCSTh2WUlIRVkzSVBqTDkxQ3NmSlFqNjNJVXJEY2EzOWh1dWZxbVFlRUhzSGJIc3Q5UkRDcFpYbExTM2VhRVZFYWY2V1VLMUFQTXJXX3pqSWx3M0lISVRkRG5UUVE?oc=5",
+"source": "Yahoo Finance",
+"published": 1792577434.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
 "key": "4a50d82881545be4",
 "title": "Germany Nvidia",
 "summary": "",
 "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONGRWVzBWb2dPMTRlZGFxVWwwWkw0ODBpRUlRR2lCc1ZObEtvVGZqaUV3QUZGYlpIc1pJOVB0ZURkYTdWT3RQZlhsT1dFai1ndFIwZEZJcDZSRnFkQjBiaDNWajRXNmJwMW82SnhwNDF3N0hJN2hPQXpWYU9NTmN5TjRJM3ZUN0ZORXhGWXZFNGlGaTlGS1E2cVZMWUpZUnZNUUE?oc=5",
 "source": "WV News",
 "published": 1792577430.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "5c2fe57b9f844b77",
+"title": "Inside NVIDIA Sentry: Secure AI Agents at Runtime | NVIDIA Technical Blog",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTzZaM2JEbHNuaEZ2SmZSU29EZlA2QmthTEdJNWVScVN3VmVvYl9NNDZqb0tTcFU2S18zMHBLd2ozQXhTU1d5bGF4d2pJRENMc1Zya1lpZTRuNlQzaGVVQWh2bmtIbmNXbHI4SWM3NDhVNXlOVUZpTTdHZWc2SmRlQWc5ZEdmMTV4N3Bz?oc=5",
+"source": "NVIDIA Developer",
+"published": 1792577419.0,
 "stocks": [
 "Nvidia (NVDA)"
 ],
@@ -409,6 +745,18 @@
 "keywords": []
 },
 {
+"key": "2c2c841b3933ff7f",
+"title": "NVIDIA to speed up AI data center builds in Europe",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQR0RycWQ3aXFjT2hNUnItSE9qV1ZncEgwaHBadEhjY05BVHdCRVlfUS1YcnZMb3ZMY0pQa0ktWll0SXZrSzl0d3J5dVVNby1HaTN0RXdlQ0R5cFJ6TzV1RF90ZmFSVjNJZXlubmZPM2cxRUFESUNNSl9Lay1kbHdtRnVJUnNIYm9oc05WdGtJYkFOcUlyVzVNYVFYOA?oc=5",
+"source": "Breakingthenews.net",
+"published": 1792576920.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
 "key": "8f1408f899b0c705",
 "title": "Ross Gerber Says SpaceX Could Make $420 Tesla Bid This Week - SpaceX (NASDAQ:SPCX)",
 "summary": "",
@@ -439,6 +787,18 @@
 "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMVhkUFVGZkxlUFhvOWM1a3Ywai1teFQ2T21UdHBWWGdYR0pzbEN5V2hWY1MwQk9xT21sb21TTHB3WW5qTVRrYW9lbVpQOG95XzVtQTlkT2R4enpTU1drM0JVNHFLRGphdzNpY1hFVEt3UGxzNWlwNVJ4SWI3UDhlWi1uVlVkLWNKQXB5bGhyQzZrQ3NUZDZTRWJIYkx2TTI4QjdIdXU5Nkc2ZkpfRnItUQ?oc=5",
 "source": "SDxCentral",
 "published": 1792576658.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "0d66ca2fa2a1f1b7",
+"title": "Jensen Huang Nvidia GTC keynote disrupted by Greenpeace protest over chips in Russian drones — 'What are you doing about that?' heckler demands before being thrown out",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQZlkzUnp3dWdTZHMzRVZpT1o3N2VQSGFONlV2MDVabTA1d1h4NGNjZlFES3JDX1BuNGc5SGRQcFFiMmxUeUVfcWp4V1V5X0FVTGxzMXRVUjZDZFFuVVVBZXIxWTlSYU14all3b0h1U2hIZDNFUUlNOC1LN2ZOazVCeVFtTlB6NFlVaFUtNFNpZTNEN3c4NVZzQTZ0VTVEbldRWHVUSFRvME5qZExLU2xBVW1xUmt1alZQSFlsM1MyWFNUV25IZWRmRE9OLWNlNE8xUFpGVDdsY3I0cllMMzN3M1ZKSGtKMWpFZXgydnpKY0o2UXppRHpmXzk2OFJNeVdXMTc2NzFtNl9IakJmTUYwTTFIS09FenBCWWd5WDJuUGlwTUlieHhLaGpCQkVhZw?oc=5",
+"source": "Tom's Hardware",
+"published": 1792576626.0,
 "stocks": [
 "Nvidia (NVDA)"
 ],
@@ -633,6 +993,18 @@
 "published": 1792575639.0,
 "stocks": [
 "Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "77354e3624fde243",
+"title": "NVIDIA Unveils DSX AI Factory Platform to Cut Cooling Water Use and Power Consumption in Europe",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQR1ROa1BnanRrdU8wV29yZlVNdHZBRWpZRXRaenJqbnVmZmExOXRrQllUQU11UTc0ZVo5aTc2WWVIdDZkYmZObENyTTlRalF5RkgxVzFQMjNDbFVZNDFDRU1ZMURacG5NMk5UaWo4aDBuS0lPNXI0TkJqZDkzNUlJQXhiX3gzN0xkaGFyZDNzbVpVak92dVVyRDMtdlhqSWJkOENjckhHcXk3bGowVXZSc1hYS1FsSUJidzZ3TDdCRmhlaGd4TXVn?oc=5",
+"source": "Quiver Quantitative",
+"published": 1792575600.0,
+"stocks": [
+"Nvidia (NVDA)"
 ],
 "keywords": []
 },
@@ -1125,6 +1497,18 @@
 "published": 1792572400.0,
 "stocks": [
 "Apple (AAPL)"
+],
+"keywords": []
+},
+{
+"key": "e57d8f14338a0a18",
+"title": "Microsoft says AI is causing a workforce rupture among British businesses – leaders are backing the technology, but workers still aren’t sold",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQWURVdEFLLUNJRHJOX3F4eE5EaDI3Ulowa3Bpazc5Z3h1SVFaS0dtX1Z4SVctM3JiRDZyQ0VZSElFeU5XVGh5ajh6NFpsSFR4bURZSk40RU1iUmNXQ1pUbXp1Sm8xTmRHMVBBOUpjdml2YlBLTWVDQ2FmclNqN1JXbjNXQjhmc3FRTHNRa3lSOVlsX1lrTjFuejA0SHZXRXF6aUxSWUlaNExZM2lCb0RvMERueFNTTU1wbEZ5d1dTNjdybGRzcnAwc1dnLW1iZ3RkRGlPZ3ZLTTZVTHhMYlJ3Yy1hdUI2ZFZKV0E5Z2VUYmlzYmpRaWd5UWZZSTd0VzRVc2RZbjg0OWVUMy0yRVNueTVHMkE?oc=5",
+"source": "IT Pro",
+"published": 1792572385.0,
+"stocks": [
+"Microsoft (MSFT)"
 ],
 "keywords": []
 },
@@ -2278,6 +2662,18 @@
 "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYThvN1pldjdVZkw3SGFTNFdmNUlrRVdTbDJsZHNyQm9SMlpBVTUwdWJFa2JfQ19yLU9nQU5oSENsVVRnX3NhcW50RkN2ZFN6VmZvTkN5SllCcUUwV3NjRFNmeWF0TFIwQ3J1Q3g4WUZfRXFGcjg4UEhOV1QyczZ4bE9kRzZtaEM2THBkVmVDeXZZWlJ1T1FUcUFqcV9Uc0VQcUw3dUY0NEpSeWp4Sk1B?oc=5",
 "source": "Trefis",
 "published": 1792563193.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "99d47f0ecd3b51f4",
+"title": "Nvidia Backs $164.5 Billion Of AI Data Centers To Keep GPUs Selling",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORzEtQWNYczk2V2k2OVN6Z3Z1MGJQWU1Md013OVZfVW05a3c3d05NYU9sWFU0YU5vUVZMc2I5N0t3YkFwTXFNWF80cVhpTVQ1bzJhS2lMb0xTakhKbGVUaEllaml1ZnBwbGhnWGNXX0MzYkFEY1VmSGh3LUxDMXlsOHl5ZzJTMDZYQjh6VzV0dHlucnJN?oc=5",
+"source": "Yahoo Finance",
+"published": 1792563180.0,
 "stocks": [
 "Nvidia (NVDA)"
 ],
@@ -4477,402 +4873,6 @@
 "published": 1792533907.0,
 "stocks": [
 "Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "31a8da9818b73fea",
-"title": "Merging SpaceX and Tesla would be a \"good idea,\" Musk says",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWGhHZE9RU25KN0dhc1puXzJKUHVwUWFITjZYQmZkV2R6Wm94RGdUWWhBems3S1BBOFhwbUNybFU3a2pXaHJMMWFtY1dXRk5MZzd5TFdkQ1B0RTJWTHF0ZnkzMkpKUFlFaWZVcmo3cml3RE1hOTRwVWdPbjhhS1gtQWxqc1R5SkFFMGFFTGtZX24yMWZ5RFNCbzdlNjVkd2J4VkM3MzNKdFAxUQ?oc=5",
-"source": "Ars Technica",
-"published": 1792533894.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "2abfcbaca3f26778",
-"title": "Making SpaceX and Tesla a single company has \"a lot of merit,\" Musk says",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWGhHZE9RU25KN0dhc1puXzJKUHVwUWFITjZYQmZkV2R6Wm94RGdUWWhBems3S1BBOFhwbUNybFU3a2pXaHJMMWFtY1dXRk5MZzd5TFdkQ1B0RTJWTHF0ZnkzMkpKUFlFaWZVcmo3cml3RE1hOTRwVWdPbjhhS1gtQWxqc1R5SkFFMGFFTGtZX24yMWZ5RFNCbzdlNjVkd2J4VkM3MzNKdFAxUQ?oc=5",
-"source": "Ars Technica",
-"published": 1792533894.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "830891f1fecf7f06",
-"title": "American billionaire Elon Musk's SpaceX and Tesla explore $3.5 trillion merger",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaE9USUpKRl9uS1JKa2VONktQQkVMSmRyTDIzcjNDOGNxWlVUMVdMMUF3ZWttZHZNTEg1dXBLS0FMWVkwRFIzOW5KSTZfZEk0aUVHVWhKaVJPajJMWDAwS1hfZXp3Y19vNXBWbUlNNXpjbG5iZ0o4d2VmZ01wUVZhYm9uSDdsY0FqT2JDUlFsT2tIOEhybWFuUzFPYjYxeVZWYlNudFQ5MFR2VEVNN3MwSkJxdDJ0enBKREN0Tw?oc=5",
-"source": "Billionaires.Africa",
-"published": 1792533882.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "ca7cc5f9d17f6164",
-"title": "Tesla and SpaceX Form Special Committees to Explore Potential Merger - BASENOR",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdWtackpnc3JhWHEwWU45WWZqX1BTY0F4RGVMTVFpTWNFRVI5QkZvbkZab0pjNXpkT0ZUcTBqU2tqZjYyUUFEdlR4RVRDemJjbXNBWklrSnFianBneUx3dHdwUk1qRXNjcHdlZXlVZnc0ajEzd2NQekJxOHp1S01FLVBXNnlJcFE5SkdpMkpvTnZIVTZkcVNYQ2MwOXdvWmNMNGpzQnNR?oc=5",
-"source": "Tesla Accessories",
-"published": 1792533881.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "daa17c55a7e3bdd4",
-"title": "NVIDIA RTX 6060 May Not Arrive Until 2029, and PS6 Could Be Faster",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5UbDNmd0ZuWG0zT29wWFh1V0YzN2M0WFJTY2F5VTF5THUzaEZDV0kzNVJUTWh2dkMtMF83MFIzS3lTbG51eE95NzBwUDVobFRPbmdKT3NJVlJRcUg1cVlXMUpzMjhKVGhXNUZDSVJodUFNd0VRanBmMjNDbXo0QQ?oc=5",
-"source": "ThePCEnthusiast",
-"published": 1792533660.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "e17288c7758024b2",
-"title": "NVIDIA RTX 6060 Might Not Arrive Until 2029, And PS6 Could Be Faster",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5UbDNmd0ZuWG0zT29wWFh1V0YzN2M0WFJTY2F5VTF5THUzaEZDV0kzNVJUTWh2dkMtMF83MFIzS3lTbG51eE95NzBwUDVobFRPbmdKT3NJVlJRcUg1cVlXMUpzMjhKVGhXNUZDSVJodUFNd0VRanBmMjNDbXo0QQ?oc=5",
-"source": "ThePCEnthusiast",
-"published": 1792533660.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "747e4f5fbdefd5a7",
-"title": "SpaceX and Tesla have formed committees to discuss potential merger, Musk says",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9lLWJUcHdJcDZvWnVoeGlraDVxSFRiRXZWQTlsRHhWeldSYm5IdUZkTkRTRFBzWTVzcDVBUjFuMGlVSWtsNVpHckhlVGNDTzdXeUVBZTd1SmFYTE5zMEx4NFVPYUlucklhOXFtYUJ3bWVRUQ?oc=5",
-"source": "CNN",
-"published": 1792533557.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "b4003a1ac485688a",
-"title": "SpaceX and Tesla form special committees to evaluate potential merger, Musk says",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVjRZbV9hcFdmX3V3S0RwME5fZU53RW9wSGxQOU91SVdIYUJJN3VMaFk1cHhxS09SZ1d5c0FFSTlELWUweUtDbkFZRVIwamVkUElRLTVjSDk3dmF0VGZqTXgycXVpbnREYW1NMFE5djBrdlBqNXp2LU1lclJHWENfbkRrNTRETkFFT1g2ODMtNnNvNUY4UTlSSE9KTm03Q1JlVUZIa0VwcENVaVliVzI2NHI4ZGtJbjFicEp3TzdzUUtZYWozRnBzU29EOUR2VmdPZGc?oc=5",
-"source": "Investing.com",
-"published": 1792533501.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "b87a41c67d4daf80",
-"title": "Tesla, SpaceX set up committees for merger talks",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNR0ZXdTcxRkpIZWZpYlRJM2p2RHctX0VWaFprdWYyYmhpZFkxVk8xM1JkWHZGV0hwZ3pnRTN2OG0wTnRMRk01Y2ttejhDNnpYQ0lYS2lhTHhObDk4Um90U3Z0M3ctbGtBU3p2UDNnOFFDU1h4M3BWRXFFWDM3RnZqTzcwMmlQVUloWkZvRXM0UDk0T1MzdFBr?oc=5",
-"source": "Breakingthenews.net",
-"published": 1792533480.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "5676a001e17d63cf",
-"title": "SpaceX-Tesla merger? Musk speaks on 'tap-dancing through a minefield'",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWExibkNMSmFqS0hwakdGaUxzd3c0bUhJeExNVVVSaEpUQTVhSmI2ZDJENGZMeDBxUFRXM3RZUDl1cEhIYjc5SFpCbVZ2a1BfSy05anR5cXRCZm5JODlqcXRQN2dsdF9qVnVXc0duTTFpM195dVJWU3psT3BibVNMc0pEZFhkX2FVbE5XeFhiSWdadHRBRlJDTzYtbEVsOWVuZjFidUpkQ19VSVB3VFZ5X1Q4Zw?oc=5",
-"source": "Yahoo Finance",
-"published": 1792533438.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "7807e004cfbc5384",
-"title": "Ferrari CEO rates Tesla Roadster launch '10 out of 10,' thanks Elon Musk for daring to innovate",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVHgtRjE1b3ltLWVET2ZJMDVuakk3ZWVaQUVxNmlRc0p3b0JZY0Q0SkNnd3VhaTBHYmc2TDRLVVFIbVBkZzJjQkh1cjRpMEVsY1FBelUwQWllcEh1YVZvbWUyTWxEUm1EeGw3YTF6NnhDWlpzRk5WdXJpTHJDRVpXVHl4VFlUcFI1LTZ5OEozYklSUFNILUxBR0lESFV2UDdvMXZyOXVfVHBrV3FTTnI0cTNtcXBSQXhYck8tONIBwgFBVV95cUxOZ1ZTZXo0ZXlBLXZhQkRhaTlYUXlsdEdDZVItVEZQbG03dHFZNkxWaFNBYkc4cjhydWVVM1dwdFJWRUp6OXhpeFJfcEhJZG5hQUMxakNXZ1h2Zm5DRjJ6UHlyMmRfRElIZWtNbDc3M1BKNjFMLTVRS1psRlJBal9VN2p6YmZOYVN1Vlh2bWZuN2ZkOFd0cTdnRlFMbXJYbXlzTmRqcDktX1VkbjlpNFpmTnlteGZvNGVScl9YeS10YzNMUQ?oc=5",
-"source": "Fox Business",
-"published": 1792533360.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "53b0e5460230a06a",
-"title": "Elon Musk Confirms SpaceX, Tesla Merger Committees, Calls Deal ‘A Good Idea’ - Tesla (NASDAQ:TSLA), Space",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRWd5ZE9uM0F3b2p2WjUybkUwT2ZQUmhBZDM1VnNBbm1sWXNaYzhYYUVZMnRwQk1LTW10bnl1MHQ0ZVNEenBRYTdUeUZqN0laV2c4cDVIYUpHblNnR3NQdGYyUWZMY21wNlBoaXg2TXpySlRUal8yZmpoNnBjYkZPSm9CTk1Nb0dzelp2R0puVGV1VUF6NGVlZ09VSlJmMDQxV2o0OVNHR1FNdTVsMWFNS2tDbWN4Um51MHdhZUFBbnlQaGc?oc=5",
-"source": "Benzinga",
-"published": 1792533345.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "37fdceede41daa67",
-"title": "Elon Musk Confirms SpaceX, Tesla Merger Committees, Calls Deal ‘A Good Idea’",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRWd5ZE9uM0F3b2p2WjUybkUwT2ZQUmhBZDM1VnNBbm1sWXNaYzhYYUVZMnRwQk1LTW10bnl1MHQ0ZVNEenBRYTdUeUZqN0laV2c4cDVIYUpHblNnR3NQdGYyUWZMY21wNlBoaXg2TXpySlRUal8yZmpoNnBjYkZPSm9CTk1Nb0dzelp2R0puVGV1VUF6NGVlZ09VSlJmMDQxV2o0OVNHR1FNdTVsMWFNS2tDbWN4Um51MHdhZUFBbnlQaGc?oc=5",
-"source": "Benzinga",
-"published": 1792533345.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "feed7da2d05cbf11",
-"title": "Musk Says SpaceX, Tesla Have Formed Committees to Explore Merger",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZXlJeVRqb0VLTDJOLWw2REpwUWcxbnkzQXZWWElyYVFyNzRoYWhudjZwazV2dnJ4OFJONVRMaFpTXy1PVFl6RC1mODVENkd5b1d2c1RlMGVhM2lHT0pGN2xvMnpuZUVsWGw5bUZzNjR1WTEyVEU5U3BZLUFOek9WUWg4NTZtNnhZd2RUZGhYaFpFN1RUeFE2WmZMRlM?oc=5",
-"source": "The Information",
-"published": 1792533120.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "0d5b46ad2e5330c5",
-"title": "Elon Musk says Tesla-SpaceX merger would be a 'good idea'",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xQVFkemlnVHpuR0hUUWJNMzNoZWoxbEVWa2sxMUlTd1BIRXBocmRDLThIYUtOR2JDWjJ4ZWFZbWZuWDhVWnFLb0NNajRJQm9QTU9oSUZXRnFEUEE?oc=5",
-"source": "BBC",
-"published": 1792533041.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "043adf05eee5c114",
-"title": "Elon Musk says Tesla and SpaceX have set up committees to explore a merger",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOHVMM2wza09KenlHMFI0c1ZYeXpQdnl3d2hvRS1hcjE1VVFiVWI0MjZnWkdJdlVYWFRKYWF0ZDJsV0NZZ2szVnNOZFdGRnREMTIzYzVVeWdxdHJ1ZHNGOG9WZFZSZEg2X0Q0TGU1R21LNlZLbHJjMUFCc29QZFp0YjVIeGdZRmM2?oc=5",
-"source": "Business Insider",
-"published": 1792532880.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "8e4b7eafcb9229a7",
-"title": "SNOC And Equinor ASA Sign MoU To Explore Business Opportunities Across Downstream Energy Sector",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQdXBnRXdzRFltaVQ5V1l3NTFmM3pOcGlHbk5kQWIyd1lwSUNEQUZyXzZUYW45a1pGaWpYQVAyQTQtMW05YS1sWVMyVGthTTRsaHoxd0p3Q2ctMk1FZll3ZHlLcjFqUU12cV9aOFl6bzEyX0hueFV3MXdRaGRKVFUyX0xkWFg3aHZIaEJMakYzdHRCVUVuQWVqcG8tVmpLYkdYM2RSVDcwREM5RFFjbXQ5LWhxRnpNblBKeGxVb1NGOTRvT1R0QmlFMmdjS3E0aXFxNENnMzBhYU0xVk1ZQTJ3UWRjTXQxQ29UdnJuUVUxLTBVaHg3V2FzeQ?oc=5",
-"source": "TradingView",
-"published": 1792532782.0,
-"stocks": [
-"Equinor (EQNR)"
-],
-"keywords": []
-},
-{
-"key": "8c2a8e14be552d8b",
-"title": "Meta Platforms (NASDAQ:META) Shares Down 1.6% - What's Next?",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUFlEOUJ5MHJXQmVwbTBvTmJldVk1ZnV4Ym1yeC1LTTE2U0dvczJ6UHpYY3lxN0NtQ3VJVktkLXlxOHhkcXpIdndmMS1YMDRFUzZabTlsWEdWTExfc20yTHRFX2VSM3RfbDNzLW9YQXljYWtFSmZ5NXZ4c3dkaHc1alU4cVFnTXN2eXhEX1VRa1hiQVZ6aldzY05kdW9vaGlTaUFWa21YOC1HWHJnX2dGVEhn?oc=5",
-"source": "MarketBeat",
-"published": 1792532738.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "24cdf055f0e30679",
-"title": "Tesla and SpaceX now have committees weighing a merger",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObi0zdGlScnJGQ2NNai1qZ2RXZThKZ2lpX2wyUm5YWFlxN1pwRVhWVUVqZGlXR3lFdzVVWGR4RjRVT2xUdEkwYVVRcmQ0Nk9QMnJYc0lMdkRCWWo5VVFhQWp3MHdQVmRJdl9oVmxzalFqV2ZMaTd0eDZoZFFrRkZNbkxzUG5IcHdIc0NiVEZPX2pDYjItSkQtWDNBNElGVnd6cllSMmROeDF3WFp6?oc=5",
-"source": "MarketScale",
-"published": 1792532736.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "0cc883c30fdd6ffd",
-"title": "Microsoft is now scaling back Copilot in Windows 11 amid Microslop backlash, pulling 8 AI actions from File Explorer and calling it “simplifying”",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOSkJhWnNzQ1B3amIyb014Rm4xMEFQa2lWVjNMN1laZ2JrT0dfMFFFeVRjbXpybEVIcVpBblNRSnVRSW9FUDg4b2VwQWZqZEFXQjJuMnJITVpyOEFwYWQzUEthRnhfRDZEMUkzRVZpb25zc2Z0OVhpMnVNSkx5VlN6bzEyUXpBS1Z0MEFDV0ZUT1FlSnBpNjhtTVpZNkp2cnZUaUR0Z195VTIzcjV5ZTAtMHF3N1llOFVTdktkSGRrQy1kMEIyR2ZGcjJxQ2YyaWFMUURWMEtjTUc2dVhnalJycE9jWFhYcWg4dDVKek9KMFBOTGJxQ0RldENLQXNxZGdxd2t1Z2RtRW1RekZ2YmN5X2t3?oc=5",
-"source": "Windows Latest",
-"published": 1792532705.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "300ede11d9b59196",
-"title": "SpaceX and Tesla form committees to explore a merger, Musk says",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMWlvZUVrbUFkaC1tblNqTzdVcDJMVWZoNVoxX29oTGIzSGZwdVEwTWZ3NjNVeU1tMnNoQzVQMTZocE9GeWdRUWlZdWNka1lzVlRwQzlYTHVuZjFYbGZYakFuSlFmYUF4T0kwZHNTdGRHSU9XN2ZXX2w5UnpKdmlyWFdFSHgyNElRUkRaV0wzM3VQMmg0VXlSMndteW43TjVWcGVHQ29UMXpRdw?oc=5",
-"source": "San Antonio Express-News",
-"published": 1792532700.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "dca27bce3fb7e18d",
-"title": "Space X and Tesla exploring merger, CEO Elon Musk says",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPX0hKUDJtdWpwZ0xDTExqSDVpU0NPOFJLR3JYZlpGV3RibWdfT3J5NTFIMnNERURaVVdjc0QtcDRFdk02U1lRaVpIbm5MR0V6TGV5Z0t5YzdrWDBVRnhEWXRvalN3YUJKVkgxZEhNUENESGJqelNjZnljZExNMTBNMkszTUpiVWpHRldLRGkxdFIxbjJoME5oZUNKSQ?oc=5",
-"source": "Yahoo Finance",
-"published": 1792532620.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "1b654bebf08a3d8b",
-"title": "Musk says SpaceX, Tesla form committees to explore potential merger (SPCX:NASDAQ)",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcDhMQ3VJSldHQkN0SVVPVWg3Q3E0a2J6Ry1NQkdVeUxtUF9PNkRZdmg5QUs2WllsdjB0akprS0J4MUVHbll4cUtUYW1sVk5rcWxNTkF2a0gtYUpiODhhcVYwTVBOWTQ2T1RnbUZUYWpPdnQ1dy1OMFdwY2JTbUhTVC1hMi1kQnI0QlM3N2N4ZWoyNFBYSE1Sc3duY193NS1vWThRYU5EUQ?oc=5",
-"source": "Seeking Alpha",
-"published": 1792532454.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "3b8ea39f162e49dd",
-"title": "Space X and Tesla exploring merger, CEO Elon Musk says",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XaEZwTktvd3JhMjAta21YYk9RMW9oUkwzZFRJU0loWjZza3FDQkg3R0M4eS1pSkRXY0pjb2lOWThseTNncHVvU1dUdU5WRnM0V3M2Q1pnSGU4VVRFeVp4dGQxekdLZXNKT1E?oc=5",
-"source": "Axios",
-"published": 1792532296.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "55436258ae969378",
-"title": "Tesla, SpaceX Form Merger Committees as Musk Endorses Deal",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQM09pMFR6N2NjZEpWVWUxNzRHd19Pb045b01ya1E0bHdHRXhsRlNpU3A0RTFvNlA5RThieGhsaFRpVTBXdlY5Y2JjRXdPelRaeGUwWjNxcjFxREUtck15b2ZRYktxNnlUODZnemZHaFA1OHRFUVV5VjRQaDdfUk16ZUVSNFFETFlvS2YtbmVCcjRmb2lW?oc=5",
-"source": "The Tech Buzz",
-"published": 1792532280.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "d9a65c1fc5df32d3",
-"title": "SpaceX Pops After First-Ever Profit Easily Beats; Tesla Merger Mulled",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQUFydG9fM3M3a09CRDhPd2kxQzl5Q3U3cVN5OVZ5Yk51OUV4d3pOdjAzcFA3TFFZTmF2YzBsVWNLSWZtSzFvdlVRRHVQWUNTYVgxUmVYZmhGdldkSFBTRy1pSHJjb2lqb1p1Q2hRM3BFOGh6QUEydDBpV1NaYlctZjdFWkI1U0lPenFFTXJ0SG5sZEJGS1E0bFBRZHVFYjMxRHlWZExn?oc=5",
-"source": "Investor's Business Daily",
-"published": 1792532220.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "fb9e5da91bdc3f4a",
-"title": "Tesla and SpaceX are discussing a possible merger, Musk says",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTmNleG5LOFpyZmNyOU9RaFpuY1laV2U1czVwNS1NNmdmTkNXS3hoa1pndTdmaUYzV2RxM19CcjE0Z1p3ZzhBRWlIX0pmc21XMEZhUXgtWVpDc0QxNk5jQ1g1c1NCU3ZaanYwS2Y4czBwS0xkelc1RktRNHlGOHZVak9DdENQbEJidGdxRE8tRHAybVE?oc=5",
-"source": "The Verge",
-"published": 1792531824.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "7b71a2ad46640242",
-"title": "Musk Says SpaceX and Tesla Have Begun Exploring a Merger",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRHNVazdNMUxLOVRTWXdZSW0xVjNCQUtRZHdMckNxbktTTFNIN3Q0Wlh4OU52ai1TUHBjdjJkWjFQRjhwNkFoQTVYVV9ZYVJzbHZOY3RyR3FvS3V1c1ZfNTJZQW1CelNVY1UycFRtX0tmRDlfNnFMZzZ5dFVMZzNscDdjRzlMYXdtRkhLM2JKWk1yRjhPZUVHaGpsejF3WlcyUFFfNXBuWlc0MTVmZnJRUjEzWUE?oc=5",
-"source": "Bloomberg.com",
-"published": 1792531644.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "a3749a0a0a936bd5",
-"title": "Opinion: The Microsoft Example",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOHBTazJ3OXU0eElrOFpfWHZzQTJYaEx4UTduT280OEpEY2NJakxkTkxPUXdEOE1jNVFhUE9wWUhvaVFzOUh4QXViN1RMX2RZd1dadVJlXzcydzFiOExvbTFXVmNQZjM3VGs1cnBkTXV4YTVxVVZnRkhQSWFDZ1VJcElsME4?oc=5",
-"source": "KRWG Public Media",
-"published": 1792531140.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "abe5ab947b16f37b",
-"title": "Microsoft reportedly projects $1,200 to $1,800 price for 2028 Project Helix",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTkpBcktVWlVVUXZkQzlUMzlTd1lHMHpNRVhYRUh0WTZPVF9fWnREVEk1U2ZYTEQwampaeU90THVJdmhxQkR2TUlpT3pBWmtOaFhQbFRWRllVNUl0Z2F2dTJxNFA2clBEWGZCVUlZaGJEaHdMaGl1djVKTWppWEVJTl9nUXZIMUxmZm5oMlpVVVJBQ2k4SFdSOHRjTWktbXhnMXhjVUtUd0psYlB4UlpV?oc=5",
-"source": "Ars Technica",
-"published": 1792530873.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "321fa0b85f16ea2a",
-"title": "Report: Microsoft's Project Helix planned for 2028 at $1,200 to $1,800 price",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTkpBcktVWlVVUXZkQzlUMzlTd1lHMHpNRVhYRUh0WTZPVF9fWnREVEk1U2ZYTEQwampaeU90THVJdmhxQkR2TUlpT3pBWmtOaFhQbFRWRllVNUl0Z2F2dTJxNFA2clBEWGZCVUlZaGJEaHdMaGl1djVKTWppWEVJTl9nUXZIMUxmZm5oMlpVVVJBQ2k4SFdSOHRjTWktbXhnMXhjVUtUd0psYlB4UlpV?oc=5",
-"source": "Ars Technica",
-"published": 1792530873.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "197f79a90b93cedf",
-"title": "Futures Rise On SpaceX Earnings; Tesla, Meta Due",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMGM3eElCcmNqVzZCZFFsSU1yemxZN3RGeGx1cnh3OHNkWGZwc1J5b0U5NVEzYXFqSlQzWGNteDR4ODlGbkplZ1lYeTVVbm5tUU9nRGlDVVdBcWdGMEZFYVZTSGxWQy1YY0hnV04tSVZkSUZkOWpicjlEVzRmT3VQT3dWN2NkaDdqX3BwbHc2cVRJQTFJVnFUUkJINDR0VGYxSFlCU3M1Yy1jSHI3ajZzTmRtUm4?oc=5",
-"source": "Investor's Business Daily",
-"published": 1792530480.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "71943221f49775c2",
-"title": "European Antitrust Agenda: EU Commission Advances Nvidia Probe; Ministers Take on China Trade Strategy",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQY2hoNHZkdjZJUC1zdE9QVlEwekMxV3gtWEt1NHVnUjJNMjRWdVpmdHZ0NWYtb2lFaDE5LWVFU0FEZHowOFpkWHZQUXVYd1AtLTBfdE5lUHFoWl9WM25NckZHdkE1WmRpZHNrRDk2cXo0aGhhWERjQzhhaklaMzgzU1JOTmJEQm5OYzFFUTZXUHJOMDNPRGlId0FTVm1Dd0otVE1TVmVxblZZR2dvTkdCUTM2TGNuQm5qOHVsdC1LZ001TUQtSkJtUA?oc=5",
-"source": "The Capitol Forum",
-"published": 1792530473.0,
-"stocks": [
-"Nvidia (NVDA)"
 ],
 "keywords": []
 }

@@ -1,5 +1,5 @@
 {
-"updated": 1792560502.0187874,
+"updated": 1792562417.0628855,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -72,6 +72,150 @@
 "Yahoo Finance: HTTPError"
 ],
 "items": [
+{
+"key": "e65e8d45455516e8",
+"title": "F5 and Telenor Partner to Build the AI Service Plane for Sovereign AI on NVIDIA-powered AI Factory Infrastructure",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbjJMLXB0MFBvVXRNYnZHNW5hVUgtM3dNZXJjR203eHhQQklDVGYwVHZQT204REhGLVhzUkoyTG5TQTJmSUNoSWdtcWFWTm03RWs4YXdoaXlzdk5fWFFmVkJENGlvWENxZ2o4VXFaSlJhMi0xTlNGcDZLMDV2ZlJTUTdMZ1NvZGxqNk9ZR0RUcFlJNWRBbDVfdi1jd0Fna2FqWVpFaEpoeVRjVUNWc1BNSHVPZFRnbS04NGZOQnBoR0xCMWFvR3ZyLVhyWFVJS1N4eXV2TDRaUQ?oc=5",
+"source": "Investing News Network",
+"published": 1792561954.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "c36f1834e3a18b5b",
+"title": "DNB Bank's Q3 Attributable Profit, Total Income Fall",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWEVsSm41bnI5V2hHTTRmNTdrc213aTZYd2ZGUHNIS3FVNWhHY3hxLXJPejdaaFBjMjJNY3hONDYzWWdPN2g5X1FKR3gydWNSUUFpX1NEajVrbjhMOTZfUWQ1aEZreWZvSnZRbklLb3MxbkdGYjMwUGxnc0x6YXFZM2NveGRoWGJwSmY1VFZ1ZU1TeE10SHc5blFMQnQtOGNzNGp2cW5mNA?oc=5",
+"source": "marketscreener.com",
+"published": 1792561951.0,
+"stocks": [
+"DNB (DNB)"
+],
+"keywords": []
+},
+{
+"key": "c869f02690d3b9ef",
+"title": "Elon Musk considering Tesla-SpaceX merger",
+"summary": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
+"link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+"source": "BBC Business",
+"published": 1792561726.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "dc99631352dd253e",
+"title": "SpaceX Tesla Merger: A Deal Worth More Than $3 Trillion",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHbk5NSUVFdktWOFIwMlJBR3U1V0tJOHlseEdBNERIeEdGZG9UNmJsYUxyZlF3RXhJVENYLVpmV2h1YkJrS01rdUhDcDVTRnI0NUgzUGtLWVVPTGp4UmNj?oc=5",
+"source": "www.trendingtopics.eu",
+"published": 1792561674.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "e218fdf15e966424",
+"title": "Elon Musk says talks ongoing to merge Tesla and SpaceX",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWEFpVkNZTTN0blNBMHNMQWg0TEgzd1VZT05mYTQtMGNVQTlteE1uZm9fcFB0aTBOOHAyb2xmX2o1MjVGN09MVFU5QlN6eXdka0RPTGdCRGdzN0pnWmxfa0cwYXhNTk1qV1RaRVRmaTBINFFkdzRsZGNveXlWWWNDYXV3dw?oc=5",
+"source": "Yahoo Finance UK",
+"published": 1792561560.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "02eea64e48980593",
+"title": "DNB Bank : Quarterly Report DNB Group 3Q26",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdE1KeXkyLUxabjFLeHozbF9NQ1F4dmhCaTE3V210ZmlPRjRCQ19qZHZvZDFubzY5eUZmWk5iTS1BaTVTYm9SRTE4RzF6UlBwYU9GdGQ1OGZpR0Ffa19iYWYxVWZrU3BNWGRuMzBDMmZUNWFWcGpSRVdjV0Eta3dqZjg5Y2c1VHYtN0dkNzZyMnJCZjFWSmtiUg?oc=5",
+"source": "www.marketscreener.com",
+"published": 1792561149.0,
+"stocks": [
+"DNB (DNB)"
+],
+"keywords": []
+},
+{
+"key": "e5bf87feae0c0bae",
+"title": "Watch SpaceX 3Q Earnings Beat, SpaceX and Tesla Discuss Potential Merger",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUVVyNUxTTnI1OF9SRnJJNGs5Q3ZQMk5xTUU3V2Nib1BKbGUycGV2OEFSb3cyUzluVW1kcEpHSjlZZlNTc1ZSYlJDNUV5aGZncTA3a0s3a2dLNjdxeWNwQk4tUDIxZ2ZyS1dzMTNfMmExbFVUMEUzWnJxWWFfc1F1NTdaY0R5RWM?oc=5",
+"source": "Bloomberg.com",
+"published": 1792560554.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "e290f7bc29567da2",
+"title": "Oil prices climb as traders assess Middle East developments",
+"summary": "Iran's Revolutionary Guards said Tuesday that naval mines had prevented three tankers attempting to pass through the Strait of Hormuz.",
+"link": "https://www.cnbc.com/2026/10/21/oil-price-today-wti-brent-rise-on-middle-east-worries.html",
+"source": "CNBC Top News",
+"published": 1792560439.0,
+"stocks": [],
+"keywords": [
+"oil prices"
+]
+},
+{
+"key": "574b81fdd12eaa9a",
+"title": "Microsoft and McDonald's Push Back Against OKX-ICE Tokenized Stocks",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBvWkhBY2ZMRmNPR2xKczNMOUwxNjFKamdUUHJkT21vOFpaZ3VfMVZRNENXY0dkWHFFX2M3Nzk4U0otZERpY2VBZkswV2t2SGlEQmtVRTREemk?oc=5",
+"source": "Cryptonews.net",
+"published": 1792560407.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "905857f9c23326c5",
+"title": "Maas Group shares rise 5% as Nvidia weighs fresh backing for Firmus",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTncyOGEyZ2drWmcxakVsY1dnbUdFUDQxdndIbTBTVUFrbzJqcU4yQ0RRU05kMm9vQ0JndFhscXdodV8xazVOM29EZ0lxVkNrOE5MelpRNmJ2LWNxeXBxd3hTa3I2SlBIdkNUb25aQmtUZlZtTDF5ZWdndTJBQ1c4TndzbXJxdHRTMzJUWGtFcnFHNk1fXzdfQUFMbmFuaDdlWTBjT3FUcEo4Tm1wM3JCbjlfdnloX0ZBTDBHcm5jQXc?oc=5",
+"source": "Investing.com",
+"published": 1792560295.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "caf3b0def95cc3f7",
+"title": "Lobbying Update: $5,880,000 of META PLATFORMS INC. AND VARIOUS SUBSIDIARIES lobbying was just disclosed",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeUZrZjMwZGRHMWE4WEtRN3h6VnhkcGxLako5RzJoTFNOekhDMkdrV252cDZDemlWc1V1QzhfWS1jNG5TYkFSN2lQYzNjV0cwZUIxRlJPS2ZOaHRaczN5c29MdUE3azFKeGR4Y2tZTUVrNnd1M0kyUWVJZWIxR3pNYVNIOGVvWGJvM21oYUdxRkRSNUFpR19zbU8zQXRRZU5lWVZ5QkRMMnEtV3ZXUm54dWJQN2hERjNjVWVEMVhvYW9UV3lHR3hvOTZWQjFSVURqaFMwYV9Cc1J0Z3k1?oc=5",
+"source": "Quiver Quantitative",
+"published": 1792559640.0,
+"stocks": [
+"Meta (META)"
+],
+"keywords": []
+},
+{
+"key": "faf7c3c5e6e96486",
+"title": "Lobbying Update: $2,440,000 of MICROSOFT CORPORATION lobbying was just disclosed",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdTQ0dUQ1VzI0YUt4dmpmX1BUVDVsdGxyOWcxb1M0S1F1YXNyT0N0TUxwLXhlMXNCMm1VTExTM0tYR243amRSN05TUHhqaTJ0SzRjVEpsVVpQNzN3MEVzemdvSU4zclRfX3Q0Wk1FUmhJUkcyMHd1ck9tLVFOUTBIdHJUVGtSX05NM2ZyZXNmazdkOTh4akVTTlBSWDEyU3VvZzg4ZURSY2loR2VwRm9hV0ZnZ0lxMnRtR2M2eHF3?oc=5",
+"source": "Quiver Quantitative",
+"published": 1792559640.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
 {
 "key": "7d386887f07bc2d4",
 "title": "TGS : Prediktor Expands Prediktor Data Gateway Agreement with Aker BP",
@@ -205,6 +349,18 @@
 "keywords": []
 },
 {
+"key": "c0be0c625a5b4883",
+"title": "Sharjah National Oil Corp, Equinor to optimise UAE’s energy infrastructure | Gulf Today - newspaper",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONEZfMjBLajNpaktXekp3MlBNLVBqTGtmeXhYLXFJYnA0SlNKRWpWTE1GX0ZZWjZYZC1yZkJuaXB6QzRoS1hZNHl0UllVLTVGcHFMQnBvWFJsY2xac1FuYzlfeFhyWDhJQWZkc290Vm5pSW55QXZlQkFtVUdqcUt2dndvN3pTeUZnYVR2TnpyUVRPcG43S0VLdmpVQWdJOFdLSGZUM1FoVXdwQ2ZQYVE4UHZFaFIyb2hTM3RJU1JRZk5SUjg?oc=5",
+"source": "Magzter",
+"published": 1792557295.0,
+"stocks": [
+"Equinor (EQNR)"
+],
+"keywords": []
+},
+{
 "key": "cfddea01d0a939b5",
 "title": "SNOC and Equinor to assess LPG and NGL cooperation",
 "summary": "",
@@ -225,6 +381,18 @@
 "published": 1792557187.0,
 "stocks": [
 "Equinor (EQNR)"
+],
+"keywords": []
+},
+{
+"key": "2692d4fd017e677a",
+"title": "[News] NVIDIA RTX PRO 5500 Reportedly Draws $35B in China Orders, with Supply Seen at Just 5–10%",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQU0lBZW55c0QzWDZLZmZpbFRkRXUybmhULXJXSnowblFIUUw5T3lxY2tkZDhmTlM5d0E4Y3h1Rm9FUWRKdjN2RzJXdkJFN2JFVUZMcENsa2NzOGRiY0Zjcl83VnBicFd1Z05Jd0NTeVUxUVROMHV2YUxOMkRTRWh2VDFLYXdGckdZc2pzNW1nWklQZGVrWU90QUt4X2VWZGc3OG1OR196ZTRQOThhT1ZxN09mSEYzQXhpYnpYaDdFek53Znc0MXNOYXpqcEN4Tkpm?oc=5",
+"source": "TrendForce",
+"published": 1792556636.0,
+"stocks": [
+"Nvidia (NVDA)"
 ],
 "keywords": []
 },
@@ -393,6 +561,18 @@
 "published": 1792551588.0,
 "stocks": [
 "Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "de8c0fbd145772da",
+"title": "Apple Inc: Apple Has Searched for the One Fil",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTDl0S24tdU4wSHRJV2hqaG03U29GSjBRQllNUnV3TlhlRkxJekNVNk9Db2t2RklnUVh6eEs3NERvN2o2bmFFaE5tRjhVcU9KZ3d4VkxQdWdOOXFwNWd2RWRFMUpqdEFuVHlXT2htRTZlTDBzeGNaM1BTanNHYTRkUFlUZ1d6Nm8xRG5WNlYwUkRuRGVLQXRPY1FNUQ?oc=5",
+"source": "Moomoo",
+"published": 1792551558.0,
+"stocks": [
+"Apple (AAPL)"
 ],
 "keywords": []
 },

@@ -1,5 +1,5 @@
 {
-"updated": 1792546123.7127137,
+"updated": 1792548317.511036,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -72,6 +72,42 @@
 "Yahoo Finance: HTTPError"
 ],
 "items": [
+{
+"key": "306aa54ef1316118",
+"title": "Google TorchTPU Hits Nvidia’s 85% PyTorch Grip [2026]",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9EN1hKSDI2elJ2UF9ncldpX040cWsxS1ZVUVZRRllPc2pvTm5QclpCR0g3Qlh4UXpWMEJ1MVNvRkIyOGM3RnVobzVQUm5URFRNbzRFa3BmYkVXQmJjQ1FBbWdUeDJEX2o1VDhDQ3NoWXp1VFU?oc=5",
+"source": "shattered.io",
+"published": 1792546546.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "d7cfc3bb3195ac42",
+"title": "Nvidia Stock Jumps After Hours on Elon Musk’s SpaceX Chip Plan - NVIDIA (NASDAQ:NVDA)",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaFJQcVY3VVNKZUY4bzNsY3JoNGFtN0xTUVNqTGs2cEtwemUwYU5MQVMyeXlzYWJXR0ZfWHF5VXZmTnBFcldmVnoyN19kb3FoZnRYWWF3RUZQSjllczBkNlVNbXA2ZktqRFR0dkx3azNSTTR2YzhLak9Yd1l6X2ZZQ1VDa3VVNllWZ0lNamZVRVl5TEV4SzJGRklPZmFDUDA1SHdrdDBnZ1ZneS1VNXc?oc=5",
+"source": "Benzinga",
+"published": 1792546446.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "5d4885f394d6bb7b",
+"title": "Google unveils TorchTPU in a push to break Nvidia’s stranglehold on AI compute",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbTVCNEtnNHVNazVLaE5XVE5LblRXM2ltcEFscmxzbHhKbm9MQks3MVhtWXN1MnphS3RSWmljOWZZaXptSzdRLXhMVE1GSEIxUHVORWhuVGJKSWRuUjN4YnFwUTNWRzFqenNfaERyb2dPNi03VXhZRlBSbE54SmppZmg0Q2gxalZrRE8yZC15NHhkM0ZZdEZnUXpvY0EweHJiLVlORWRpbHRFRXZtSkVyOFg0V28?oc=5",
+"source": "SiliconANGLE",
+"published": 1792546140.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
 {
 "key": "95a9d12b22754901",
 "title": "SpaceX, Netflix, Super Micro Computer, Tesla and Meta: Why These 5 Stocks Are on Investors' Radars Today",
@@ -163,6 +199,18 @@
 "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeWFCT2ZVZEpkRXh6SU1JX25xWGtwa2xDUGlfZld3ZUt0SUo3X3hpM2d0TW5zcWFGQTYwbW1icGFvUmRrdldhUlRCeFNueDc1STRES0VYcjdZZmtBQzVnUENxZ1FGZG1yNndYNGZkbFN4OWRqTmFKUW1GbWNqMGxCRUhB?oc=5",
 "source": "The Cool Down",
 "published": 1792544100.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "684e25405c2bdbbb",
+"title": "Musk backs SpaceX-Tesla merger as rocket firm turns profit",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBpdlFaNmVCSmpHSlBiZnZ2Z1cyOVlrelpiVTZ2bTQ2TDhMeU05VnB0QmhRWkdVeEhmS05oTjhISTdqSF8tU2dFRnlnaw?oc=5",
+"source": "AFP.com",
+"published": 1792543872.0,
 "stocks": [
 "Tesla (TSLA)"
 ],
@@ -301,6 +349,18 @@
 "keywords": []
 },
 {
+"key": "25e5fdbcdfbf65c2",
+"title": "SpaceX’s Musk Lauds Its Soaring Cloud Business and Possible Tesla Merger",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPY00zSkw4YmpBaWNxVldDUDVjMWhWSUhfdzVTZWI5SFhUcUMwa0VUZ21xLW1rYmpnTTNjN0RCTnRWeXQ3UnFOYlgzQVU3LUhyeTBZZTNNdkdxZk4xM3BkYW5oZXVOOW9TY29ES2kzWTdzVkdfZGJVd3M2Q0VHVVJyQTZBYVdzTlNsYmZaOGhzTXJtb2N3M2REUzEzYnRaOEVJYUJiYjRvQUZYMzhuSWNPR3lFR2pfRGlCY0xF?oc=5",
+"source": "The Information",
+"published": 1792540860.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
 "key": "267a658bfdc7eb6f",
 "title": "Nvidia in Talks to Back Firmus After IPO Flop, Report Says",
 "summary": "",
@@ -361,6 +421,18 @@
 "keywords": []
 },
 {
+"key": "6dc98ecbf426b005",
+"title": "Watch Musk Teases SpaceX-Tesla Merger in Earnings Call",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcEtVY0t5cmJjQUpvOEtYbWdLY1I3WUswUXJhWUFLeXlIaHhmaXVvNE5ZdEpZMGlEYzBBVnJnVnVVZDJTdUFodko3Y2RTZnVXZHZ5WGdfOFR1N241dVRQNzdFc0dWbUFXVzc5MHBNQXpMRVJVaElZOW41RU9CZGtWNEZ2RW5WdUJUVFAxMXZPakZmUVk2MWlJVGVPbHlWa0psYnJkZnJn?oc=5",
+"source": "Bloomberg.com",
+"published": 1792539631.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
 "key": "158a865f1508743e",
 "title": "Nvidia Moves to Back GPU Cloud Provider Firmus After Investors Balk at Its IPO",
 "summary": "",
@@ -403,6 +475,18 @@
 "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU1ljLWpCc2pVR0FvNUlOQzRwSEdYamItTGpPT3R6dkxlQ1phMGhlNHZya3BjUGd1U2xxWXZzYVFsRHYyeFVIWmtuajQycG9qZW9neG1lekpMbHY3YlRYRjBCaTZEZkVoS3BRSUlIODlmV3pmVkg3NmlSakJxc2VHdmtUb2RGbHoxeEJLVFJtcnVxd2dEMG9qdjFrNy1kZGNRNHczMC14UW56T2QwRXFLOXBGbW1oczhhZ2pjc2FXZ2tmZ1dGb3UwV285bksxQdIBzgFBVV95cUxPdWFCckU3ZWhfZXJwc04td3dHOVpxb1BtNmtIU0tBcVhsZkI5TVlFUUxxWmY0S2l1Z0txT2thU3FuMWlLa2RJaTNBX0FWd0JyeGZFN2ltZFNOazYyUUVQVWptelFLVG5lbzlGQlJLVklhVk43WF9RUVE3Vk9VNVIzdFozQ0VpLWFoMVNTRklqTDNSeVZDNjJ0S0RYa0c3SzdaQ3JvVDdVckFHUDdRbThPYjJ0NlpxcWRrWFdaTmhnOTluY1d4R2hua1R6aHN4QQ?oc=5",
 "source": "South China Morning Post",
 "published": 1792539328.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "811b8207603a1cb9",
+"title": "SpaceX and Tesla's Terafab targets 2028 for volume chip production, Musk says",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0a2g4UzNGaHB0Vko3QV9HeHdoa0Rha1VzOFNTRzZqeDBLZGFQclY3Wm52Nl9FSFFsQnVsUXU2RURGVkRzWlJtSVRvZWNwdk1oLXBZZUpnVHR4bG1fc1cxQ2U3LUtkSURjUHc?oc=5",
+"source": "Modesto Bee",
+"published": 1792539247.0,
 "stocks": [
 "Tesla (TSLA)"
 ],
@@ -537,6 +621,30 @@
 "published": 1792537498.0,
 "stocks": [
 "Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "80ee2e05285385be",
+"title": "SpaceX, Tesla Form Special Committees to Explore Potential Merger",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSFR4M1ZmY2FvMXVpX0R4WWZrZjhxMUFJVXNDZl9fbVFCUDlKa2ZDY2VLRnY5b3BiWkxtV1JFWVJHQTI3LWJpNnBlaUFlWFVfVmZNRWpjc0RKeE1xTU8ySDRTRE8xSC1raG50R1RlMDd6Zlh4c0lYMHVIaEZZcHVjc3dldURYckIxNEI3dnAzTmUtNTdvcDUycXR1N3BNNldoOER3?oc=5",
+"source": "Yahoo Finance",
+"published": 1792537481.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "3a722a0b032568ca",
+"title": "British bosses bullish on AI, but less than half the workforce confident in UK's ability to become leading AI economy | Microsoft research",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQblg1VnZhdDhKajRJRkpFZEc1WEQ5Nk5LM3lvc2FpdmVBYW1TUXJXaENQZ05YY3JRWW02Q2FlWXdjVlFaUGxFTl9JSVN6UEkwMDV5YXYxR3VxZjI5aFJHdTlhVlpUdUtZYmFickpPZFdUTmVzdlpSTU8xZ3Bza2tadEptcUd3RExDQ3FvV0doMUxRTmZraXNTcGVqbGxJbXlwbTlzNEhjcXRHZFE0RlR2c3l1T1NmRERJc3U5cDJPeFpuVzhhYm8ybWhfOWJlYVFnYjJmYw?oc=5",
+"source": "Microsoft UK Stories",
+"published": 1792537393.0,
+"stocks": [
+"Microsoft (MSFT)"
 ],
 "keywords": []
 },

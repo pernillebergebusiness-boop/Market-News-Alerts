@@ -1,5 +1,5 @@
 {
-"updated": 1792705512.1999242,
+"updated": 1792707213.1754432,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,6 +73,66 @@
 ],
 "items": [
 {
+"key": "96a3beb8556349c4",
+"title": "Stop renewing Microsoft 365 and get Office for life for $50",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQX3B6dmZZUnRNTFl0QWNkNFljbld4VVNVUFJ6ckdVekREdjRLNWZJY0NzdDZycTJWMEN3VkZTTERldW1teXFYdXAzYXo4cWNwVzlUQk5NeG04dTFaQUFrVGZfLTZxbktJcnJwQlBvYjZvREhRLV8tOTlCeExZZFZocVVpRFUybm8td0FOYmdEOA?oc=5",
+"source": "New Atlas",
+"published": 1792707061.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "a431ca00fb80ad01",
+"title": "Microsoft Links Storm-0940 to ConnectWise Supply Chain Attack",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZF93cVlxV0NCSVZHemFlQjd2UEhJUFM3dTA2X183OUlwTHJqWVZwVjlNN2xVdW1wYU45andQY0R1Mm1BS1d0dHI5V0VZcGxTM3U3NWJGZkw4S2ZFVlQ5RnZHZHN5UjJPWl9OVEMxbzg2ZDJUdTE1bzk2aXlMRm9aQy1ySlYzRldMazJHMmZkREFOd0xjaHlGY0lyTXhaS01maVZHVXVCZGxmM3M?oc=5",
+"source": "Dark Reading",
+"published": 1792706666.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "5cb25673ef6754d9",
+"title": "Stock Market Today, Oct. 22: Netflix Rises as Investors Capitalize on Post-Earnings Sell-Off",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVTgzYkNqVE5UWEVBcXVvZ0FzZ3c3WFZTd29vZXRBOW12X0tQZVpsWDNoQTJhRjQwY01sXy02cHFzeUo0bTFMY0diNTB2d0lBUzV0TFJ4WlV0YVdTbnNQNjJ6LUF1NEVHRnNkNkpWWGlwcGVuNFNENXBsT3k4U3NJZGJGSGs2eTFZR0JsMXhPYmZKMWQ5MVpmUEZVcUJMRmU4bTZMNFc5aUFieWpvdV9pbTc5U2ROQTQ4Zi1VOHpTZm5qd3FqZE9FT09YcERjZl9NTDFiWWF3N2FIUHRKUDR3bXVtUl8?oc=5",
+"source": "The Motley Fool",
+"published": 1792706655.0,
+"stocks": [],
+"keywords": [
+"sell-off"
+]
+},
+{
+"key": "8b9af2903812e8ef",
+"title": "Fort Bend County approves Tesla economic incentives | Sugar Land - Missouri City",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRmd4ZnRDOGVMZm5WNWdnNS12aDBHcWJUcVdtSkVESnVNZFQ0THNmLTNGdnZlN3VPTVRobWx6ckVJQlU0S0tqYlc5Ny1Gc3NZWkpxUElFMEwydzJqNUZPOTEwUnVqeTMtVU54b2t3UXViT2hENVZBczRqTm00ejZ4dGxXZHFmNnp0d0tqSmtJeXFVTXNIbmFYSVlqMXJBcWd2d1NTcTlCQ2NjNWlUSzBDQlljSmRrX0tVMzlzc0dzTHBOQlBFZ1U2OTNDQWF6enBwcXdaQg?oc=5",
+"source": "Community Impact Newspaper",
+"published": 1792706111.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "abda71bc456920bf",
+"title": "Microsoft's cheaper 12-inch Surface Laptop could use AMD's Arm-based Sound Wave APU",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRUJrcWh0SUdUMndhVXR5Z2xRS2NobEtSNWllYmwyN2syZzNodU9EMmFEbm5yWDY2Wm5CTDNHcWEydzMtRkVndHpOYkVoVExuYnBTemYxYTl3eEZCMmNwVkh2V2UyVU80VzVnekMyb0szMkw0THZ1bkFLT2VjcHVnT1dRWHZkcUw0YWZ5TzUyS2VHU1lFSkJ4clNKMjFOLUlaUzhxTXQ3b2M4Z2w5TFNNMHdWaThVaHNYZ0pjcjR4SWV4UFRlSTMwZU93?oc=5",
+"source": "TweakTown",
+"published": 1792705815.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
 "key": "321bd5d5b7f9337b",
 "title": "Fort Bend County approves Tesla deal that could give the company 35 years of tax breaks",
 "summary": "",
@@ -81,6 +141,18 @@
 "published": 1792705137.0,
 "stocks": [
 "Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "5d16374e38ae4672",
+"title": "Fake calendar invites target Microsoft login credentials",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVVd0NXdWSFpxUEFicVBCRmFQdkliMXRiRlFZSnFZZVFiTkZtVzhlbTRxRzJDaE1ONVpENlp2TkQ3bWVhTnU0OERqaFRjSGQyRXNodERyU2dUWmQ5WnkxUjhndFBZSU1nYTE0aW9lSzM1c3k4V2kydVd5OHVTdVRsMDZ5T3dOUnI0QXc?oc=5",
+"source": "TechInformed",
+"published": 1792704935.0,
+"stocks": [
+"Microsoft (MSFT)"
 ],
 "keywords": []
 },
@@ -103,6 +175,18 @@
 "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNb3lhXzIyRlVFQXphVmJnb3J2cmFXdGR3c0tVdENLdlZMUlRFYUh6VUJJOTVKOWdmZWYzSExRVElmNjEtS2t4eXFWR1NOTzRXTnJDOE84UmlxcWpTLTRUbXRFTEcyNWhGZ0ZNaWxYQzR5WWZfTjZScW1FZGlvX3dsVEJBWkcxZE9MOU9lQXdJdHlSZw?oc=5",
 "source": "SFGATE",
 "published": 1792704640.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "6cb1d0f6c8973b1b",
+"title": "SpaceX says potential Tesla merger would need Elon Musk's approval",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPekJwbzJpb0hnTHRJeE8yRWNyNzM3QjF2MkQxbzVSak1vNUJmQ3ctRWd2Q2stNTlzcnppeTc4MXRra3pXZHlfVUYtZEptbFN0RWxCa0Jrcl9SRHNaWWJkUkxaUXU3aVRvcGFTRUNwbWdiS2l6RmdpLTdERGdrdzJCMlA4c1hxNHV3a1NYMzRfdUxVRldYc2hkMmxsRXJCY2JCaURRNlZBZTh0UQ?oc=5",
+"source": "Reuters",
+"published": 1792704635.0,
 "stocks": [
 "Tesla (TSLA)"
 ],
@@ -157,12 +241,36 @@
 "keywords": []
 },
 {
+"key": "f3e943118f0b6d13",
+"title": "SpaceX says potential Tesla merger would need Musk's approval",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WNVppYWZxaVZKcnBtQnp6RElGd2RwR1NneUJwRldJWlFudnJFVTNRQWhva1JYbGtIZlFVMEhPSzBUWXZfeWtoOGM5YkpYS3BhZmdQU2UwRWR3LTF1WnJJaDRObm5UMnlGYkE?oc=5",
+"source": "Wichita Eagle",
+"published": 1792703705.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
 "key": "a6fe02f6e36e279d",
 "title": "Tesla App's Tablet Layout: No Confirmed Update Yet",
 "summary": "",
 "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQktLZXlkYzF2Tzd4NlkwZ2h3ZjB5MVlldnZXU3FIRWFIaFgxWmVTS1k1NHJIWjU3NlVPSTF2Uk9FZmVVQVA0TjVzNEZ1OWlCLUpWcXROYi1KOGl0MWpaMTNlSTZ0VXZ6TnJySzdYaDBrb1dicXQ0V2NSWTNMRTl4aTJkNzZ4VkpnQmN2VA?oc=5",
 "source": "Gadget Hacks",
 "published": 1792703306.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "18a4b57edc06d337",
+"title": "The CGI Kingdom Just Put New Wheels on the Tesla Roadster, Does It Change Anything?",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQ0k1T0lScURjcHo2clVTNWJMM1lkdzZKcGU5SC03ZXNaQ1BuYVQtTUNtZElwQUxuUkdiOWl2ZU9IbkRjTWlfWWtzVWstYTEzZ19LUFE1VTg0YTN6V3F4OUxxNXU0aFo2MjB3LVRsakpERFp5NV82Y3liOHl6MWZ3YmlJOS02OTFCUTF3bkRZSl9ESllxdzJkNFlHWm9mNkZSYVlWXzlaT0xSb3BZMEtpQXppOGhTdjNud1o5enR6cXZtWHRKdjgw?oc=5",
+"source": "autoevolution",
+"published": 1792703281.0,
 "stocks": [
 "Tesla (TSLA)"
 ],
@@ -265,6 +373,18 @@
 ]
 },
 {
+"key": "f9f0abe210c0e520",
+"title": "Microsoft (MSFT) Falls More Steeply Than Broader Market: What Investors Need to Know",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYWNjS2pNU3JnRHk1ejRIQkRnTlFGWXQ4OFpscFlZVTBfa0RqRTRxNGpZLVNUSTJfRWRoc1pZVkFkcEVhbEZWZEZLT3ItZnFDNlJhZ1FxYkZ5S29GZ0p6b19GQVdjcHYycFBrWFcwUm92bUVoUE5IcE5zVGU3QTNPTUhlcEFweTh6Q3NnRUNFSVZJSXVaU2d6em9maFlXVnM?oc=5",
+"source": "Yahoo Finance",
+"published": 1792701903.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
 "key": "b15f4689d64c79a2",
 "title": "NVIDIA Sentry: Secure AI Agents on BlueField-4 [2026]",
 "summary": "",
@@ -347,6 +467,32 @@
 "Meta (META)"
 ],
 "keywords": []
+},
+{
+"key": "dac8b9c8d9905f75",
+"title": "Meta created new stock class so Mark Zuckerberg wouldn't have to leave California over its proposed 5% billionaire tax",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNT29zTHVqX08ySklOTlk4NHRxbVgteFQtY3N0clZCa0FKMjhqa3NQZEtLdlFndUFyYzNRM3J4dUtDX0dkOWtlU19MWEpSdzhfM3hsTGxPUjVJdFFxQ3BTV1hBNnk0emRQWkcxNTZMWmFLNWhqVGZib0swc3hURS01cnh3bU5Wb2NEaWtNa1RLQ3gzenVNQjc3SEo0Zw?oc=5",
+"source": "MoneyWise.com",
+"published": 1792700988.0,
+"stocks": [
+"Meta (META)"
+],
+"keywords": []
+},
+{
+"key": "ba575a2039b81024",
+"title": "US Equity Markets End Lower After Meta, Tesla Fail to Meet Expectations, Higher Crude Oil Prices",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNTNOa203WUpmemZ0TnByRnNmeHBzZ1lkTHlqZGpqSnJaQWM4X1dYenVaRWV6OG8wckdNQXNfaEJrcXVhUlFzVGx5WVhFcm5lbVBmY0dIc0xsMXlpRzY1ZmIydkdfZk5EdGNZNnNvTnA1dFpKTy15NzdzbVh5N1QwZmpkQ0xzNWMzaDktNkJLaU9kSE1qdEZj?oc=5",
+"source": "Yahoo Finance",
+"published": 1792700852.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": [
+"oil prices"
+]
 },
 {
 "key": "718def92c2ac4756",
@@ -467,6 +613,18 @@
 "Meta (META)"
 ],
 "keywords": []
+},
+{
+"key": "6dbc815fc1bcff18",
+"title": "A lesson from poker tells us not to fold on Meta after its earnings sell-off. Here’s why",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPb0pPdWZzQWtaTjhfOUNnQWZ2aXBqWU5tTGNNcjlVd2dQUDdacVo4YjR4TVJaeFU2cVZPMXJ5aEdnSVRMZWRtc2s2dmJOWGhQaW5tbldFU3BUTlR1dWktOHNDNEdPTHZ3VzVCQjZ2b29jTllOZDdKamh0RTlPUEtFUkVZZDdQQXYyYXNQQjdBQ0FaWHVuNDRPNGZtcHBUMGJ6akJXMFMzQzBQU2pTVEFqUzcxaDliUG43M2pZ?oc=5",
+"source": "CNBC",
+"published": 1792699884.0,
+"stocks": [],
+"keywords": [
+"sell-off"
+]
 },
 {
 "key": "53612c55357f8954",
@@ -4726,163 +4884,6 @@
 "keywords": [
 "sell-off"
 ]
-},
-{
-"key": "8ead126c62895f03",
-"title": "Tesla Says Robotaxi Will Lift Results Starting in 2027",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZjJNcFF6bGU2TUdoZmZnQkZWVlZoZ1VvYVdzLW1kdFBoeFdfRmVDWFl5elVPSXB2dEVmUlFwUjNyUXhZeE9BQ1BuSndHS21ZemJxRnY0aHEtbXZLYzVwLTlzSXB1c2p1NHNlV0xWd2k1ZUg5Zy14MDR2V1NkTUhPQWhsRHdvREEzYk9nbjV6T3h5LXdXNmM4Q1NyU19sZw?oc=5",
-"source": "Yahoo Finance",
-"published": 1792672645.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "5a236c1063a147ab",
-"title": "SpaceX and Tesla — a Strange, But Certain, Marriage",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONVpYd2p0M0Z0NWtWR3pUVThBNzcxNkw1UkViX2o5Z2Zmd2NOY2M1dVJ3dTY1bHJpbXpESFh6akpMYzJVUjA5NnZSNUdDaW00RXZsZ2hBZDc4SWllRDMyVHl1VkpQR3JGbHpwRi03THBxM053QmF0RjBVTl93NFdLNV9zTU9MZjdSYWV2ZjZpYkd0a0YzMEZyZzVHWTY5VFJu?oc=5",
-"source": "Bloomberg.com",
-"published": 1792672553.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "07c80b89fcbb4343",
-"title": "Chinese-linked hackers used AI in ConnectWise breach: Microsoft",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSGFXRjdUS1RKdGZ2M0l3TWdITEU3RmJqcm1ZbVFXa0k3dDgxSXFacS1kVjRjcEdDUzVSVDdhOWdFbmFibUZuTkJlY1Jsa0lpS1M3bUliYlJPZi1Md0EyRnl3TDdDNkRWX09SR2doWHNKQkc1NWZsY0RFWDQ0VF9DU0M5cFNUVVY0alRPWVMxRlhYN0JsRUFZeTdPWTB6ZGgxa0YwdDlXb1NzM2xPd0RvNFN4SkU?oc=5",
-"source": "Anadolu Ajansı",
-"published": 1792672437.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "1701b72656ce70cb",
-"title": "Infineon and Nvidia to develop gallium nitride power conversion tech for 800VDC data center racks",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMEJkZjJldDBpX3FLYXRlaDJJVHloNE1rdHFIdHJ6WTc1SllaSTZJWTU2QjFJd0xIemFOVHJNYVA5M2JkRUpYakJMeVJoX09pd1pwbm8yWXB1WVRZNW9IeG1zWGFrNFI1MmMtQ2R2aVlpLXZKSXFNamluNVo0N09CV0EyUXZpSFdETktKaGd5QUVCMzlTb2xKcC1pMnBqTVpxOTZyQWZXZndyRnA3Z2lsdXhPMVFhS2pHZm5Hd09GaHNTaXRNNnR3aWFLS2h6VjBqVWNjcmxITjg?oc=5",
-"source": "Data Center Dynamics",
-"published": 1792672398.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "aafba8525053e7c7",
-"title": "Keybanc maintains Overweight rating on Meta Platforms, $905 price target",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdzNpN2xhazJBd0R0b3VJRWExNVVBUjl2N2tRMXBmTDh2aVc2OG5BSzFqakVyTVp6QlRydThzMlFmWmRGMm5Na3d3WmNkNy1YOHJuZ2RBcFEtY05ZYVJTRHg4TDI1NzlESDdSZnZydHZGV05aMlJON3Y2MTFLdTVkeWpaMDdCbjZmQTlFcmRmUXMzSWh1RkdDaTl0ZDdhVjdhVENtT0ZQX2RLc2IxRzFPdl9adnRoNnF4WVJENEJ6b0hGaDF3TmRiTF80SHU?oc=5",
-"source": "TradingView",
-"published": 1792672230.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "4bb4234ecfd1ab9e",
-"title": "Here are Thursday's biggest analyst calls: Nvidia, Tesla, SpaceX, Meta, CoreWeave, IBM, Block & more",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNN0JzLVlwTHVQMmdRcmplTXJYS2l3ejJGbGQ3cVpYamFSZWNVWWl5X3Z6UlJpekp0Q3h4QmJiREpMU1BsUWtwMGdHdm50N01iTXNidmRqejQ5YTE2Vkc3d3l2X3dVV09rc0tOUnNDQVB2SldCWW05elh5R1dfcXZaYTFxeERndmFIZnZMcE5BQXM?oc=5",
-"source": "CNBC",
-"published": 1792672176.0,
-"stocks": [
-"Nvidia (NVDA)",
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "7063a768465be3fc",
-"title": "Tesla, SpaceX, Meta, IBM, Lam Research, Spotify, and More Stocks That Explain Today’s Market",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5BN3EwZ1JSQWVhWmowRnhCcllsSVc2QXlpc1laQnZuSkVvUXpjTjFwaHpLT095bXdvUDhWRWlTdlAwcEJIY2dVZWNrLUxBSjk4VzhMTnlkRlJPX20xSmJNaEN0WVo?oc=5",
-"source": "Barron's",
-"published": 1792672080.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "1f551e0550c9291f",
-"title": "Man's Tesla video leads to acquittal, police officer's resignation",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZWJtWXVzOFMwc0NSOWduRllMaS0xc0N6Mzl5MThHcFdORGs2dUtWSTE1cWY3ckFoYk9UZ2VERF9YMkNodjVGQTFVVWNJa0ZFc2JvRTR5am1jN2NCTkpBamxuUEVxMkg2akQyMDZZSEllMTF2S2tRNmV6OFdQZHhlUFFJRkdXUkpYdkp5RUE4dzduMUhFM3VnaS1KcklkZHBqVVBSYUNjTDk?oc=5",
-"source": "Gulf Coast News and Weather",
-"published": 1792672080.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "24a7860f00cbbbbb",
-"title": "Citigroup Adjusts Price Target on Meta Platforms to $905 From $895",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNb2hxOU80WkVha0hzWmNQN2Q1OFNBdFU5d1NRclFPTWdzMlZWQzdDa1E2WWgxNXBILXUwSzZhTXNfMldIb2Z3dDlWemJROHpYX2xLRjBIckNBX2tvbW5EZzFQZnlvSlRqdnMydHV1RmtlckZLZ0VOWjEwQk9GNHQteWJnVHZsYThObWJhNUh5SEVFMDZ3Y1RwTHZZWHgwV284UTdZdnpfa0lGS3ZMVTdzZ2NCbElja1ZH?oc=5",
-"source": "marketscreener.com",
-"published": 1792672002.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "67ec073cf3be3a9f",
-"title": "Raymond James Adjusts Price Target on Meta Platforms to $825 From $860",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSUw2VHBMc1FCbVl5TmhvSFNQUFlIRmdkbnlXOEg1YjNSMDlYOWlKTllkU3p5bmxZMExUaXgzSVdXa1hydlU5a1ZxZC03LXM4SEZjOG5kdXZzVVJCWlFoem5fN3JUTGRyWUE3dFZMNmxlc3BTc0FCM1hxQ3JhaE5qaVhybDRjbjZSaHhQQllYaXQyV2JVN29LSlJteXE3aThCYkgzRF8yWG9FS0xWMTBnRFprckJpNnFpcmVqcVJn?oc=5",
-"source": "marketscreener.com",
-"published": 1792671857.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "5c087db015e384eb",
-"title": "Super Micro Unveils New NVIDIA AI Rack After Stock Jumps Nearly 10%",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQzZqcVBibUZwYTdqVWxON1BkUHJJSDlHUG83QVplV3FCcVNYel9Wbncxa1JzMEVuVnRlUWV3RF81S3IzSzhPam1WWlVDbjFFLXp0NUtWc0l6OFVJVEp0blB3Sk5vNkwzOEhHNDdLcU1qdGVITzZ3RzFhakRkX3U4ckdIRTRTSkw2eERSSDVHVW40ZG56RjJFbw?oc=5",
-"source": "Yahoo Finance",
-"published": 1792671854.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "1f8ad4e7eea16776",
-"title": "qBraid Unveils qBraid OS and Launches Hosted GH200 GPU Simulators at NVIDIA GTC Berlin",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPU2RZRDBsMnpNa2ZYcXpvSGQ2VFBwbXpHQWt5eHFMTUNtSWRCNjQ2b2J0WkYzbU9HSWh3by0zQklrRXZDcFhaZ3V3alpnS0lPNDA0dmZPSGdhaHFlSjRuT29RQ3NOYnZpU2xLRlVsQ1gtTExzN3VUd25tSUQyd3YzMEFPXzByNVpzTkstRloyWlQ5RTJ2NkxjcTZCYWpQeW1yS0tQdUktNjExcEYzbTdHd3RGNGswWXlmNG55TmhvRdIBxAFBVV95cUxPZWhfNDNPcDU2R0U3T1VkTlpvZnpzTUlXUENJS1o4SjNSQWFrLVdIdHpCc01hV2hTbEtvbEM4WWhGTzhtd3VzeGQzbzZXcEhzUXF4aEIxcm9hXzFjTWlFSDdNdV9jd3lpYWZQSlBmYkZsQ0R1MmZyU1c5enU4emh0TUdPelVNQThGaW5uV2tvMW5taXVrdkw4aldWT2trTVhvZjY4Nk5sSVF1Z3FZS1J0VXVSMmNlS2t6NTh1b1IzS3R5TmM2?oc=5",
-"source": "Quantum Computing Report",
-"published": 1792671810.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "d1b76f1e8b40f757",
-"title": "Monness Crespi Hardt & Co. Adjusts Price Target on Meta Platforms to $875 From $830",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYmlvc094TG51bXkyQ282RTQ1VEFNMHZoNHJzOW5Bc0MzdnlCdnI0UXpwZ080ZmNGd3FXRkNMMldRcUNfZEM2a2JrYmpFNTZlRzBnYkxBdlBleTRQaER4OXlRODRIcVhjSmtUdEQ4QWh5enFiQW5adXNESnF5VkZKdF9WTlBQSTVqcE4tOVg4Z0tBZzFUOHdDd3lKVzRMb01maGU1X1I2WFNQTEdjTHlXTndsWUtOcW5zRnEtYjNidXlBUDJEemJydzBEbw?oc=5",
-"source": "marketscreener.com",
-"published": 1792671706.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
 }
 ]
 }

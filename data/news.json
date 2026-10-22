@@ -1,5 +1,5 @@
 {
-"updated": 1792709102.618783,
+"updated": 1792710628.812807,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -69,23 +69,105 @@
 }
 ],
 "feed_problems": [
-"Yahoo Finance: HTTPError",
-"Oslo Børs (Google News): HTTPError",
-"Norges Bank (Google News): HTTPError",
-"Markets (Google News): HTTPError",
-"Equinor (Google News): HTTPError",
-"Aker BP (Google News): HTTPError",
-"Aker (Google News): HTTPError",
-"Kongsberg Gruppen (Google News): HTTPError",
-"DNB (Google News): HTTPError",
-"Mowi (Google News): HTTPError",
-"Nvidia (Google News): HTTPError",
-"Meta (Google News): HTTPError",
-"Tesla (Google News): HTTPError",
-"Apple (Google News): HTTPError",
-"Microsoft (Google News): HTTPError"
+"Yahoo Finance: HTTPError"
 ],
 "items": [
+{
+"key": "4acda043ea4522eb",
+"title": "Equinor awards Aibel Wisting FPSO FEED contract as Barents Sea project advances toward key decisions",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOZXFTU1IxUFZqMjEwTEdST2xhREpzUWVSN2wxclFMWmYySUlDbUVIUjBEbGNZVDFXNmhraVNGM3hEcWdUT0hkUUp0WnNTNk4wMzhfN1lhdVRjMHZsVi11T3NnX2gwM3B5SFpseTNSNjU1NlpHUFFvUWFfWHA3QjB6eTlENnQ5REd0Q0R1ajhmZFNuZF9DWU9hOTlBMmtUTG9iUkZ3WVRJcERzMUZqdUU0UWpLTGxKSWNYWWlFa0d3NWd1cjJ5eHVQUUhPakxQbWw2dVF0UC1lNXc5ekhWRF9FNElzNTdQSDZ3M2lLenFDQmQ0U00?oc=5",
+"source": "Offshore Magazine",
+"published": 1792710378.0,
+"stocks": [
+"Equinor (EQNR)"
+],
+"keywords": []
+},
+{
+"key": "655bcfb844e33044",
+"title": "AI factories package Nvidia reference architecture, but who's buying?",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcGs0V0ZNVnotOHhZdTN1aXVOSDlDNm9NTHdVUjNNLWMwRVhlRkpwUnJwRmM0dkQ3RVNTWUtBc0hOMGlmSzNFNDNMZUh4U3dpMkhMdlBfOGJxaEhXOXV1elQ2b1B0ZkxWYVZYUGY4dVI1QUJXYmZ3Q1VVVnV6c29EYm8xVmJJRGFjRDlSNFZfanpKajBhRmNnZ185WGM4dkFfb0gwdlNSMGNBQmE1eHY1dXBCdWxFcFpLSWM2Q3NmSkVPSXFS?oc=5",
+"source": "TechTarget",
+"published": 1792710265.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "48706a5d18473a02",
+"title": "Musk’s public endorsement of SpaceX-Tesla deal could complicate talks",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IclZMNXVxUklVOGk2OEJEZGxvbjlOSXlPSXMtZ1BwMVdlaHFuWDB1MDFTUEhXMDViMGh6NFlkdHhZRlhtY2tFWVQtc1RPazJLVlRnT3B1cEcwVTh4M0RNUkZNZTRfZUk?oc=5",
+"source": "Reuters",
+"published": 1792709850.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "1dee6bc749539019",
+"title": "Volkswagen expands with Microsoft Copilot as salary freeze for 660,000 workers reportedly looms",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVmgzUndtY2ItV21WZEdpQXJnRVF4Z1NnXzk1MmhqeTVJbW43MGtscGd0N25VRWdLNUFKQkVGMnhDZ3JZMFhGckhYNkRlU1pkb1Vjak9xUUlmMTJoTXFQUTBsVDJ2TmdNSnJOMnlXUjdvVXVFNHl2X3pETnJXSmhBR2lPeHRPOEJ1N2ZNUFZmd05jOU9ReDdnZy1sWXlpUmpSb0VxbWhWX1ZTblVkWGd2QVRqQXBWSmplU1JuaGl3UTdkX2tTMWZjakpaVTRVYkhPaXctOXZWOFBnR0t0MG84?oc=5",
+"source": "The American Bazaar",
+"published": 1792709621.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "653c7f46c2d39e83",
+"title": "Aker BP, Höegh Evi secure €223 million EU grant for Atlas North Sea carbon storage project",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQRWtJam04US0wUDVLNHZOWjBmcUpRZ1dTWjBQTVc5akpYdGFQczk1aENYR3FwNFlmd1I4UFJJa0VETGlkMF9XRi1ZejdXX3Y5Ty0xdERIYzZKdDdLeERXeGJQTUJOODB6ZmlNUzIyY3RMNlBVcVIyT3JWMDZCUDZGcUJEUXFBNE9aYW9OOXh1YkplZjJ6UWRLa1FiSTZ0RHRHUThhUnFKRUxLV1k5em14cEtvN0hwT2pnNmtjbDY5STFtLTBnVy02dUlfaEItSjlYMEZkVVcxVktXRG9TOWdUU29ueEpDdTNsb3NCejFR?oc=5",
+"source": "Offshore Magazine",
+"published": 1792709426.0,
+"stocks": [
+"Aker BP (AKRBP)"
+],
+"keywords": []
+},
+{
+"key": "68fd0ec510f8e049",
+"title": "Elon Musk's Tesla eyes transportation 'domination' as Cybercab expansion heats up competition with Waymo",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORE1XYjJ4d1NiRUtELThQSnJoWmJvNXU4UHdQcVB6OC1ZV0dhUEZWOFUxTTI3UWE1Q01zZmJVWUdNLV9OY3FEWEZDaWxyREU1TFdDWkFIV1JIbjdGMnFmUnBqX2M4RU5SODY5WWVmUUFXVWJiVjVGY21LN04tWVFhOVYwRmVVVXpHLUxPUDVEMzBzZXBmanBaRENzUktucEQwM1FYVzFVbWx5RWl3N0VrV1B1a3RkeXQ3VkVzcVdFdHJ2SExjc1l4WDA2ejk5NXRjWFlIUEU3X0o?oc=5",
+"source": "New York Post",
+"published": 1792708980.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "e026383e206773ea",
+"title": "Tesla’s secretive “Project Crystal Sun” gets a big green light in Texas",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1NMERrYlJBaUt1OUk2Ym9QYmltUXpBNkdmQ1ZsQW5mN0lxZkxvSC1xc1BvWUw0emEzNVpUcVNpODJBQnhkTnlaSmk2dU5Qa1JuY0FaRTNFU0s0LU03TXdkT2RXWGNCWnh0am56cnN0VTFkWUtWc2c?oc=5",
+"source": "Teslarati",
+"published": 1792707997.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "7499530ee293d5cb",
+"title": "SpaceX now says potential blockbuster Tesla merger would need Elon Musk’s approval",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRzJmWFdZbjYyeDRqWEx2TjJna0hZRUtjZmxoYVROSS1GODFIRGF6MVQ1ejhBd0RnNTRXblkxQnIySlFRTkhTQXNFRnE3Vy16SXB3MG9nc3I4Q1BlWkMyVGx2QUNyWUNySlViQWhtRDNHY3M3SWNQaTVkV2ZiNnVVc0NHdEpUS2tjQkphMkZZRUgyZGVi?oc=5",
+"source": "New York Post",
+"published": 1792707720.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
 {
 "key": "96a3beb8556349c4",
 "title": "Stop renewing Microsoft 365 and get Office for life for $50",
@@ -123,6 +205,18 @@
 ]
 },
 {
+"key": "e1890e223299cfd1",
+"title": "Elon Musk sends a strong memo to SpaceX and Tesla stock investors",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOM3V2dVZGYWZMZU5XUm92eEV6TzNyUk1MSW5zYjFBc3p4aWo2dzhPZkU0c09WQV9VZUlxR0hYNlNobTcyUXJLdDVEX0ZPUHJRbTZnS0NzNUloeXB3VmF1UVlQdnJaNGlEY1lkeWc4M3dlZDlBUkRoaXQzOEFQLTdQa2xVd3U0eXE3Tm15ZjN4X201UQ?oc=5",
+"source": "TheStreet",
+"published": 1792706580.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
 "key": "8b9af2903812e8ef",
 "title": "Fort Bend County approves Tesla economic incentives | Sugar Land - Missouri City",
 "summary": "",
@@ -155,6 +249,18 @@
 "published": 1792705137.0,
 "stocks": [
 "Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "85275032e0d49cb6",
+"title": "Nvidia boss criticizes 'cheap' AI doomsday warnings",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMnZiLU1OTmtaUUNxaE9MdV9yYThqMFk4ZzVRZURFSEFFbUZFOUhxbXVQSklRWjJfdVNBM3JOLVg1M09oREY2YU1kUnA2TjFER1h0eGQtNnh1czdFNFc2ai12RFpZZ21kMWlEalp0MkJBWjAtRmVBOUM1bkhmOGpmYjNxLWFzbHAwSnhMZGxicUcxRGdiWENv?oc=5",
+"source": "Japan Today",
+"published": 1792704955.0,
+"stocks": [
+"Nvidia (NVDA)"
 ],
 "keywords": []
 },
@@ -201,6 +307,18 @@
 "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPekJwbzJpb0hnTHRJeE8yRWNyNzM3QjF2MkQxbzVSak1vNUJmQ3ctRWd2Q2stNTlzcnppeTc4MXRra3pXZHlfVUYtZEptbFN0RWxCa0Jrcl9SRHNaWWJkUkxaUXU3aVRvcGFTRUNwbWdiS2l6RmdpLTdERGdrdzJCMlA4c1hxNHV3a1NYMzRfdUxVRldYc2hkMmxsRXJCY2JCaURRNlZBZTh0UQ?oc=5",
 "source": "Reuters",
 "published": 1792704635.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "91e989bbdfd9bee1",
+"title": "Tesla is building its own maps to fix Navigation issues",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRUUxTl9mejFtcnZSQWdDVVpWaTVfVEhGa1h3ZllZZHBKeE1LclB2UU53MGkxTXZ1V1RvdHh6N3F4VUJMd3gxUVcyekoxTFd5WnZ6VnQyN3JCSkRfUG9iZmJNNUdKQlpmdWxVcDBUVzFjSHJEdmZoLVlyZjU1Tlh2SEpR?oc=5",
+"source": "Teslarati",
+"published": 1792704398.0,
 "stocks": [
 "Tesla (TSLA)"
 ],
@@ -255,12 +373,60 @@
 "keywords": []
 },
 {
+"key": "52a110cc70e1f067",
+"title": "SpaceX says potential Tesla merger would need Musk's approval",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE01MEtNUHAtSGE5bUhXbVVPanhJZERCSEozeVNmRDRJV2ZLLWNzU09Sb2x5NlBzbnJfVjJwaWxkWmcyUlpqMDdEYWFJUUtuMlBYZ05VRll5UG4yczc1eHVWN3dLOHBRU0xRdjhrbi1IODE?oc=5",
+"source": "Miami Herald",
+"published": 1792703705.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "1714ddf03304d869",
+"title": "SpaceX says potential Tesla merger would need Musk's approval",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fUURRQTNnSXhWTWV6NGtkRGhGeVVnUWpFZzI0cHQwMFhqa3VJZVYxQ2N3SE53b0FqWUEwaWwtdm9YU0pwYXJta1pmRGNuNXAtcUd2VHYzRm5JaHpWOXhNZlhLalVNV1ZRTFE?oc=5",
+"source": "Sacramento Bee",
+"published": 1792703705.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
 "key": "f3e943118f0b6d13",
 "title": "SpaceX says potential Tesla merger would need Musk's approval",
 "summary": "",
 "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WNVppYWZxaVZKcnBtQnp6RElGd2RwR1NneUJwRldJWlFudnJFVTNRQWhva1JYbGtIZlFVMEhPSzBUWXZfeWtoOGM5YkpYS3BhZmdQU2UwRWR3LTF1WnJJaDRObm5UMnlGYkE?oc=5",
 "source": "Wichita Eagle",
 "published": 1792703705.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "fbe12d97ab397f98",
+"title": "Microsoft Links ConnectWise Breach to China-Linked Group Using AI Pentesting Tool ARTEX",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNeHd4RTF1SHRoWmpRbHhERXZOUnZlV0Q2VzZBQWkyTmxucVBrS0xkMEVVdVo0WGpHdGFFZEZYZlpCNEktRkNlb0RkdGNwMHdxMTdVbzM3bGtqd0xYM1Nnbm1vc2VkZVZuV0JkbV9fQmVVc3FFM21hT1k1LVk1T3BMckFvMlNla0xyMXRQMXE5Z0dEcTVFX2hDRmFQWmN1RFI0a0pPVThXZEVkMFNFb0puSUMyVnlrSG0zYW5GUUp3UzNwNXpSODFGS2xQd9IB0AFBVV95cUxQWUZ0dmU5a3BCUjgyeGFXbDFMaEpINVZ5VzE3eVVVU0Nvd2VXUlQwejBfZjA4QlBHTWpvRFRsYlpUWmlBa0xlUzlyaU9qdy0teFNodzBQV2ZJRDZFY2xLdVJYUG03T205V3gySFB4M2VqQ1l3c1BPRFJjVGg1ajhUX211R2JPWEk0X1NJZmxkM2l5X0tsYkFxaHJpQXVCNXJGa2MtOTd2SEN3MmhLNlJYZi1tbEd2M1FxSFpCZjNpUW1RWjhGdkxoNFMtWDhVdG5X?oc=5",
+"source": "Security Affairs",
+"published": 1792703672.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "d5d03cab6a88a974",
+"title": "Musk wants to merge SpaceX and Tesla: Here's what to know",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdWhDaGdPbl94QkpUY3I0ZXVsbFQ1VGtTY09OQWVrUTEyanRnUm5reE5GUHE0R1FCSkZ4RW9ZQnk1NjVIbDVscHBndjVXakRMN2d6Q0JfZ05wV2JycUdxR0F6cXRON0FIX1NRSENVblNXNWlxNmJmS1o3NXhEUWhBQm9rRlhHWXpjZlVxbU9QbzBfdWgyM0lOOEZpNA?oc=5",
+"source": "Yahoo Finance",
+"published": 1792703454.0,
 "stocks": [
 "Tesla (TSLA)"
 ],
@@ -309,6 +475,18 @@
 "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYkVJYVpsMU9oakY4N1pBOHhzLVlqcmp2ZVBoazVma1R2d09sOXJUTkh2V01YMHIwaTVwSjBKa2ZoSzgtc1JJMGRLbG41R3lhSkxLaFNjMU9CemhOdVplcHg4LXlQdERmQVZpdFVSREZ0MDBqQm5ydWczY3l6M2Q2Z1ZFLVg2UTBGZE9VcE9yYUV5QQ?oc=5",
 "source": "CFO Dive",
 "published": 1792702784.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "cf0050b667d0adfb",
+"title": "Tesla cuts capex forecast to about $20 Billion",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBCdm5tVE8yUl9XWkdIQlNSSm5meXM1N0xDVXlBTmg0ak9MdG9UbmhKbVdEZnhoa0FPRHNRdF9zeTBRRVFmNWFma2lmd19xX2NqYW93NXFwOU5fbFE?oc=5",
+"source": "Fox Business",
+"published": 1792702724.0,
 "stocks": [
 "Tesla (TSLA)"
 ],
@@ -455,6 +633,18 @@
 "published": 1792701358.0,
 "stocks": [
 "Meta (META)"
+],
+"keywords": []
+},
+{
+"key": "6e6b031feb7c2458",
+"title": "‘Propulsion-Agnostic’: GM Wants To Bring Tesla-Style Software Features To Its Gas SUVs, Too",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaDl2Q0RkTHczUGJrSXVCdlRVcUNqWlBhT1p2bDltekpreHFnd0IzX1R1X25oMVV6Y1hPR1FVRF9JZFQ4THhjQUM3emkwNUJnWlNDNjBFTTZnZ1NmeXZaTGVqWms4SFFzMXRYY3V5NEZrTDZhWEszVjFzLVJyTGJTSmwxYk81dw?oc=5",
+"source": "InsideEVs",
+"published": 1792701300.0,
+"stocks": [
+"Tesla (TSLA)"
 ],
 "keywords": []
 },
@@ -4693,211 +4883,6 @@
 "Tesla (TSLA)"
 ],
 "keywords": []
-},
-{
-"key": "c831a5740c345cd7",
-"title": "Just because Tesla’s Optimus is in production doesn’t mean it’s actually ready",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRFZHWXg2bEliTDNzUThETTFkc29pbWZBWVUzVmo3cl9lVDZsOXpsWnhPZU9NZ29ESGFGMG5JcGdldTlKTmNRYUw4WmxwdnhRZTl4ZjlqU0w5VTdIZi1EcXUwcTg4ZE5GNENKc1NYZGlCdkdYeXhMNWtkZW9fUGZqam1fM19IZmpEa2FmS2FSVQ?oc=5",
-"source": "The Verge",
-"published": 1792673607.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "2854a310ac5202e7",
-"title": "Brent crude near $112 as U.S. and Israel reportedly weigh fresh Iran strikes",
-"summary": "The Middle East conflict could flare up again as the U.S. reportedly plans to resume strikes against Iran.",
-"link": "https://www.cnbc.com/2026/10/22/oil-prices-today-wti-brent-saudi-arabia.html",
-"source": "CNBC Top News",
-"published": 1792673508.0,
-"stocks": [],
-"keywords": [
-"Brent"
-]
-},
-{
-"key": "cac64a19fba5b24b",
-"title": "Aibel wins engineering contract for Wisting field from Equinor",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdUFUWW9JNTJadVgxLUtOSlc5WHlFT01tNUNST1JNZXQ5RFR4ZEdIb0JIejBLa1Z6VW45TVAzTS1aV09GLUVqUjFpN2tvUGZ4Tk8xel82M0NNTVFvVjNKWVpUanFTSUJHdnhsSVFsTHM3eG5xUkFZZjZDWGNHREhqYWVVWVdpdzNvU2xxTkk5ZGtWblhqczgzSWlrX1cwa3lEN203VlhockoxdHBHajcyRklMWVE4dw?oc=5",
-"source": "marketscreener.com",
-"published": 1792673488.0,
-"stocks": [
-"Equinor (EQNR)"
-],
-"keywords": []
-},
-{
-"key": "85e0f56c4e33a768",
-"title": "Aibel wins engineering contract for Wisting field from Equinor",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdUFUWW9JNTJadVgxLUtOSlc5WHlFT01tNUNST1JNZXQ5RFR4ZEdIb0JIejBLa1Z6VW45TVAzTS1aV09GLUVqUjFpN2tvUGZ4Tk8xel82M0NNTVFvVjNKWVpUanFTSUJHdnhsSVFsTHM3eG5xUkFZZjZDWGNHREhqYWVVWVdpdzNvU2xxTkk5ZGtWblhqczgzSWlrX1cwa3lEN203VlhockoxdHBHajcyRklMWVE4dw?oc=5",
-"source": "www.marketscreener.com",
-"published": 1792673488.0,
-"stocks": [
-"Equinor (EQNR)"
-],
-"keywords": []
-},
-{
-"key": "51fcff2ba61f272e",
-"title": "Our top 10 things to watch in the stock market Thursday",
-"summary": "Meta and Tesla are falling after earnings.",
-"link": "https://www.cnbc.com/investingclub/2026/10/22/our-top-10-things-to-watch-in-the-stock-market-thursday.html",
-"source": "CNBC Top News",
-"published": 1792673480.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "80833f810d3cbcc8",
-"title": "Microsoft Expands Sovereign Cloud With New Encryption, AI and Operational Controls",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYmxVeDJjRXFQS1drYm5Ob2g5bldsLTlPS1psaU84RE0tX01sUXRIQTdsLXB3NExub0lsaGpvSC0xSWxqTDZHejdXTXBWWmxfU082cXB3SEZZNzRJOUdPSWxyQmlvVTFoR1B3aHdSUUxMRWRwQV9PZWdpYkZyZ0tEc1lQRFVQbWRSTUJVMFVOd0VhRHhjMi1rUVJaSEV5bXFBaEh5Zk9DVmxMV0VTSlFPcDJjZnNiRjA?oc=5",
-"source": "Konsulteer",
-"published": 1792673369.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "bc57a3d2a1c4647b",
-"title": "NVIDIA Launches OpenShell Reference Architecture for Safe AI Agents",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYnUzclF5TmFaSVFSOHBBSmhSaFN0a2o5R1IxV3pOMzZNM3htLXNKWmpZTkc1NFctaklCc0hkREctXzhYTEVobzdhcFhiUVVibzZiYm9ubFIxX3R3aV9lM3ZpY0k2R1d0MHRsLUlQc0hOck9VVXNDMUlPRGx2QjcxeEdleUc2VVB1aFUxaUxwS1M0dEhSOU9rRi1ySlhsczNManY4WUIxQ3U?oc=5",
-"source": "HPCwire",
-"published": 1792673332.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "bbf406819bfb80ac",
-"title": "Rosenblatt maintains Buy rating on Meta Platforms, $900 price target",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZUwtQkN6TGNNNjAzQlNtaThWSEpGa2FpZXEyWGc1R1UydHVXSHVaNUoxZDg3TnBRcUxLcFZaVC1sODdPNGJORGJMYzBWNTZOdU1uZkRfRGI5dG1BR0lxZXZ1bTBEbDhmZzJjaVNQSm15NDlDTGcwUVZKYlVuMl90MlR1OTctd0Vhczh5ZEdlOGl5ZkhXSi00bFJ0bVh1UDVqQmVaNWxCQnZvaHZqdDhuR0pCNkJOWHVNazQ5bDR2NzlHdlZudThz?oc=5",
-"source": "TradingView",
-"published": 1792673320.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "3c33ea3cfcfb244b",
-"title": "Guggenheim reiterates Buy rating on Meta Platforms, $850 price target",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQclBBWXAzQWhyaW9KX2tBVmN5MkZjUmkwajJEd0hUNXFIRElNdERYRWxra2ZEMzBTZWFxOGUzVXNFanFyZ2dPZVZEc19VWkFDQVB6ektoMVVreEZ2N0dMRUVPRW13eVdZalBqalpnN25lLXF2R0pYN1VuRnhMY0hOYjBfUEhJVm95UEV6dk9CUnNLaVdHZVlzeXRJT0RQWFFuM01VaWQwZmxKNk5qd05OZU96VklUaElIRVg0eFFISXNVYjVYRXlOZg?oc=5",
-"source": "TradingView",
-"published": 1792673286.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "83f2a850e504ebcf",
-"title": "Tesla hit a monthly sales record in Europe as Chinese rivals gained ground",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE44SkdLUFQ0aEd2LWRRQWJCR1liMEppQk5PWV83UnlCcFNjR2s0ZEtrVk42T3ktbVBsNzYxLTZ3cG9QUWhLbzY2NnI5OElma0F4cHlHUmpUc1JaN1hxUm5MZG9DNFpTUENBcGRKQUZmUmF1dXhKSjVpclVn?oc=5",
-"source": "Quartz",
-"published": 1792673255.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "0be393bfb4e0bb53",
-"title": "Infineon Collaborates with Nvidia, Microsoft on AI Startup Accelerator",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcHZ4RTVqVXk3cDJKbThaOEhEenBXLXAtOEF6N1ZjcE52U0lKUUxmV3F2ZGlCQ1VXUlY0RWxwMEc3ZVpRRXktTk1uWmNpM1VTbjNYUndKRmhIVEFhWDhmZkMzaTFfWnZZcURhVmpUS3JKaUwtTW9TbXQ0cEV6Z2lnZy1OM191dHJLXzMydHdydzJYamVULU0xaTNMVkZhQUgyQy1CRnRFaUF0QWc2T1ZMazVGS0NlMnFzV01uWXZHRQ?oc=5",
-"source": "www.marketscreener.com",
-"published": 1792673245.0,
-"stocks": [
-"Nvidia (NVDA)",
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "eaf67dd8ab6ed1ff",
-"title": "Tesla Wants Cybercabs in Customers’ Hands by the End of 2026",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQajNiM1h1VTNxZVVLUUFrUzdLN1B5enFsLXBVTUliMTk1V0hlQVVuNlphc0kxTVpFN29vZmhueGxFYUN2WExXT010eWFuR3g1WGxsVFktR01JOGRxTHZ6bFRxb25lY3NLQzcxdTB4Ung0aDVaV25zUjdXSWpHVXNtUloxOEpHYWM0VUp2OGxDNmFnMWxGLTJqT2ZDdjF4cG8weWpyUg?oc=5",
-"source": "Yahoo Finance",
-"published": 1792673139.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "1b5d345fe85e3b3e",
-"title": "Alef Hits Back At Tesla's 'Flying Car' With Video Of Its Car Soaring Over A Roadster",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMWJXSzZhdEpyb3llQ2xVX2U2d0tiMTVYb0liaXp2TW1aOVYtSGJkb25fSmhQWFA4RTlhMVFHUWJranphbXp6ZHZVdm9DQ2dkWFNFejQ2c0NMd0hOX19ReFkwUFkyaERtUGtQanYxTXNwU3FLTkVNYWFwV3haRmxLaWNaa25qUVE?oc=5",
-"source": "SlashGear",
-"published": 1792673100.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "40d61cad770eeecf",
-"title": "Tesla Wants Cybercabs in Customers’ Hands by the End of 2026",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZWhHVnZ2RHFTZzNZeGtTVVppQTN4cVVZSVJKQllDeUNxRkhLemFIR3prLS0xbGZpWGJNdEcyeG1RWV9PUVNETlR0MDRSZ1hweWdRZVhwVndkQlB4T01yeTFMRmZ2TXRjYVl0RE5RMllRcmJmeFhoMVRlbVV6OXpXZGkxSXBERXN3ei1XeEtXb05QVTBrSGRrY2N2blF6Tzh3NWVTcXhn?oc=5",
-"source": "24/7 Wall St.",
-"published": 1792673100.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "06201b1bae5bf88a",
-"title": "What Does NVIDIA Offer That Skyworks Does Not?",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaUdhdUtING50M3BManI5TElkVmY1ZlJ3NEdxZFBNNEdTTldXOXNkWFJQYnNoazlteWZUYnN1MmotZl9LLVF1dnhxMnk5RnAtNXl3R0tnX0FScGdMR3JkWFV1eVN6WE5ybE5jbmR6aHJjS2dfU0YwN00xRFVVT003dzhQUnF0YVR4YmI0R2FFdWw0OXJEbERzbV9pSmRraWo2c2ZQcjhodXJJdw?oc=5",
-"source": "Trefis",
-"published": 1792673091.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "3d9648e6b79a1ce3",
-"title": "Equinor : Aibel awarded contract for Wisting",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYnduaHdCbFh2ZndISklORDgtN0s0anJYUFFBUmRnZml6NE5qYm1PM2x1enJlbEZVSUtOUzV1OU8xM2lpSXB5djJOYUZrX0NTUjdhbEpxeG15eVduRlBZWkVXbkJnX3lMemRMWE5sdnlnUlFRS19iLW5iTmFkdWU5MENpWERFc2g2SlBrdE1fUE5lM0ZWZUFZX3pXVQ?oc=5",
-"source": "www.marketscreener.com",
-"published": 1792672688.0,
-"stocks": [
-"Equinor (EQNR)"
-],
-"keywords": []
-},
-{
-"key": "205170ee3c0d7ab2",
-"title": "Stock Market Today: S&P 500, Dow Jones, Nasdaq 100 Futures Drop Following Asian Market Sell-off, Middle East Tensions— NFLX, SPCX, SMCI in Focus (UPDATED)",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNYXpuYWRISkdtVHdLZXFENXVkLWZsZmFTQmhuQ2N0ZDB2NkpEZThSTnRteXVocHFxMzE3aER0YjhaZ2E0SHR4dThYYml3bnZXRDlOYktoQU95aXlUUlVGYTBTMWx3U0RaTlh0b3RvTXd0N1NqakJHQUJ5cUU2NXJnN2c2Ry1LaFd4ZVBBajRQQ0NfQWtCZUs1S0w0cE15QTFDUlNORms2cjNxNjM0UVBBamR0SWdmbkk4SllMVUtDXy1yRU1XOGhVUkc4NmY4c0J6aklNWm5tanZHSDY4UG1NUXJ2OFlGTFE2dkNYQUd6MW96SHY0WVpZeDlmSExuODJQblZBTDZJMDFJOS1sYXVPSkJvYzI5SEJEWktQNkpxUkppZUpOU1NUM1MxdFg?oc=5",
-"source": "TradingView",
-"published": 1792672658.0,
-"stocks": [],
-"keywords": [
-"sell-off"
-]
 }
 ]
 }

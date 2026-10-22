@@ -1,5 +1,5 @@
 {
-"updated": 1792632471.8384945,
+"updated": 1792634637.1771407,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,6 +73,55 @@
 ],
 "items": [
 {
+"key": "53923918bb399926",
+"title": "Merck Collaborates with NVIDIA, Microsoft and Dawn Health to Develop Novel Support Model for People Living with Rare Tumors",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPd013WFZKdnNXYm1zN21MVU02eVpLVDY0T0Q1X3ZZXzAyQVNkNzZtUEtkS09NUlJYTk9hdkNOb2l3THhQbVk4Yjdadkg3bFV0VGFKYlAwT3AyNk9yeGNSaHhpMzhUVHBGa0xfNW9WSHpxOU5qb21EVG52dUFIc0RJVHpncXVfTXZMZC1fTGxjOVdkbzFGekRUWi1wZHdmTlA1cXJmam8yenZ2ODJZaTh6WXhFOTQ4ZUtBQTFudHU4NnhDVExma3E5N1lOODI5cVZzbFJ5OFJ1ejdza3ZWUHYxOW5TUGV1NzhEME1LMXY4Nkx4UEZa?oc=5",
+"source": "BioSpace",
+"published": 1792633795.0,
+"stocks": [
+"Nvidia (NVDA)",
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "3e86190517399849",
+"title": "150 years of CAS chemistry data comes to Microsoft Copilot",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNEdWWjFwOEVDdTRfc1lMekFVaVJ6QkI5QVdPZ01qNEYwa3ZvYmZlSmVmR2lrWGdiOHNzankwZXZjSmJYNWRMc2lnaDNLSVRfZE4xZTRJczctQmJ2ZUlLZU1iU2xqaWlRbWJaQ1RpaWlzaUQtTjJyNGhsdXhBR0FhNDVKTS1WcU9aSG1BenB5VDVMeUk?oc=5",
+"source": "R&D World",
+"published": 1792633071.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "51dbb66336d2e56d",
+"title": "Tesla aims to sell Cybercab robotaxis by end of year despite federal probe",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUzlnbTF6RWxvZ0Nnb2hjaW9IdnBKemRlb3JhR28xOHBEWEtWY0hHVWladXlOYUVfUnpQS2FVUXpnMUlBTHEyRlo1LWtQUEdfQWp1TXliazBoWVNfUTEtUXhwX1VuTlI2NWF4bDNON2ZuQldudllLdlVCcGRPYjdCeGZJWkp4QUsxQ3lwSEE5VzRUUHNpMTNNQThYMVl6TU8zdks1MTZzY05BWVZocExLNE1uNTRLS0Z2QWZFcUxLY0xVd2h4dHppNm5Ha0wyV3c?oc=5",
+"source": "Reuters",
+"published": 1792632960.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "b01ce2f48c66a45f",
+"title": "Tesla Cybercab gets a for sale date at last",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5LR1pfemY2allfSGRuX1g4bUhBNnBlU09Dd1VhRVRhVUNOaDBKT2ZQdUpMMjVFTFozNG1NZ0lWdWtiR011ZHZ4QlBXMFg4Q2FkdHdTQkx1ZXdOeXZsOFZiV19pR2JkaGdmQW1tOVlMeUdVZw?oc=5",
+"source": "Teslarati",
+"published": 1792631960.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
 "key": "2f2033d2047741aa",
 "title": "META, IBM, TXN, LRCX, TSLA: 5 Trending Stocks Today - Meta Platforms (NASDAQ:META)",
 "summary": "",
@@ -105,6 +154,18 @@
 "published": 1792630620.0,
 "stocks": [
 "Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "06f29afa1714701f",
+"title": "To help world gorge on GPUs, Nvidia brings cash bucket to fatten wafer-thin supply chain",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYm1pNjFiby1OTHR1Q2pYa2YzTE9rXzAzVnNSR2RIZENqNWVjSGJzcVQ2WG1BTVRDWHJxVXVYcndIVVp2dzV1MFh4U0w3Qll0WVdUaTM4ZnlxLUdJZzRFaUh3Qkk5WFJaVkRJNVN2cy1CVWc2eDgzaWJYY2Fnb1hVR3J3T3NHdnBoYXAxSjREV3JnVHhkQ1JLNm9nUDE4TWNyTjdwMUJmWFhmbFpON1RRVEstOTVfT2ZjT1FNZHlRZGV4NjMxajhselpkdFBqZ2pHamdFQlNVSnpJLWZK?oc=5",
+"source": "The Register",
+"published": 1792630473.0,
+"stocks": [
+"Nvidia (NVDA)"
 ],
 "keywords": []
 },
@@ -812,6 +873,18 @@
 "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb1FfZ3ZRcmdpVzRDNS1YVFJ5Rzd2UVlCR01pNXdfdER1eExOZGs3alc4M0tGYVlOWTlmZV93MlFCekZTSzIyN3R3aXR6RTI4ZE1ERlZtM04ybVpybWdZdUFRUU0wcVl2U3ZWaEkyUjE3VDBqbmRoYktWM0twT1h3dmRTNF9XYmNiZ2xVeGdGTnRPTzQySE93ZUwzZXdwUnhJTkFWSTZsQU9Qb2ZLMngwd2Nybw?oc=5",
 "source": "Bloomberg.com",
 "published": 1792620325.0,
+"stocks": [
+"Meta (META)"
+],
+"keywords": []
+},
+{
+"key": "c9503c01ddee7db0",
+"title": "Meta Q3 revenue tops estimates and Zuckerberg says Muse accounts have topped 10 million",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOdWlSVjBpS2dXVU1oOXZlWFpzaUhjRGYwT01ObTA0VW5DdHkxY0ZveHc0RVpqc2lqdzVKYWlYdXlsaldkX2FzLWFjaWNZMjEtMzF4LVhjYUtxeWNoMG5kNHNZOTBrY1NEdVdfVDQxSXU1TFoyNTF1TTJqc19iNHo2bTlOdlh4RWZLZWtBMHVMRGFUVWZSQ1ZoQ1VVWlJLSHpFd3A4N1UyR1BoSXFVaVNNY3A3c3hVXzVQR0hnTTd4UGJOVDBjaTNiYjJORVhuYy1IamtKTWVkeVFad3Mxcm1YU0FPWm9YVkRUTk96OXRVc2JaNG0xYmhkeWRWWnlqbjBPQnFIMzVWTUpjX3FYSjlJ?oc=5",
+"source": "Oskaloosa Herald",
+"published": 1792620265.0,
 "stocks": [
 "Meta (META)"
 ],
@@ -4807,78 +4880,6 @@
 "published": 1792593610.0,
 "stocks": [
 "Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "1bba61a1a180d863",
-"title": "Why is Meta Platforms stock rallying today?",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVkNaY3NMVUdoQUhhNmp4RC1jTkpmUUJ5WjhNX0ZwSEp2bkgtMjZ2c1pjVkJEeF85X2huSmtuaTJ0RkhlZWt3dTZiZ2VuenpGb3ZZM3BNWFpwc1ZZdlpzNnlURnZQUWFoS1pBQWxXTEhkV2ZTMmNqaWgwWVgwWjY2NDVHX25VbVNuOUlmdlRQME8zUlROaDBZalJMa2djMmN0NEFlU1NWOA?oc=5",
-"source": "Investing.com",
-"published": 1792593399.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "7ae85defd38b8d51",
-"title": "Meta Platforms, Inc. (META) stock price, news, quote and history",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB4R1puQ0Z4d0VwYXkyb1Z2LXQteDFfUE5Vd2h6ZnJ5d3UyZ1F1Vm1Ib3ZEWmZXQUJUeklBQVdwNkhBaERNeGlxQ05tRkI2VXNLU1E?oc=5",
-"source": "Yahoo Finance UK",
-"published": 1792593376.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "5429c473b4797494",
-"title": "SpaceX Stock Surges 10% On Blowout Earnings—As Musk Confirms Potential Tesla Merger",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMmxzdmZONnJveF9uSTFQam44cmhERmkyTndJazloNVhyTmlfcHBCR19UcDNqdkV6UnM0WFcwRFVCNXBFbWxaX3lLSkU1S2tGZjkxcWFFazRyeVpmc0Y2VzdBVllTcG9jNlVNQVprZVl5NktfMmUwT0JNVThTTTlOTkpiTGpzNnVGbGdMVnJiZG5TSlhCb3pONWtlUnJKQkUtLS1WRVctVXowVXp3LS1peEtTZEJJT2l3ZkFOMGpUc0FFOVpDWkNZUTVGMkZYRGc?oc=5",
-"source": "Forbes",
-"published": 1792593300.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "e00f58758566afb1",
-"title": "Prediction: Nvidia’s Road to $1 Trillion in Annual Revenue Could Transform Its Stock",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRWlEZy11V2VhaHhuM3JiSXVmcDB6Y1p2MzVhOGdBQVdQUU1RTXNRc2RNdXF3U2xaVGxHM0pNUGxqallUU0l0TWROenpBMWRpcl9sS2lUa1lGTnlJOWtkUEg0RlB0a3BnN3BuOGViQy1tS3IweFB0ZHE2ZXdWdVEzalRQenpXa0xwZzFUb3BRVlZYcllCUjZxVEpFN3ozYnc?oc=5",
-"source": "Yahoo Finance",
-"published": 1792593057.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "cf23727e4946b6fe",
-"title": "Microsoft Is Removing 8 Copilot Shortcuts From File Explorer — Here’s What Stays",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPR1MwZktQcjZHV1JXZ1I4YnNETjR6TnY5MHBjU3huX216V0RuOGRITHppTlVnYVRVWW1xbFVGU2JhTGZvZFNZU0lsdnV0NmJqYlg5RkVfcV9JTzVlbzJvVVdhSnlMMF8yN3N2eWh3U3RnUjYxc095Y0p5ZzBQTFp4d0xqTG84M2Y1aURyVTQxMmNUeGVCQmNadg?oc=5",
-"source": "TechRepublic",
-"published": 1792592791.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "d577447c0d3f1637",
-"title": "Microsoft Points Project Perception at the Agents Already Inside",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRWJWWGpSZm4xRHppNHVtdmZIN1BXaFNXWEJWeUtSQ19BQWd1SDBjcEJvbjRFeXdnOHRzV09kQkJzSlpnRXQtY05SbGlsbGZId05mOXdGYzZjWF9LaDNFbzVGci1aaGtMMlRvS3J4NE5hcldqUmJCajhiTkF3dEdfYkNYS2J0YnNObTc2NHV4T0JLdTJlb3JiaXBvajBVVkhB?oc=5",
-"source": "The Futurum Group",
-"published": 1792592775.0,
-"stocks": [
-"Microsoft (MSFT)"
 ],
 "keywords": []
 }

@@ -1,5 +1,5 @@
 {
-"updated": 1792710628.812807,
+"updated": 1792712310.323379,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,6 +73,54 @@
 ],
 "items": [
 {
+"key": "9e9c1dea1ee2041c",
+"title": "Volkswagen workers may get Microsoft AI instead of a raise",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUlNiTzJFcVYyS3Rtd3hyQzRyeU1TN1VjS2VEczJjU2I3c255V1FmbUZwdS1XTHVXV2tVbHZaTjFQQTNwaVl0MkVzUWJHSUxfdFdiOWxDenR1UlkweGdvWXNGc0VwSy1QMVB4TVhuc3h0SzdLMHc5NGFwcXh0RkpwUDduNHQ4RGhwLU0zaWgtRzlUMXdid2s3MHZzb0M5UTEzUVlJT2RB?oc=5",
+"source": "TheStreet",
+"published": 1792711980.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "ca1eca3a0343e933",
+"title": "Dangerous accidents involving Tesla vehicles in self-driving mode",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQejNXNDR3NFhiRTloeHluUHlVRHlwalp1NDBDVFhnXzdnMkw4UndGYTZyVnFjcGlKbjNFSkVQYnltbjRPRnMyVkYzRGhac05rZm05MjRPVW5OaFVqX3FNUUs2ZXJCQjMxSGFfdHhIdC1GTzhPTzlubDgza3ZCRzFldGVqbmxYN3dleGVnSTFuLWVLSXJzTEhwZzNnMk4wU0tqVkFVMkxmd25fdjVVdVB3OVFFRVJGb2JueC1sNU53?oc=5",
+"source": "NBC News",
+"published": 1792711487.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "29a1f15049d22f3f",
+"title": "Microsoft links agentic AI to ConnectWise supply chain breach",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTTBnQTkxazg2cU1VOTd2M2pkVk9wRnFBSzZybzk1bVh3WTBDa0JiRlhRQU9ZMjQ5QlpYd3BQa0JMcnJLZXZVR2FfdlBxUHVMdm5xZC1xSGw1MnlKb2dtVGxsS0tLVjdKYWVvaGxXU0lfdXYzYTdqbkxmcDJpVTZORnRfUUVVWkhjS1dtWjF1RjJzSjRhM0E?oc=5",
+"source": "SC Media",
+"published": 1792711388.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "28f8eaa4dc77f81c",
+"title": "Nvidia and Reflection Make Open Models Enterprise-Ready",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSFd5TGtvanJ2R0pYYjNVZWpoMjBmeWoyb2lkN0hBMkFNNUNhd00wSFpnSnllZlRKbzNaZWpwOWZtWVdmZ1ZGZzU0NHhrSGlNdWJtVHROMm5rQWtjcm1hMnUxVHFhYVRMbnFsYWF4dm9USG1aVkF6UUI0YVVJYTFlMUFObFV0dUJVZ2djWEo1eHVfZUtTVFBPQXhzbEJHX1QtQ1BMLTVKdFRIalpRZ3gtRnpzbw?oc=5",
+"source": "PYMNTS.com",
+"published": 1792710644.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
 "key": "4acda043ea4522eb",
 "title": "Equinor awards Aibel Wisting FPSO FEED contract as Barents Sea project advances toward key decisions",
 "summary": "",
@@ -85,12 +133,36 @@
 "keywords": []
 },
 {
+"key": "bbe3900200bfc0a8",
+"title": "Form 4 Apple Inc: Jennifer Newstead (SVP, GC and Government Affairs) For: 20 October",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONXUwNXBITTdMSHRXTjMtelVlcXVsV1Nyb1BLdTY5ZDR6ZVJIQ2FIRUVWVHFmcTVDX2ZFRzZsdWxsZnl3a0xwZDNqOXBFQ2M4M1FuejRiYjlLRFM4bmRvYmJwM0pCdktOQVdxV3R5MFlIVGRwWnR2RVdMcThmSU5HTklMaE5mdW9TeUVJUjFoY00wa2JFeVczMXdBWGtVWk1TcUNSYTZHSkFRUVo2bkxrWC03QTlDa0llaFJDNTRkUWRTQzRUUWtqeEVnOFM2R1N2TFhGamNDWQ?oc=5",
+"source": "Investing.com UK",
+"published": 1792710360.0,
+"stocks": [
+"Apple (AAPL)"
+],
+"keywords": []
+},
+{
 "key": "655bcfb844e33044",
 "title": "AI factories package Nvidia reference architecture, but who's buying?",
 "summary": "",
 "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcGs0V0ZNVnotOHhZdTN1aXVOSDlDNm9NTHdVUjNNLWMwRVhlRkpwUnJwRmM0dkQ3RVNTWUtBc0hOMGlmSzNFNDNMZUh4U3dpMkhMdlBfOGJxaEhXOXV1elQ2b1B0ZkxWYVZYUGY4dVI1QUJXYmZ3Q1VVVnV6c29EYm8xVmJJRGFjRDlSNFZfanpKajBhRmNnZ185WGM4dkFfb0gwdlNSMGNBQmE1eHY1dXBCdWxFcFpLSWM2Q3NmSkVPSXFS?oc=5",
 "source": "TechTarget",
 "published": 1792710265.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "44102212df19802b",
+"title": "South Korea's Samsung Electro-Mechanics, Nvidia expand AI partnership",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQODJiVmRCRGh0RDdqcVBfR2xULWIyMVMxc3BoVnRCc182aGpmMzRoa3E4ZWZQeHBPWHdoazBHUW9BZmZKaFNYRk9XQXJDdTM1RHBfc3luRFVrRXppNnpsZUhMZGNIOGszMndMWlVnZWxoZFpFMGVKQXRrdHFPRlJRVld0bkNfNi1kR0gxU3FfQ0dMMjNEYVMyQnl5NVI4LTTSAaQBQVVfeXFMTTQwOWh1NmhMazVjTWhBNHJhdGx4bW1WbUFLVFhhQ05yOFoxVkhsZ0w3a2llVTlmYmxUTjFvTGRaaUZKTUUxYVVkM2Zzek5MX2t4Q1FkMGhQRlJqb2pYRXdfYWJLT0RSVWt3SEVyUUVNT2dJRFpwYkZBSWZ5eEdLX19HSFZtZmRsTThvQWZzZ0gzVkpOOVZZYnZoUVUyLTVoeUhVQ08?oc=5",
+"source": "upi",
+"published": 1792709897.0,
 "stocks": [
 "Nvidia (NVDA)"
 ],
@@ -181,6 +253,18 @@
 "keywords": []
 },
 {
+"key": "06f126bd467d0b4f",
+"title": "Porsche launched a car on flying Tesla day and the memes are incredible",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9uWTBHUXRqVmtKWHFwMnRfOEFJVUxFWVMxMFNJV095ZF9ETUpGVmdHWTZnMWZ4NU9MZkVvZ0NNZUxocjdfWlFJVlpJN2prWjA2bWo2Zk5NOW9oVnFjNVdJeFd4cDFDNVVFblBaOS1QdzdPSmVOM0E?oc=5",
+"source": "Mashable",
+"published": 1792706874.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
 "key": "a431ca00fb80ad01",
 "title": "Microsoft Links Storm-0940 to ConnectWise Supply Chain Attack",
 "summary": "",
@@ -239,6 +323,18 @@
 "Microsoft (MSFT)"
 ],
 "keywords": []
+},
+{
+"key": "e9a497adb31a17eb",
+"title": "Sharp drops for AI stocks overwhelm markets worldwide as oil prices jump",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54NFI0QklmZmNMaUUzNHczNzhBcE96NzlsZWxQZk53ZlAybGlpSGoydktudkplQWp5STJwNUhYLTFRQjdKZXpyV3lkTG5YWnViODY1aEpSZTc1eWNBaGtwT1dMQkhPSUd4UjJGMGFxZDRPMVp0WURlTkw4NjVBc2M?oc=5",
+"source": "The Guardian",
+"published": 1792705800.0,
+"stocks": [],
+"keywords": [
+"oil prices"
+]
 },
 {
 "key": "321bd5d5b7f9337b",
@@ -655,6 +751,18 @@
 "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbVpGdVpzU2YtT3h4TlVURDM1YjZudDFOaHBCc0dHeVh1bmtUVVZWM3FLMFNDS1FfUzBlX0lxTW44bTUtU0hpellXaUN0VU9vb1BNRFktODJzWEJhNFg0cjdQTFRnb3JVRmRET3laY0kwQjVsU0FfY1lfUC13M2R6djNJQzRvWllicmtuQ2tZbVkzZks0UmZwM1E0SllFMFIxelppYTM1eUsxbTlURzJsMEdMOWNaX1dEdzVjXw?oc=5",
 "source": "Neowin",
 "published": 1792701120.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "745a1f9cd55cba0e",
+"title": "Microsoft Corp. stock underperforms Thursday when compared to competitors",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRW16c1lPT2VHYTc1MkoxUDE5b1RPcHVNaFMtM3hoTWp3a1lBS1gtQWFPTE1NbnVuLUJnY3g1bWk1QjNGZldia3NCb1BNeU9JbERZNVQ0S1JvVVdVQkloQkF3TEdyd0NPOG5uMWdoaHhLdnBNRlhwUnlsal91dndkblF5LVJLclF0Sl9fVGZZa3djQ21fNUxsV1drLS13T1NKTmNDbkpTNTFOdTA4WllUaU5iOE12b2ZFanN1QjI2SVNwQ0hsRDUtdXhNazVDVzFQYWZKX2g0dVY4OS1nQnhhUU5UV2U?oc=5",
+"source": "MarketWatch",
+"published": 1792701060.0,
 "stocks": [
 "Microsoft (MSFT)"
 ],
@@ -4772,114 +4880,6 @@
 "published": 1792673971.0,
 "stocks": [
 "Nvidia (NVDA)",
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "cf91a7c87f9ef7e9",
-"title": "BofA Securities Adjusts Price Target on Meta Platforms to $845 From $810",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUTB0RDR5T3FKeVNDWDllNGNPS2wtcDRqSlQxTTR1V0hxRjVLWTlveUpEZ3VuaEw3dmhXU0NodXNINVdHa3JkOUJ0NnFCR2syZVEwRExheFFvN01GSGpXYUFwMFdVZlJJWDRBVjJOdGhXZ092bU1mVmlmRWpxNEhaNzQzbm1GWGgtemZURVhtNXNYeDNfdTJ0bU9QUWl2OGZMd2VBNzZ2bEpwSmwwcjZCOWphZkpGMWpnMkNqSE1qS2U?oc=5",
-"source": "marketscreener.com",
-"published": 1792673958.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "93a31a8fc9cccbe5",
-"title": "Tesla Falls 4% as Profit Shrinks and Musk Trims Sales Target; Rivian and Lucid Slip",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUk5LZTZlZkQzWkswREduYjc3Z296T0ExS1NIN1B5bE9WUGRXbndFb1ozMUtCTV9nTDhYMDF0RXowZXVVVnh2RkpONUVHeFdMX2hrNGZsalRXZlVwNlpYLWhwY19UX0c3QzZWaFZQWHEwRkZFdHdEUENVeVUyV2pqeUZXb2FnYTJfVmVEeTZSUHVweHo1UDJtRVJMemdFZ1d3anN5U2hVSGs1T1VweG56b0dUM3F5cnlxTWx6QTE0cFp5OVU?oc=5",
-"source": "24/7 Wall St.",
-"published": 1792673940.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "daa73ff3398cf2e4",
-"title": "ModelOp Takes Control of Enterprise AI Agent Sprawl with Expanded Microsoft and Amazon Integrations",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdEE3R3B1MXFJcVdDRVVTdHVFTHZ6S1pqbnBVY29veDdKa1BQZWI5RThYZ1l4MS0tWWNIaGlpQ2FyM01uSm9JUmZiclhiYXhBUU5pQlR6cVZ1RTI1YW8zejBTRTdENkN5RGNZTnhaUDhHenJvbXA3X0ZYaTlhTjRlUzQ0c2JXcm5HZHNiOG5vbmJfektyV0tqUUFGUzRhUnBl?oc=5",
-"source": "Yahoo Finance",
-"published": 1792673880.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "d078e33395a2b15c",
-"title": "Meta Platforms Is Maintained at Overweight by Keybanc",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOY0JFenJhTWdfa202T0tJRG1WcnM3QnlTX2dNLWwzaDVwa3pDUi1Pb0luWXBPXzJzS2gwcDFwb1djRUZHaDI1cVl4QTdZOFBudElIVllJMThXLUxEU0VrdXdGeW52QVgxcXB5T3E5RGtlTEwxRTF4ZXVzV3djcERLekp3VG5xa0U4MVBOTUJTeXZ6OHdhT1VyX1F2Vm45Zw?oc=5",
-"source": "Moomoo",
-"published": 1792673853.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "ffd961d9ff3c3ca4",
-"title": "SpaceX and Tesla Are Already Joined at the Hip. What a Formal Merger Would Mean.",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMzUyNDRqaUN5bzNjOUtHdmk2VHZFTHpPbjRSR0VOM3JnM1BRZjFDZ1dfVWZYd1NkZnpEMUF0WVRGRndJQnEzU0hyMUNES1F4YVc1Q3hGNkpyQnQ2ZTZ4Y09EcUU1V2l1bFV3VHo3RG5wbk9VUjB5dTRmMGUxcXBsTXZxVlk4Snh0RXRKTWNKMkpxQzFiZ2FRaGlzNWUwMkZtbVM2Rg?oc=5",
-"source": "WSJ",
-"published": 1792673820.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "f38735ffb769f3ec",
-"title": "Meta Falls 3% as Higher AI Spending Outlook Overshadows Earnings Beat; Alphabet Dips, Microsoft Holds Steady",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQV2ZMT01CdlByNVAyWW9WYmZjWk9EWnk5cjFzZ29raFBjaEZCVmZ6V3dKaGd0VTBOaDdyakpiTXN2YW5HQll0b3R0RmJmZHljWUhaaDhuS3J1WFk2RVh2RGd4UHVqRlNzb1NHbUN2Z24wSm85eWxMWUEtNEdZeXd4MXZPUG5pd1dUSFhEOGxwcw?oc=5",
-"source": "Yahoo Finance",
-"published": 1792673806.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "844a5aadf4335281",
-"title": "Meta Falls 3% as Higher AI Spending Outlook Overshadows Earnings Beat; Alphabet Dips, Microsoft Holds Steady",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWlVxZExpdnFFc2N6ZGZjZDZ0MFlkamJ6bXdIN3F4ZDFnb3pOOW1GOGRINmNYSTRTcUF2UWRoMGFkenN5NzFZOXRvMUpKZU5rS1FNNGtuTTlER2lmUk04a1JZUkhZNFFFTW1nVlpzb2wzZmNxTGJkVmpRSG1WMHMtakx2cWRNNHN2cFRuQXBhdWp0WUFLc05IbUszTURFV2k4ckVqNUNaYVRaMlZoU01rZWJIZUtTcnFZNjdIQmtlb3l6S0xPdjE5eHp4c3dJVFI3VEF4cEVFQUg1cWEzVUVyd1pRVQ?oc=5",
-"source": "24/7 Wall St.",
-"published": 1792673760.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "0ab3b28b2ce9a865",
-"title": "Grupo Madisa connects its business with Microsoft Dynamics 365 and Microsoft Copilot Studio agents",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUmI3QXNLek9lR1ZyUjhJNkVPSHEzTTFsc19xUXYwVGRaLWdrSUIxZ0FYMFQzME83YUJIT244YTEzNEQ3dFhWdkxXejVYUFVaN1JTLTFnMFJXZm1QNDd5X2drU3p6bXFvbjV3Nl9WTWU3d3ZiRFBiT0IzOXpRNzI5Z0dva3FOVUYyLWdadDgtekZMVFVnN1FyLTFiem00c2FfQ3c?oc=5",
-"source": "Microsoft",
-"published": 1792673647.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "6e4063029040c532",
-"title": "What analysts are saying about Tesla after earnings (TSLA:NASDAQ)",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcDYtSXVxcEFpV2JUUXExdlFMS0d1dXRqenRLZVM2UTE4YkRPTWc0Xy1pdjdGLWtyanNFcFE5TE5qNmdkd0dqU0ZnOEo3TGc4dzA5UXZxcmxuT2YyQXV5dWxNNURlUXFCZV9PZjNXUkZwVEtFSWlDQ0ZkN0dsd2dMREgyRGFqMTVZWVVEMl9UT24yN0E?oc=5",
-"source": "Seeking Alpha",
-"published": 1792673611.0,
-"stocks": [
 "Tesla (TSLA)"
 ],
 "keywords": []

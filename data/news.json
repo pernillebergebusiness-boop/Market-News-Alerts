@@ -1,5 +1,5 @@
 {
-"updated": 1792630302.5064795,
+"updated": 1792632471.8384945,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -72,6 +72,54 @@
 "Yahoo Finance: HTTPError"
 ],
 "items": [
+{
+"key": "2f2033d2047741aa",
+"title": "META, IBM, TXN, LRCX, TSLA: 5 Trending Stocks Today - Meta Platforms (NASDAQ:META)",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPYVpiTjNXamJKejJHby1USUVzSnhiOVdoaWZKb2NrcHNiUVlOS2gyNlFZcHljcHRsNjEtc3V5RXhQeUFaR2NLYnpmRUx5T2M2M0VrdjdFSl9yb0ZuenpUQkRBUHlnY1FIb3pYVm9VcC1aQXFTMXRkME4xeFM3d0E1RlhWTUJHNGZsNmJqcmdaeHJHSHpGRzIzdlhPRmhoY1o2VWZTLTBHU1Z4SjAwR3g1NW8zdms3UTN0bi13SG9sS3BFYk9LRzR4c01jQUpRcG9rSXpKRVF2VEpUSGNDek9UT1FXS25zV2lBdjl3?oc=5",
+"source": "Benzinga",
+"published": 1792631870.0,
+"stocks": [
+"Meta (META)"
+],
+"keywords": []
+},
+{
+"key": "7e10ca7b64115eea",
+"title": "SpaceX and Tesla Are Joined at the Hip. A Merger Would Make It Formal.",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMzUyNDRqaUN5bzNjOUtHdmk2VHZFTHpPbjRSR0VOM3JnM1BRZjFDZ1dfVWZYd1NkZnpEMUF0WVRGRndJQnEzU0hyMUNES1F4YVc1Q3hGNkpyQnQ2ZTZ4Y09EcUU1V2l1bFV3VHo3RG5wbk9VUjB5dTRmMGUxcXBsTXZxVlk4Snh0RXRKTWNKMkpxQzFiZ2FRaGlzNWUwMkZtbVM2Rg?oc=5",
+"source": "WSJ",
+"published": 1792630800.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "85a13839b47c1c6c",
+"title": "Tesla profits fall on higher spending as 'Elon Inc.' talk builds",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdUJtRHVvRDlqaHZiN2lQMjdaTGtVRlV5WW5Bc0pkcjhIdzBTcURmZk9GdWtDV2UxM25yTHUzQXg1elFQaGpqZDV3Z2FyYWRjbC1BZEpTay1tVjVKZWFtdnNhejNaRGNUQU0wR0tvc2FjMUlfT1lGRC16RDE0c2lFcDlkakx6WlBvQVdBRlZiU3VLYnVGWkswcHdGNA?oc=5",
+"source": "Yahoo Finance",
+"published": 1792630620.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "17db043ad4bc50a6",
+"title": "Höegh Evi and Aker BP awarded €223m from EU for CO2 transport and storage project",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeF84blRCMmlscEFtSm56SFpmLTc1Wk5UZ3NNaF9fLVpxTU5DcG1XMzJSQlpkcEFfakwtaktQSDhNbnhuWV9sd0lZVU9zd2hETTNlWGFBZ2FJMi13QzNIQ0FOLWx6Vm1IOVNzbnIzbnFUWGRmMnNMUDVYVFZZYWdWLTN2Znk0dURfSW1CX2UzZ0V1em9PWHNHRjViSTJqVHc2UkNVaUVuLTNYYnM4cUs0MWhhNnhaM080c1pqVjFRRlk?oc=5",
+"source": "Shipping Telegraph",
+"published": 1792630350.0,
+"stocks": [
+"Aker BP (AKRBP)"
+],
+"keywords": []
+},
 {
 "key": "d9f3a9f9051e3d40",
 "title": "This wonky maneuver kept Mark Zuckerberg from fleeing a California billionaire tax",
@@ -151,6 +199,42 @@
 "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNHYwOVgtVENvS3FWV3FjRGpHNEtaV2ZhUGh2TzZPVHJrRDg5VVlTZndDdWFDS2VpekYxSjR2eEVNQlVMVTNKMFdPYlV0Sm5yVGE2eGJ2VVFxNGV6bGRoeWJSRGpQTFIxV3FKNkU5V3JwTUdaeWJZZmo2bG00cjN0UFlVUG1NaUJ5azQ5YlNsUW82VXJSNURKNzIzU2I?oc=5",
 "source": "FreightWaves",
 "published": 1792628171.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "29bc2d5898dd9a93",
+"title": "Tesla Semi enters volume production as 2027 rollout approaches",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbnl0aHhqS19HVGhNUnE0UUpjOVlrV0R3QTVfWjhZLWlrVzM4UmdZMm5fTk9XNHlHa1pObGJBQmpDSndvcTQyR1hqSGxFSnlUVm14Y1d0TF8zVFJBMUNOQzFCYUxxSUFfR0YyVzhfZjRIRFlOX2tXNXRITk1kdUVyc0pWd1lJaWhTR2dIN0Z2cjBMWW1rVjhVb1pQYWE?oc=5",
+"source": "Yahoo Finance",
+"published": 1792628160.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "a767cbf62a7e5f1c",
+"title": "Musk Tries to Lock In His Tesla-SpaceX Dream Before Trump’s Exit",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUTU4MlVsMUhZTGR0X1ZtYTdoZFhoSkxpWHhkd0QxSnRaNy1CRnJmbFNrZ3dtNFVOcUpIMGRMRkVCcGFQaGdsNEFwR1RqSUthWFFXYnNObjZxaXBRc0dHaWJtZWc3dllPeURjSEhDeUJOdm1oZWw2VVhfTUFnNFVXZjFmTFJ1aTRHZExuRUJJQnE1ZUQ3V3ZVNW1vblFtNE5ObERycUt2RlhrUXdMSUlPYkpHUzZMTk5JMmlB?oc=5",
+"source": "Bloomberg.com",
+"published": 1792627800.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "9af84b5f07841aad",
+"title": "Musk Says Tesla Aims to Begin Humanoid Robot Sales Next Year",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOb09OVGpVM3FDM3I4RzJVTnVHcDk5c0Z5aHVEVS1BZ2RDRnVpQU13Yld0VTdWS0xBb3JGbWVzSHhZU0J0cVVUWjBlZWVNM3FDTGJOOWtFN2EwMTlkN1VmcjJSTDhiVnpYMFByX2c4RFhfd3pRSU0tSEhtcnlldGx1NU9GWGo3aVctSFRvTg?oc=5",
+"source": "WSJ",
+"published": 1792627500.0,
 "stocks": [
 "Tesla (TSLA)"
 ],
@@ -237,6 +321,18 @@
 "published": 1792625791.0,
 "stocks": [
 "Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "7faada78f69bba53",
+"title": "Oxford partners with Microsoft and Anthropic to support AI startups tackling access to justice",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZlBuSlNaNTBaVWJrVUR2QVBkRE5JQjZKdHh6aFJyMWRsbFA2QW1SUlFwQW5KcDd1XzZKZ3pYX1lsQmhOY2t6aG10LVdiRUwtSEtxdXQyazdsd3VvbHU0NEFULTBCUDl0eVd5SGQ4R1p0TUJuUFZueWNXeDdLZFVDdXpoLTA4d1RsbzdpX19RaU5oUy1QMGo1dG5yd0VGaFZ5Q2NGZS1meVhtbGgxNHltWFo4dEY1anM1ZklIWFlidHV4c0NrTkhpTXZxZ0FaaWk4?oc=5",
+"source": "EdTech Innovation Hub",
+"published": 1792625541.0,
+"stocks": [
+"Microsoft (MSFT)"
 ],
 "keywords": []
 },
@@ -554,6 +650,18 @@
 "keywords": []
 },
 {
+"key": "e4e10a7e8638d999",
+"title": "Microsoft Stocks Slip as Volkswagen Scales Copilot to 330,000 Workers",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQT0p6ZkNUaWxwM0psRHRmY0lHdXNTcVNVeERVX0toRW1pUUFZYUhVczYzTmc4dXNyLWx0MjVpSEtTelJxZHRKTUduVzNfRklVVE04eG1mTV9FYXlvWS1hT3RXem5KcW1vSHFQTEppWVN4aEYyRHpHbWNlUEF3OGQxRlBTUzNIdWRFZW0wUTJJLTVacjh5UnVZc2VBR2RIbHZ0X2ZEYXFpSQ?oc=5",
+"source": "Yahoo Finance",
+"published": 1792621584.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
 "key": "681d6c735a9c8ffc",
 "title": "Microsoft Stocks Slip as Volkswagen Scales Copilot to 330,000 Workers",
 "summary": "",
@@ -694,6 +802,18 @@
 "published": 1792620403.0,
 "stocks": [
 "Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "eaa9c55001d7acd1",
+"title": "Meta Offers Zuckerberg New Shares to Keep Him in California",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb1FfZ3ZRcmdpVzRDNS1YVFJ5Rzd2UVlCR01pNXdfdER1eExOZGs3alc4M0tGYVlOWTlmZV93MlFCekZTSzIyN3R3aXR6RTI4ZE1ERlZtM04ybVpybWdZdUFRUU0wcVl2U3ZWaEkyUjE3VDBqbmRoYktWM0twT1h3dmRTNF9XYmNiZ2xVeGdGTnRPTzQySE93ZUwzZXdwUnhJTkFWSTZsQU9Qb2ZLMngwd2Nybw?oc=5",
+"source": "Bloomberg.com",
+"published": 1792620325.0,
+"stocks": [
+"Meta (META)"
 ],
 "keywords": []
 },
@@ -4759,127 +4879,6 @@
 "published": 1792592775.0,
 "stocks": [
 "Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "5ed908462435b200",
-"title": "Nscale supports NVIDIA Open Agent Safety Platform | Nscale",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQd0t2Q3NvS25fYkNvX1NWeHVyM0lnaUJZSkV5SGtoSEp6Wkd4d1YxVmxYeU1RU0FxWmVIekNqSnNfUmJxalJUbDBZbUxBck9rb2p5UXFadHlLR05qN1hhVUlSSFUxQ20zX3pfVnA2eHp3Y1Jsai1FdjNlOE9oOGFXQVotNA?oc=5",
-"source": "Nscale",
-"published": 1792592761.0,
-"stocks": [
-"Aker (AKER)",
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "d1630b007d92ab1f",
-"title": "Xbox’s reported $150B valuation shows just how massive Microsoft’s gaming business has become",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVnZIbS1Sb1JPMmNJS0d5T2NoVzhRS2tMRFFnTlcybFh1VmRMa2lqS21HU1NoVFdJQVpidWZGVktJZ0NKWS1WWHJ4M0FTZmhxS2x4QVVta2hEMU5ncmFVVUZaYTdFSzE5em5qUXpIdzZrdHBNTmhlN011OVdHdFhsY1NTbm1zUFhXRkRDZnVUamkxeDlQdmwxMTBNQTRUa0F2V0N5blN4aEJSZ1Bpc3dqd1p4em40cWVueUp3VjZjdmtfZUFBQkpKNVI2S1RvSzhYem82eHVNTnhrVlZkU0hGWW1KSjM?oc=5",
-"source": "Windows Central",
-"published": 1792592725.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "c617c5ce458a9308",
-"title": "Apple: iPhone Duo launch-day stock to be 'limited'",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSUdrWUVmRTdQQ1lNRzZYYTFBU3FoSUhQUk9HZjUzOE1GZFlRcUdULVJ2b05ldERTZTl3bGx4T0pMaVF1QzJ2YXo3NlZWejlWMTFYM2hzbVk4ZElHVGFqSFJjTmVvc3MxQ3Y3dWZLRmdRUE03Xy11emh2dkN3eWxpT2NVNnNSQmVfNEZpbmVxZ0Zib014MEhuTW01RQ?oc=5",
-"source": "Breakingthenews.net",
-"published": 1792592700.0,
-"stocks": [
-"Apple (AAPL)"
-],
-"keywords": []
-},
-{
-"key": "cb87d03a1219568f",
-"title": "Netflix, SpaceX, Meta and Tesla report earnings",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1UzBaaEpNeUhPQVQ0UVdfamJWUkR5WlZxcVZScEpwWUJ2enkwcEdFTU5PdU5RbENPYmdaMFRQZ3lyMFV4MHI5VVU1elIxRmZNS2NtNGtKTnRZU1XSAWBBVV95cUxNcTJhZkNheVkwYWhBWktmclFUeVhDbElGUVFyYUt2bWdHUnpvSjA2c0pPZldCMnJaQUtxOUw0TkdIemdCZ1Q4blVzQUFmMUk4c00tRk1pOG5DeW02Rmt6djc?oc=5",
-"source": "KTVU",
-"published": 1792592659.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "e70921bca8227099",
-"title": "A SpaceX And Tesla Merger Would Consolidate 30,000 Bitcoin",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQX0xEb1dyb3NROWZmRVJYVHZ5aDFtUnE0dHNfSnVHLTlhM0o3SFd2T21QNjBIeWZGMGpscjNQMDdYcW4wSDhRNHg3MHlyOFpHa2xUVTJKOERFR2N5OUFHSXAyTDZCOVp4VUUxUDUwTHVWUndwc3ZXRWg0UUR5NkREQ01oVWJsWW1kUmdTRkZjaWlqM2lTbjBTMGJHWkNOcWNr?oc=5",
-"source": "Yahoo Finance",
-"published": 1792592640.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "db94c373b44e2a7c",
-"title": "'Visionary or reckless?': What Wall Street is saying about SpaceX's earnings and possible Tesla merger",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaGM4Vm5Pdmp4NjlKajlYcGJxTEotM2dhV3pUUXNQWm5MTkdkNXk5SmhJczBEWUdoaWxpU2lZWUdRUEt1clNLT1RSamJjS2NRVjFKV3c2MzRKdkVnVUNnS1hlNWlvLWVpS29NN1NnVlEwLUg3Y2V1NVZNYnFyWV93TlA0cEtvekZNUzhPZXpqaw?oc=5",
-"source": "Business Insider",
-"published": 1792592640.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "e44f5ee7532b6a63",
-"title": "Amazon Is Warehousing Billions in Nvidia AI Chips It Cannot Yet Power Up",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZWJMbFJnTUdoYmVKamV0NEN5VF9wcmI4UUhReGRKdWliQkl1WnRMMHg5MWg3OUJld29ZS3lMSzFkTFNzLWxVRFFmN3VPMWlaYmdESFdhd1RQR2M3WVZWY1pyQWJCVWN1UzIzNExzbF9aZzRMRFFxR01QUVEwcmY2TERzOWVpZmN2V2ZlaTEzWTVTUHBfVXdXRXo3N1ZobkJGdmZZ?oc=5",
-"source": "Yahoo Finance",
-"published": 1792592597.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "d9b61c2caf263e30",
-"title": "Where is Optimus? Key questions for Tesla earnings.",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZ3R4T09FT2hsS3ZGU21OUGtpYlpheFMyZ2NDazZKZVhGNEpscFNpVnRhNGdDUWI3aHd4a1lZTzMxc0dLOUg1OW1xb2NEbDg5UE01aFhfdlVWa0NvcUlmclNzUGp5Z3I0SEk3YzRfM2U1Wkt6MU9FQ0dlUDZQbE12SFk0emhwTFBQem0xOGZLRHFfWXBGWnJQekpzVm8?oc=5",
-"source": "Yahoo Finance",
-"published": 1792592092.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "8a128c3b6ef72e57",
-"title": "Tesla meets SpaceX: Prediction markets price in a potential merger (SPCX:NASDAQ)",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObEZSX2xRUk4zRXhZT1IyazVXcWlsS1FCbzkyaW5yMzAzejVOTTR3NEIyU3dwcGxRYllHdnJGcHBCRnZ6WmRxYnczcnppQzk1RnVSbU9wb0pGTXd6clgtemdTa3RPNUd0bkk2UkNSd1Z2TmhUb04zMVhqOHA3ZlVtWGx4N3pmMWxhZEZzTFJRV3lnakpybm0yRzFXb21xNXMtZVVXS3h3?oc=5",
-"source": "Seeking Alpha",
-"published": 1792591957.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "fc7b0a3090844cea",
-"title": "Tesla Stock Is Trading Just Under Its 200-Day Average Into Earnings. Here’s What Investors Are Watching",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOSElrSnBISGhqUVA1LVVGeDJoLWFuRjM0T3ZsTWdfdF9pWFlYYnV6WXFFQXVDMndUZ3FCbWZLdngxN2NFOGppLTBSNTJraG5zOURDUnUyamdDa0ZmYWpzejJMakd4akV2aDYxVXJBOXlURHVKTmJzZ245c05sbGx0RnVWMFptX3o2Vm5oNWNiX0tySDRpRWkwSVZaMHhRZTU1WWdiVjg2X2R3X2hRWGtXYlRicHlGd1JEbzdpLTZJZ0hRMS01SlZJTEY2b0FvbzcxVHRxSUNPVHRiUWRYSUxHMFNKRzJiV0pqSVFlT3J5RFduSjFi?oc=5",
-"source": "Benzinga",
-"published": 1792591957.0,
-"stocks": [
-"Tesla (TSLA)"
 ],
 "keywords": []
 }

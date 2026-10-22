@@ -1,5 +1,5 @@
 {
-"updated": 1792625950.97711,
+"updated": 1792627391.2851827,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,6 +73,42 @@
 ],
 "items": [
 {
+"key": "2f743c67b626bbc5",
+"title": "Tesla profits drop on tech spending spree as 'Elon Inc.' talk builds",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdUJtRHVvRDlqaHZiN2lQMjdaTGtVRlV5WW5Bc0pkcjhIdzBTcURmZk9GdWtDV2UxM25yTHUzQXg1elFQaGpqZDV3Z2FyYWRjbC1BZEpTay1tVjVKZWFtdnNhejNaRGNUQU0wR0tvc2FjMUlfT1lGRC16RDE0c2lFcDlkakx6WlBvQVdBRlZiU3VLYnVGWkswcHdGNA?oc=5",
+"source": "Yahoo Finance",
+"published": 1792626090.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "bf17b6453c22b9ad",
+"title": "Tesla Says 75% Of New Car Buyers Subscribe To FSD In North America",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE10N0FUZGVJMk1IcEgyR2xOb1B0OHV1emJzakNGV1VBb2F0ZVZ3bFp4cWJLMjBUbTh4ZVJxWno5ZjhSZ2xmTjB3Vi0zMzQ5eDU4SHdKM0wzMGtlR3VJZWpKUmY5Y0hoVm9fbnJWWWdEZzFGX3c?oc=5",
+"source": "InsideEVs",
+"published": 1792625940.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "051d3e4cce14047c",
+"title": "Tesla says customers can add their own vehicles to the robotaxi fleet next year — will it happen?",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdWM5dnVTbXd6TGlPWF9nSm93V3NiSWl6YXRueFd4VTRraGpDUWprQ3NkNjluZFh4YWJYT19IMnBJSmdDdWJjY0ZDZXN2OTZicUhvMTVtalZCbHRtUkswdDFkTFdXTWd3OVdXLS04c3JNSWEtakVtTDlaekRzX2ZnX0hHMTFZLUZSUVRqWE9xb2ZpYWdRU21FTVBvMTNUeHZhZUxMSWswLW1Dak5FenI3ZDNXYXNnYVU?oc=5",
+"source": "The Verge",
+"published": 1792625791.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
 "key": "bdcdfb9f9474789a",
 "title": "Tesla’s stock falls as Elon Musk leaves investors wanting more",
 "summary": "SpaceX merger commentary is arguably the biggest thing on the minds of Tesla investors right now — and Musk had nothing new to offer on Wednesday.",
@@ -117,6 +153,18 @@
 "published": 1792625158.0,
 "stocks": [
 "Meta (META)"
+],
+"keywords": []
+},
+{
+"key": "62bc2ff9e16083fc",
+"title": "Tesla shares fall more than 3% despite earnings beat and $1.5B in free cash flow",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTkNJWnBkcnhISnFVZ1pZTjdBZ3ZnRTJFVHVMYVdZc2Y4dEpkM0VtSjJ5R2gwa09fSHJqN05UM2dFZkJESE1NcjluMmZlS3dNMXRRdkk4QVNxMzE3UmVVdnZhZnNDSkVjZlVzbmZvWU5JZXl1ZURycnJzdGthT0lzWkd1WWhfU25qRXNSTTVmYV96TkRkZHo1OFFkcFJsZ1VGUnJLV3N0dTNsRjlUMmU5MGJVWjUyZw?oc=5",
+"source": "SiliconANGLE",
+"published": 1792625040.0,
+"stocks": [
+"Tesla (TSLA)"
 ],
 "keywords": []
 },
@@ -586,6 +634,18 @@
 "published": 1792619281.0,
 "stocks": [
 "Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "756fa3ed0dd3eeaa",
+"title": "Nvidia’s $1.1 Billion KYEC Deal Is the Small Number in a $279 Billion Supply Bet",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQN2dxdUhEN252dkVkN3hROXluS2FUMmdSUGpUNjFKdmxmV1FHaVU2ZnQ1d1RxQmhLX0VVUXdTUG9lOXpGOVR3UVBBTExLempHRHl1c2tWaVlPRTNfajcweldkU3hMTjUzNDRicHVVTWJVeUZQdDhuWE9fUWk1SmF2cWRGNXRtdFR4OEx5NDVUeXhhYVhtV1NtQ1paQjJmZlNVdVl1b2hB?oc=5",
+"source": "TIKR.com",
+"published": 1792619258.0,
+"stocks": [
+"Nvidia (NVDA)"
 ],
 "keywords": []
 },
@@ -1540,6 +1600,18 @@
 "keywords": []
 },
 {
+"key": "bbf773cec876e11c",
+"title": "Meta Platforms Cash, Cash Equivalents, and Marketable Securities Were $82.45 B as of Sept 30 >META",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONkliTWRvbFcxTWhWcWMwOWpZdUhySFRzcnBqQk9uNDJ2a3BNTjBGRW9taC1vWHc3YXg2ajFoSmJwZy1LYXdWSGFKeWlwUkFoQU85QWppeWtOdVM1MGFjd1F4WGtfeG1kbzBuZW1DWUNGZ3k0UTRldEZKbktZV0d6Vk1nRHo2bGZIbVpQZzREMl9qNS1qd1BQUEZlYnp3RjNZWkhyY3ZZU2hPTGpYS1ZleG5nR3c?oc=5",
+"source": "Moomoo",
+"published": 1792613996.0,
+"stocks": [
+"Meta (META)"
+],
+"keywords": []
+},
+{
 "key": "aa5d2cdd3c71467a",
 "title": "Meta Platforms Board Declared One-Time Stk Div of One Shr of Class C Common Stk for Each Outstanding Shr of Class A Common Stk and Class B Common Stk >META",
 "summary": "",
@@ -2076,6 +2148,18 @@
 "published": 1792612990.0,
 "stocks": [
 "Meta (META)"
+],
+"keywords": []
+},
+{
+"key": "68dc4f8673d60042",
+"title": "Apple Inc. (AAPL.VI) stock price, news, quote and history",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE83MHVvMnBWaS1ldlNyc1gtQ2tGc1BnWVhSWVZNT2ZYUjFZdnZzQm5IWUFvZXJWaGg1UndmMmdwV1pfU0xZRk41ODhNY01GRGppa1RpdjdR?oc=5",
+"source": "Yahoo Finance Australia",
+"published": 1792612789.0,
+"stocks": [
+"Apple (AAPL)"
 ],
 "keywords": []
 },
@@ -4799,90 +4883,6 @@
 "published": 1792590300.0,
 "stocks": [
 "Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "ee75edc12559d428",
-"title": "Report: Microsoft's Project Helix Plans Include New Handheld in 2027 and New Console in 2028",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZ3JQWTh5RGlmRHl4S2V4WGNxMTN0dHpQQlN1a2lpOEVxS3VLamJ5ZjRIa2l2QkxKczBDdHJjVUQ2c0tES2lxb2c1eDZ2dUp3LWVKMU1qYWZ1Vi1CWm9oZ3dxSlAwS3RKdU1namtRMTd3dmxWcC0xbUJLcmRKR19qZFFpOUxKMXdtX1NVREJHcjFmbHJZN2EwTWIzb0hPQ0ZXM3JwYXg5WlJ4enlRZy1XX1lsWXMzdjZwQXJOeWVJdWNwSnI4MlRN?oc=5",
-"source": "Thurrott.com",
-"published": 1792590272.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "c6cbbac3784a15b1",
-"title": "Stocks rise as SpaceX jumps 8% on 161% revenue growth and Tesla merger talk",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5DMkt3cnE4MkFPbUtabFEtUEFzZ1BVbTVGSDFZRlItRFFtakVnNW9RMFBoVkxwQnBkSkptVEJ6OEVhSmpad2xOUG9zaGdfcGU1UTNiLVNmV0YtU1FGS0p3MjFHbWdNWEcwcTRMTFRMTVVZaUNjVUlKeERMcERKZw?oc=5",
-"source": "Quartz",
-"published": 1792590222.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "ac183e3a659724c8",
-"title": "Microsoft’s $678B AI backlog looks unstoppable, but valuations are stretched",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORXE1TENtMkdwdG1ycEZvR281ZkJZOF93alFBd3IwRVhmMktENi1haWxiSG5ZXzE3ZG9LTWVHQllPZVlDZWp4b2pRZmxtV1VlVGg4T1ZOTWtDY19zXzNvRXBBUnA2UXdQeDdBUUpnVk9JOVQycTRJa1BhRHBhN1l6c1RZYjlfdHk4TFdUZGZKVkJlbzc1U0doSkMwSHNDV085ZXFtWVFYSEo3OV9wRF9KSXlNQ1VOU05MekFJXzFXeEFRRkI3VmNjU3dB?oc=5",
-"source": "Investing.com",
-"published": 1792590075.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "51916b1148bd1140",
-"title": "SpaceX stock jumps 9% after earnings beat and Musk confirms Tesla merger talks",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYzR1UUlQWmI1aG1sVE5Vand1a3M1OHdva2gxWk9BTHAzaDI2NmhHaWFraXFzZ0U1ZmwydEtCNmlqYzlKeDRJcVZkdGpsdWZ0ck1kT1R1c1V2SF9MYkNZNER4N0V4ZVNjMmlpNHhmVjh6MzhTbHZMYXNHajhlXzVsVm1YdHhwRDFObmNjWE56QlJSS2F3QkE?oc=5",
-"source": "Business Insider",
-"published": 1792590060.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "89da55996e019bd4",
-"title": "Will Elon Musk value Tesla at $420 for SpaceX merger?",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRVkzLTlvdUY0VDJVNF9FWkwtbWhzdndYQnp3TlZlb2ctNjZ5SDFJT2tyS1NzU2tkclhib2YyeGFFZjFZZXVpTnBaTHY2THMwSlFvek5nQm14N00yU2Jodkg5d1UxMXBmQ1NUZkxKV3gwbjBCVXZoZkh3aVNRWXozeWhVM3paTUJuZ0RfdWhFdWFCVkk?oc=5",
-"source": "Seeking Alpha",
-"published": 1792589889.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "7e1da37b9273c576",
-"title": "Meta Earnings Prediction Market Preview: What Will Mark Zuckerberg Say?",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBHWE5LQlpmZENZZ0pBdVZlR25wMU9RWmxHQjdFWUx2Vl8zM3g4eTNLQTNLU0xya3hBb1NpZHlZVW1MeldzbUtHSG5xenNydw?oc=5",
-"source": "Longbridge",
-"published": 1792589813.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "d075ec280f611afd",
-"title": "Meta Earnings Prediction Market Preview: What Will Mark Zuckerberg Say?",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZllwM0YyTUlVNTB0V1BSWWNEam10cDBRQi1YS3RMS2JkZ2kxY3RKSTFpOGo3M2lnR2VMNURIVkNxY1VkWW01emVjTVRjUll0bjBUWXNCXzVVMGlTNzRDZXpFaFBDYW53ejBpRkZ3TWFhWVVQVW8zOFNhREhIYWRjUEhOU2c4bzE4WkRzQk9JMURkamkyaWFQQnBjc2xQUEIzM3NqUFNHak5VWWx0VkZ2MHo0YjM?oc=5",
-"source": "Benzinga",
-"published": 1792589813.0,
-"stocks": [
-"Meta (META)"
 ],
 "keywords": []
 }

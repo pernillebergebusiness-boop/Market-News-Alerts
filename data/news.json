@@ -1,5 +1,5 @@
 {
-"updated": 1792645306.25811,
+"updated": 1792647551.8987613,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,6 +73,66 @@
 ],
 "items": [
 {
+"key": "569ec37c85de7f1b",
+"title": "Oil prices jump on Middle East worries as U.S., Israel reportedly weigh fresh Iran strikes",
+"summary": "The Middle East conflict could flare up again as the U.S. reportedly plans to resume strikes against Iran.",
+"link": "https://www.cnbc.com/2026/10/22/oil-prices-today-wti-brent-saudi-arabia.html",
+"source": "CNBC Top News",
+"published": 1792646304.0,
+"stocks": [],
+"keywords": [
+"oil prices"
+]
+},
+{
+"key": "0a1c23aa87936e17",
+"title": "Tesla Logs Surge in European Monthly Sales",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQV1ZWUzRWaGZaaWE3WEhkM3ZwSXpfWUQxZWFWVW9FOUhMR2RPejcxbUsxcmNUNC1pTlZuVDlYYVlJWVZnV1o3TEE5eE15VjJJQVd1RGYySWt3VkpCVnFsajVzcFp2MWh5Y3p2ZkV6RWRlWDFMclRIUWxqVm5jWVdJZkpTcW55c0EwMFFtWUsySQ?oc=5",
+"source": "WSJ",
+"published": 1792645560.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "aae1ff1bf38da5f3",
+"title": "Tesla FSD Attachment Rates: 6 Details That Matter",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdU9rVGFBSjNoVzM4a0JYaUtYdjZWMjIxQ1pNYi1zTDB2dnE3UDZMbjJKdmN4eTEwOXJnVXVuOV93M05wVmFoenBnb2NLTnVsd0wydUwtZXVDMXZBbGRDa0FreWtmS0hETkhBc0kwZFlHWHhCS3ZHRS1jUUpBcGtXcHRBYVN5WFdvQ0Uw?oc=5",
+"source": "BASENOR",
+"published": 1792645528.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "c93daf7ad40c2765",
+"title": "See the full Tesla Model Xmas dance",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdG1UMjNnejdhRmN3aVNvMVZjbjZjNTF4ay1pNERkcnJXQ0FGQVRrdmZLUVpNSlNUbTY4SzVRNTUtWnpyQk1Ha2VaTmhpd1NzenRsUmdKc0FVSXNLM29ZQnRlQjVhLTBVdS11RnU3Rm42aUZoWDhhcm03YVJBM1NWX1VUclZybjNXNTJaR21BY2VnVFFGVnpZU0dJeHRXUzhYWGZkb2VUMzVXNy02NEE?oc=5",
+"source": "The Detroit News",
+"published": 1792644234.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "cbd2d3f4515e9c11",
+"title": "Elon Musk says Tesla vehicle demand exceeding production ahead of Dallas Cybercab launch",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbC1fQUlpLTBJc1l6SXppY3ZZLXVpclhSMmpMTktnUjE2djA0UlVoRXlFT1ptMHhWQlFHSS13b3lzOWZmVThHbXhndmVzRGpyRWlob0lJRGpyOXFHOE5TeDF0d2VuOW5XcGNNeE43SDVaWlNXV1pMRlNEdVl3VzVpMTBCb0FadkdieGJsaFRJSGNxdUN3dDBLUHpSQkg5NXh6MVVyU1pxTXloM1VVZ2x5RGM2Yk1DRmZpN3lJQ19VYXdXZ9IBxwFBVV95cUxQcmtObEV1cWVsclhVNzItRW5WQmtrai1uXzRBTTJ1U2pPdmFmYVYxTHdwY0JuSTZVM2xOcG55RFU1RHN6eDBQckhneldEREtWemJqYTFOWW53OWpLNXFOd1IzWjhxSklTaGFCNHVRUkxHXzU0TXV0QkpTMkxQYUFtWTNieGR4emd6LTFQS3RaT3pCb2pFc1ZycVFHMFNLZW5Vd2xTSjR0WHdGakFRSGQwMDdwYVhtUi1MSjQ2WHZtTzJyckdjX2VZ?oc=5",
+"source": "Fox Business",
+"published": 1792643880.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
 "key": "8cf5953b00c70a8b",
 "title": "Here’s why Musk would merge Tesla and SpaceX",
 "summary": "",
@@ -97,6 +157,30 @@
 "keywords": []
 },
 {
+"key": "76f1ebc783f0d941",
+"title": "Microsoft (MSFT) Stock May Be 22% Undervalued After Maia 300 Unveiling",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaHdDUjJiMUkwT3NkQ05EOWxJX3lpV1AxUWlqNG9PaHRUWm1BNnJtY3pUMHljbVY4M2UwR18zelVVWkVMa0xiemN6T19MQzhvU0FMLXNQOUdCb1prc0lxb2hxWlRhRTJPZE5aa05DNk1UT2pUWFhVX0Z1QlNHTFZReUhNSU1VbGlXZU1oeXZUNlgzNVZoNS1J?oc=5",
+"source": "Yahoo Finance",
+"published": 1792643100.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "c748ceae9032a022",
+"title": "DNB Bank (OB:DNB) Stock Can Q3 Earnings Sustain Fee Led Strength",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQWQ4MEhUMHA2U3doT2E0cU1FbDZsS3RIVVhjUGFKWVN1bUJpSFV6RzI1dElEbzNRdFVBcG9kNGxfUEpuQW10eElyVmVCbFFCT2M1b1JHNWFKRzhubHpQTi1NeTR6RXFMUkFVdEdnaE1OVTNZNmtfYThUWTNVV3hOeFZYYmNVWU9IWUU1b3llZw?oc=5",
+"source": "Yahoo Finance",
+"published": 1792643100.0,
+"stocks": [
+"DNB (DNB)"
+],
+"keywords": []
+},
+{
 "key": "172de27be2c2849d",
 "title": "EXCLUSIVE: Musk’s public endorsement of SpaceX-Tesla deal may throw a wrench in talks",
 "summary": "",
@@ -117,6 +201,18 @@
 "published": 1792642971.0,
 "stocks": [
 "Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "033b533b43bd6de9",
+"title": "SpaceX-Tesla deal intended to close before end of Trump’s term: Bloomberg (TSLA:NASDAQ)",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSHVrSGRMSHhqbnJTTk5aRlBSQzNGQ0xIT25VX01GZ2s0X1lzY25TbE9YbVptTzhLN2RVSzB4UEJYV2NZdGw2UWdGQlVvb1ZIQl9ZV1lMVVlsR3pEdGlpT0g4VU9lUS0wdER4UC1rVUV5aDJBNVJncTZlMWRNN2c1YkpEQ1RHeG9TTzg4NjNDOHgzS2tBWnZrTmVNWERiMExxa3JEdDJhZVlHc0puQUE?oc=5",
+"source": "Seeking Alpha",
+"published": 1792642914.0,
+"stocks": [
+"Tesla (TSLA)"
 ],
 "keywords": []
 },
@@ -151,6 +247,18 @@
 "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxORmswZ005RlpqZVFEUU9kSm5sTUFsOXRrWEliaHN0SENhSWZUb2RnclFZd05fRnVERlNOeV9jeVdxSm1yMi1lQ0tENGUxZlJHRk5ZWGY0VE5yVW1LRU0xYzFwRmlTYlBHTlBPWmpXcWtaUnMydmNjd0RqaTZHcC1ubU1tNXNuY3FsT0h5RFQ2MUtpZ0hOVF9rY0puN2x4Zw?oc=5",
 "source": "Yahoo Finance",
 "published": 1792642020.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "1386217d2843972a",
+"title": "Tesla Doesn’t Sell a Single Bitcoin in Q3 as Crypto Stash Jumps 42% to $962 Million",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPU0RIOV9acmRpbHF4Mnl5TTJFZEZCVVlQQkViR0xUd3R0emxyUWVrajR0djFPd0tGRFltSlJqTHZuVmRRbXBvbkwyZXhLanFoMXhYRFZTWHhzVDZoZTJqa2xoYjNYMWY2U2dmbllMcnVBaERHRjZPTVk4MWVZWlRvYTZVVkVMUTB0dlpsaExYNDg4VmtkZEFOQnFna3pOMTY0MEE?oc=5",
+"source": "Benzinga",
+"published": 1792641878.0,
 "stocks": [
 "Tesla (TSLA)"
 ],
@@ -421,6 +529,18 @@
 "keywords": []
 },
 {
+"key": "3155c8ea4e05d423",
+"title": "Humanoid robot cuts model processing delay 8x with NVIDIA tech in internal tests",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeGtRVWY4NWtkTVlhcEtSU211eE0xaklIMzFPckhMQW9EM0w3UXB4bWZxVXpOZjJuZEpUeUtTYU1xZXJ4Z2MxVUE5RDFJRG0xODAtZlJ2TkhJQ2MyYlRUbTQ3WnUtTk5aOV8wbjM4TFc5dF9UOGljUVVKd2stY2Y5NXBaREp1UzJ5WHItd29OWHQ4WWdYNXVqMldB?oc=5",
+"source": "Interesting Engineering",
+"published": 1792634760.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
 "key": "9d03e1cbe9ee36a0",
 "title": "Meta strikes deal to keep Zuckerberg in California after wealth tax concerns",
 "summary": "",
@@ -442,6 +562,18 @@
 "stocks": [
 "Nvidia (NVDA)",
 "Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "6a43ddfc6a3099e8",
+"title": "Tesla aims to sell Cybercab robotaxis by end of year despite federal probe By Reuters",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVUFOa2tlcUZRaFJBU0JjZjZtS0FjcFV1d0huUS1zeGZCSG9fbERUWGZHeERlUkl3X3ZpZlpBdXU4OVZLMWNpTmFIc1BqSEk1Y091OWJrZDZLdTJLYUJYTkpfaXl6VklJTnB6YV8xYmhiaURBT21aTUZOYkk2d0wxdmJyRXN1M0d0S3RINlJaQ1VmelRkM0J6S2JnRlJDNWpobXRfcjl3Um1SaTVYaGZyU09CR0JjRzZYem5JbXMydTNEUXZUYTU2SDhaMA?oc=5",
+"source": "Investing.com",
+"published": 1792633600.0,
+"stocks": [
+"Tesla (TSLA)"
 ],
 "keywords": []
 },
@@ -490,6 +622,18 @@
 "published": 1792632825.0,
 "stocks": [
 "Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "095eb2a3589f8950",
+"title": "Google, Meta and Amazon Challenge Nvidia's CUDA Dominance",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GMHN0VzZwOTBoNGZnOUdSRlR1TzgwZDlJUmthdHB4OVh2MEo1Y1hjNHNHVVJUOW04RGM2dlJsRHV1MGZpZDRxWmRGUjhvVmNmRzhybTVPTWVxV2JHeDhkUTZLMElBbjA?oc=5",
+"source": "THE ELEC, Korea Electronics Industry Media",
+"published": 1792632498.0,
+"stocks": [
+"Nvidia (NVDA)"
 ],
 "keywords": []
 },
@@ -4733,150 +4877,6 @@
 "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBUS2VURVkzMXlQeGhSZDBHZXU5akFRMVl2R2VPYXAzeFA5YmxKcjRleno2eGI1UkMteUFCWTZIcEI0ZTFfZEw3WGFLQnBoTzIxVENtanhqVDVuMUtaY1pWb2tnUnd0di1pTG1GSVhCV3BiSm1SSUF5Vk5UQdIBgAFBVV95cUxOSWpXaFlwQU8zOGUtM0NtRTFzRXVSVGFRcTNOLWw0Z1poODgwZ3JCNVZHYUY1Z1kxXzJMNU5SbGdLdk5SY3J4ZUVQMS1hSGFNaExVQzRORGRuMnk1S1RUTGcxQndkdGp1clVmelBReWk3TkJWYlQ4TzhkQV8wbVlLOA?oc=5",
 "source": "The Hill",
 "published": 1792597860.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "d69ae74c5580b5f6",
-"title": "Innovation Basecamp at Microsoft Ignite 2026 for startups",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRUswYUxRbENiZHlobHE3ZHN6QXl4N3FPMEU2ZHNsNFlmSUYwWXgybFB1QjBxdmItRWlteXpfOGdGeWNFVkluWm1sZlpnVDFMQ2prdWRwVXdEZW9xajhOeXZzR0YzLXNZaXA1SjItSENOU1pwaGl3N21oeU5kQjA2Zm9pSDkxakRWOEFERzdkaU1PckhLYXpqdE5XNk1naU45X3M3cmgtZDc?oc=5",
-"source": "Microsoft",
-"published": 1792597737.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "84347aadde3d08e9",
-"title": "Alphabet Slips 2% Despite NASDAQ Rally as Pichai Says Google Cloud Is Giving Up Revenue for AI Capacity; Amazon Dips, Microsoft Holds Steady",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNUmFwTzgtN0FOZDRWNFQzWTZtd3VJUXdzeG1wcVVMWG02NFg3cWxTUFY4R0xINzNkV0h5a1lkX2VURW5CMVNuZkNYOXVjaHZ6c3paVUJQQlV0NDNQeXdLWHRiWC0xd3VsTUlfUG9GV1BwZTdNd3ZyTXp3dmNxOGxnRVdYLWE0bk8wd3JMejBrLVFzazExcXJmWTM2ank0dmppSk9uOTlDMDJQNmdmWHE2V282VnJqUWYweFdCelpzZEIyRFQzU2d6R0VPblBvZ2VqQlhVelExdEtBOFY1ZjVuSy1TcHBObkgtSXU3X3RVOFBOa0ZkWG9tUG0tQTZPNEViZmpjRlhaSGUza05mVVE?oc=5",
-"source": "24/7 Wall St.",
-"published": 1792597680.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "4e3bb7053ceac6ac",
-"title": "Top Midday Stories: SpaceX, Tesla Explore Potential Merger; Abbott to Separate Nutrition Business Into Independent Publicly Traded Firm",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONmZHU0NxaVZ0U1lZQXdpNzBTY25icVg2VVRoN01XcGpaR3NHZ2xzb3FWSWhOcmU3bzNXemlXdXVMa1RobkdFNHRkNzJuaU5Wd0tPMHZHTkY2OEVCS21pZGJiX2JiVHN6bWdMTWY5eHQ3UGxNQ0ZDemFxQlBHQ1lhcjV2Z29DOEl3MzBHRUZtd1ZMaGZ3WWhGZVpBLUs?oc=5",
-"source": "Yahoo Finance",
-"published": 1792597669.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "1a87853dd125b848",
-"title": "Here’s How Much Tesla Stock Is Expected to Move After Earnings",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVkhhOWVLeWlmenVYanV6ZlZmaV8yNEthdHJHUFk2LVVTOXNUaHA2REpfdDd4Z3BTb1llYnljQjZ6T2FUeF9TZUI2WGRISXVwMTl4MVdqb05ZSGlDaWtZbjhJaW9MRFJNX09KNUR2Z0ZLVjZhb1I3T1E0XzVrRnlpcVg1dXJOcjZuM201U1Y0TnBueC0tSWRGTEpZWjYtanUzczBoN01NMW9qbndMbTJpM2R1cmZ6NnNmeldRWFpJZFQ?oc=5",
-"source": "Investopedia",
-"published": 1792597577.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "bf5dd4247379f978",
-"title": "Absolute Security Integrates Autonomous Cyber Resilience into the NVIDIA DGX Station AI Supercomputer",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYk9ZMkVJa0w0QVh0U0tEcTNUQmc2czMzdzFfdFlYQ3psamkzYTVTYlNxTk5MdnlvVE00YTM2LVZJdlo3cDFiaTQ1a3NhSU9LY01ZRks2anFtQ1RQYTNEd1dMcUFhS1h3alZVU2FhQlA2NTg2NldpMnB3djh4X09rTmNmOXE4dHFrN2o4VGpyLTRIaVhTbTBmUFlJejFnMVNJWEhMUTl1aVdka0dUMmc?oc=5",
-"source": "Yahoo Finance",
-"published": 1792597320.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "ebd234c9da08e0b3",
-"title": "Absolute Security Integrates Autonomous Cyber Resilience into the NVIDIA DGX Station AI Supercomputer",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNcDJMcG8zcnNQR2RLSlhMMkxIY1BrNkd5dW14dWR6WkFLbldZLVVTWlRGQWZEdVNmb0phQm5Ka2FhWjhlcHdhTG1EdHJQQ0lkOENCbE5qeE94eTV4b3dHeWRIUWFxYS1YM0pERmJiMXpWbGFQdDhxVVdLOTRDWUtJR19kcXpIUDk5bzhraWdXOW1PRlpDbzhhcGJEempCSlFrT0tmNUc5d0ZjdFdDN1kwZmExeTJiU0VJTjZhUEFmZ0t4RXJRY1dSMlhXWTdDanZ5ekZ4ZV9SbXNNY09QUnlnRWxUSlhMdUFmUENDYjVibw?oc=5",
-"source": "Business Wire",
-"published": 1792597320.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "e3c20453598b20ef",
-"title": "Mowi looks to change plans for new canteen at Rosyth fish factory",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQN3hkaEd1bk9vUWtEbFBsVHlhcEpFaXhuVndEMFcwRi1zZkhzSFk5bWRBaHBSd2c4bnM4Z096MDIzMmVFcVRwZ1N4d00zUTZqVi0wcFdrMTBxVUdNbGYxc2pEU1pQQ3NIaFVqcnNDRkNOWkx5WW5LUVJqZ1VkdG82a3pZUXdLNFd6ckZib21fUlI5WDVqU2VPOWM0SEEybmVIdmc?oc=5",
-"source": "Dunfermline Press",
-"published": 1792597294.0,
-"stocks": [
-"Mowi (MOWI)"
-],
-"keywords": []
-},
-{
-"key": "857d57c564dba70f",
-"title": "Nvidia CEO Huang was optimistic about the EU's growing AI economy and data center infrastructure",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNmU3NENpYjRpZXVKaS1Yb2pwRDBSeFdoWFN5ZWxHVzVaQ0ZnaWZsT2I3Y19lM2dtQjRXRHJDaHF3QW9yZ0dKQTctX290TC1UcFpUY2MzREtTTEIxSVBzTUNYakRfREpwUXFPUE1Nd0JTamVmcnc3Ymlqc2J6RzRiSEJyM1Zwem5QZGZ6Q2h5Sjdhc3ExNFE?oc=5",
-"source": "DW.com",
-"published": 1792597137.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "36f0000399dbbc13",
-"title": "SpaceX, Tesla merger is 'pretty inevitable,' says Oppenheimer's Horan",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMHFuZkdLS1Y3MGVPeG83Y1R1RUQ1amRKcVpnal9sQ1JZRzctT1NNdVEta3hDbzFTUDdacnI0WlZ6Y2RBalZ0T0lDbWRVM3FTWExQLVB6aDlBUmR2NnFEWnBpa0w1cjFkdlloUDkybE9JNUpIWVhpLXRLeWhvTnB0ZTVlN1VBWkZSaXRjd25yV3ZPOEJoVTBjc1Z3SG8zUS10MWgtNDdzbU5xSEU?oc=5",
-"source": "CNBC",
-"published": 1792596935.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "f94bd9b2bc9dba90",
-"title": "AMD vs. Nvidia. 1 Metric Proves Which Is the Best Stock.",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWFVOcU9xRWJzZjR0M2FoU3k4TjBKSWpfSDc2NmNqbzBGMWxqcnpFajhZTG1sNGRtVjBJY3NqTF9mVGVDaHJYTXVNQTlqLVltaW00REFkT3pWX09FOHB2LTQwdnR4VXJXU25ZMTlvTV83RV9uR21Xd2ZGX0ZZSDc3RDZINVRfdGNKQ1ZXRzYzVmo?oc=5",
-"source": "Yahoo Finance",
-"published": 1792596900.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "e8b99332d160444c",
-"title": "Musk says Tesla, SpaceX exploring possible merger",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vRWJINTI2MFZPT1Fib1BMZG9UQjhadV9GV1JRdVlBX0JkbUNUSnBlN3dPV2JXelZDVFNmTUZoazRZWGV3dGpXdEhOT19ZUmtDNzZRYTFvRHJoMFNXbVgwaDBhR2JHWEZWN1E?oc=5",
-"source": "CBT News",
-"published": 1792596652.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "9d401818ba328c38",
-"title": "Ferrari CEO Gives Tesla Roadster Reveal a Perfect 10 Out of 10",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcEs5WmNaRzNiR0hqZEt6UVJXbGdzVVpDRWNNZUpITnNsb3pGQ2tGcy1TR2Y3YXRjTkk3aXNMbWs4TzkwYWxkQXdmT04xSVZPUVVzbndmaWd5azBwVVB5ZWhXclpXYU1rRnZtRGtjQ3hGT2R4aUR6cFVyYmxPRUxwN2plS3RYaHp0ZmVUNUtfVEkya2ZTcUh3?oc=5",
-"source": "Autoblog",
-"published": 1792596600.0,
 "stocks": [
 "Tesla (TSLA)"
 ],

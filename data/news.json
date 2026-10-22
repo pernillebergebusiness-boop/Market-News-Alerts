@@ -1,5 +1,5 @@
 {
-"updated": 1792634637.1771407,
+"updated": 1792636830.7900667,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,6 +73,66 @@
 ],
 "items": [
 {
+"key": "d5d2e42542eaa442",
+"title": "Tesla’s spending on AI and robotics trails expectations, clouding outlook",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWDUyZ3d1aTdDMUNob1VUS0tMYV9OS0ptRno3R2J5VkJibXExTVVIWTJCMzRiM0FyQWZiYnlQancxZ2NKQWpJU3dabXV3QUV0aVJKLWpwMzlDVjZjT0c2M1RPdTdWZkJ4cVBob3pvQmlCZzA2YUhzUUtpQndSVFdZX0F2eGJleHBkTU5zbWhkZw?oc=5",
+"source": "The Japan Times",
+"published": 1792635780.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "9825dce7281fcd1a",
+"title": "Tesla shares reverse course as robotics, chipmaking caution overshadows upbeat Q3",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTjFIV1EyQkFCbm9KV2ptaTR6Vk9uQ2haanhaUGZNUDU2YWhuNEw4LUF0M0x6am0yRDh0aHRIZWNSTlp3eG5lYkJla0lBMnd2bURCVVFKbi1sNGplaFBFRGtyTmJFaHNWTmhQN0hxMWVRVjloLThaUFNRMF9udEdjT2Y3TDlscTB5N0d2bEtEdkJVNnUxSkJpLUhfX1Q1Ung1S3hHR1NSV0RIRXZKYUJQVEQtamoxQkgtNm5BdjRmWmo?oc=5",
+"source": "Investing.com",
+"published": 1792635483.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "d1cda1b95c695e9f",
+"title": "Microsoft employee headcount confirmed reduced by 5,000, first time in 10 years",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTU1BMlRUZUQ3THFQLS1sT0dmdGRIV1R5SkE1VGFlYm5md1VuV2xXU2JqMko5TDlYT2tUN0Q5TkJIeWQxSnFlMW43ZVkxTXFheHUxZGdmeExoT3NSR18wRkx0QUd2QkduczEweHFsWTBwRWludGFvTE5Oczh5M2NGMXAyS3hqQktzZkFhbVZkVUFsZEZHSTdDcVVMZzgwSmw2V2Fvc21PT0o0WV9MTU01VVhVck1MbG1TLV9jQnozcEkzdmIw?oc=5",
+"source": "TweakTown",
+"published": 1792635035.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "0ac8dce10e7495f6",
+"title": "RBC Capital Sticks to Its Buy Rating for Meta Platforms (META)",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNY0JxMkRYdHZ2NkRjY1MwWElPWHhKQ3BRRTN1RDhOUUFZUU9uQ2Q2Tk53a1ZXdHREZmt5REpMWXVCNmhJWFNTNDZEdzdaalBlUmp2b0s1RFFWZjZ2NDBtXzF2NTRqYkdqU2V6STVsY1hjOFR1TFcxNlUzZTJ1OEJhcmUxZ01EOVdud21DUnlxZ1Z1RDB4SWMxNE1DNHUzTjh3dmZWX0k5NF9udWhHNzN3dXFzc0tLRm51U1VGTGE2WTFsOWFmbjBuelhxbEJNRU1uZ2UxaXpObC1UVXRQVnhmSA?oc=5",
+"source": "The Globe and Mail",
+"published": 1792634901.0,
+"stocks": [
+"Meta (META)"
+],
+"keywords": []
+},
+{
+"key": "9d03e1cbe9ee36a0",
+"title": "Meta strikes deal to keep Zuckerberg in California after wealth tax concerns",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcjRzbWZvU2s3cXVzUkR0Y2o1Q2picDNXb1dvRVZJSTQ0Z3hoMmYtUjlRa3RUU3hlY1AzN1BTYjdqVUFkRFJhaW9HSGpSLU1BdDA0cHk3RXZBUHhLaFRULWJCMTJZcTlKaE82ZGlxbko0blQwVjJycU9kNHN6dDllQ0ZYTl9ZdWQycHZSVHZKcHNaUFZSby1pN3RGdHR5bXNOeEI3R1JzUHlDa0hhbU5Vdndpb0FyZw?oc=5",
+"source": "Reuters",
+"published": 1792634580.0,
+"stocks": [
+"Meta (META)"
+],
+"keywords": []
+},
+{
 "key": "53923918bb399926",
 "title": "Merck Collaborates with NVIDIA, Microsoft and Dawn Health to Develop Novel Support Model for People Living with Rare Tumors",
 "summary": "",
@@ -104,6 +164,18 @@
 "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUzlnbTF6RWxvZ0Nnb2hjaW9IdnBKemRlb3JhR28xOHBEWEtWY0hHVWladXlOYUVfUnpQS2FVUXpnMUlBTHEyRlo1LWtQUEdfQWp1TXliazBoWVNfUTEtUXhwX1VuTlI2NWF4bDNON2ZuQldudllLdlVCcGRPYjdCeGZJWkp4QUsxQ3lwSEE5VzRUUHNpMTNNQThYMVl6TU8zdks1MTZzY05BWVZocExLNE1uNTRLS0Z2QWZFcUxLY0xVd2h4dHppNm5Ha0wyV3c?oc=5",
 "source": "Reuters",
 "published": 1792632960.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "04c860b9b683042e",
+"title": "Elon Musk touts surging Tesla demand, reveals new Cybercab expansion plans",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OWjBwb1BQbUdfYXhNZXU5cElXSW82NGdRZXdCaVdaSmRLYUUyZHU4TVRMaE5SUV9SbnpXb1lLS3pILW1JZnRMUzBSVEh5d0FSVVF5ZHNsT1ZncEk?oc=5",
+"source": "Fox Business",
+"published": 1792632825.0,
 "stocks": [
 "Tesla (TSLA)"
 ],
@@ -158,6 +230,18 @@
 "keywords": []
 },
 {
+"key": "76d868b87f12db3b",
+"title": "Why is Tesla stock falling after-hours today?",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVFZqT0dQZEY5OXRmU2dUYmZrZ1Z4NnlFaWdrdlZQeTZTLXRLanNmN3I2LV9sMVZCOW1KektGd2g2VG5BNlNVdzN6a3NJdWI1bjMwSzZRaVZvdTU1eXRxODMxSi1iOFhReXhha1NuUXpwNmN6dlE0RnVJOU9DakMxZzRlVmdPTkllN3ZvSWJwQ0J6YmJ3WC1EY2d5T0syV0RiUUx0LXZGcjc?oc=5",
+"source": "Investing.com",
+"published": 1792630600.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
 "key": "06f29afa1714701f",
 "title": "To help world gorge on GPUs, Nvidia brings cash bucket to fatten wafer-thin supply chain",
 "summary": "",
@@ -202,6 +286,18 @@
 "published": 1792629660.0,
 "stocks": [
 "Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "100d9c9dd6591b1c",
+"title": "Delivery worker found dead in trunk of Tesla. Suspect assumed aliases to evade police, officials say",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOY0YybkIwRThKT3d3Nnd5dzF3aW1HZDQzVVhoSk50MV9RLVItWFRKeFQ3VHRpV2NQNkYzc1hhaVFBUVNtZ25WN3ZKRUN2ZU11WDZ3aUcta0JEVlhhOGdQNEdFOHJrNjFqTHprMWFaVmdNckpvYzkxUzJRa1Fod1RNM01KY3R4NnRLX3ZfUjREUURFbTZ0dEpnV2czMGNlcUdTZHptLTlQUUQ4VXlFZFFsN1lNZ1hoVmdNV2cwWjlzdWZTRHlpaDRkZUV0OFZKQzU1RVpzQ1AwNA?oc=5",
+"source": "Los Angeles Times",
+"published": 1792629480.0,
+"stocks": [
+"Tesla (TSLA)"
 ],
 "keywords": []
 },
@@ -711,6 +807,18 @@
 "keywords": []
 },
 {
+"key": "ed0f36e51fab5038",
+"title": "Was Tesla’s Flying Roadster Reveal Just a Big SpaceX Marketing Stunt?",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQblpVdWxOdzUtbTFkYUs2cUxrRGNkNGZfeXppQWxHMjN3SVVjYnNOTFc3a0QzMUdMMWdMOEs2azg4OGRxd3VpUXNacVpYVUVSZy03SVE5MnNOZGk2dDFOOGNpZFJPNThKcDRQdjZ4ejI4Tms2eFp1ZjlEb2tuQVdiaHpIeTNSV2VKaUJR?oc=5",
+"source": "Autoblog",
+"published": 1792621800.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
 "key": "e4e10a7e8638d999",
 "title": "Microsoft Stocks Slip as Volkswagen Scales Copilot to 330,000 Workers",
 "summary": "",
@@ -999,6 +1107,18 @@
 "keywords": []
 },
 {
+"key": "a925ab50c55b2b2e",
+"title": "Meta Platforms (META) Reports 3.64 Billion Daily Users Amid Stro",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOc1FtaU1TdnUzcGJqbTJFV1VhRk9aYTN6NjNUV29MMXFIUlVxS2d0Q1BfcUpId2JxcEkwNWZmRGt3dGVJYk9NS2g5QUdKbEs3MkdiY1plek1EVks5QkZHUFFmc09BMGY5elFWVDI5N2wyYnBNX1djN0xUNUxfVnhub1pLQTN0VTNkWFU1UEpVemlaN2s4WmZWTUp6WXlmRFdJWHF6c1VNTmlyUXk5eHh2YUZ6NW5QVXB4SlBTNlgxYUphUmhPNV81bA?oc=5",
+"source": "GuruFocus",
+"published": 1792619968.0,
+"stocks": [
+"Meta (META)"
+],
+"keywords": []
+},
+{
 "key": "ebc76eee8a083ff1",
 "title": "Microsoft taps Stripe co-founder John Collison for its board as two longtime directors depart",
 "summary": "",
@@ -1221,6 +1341,18 @@
 "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQanhhR3k0YTMzN3RCT3V4dV9vbmZiRWZ3eG80M0l5aFpEQm9yRElFcGhlam9Iajl1UC1rNXZORnFRN1lsaklXS2F5cmlBbS0tbTRLYmFJR0FtY1Z5azlBYlZDWGt0UGh2NVlKeWk0d3dBVnhpMk5xeUx2d0U0bkFlMy1kTXlrc1ZkNHgwRUJDSjdhdXpSWjNJNw?oc=5",
 "source": "Yahoo Finance",
 "published": 1792618153.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "b525ea022d2e2738",
+"title": "NHTSA: Tesla reports its 1st Cybercab crash in September",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQczZ4ckpwS0h3NllmZUlYSEtnWS1odVRXbGZyRmxQS3ZqZ3ZyelZOdEJCeFBWekp4ZDBqRGZxS1FQWmRFRXVYb0hieE94eGVmMGhzYWF5S25vN1d6TEhIRndDbjYzdk1iUXdpOU1qXzdMUlJOaEpDWUt4VHNXeVBPUHJMUlN3NzVQUmgtTlJIN1pNckUxZVpKNlNmNNIBoAFBVV95cUxQMm53VkZnUUFGOG40MEhNdUVKMktGVGdQTGRfeGlDcEFzajFtYXU0RUJZcWJDbWR4MDVFZjBmMi16aXMzYkUwcHhZMkJiay02Q2FiYVpXTmFQZXZtT0JOQzlGcTBzQm4xTEhXc0VDX0NHWVJUbFFZWXZOclVNdEpEdi0wWTdhT2lQa24tMjdhY0lILXZpNmZybzM3ejNlcGNI?oc=5",
+"source": "KXAN Austin",
+"published": 1792617783.0,
 "stocks": [
 "Tesla (TSLA)"
 ],
@@ -1522,6 +1654,18 @@
 "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcF9yUDlEVXFnU2k3ZEw4dFVPM0FsSVBFYmFFems0SXl6eU5BQXdWaVkwaDA1ZWZVNEZzU3BJUUVHSGlhSlNMQXRMck9PMkYyQ2FnZVFEU1VTWURsUXVfcmRsY0RmX0c0ZXVEd1Q0TDJXcjNjZ1N6TWR5WWhHRWx5U2U5QXplekY0T1NSZDV6WjBENzhVN0tYcWYyVUdzVFZfcF8yN2J3aTlwUnpXal83MzRUeVBmWWV0RXg2MDRtbHFPSVdtdHg3bXZB?oc=5",
 "source": "Forbes",
 "published": 1792615902.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "c57c6ced5169494c",
+"title": "Tesla stock up as automotive gross margin improves, free cash flow turns positive",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYXJwV1cydG9obFlJX0t1US1iUHg1aFJwTGdRZXBrM1FvUlBKSTNJMXJjYWlVcUV1OWlkbjZ5Q2JoVXczWWxQeWdaLWtKVldFaGJTVmc4aHZvMk52blRtUEwxUzE5Ylh1aDdac2pVNzZHRGN3bS1ERjZMWmFhbHludVpQYkRPNDBWaFhHR29KWElac2N3cFlaVUJneFBvMk1FQnc?oc=5",
+"source": "Yahoo Finance",
+"published": 1792615813.0,
 "stocks": [
 "Tesla (TSLA)"
 ],
@@ -4734,150 +4878,6 @@
 "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVEhlUnZJUFZYV1dmWW1LMllZMTJqODBNc1VlUWhGMjZjOEotTUZUOGJ3c1JxOTNaeUhxYkFESDIxblM2NVl2WklBNXFWNG5MVWNhc2hrUThEc2Q2aGdVS1Rkb242d3ZmUmpHWE50VDc1cTVLUkVMUTUxRW5OSUM2TktBSEt1S2tySFloTjNiU3dfUkFmNGpReHVwRmJRTzZqYlZaeThfSTFTY0NGWmE3Zk5HVkVqcThRTzN3a0thMzI4NUlZZWFz?oc=5",
 "source": "Morningstar",
 "published": 1792594020.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "0d0beb241afd68c3",
-"title": "Microsoft Previews OneDrive Sync Client Command-Line Tool for IT Admins",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAwTG9tRXBtby1KTXBjX2Y1emF4UzJpV0VLTDVQOFJiSjJHQ1c3NUtVQ2VmeS1MUFVMdjlvMXJmZDk1amtGWnVsSVVpMDU2cFFKcGJiXzVySXRXMUhFM09RaXMxMjNYQQ?oc=5",
-"source": "Petri IT Knowledgebase",
-"published": 1792593981.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "b46bf99d792acf2b",
-"title": "Microsoft Previews OneDrive Sync CLI for IT Admins",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAwTG9tRXBtby1KTXBjX2Y1emF4UzJpV0VLTDVQOFJiSjJHQ1c3NUtVQ2VmeS1MUFVMdjlvMXJmZDk1amtGWnVsSVVpMDU2cFFKcGJiXzVySXRXMUhFM09RaXMxMjNYQQ?oc=5",
-"source": "Petri IT Knowledgebase",
-"published": 1792593981.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "9785e4f9738b8e5a",
-"title": "The Market Will Wake Up to Microsoft’s Value Sooner or Later",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPU1FJX2lnSHh0c1IzR0VSSS1VYUNXZ21IWjM4Z19SOUNrUEpDZjBQRmt4VDRYWHZyMU5tTWk4XzU3eENaU0w0SXdwYXZPRDlGZHlJazVpZU5McmprOENTaXdYeng0YUx5TjNrZ21RN19RSXR6M01mbTVuc25Da284cmdQS1dyYUhGNFlMYlk4SVRZZHNHbWhRUlZnT3B3ZUFr?oc=5",
-"source": "Yahoo Finance",
-"published": 1792593947.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "78f310faed12deab",
-"title": "The Market Will Wake Up to Microsoft’s Value Sooner or Later",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVDdRR0plZFRzcnJHanZHT1BMZXhCWUE1U1lLNVplNTdwOV8wX1BUb0k5YlJ3amtZNldITEIyeVFMdWQxckRqMm5GTGdNbzNlbXREWFZnRDZ0eG84bFZjZlVtd0tmLWpGa0FONTdjYzZLdm9LWENrMmRxTVVUNWZQcW9FX1M?oc=5",
-"source": "AOL.com",
-"published": 1792593947.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "695393663c165ea0",
-"title": "The Market Will Wake Up to Microsoft’s Value Sooner or Later",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWWlTc3U5ZEtUUTlWQUFVTlFseXY4c2Exa1ZiRFVFbHRDdFIyaGFGZC13LTN0c3hqQmdqYzc5VGlyOGI3MS0yanpnRFBnMkI0VVVMTUVJNWRnMDhQWW1JNlEwNUc3QUhoQlgtbm9SZ09FWGdWckpPZk13YjNOSFU2NVdmTUxFeldyNVdfN0NfQjBwaTBtZWd2V3hTaFRDY1NhcmxtLWFR?oc=5",
-"source": "24/7 Wall St.",
-"published": 1792593900.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "4e629253c55337b4",
-"title": "SpaceX’s AI fuels Wall Street optimism; spending, Tesla merger raise concerns (SPCX:NASDAQ)",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPX3BRalNTd3lqREVUcFFWTUdVc2hzMkMtWmFxMFZrT2I1SXVkclJIS1ZGcTBWLWd2V3hWZElyS1V4YXc1M2RNWURrQ1Q0b1hCR2hib1d5dkRZbjNBaVlNZHNrVHVHWUphMjJ2Tm9VRmg3VnBQQ1pGV3Q2WWhQVnZNUUNaSTRzQ3RIeTA1OXk5bEFUeGo1UkFDNnM2T2FXSzkwTUp0Y2dQdWNwMnZ6OUp2cTF3?oc=5",
-"source": "Seeking Alpha",
-"published": 1792593887.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "f18a34987da87ed8",
-"title": "SpaceX and Tesla Are Exploring a Merger That Would Hold 30,000 BTC. What Could It Mean for Bitcoin?",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcTZJdkxrYmd6ZkVHTkwxS29MUEhUbDA3OFRvaVdUOE9ZS1VxcERiTzJ6OTVNZGJzVlJQcnZPck9ndjg0SEVjTzhielRQcm9pWExoVXRZTGthSlZsU2kwOHMwbzNVdElRTUpYZGFiMDg1MFR3a0dwZUw1UmdUQzliN1BEQ1JadVU2T2VJcXd5THNxaHF1UGNJbTZVTV9TWUlU?oc=5",
-"source": "Yahoo Finance",
-"published": 1792593832.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "e1cf5d3c7693c57b",
-"title": "Elon Musk Is A Trillionaire Again As SpaceX, Tesla Surge Pushes Net Worth Up $88 Billion",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZ1lUd185Ym1DV2Q0N0t3ZC11UjJYeldXSklwOFBramRnUVZyajdUSXRtQjV0YVRoSFU5bkhQUlpTbmdsUkRDc3ozdXd5VVpISzdZdUNmNWRMSjVfcUl3TmxITDVqWU0xd2ZZSmxjY2o3RWsweXVlYzAyYUZaVERTc1dxRjVEeUdvZWswenc1UEFlamZneDRMWFZRY1VDMF9mSTBpYkhVZ2xfYlNkeDVIak9oTk45QUprRktNaHo1RUhEMFd5NjlvdmRQWG1QUGlKOWc?oc=5",
-"source": "Forbes",
-"published": 1792593793.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "33145f533df2452e",
-"title": "SpaceX and Tesla Are Exploring a Merger That Would Hold 30,000 BTC. What Could It Mean for Bitcoin?",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNaWNnWDl4UVY3c1haempXeEV3Mmp4SXdnU3hGM1RzdThPNjFqMEJNZ1JFN29KR3U2elpDbWlmbnptRWV3aHpTTVpaeTV5b0N1SENuVUVUOS03Q29XaFcxWHJZNDQ1S05lc0E2VGJmWlZPSnZxeFRSWUlkMTlsSTV2QjFoUXBEOENodTZOdmtaRHg4RksyTUYtV21PUjV2aUpYS2ZmNEJtSGR3UURXamkyX2FYRmRESDJmYmk3R2ZNVmpWSDBhWUdHV1hJUlNxMHBlXy01VGxWYURsTTl2eEZhRVliUHA2cTE0ekRv?oc=5",
-"source": "24/7 Wall St.",
-"published": 1792593780.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "659c61f782c1305e",
-"title": "The Zacks Analyst Blog Highlights Microsoft, Palantir Technologies, Micron Technology, Lam Research and IonQ",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOUEJia0ZiSnlLaWNJQWlFR05YZ2lvQVU3Y2tFTXNCcFBkVXhIdHVyYUFkNUI5eDc5UlJHZTg3cnRmdFNYWHI5dTJyYjcwRjhBVnl5WGVEZ1pfZTBvNjd0dU9yTXRqeUM3R3VhcElNZEh2bVBYdzJ2QVdxcm5tbElGNjhzX3AxeGRUSDktQkk1Y2dIUkxJS0c3M240anI5cDJBVXJXS2lHTVF3and0akRtWFpaM1VNVWRKeldkXzRUQkRBUVIxdDZ5QUVadVBSWE81ZEozUFlUR3hxMGxRcVhHckxpVUlPOEZnNWRyanQzQzRxVURjeGhXRnBidHMzUnJwMjAwZHJ5TmliZXFqQUt0VVZUN1NnUWs?oc=5",
-"source": "The Globe and Mail",
-"published": 1792593763.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "ac897a8e7213f5dd",
-"title": "Nvidia Stock ‘Still Underappreciated by Investors’: Gene Munster Sees Growth Opportunities from GTC Berlin",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQVVpzbVEwbGFwZlFUTktSR3U0b284XzJyVzhPcS1ETUQyV2pjRUxFQS14aWNmS2d2UHF4WUJ3a3A4aUlnUXdwUHJjSXhmelBza2R2dlAzMFpDMmFSLXNORXZTQVAyZWRJV1F4Qjg1c2xwMjNfUnRKZl9MUnNTbk5vMTF1SUxCMnlXT01NZDU1VVpmd0dLM2NtWVVva3UwcFVZNzhTeXVER2J3bjFBN19iVDZJSXhXQnNMTVFHcW1UU0k0RmpIbWdVVllfOUxhOUUybUpyVTNmdm9WeGlZbm5LZ0VSdlJHSXVQc3IzVG4yME9qcUdHSjNTdU1jZlM?oc=5",
-"source": "Benzinga",
-"published": 1792593610.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "c5be4f55a1e543d8",
-"title": "Nvidia Stock ‘Still Underappreciated by Investors’: Gene Munster Sees Growth Opportunities from GTC Berli",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQVVpzbVEwbGFwZlFUTktSR3U0b284XzJyVzhPcS1ETUQyV2pjRUxFQS14aWNmS2d2UHF4WUJ3a3A4aUlnUXdwUHJjSXhmelBza2R2dlAzMFpDMmFSLXNORXZTQVAyZWRJV1F4Qjg1c2xwMjNfUnRKZl9MUnNTbk5vMTF1SUxCMnlXT01NZDU1VVpmd0dLM2NtWVVva3UwcFVZNzhTeXVER2J3bjFBN19iVDZJSXhXQnNMTVFHcW1UU0k0RmpIbWdVVllfOUxhOUUybUpyVTNmdm9WeGlZbm5LZ0VSdlJHSXVQc3IzVG4yME9qcUdHSjNTdU1jZlM?oc=5",
-"source": "Benzinga",
-"published": 1792593610.0,
 "stocks": [
 "Nvidia (NVDA)"
 ],

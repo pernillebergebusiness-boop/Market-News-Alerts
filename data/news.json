@@ -1,5 +1,5 @@
 {
-"updated": 1792707213.1754432,
+"updated": 1792709102.618783,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -69,7 +69,21 @@
 }
 ],
 "feed_problems": [
-"Yahoo Finance: HTTPError"
+"Yahoo Finance: HTTPError",
+"Oslo Børs (Google News): HTTPError",
+"Norges Bank (Google News): HTTPError",
+"Markets (Google News): HTTPError",
+"Equinor (Google News): HTTPError",
+"Aker BP (Google News): HTTPError",
+"Aker (Google News): HTTPError",
+"Kongsberg Gruppen (Google News): HTTPError",
+"DNB (Google News): HTTPError",
+"Mowi (Google News): HTTPError",
+"Nvidia (Google News): HTTPError",
+"Meta (Google News): HTTPError",
+"Tesla (Google News): HTTPError",
+"Apple (Google News): HTTPError",
+"Microsoft (Google News): HTTPError"
 ],
 "items": [
 {

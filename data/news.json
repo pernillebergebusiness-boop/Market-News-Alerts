@@ -1,5 +1,5 @@
 {
-"updated": 1792698140.6602125,
+"updated": 1792699903.0752392,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,6 +73,90 @@
 ],
 "items": [
 {
+"key": "9fa560d166a47b65",
+"title": "Tesla now says it needs its own maps for FSD after years of dismissing maps",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMzFuVk0yUFlKOE1qaXQtRDNhWjA2NVE5OEFKS09nUnpwS09xSUhFekdtS1hxWEZOdHZkY25DUzMzaGdySEhDMjRZVXJycHJTZ1F6S014UDlJb0llRV9YcTBFbzhTUFFpc3pxNi05ejVRY2ZrUUpVUmZMNVFUNDlaWkZhM2Y?oc=5",
+"source": "Electrek",
+"published": 1792699380.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "a20de504c0aa6685",
+"title": "Stanford’s Hennessy and Microsoft’s Horvitz to headline Rice’s Ken Kennedy Institute 40th anniversary",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWmdHa3VpRFY5cWtSUW5qOVVDUEJhTE1Nb1h2aVBvUjVBampQZzNCX09wSDZoRFd3MFpBMjRnejZMMzhhN1JDZm1iSWJ2eFVKWU5pVklIc1R2ZEFvRFVMb0kzYXltdUdZclotb1prRGRVbVYwb0pWX2tYaEEwbkltbUw4WGFmSWF5UEFyd2E0Wl9pZTlBTGJ3UTVXa1d0WjItUDFWa29pemNWVnk4VTJRUHN1SVFaQQ?oc=5",
+"source": "Rice University",
+"published": 1792699285.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "dd05a71b7e39311a",
+"title": "Own Microsoft Office 2024 Pro Plus for Only $50 and No Subscription",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQU9JbWI2eG5CNXk4SEdLQXBLU09EYU5JUlVQUm02Qk5UdmxQVk9RNGpId29KR3Etazlsc2FRY1dPNl9qREJPSGdQczQ4c2trTDNWTEd3d2JYUjNDX3B0bzBzaU9uazR4dHhjZFhlanFDalNaV0JHVzNod1ZEVTFDLW12V2tubFBRQjhIaUg2ZE9lMDBzT2w5SG9n?oc=5",
+"source": "PCMag",
+"published": 1792699274.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "ad163718fd57e8e5",
+"title": "Is Nvidia a Top Quantum Computing Stock?",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNemFuWmJuQnF6eHdYcm8tQVJhcWptTVZCQnJkV3FxckZ6SVhYVks1N2R5NWxOSFg0cDN2YXpIeFVZeFhUZHBoYW1NSktxM3JxcFI2aW1xSFhObEpoNmlUMGx5SjVXbjNlUmwtQzZ4eWtvbjlqbkhNQzFSbmdkNFhVVWNMbUphVTVaV2c?oc=5",
+"source": "The Motley Fool",
+"published": 1792699077.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "5467f8902232c6d5",
+"title": "Apple stock hits all-time high at 348.25 USD",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORWpjbjZXdmY1cFpsSS1uQWktcXVTOGF4NU4xdnZRaWxKVUhqd0MyWjFyRjFLUWJtMTFDOFB6dVpUWURTSXk0TmJ6T1BYZFA1cFVOWnN3RXk5Z3l1TWM5ZWdnQ21Ld1VfTU5sU1YtRFFtalFVRTZBbGF3c0t6ZEx5LTQ2Y2haZ1ZCT0RFMFpGV2Q1Y1ByOGJfUGZobnZTWGQ1?oc=5",
+"source": "Investing.com",
+"published": 1792698512.0,
+"stocks": [],
+"keywords": [
+"all-time high"
+]
+},
+{
+"key": "6e9e37bed33ceabd",
+"title": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOGxjTkQwNXJxcWhrWHpzWXAxZm92WkVNVklIMG5DZlZLc1NETy1tdE1sb3pBMnZ4RWJEM0tsR2xJXy1lRm93MVdjODBnOTRhSC1MdHVSQkwwOUpQSklPdVpsRGFMZjAtQnJxcDlRbXNtUmhMaFkwZEJpVktYdFZVX2ZUN3RxREUyNHd0M2RkaE5jQQ?oc=5",
+"source": "The Verge",
+"published": 1792698300.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "0d14e23769cbf3e8",
+"title": "SEEQC and NVIDIA Bridge Quantum Processors and GPUs to Address Critical Quantum Scaling Bottleneck",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNR1NIOGdXNV93a1RGQVYzTUZWMm1hMlVORF9uWFYybjVwTTNob1R4V2NybWJmWlNFUG04TVdhOW9PdEhKTDdGanh5bENveV90a0FKeGQ4b3g0M1FsTnhXVWZhSnROeUJOaVFDM21JcDhJSEprYWlMVWZmMVA3ZFNJRXZQeGRCdVFYWnRVMmdtM29naEhuYnA1SkhfMEVDWmVUNHd2czAtMjlYNlV5XzJhMnhUS1MybjdvNFptX2VCLVQ0R0NCWk91b3NIRVNOcE5ZcjAw?oc=5",
+"source": "citybiz",
+"published": 1792698251.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
 "key": "3ff123455076d999",
 "title": "NetBox Labs Announces Partnerships With Nvidia and Grafana Labs",
 "summary": "",
@@ -129,6 +213,18 @@
 "published": 1792696659.0,
 "stocks": [
 "Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "5b3e39b997e8ee80",
+"title": "NVIDIA Adds Hardware Controls to Stop Unauthorized AI Agent Actions",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY2s2Y3prM01lc25KLWJBNkZnSFctVkljd3NqQk5XUkw3R0RLVElCMzdkeTFIckVmWDhsbkdpUjZuUHRuaVJKaGZfaGpuVlhtOVIzNzVLX0tsZEZtS0xNV3N0SDRKX2c1OVBMM1NvM0lsWTQyS0NTRndoM1pibjhBdWFzTFRReV8zTWVFQVo0RFRNSGllSDlwc1hlc3JGQ3g3SlU1eXlZbEpwTUXSAbABQVVfeXFMT3l4dTFxcGV5MmFwdUNzZjNfTE1IX0F6VDgwMGc0cUpiLUtoNGFYNUNHQkxtU3Y3c1hBX2pZb0syY3NMQUstV0tJaTZId2VnWlF2S2Q3NGJJYkJGdWFVWGxwbHdYUnhkallmY3ptcnJsMEJBMWtWaEdhSndtTEw5T0o5ZEY1QWZUanFUOG1FeU1nVC1VUlQtLXdzSXF3WU5URmxsbUJWNFlfUUxxT21QU04?oc=5",
+"source": "Telecom Reseller / Technology Reseller News",
+"published": 1792696654.0,
+"stocks": [
+"Nvidia (NVDA)"
 ],
 "keywords": []
 },
@@ -273,6 +369,18 @@
 "published": 1792695474.0,
 "stocks": [
 "Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "4d22fb734af70e00",
+"title": "Microsoft fires 58-year-old exec weeks after his age bias complaint, suit alleges",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTGFoWWdpb01OQVFOaXBfMTMzaTdXUTNZRzVZeDlKS1pDS0kybE9FbU14THRXU0VuVm5odVpiUDNxdm42b25OMVJ4TE1KY0oxM05CdDdoNG1QUzV5aUFUZzlabFAxc2dJUGdzQ1lTWHUyTjhRTElnNFpNd3JYcGw5NVloQWtKSklVZW5LTXNJdWc2S0lTQTAxNDc0V25qQjMtNjRMeExuNmdyQVlyX2JNVklxNUtGYllqUUc1ei0zUHBhSkRkb3MzUG5fNW4yNlNMRFpUWjFYM2R1Mzg?oc=5",
+"source": "Human Resources Director",
+"published": 1792695447.0,
+"stocks": [
+"Microsoft (MSFT)"
 ],
 "keywords": []
 },
@@ -518,6 +626,18 @@
 "keywords": []
 },
 {
+"key": "9462564ca1feedb9",
+"title": "Tesla: ARK's $4,400 Price Target, Let's Examine (NASDAQ:TSLA)",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMzNFUjJfZjFtWkJreE5Cd0hrMkljZ2lTaEFqM1hkZHdIV1M5SVZwZS10aFAzWUt1RWdDV1FBLWRTMXBuUkZ6TnBOclEtOFRpVWlkRnRiNURNNTdmTjJ3bWxNeG1fZ25wWVF0SjM4cHZOSkRYbTJqY053LTl2eEdrVk9GUGN1dWt6?oc=5",
+"source": "Seeking Alpha",
+"published": 1792692616.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
 "key": "d620882cb01d7c4e",
 "title": "Brent crude tops $113, highest level since May, after Trump hints at action on Iran",
 "summary": "The Middle East conflict could flare up again as the U.S. reportedly plans to resume strikes against Iran.",
@@ -706,6 +826,18 @@
 "published": 1792690830.0,
 "stocks": [
 "Meta (META)"
+],
+"keywords": []
+},
+{
+"key": "8a79c3480a03e408",
+"title": "Tesla Q3: Being No. 2 In Musk Inc. Comes With Perks (NASDAQ:TSLA)",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdVpubllDR0Q5NlpDOW5raVdyUEh1eEs0TExma016OHJnVVp0bm1MRjNQV0NEMS0tNnZCcGJLNS1Ebl9Jak51ZHRxRF9QNzZiWXIyQ0RBb1dOOTNzSVQ0bzRhSmsybTVZRld1dzU1SU92QkpQeWk5NUg3WUdVNHowOGNJQXJRS0NpZGJfMllhdkIzQ1k?oc=5",
+"source": "Seeking Alpha",
+"published": 1792690636.0,
+"stocks": [
+"Tesla (TSLA)"
 ],
 "keywords": []
 },
@@ -4745,138 +4877,6 @@
 "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0xUnhWcE5wUnZNVmpZdEpTd1Vlc3RZaDBFbnQxTVlWUVF0a2VSRlkwb2Q2S0RBVkg0djJoOTJnYnBtQ0h0NEJKZE5aWUg4NnkyeFN3LUVvalJUUGRtcXVDSnVxTTVKQ1o3cURRNlVJcWFEZ0l1Vmk4?oc=5",
 "source": "CNBC",
 "published": 1792669083.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "0ba5a41365cae49c",
-"title": "Nvidia’s CEO says harmful AI releases should “just stop”",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVXdWdFNLTWVqTEp4clVzM0VQeDYzR202WW8xQk1VZmYyY3YwZ2g1ME9GRzM3RUk4VEo2TGVjRkl1VFA5YWN2bC1vbWZDeTNDMlhad2tkUjNFOGhrVFhDV1VVY3F1N2ZlZXpsUnBLcTJGY0ZLa2lVTjh2NkN3MExuV2ZuNU93S25YLVMwSG9WSWF0U2NFbDNuVzBWR01TeVlNSnc?oc=5",
-"source": "Techzine Global",
-"published": 1792668879.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "a04516029ea96972",
-"title": "Tesla and SpaceX Are Trading Like a Merger Is Coming",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWVQ4Rjc5em80MmFMRmJEQlY0UVBKNi1LV2sta0NOWDZlOVNFR2E5dEItYk96S0owMlEyZmwtckdxcTRDSXNUa01nQjN6V1ZaNzBwRGFudXdKU3V6MFR5azEzU3B4eV9rWlp1YVFwNmZFaFA4RzhFTzlSU3JseXdlZG0zODRmX19YZ2NTcl84LUhndw?oc=5",
-"source": "Inc.com",
-"published": 1792668742.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "f67215dc0249cfa8",
-"title": "Musk’s political baggage clouds prospects for SpaceX-Tesla deal",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZ01iOEJMYUVLRjlOelpPelVrNzVNbnVWYW92LVdUNERvVXdpcDVfQXBOLUtYXzhnSDFnRlNveFRTWUJYWWhrNDRJUlFVcEJmUVh4S2VHWTZrcG1STVdJSm1NZ3ZyMzJQeW5pRXBfdDhzdjEtdG1SLXBJV0RqdjlGb1E4Nl9pVUNiNmc?oc=5",
-"source": "The Japan Times",
-"published": 1792668720.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "d3c975e108c1d44e",
-"title": "5 times Nvidia broke classic games and apps by removing features from its GPUs",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeDkxMjY2OFM1U09DX0JnMzZ6NFRSQmVzVXR5VWVKQ1RrSEd0d0pKOVN6Zl8zZGVDM01SMGR3T0pNdlFRenAzMXRaOGd6S21vYWJTNEVFemVXS01SWVI4eWl2RjJuWGtKQ0pISDl3TktIMFVjV0t4bHRtYUZXbGNGaDdDVXhrZ3dhZ1BRVGNFSVBJblUwY2k4WEpKYlA5eVdYUENqeEtB?oc=5",
-"source": "How-To Geek",
-"published": 1792668676.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "2b98d2f74fc133c6",
-"title": "Microsoft’s new Xbox ‘Cloud playtime’ streaming packs start at $3.99 for 10 hours",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ0lHMkoyMk9pRWF4Smo4dTJOWFJlbHNIcWoyYk5ubnRSY0VSbldCZm5RdkxsSEFSQ29EU0VjMEVJbURDS2w4MjM5RjZUVlA1VTUwQ2ZBMUpjWlVpRHhkLTdybEplTk9nWFZxWmZNNzh1ZlV5LXBDTWRWUWlnOURBMkI5eGxqVmpLaThDcTlBdklKTDRlSGl4MHVRazBHemtobm5YNElzTEk3Tk1Yb2pXQjVPOWt2TVdfV3FPM01YSG9SZ2c?oc=5",
-"source": "KitGuru",
-"published": 1792668611.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "28c6e734aab8e781",
-"title": "Meta Platforms Q3 Earnings Review - Don’t Stop Believing (NASDAQ:META)",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWG5HMmR1LXlDakFnSDlRU2JuczNqbmY0V2RVdlhIYkpIbEcxUGZNLXRFM2ExTWtnZHlmN2IxTjJkRlluV21hZXY1a2pyVE1qdU1pZUtHQTRDOWdPbTcxWk43YlRMZkdrLU9taFBDNXE3dkE1R0NOMzlQQUFuVDctZUNPSG9taURaSGhCOGJmSFhWU3dZejg2eDNqaWo?oc=5",
-"source": "Seeking Alpha",
-"published": 1792668600.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "529df291f5dc789e",
-"title": "Stock Market Today: SpaceX and Super Micro Revive the AI Trade as Meta Lifts Its Capex Floor and Tesla Beats on a Shrinking Car Business",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNFRTd3lBLTlfUHJGUXJVNlJzZVQ0Mm5PSUtKZGNEYjlhY3VFTGt1LUVnbFB4NlhPazZjeWVsSlpfSEhnaUlJNC1sSk5SM3BDaWkySW8tRS1Wcm5BNVpzT0JVcE1hR2NYWmVXLUZuQ3FKb1NsbTFPUjJMUGZoSUdtc0FHbzFVbnNvMGZHcnVuREZoOTRjdGNxV09MbXdSR0V3ZERXbmxtc3ppNndsZjltSXJqa3E0U25TV3FvTVcwZ0FnUEZMd3dkc3pjQ1JVT0U?oc=5",
-"source": "ChartMill",
-"published": 1792668581.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "e76ff712776f1d46",
-"title": "Microsoft says ConnectWise breach let Chinese spies loose on 2,250 cloud tenants",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeGtiNElQei0tZjF2TjJuM0V0eVZLbzhObng5bVJGc2x0Um5UbUVpVW9MVGlBMEFscHFmc1VWVTFrc3ZONVBwVUNLU1k1cGh2Vmh2ekZpTExjRkJpa19IT09YY2dfX1VJOFFyZjV5OGIwSldNelE3ZXRsQ0RCVGIzRUNuaHZ2V1RheHNhRTM5LTMwRjU3VkQwLVVRbUNfRmozTHUwRnlIUzA4T1ZITVVsUWExM0J6b1FtakZBdnBlckljVnFLMTJlVU90MmRXNXpy?oc=5",
-"source": "The Register",
-"published": 1792668480.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "1e4c5417400f4002",
-"title": "Tesla Q3 2026 earnings beat estimates as SpaceX merger is studied",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5zM1VvX0p0NlJTNVhEc3FuYm4tZGZSbkg2UHJLT3p0V002RGRFTHk3S1A1ZTQtSC1abW9UNkFmX2VVVHVjbEI1NnI0LWozQXdaZ1hGVXhzd1l3QzFxcXVJQmM3NkR6S3RrLXNWN0VvckZYMXhna1VMNFJn?oc=5",
-"source": "Quartz",
-"published": 1792668478.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "13f50ac486bc73a2",
-"title": "Tesla’s auto margins recover as operating income falls 56%",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBhLXVpUjBoS1NmU29ueXhqZWJpN0NTUE9TVVFIUmVBRUFPQzY5Rk9aU0hacmFJeHcyQm9Ec2FnQVhoV2htSTdXcllNWnViM3Y5OUtzXw?oc=5",
-"source": "CBT News",
-"published": 1792668395.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "e002ed35cd71ebff",
-"title": "SpaceX-Tesla Merger? How Musk Could Navigate the China Challenge",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeHVITTl5WDBJUXdMRDVubFI0cU1WNEwxd1psWEcxcVU4MU9FQ0Y5eXhqNWdOMU1PMFpCS3FDTko2UEtVclZoWGdxVWtyN1ZFWi0zeFBiejlnTktFWm9hRy1UbWg3cmpBQzh0MjI5Mjh3T0RDUHBGdEVNRzVoV3EyNENKQmx1RUljLWp3bDl1cWhZS2ItMzJzZU9rRVNPVXViTVRZTw?oc=5",
-"source": "Modern Diplomacy",
-"published": 1792668352.0,
 "stocks": [
 "Tesla (TSLA)"
 ],

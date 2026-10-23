@@ -1,5 +1,5 @@
 {
-"updated": 1792792613.4091878,
+"updated": 1792794129.251882,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,6 +73,78 @@
 ],
 "items": [
 {
+"key": "6baee7cd4892a70d",
+"title": "News Orgs Fight OpenAI, Microsoft's Fair Use Arguments",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQd3g0SGZPbjZNY0dQcFFYakN5SHFWcnZaUkRDd0FxMGN0QkNacm1lSkxIbnpwbG1vLU5pMU1WTGRDejNuYWhXRU1YZnB6M005TTRUSm9yQWhtbzhld0liT0RKeVVhTDhkdjRwOE4tNlJzQzJ0R3V5SFZweENhSHJDUWNoUW5rTnJJbGg3TmtaemUybVpZd3R3dtIBVkFVX3lxTE14UG5iczI0Q2FCc01uSVotWXZCWEwySFVOMnF5YVNjSldpMnV2MUpNbEZUNmtjdVV4V0tIRDd2emRCUVdiYjZCY2x1am9LbnROeDRjdEFB?oc=5",
+"source": "Law360",
+"published": 1792793417.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "5238b4bbb644a572",
+"title": "Tesla Roadster UI Revealed: 6 Details That Matter",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOWVZaVlBeDVXbGR4TGNBdk1uODBobWR3VjhYajVCME9lU25wTE9jRlZuNFlLVElaQUxGMG9zQXVZU3l3dmtFUHpTRzZWazFRbXJ1OVVXOEVHSzdGR1lfUVNPUjRWTmEwWFBsei1Tc01QUUYwVU9FN3ZUNi1vNExrVXlSMlc2aXQtdDIw?oc=5",
+"source": "BASENOR",
+"published": 1792793189.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "44c4ade3bee3242b",
+"title": "Tesla wants to sell a car with no steering wheel this year",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcE55MmNNcERoVnZadmkza2dCXzZORzl3TERFeVZ3WmpGYkFQWnEwNmM0LXpKSWppbi13MG9tOWIxUTJyTVdYdnQ0ckNEeWljbkwtSTVxUFZYazJfWm5WUVR4TlBHcnVFX0VpRVBBZHEtZHgzc2FFMy1Fb2lhQmJPUlJKZ01oUDNLUG9yU1FoenR2TngweVkxRVN5Yw?oc=5",
+"source": "TheStreet",
+"published": 1792792980.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "239a0d7e1cc27c9a",
+"title": "Nvidia Telecom AI Push: What Channel Partners Should Know",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcWdCUTdlMFFHRmhvbkNxV3FsR2txd0VJbFRaZWhxaWd5WE9UTEwzN29rMEx6aGhHY1RqVkFfVW5QdTdGOHZRYldVR2F5S2Z4NDZiOFo2TGJ0dG1YVGVzNkp4ZjRlVzJXeE1XRFlONzJFX203djhUZHlUWWpPOENpc2RIczc2QQ?oc=5",
+"source": "Channel Insider",
+"published": 1792792792.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "12ad9f00157a8f3d",
+"title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdG5iRF9HQ0pxeHJ0dUtYWkV4ZXlQVldlcVdmdVZLOHRlRkM2ODZDak1zX1NNOFBpS1hzbGxPSVU1bnVmQXhsRGJ0WlVpWWlBS1ZrNmFXT0wyZnJOc3pUZlBZa2IyVXFQSFVVR0V5bHRDbWlpU0pBTHJ6NGk1S0NqeGFFdWRwNWdvdVpoNXpCanBlZFZ4RnQ4RUphQTZfRFhUMkp3Mzd4c1JlbUxmN3pVMjZrdkNDSE04UFZV?oc=5",
+"source": "TechCrunch",
+"published": 1792792759.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "057d4b4859e47d0e",
+"title": "Elon Musk Says a SpaceX-Tesla Merger Is a “Good Idea.” Here’s What Stands in the Way.",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9rU043RHpSY1A3dXdwVUNnaUhpYnF6emZxUzVPWjVySWVhZDItbnZWV0tyY2dmemlaTE1oOTZZaEpPNU5PY0ZHd1ZZTjlESWgtMXVENUFzcmh2dF9BeXlVTUpCWlhtOXo4NnVsMUtwRFl4bXN6Rjk2eXRCUQ?oc=5",
+"source": "AOL.com",
+"published": 1792792442.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
 "key": "f81b33ed8df50674",
 "title": "Nvidia gets final city approval for data center in north San Jose",
 "summary": "",
@@ -95,6 +167,18 @@
 "Tesla (TSLA)"
 ],
 "keywords": []
+},
+{
+"key": "8b9528fa4811f540",
+"title": "Stocks fall, but tech shares steady after selloff; oil hits highest in nearly six months",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdDhfMDBaV0ZFSzd3ZHF6TTNBSlhSNnRoOVN3cU1jOGtBdkZKWE9WRG5nMHBDdmJxV0xwVHMzYXdnTTZHMk1fcnc0dUpmb3JZaU9WdlBvZEl6dzREcTB5dU12cFVxZU93em9PLWdfbDluSXlsc0NTSWd2NWhMbmVzV2ZiaFBEY2J5SURKM2lEMDI?oc=5",
+"source": "Yahoo Finance",
+"published": 1792791546.0,
+"stocks": [],
+"keywords": [
+"selloff"
+]
 },
 {
 "key": "bacdec75fabdefe1",
@@ -355,6 +439,18 @@
 "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOC1OUnVGZFhXR2c3OHA5ZG1neE5lcGVyQVBoamFnclNaOEk0dXFidzFjaEU5aExjTW9sMXUxR015LXZ6Y0NPMHZIQzFhcXpsUE1tdEQyc3N3WVUyM1VtV2xUWDNkVW82TnBHX2FPRjRtQ0pRbGZSZlhVUm5LTjBfaWV3WDZwS2ZaemQ1cGNxb2xQUEV1cFJLRHZLb09jTFFsZDVHdWdxMUFnVVVtTXdlLQ?oc=5",
 "source": "Seeking Alpha",
 "published": 1792785635.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "b2ed2659d3598182",
+"title": "Marvel’s Blade Is Reportedly Almost Done, but Microsoft Is Seeking Another Partner as Arkane Lyon Faces November 13 Closure Deadline",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaExvQmpwOUxzUmxqZUtkNmt1U3NnMHJLU1lwM2s0dzNIOXRNWU9TclVWZDFRbGNoQUxOWkhtalBQVlNKekRzUGZzR3dBMlo1RGZoN05PdklycGRFYkdKajBsZjhQTG9FQnRIcjZCYWVtUVl5QXRwa3Zud0xkRURsamNZZHQwSmh2dHVvOXdOVTlOZzdvNVJuSm9SNGpXOUdXNEHSAaIBQVVfeXFMTmhMb0JqcDlMc1JsamVLZDZrdVNzZzByS1NZcDNrNHczSDl0TVlPU3JVVmQxUWxjaEFMTlpIbWpQUFZTSnpEc1Bmc0d3QTJaNURmaDdOT3ZJcnBkRWJHSmowbGY4UExvRUJ0SHI2QmFlbVFZeUF0cGt2bndMZEVEbGpjWWR0MEpodnR1bzl3TlU5Tmc3bzVSbkpvUjRqVzlHVzRB?oc=5",
+"source": "Wccftech",
+"published": 1792785600.0,
 "stocks": [
 "Microsoft (MSFT)"
 ],
@@ -4789,102 +4885,6 @@
 "published": 1792750398.0,
 "stocks": [
 "Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "ea9e284e308fbc48",
-"title": "S&P 500 Forecast: SPX Falls 1.10% on Meta, Tesla [2026]",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZUVhQXE5R0FSZURLeVA2dTdMN0ZDblA4MzNXTW5TeDN3bGRNZkxWMncwU2QxblkwWEZVWFRxdzYxTVpUM0NwRlRUcWczQl9jTkVpdmpYN1FOSWZDalRNV0FUbmRybklhSTNYdjUxRmNvZGJySWpMMkJydFBmYklKeFJ3?oc=5",
-"source": "https://tech-insider.org/",
-"published": 1792750167.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "4d3e66577c1dc4cf",
-"title": "GM Is Coming for Tesla, Rivian, and China, on Your Phone and in the Car",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBab2FYdXRsdVIwcFBnMFYtR1V0RlVmY1lmVDFKaWVwci1kbk5wLUxZZzdwVGpRSGpvRTU3SzBTNGlIOTk5M1pXaUI4b2M2OUdrRlZkVjZLbVZVQnZJU0h2eVFFM2dLVXZ3alkxSl9EajNhdE5IUmUwZ1VKLVM?oc=5",
-"source": "MotorTrend",
-"published": 1792749932.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "4da3b475fc5b5573",
-"title": "Microsoft, Alphabet Oppose Bringing Their Stocks to the Blockchain on Planned OKXICE Exchange",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSUpMaU5RZkVGY3ZIZFFKbzVfUHFqT3FWM1hXWDA4em1tS3g1cG5XMW84VzRTYzRLNXFmUXJVd2dIcHFZUXEyOHZMSGtzN2ZCOXktNDhuS3U1Q2VwSGZHNkZHbHNuMVV1eWdGcTlqWVJSRHVZay13UEx4NWhodUc2aUVUWGpyX2g0enFpT05wUEdXcWlVVlpyMkZJNnJmVW5P?oc=5",
-"source": "WinBuzzer",
-"published": 1792749836.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "4147114a07865820",
-"title": "The California Billionaire Tax Just Scored Mark Zuckerberg a Raise",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSy0wSFVTTzhTSVNHcWZFREVhVXhicXRJZmVsUkVHOFYydk94MlR5Z3F4SFBYWDZGZHQ2ZkdBRXBTSEV3WnVCbXp0ZnJoNDVVeUNnZU9yR3lreGEzYmM3bmJxdy00Y1FCOExXWWZaN0RYQVlhSmE4Mm9DSkk5bFFCWFVIQUdiQ1g0?oc=5",
-"source": "The New Republic",
-"published": 1792749600.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "1a8332284e47512b",
-"title": "Big Tech's capex spending looks different this year as Meta and Tesla save for later",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeGJrejNodmI2bFlKR1pkRkhrTUR4SWp2NEhoWTFKQUlIdkJTWU9JaTZFa1o1a3hmWVg2SnZRcFRLRXR1MUhoRXE4d2dycVNmb195RnItVDZuYVRJcTUycW1QR2k0bS0ydkxnSTR6eFN3bjNCcEM3TkZ5ZTdGOE5nazZPZWJFOFVIdElCQWEwRnJBYmJPU3EycGc2aXVfdk5xRExyQXBCNjluT2NyV3QwNk1mTmRVQjNfQk43NDBRMzRDY2RuUHVEQmNKcGo?oc=5",
-"source": "Yahoo Finance Singapore",
-"published": 1792749600.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "f2147a63c0593b9e",
-"title": "GM Is Coming for Tesla, Rivian, and China, on Your Phone and in the Car",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZXloa29zdWZxWVNTdmZRekhmQnJyb2RjUVUwOFFLbEJtaHNKR0VBYm9KZ0FnVUx4VDlVZDZxTUg0YlFMY000aU9nWmNYOGlPZVRNSTBITVBfM1ViS1VJU2FKZ0c3N05XVkpIWW9oN0lZd1AyVTZBekZEQmpfNlRjWjY5RWt2V3NnRU96Vkw0eUItc19UUzNOLWVsUQ?oc=5",
-"source": "Yahoo Autos",
-"published": 1792749600.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "ca2a52a8df1f15a4",
-"title": "Big Tech's capex spending looks different this year as Meta and Tesla save for later",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQkQ3QWdSdWNMNVJwT0NSaEk0NzRYWUo2N1o0U0U3Ukx4QUVFMnhfMnotMG9tYTlQQU9odDRYUm5DbllZMU9oSjRXeTRUbm9zMGtUTTI5blJ1M0VlMVh5RUZSeXBERlpWdnVPYzFYZzBralhoX0k4UjJ4OC1nZXpoUEpnemVXUjROVk1nQ2tNNENRczg3Tm1DNVNFNk5QR3dyM1NWSXRoeURZblp1SWl3MDFYeGJxR2hWQmU2TE0wcW1UNXBNQnVkajhaU3hzQkF5bnNsWUlRTmFSaUU?oc=5",
-"source": "Yahoo Finance",
-"published": 1792749600.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "9ff2a347653989f4",
-"title": "He Had the Know-How to Fix His Tesla. But Telsa Told Him He Couldn’t.",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOGc3bEJXWGVTV1o0Y0haQk1teHhuTEtKVGphM3JrMlhqSkc4UFZ2NkJDNEVFNUpPUmRJZHU5RllEOEdTUFlMMmlYbzFVR0pRMGxOVkhQWThWYWdLVW45YjRqU0UtN2ZGSjZjWHgyNlVuVmo4b2paVWFESFhxa1RZT0YwRnJvdWhnQ0E?oc=5",
-"source": "The New Republic",
-"published": 1792749600.0,
-"stocks": [
-"Tesla (TSLA)"
 ],
 "keywords": []
 }

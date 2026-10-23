@@ -1,5 +1,5 @@
 {
-"updated": 1792794129.251882,
+"updated": 1792796105.7745638,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,12 +73,60 @@
 ],
 "items": [
 {
+"key": "020bac91b144eb8e",
+"title": "Jim Cramer’s 5% to 8% rule puts Nvidia stock in focus",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQXVnYnlTVmxDSXpQTnU4R0dYMk12TVVUcW5wMXNyck5rNzhEZ3JIMFVlT05Qc0JUYmRzdV9rcy1aQXl6QVVJV3QxNWp3Y3hwT25HTmRqQXFFcFgyZG1EaE95Q0dhdVlLS1lydnplYnNmakhlOW81OXhVTks2RlRCUzZFQ1hJd1dMTl82dF8zY0FvUzA?oc=5",
+"source": "TheStreet",
+"published": 1792795020.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "a85c29bee192b76d",
+"title": "Meta Platforms Inc (META) Q3 2026 Earnings Call Highlights: Revenue Surges 26% to $64. ... By GuruFocus",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOXzhxTVhOSHFqd1dQRVB2ZG1pU3hYTUZ5bjJrSGwxMW0wLVFBTXBQSUp4V2lid0hUNVZ6TlBXdkc4TEplMTZHOGpoQkpNRGx2Sm81Z2Y0NDlfeUgzRGR1VkFTeTlaUFV2RzVKN3RiV040NlpNT1ZFbFhsZ082Mmk1REVOOWN3V0xSWlNIUWFwakx2N2FfNXlNdGlWbDU3MXFsakFtMmdxc1psLTEtMzFUM2Q4TzFMckJIaHg5aUEtMWVJd2lzcWY1LS1EUU0?oc=5",
+"source": "Investing.com Canada",
+"published": 1792794490.0,
+"stocks": [
+"Meta (META)"
+],
+"keywords": []
+},
+{
+"key": "e37e4d49c115baad",
+"title": "Neoclouds secure record funds as Nvidia’s Huang says more investment required",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYTR6NUU4ajAxbmNBVmZCUllvYWNHNmg1eWx2ZE1OR2JVUFdOcjk1ZFpxdkRLNHNzc3BFcFdRdzY4WWZfVTA2bDREeEM4eEk3X3N4eVRqSm1PS21McjV4d1lsRFpwWFAzakk4WUs1eThPc1BKeE16Zkd2c2F3YUtoT1l2UlBab0JZMlA4RDBZYk82b05yZHpJN0FoTXpXb2g0a1E?oc=5",
+"source": "Yahoo Finance",
+"published": 1792793901.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
 "key": "6baee7cd4892a70d",
 "title": "News Orgs Fight OpenAI, Microsoft's Fair Use Arguments",
 "summary": "",
 "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQd3g0SGZPbjZNY0dQcFFYakN5SHFWcnZaUkRDd0FxMGN0QkNacm1lSkxIbnpwbG1vLU5pMU1WTGRDejNuYWhXRU1YZnB6M005TTRUSm9yQWhtbzhld0liT0RKeVVhTDhkdjRwOE4tNlJzQzJ0R3V5SFZweENhSHJDUWNoUW5rTnJJbGg3TmtaemUybVpZd3R3dtIBVkFVX3lxTE14UG5iczI0Q2FCc01uSVotWXZCWEwySFVOMnF5YVNjSldpMnV2MUpNbEZUNmtjdVV4V0tIRDd2emRCUVdiYjZCY2x1am9LbnROeDRjdEFB?oc=5",
 "source": "Law360",
 "published": 1792793417.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "09ebe013bb1d8134",
+"title": "Azure DevOps Comes to Microsoft Copilot with Plugin for Work Items Pull Requests",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNODhtenZZeldtYXpjbXpoZ0hhMGlsVVVfTzIwbEdNU1V0cjB0cnNvdkI5WUpOTk53R191Q1NpZHZHYUtZRnNZMmxaczF1ZGtGV1ZGUUN5eFVZaVdPQ0dMYVRMZkg3Tm4xN0QyNjhQeVZ0eVd4RGIxQVRwVUVya0FpNzVyMHJ6aWlDaWhCSnF1SXRWcU9OUU9YVnF1VEdkUW8tRER2cWZzN2FCamtxcVJrTkFrWUcxQ1c4ZzBFQlNNZEdaRVZRdmV0QzRCZ0tIY3VmLWVTUw?oc=5",
+"source": "Visual Studio Magazine",
+"published": 1792793389.0,
 "stocks": [
 "Microsoft (MSFT)"
 ],
@@ -133,12 +181,36 @@
 "keywords": []
 },
 {
+"key": "83ee33afca53be1b",
+"title": "Elon Musk Says a SpaceX-Tesla Merger Is a “Good Idea.” Here’s What Stands in the Way.",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOR3NhOGpPUDdnR1M3Q3BIeTYzUTd4Q2txX0dobDEwQlN6enVEMVVGVVo0OThUXzdYRmlPWXNCTTFyNHhjR19zdWRJUmt2YlBfZEhpSm1UMENaUS1abS1jVVFtZlF5YURaeWlPalNMUXo5d0lTR1JNcDJHYW10c29JZWlZdUZ3UlZDWFBVSWRjXzNrU3FaWWsw?oc=5",
+"source": "Yahoo Finance",
+"published": 1792792442.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
 "key": "057d4b4859e47d0e",
 "title": "Elon Musk Says a SpaceX-Tesla Merger Is a “Good Idea.” Here’s What Stands in the Way.",
 "summary": "",
 "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9rU043RHpSY1A3dXdwVUNnaUhpYnF6emZxUzVPWjVySWVhZDItbnZWV0tyY2dmemlaTE1oOTZZaEpPNU5PY0ZHd1ZZTjlESWgtMXVENUFzcmh2dF9BeXlVTUpCWlhtOXo4NnVsMUtwRFl4bXN6Rjk2eXRCUQ?oc=5",
 "source": "AOL.com",
 "published": 1792792442.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "a598a78fa2112286",
+"title": "Fort Bend County approves $10B Tesla deal with 10-year tax break tied to 8,700 jobs",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNR1o1a0Jpa3ViOXVCS05IeU5GNXo2WGw2c3ExX0kzZDd5ZWRnQUt1RGw5NmxLWWdzdHFnZWUwWG5BX0lMNDdOb0hlR3AxYjRVVF9hWkdyMDRKTDBQVFRtZVBJbHBKMzhRYmtQQThaZ2o5QnpUS2xqS3Y2NF9VMk84a1M3Mmo3RE9yYzhSeF9VUWRaNDRiSWxVbGktcDNCRUNMNWNYMkdHN2JBaHhKZlZEY9IBuAFBVV95cUxNZUZXa1VoLWdsSTYzQ1ppRFRxR213RDU4ZTdNUmRQVXpNdkk3VjVTQ0RZcGpSclVFM1ppbWJMc3RqaUNzaXd4a0NZWWo5ZFVfZ0pHRk4xa09fVG02MVNva01ucTF0cXB0S0h1WlFWZHJCZDU3Z1BvVl9hcmtYVzFQRGlHUU1ORW04bUVwS0g2dXVSajdmQWlZTDZodlNkNm9IRTQ4akNBejV2VWQ2XzFiSGM3ZW9SUWdi?oc=5",
+"source": "Houston Public Media",
+"published": 1792792237.0,
 "stocks": [
 "Tesla (TSLA)"
 ],
@@ -289,6 +361,18 @@
 "keywords": []
 },
 {
+"key": "e4ca0c2d39f4ea00",
+"title": "Prediction: Nvidia Will Outperform Broadcom Over the Next 5 Years",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbjBpZzNVSDdGcnZZX2lmdkN6MUpuT2JVdHRMRjFmLVJxeDlVOTBhX3U4STN2aDljcnM2bWMtRGRLZzM1Y3FYQmVYcXM3N1FGcncwRkZkS05wZEtFeW1oeDRlUEJHNHJ1X3ZLMXNUWWJEbHhwdmlSYjF2QjNEVHB5WEJKWEtYTU5ZQ3REVDlIbFMxT2NMVm5UY0Q0Y2J4NVluM05NLWpJLWNMdnM?oc=5",
+"source": "Yahoo Finance",
+"published": 1792789501.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
 "key": "b91d8ea35bf5fad0",
 "title": "Prediction: Nvidia Will Outperform Broadcom Over the Next 5 Years",
 "summary": "",
@@ -409,6 +493,18 @@
 ]
 },
 {
+"key": "c4077ad03388c83e",
+"title": "Security Firm Discovers 32 NVIDIA B300 GPUs Operating Inside China Telecom, Showing U.S. Export Controls Aren’t Curbing Top-Tier AI Hardware From Getting Out",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOREJVV1VnWkIzOVdDOUxkTWE4blJnMVlrLXZvS1owYUVxNnBRZHlfaW5xVWhQX29JM05EanZOMkFneE1vbGtMWXY2WVF4ZXg0QmFuZVkwVmVhOTFiWGpxTXRPUHNwNDUzTnhpa1djekthRTUxcE4zSEVHZzJBbVQzeUFBTDPSAYQBQVVfeXFMTkRCVVdVZ1pCMzlXQzlMZE1hOG5SZzFZay12b0taMGFFcTZwUWR5X2lucVVoUF9vSTNORGp2TjJBZ3hNb2xrTFl2NllReGV4NEJhbmVZMFZlYTkxYlhqcU10T1BzcDQ1M054aWtXY3pLYUU1MXBOM0hFR2cyQW1UM3lBQUwz?oc=5",
+"source": "Wccftech",
+"published": 1792786080.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
 "key": "3ebd9b366c854e96",
 "title": "Scalpers offer Apple iPhone Duo buyers hundreds extra outside Beijing launch",
 "summary": "Apple's global launch of the foldable iPhone Duo brought scalpers to the Beijing flagship store looking to pay big for the already pricey devices.",
@@ -513,6 +609,18 @@
 "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeGhIS1VFbFY3Z2NKd0J6TGxhQzdERkJoUDd1V0hkdVg1cHJlclJ1NGsyVURhRXllbUpEUWpCdDVkYThwQ1BXTk0zQzJMT3o2VHUyQWVjNzhOc0E1d1gtOGZ5YlpqQTNlUmRvbmdnQzJSaWk0NDgweEFvbmthZDVkaXhvSkRfNUMwM1BFVXFmQ1JqUQ?oc=5",
 "source": "Automotive News",
 "published": 1792784220.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "61ccbab17272f080",
+"title": "SpaceX Filing Gives Elon Musk the Final Word on Tesla Merger He Says He’s Staying Out Of",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBRQ3d6WjR0ZjJKcGRxcXJzSDlfQ0twWVlHNVJKQ2w2MFg5LWs4TU9xMmdtYlFUa3lGazhadEZEdWRuTkFsUF9ScHRRTE84elFHU3NmaFZramVqWGZHMHlydWFuMkJ1ZERnbUdGbWVqZC1ISGN3SW5jZXpnSGtHZw?oc=5",
+"source": "Decrypt",
+"published": 1792784162.0,
 "stocks": [
 "Tesla (TSLA)"
 ],
@@ -816,6 +924,18 @@
 "published": 1792779965.0,
 "stocks": [
 "Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "cba73a728a80cbb9",
+"title": "Microsoft Stocks Face a Cloud-Margin Test in Wednesday's AI Earnings",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9TNUZQSHVsLWd3UUFXRk5vYkl0bWNGYXJUWFRQQmVGUGpVT3RXXzh5eTJTZVR5SFRfcmd3eWYyX3hVc0ZsVjFtV2xCZDNScGplam9LT19WaTR0cVkzRVpYaHZqUG5FUWt5R1E?oc=5",
+"source": "TradingView",
+"published": 1792779818.0,
+"stocks": [
+"Microsoft (MSFT)"
 ],
 "keywords": []
 },
@@ -4765,126 +4885,6 @@
 "published": 1792751269.0,
 "stocks": [
 "Apple (AAPL)"
-],
-"keywords": []
-},
-{
-"key": "49248e607326d0b7",
-"title": "Man hit and killed by Tesla in self-driving mode on California interstate, authorities say",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNmRNTW9fWmRBVm5KRE03X0dIZUJfOU4xc2QwYnNaZFJXYU1XclVqOXM3TERFRFlkYmllUGJpZmMwQVJZeWxKX3I5a2hFdUs1MkF6dTBvdG1HVzhnUlRQdEsxbFg4S0tzbXJpRFZqanFmWjNxNmZTSzdRdGNaaHRVQ3J4SXFERW93R2RxSUFR?oc=5",
-"source": "WLWT",
-"published": 1792751244.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "be9286ed74b674b3",
-"title": "Amadeus Explores Next-Generation Flight Search with NVIDIA",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWENkQklGQXJ1Q1JXT0VkXy12Z2JyS2k2cy1IaVlic3RRS3d6UnNNV1o3Yll5QnU4eEQxQ0ExaFdacnJCZU5VekZucjJXcW1RdmpycWlfeEVFOFd5SWpPZF83WlZwbnM3NEJtUFo4Mm9LVllibnJ2bGZweVg0SUZYSVB2ejhkYklIcHQwQ1NHQWFFVWstU2J5X2V1ZV9HNncxTTVva2t4S09sb1k?oc=5",
-"source": "Breaking Travel News",
-"published": 1792751132.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "2d2c52338fe8480e",
-"title": "Tesla Scraps Cybertruck for Australia and New Zealand, Refunds Deposits",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZDdxUUpONVFJZ2U5MlpKNFVqWlNDd1N5VWxja2hiU0x4RlpINDNmZVhwSDl3X2g0d1ppQnNVVER0OFM1X29ndnZTSExOaXF0UmJleEpmLUdwdGJENDQyMFJTVjhwTGhIN1NhS1Z4OEN3SHVUU2VnaFJzS0YtYnJBbzJPYUxmTXFHeFVHSWN4cW11d3AtS1VmSzNQWVRBTFMyUnhkWkZIcVdKdw?oc=5",
-"source": "Electric Vehicles",
-"published": 1792751040.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "62b9fa28cf5d164e",
-"title": "Man hit and killed by Tesla in self-driving mode on California interstate, authorities say",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcEg1MjMtamNhZkxJV1FxanNfcFhNdnNscDdpUzZJSVFtamlUMVFMd0VVTk1ZQVk0aTJEd0MxdGx4dWZPWE5TZ05yNDhockx2TTNublltcHVzSk13azNCdzJiTm5lNGF5MmhSZjZ5VUtLNXpVeTF0aUJDZEZDa2Zzcy1ZREswV2o5aEJQNll3?oc=5",
-"source": "WGAL",
-"published": 1792750971.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "9c48d199fab86800",
-"title": "SpaceX-Tesla Merger Antitrust Risk at $3.5T [2026]",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaW4tLW1qZHpDVkVNcUszZEJBb3Rjbk5EcW9RWkZ6NUoteW5sZDZIZERYYVlpTW83YllWTkFUNGtCNkVDNkRzc25ZNlNlLXd3Nk5wWjdvRzNJOXZFWkNhTnRnaEVFLWJtM3IxM0l6T1pYb3kwUXlYTFhFdjJFeHRMT2NsU0pwQVFS?oc=5",
-"source": "https://tech-insider.org/",
-"published": 1792750931.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "f9c4c7c1d37a8b44",
-"title": "FFmpeg 9.1 Preps For Release With APV Vulkan Encoder, NVIDIA Optical Flow FRUC",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBhVDNvR3F5WGVERWJHNUFZdkNwQTZ5eDFCX19NM1JZM1dOOGU0VDdmRm5iY0R5eVZqb2dnMDYtTzlOU1RBUjVMbE83UmpYN0xtaU42N2RXNFNQeGRfNUlV?oc=5",
-"source": "Phoronix",
-"published": 1792750800.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "66eee7f7c49abb71",
-"title": "Man hit and killed by Tesla in self-driving mode on California interstate, authorities say",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaFRTQU5FdHhnMm9KYUs1T0xjZWg2NXktMG1CVEFJWjRFSUVQNUM4TWluUzZqYUN6ZkV3SWpfTEJWUFRzbGRrWEgwU3dJdzkzd21wMUhNeUh5ZjFPQjVtN2NyVGt1RGF0b250S3dqTUdoc2ZXZFMtVHh4TGZ6SU43V28yOVpzMEt0RFZWWFV3?oc=5",
-"source": "Gulf Coast News and Weather",
-"published": 1792750740.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "236dbd9b477cc556",
-"title": "Man hit and killed by Tesla in self-driving mode on California interstate, authorities say",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRm15bkt6Mlhvc3BacEo0MGJOcnpDZV9aNmRNVXpjeER1Vmd1elE3M25aXzZLRTBoRXdOQWg5aGF6bkRTOE80YnVRWEpxS2ZhdHQzem9VN1QwOXJrWUZKNFd1cGw3RF9TSGdSenhWaWlpRUNPNmRJU1RDbzNCSUNIUURuT3hDQmg4a254bXN3?oc=5",
-"source": "KOCO",
-"published": 1792750740.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "53618f9850f82dd4",
-"title": "Microsoft is telling Xbox owners to trade in their consoles, less than a year after raising prices",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZmpNYTg2dnhhV2JiRHRNLUxXcWtsa1hJdG5Nc1g3WkxQeUV4b0NhbnFZeHJKRnJKZWJZRVJzenM2ZEdYN3JiQkwxTnBNcGxDWWd6TGlsWmdkN2lKUjRiSTNoaC16UDRROFZYWFdKSXhicUpBYnJmbEF5TjVyNFNqS2YyN1lKVmFzSi1wcmpSNDNxR0FJTFdfbzF4ZDdMQQ?oc=5",
-"source": "TechSpot",
-"published": 1792750560.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "8e38426bf2ba81c9",
-"title": "Nvidia’s New Driver Targets Game Stutter — Which RTX GPUs and Games Benefit?",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbGpBZE1iQ3JreFRUN3oyNTY1Y2Y5SGJtbkJZOXRfOHpweC1VNUloNDQtSU9XaURDT053UFdGYU1FSnlmQ2xrYzg2UTRfWVJEajVrRi1NNWdEeno4TWJJa1Fia1BzeE84azdueXlZeVVFNDNtTjJOV2VYUjNOT2M3ZA?oc=5",
-"source": "TechRepublic",
-"published": 1792750398.0,
-"stocks": [
-"Nvidia (NVDA)"
 ],
 "keywords": []
 }

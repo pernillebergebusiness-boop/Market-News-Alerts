@@ -1,5 +1,5 @@
 {
-"updated": 1792719094.2817454,
+"updated": 1792721547.820864,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,12 +73,72 @@
 ],
 "items": [
 {
+"key": "b4c097a8adef4dab",
+"title": "Asian shares wobble as tech rout boosts bonds, dents rate hike bets",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMG5uTk9BQ2lzbUtHT1k4Nlp4RlRCcXFvVXR5YUhCamhubGQ1SlB0c2FYczVLdl9ESzJBRzdkNmVuYU1ISVc2MndXWnBZTzBDNFdzeHBEQTNPTGU2SGhBTmtKM3Z1SWUxR2szN20yYWIySGIzUXlZcXVhdGNtTlJNMGN1WQ?oc=5",
+"source": "Reuters",
+"published": 1792720200.0,
+"stocks": [],
+"keywords": [
+"rate hike"
+]
+},
+{
+"key": "2162d115cd797199",
+"title": "NVIDIA OpenShell Reference Architecture: 4 Layers [2026]",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNem5wcGpPb0hkcUh6bEZkUnhjdjIwQllxOVMyb0c0VEF0QlZWRlY0ejlJMUNDR3FJVnhOLW95NFVsNC1FSUNBS0h1YWQzcnRpS0tEVHZUQ0Y0OEJuRmlaQ0tramxPaWppY0M0TWktdV9UbDhUQ0RRR053VXBpb3ZPQWRsM1h6Zw?oc=5",
+"source": "shattered.io",
+"published": 1792720066.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "70fc357b9c131043",
+"title": "Tesla lists Jacksonville robotaxi service as ‘coming soon’; no launch date announced",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPenJSYTZ5aV9GVmhKT2k4el8zdWdsMnJvYklINGVZMmRNMk92UXNNTGVkWi1BMEpPRldMaWJhc01sWGFTdlBuaERoS2NxdEFKTHBacXJ1YXF3VlgzV3duN0Y4elRLS3RZc1h5eEUzVXh5bFJuNTN0MDE2QW8wYU1kMFd2RFE5UUZ3eE9TUlgtdG9wUDJTQ3NNXy1rSkNIZFk1b0pEZmZPMDVucVhXeTRja0FGVkJnUE1CMmw0MU9hekpRSVkwVnk5d0VMZmMxal9LOGthb3p2dWZwdmxxNzlJVFUxSS0tWmk1TGY0alVB?oc=5",
+"source": "Action News Jax",
+"published": 1792719702.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "e49e808c61de438b",
+"title": "Microsoft has begun rolling out Copilot Code for building apps with natural language",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOU0JrZFZqUkc5OG1zZTl4dVJtMGxWNUhJazJtZ3FqMTNiWTc5OHR0MlFpYWQ4LVptWXZhSzRUWHZCMzZVYUFHamtxRHpCUzZtZGhpbFlweFgyekFPdEg4ck8tTDlUZ0N0WFhKZGlKblAwOG0yQUhKVkQ2VlFINXgxaHE4eUkzY25tUVVUZEVQSDYtakdWRklYT1cxSGdYOW9tUGQ1RnlidTlzTGxxWTgteVE4akl4azhEQkRZLWROVGllQzQ?oc=5",
+"source": "Digital Trends",
+"published": 1792719546.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
 "key": "5d3abb33f44131f4",
 "title": "Tesla Cybercab Dallas Launch Estimated for November 15",
 "summary": "",
 "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOd2tGVTJlRkpHSHQyZlA2TUE0ZUhlMXJFdk55YllUblNZa3k4UXJDT0RhTldmYlhLRWNydUZ6Q3RLclZka3FGU1BkNmhza0xrVjJCS2J3Uy1FZWRaRWUxWkk5Wk5oWHF0X091R2ZPTmF1QmJwQlRQekdQZDZDRG5fOG9mQ2R0TWtNYjRlREJmczI5bTQ?oc=5",
 "source": "BASENOR",
 "published": 1792717704.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "062d6a049dfb0a10",
+"title": "3 Hurdles Could Complicate a Tesla and SpaceX Merger, Says Ex-Tesla Director",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5qY0s1R3pwcGIyMkdsMnZQcmZjZnp2N29lYnUtQmttRzdvVjktLU9JZ21JXzVXT19ZNUdKMktlZXVxTGxwQWtFZXJaekFiTzhKVU1TQXRTQjJ1bjM4UlJFVDBBbm9Tay1NSE1LYzBxUnNsUQ?oc=5",
+"source": "BeInCrypto",
+"published": 1792717500.0,
 "stocks": [
 "Tesla (TSLA)"
 ],
@@ -505,6 +565,18 @@
 "keywords": []
 },
 {
+"key": "fe132ac4773bf008",
+"title": "NVIDIA Expands AI Semiconductor Production with Key Component Partners",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZkE4bTZydVFiaU8wQ0RVbnhoOV9VVEc4WUpyWHJkVnZBOWJWcW9zY0Q3ZERHeUhGYjlCdVRUN1VYUzBNSS1nV0V3NkdRZjJoODhqaE1OUGMyMGEzY21iM0FPcFVfZU83and4N1dXc0pHam5ZNS1fVm8zUktMV3dMREg4bVBPYjhU?oc=5",
+"source": "조선일보",
+"published": 1792706884.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
 "key": "06f126bd467d0b4f",
 "title": "Porsche launched a car on flying Tesla day and the memes are incredible",
 "summary": "",
@@ -573,6 +645,18 @@
 "published": 1792706400.0,
 "stocks": [
 "Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "fdc3938ae8ecbf88",
+"title": "Equinor Plans LNG Expansion in early 2030s to Meet European and Asian Demand",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSnFrNU9DbE1zMm51TGhVd3VKN2NsN0hRY204WWlOSDZvcURvREo1bVQtZkdtTUhSYUFpR2lqSnlmTEtRV0hGNnAybFdPdTlsazBNbU93OUI2dWFhWVZ6aGZMbHd3UkxzenNGZlh0clJrOEdOV2dJLUNaNEVZNTBpZ1B3QWZtTFMzT0FKRDFyeU5UR1RqcHF5Mjc1aUlRQURTR3o1RUw1ME11dw?oc=5",
+"source": "EnergyNow",
+"published": 1792706283.0,
+"stocks": [
+"Equinor (EQNR)"
 ],
 "keywords": []
 },
@@ -4795,90 +4879,6 @@
 "published": 1792675933.0,
 "stocks": [
 "Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "bce87661858fbd3d",
-"title": "NVIDIA cuDSS Reaches General Availability, With Partners Reporting Speedups of Up to 10x",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOTg1SXdoTHNGQWdKUW1va2x3eEhhSldYMXE0ZWJod1dFSXlKV1FWTk5zU0E1ejl0bmw0LUxzSlU0MHpyRjhZcDVTbnh0RF9uVWQ4TV91YzRjRGc4TU5qdV9vcVlyOGtOdEQ1R0V4aGpfNzFHWlZ6aU5pWTNSRUhmUTNlUjFIMWxTZjJzODhYTFAwSjlGcExWZGgwTkVLdkZIbVh1NlU5UE1VZHVRaHN4NVVBY2htMUM4a0cxSzd4aWY?oc=5",
-"source": "HPCwire",
-"published": 1792675916.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "f57bc9133b13c368",
-"title": "Tesla and SpaceX Held On to All 30,221 Bitcoin in Q3. Is Elon Musk Still Bullish on BTC?",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOHN0aEZkaDRoMFd5bUNxMVN1N3NDS0xtRzFQYzNyb2tQVzJxVy15dFM1MnVKcjNZaU4yWDJrelE0SGtrck5rWmQwYzRsQnplU3RsZE9mcVpKQWNxQjF3Y0dxQkMtMHA3RXFrSVlpY3p2VE1kSE9FYmhaM0ZjUjZYVFhFb0N0Z0FDMkRTVlBQZDBmVlk?oc=5",
-"source": "Yahoo Finance",
-"published": 1792675837.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "7bd40542df857071",
-"title": "One easy change makes Microsoft's Surface Laptop Ultra with RTX Spark a better gaming system",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPcEpLQ2QxTUs1czA5STRSRkF4OXp5MXNFY0pmQVE4RGZuTVhERnhoSTBfRlFQMEFISU5IeEIyV1MzbVVWNXBOMEhvdmRFLWU5YlN1aTE5clk3Zm9Xd3pscW9UZC02MGRWbWNyTUZna3U3TUxoaE95bGNCY1hKeTd3SGZtY1VsZ2N1R25lck9iakFjVzVGVzIwMHNPNHAxUU91Vmxvc2M3Q2daaEtEYmc1U1ZHY1lXMXQ4WUFXbVVLbVAtQVZVTzJSQ0JZazhaNlNzQk0tc0hzT3NaZE80UW1YeG54RllHZFhILS1hZi1YM3dPTUtiT1FsbXlvTWVXdFdpZVFXcXBOZVE0MjZMNDVuUlVUUU1CaWhYYVdKSg?oc=5",
-"source": "Tom's Hardware",
-"published": 1792675800.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "a7886b580a9b8326",
-"title": "Aegiq Runs 100-qubit Tests On NVIDIA’s DGX Spark Server",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE90YXJ5NkUzMURUUmpaU1N3MXBFcUxCQXpYZnEtNFgwTFVfeTNYOW1td2x0akxSMjZMRTU5a05lckc2Mkp5dmhxOHhMekVYOWR5cVRDS0w4M1pUUDlrRng4ZGY2N1IzV2FmWG9xNU1Pcw?oc=5",
-"source": "Quantum Zeitgeist",
-"published": 1792675694.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "5a50cc022259860d",
-"title": "Equinor stock: Nordea raises target from NOK 400 to NOK 480",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdVFFU2ljb2pKYXktRW8wc2RsSlRsWDdySlBGaWhhNlhadmJkUzgzejBaUW1ndDhiVk93UWI0M0FLRkUtWVpoblFycDFjbG1OOGQ2b0kwdjFrRVM2aURIcUdWOVMxaFBOaG02UktVc2N6dmF4VDMzbzFrOU5mZUJjeC1nX1JkbVN5RDl6ZFJyeXZkVXNFRXBaRUVEVXFYMzM0MGtsM05DNjhxcjVYQTRmazc3YXNFNkpYZFZJU0R3?oc=5",
-"source": "AD HOC NEWS",
-"published": 1792675687.0,
-"stocks": [
-"Equinor (EQNR)"
-],
-"keywords": []
-},
-{
-"key": "3e380a64bde29ff8",
-"title": "Nasdaq Leads the Selloff: Critical Stock Market Levels to Watch",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOemFtQ2lUNTc5VDVjeXFLMFRXR0RmMEVUSUZSZWVLcEwxcElabFBXMGdGRXhGZU9ZaHo3Z3dJWU9xTFNtY212Q3lYNDZLM3BnbzBQMmlSSkw1N2FJYlFrZVlyMXBrZlVSelhDMnpzSDJiN1ZRTm9uLXlmUFgzYVFHVWFlZWkzQUhRS0FHeTBXVkFsb2xkZTBQdDVGdHJndGlhYS1QZTZ3VXBGRUU?oc=5",
-"source": "Investing.com",
-"published": 1792675503.0,
-"stocks": [],
-"keywords": [
-"selloff"
-]
-},
-{
-"key": "e8bb0fce1a332dd5",
-"title": "Nvidia enters Italy via TIM: Why it matters",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9YS2hEVkpmclFwYXp5M2h6MENhQ041WHRZTjVrdVVVSzlFOHpsSzI3eklVLVlkcDN5Sm5tOUQ4RG8xQllsWHlSeDZ2cTlCQnhjQmFPYmlXaHk4RW1WMzFSVi1QTlBJa04wYXYtTkNBdjhITU1yRkIyUlJn?oc=5",
-"source": "Decode39",
-"published": 1792675426.0,
-"stocks": [
-"Nvidia (NVDA)"
 ],
 "keywords": []
 }

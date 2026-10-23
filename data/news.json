@@ -1,5 +1,5 @@
 {
-"updated": 1792734161.9602535,
+"updated": 1792736016.2685332,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -72,6 +72,42 @@
 "Yahoo Finance: HTTPError"
 ],
 "items": [
+{
+"key": "5ee41e9a08bb0953",
+"title": "Tesla Robotaxi Austin Expansion: 5 Details That Matter",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZ21WS0dmZzEwOWc5bDk3MWRIeGZhci1MWkcyWjRHQTNNOUhDMmRqNm5aZnhzYWRDZV9mcUhIdUdJcUtvY0llNFYzWGtNTlh3emRINjBIb2Vfb3UzZEdPcDhURmtfVVNHbmYxVmlzZkFsdFNrQ0JVSnNOVlRyamYzeW81Y3pBdWpyV3I3VjlSYklBQQ?oc=5",
+"source": "BASENOR",
+"published": 1792735536.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "06b5e0ed1cb85b05",
+"title": "Microsoft Reopens the Windows 11 Always On VPN Bug It Wrongly Marked as Fixed in October Updates",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNb2pOUG41NVlnRE1POTVVYU4tcDNMTWtmS0xKNWdVeXJKRFZVTlZhS0o5QjNRSTBNUTZ2U2E5MEF6a05RM1ZUMERmZzEwZ3BhZnFtaWNoLWJxd3NEdTJLVlBWUUhRMWdQR3J4U2Z5STlpenY1UHRCeWZaWENqSWR1WFcyNmd5a0stS3lqN3VyRUlYUWFxdEN0YnRGU3FDakF6WXU1al8zbUxIQVJFdlJmLWNSOUtMd3czakV3d1pTbS10Z2lyeldDQ3ZDQQ?oc=5",
+"source": "gHacks",
+"published": 1792735136.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "9e73df07bcbe4222",
+"title": "Nvidia invests in AI video startup Higgsfield- Bloomberg By Investing.com",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQektvdHhncXpQT2Zrd2xzV3VUSXdXTG45c05ma2RNdjllZHFPY3FHUEZkaHB6U0NBcjBYSWF1aHU5WXRHMENXU0dEeTZLbkU4dXJQTktQb1NRS2hwbVF0bnFHSGhtclA3eUdLTllaZXpYR2tFWGpUWjZuQ2UxTzBadnhFcldFVzlIbENBaUlQRVFNc3lXNU9jTFdHRVY3RGVodkZXbXJVeWpKa1JqVkIwVmlB?oc=5",
+"source": "Investing.com",
+"published": 1792734508.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
 {
 "key": "c79cfc295a56c009",
 "title": "Tesla Raises Model Y Financing Rates Again in the U.S.",
@@ -169,6 +205,30 @@
 "keywords": []
 },
 {
+"key": "9f025f9078206551",
+"title": "Einride to trial Nvidia Alpamayo in autonomous trucks",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQjJyeHBLMXA3dVBFTTN3WHlRMVg3NVJkX1RNaDhBcFdOcHpZYk8zemlJV0hiQzlza2hKenNzaDIyckx5VjZ6VGk1OGtzUmJjY2NqNUtkNHBtaFhFRlg3cGE2aHowSVdnY3JlM1g1WlhpRnRiSlBzSEdTU0xzY3FUcjBkRVpGMnZjMU5rNHN0Rmh0Q0g1TUE?oc=5",
+"source": "Automotive World",
+"published": 1792728944.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "9a3ab58fe8abd520",
+"title": "US Stock Market Capital Migration: After the AI Stock Selloff, Where Are Wall Street Funds Flowing?",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeXZLVWljSDcyQldfTXFJNmxsTmszY1dsVGM2Zk8xbjc3TDBBRGtFbmZCZU16REE4ck1kXzBiMTlBUjdFNUhJWkNsaC13d3ZhbWIzQ2w2dUpOdTdpbnZkWlQ0WjdVSVhkUlZRY0w1NnIzN01LbUxib2hzTGh6MkZ2eHhpNVhSMzJMeUhObDlibzRtd1dSWThjU1kyZWt6Nm84V1JUTURqbw?oc=5",
+"source": "Moomoo",
+"published": 1792728660.0,
+"stocks": [],
+"keywords": [
+"selloff"
+]
+},
+{
 "key": "44ff88f3eb60941d",
 "title": "Tesla Model Y owner heard a pop, then found a snapped liftgate bolt and a known fix",
 "summary": "",
@@ -215,6 +275,18 @@
 "Nvidia (NVDA)"
 ],
 "keywords": []
+},
+{
+"key": "dc67a22a9dc97075",
+"title": "Asian Shares Slip as Sharp Drops for AI Stocks Overwhelm Markets Worldwide and Oil Prices Jump",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNWGxsVkhMZVlweXkwYkJlNHNSc2tJS0VfNk01MXpUNXNzelVmV1I2bDlKdEhQX1hTTG9UYWpZSVB6RjlHUTNPR2M2Q2F5ZzY4cUxaZXFPc3R3RUN5eEZtbTBXcl9BUDI1REdxQUJabmx2RUloaENqVEdJRXo4dy1DYy1XWmNLLWFEY3ZnWmxURHU1SFRjRzEzemhYYTlaZXZFdTBNcGZCVjA3eThaeTlJOUQtOG1rT0RXWmxtSjZDTG9hdGltaDNibTVtdUpDS0JBQnFnTS01SV9aSElSdFlNTnBxRUczdw?oc=5",
+"source": "U.S. News & World Report",
+"published": 1792727640.0,
+"stocks": [],
+"keywords": [
+"oil prices"
+]
 },
 {
 "key": "1c49a768589620a0",
@@ -4802,79 +4874,6 @@
 "source": "www.inc.com",
 "published": 1792678483.0,
 "stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "d77cd14aea4cac29",
-"title": "Microsoft Says Chinese Hackers Used AI Tool To Breach ConnectWise, Target Hundreds Of Organisations",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVEg0NWp0dDgyam1sRnAyb2t5OVNQQXdCWTh1QmhiR3dlUXBmX1NLOWJTcEVEWjUyR1U2N3RHR2xtbWg2bVBGU1lyeFNHNHJIaDUwSk9yazg3dHRxSnR0a1RSSjZwSFY2QWtZWUlnS0FIbDhNX2hnem9aZjRQZlRqMXZMeTNoeWRsYTBRa3g1RlMtdXdzbUc4OXpXTWotbDlnbW52NXpiemN2Umt4c19rcFF3cFI1ZWsxM0h6bU9XZmhSejNfTzI3QkdHb3cwV2tjV3ZYa2hCZThZSlpDOVHSAeYBQVVfeXFMTm0wa2NsRUNSWEtjdWdlbjdHSXRHRGRjOG9TOXBaMnhsb2MxUG44M3hGYkVGTXpUbUNiT01oTGtMazYtUnQ0aDVPT2Jtc0o3QnN6a2VMX2QwRFMyYnlHYnlCN2xSaExhTGtic0dWdVkxdHZ5TndsSy1XV0xINzQwRnN6dG4yVnJYVTdvRC1hNXZwbWNuejRpd1pFY2FTLWctY0UxU1ZMN2tRSDg5Q2htSFpuczVtOXVlQmx1WDFtVndsb21tbWlZWklKSkpYb2F6ZXF0Z3lRa2ppS3RqS01HZXBsRXV4TEE?oc=5",
-"source": "NDTV Profit",
-"published": 1792678382.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "740b85081147e4a8",
-"title": "Meta’s credit risk indicator jumps to record high after results",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVWlGLXhUMG5FQ0YtSzBRQWZLQUk1OVRQTGdoTTlkTlBSUG8tdzVyeWlFQ2ZtMTRCeS1kaFl5YzB3VUFHdm82cUxCN0VJb0xiQzVmWWpBRDBaWVBYWkxNRi1UVC16YUoySEhKSTVTcFdQTnZLT1FzbFhLa2FfdEhwR2ZNYzZJdTRsZEc4ZWdoSVA2cVdVQ2s2aA?oc=5",
-"source": "WTVB",
-"published": 1792678324.0,
-"stocks": [],
-"keywords": [
-"record high"
-]
-},
-{
-"key": "40c18cc1c7dcfc75",
-"title": "Is Tesla a Buy After Its Latest Earnings Report?",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOW9RUTJwTlBpTTBxY3lQbUFnTk5NNHZ3aVlEWkNhQUJaLXlvdEdjcm9DVTk3dnBvMlptZzVjZFVXWHIybEdfMkQ4UEpieWVDTkFfN0RsNEVUMFluYzdLbkdSejBydUd4Um1rdW00NEVsV1FqT2wzTjlrdkpQcXlwSTJ1V09mcURyNzVIZkFXaS02cTF3?oc=5",
-"source": "The Motley Fool",
-"published": 1792678258.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "f0f1edebc61037cc",
-"title": "How much MSFT stock does Microsoft CEO Satya Nadella actually own?",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbzhoQ3V3TFNabFBfRDZoUHRJdzB0ZjZpT0xZN2cxTG05b3Y2XzdWanY1LVJHLUU0U1h2SHdsRXptUWQwbTgtMk5uSF91Ty1aXzJ4V3VBZ2J4dl96c3RKazdHQnlqeFZ3dXUzdzBQdFJBTGdMVUF0RjdDb1ZESXNPNGprMGpTc3pJTGhnenVDU05VZjBYMGQtRXFNczh4UVFFemZoMHVpRWU?oc=5",
-"source": "TheStreet",
-"published": 1792678022.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "9d98b6b72a100843",
-"title": "How much MSFT stock does Microsoft CEO Satya Nadella actually own?",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbzhoQ3V3TFNabFBfRDZoUHRJdzB0ZjZpT0xZN2cxTG05b3Y2XzdWanY1LVJHLUU0U1h2SHdsRXptUWQwbTgtMk5uSF91Ty1aXzJ4V3VBZ2J4dl96c3RKazdHQnlqeFZ3dXUzdzBQdFJBTGdMVUF0RjdDb1ZESXNPNGprMGpTc3pJTGhnenVDU05VZjBYMGQtRXFNczh4UVFFemZoMHVpRWU?oc=5",
-"source": "www.thestreet.com",
-"published": 1792678022.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "373ff1e33340382d",
-"title": "Nvidia, Apple, Alphabet, Microsoft, and Amazon Now Make Up 30.8% of VOO and 49.2% of VUG. Here's a Better Low-Cost Vanguard ETF to Buy Now.",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNNmtvOVFUd3psRU5IUDBoRmExM2p4OEh2X3VoS1F2RDNXN0tpUDhwRU5CeGpLR3FXUXN0bFhSU0N1MW5vNkxPeGM3eWpNRndBbWgxdUlKcGItT1l4S1pLd1Q1Z3dvSDJYWnBWRWhvdlhRRDZzd2Ixci1Gb2xYQkR6SmhiUVJzUjhDY2NnUEtGdk1yeFdiYWNNVDJ0UGdEVWhNUXZkQmlQYktxRGRkY1Y5YWY2QlRwclQyZHJFMHBaQU5NX25vTkV2MVRpMnV0OHczTFYzYS1iMzMyMjl5Y29Zc3Fsbkh6N3FabF9RZDVZSmoweEh1M3FJQk1ReWFiV3lpZzhwcXItWUgxcDY3ejlLREFXYkhjOTZDM3lsOGo4T2tXWUl3a2F4WHJQMUdzMnNCNXpVYXMzQTNJNzE5SUZZ?oc=5",
-"source": "The Globe and Mail",
-"published": 1792678016.0,
-"stocks": [
-"Nvidia (NVDA)",
 "Microsoft (MSFT)"
 ],
 "keywords": []

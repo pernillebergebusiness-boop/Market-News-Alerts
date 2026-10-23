@@ -1,5 +1,5 @@
 {
-"updated": 1792783557.0849462,
+"updated": 1792785300.306709,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -72,6 +72,54 @@
 "Yahoo Finance: HTTPError"
 ],
 "items": [
+{
+"key": "01872f2b91382d7f",
+"title": "First Shift: Tesla targets 5 million annual sales by 2030",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeGhIS1VFbFY3Z2NKd0J6TGxhQzdERkJoUDd1V0hkdVg1cHJlclJ1NGsyVURhRXllbUpEUWpCdDVkYThwQ1BXTk0zQzJMT3o2VHUyQWVjNzhOc0E1d1gtOGZ5YlpqQTNlUmRvbmdnQzJSaWk0NDgweEFvbmthZDVkaXhvSkRfNUMwM1BFVXFmQ1JqUQ?oc=5",
+"source": "Automotive News",
+"published": 1792784220.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "5c12480d565a530e",
+"title": "SpaceX Filing Gives Elon Musk the Final Word on Tesla Merger He Says He’s Staying Out Of",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQkVhamhOdXlkMjJpamNxN2NVVC0yT2RxblU3UDNrRXlDcmtudU1Ba09wM3ZtUkN1dmdzRmNKaGd0Tmx4YnE5NFE4dU1GbnZMVmNKZVpDZXI3NGktUGFWYnZHZXJXc1ExYWxvZGsySHNlMVdKRTFtcWtfTHBQR1lWX2F4X1FqbEtTOHJZM09RUkxtaVM5N3daSUtR?oc=5",
+"source": "Yahoo Finance",
+"published": 1792784162.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "9eea9cd3b29db1ab",
+"title": "ISMG Editors: Stolen Vendor API Secret Exposes Microsoft 365",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMjRXVS02UWNQQmpJcWdZQTcwOFU5UU1wY3E0OWhtYUhrdDRHMGxJU0h2cFE4Ukx2SzVSNFE0SDZGTHhBX0Z6c1pCNjVsMVdsMWt2NHhzbjJqVmFQX1l4TjU0UXY3dk1sbGlzNFJDeEVFREktbVBDRWw4WTdpc1B3OXlHeEdPMlBvRF9LUUdZWGxfTmxoQlJiMU4za0l5SEl0UVE?oc=5",
+"source": "BankInfoSecurity",
+"published": 1792783944.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "8fbb141eccbd70c1",
+"title": "Microsoft says its AI tool outperforms generalist doctors in complex diagnoses",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTjZRcmdGRUdkVXNucEN0SEVaV2tnZXRiWGVDcU15MXlYcnhjeHhWeGprQUhqRzBOQ2l6Nlkyb0t3azZVRUdXTDU4WGxZWlRQcTNRWXJNOEJ5U2xHNWtXckc0M3M3Zm1pRkM3RG04ZFprSWxqNTRMSHRUOFBnbGJXWS1URlA3cDJYZEFmMWlvNmNmZjZNbVM5X0I3TURYTTZfMktqM0RtS0ROYmtrNG5hadIBtgFBVV95cUxPdTR0QUw1b21qaWxyTXo4MDB6b1VWdkptT2lCQVlzS1RIR2pzSkZZd3R1aW1SeWp1NjVpdW9pLXM1ZWs5N2pkTldsWFBwMC0xdVN1RDJsbzA3MzlmNnV5QkVKd1JaRjR5MUZEakVneGpwb1hLU0tXU0pBS2FhQUxHT291WnZUamVXU0luRHp3TVhOUjY5SkhPcHdSdXZ0WHNsaDRfRFBEUjlJLTNFRXFMU0JQRmZtZw?oc=5",
+"source": "Fox Business",
+"published": 1792783320.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
 {
 "key": "4b8936751ffc3e5b",
 "title": "Microsoft Agent Framework for Go Adds Embeddings and Vector Search",
@@ -433,6 +481,30 @@
 "keywords": []
 },
 {
+"key": "ff764f37eb00277b",
+"title": "Windows Server 2016 support ends on January 12, 2027, Microsoft says",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOc0NYeWVvUmR5ZEZacHRZNkRIS01WZTlZM0p0blpxTTdjWFd5ZUJXOGFoV3Y2WFNPQUZqSTBlaW5IdHdxeTdOQzhMVW91d1RTZHpLeHRwenRzeHE0RDNZWHlKdHVsMkRVTzl4RWNZYXRxMnBoYnhzZHBRSmlmT3U1T2loR3k?oc=5",
+"source": "Mezha.net",
+"published": 1792778270.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "e4e23b54a12c7152",
+"title": "Apple Is About to Overtake Nvidia Again as the World’s Most Valuable Stock as AI Rout Grows",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMEQzN1RxYkZ3Q2ZFbDZoc0Myc1pOWkNEdzZMS29zaWgtaWc2bXpES1gxN0RnMnFqcUJ0c3dyWGVMdEV5Q3JKdjJOcDRjbW5UaTZZdlF0VTJzMm95SDd3Q29KZkRfdGl3TExVZjBxUzFJRVdTSmNnTkt2VXBpcmhEb0R0Q1MyNnpkTWNXUFlsQnRuSTdkbjV2SGdPUV96bzYyNmJvdXA4cE9ob1JoUWluU0QwMmZZNmZNbVQ0a1lOWFExaE9FdnpkQlpPZENLUG8?oc=5",
+"source": "Barchart.com",
+"published": 1792778182.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
 "key": "f51bfeafbaf298c5",
 "title": "Microsoft is Integrating Mobile Device Controls into Windows 11’s Quick Settings Menu",
 "summary": "",
@@ -477,6 +549,18 @@
 "published": 1792777629.0,
 "stocks": [
 "Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "dc67a3e8774294f4",
+"title": "RBC Just Downgraded Mobileye, Citing the Threat From Nvidia. What This Means for MBLY Stock.",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTnBMTHhrNDkxUmtwdUJ6MmdGcjJIcmN3blpXOTEwa3h1ckNKeF9MQkotN3N3SUFWemtzTW8wVnVrcFNLMTJYRnZwZGI5UGN6eHN6OHhndGFfTVlIbW5KTEFNbldHSFlBVzRCc3ZoY2lBaGREb2pxY1VTajFkQ0NYQ1duQ2stN3g3Qm51SGtJckUzV2pOX1pBWXItMXhtRFRkRjBtM0dxSmFxY0FXX0xTMW5WYno5Q3ZBVEYxTmhYNHJ4d1JsN21heHk0VHZlQQ?oc=5",
+"source": "Barchart.com",
+"published": 1792777319.0,
+"stocks": [
+"Nvidia (NVDA)"
 ],
 "keywords": []
 },
@@ -733,6 +817,18 @@
 ]
 },
 {
+"key": "b276c9af5b891a88",
+"title": "Microsoft: Windows Server 2016 reaches end of support in January",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPb1VCZlN6VDJLUHFtOXVkM0JOWHNCeUExWDA4Q3J1SFpQQ3ptTHduTk5ZeUhIYmROaEFDMDkzcjFpbFowWl9GZ3lkN213MUpGa3dSOGEybkhhWEFSOGNBOHlhTTB4d0dieS11ZmFzQmhzNFdRTldyeWxCcWJ2SkNMVDFVUks0ZWJ2ZFVqekZSZnVjWUUzRTZQdzlGZHpGZDltRTZLcVdKVF96V1dqeGFmcGNn0gG3AUFVX3lxTE02R2lQTlFaNzJPTnEwNVNfYW5oU1BncjFOSzNFdTREbXRlbm9vY3h0cGJkbVpzSjJYSkV1Ujk1dnpJT0E1VFNwcHp4TjNncHo4SUVwRHBMS0ZQWXY5Y1hlSm1yc1UweHpVQ1ZSdG1IYnBhNlJLTC1FNUR1X0hpamxicjRTbjd5ejJUM04xNk9WdlhrbkNZQ0tYakJuMmJaSzNoM2VUNnU4X3M2aXZXUkMzLVdfT0ZZNA?oc=5",
+"source": "BleepingComputer",
+"published": 1792775107.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
 "key": "5f0936f1fe616c1c",
 "title": "Protesters accuse Mark Zuckerberg's Meta of election interference in Brazil",
 "summary": "",
@@ -814,6 +910,18 @@
 "published": 1792774028.0,
 "stocks": [
 "Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "34739e957cd10b90",
+"title": "Tesla Continues to Falter and Lose Value: This Renowned Analyst Predicts 60% Returns Soon",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdDFqRXBBSnZBUDljdllVd0ppLWlIVDhWMWhWY3Y5ZzY5TDZjdktuUXJLMXhKNDJmd1MtZHdEZlF0ZlpzMHhMMlhNd3BGNXB2U3BlUGJRejBCSTQwaTlZWjRIUDRXYy1CeHJJWk83TjJxUGdNcU5xakpHZXFoWldaRU5Daw?oc=5",
+"source": "AOL.com",
+"published": 1792773938.0,
+"stocks": [
+"Tesla (TSLA)"
 ],
 "keywords": []
 },
@@ -4775,114 +4883,6 @@
 "published": 1792745700.0,
 "stocks": [
 "Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "99e0352e0d96317f",
-"title": "Rivian Acquires Startup Led by Former Tesla Autopilot Simulation Head",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVXdqM0dlVkV3SkNDam1tcUxoVkhjT1Jya2ZhV2ZIMEg2c3pNVkpBU0I4U0swdndCQUpfcVpRZ0h4YVo2c1cxT0tmRkJ0UVJpaTR2RU5UZEo0bzQ3QU14SjFLU2xpZUhNNkVON3Z3SUJCRmtvVDFkUFd0N2tzS2ZBbW11ZnNGUXRBZnFNYkRDY25zZzZMd3I2S2dsVmJ1bWIwQXNCaU0wellPdw?oc=5",
-"source": "Electric Vehicles",
-"published": 1792745640.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "6211a207d3bb769b",
-"title": "METRO Redux’s Next-Gen Update Hides a DLSS 5 Surprise, as NVIDIA’s Neural Rendering Gives Old Characters New Life",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUkx3Tl9XR1Y1dlFrSDBIdjFmVXI5WFpDZUNnN3MybXYzNzFwckxFWWFMamxpVzFZVlZORjZ6SlBlWkNXcVYxV2VUdkVoM096Y3NJdVo1a1FnZHlhZk1SZW1WLS00Wk5ZWUJiZnpMWTlTUkxDRDM4X1FaaVI3NU1tUERNTGJaZkdSNUExWkFfY081Y2tFRnfSAZsBQVVfeXFMTmZ3OWNtQTVabzliX0otRHFvUDFqVExRTzBVQlIzcjJodHlZZFNFeFpIZHZrMm5tVXAtWkp5M1MxeVI0aDVjZEpWdmROTWJ2OVdvZjgweVVrYkNjSlhGLWctQXBUM0U4TGhwVVRMTlBQaVhRZnlhYW16WE1tUDJJeU9DRDFZOVhENk9GbUlyVU5SbFNhV3NjVUs5ZVU?oc=5",
-"source": "Wccftech",
-"published": 1792745154.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "9f8166c69f42a8f6",
-"title": "Nvidia's Huang heads to Kazakhstan for the first time — and he's not the only one with big plans",
-"summary": "Jensen Huang's first Kazakhstan visit highlights the country's growing AI ambitions and global business appeal.",
-"link": "https://www.cnbc.com/2026/10/23/nvidia-huang-investment-kazakhstan-.html",
-"source": "CNBC Top News",
-"published": 1792745132.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "f5041fe415b1a112",
-"title": "Apple Inc. $AAPL Stock: Verus Wealth Management LLC Increases Position",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQLXdFcnpNbWFwUkU5eWoxaDlXRmVsWXBqWDN6eS1GZy0wRVBGVkhxMHVjcmpNNVJxWUdRWWczeVUyM2lBZXBZcklZclFQdFBUY0pGSXBVVTZRM3hNZklNOUJ4X3VsQlRhX2xCWVRueTEyN1NqRlF1eXBaamdYdzBnVVd5ZGxRVS10QTRDQkcxSnhuZHBhZXgwWmVMUE9mclBHcl95azBITWo2YThhcVJFdHpFLTNXeTRycnhIUG1JdXViZlNmUTFr?oc=5",
-"source": "MarketBeat",
-"published": 1792744887.0,
-"stocks": [
-"Apple (AAPL)"
-],
-"keywords": []
-},
-{
-"key": "32151ce7477a0602",
-"title": "Apple Inc. $AAPL Shares Sold by Lincoln Capital Corp",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMUtwVVdEUmVWbnhrenBFekRGZ3M5anBGNWwwdlhlU2ZaWF9lbkNHWDhLbDlKSm9qVEo2X0JSd244V2s5NFZWYlR1WWYwcE00d2wxamZYT2RPREFjdy0weTJVMUg5NTRuTWJkS0laYllFcWZKdzRPVVpqMWlOSDdGT0QxYk9SanlLX1NHcmY3eXlhRlMydmwwSzZsTjlJNGRLdTJNY184bUJKdV9qLXRPYg?oc=5",
-"source": "MarketBeat",
-"published": 1792744886.0,
-"stocks": [
-"Apple (AAPL)"
-],
-"keywords": []
-},
-{
-"key": "d45b60dacd7fef2a",
-"title": "5,334 Apple Inc. $AAPL Shares Purchased by Mechanics Bank Trust Department",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPV01DRUZ2TGJRcFFhbWVoYXZVcXU5U1pScm9RU3ZGa01BX3lKMmZiN0FfMEZpQklPMVN3cXcxc25YLXJpaEFicl9MaGpZeWZKWjl0VWgtTUNIcEE1OVp6NEQxRms2Y053amUyNzgyRmZxTm5TdXRsWTZVajI0dFJ4MkU5OFZPYzhRczJOUE0wX29LbVVNRGc5MEwxdWdrQzBiTVN6LVhjcEh2WG5LV1hmaktUQVBkZS00ektGVk54azh2dlp2c0w2MnpfUEk?oc=5",
-"source": "MarketBeat",
-"published": 1792744886.0,
-"stocks": [
-"Apple (AAPL)"
-],
-"keywords": []
-},
-{
-"key": "ad943f331878d9e1",
-"title": "Apple Inc. $AAPL Stock: Sage Capital Advisors llc Trims Stake",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMDNaclJNUldWbmlhYmNkYjdNNmRBbFp1eHh2Zm1XVjhCMkxldE50N2NuSVZuMktkWlRCeG5wQkZ1OHBJWHVZdm02TUFIQlhpdnhaRzlUbXl1UVNLNTN0cDN5a1ptR2ZnZlpyREVNNWw0UXAyTldQZVNKOW9vaWE1UzNEcmJpQUJKYVlIdVdLejRFTEZUdFE3R1pTUm12TmZOZkozUEt4ZzZuVWhac2VXWG1DNlpMdmlhUDNB?oc=5",
-"source": "MarketBeat",
-"published": 1792744886.0,
-"stocks": [
-"Apple (AAPL)"
-],
-"keywords": []
-},
-{
-"key": "caeabbc942fee3b4",
-"title": "Apple Inc. $AAPL Stock: St. Clair Advisors LLC Raises Holdings",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSFBlbk4tbEFTSDdwSUlxMVNhbDNHZHBtYjY1TXVfaS1VdENHeXhLU1ZNR0RDQkJuakFxd0VzMEZRQmxabEVNV2NTYXFDRE1jcnRhVUxORnRrRnl0czRVdGJHYUVpYURIM0ZUY1JOZ2RFMWFyamVDTjI3NmhIZUNoS0dnS0cwMno0WjlSbGtxVU1ieUloYm9LUkJuTVZYUlpMOTd4MUxFZkNFWXIwN1JVdzZsTDUwRTFjLWg0?oc=5",
-"source": "MarketBeat",
-"published": 1792744886.0,
-"stocks": [
-"Apple (AAPL)"
-],
-"keywords": []
-},
-{
-"key": "a4c169589c890501",
-"title": "Apple Inc. $AAPL Stock Sold by Spartan Planning & Wealth Management",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSi1GLTRPOGxwdWJMd0M2NUxDSGRmd1VqQjJld1Q2NF9xbWlNSm1NS1h2SDZZVWxyZDNUMjBsX0k1dnRPOUswb1AzeUU0b3ZzeS1XMFk2WThPUTliSUI4V3lkSk9jVzgzdkFSckxDYWlZSHhrbHkzRFRMU1pacFRRaUhQaHlTcDI4QU1WQ0RPaUFJZzdDZGNJdmhEeTBuY3VLemJEeWlUUUJEWWc0UkRvSEtpZkowZ2doVVpTeVNjV0JJZw?oc=5",
-"source": "MarketBeat",
-"published": 1792744886.0,
-"stocks": [
-"Apple (AAPL)"
 ],
 "keywords": []
 }

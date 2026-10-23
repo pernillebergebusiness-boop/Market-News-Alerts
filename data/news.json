@@ -1,5 +1,5 @@
 {
-"updated": 1792785300.306709,
+"updated": 1792786686.4351873,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,6 +73,55 @@
 ],
 "items": [
 {
+"key": "57be2d520e6659a4",
+"title": "Dow Drops 652 Points as Oil Prices Pop and Treasury Yields Rise: Stock Market Today",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPV3B4dDB3RmhKbzFMOGlJVFNvQkYtVjhpemppcWVueXptbDNlV05Tdl80cWd4c2EzOUpJdXlkU1h5cEMwNWRUQngxeXpDaG8wMHpIQm1sb056eEsxQzlkUUF0WHZWVjRMeFNzQlNBMm9XQzhNRjU4Z0I4c2VCajAtc2FiMnZZZV81aGRhUEg3dXVwSGRHa3B3d05WUDMwSlFTSmhPNVo0OTFFaUxZUmI4?oc=5",
+"source": "Kiplinger",
+"published": 1792786163.0,
+"stocks": [],
+"keywords": [
+"oil prices"
+]
+},
+{
+"key": "3ebd9b366c854e96",
+"title": "Scalpers offer Apple iPhone Duo buyers hundreds extra outside Beijing launch",
+"summary": "Apple's global launch of the foldable iPhone Duo brought scalpers to the Beijing flagship store looking to pay big for the already pricey devices.",
+"link": "https://www.cnbc.com/2026/10/23/apple-iphone-duo-china-launch.html",
+"source": "CNBC Top News",
+"published": 1792785997.0,
+"stocks": [
+"Apple (AAPL)"
+],
+"keywords": []
+},
+{
+"key": "b7a7ead6ae022347",
+"title": "Tech Stocks Got A Late Lift From Microsoft And ServiceNow",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSTRaOGI5RVNWbjdVd2VVY0xQVEJLV2lIODJNNG9jZUN5T3JLQ05US3AzcERPMkgzYUZCaUo2cG1DbTlONWpnZlpwdzgxdDRRSzFKVDBpM0NreGI1SkFUZW4xajQ4dE1uY0ZJRHVlMm1yOGJsM2pTR1NhSzlGV2UyQ3IySkhoaElCemhxd0lIQQ?oc=5",
+"source": "Finimize",
+"published": 1792785477.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "56739f807200eac3",
+"title": "SpaceX-Tesla Merger? | Zuckerberg's Deal | The Rundown",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQamw5NTBiZ2Z0NXhaRTVRYUp5Z0pjR1JVVGxEVl8zdkJ0SnVtOElHbVBqclBLbTlaY1ozdVNpVVNZNlE2NUw0Umg3b2RXd2ZyUmoyT1g1OGZ3UXBXekxwNWhPY3hvQnhtT3BuVXZ5Vjk1ZWJEbE5xU2lEdFJ3RDBRaGVOWlE3YTRMbDMzODE3b1VBOFhMemZZMkhqdjNSTmtNenl5RU1ueDN6SnlWdW5NbE01dTZrZU9OcTNsY0ZBMGpYNm8?oc=5",
+"source": "Bloomberg.com",
+"published": 1792785427.0,
+"stocks": [
+"Meta (META)",
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
 "key": "01872f2b91382d7f",
 "title": "First Shift: Tesla targets 5 million annual sales by 2030",
 "summary": "",
@@ -121,6 +170,18 @@
 "keywords": []
 },
 {
+"key": "a3cb2c87687413ef",
+"title": "Wall Street mostly loses ground under pressure from rising oil prices",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOUNWMExKdUdLSk4zYVlEdU9Objhna2g5d0VvZlNTTjJfSXlVN015Rmt4eG9SYkUwbUFrc2tXSVV4REs0eUNFSHFOWHluM3k2ZThQVkpOYlJrMEtIOVNUZmNmUEJWdWVqdExGSEtIVzdadEZnRzdfTzVkNmlRcWRlc1JVWVk0Ui1RM2lMVi11X0dsWXNxbl9xM09LZkc0MkRTS0R2Q3hPWGtrSEhVeVpJ?oc=5",
+"source": "Pittsburgh Post-Gazette",
+"published": 1792783269.0,
+"stocks": [],
+"keywords": [
+"oil prices"
+]
+},
+{
 "key": "4b8936751ffc3e5b",
 "title": "Microsoft Agent Framework for Go Adds Embeddings and Vector Search",
 "summary": "",
@@ -165,6 +226,18 @@
 "published": 1792782722.0,
 "stocks": [
 "Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "1273ad5413e75094",
+"title": "Seaport Research Issues Stark Nvidia Warning on Nvidia Stock",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbjNyZ28tWDR1VGFiZzFTcXJYNHhja20zdTVsLTZYVzRQb1B5OFdtVXZwM1RueGN6dDBnYzBtYzExd1pfTzlXR0hQQW1QQkFTWmwtT3JabVlCbnozMXpvY0NUWlYtR3YtbDdfVHhSNVlLRk04THAxOVFRcGhubWhDbUFwamhydEhPRm5lbjJfM1JLOWhOVldMUjVsMFc0SzV6b1FJ?oc=5",
+"source": "Yahoo Finance",
+"published": 1792782178.0,
+"stocks": [
+"Nvidia (NVDA)"
 ],
 "keywords": []
 },
@@ -321,6 +394,18 @@
 "published": 1792779818.0,
 "stocks": [
 "Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "c0ab2a3e07946ee1",
+"title": "Nvidia Stocks Put AI-Factory Downtime in Minerva's Crosshairs",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTmpqeEJBNm5lR0dmak80bHZuTzlaSk9XaDhpWnpjaVhJX1RfNzkzVnRZMzl0S0hTYjhaSUFpejNyaUkweE81WGd4MmVRQVVidFJHZGxTeEM5X2VpX0xjUkJCck9MMDh4eDctU21Kd3Q2b29qR2FLYl96WU42dTJzWFdZdWJCVTZvRnhwcWdGOHNDQVhyZ0k0?oc=5",
+"source": "Yahoo Finance",
+"published": 1792779713.0,
+"stocks": [
+"Nvidia (NVDA)"
 ],
 "keywords": []
 },
@@ -4797,90 +4882,6 @@
 "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOamRMMEFVNlo2WFZyQ2ZpRE1tSEx3YkhaY1BjcjFHdV9MLTJCY1VjejBiWTVPLUxpXzYtcTJHbHVsZVZTR2w0UURzXy0zUUVEbkM1dkxEaU1mYjdQQXRMR01DSVNQVmRyYmRkRlZBNGhUUGRIcGRhbTFqYXB6djJFb2VJeUJoTjJKRFlyNm5pZU9wb2ZU?oc=5",
 "source": "Yahoo Finance",
 "published": 1792746097.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "41c6e86edaf15cb3",
-"title": "Nvidia Minerva Uses AI to Detect Problems in GPU Clusters",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9KeXpOVHJ1MnJVZXlzWDZ0Y09hS1dvVE9yQnk1T3dfSXdVRzZJc1ZJSDN1QmtQeWpjTDdkaHVFOEJYWEFHUEJQM2lUazVVYXdHMktPWWlSb3NtdFFoTVBmWWRvOUVPeFI5NGUxNnJTbXV2UHlLZGU4?oc=5",
-"source": "eWeek",
-"published": 1792745895.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "33518640d524c58a",
-"title": "The Friday File: Microsoft; European satellite; SpaceX",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRHBlcDZ2RGVQY3BjOXVNY2lJOW5wV1RPLXZ1SkdmMFpTVHJVR2tDWGpydkQ3NlVfVXdQMzgzTkNScTVrdG1BWExJZmFsclotXzgwZVJ6Q0ZFaVI5eWNIUUFzZE9WUlFUSGh6blVxb0R6dFJMM2U0dUZkTTFYcHo2ckR1NTNKWnpfUnA0dS1JbkZNazdCQkxsTDFn?oc=5",
-"source": "Mobile World Live",
-"published": 1792745884.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "dad15caa62082cda",
-"title": "Tesla Officially Cancels Australian Cybertruck",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOV1lCUXJOb1RtcV9Pb2NycHM5b0NSUmkzVFZLYmRXMTlSeUxkdkhSZWdjVEhsQ1lWeWR1a2ZuM1l5LWp6QlAwOFBNUHM5dDd3ekRwWXVaajQ4eHJfZENydDd2aWRmS3dEMVVHVWJkUmxKWmhibk94cG1TU291WmowRFZBS2txc3pGQ0E?oc=5",
-"source": "Newser",
-"published": 1792745820.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "f1afce6026443774",
-"title": "Tesla to Australia: No Cybertrucks for You",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOV1lCUXJOb1RtcV9Pb2NycHM5b0NSUmkzVFZLYmRXMTlSeUxkdkhSZWdjVEhsQ1lWeWR1a2ZuM1l5LWp6QlAwOFBNUHM5dDd3ekRwWXVaajQ4eHJfZENydDd2aWRmS3dEMVVHVWJkUmxKWmhibk94cG1TU291WmowRFZBS2txc3pGQ0E?oc=5",
-"source": "Newser",
-"published": 1792745820.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "e87a620745d677fe",
-"title": "NVIDIA Backs AI Startup Higgsfield as Huang Visits Kazakhstan",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSVRCRjZGX0dld1pGSzRFM29DdFVGY0lfajhKcjZkOHUzb3pBY0Z0VkhuTFJJLUNEcUdkc0RtcDF3dWg2d2Iwc2VVcEN4eERLZkVQUHpPM0xySUEtQ2M5eDRfOURUYmdSYTQzbnRZOTFnT1pQQWZpS193ZG1YME1JMm1TOTlFcWJrRGxsVFFxRjh4RXZXcHhCV0NB?oc=5",
-"source": "The Astana Times",
-"published": 1792745790.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "de1553ebd5d39723",
-"title": "SpaceX-Tesla merger could face antitrust scrutiny",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPc1hJMEpHaVJubmtNRTdpSkNrQ0IwZ2taUl8yLUNlWHlDM3VTQ3B1M0Y3ZEE4LWt3MVRySk9IYXVBT1o2dS00cjF4OG14WEZYODhna09MRGU4VEFjOVNhVV80c1ptWl9RU3Zsc2lkelU4aXFFaHVaQ1RTSUR1MV9JXzRqcHNMOVhpOUVvYk9vLXlDUGp2cG9R?oc=5",
-"source": "Semafor",
-"published": 1792745700.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "627d53650beff229",
-"title": "Exclusive / SpaceX-Tesla merger could face antitrust scrutiny",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPc1hJMEpHaVJubmtNRTdpSkNrQ0IwZ2taUl8yLUNlWHlDM3VTQ3B1M0Y3ZEE4LWt3MVRySk9IYXVBT1o2dS00cjF4OG14WEZYODhna09MRGU4VEFjOVNhVV80c1ptWl9RU3Zsc2lkelU4aXFFaHVaQ1RTSUR1MV9JXzRqcHNMOVhpOUVvYk9vLXlDUGp2cG9R?oc=5",
-"source": "Semafor",
-"published": 1792745700.0,
 "stocks": [
 "Tesla (TSLA)"
 ],

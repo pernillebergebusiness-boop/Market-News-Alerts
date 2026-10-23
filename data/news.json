@@ -1,5 +1,5 @@
 {
-"updated": 1792716826.8911374,
+"updated": 1792719094.2817454,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,6 +73,54 @@
 ],
 "items": [
 {
+"key": "5d3abb33f44131f4",
+"title": "Tesla Cybercab Dallas Launch Estimated for November 15",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOd2tGVTJlRkpHSHQyZlA2TUE0ZUhlMXJFdk55YllUblNZa3k4UXJDT0RhTldmYlhLRWNydUZ6Q3RLclZka3FGU1BkNmhza0xrVjJCS2J3Uy1FZWRaRWUxWkk5Wk5oWHF0X091R2ZPTmF1QmJwQlRQekdQZDZDRG5fOG9mQ2R0TWtNYjRlREJmczI5bTQ?oc=5",
+"source": "BASENOR",
+"published": 1792717704.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "711a43167ea9857d",
+"title": "Nvidia will let eight DGX Spark computers pool 1TB of memory for local AI",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE14UlIzakx2SE9vZHh4YnAyQzJHQ1huZjdwSmdtOWQ0YkxkZ0lzdHlMVFZ2MmxjZVhvQzh5MkwyQUZEYmFQNnJNdnNaNVNVWURNMHNmd3JiRDhBTktBbThjcWMxdTYyeHJ3NWJlU1MwWGZYWjVGRGhn?oc=5",
+"source": "MIXED Reality News",
+"published": 1792717496.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "1b2d5c14854a0c98",
+"title": "Why a Merger With Tesla Could Be a Disaster for SpaceX",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOVZIY0N0R1dKZ3RpT2VkY0E1NjduSlBWNGZQZnhIMDBSUHhIUWFVY0UyMkhuMlgtd1VPTm43TEQ4SUlGYlhYN3BhT21iMDZCanJmWDduamppVFM5NXZ6dDFjOFdQalpGa0E1UjlPMnQxMEY0TXJKQ090SERlYlo4REhjNnJmOHEyWkxPRi1pQzlmT3lSSFU0dl84cXlzdw?oc=5",
+"source": "The Motley Fool",
+"published": 1792717323.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "c5babbcecbb4f6f6",
+"title": "California reporter's Tesla robotaxi got stuck in 'fart mode,' and no one could shut it off",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9aTnRJMEJ4ZHBsem1BSUk4QWRINktfQ3lrYTlEVVc2M3Bfc3JPUWNRdzNCWDJmQVpOWjRZNkdUcjRZclFQNmtuQmJ1NTRqSGd2Vk5wbS05NkwtWExEZDhCN2hKNGdWMHk2QU1BUklQdXozZVVqMV90d0kzZENHUQ?oc=5",
+"source": "The Cool Down",
+"published": 1792716840.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
 "key": "3df5363e3b2ed072",
 "title": "FILE PHOTO: Illustration shows Microsoft logo and keyboard",
 "summary": "",
@@ -91,6 +139,18 @@
 "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONkV1ZGF0amlGUE05UHVISEppem8zZDZWSVM1M3VabV9yYXpTSlptUVhnS0F5V2xCODk4enEwZ1p6Zl80NVA5VWtONHE4enNDZGpqZjFXeTdueVVjT0R1TDlJODloUVBYRlZOT25UOWhJRkhsdWt0Uzg0dGJoNzR6UXpOTDFIdHdnUjYxUmFDUndwWDRLWWFfNlZ3?oc=5",
 "source": "Gizmodo",
 "published": 1792716397.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "6400b1e1e026bb86",
+"title": "Microsoft develops AI tool that can diagnose ’sequentially’ like a doctor By Reuters",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNGE1bHQ1b3VUWTBENkEtaEFaVHk0cVRaa3dsdjh1TC1seGZncmdjUVpPVndZVndDOUQxbG1QdzJEUUZaVkhuUFdtcXpBRGluWmctR2RuenQ1ekw2b0EyTjF4WVBXTzF0MnR0RVg2Sk9UbFdmZDRubFdRcXJBMDdLcHd5cTJoQUJlOXdZUExEb3NEeGhrdEo0ZjZfYVB2TTJRSEk4NFdaQVB1bXBlRWNPZE5HRXB4OFpmYVJYS0lYczgtZ01fc1Rj?oc=5",
+"source": "Investing.com",
+"published": 1792716022.0,
 "stocks": [
 "Microsoft (MSFT)"
 ],
@@ -181,6 +241,18 @@
 "keywords": []
 },
 {
+"key": "fa52f003b46bbbd2",
+"title": "Tesla Ramping Megapack Production ‘As Much As Possible’ After 2027 Capacity Nearly Sold Out Amid Data Center Demand",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQU255TE8wZ1NQOWRPcEFBMmlqYnA4VVRDWFBQRjgtNDFIczNRYU5vTWRNS01Ta0pTaW16Skd2Nmd2UXhQZmRzNWlLb3NBbjlBYTZySXBTQWgtYUk5aThzeDRjM3h5UUZDdUNMV1RKdF9lMUJpaDNhcW10VjVEUUVSd3JKSS1HdFZkX19ndjU0b0E4SkhVV09wRWtIbw?oc=5",
+"source": "Yahoo Finance",
+"published": 1792713660.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
 "key": "d610e68c40bc3ec2",
 "title": "Red Hat, NVIDIA Advance Agentic AI Security Across Hybrid Cloud",
 "summary": "",
@@ -199,6 +271,18 @@
 "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNOC1DaUtFNE14VHNNbEU5TE9WdjhXdC1oelFBOFFhcTRhRDFaRTd5ZVlwdE1Ddk5Qb3RlWERlN1JSeG84bDRMU2ZhbFJDMnV5Sm5uZWFlVVJVc0dSc2x0SFJCYVktblpVWWtsOU9BbDhlNjhXeEJvWmlMcFIxOUtBaXlXeGptZFZDSWpVaWhmRTdXUFlZT2lzNVNFU09nOTFMNmVhZ0h2czJ5LU1IbVJkUzJVaXBsNmJEdG9ET0pmWHZzYkgtMmVPaU5ibVg1V2pIdGYtdjJlbURPdFJheGdoaQ?oc=5",
 "source": "Facebook",
 "published": 1792712461.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "d69730bdbe66f98a",
+"title": "Tesla to get 10-year tax break for $10 billion solar project",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1PQkp2SjBpSFFZS3FnVEFyZk04X1VGR1d3cE5vb2Rsazl5SzlMSWZkZjlNa3dPTUMzSWxGeHJ1OFN3N2dUU3NReGdaQzRSWDE1VzZma0ZLTkU3SkRMUVpiMHR5ZnZBd9IBa0FVX3lxTE1JTk5oWVgyemxVdWs4MXBIdmFpMEhuRmZhQWxDZTFqU0JuVll0WXNoMC1vQWZlY3ZZUW43NTUzS2ZLSVAyUEl3X3pPN0JadjlFaVhDeEhiWW5SRXBnblpEM3h4Wm50T0VuTFJz?oc=5",
+"source": "CW39 Houston",
+"published": 1792712246.0,
 "stocks": [
 "Tesla (TSLA)"
 ],
@@ -433,6 +517,18 @@
 "keywords": []
 },
 {
+"key": "a3b495fdcfcbc007",
+"title": "Zuckerberg makes deal with Meta to help him pay billionaire tax if it passes",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUWl5VlBXNjVjUVZfeEFDM2JyRkU1UFN5dWxOSW1abUZuMlA1c0Z6UEktcjFYT2dnc3F6OHl6T09XN3BtdVMxRUhxdU9kdThiTTJfclJaSE15YmRLVzdHUFNLY3dzOEhwQW13TWg3TzRrNmNfNDdkVDdKSk1yVGRKN1lkS2t0TzJrT0Vhd012NXpJNVloWDRMdFlwNA?oc=5",
+"source": "Newsday",
+"published": 1792706722.0,
+"stocks": [
+"Meta (META)"
+],
+"keywords": []
+},
+{
 "key": "a431ca00fb80ad01",
 "title": "Microsoft Links Storm-0940 to ConnectWise Supply Chain Attack",
 "summary": "",
@@ -481,6 +577,18 @@
 "keywords": []
 },
 {
+"key": "fefc7b41d60e6a7c",
+"title": "Fort Bend County approves economic incentives for proposed Tesla facility",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRmd4ZnRDOGVMZm5WNWdnNS12aDBHcWJUcVdtSkVESnVNZFQ0THNmLTNGdnZlN3VPTVRobWx6ckVJQlU0S0tqYlc5Ny1Gc3NZWkpxUElFMEwydzJqNUZPOTEwUnVqeTMtVU54b2t3UXViT2hENVZBczRqTm00ejZ4dGxXZHFmNnp0d0tqSmtJeXFVTXNIbmFYSVlqMXJBcWd2d1NTcTlCQ2NjNWlUSzBDQlljSmRrX0tVMzlzc0dzTHBOQlBFZ1U2OTNDQWF6enBwcXdaQg?oc=5",
+"source": "Community Impact Newspaper",
+"published": 1792706111.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
 "key": "8b9af2903812e8ef",
 "title": "Fort Bend County approves Tesla economic incentives | Sugar Land - Missouri City",
 "summary": "",
@@ -489,6 +597,18 @@
 "published": 1792706111.0,
 "stocks": [
 "Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "f8d354a6184b30cb",
+"title": "Meta Platforms Price Target Raised to $800.00/Share From $700.00 by DA Davidson",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNVhEWU8yWjBhT3FQcHVrN3ZkbWVKQWVIdjNRcVRSWE10S3lodGxJSDRsUHBKdXpObE4tZ3NUQmRBdTVZU0NHaTlfTEtScnkzMnVMZjV1UmFRNWRVUFgtOXYzcXhXdWFoSHpCQVllM2xObGYyVzRIeGtpblBLMlhNNXMtVG9RSlI1N2lvUE5CdWUwX2ZRRGxVR2Q4VkNhYXZL?oc=5",
+"source": "Moomoo",
+"published": 1792706051.0,
+"stocks": [
+"Meta (META)"
 ],
 "keywords": []
 },
@@ -4757,126 +4877,6 @@
 "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9YS2hEVkpmclFwYXp5M2h6MENhQ041WHRZTjVrdVVVSzlFOHpsSzI3eklVLVlkcDN5Sm5tOUQ4RG8xQllsWHlSeDZ2cTlCQnhjQmFPYmlXaHk4RW1WMzFSVi1QTlBJa04wYXYtTkNBdjhITU1yRkIyUlJn?oc=5",
 "source": "Decode39",
 "published": 1792675426.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "7314344e2a4343eb",
-"title": "BofA Securities Adjusts Price Target on Meta Platforms to $845 From $810, Maintains Buy Rating",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRldwamNpdDFTRXFFaWkxY1JhLWRXQi1CQWV5OHloeVE3bFN2T1FfWG9qWU9iNTJqTGIyMXNFMFExbFBTSGJpNE5FbzBTM3h5ZEVYYkZzM2R0ZkFXQjdzVjJGdTFURnBtazlIa3FTMDBJbzYxWlBwekp0TnpHYUcxQlpTWGFKak80aXAxVXBJREdBUEVOSUp0RWNjWWxTWEV0T19LbmVOam1waEJKWUR5cUNheEZaMFM1VXVsdkU0WVd0ZVo4Zmk1UVJBX0lhOWtCUGJManZqbXpNNUxM?oc=5",
-"source": "marketscreener.com",
-"published": 1792675424.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "9d55529d351ba0fa",
-"title": "Boehringer and Microsoft team up to test ‘digital patient twins’ in clinical trials",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNblVoZHNBSHdtd2VaSHNXNmgtZDZpVDNqeFlIbWNoSV9MTkgtQXIxb29aU292UEFKeU1Xc3VrSjhQRl9YR3RuYThGelVuUUM1ZlBSdVRBLVp4cm40QkN6cWhJVTdmeV9WV3VFRWdUVDB1dmFLS1o0MmhYVC16cVdQc1BoWDN4d2ktaFRVVV9FdDZ6aHFsaGZKaFpIUVBuSGJzS0d5WWppeTZfdjRHV0prMjd1czZlUTg5Wmd0aFJTN1MwS1k?oc=5",
-"source": "The Pharma Letter",
-"published": 1792675357.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "26b9989147755ff8",
-"title": "Aegiq’s Quantum Computer Reduces Engineering Time With NVIDIA AI",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5UTVJSOWhveml2dkdyNG9HbGV4NDNfaDV5MkFHYkdQUEoxS0kwRHVqX19CNXpGU21vaEVMNHFLM0loLVFIelpqbmc3Slg0YWthNk5TZUFoQTlfTDJ3dkVFb3VfUmJmc3V2WHpJUGEyUnhYdVl0RHZIQ2g1T09Idw?oc=5",
-"source": "Quantum Zeitgeist",
-"published": 1792675356.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "b529f7ae5b17e41e",
-"title": "Microsoft finally fixed one of Windows 11's most annoying photo problems",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaDYycWQzbjZjc1dtaS14VE10TzJDUGRHMlRNQWx2Rzh5LWRJeU80WmZDdzJXZlB6MURsNGFheUJDNnFlNURfa293MjlCNC1FOExsZ290VHR3S3ROamJoc3N2V3EwenJLZ0IzVTlCRDgzWk80VVdTa20xR3lJSTVkdWUwcHc4NkZHb2Q0Z1U5NFl4M3l3bmNUS1FSd1JCejhNREE?oc=5",
-"source": "Neowin",
-"published": 1792675320.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "9f01becfa79c1d32",
-"title": "Market Braces for Even Higher Oil Prices: 8 Key Items Shaping the Stock Market Thursday",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdFJxS1hodldQQlBzNGhkQjMxMFRtQVQ4STJsZGV2Uk81QTFQM1hKYV96eXNjM1lTdHBHV2RUZHp0TkUxRWoxQjVEdlUyV3psZmltRDdDMzNucmJMakFTVnBvUU9tRWZuNFlJMm9TVTNuQ19YeE1SV0VLTllla083MnlUV05mNWRPMW9GU1ppUE5GOEZkdG1jUjdUbV93Q1FYLWlWTDJYQnpxUHJjMkt6M0kxeHA5cWdvcXFMTU1pMA?oc=5",
-"source": "TheStreet Pro",
-"published": 1792675320.0,
-"stocks": [],
-"keywords": [
-"oil prices"
-]
-},
-{
-"key": "0c23bd4bc9788d25",
-"title": "Meta Platforms, Inc. Stock 12‑Month Price Target Raised to $827.25, Implies 19% Upside",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcG1MRE4tdzQwdWdFc09FREI0Q2t2SlpkM2NIUGVrMTkwejg1dS0tU1RsNkpoclNtbEdubEltX0xSZWp1RHg1VVdQYnY3bEtHbW1ua3BXdmM5cGJXZURnZGo2VDliNDJ1ZndNQWU3SDNqYmRvVTd1VVZJa0gzN0Y5d2NrbzRxOUIxb094dnBxWm1iMGZ4Q2hXc3NtY3NjNk9rNWFaa0xMY25UYWo5MzdTSGFYRzdRWVBkTHRsQXVVYzQ5TFA1T1h4dHZFS0x3ZUg2NjJ6VFRnT0F4UUk?oc=5",
-"source": "TradingView",
-"published": 1792675200.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "7b92685245d997f1",
-"title": "Piper Sandler maintains Overweight rating on Meta Platforms, $850 price target",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWWhZYjJuS2wyQnJZbWgxZnJ0dElIeTJRZmFMQXRTaXptUS15cWtSWFFJMVpfRGJuc0FubVUtZjMzcVo0YTFsSUlhR1NhZF9QRkM1bmppYlBycTBkT3hkZ2tKUDhBNHRCSmlfcnFkN0FBRzl5a1o3ZUZBZWVvb0xrTFVReXNFNWlhbmUwazFKaEk4R1kxdEYwWjhTRWdpQk03MUZkOE1sWk56WWJSQURvN0JXTzQ4Mjh2TXljRUdtMkd5Nk1hWlc5cmUxYnhZZGw0R3FtUw?oc=5",
-"source": "TradingView",
-"published": 1792675129.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "7f420590cf6b3574",
-"title": "Here's how to get the Windows event wallpaper Microsoft never released",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQnh0WGpYbmhGMkZNYUh0TkZXZ1BnakhEOTJjenpyWnVnTGJ0YjQ0V1lGZWpfaXkwRkR6dGkzbXVjaENFcUlpT3ZSWVQ2TWhEMGpPVGZ6T09jblE2UUpWR29ZQlVyNHJraGNDdDZzU3FNYTItNUg0SXRKdzZIQWQwVUZaaWNTa2toVkoyeEV2dGN2NVkweWUxalZJM1ZHOHRFVFhLcEMwbDRVUXJ2NnVxQ2drSTRQZlluTjdGc21XRll2b094QVE?oc=5",
-"source": "Windows Central",
-"published": 1792675006.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "50158b5b3e5d107d",
-"title": "Microsoft Releases PowerToys 0.102 With Mouse Button Lock and CursorHide Utilities",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOFNDMTU1bzl3NnU3c2l4WEJTWU9OMVRPWmRZRXUteFNhZXdTOFhTYXhiMnFxZnlEamFjMklXRnFYdWZybzdUbDBfblNrSmptam1VZW1jcUpkbzJSc0daSGk1LWRqemJ5TTB5ajMzX0NvaVpyNnlDRnlMUXNQQks1ZHVhX21TNXVpTEpvNkRXYWxqX2pQcnEzVWFQbU1lZ1YwVVB0YXdQQm41YUxxcGFOQzdmeDZDQkRW?oc=5",
-"source": "gHacks",
-"published": 1792674983.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "c83f8ae87e595d7c",
-"title": "Gix Internet Reports Quantum X Labs Milestones With NVIDIA, IBM",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8xWjZoTllGY1BvZ0tFQU9KVFlsU1pWWFpWM1lXQ0hqaTM0MFpWR3dhQU9NNjBiRlEwR0M1Mi1MUm1neXRycjNZdDE3NzJmMi1BS0FXb1dfOS0wUEhYb19qNWx3OUpGTTlDekN3Q245Rm9mbEtScUs0?oc=5",
-"source": "Quantum Zeitgeist",
-"published": 1792674799.0,
 "stocks": [
 "Nvidia (NVDA)"
 ],

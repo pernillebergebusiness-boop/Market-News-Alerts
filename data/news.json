@@ -1,5 +1,5 @@
 {
-"updated": 1792721547.820864,
+"updated": 1792723449.1632736,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -72,6 +72,30 @@
 "Yahoo Finance: HTTPError"
 ],
 "items": [
+{
+"key": "97ccffe486daebfb",
+"title": "NVIDIA’s Next Supply Chain Supercycle: 2.5x Substrate Capacity, 15x Optical Engines, and the Race to Build AI Factories",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSjFGd29hTUd1TkkwWGZvT2M0SE5GNXdldkV5bGFNOHl0MkxidkV2M0M1bTNmaW54VjRrMmltMkxwMEt3Mkkwbk5RS1NGYlhRaEVaeE92Slpqazl3OGowcXZJc3hfMThXRE1uUDdRUDlFX1VuVFBwNmxnam9RZ3FuVmdjaGJqWmRQMlV0U1ZadTZIV19HOE94MnNuckJJNnU5czR3Q2xQbGVpckNlWXRFMFJFVk95SFFwLVFZRDlTZWZvVVFMQ0VBd1JCR3piLWdGdzhhaFAwZjNTZDZZZXc?oc=5",
+"source": "semivision",
+"published": 1792721900.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "ac9e9c5a9484cf92",
+"title": "NVIDIA Details Kazakhstan GPU Deployments and Robotaxi Plans",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNXNQT0lLRTVQdzM5OUx1RXQ0RU9ZTzc1SVo4aDVVdEFEcVl1WUVqakJmVTBNTFkxVGpIM3NDc1BhM2Jsc1YzZkIzU3gyMDZ5RnREbUFMV1VSUDRqMDQtS05fRUdMdjJMbl9NRnlyTEVjMXFBQjN3YXRHZ19kcnVqV1plM2hyWDNPU1E?oc=5",
+"source": "Unite.AI",
+"published": 1792721891.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
 {
 "key": "b4c097a8adef4dab",
 "title": "Asian shares wobble as tech rout boosts bonds, dents rate hike bets",
@@ -187,6 +211,18 @@
 "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNlhQS0FuQmlmcWxDMUt3R01xVTgtWlNhNk5nQUVWZDNIX0w3Q2NwVzQ0MkVielZNbmpsMlhGQVpJUTdpZlhKRzhPVFRHRjlxbEVicTdRWUZjeHVPb0xjYXR4T0hCM1l4ZGxfaG5oNkVfTDR5QnRJUVh4d21OM3luVzBZYWUtclN2b3JCb0l5T0hoX2FKVURDSjRsV0tUTElGb1ZNeF9peFVyTG84ZjlKRXI0eFJHb2hlbE5wekZudlM4QkRXcUMwWGJ2WmVUTmZ5cWpjb3NneVdkdU8zbExOOEpRWmZ2U1U?oc=5",
 "source": "The Daily News | Texas' Oldest Newspaper",
 "published": 1792716569.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "d7e5dd0a9e300116",
+"title": "Microsoft develops AI tool that can diagnose 'sequentially' like a doctor",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8xdWY1RjFDd2ZsdW9lbFl2bHpmZmk4d1l3SGoxanpTekw1X0NlWTdKVTVVcFk1Z1dMSGh1NTVweXF1YVZudHJ0WWptdDdqRjdSTTd2QVl1U0lrRFE2dGUxTmRDRkRQa0lRcnFmLW1oUjg3LUFR?oc=5",
+"source": "Idaho Statesman",
+"published": 1792716427.0,
 "stocks": [
 "Microsoft (MSFT)"
 ],
@@ -369,6 +405,18 @@
 "published": 1792711870.0,
 "stocks": [
 "Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "11ed299e90f1e28c",
+"title": "Apple's 1st foldable iPhone model on sale",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5EMFNobEhicHlCUFpxaElWeVF5Tm5oN2hiSkZMUzNYV0RPNXl6bkJQR1NqYk5UaDl3VWRRR3NGSF9UcEZlRXk2ZHFRbFB3Z2dWWlF0Z3FpSERldlg1d25vVjY3RDdsV3Z2NVpqcnpsa2FLc19VSF93?oc=5",
+"source": "Yonhap News Agency",
+"published": 1792711650.0,
+"stocks": [
+"Apple (AAPL)"
 ],
 "keywords": []
 },
@@ -981,6 +1029,18 @@
 "published": 1792702724.0,
 "stocks": [
 "Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "3978cdf15fa13423",
+"title": "Meta Platforms Is Maintained at Buy by Citigroup",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQThnOE03WDc3YXZzbVhDQmY1VXFDSFVLRW9oZ3JxLVkxUmFqR3J2d3RxZU1WMTlaRi1iRU5UMVB0Z0lvNlNvcGR3TVJaY0NQejRoa1o1Mkt4dHBpbzN0aGJYSm81ZjNLRFFKWEw0ZGpBNnN3aVJ6WVZjdzhFUm5ES2NDVkp0QkE1b014RUZqSWJSeFRxdTNF?oc=5",
+"source": "Moomoo",
+"published": 1792702628.0,
+"stocks": [
+"Meta (META)"
 ],
 "keywords": []
 },
@@ -4821,66 +4881,6 @@
 "keywords": [
 "Brent"
 ]
-},
-{
-"key": "93ad091c8a33d177",
-"title": "What Is the Biggest Obstacle to a SpaceX-Tesla Merger? JPMorgan Points to China",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQVpSNTVLQkJZS3dTZGowYy1scnVVNVdSLUNrWDJMYTFmalJGS21falQ5Y0xRa2lnWXNFYnpmcUZUM001eURDSUF4em5FMzZYNkltQTBwSXdfdG84Rkt4RVZvdlBSXy1RWnkxbTlIcEFhajJsdS1OZ3RqNFkzOE1sdE5GMGNzYW92bFUtLXV0aXlrWUhXOGt2NDhadk5GdFBJZE53?oc=5",
-"source": "Yahoo Finance",
-"published": 1792676160.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "11ad4fc794d06c89",
-"title": "Jensen Huang pushed back on 2029 memory glut fears amid stock selloff",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE56MHpCOWlVVGllakFiTVhmbUFtLWRRakhzdmFRQjB3MjRXejBPWE11cGJvOHAxQm5mMjI2Z25zY2FmSjdvMVFmcG1nRU14djgxb0EtQm9YNFJXc3VCaWcwTWo5N0JNcDBwVVVxd05hZEhDZ1k?oc=5",
-"source": "Quartz",
-"published": 1792676119.0,
-"stocks": [],
-"keywords": [
-"selloff"
-]
-},
-{
-"key": "18aaf695b5d91841",
-"title": "Nvidia's Jensen Huang pushed back on 2029 memory glut fears",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE56MHpCOWlVVGllakFiTVhmbUFtLWRRakhzdmFRQjB3MjRXejBPWE11cGJvOHAxQm5mMjI2Z25zY2FmSjdvMVFmcG1nRU14djgxb0EtQm9YNFJXc3VCaWcwTWo5N0JNcDBwVVVxd05hZEhDZ1k?oc=5",
-"source": "qz.com",
-"published": 1792676119.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "ba7c460eb656cf0a",
-"title": "NVIDIA introduces containerized reference design for AI factories",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZmpuc2pNY1B4RkVyTnRwUUNpOGc1cUllREd5enA5ZGNzeUw3YlNETDRqV3BOcVVfRWFsSXVzMTNQUlNVeHF4bzNLQzhtR3ZFQlU5TTRZUDQzUlo1M3gyRVh1el90MnBFY1Z3UV9GQjFKSGtQWFZ6WjRxLVRrQjVaOFF4d2tiTmRGaUg4NnZBWTRLaU1RUVlic0dB?oc=5",
-"source": "Engineering.com",
-"published": 1792676013.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "91ee272c1d3b74ac",
-"title": "Microsoft says China-aligned hackers used AI agents in ConnectWise attack",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNGRPUGdOTzQ3M2VsN2FzWGl1S1Q4ZDJlWmtwSkhrc1gwdHhfeEx3b2M2TzNaQXd3VTdoeEJmNXVYWGMtVk5pYjV1aHJHb2lxTHhLR2VWTE40Z2FMWFJoUER5X2V4OW5RTDY1d1d0UE9FaVBfaXBBUG54NERiaDRlSFpkdw?oc=5",
-"source": "The Next Web",
-"published": 1792675933.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
 }
 ]
 }

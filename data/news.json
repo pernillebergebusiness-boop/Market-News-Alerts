@@ -1,5 +1,5 @@
 {
-"updated": 1792725317.9663281,
+"updated": 1792728040.9997435,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,12 +73,72 @@
 ],
 "items": [
 {
+"key": "4edc27053c9df488",
+"title": "Musk wants to merge SpaceX and Tesla: Here’s what to know",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZktKSXFWNkJOWHFXbGFBVnBMVV9yUXVYZ3VhclNHTjdIQV9WdkdsVFg3VVk3OC1EZHRycG80OVRmdkdHMVFNRFp6LWhzRmZPVVpCMlNGcG8tNGpzMENHZVBKQU91OU1oRmlLQnp1WXVad21qX0tGcHdNWHZaV09jaGpfM3lBYy1pQnc?oc=5",
+"source": "The Japan Times",
+"published": 1792726980.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "66680ec632ef5ebd",
+"title": "Tesla Builds Own FSD Maps, Starting With v15 [2026]",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB1RG5lRTFHb0luT0l6VFRfU0tlQ1NsQ1pVVDBVQTYwNGEyeDJyaldudmtvSFFLZFdCVDVoMVdUSVozcWRMdTVuVTQyMEd3a1I4elZnUTNWT21ldF9JYVc2ZDA4eDlPMnItS2plSEFQYi0?oc=5",
+"source": "https://tech-insider.org/",
+"published": 1792726625.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "e9441caf27dac074",
+"title": "I've Covered Tesla for Over a Decade. Here's Whether It's a Stock to Buy More Than 21% Below Its Record.",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMEtiMnc1dUpwWVg3WEVRdXBTWFRhMDl2T19fRUd2UmdRYmNuZmFNOUlVdWpXRXFsUFZZc05Idm5zRFJKdFY4SWtuZ3JlV1lnQmQ1blEtZGRGaDFXNWVhNFh3WDkzb3VqTTQwVUFOQXBkRl9ycFZOcDBzNTlJelhNdEpjanNINHc2UUpzaHA3X1VLOGJic0ZtaWd3?oc=5",
+"source": "Yahoo Finance",
+"published": 1792726440.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "e7a25cbe03fcaa94",
+"title": "I've Covered Tesla for Over a Decade. Here's Whether It's a Stock to Buy More Than 21% Below Its Record.",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVmROLTNBaUxCX2EyRnJmNHBURXMxcW1LUkF0aHhEd3NQa0pyVk5XeWJJNDVnejcwVkpEMHV5azBhaXVPOFJfSnFuVk9uOWhFNFNjazZiZGxqT0lYeWhFTU90V0k2WUhIMTFuN1RJNHNYbGdRd3pZWGFENzZZNWRLSmgwNWRhUTNiTERWWmgtblhZbW5NQmZhSERSM202S3g0VDRsTmFPWXZRRFFjeHdQZmMtY05xYmxIeTNUNkZ5YXJFYW1XZXhFakhKckhkRkE5djhjRjRPeERTUHhp?oc=5",
+"source": "The Motley Fool",
+"published": 1792725432.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
 "key": "33a0e144e0189269",
 "title": "Xbox was reportedly valued at up to $150 billion in private equity takeover talks, but Microsoft isn't interested",
 "summary": "",
 "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQNTRlNUFrX2JLT2FnVkJfSGtMZ2RUbmhORWc4eUJKLWV6OHBYaDlETElOaWlZWjVZTDU3Rm5NVGtwaExGVXctamZMcW5CNjRYdXBZSjZxNGh5OFM5d1luU1c0Q1N3Z2FQS096TGZCdUZYV3JQbXE3ZkNsVFQtZ29iMkVaU0VjR0NaZzRFZURZTEs0TEJGOXdkbmNYS2tLckZXSi16Q0ZGRlMzem1yNEU0eEpDQ2JMS0c5eUR2ZjFhNGc4STVTd1ZBc0RfT1dtUmNkNGkwSXR1WGdaQ0MwTDFDMi1LN1d2QjBsYjYxRm5Db0xKVVQ3UG5FcWFR?oc=5",
 "source": "TweakTown",
 "published": 1792724530.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "435e59fabbb10973",
+"title": "Microsoft’s AI diagnostic tool outperforms general physicians in complex cases, study finds",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZmtIeTZpLTRBVTkzamh6QjNheG9lcWxrOGtpd256RTVHMm5wdU1vR3VVNWZHVHppUkJ1Vk1rZ3cwWFJtekI4WnFzY0w2NkdWZVcyNC1PYmdva19uc0Z5TWhVTng5YTFnR3lJN0cxT3djOUhxMHluekFZQzFWTExjR0w1UGFydTRpNmJDZ3NCSkRNeW9Ic0dTby1UNnk4U0xSTmZzQVFJcVh4NnhUeWJWRXlTQ1p0b3Jhb0JJR3A1OWpMdkRKYTl6Zm1lZkltWFXSAdQBQVVfeXFMTTFpX05BRFNJYUxhVmhfRXB5bW1HYXk3NE85RGxIV3Z6ZXZrLUZETFEyNlJ6QWFZU280SjJ3WllGNzl0d0d1eWVKWUl0dDVqTlFmYWwxMFZfaW82aEh4WllIZjNUQlRHUDNrcTFUcXdKTm5XZHJ3Wmo3dG5ZUlJNWHNuRjlUd2NHejlnYldFSXFmTmV0dF9BNGo1b0FtdUpMcEY1YlF5bGhFTzlreGxQTGgxVzcxdmpuaEU3cUdMSVdPSlZycGVVOWZlOU9KUUd0bHQyWl8?oc=5",
+"source": "Firstpost",
+"published": 1792722530.0,
 "stocks": [
 "Microsoft (MSFT)"
 ],
@@ -129,6 +189,18 @@
 "published": 1792721735.0,
 "stocks": [
 "Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "39dce560215dda36",
+"title": "Meta reaches deal with Zuckerberg to keep CEO in California",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeWtwN1FhdW5UM2lkNHJRSmxSM1dXU3RKaHFtNXZhMEVQUFE3ZmhjbnJCRmFLaGZ1ZVJqcndlOVdEWkdwV255NHNRQ2lqaHdEOW5mdDZKNHZJUUVzZVhDUXp4V2ttSnRRdWtQdHQ5bUpJdV9LZ2szQzZTaTdhNlpPN3U1VU5wM3BnOFVlQVZGRDNNN1BORkhRbmpkaFI3bzhQOFI4UEd3?oc=5",
+"source": "Washington Times",
+"published": 1792721729.0,
+"stocks": [
+"Meta (META)"
 ],
 "keywords": []
 },
@@ -199,6 +271,18 @@
 "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOd2tGVTJlRkpHSHQyZlA2TUE0ZUhlMXJFdk55YllUblNZa3k4UXJDT0RhTldmYlhLRWNydUZ6Q3RLclZka3FGU1BkNmhza0xrVjJCS2J3Uy1FZWRaRWUxWkk5Wk5oWHF0X091R2ZPTmF1QmJwQlRQekdQZDZDRG5fOG9mQ2R0TWtNYjRlREJmczI5bTQ?oc=5",
 "source": "BASENOR",
 "published": 1792717704.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "35ac6e22b399072e",
+"title": "3 Hurdles Could Complicate a Tesla and SpaceX Merger, Says Ex-Tesla Director",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNY1hMTFBWSzdoU1JId0FVWS1iUnk5N25UajVNRk9QWWpCWFUxVTdPVVB4Q1REUlBNamp4YnhBYUtGMzdUbzhQYlhnTjl4ZjMyUWRBeVZkRjZMcmNXV2JWVEpETmtLR2t1ZmFGekRIVzA0Z2g4Q0h5OFczVHNVTnRoS3lvLXFJYW9aa3BaZGZWZjFHbXdvYlVhMG91SHlKUQ?oc=5",
+"source": "Yahoo Finance",
+"published": 1792717500.0,
 "stocks": [
 "Tesla (TSLA)"
 ],
@@ -355,6 +439,18 @@
 "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQUmZKc2s2Q3NRMjIwUFc0dEFPMWN1WF9NWV9jclBkeEJ4UlZlRFlXN0FrWV9vLW4wZEtKTUNPZXBsTTRUMG5ZUGszeTlHMlQxa2NOcGVOb1lxbS02aTR2ZGt5b1FCUVJRRXBPTjF4SVlTVjByd1dzM0JubDBXQ20tdmsySVQyd19KV2VDWGV2T3JkbTEwT3dyVlA3am5TUDdoczJ4VFpzNWJQZnF3blpZNmZvU2RiWmQ3TXk0TFVrWTlEbEtaQ1lFdkZtUWtPeFR1SUl0YThwdlVzbmQtYnZiV2xLdXFTSDhjaDk4VzR4ZUZCMlUyXzlqSW9valowQzBlUTRrM1F6cUc?oc=5",
 "source": "Stocktwits",
 "published": 1792715221.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "d8f759fbed46da85",
+"title": "Tesla crashes into 99 Ranch supermarket in South Bay, officials say",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQWlQOEsxU1dKSTZHa0tRbFkxNS1vT2NRUHk4Nm45YWlJNGs1U3kxNHlWcGhNekNHei1lV3JNR0VFbWhuOGtBSjdQVC1oN2ZkZmVKZC1OOTU2S1NrVWFRTy10aW4tY2pZMUlLdS1wR0ZIR1dxMDgzYlNXZi1KNHhiY1B6alF5NUVpb2NIcU1CNENEOHYwVXU1ODBCMW1Pb2tsc3lmZnhB0gGrAUFVX3lxTE11N0N0Z0RCbjJ3anFaZ25nOTV6bDIzNTJVaXhKVUlEbnFZNHpCbWN5aGI4aFZCTS1iMWFDS1lSQTdMVHNBdFpJbm5DRUVCUll3dTRuUEdpNHBZNDAtQXI3Und2VERYbk9QbWdyRTIzZ1hFWXo5YkxDZ21kWnJjLVhCZmp0ZnRKUW9tRlI3ZHdlSmlWWnl5VVNQYVBVbGVBWWJqRW5SU2JUa0g2Zw?oc=5",
+"source": "KRON4",
+"published": 1792714789.0,
 "stocks": [
 "Tesla (TSLA)"
 ],
@@ -4783,102 +4879,6 @@
 "published": 1792676857.0,
 "stocks": [
 "Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "60feaaa6ad556697",
-"title": "Tesla shares slip after capex cut raises doubts over Musk's AI and robotics push",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU2hUYVoxVEgxUmdpSW1qZ0ZlcTJnRUJPLVhjUS12cExoTDBZbFlfNHVmejZoVFhBZ3VxNTc1NThRVkZnVTNvVUJXYThLcTduSjlGVkVlX0xiTDhNSkNjN09lblZJeVZEWW9BZXRqS05PY2tBRUxzU3NaSFlxdDY2V1JGMHBpbFdzRlIwTlRXQ2twVHN5MEhIQjVIMXJQVzlzWHo5aFo2alM4X1hjSlBEcGVlZ0V3WHhrN2cybWxKTU5Edw?oc=5",
-"source": "Reuters",
-"published": 1792676853.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "648acc7322365fa7",
-"title": "Tesla iPad app finally gets a layout built for big screens",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONmozYUFUaEdTWDlpMmpTLXFBRWpoREYtTnY5bDg5bUt5ZHdkX1VhYVNMWURpT3FsOTZhQVE2RTZoU1RjQVhJRUVXOWJITjZENUNWRlE4SFNaNlVFcVhVRGhJTGRqOW1oWmpGVnZ4M0FaSndsbVJyY1M1MlNMUHRlSW9jQTBiTG1aaHdQWWFzeV9Db20yQ185R1ln?oc=5",
-"source": "Yahoo Autos",
-"published": 1792676722.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "20d802d93e95070d",
-"title": "Analysts Hike Tesla Price Targets; SpaceX Merger, AI 'In Full Control'",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNN2dUeU9DWnlUN1VlYVFYRDhrUkpIQWpwN0NFWmlzRExSc3haTHdkZkFyZHhyN2NBOWVBdGw4OV9VQkE0OER4Q2VaeWIxakN6M1dHSU9STGoyd01EZUJ4MDhpNnJKZFhGbDhwV2k1cFpjLThrVk8zbmpReEI3SnJ0NmQwY1VaaEt2ZVFPWUVoTHA?oc=5",
-"source": "Investor's Business Daily",
-"published": 1792676700.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "5c5d9d6819c091dd",
-"title": "AI stocks tumble and drag down markets worldwide as oil prices climb",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5lOEZFUkVGME1MZ19ZLVhKcU9YbFNPd2N2V28yRmRiS20ta01zZlhVUmNqMXNmemFxMlBtU2ZxdUQxV204WGVGTS1KRjN0bFI2OUJpd0JVSERMbFNjb25zdHY3S1VWMnBTbEUxV3I3WGZSa3dnMmZR?oc=5",
-"source": "Sun Sentinel",
-"published": 1792676642.0,
-"stocks": [],
-"keywords": [
-"oil prices"
-]
-},
-{
-"key": "1fd85f0671b77df3",
-"title": "AI stocks tumble and drag down markets worldwide as oil prices climb",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5HMmduV0sxdGN5bHZaX25sR2JWZ1kyRjljWGlMXy1UZ2dRZ0xzNl9VZ0RlQVUzV0RaRnh2Y3Rtd0dYdnlKNmJVTVY2YmJpLU5SUFRYeFJGNkxPZUVRNUIxazZaSDBLQ2FjdWZ2R1ZB?oc=5",
-"source": "The Morning Call",
-"published": 1792676641.0,
-"stocks": [],
-"keywords": [
-"oil prices"
-]
-},
-{
-"key": "b5c6daf44221f37b",
-"title": "AI stocks tumble and drag down markets worldwide as oil prices climb",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ES05jQ1hDY1NCVnk0VXhfVnhLY3VnVjZkSmJSdXk1UnhZNmhtU0NnRUVCSXFSN2FJdVY0bnlXbzF3b01fczlneEFuLWVwNXJaTmE3S3J4ZXdFSThoX0ZUem9LSF9nSG5ZdzFGQnc3WHB6UE5Nbl84?oc=5",
-"source": "Boston Herald",
-"published": 1792676629.0,
-"stocks": [],
-"keywords": [
-"oil prices"
-]
-},
-{
-"key": "304fae98063b79f3",
-"title": "AI stocks tumble and drag down markets worldwide as oil prices climb",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzdXBOVW5kLWQzSWsyVXpKSDJaWGJrVEp6dFpvdHQ3REFkRm1KUkVFd2ZrajM4Qk5qa2F2YkF2bEYzbmJtdWhua2otRFZaMnNnbTE1N2FyUW9IclMzSzVKQmlSdXVfZDdFS3dIazhZVkhPbEplbmFnYw?oc=5",
-"source": "The Citizens' Voice",
-"published": 1792676625.0,
-"stocks": [],
-"keywords": [
-"oil prices"
-]
-},
-{
-"key": "5f520a5980c56704",
-"title": "Danmark kjøper langtrekkende JSM-missiler fra Kongsberg",
-"summary": "Det dreier seg om Joint Strike Missile (JSM) fra den norske våpengiganten Kongsberg Gruppen. Missilene kan både skytes fra F-35-fly og fra bakken. I tillegg kjøper danskene Anthem-kryssermissiler fra det amerikanske selskapet Coventant, opp",
-"link": "https://www.nrk.no/nyheter/danmark-kjoper-langtrekkende-jsm-missiler-fra-kongsberg-1.18062069",
-"source": "NRK siste",
-"published": 1792676605.0,
-"stocks": [
-"Kongsberg Gruppen (KOG)"
 ],
 "keywords": []
 }

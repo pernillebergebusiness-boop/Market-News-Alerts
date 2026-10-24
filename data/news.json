@@ -1,5 +1,5 @@
 {
-"updated": 1792820386.6482668,
+"updated": 1792822063.9327285,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -72,6 +72,30 @@
 "Yahoo Finance: HTTPError"
 ],
 "items": [
+{
+"key": "0582695d234a8354",
+"title": "People are buying FSD and getting a Tesla thrown in with it. FSD is becoming the main attraction, and the car is almost the bonus. The numbers speak for themselves. Tesla has 1.74 million active FSD subscriptions, up 67% in a year. People used to choose a",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ha3AxUHl5THNmemlYOGNtRnBNTy12T0phYlktaW05VHBXM1lORUtYMWU0SXB4czR0R3FpenBqY2hHYWxYR3ZJWndzZVNKZlJ6MENYM0NkV2JobVFVb1B5VUVjWTB2cmpPdVVLNQ?oc=5",
+"source": "X",
+"published": 1792821601.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "1d820a0b4a78704d",
+"title": "Windows 11’s Xbox mode needed a keyboard just to get back to the desktop, now Microsoft is fixing it",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMXAyR3c0RjkxRklBZllJTkdNeWJ2V2ZhMFgyUE5PUjdlWHVtTXlybVFFWjgtOEtHWk0zZjVrSVlEZ280bGRjNXhwTHpTNXhkSWgzNjF1RG9qNkhrLUhLS2s1eURRSFo4NDM4QTMtcFpqM1BhQjdqU1VFY1VpYmRRY1A1Z05kQm9od3kyeE5UY01BNjF0ckNJZGUyRXg3Tjdtc0RvaW9rOW1OYjVIamdJSERkTVp2Rk9CRWdwMk5wT09NSl9oSTN1M3JtN0Y4VHAyek1iOWZfZw?oc=5",
+"source": "Windows Latest",
+"published": 1792819550.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
 {
 "key": "f351b1736704c459",
 "title": "Equinor ASA (NYSE:EQNR) Stock Gets Downgrade from Wall Street Zen",
@@ -229,6 +253,18 @@
 "keywords": []
 },
 {
+"key": "b10a23e7bf142d3f",
+"title": "Tesla’s flying Roadster reveals a fighter jet interface with 5,500 PSI thrusters",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeHFsYUVsQjJ0SEJyXzVNMGlQSldnRDNBMVVwMnFiRlJ6V1JIaUk0Q1RIcTJsZmo5YnJ3d1pBa2Fua3N5YlJiV3hBdmgxS1F1TFQzbUlHRmhoOE51RGVzajRrOHNWQ3VVdk5kT2poTWF1Mk5LbTBYYi1jYVFNcExycU5rMUdCUThFOVowS0xNYlM3X0RuOGxJSkc5WWhRVTg?oc=5",
+"source": "Interesting Engineering",
+"published": 1792813140.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
 "key": "b470f654068b3860",
 "title": "Tesla's flying Roadster gets fighter jet graphics, thruster data",
 "summary": "",
@@ -273,6 +309,18 @@
 "published": 1792810726.0,
 "stocks": [
 "Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "c73dacc222d579ad",
+"title": "Elon Musk Debuts New Tesla Roadster: ‘Flying Cars Are Real’",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBuQTJsQnB0c0Z6dHo0b0wwbDVQSV9OOWpuRFBzSEU3eVByR3gtaVdveTJzZXIzcEJHZ3hYcm1oV1h5NE9zNDg4d0duQW1qRnQ0Tnc?oc=5",
+"source": "IMDb",
+"published": 1792809010.0,
+"stocks": [
+"Tesla (TSLA)"
 ],
 "keywords": []
 },
@@ -4841,54 +4889,6 @@
 "published": 1792755912.0,
 "stocks": [
 "Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "5061067c19b5deda",
-"title": "Microsoft 365 accounts compromised at 79 organizations without a single guessed password",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaGJjN1JzMEVORzRiSjhxRUtFVDBPS3pfRWNRV0JnZkVGNi1RRkp4TXgyQTNyckw0N1laZkhXbURoRW5qVGNlYXh1blJhY3YyS0U3eTFZWHctZFNWMndBcVhMbjN1RW5WVXhfNWx6dVRHX0lDYzVENzVBNC1PYjQ1Wm8tSU03QUtNdFE?oc=5",
-"source": "Help Net Security",
-"published": 1792755912.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "01015a0062e26e99",
-"title": "AI Selloff, Stock Market, Tech Stocks, Moderna Hit | October 23 Barron’s Daily",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOGlvV050ZVRGQnBFS0YtbDVGTFpZME5zOWdzMEZ6cnNyS29ETEFlQ28zSXVSczc4WFJhN2NiaE9WZ1lrN1dfeHBBNHRsUC1zaDBmWTNXV24tUzJNNkhkZ09EZTUxczlzT2h3Q2ZidE5JbzNBTF94ZkdnUHhKMFFKcw?oc=5",
-"source": "Barron's",
-"published": 1792755660.0,
-"stocks": [],
-"keywords": [
-"selloff"
-]
-},
-{
-"key": "182c2e8c29749b61",
-"title": "Buy, Sell, or Hold: How to Play Meta Platforms Stock After Its Q3 Earnings Beat",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNb3BSbEJKZ3ZoRHcwbURvdW96Sm1iS3I5WXNSOWRTdHZJaC1GVWJYaVpuWHVUVVdwbGE3QlVrdlg3VGFrS0tpX05PM3FDVzFpX1FBcnJGT1dmZmxJQ2V6NTV6Uklsci02dFlvNFl1cUVjeDNmNTFjMFJqdEpBcFlPX3otemVOcVlQckNDT2pfZ2lCODZlQnQyWENyZThHQ3RMcmV3Wnh2ZTREeEJhS3R6a045b20xUXByZlpFTg?oc=5",
-"source": "Barchart.com",
-"published": 1792755612.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "f88a89cb8db57e0e",
-"title": "Tesla Gives Up On Cybertruck In Australia. Company Says It Will Refund All Deposits It Has Collected Since 2019 For The Troubled Truck",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNWllGck5oYWdyWVkzbWMtSVI5Z0JEVlBlbWQxSW5PQ1hVenRwcnpCY2Fob0dXSGcyX1o0YUI2U293b25JUDlQdjF2WDdJcjdmeVFHdE15SGRjQl9FSTZUZl9BSy1RRnFGcl9Yb0d2bFd5SGRfRTJIWEg4N1VZT1BxWnllMHNyMndfNEYyaTRxV1ROc0VUY0w1eEVLTmcyRFcxcXoxY3RnaTRTQ0xacmRQOEU3M25MM2ZlaTE4UnJRdTVVMHFDYWk5ajY3U0VnYnhiWVZ0YnhTcmpDbXJRZlFqS05zY3VZZ3FvS1dMMU5VTWt1c1ZDY3NxZkdqLXNfUm83RGVaenBpZTM?oc=5",
-"source": "24/7 Wall St.",
-"published": 1792755600.0,
-"stocks": [
-"Tesla (TSLA)"
 ],
 "keywords": []
 }

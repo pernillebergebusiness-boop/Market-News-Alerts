@@ -1,5 +1,5 @@
 {
-"updated": 1792815081.2843134,
+"updated": 1792816849.147631,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -72,6 +72,42 @@
 "Yahoo Finance: HTTPError"
 ],
 "items": [
+{
+"key": "5a301de30380b89f",
+"title": "Vallejo: Man Killed By Tesla In 'Full Self-Driving' Mode Is Identified",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ0tuY0tIUVJYMW9pTldxa05sYS1ic09zTlZ1NXl4bVpPUTZXeDJHYzdFaDl0RVI5cEhSQkR6TWVYZl9pUWRQSzU3VUJWd0VEN0FTaHFFcWMzUkw3UURSaDFDSEZFbWRiQ2VOblZ1UVBmS1ZxUTg0UlpzTUpEdnlkWkR0Xy1NRmRIOFMwLUZDLWFMMzl1RHp3?oc=5",
+"source": "SFGATE",
+"published": 1792816615.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "fb66378912702f7c",
+"title": "Musk Calls SpaceX-Tesla Merger a “Good Idea”—But Shareholder Vote, Antitrust Review and Politics Stand in the Way",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQWg4MjBISGEyZFFSUkNfVUNNWkV0enB3NmtYbUc5aTFYQ28tVmFqYnZpTmlSOFV5Qzh6YWZJc1lFVHpZNmxnVEkxR3F6ZlFlWUMwQy1mWkVZMjJHSm90bnpoQTJYMFh3WXE4Sm1zVUJ4S243ZTFuVHRIYmZSU0czV2JRdktVa3ZiX3NkcWxNLUt4LTNvS3RkT21zVWpGaGVnZWktQU0xaVZZd3NlSHB3WEE4bFFxSUVDX09XUVctbFNhb0twNVNOR3ctMFFFeE1KdkR3bG81VUVDRk0?oc=5",
+"source": "NAI500",
+"published": 1792815019.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "82249252893e54ae",
+"title": "NVIDIA B300 China Telecom: 32 GPUs Spotted [2026]",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5TMGVIaTZWdkhvdVE4Q0RZTEk3cnZZblFMWFhVTmQ4OXZSam53YWpCdVk5YUNMTU1GUlZGVWQwVjJpOUNNdjc2VUlWRnd6enRsbUZaWENqN2FFeWQ1U1U4NFNfYWlTQ0lnQjhTcDE0Rk5RanhhM1VrR1g1U0M?oc=5",
+"source": "https://tech-insider.org/",
+"published": 1792814887.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
 {
 "key": "33f44ff81e01e6c2",
 "title": "NVIDIA B300 China Telecom: 32 GPUs Spotted [2026]",
@@ -217,6 +253,18 @@
 "keywords": []
 },
 {
+"key": "a9a97a675a284167",
+"title": "QCentroid Unveils “Missions” on NVIDIA CUDA-Q to Benchmark Classical, Quantum-Inspired, and QPU Workloads",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQb21UWkhjcDFVR2FXNFc5Q1diRDVpaUJNMm5TLUszNGhJNTJnQkw3RS1SWVZQS0I3WmhfZEhsTlQ0a0pQQmdDQVB6UUVVZWZnRkpvZGh6Rldzd2dxVFNuWWFjOVRHQnpidlhDSmgyRF9JLWZaSHhtc1haTEtjN21zbnZ4QjlFYXNJVUMybVJIdG9GOVB0MUFtQllZNTEzQ3lWQ3VDRTZSSEN6ajZ5Qkx6WTJCa2d5Y05mRzJGVjN4QVRRUWZkMlJpRU03QUpmMWFDcEZQVzB1ZWjSAdgBQVVfeXFMUG9tVFpIY3AxVUdhVzRXOUNXYkQ1aWlCTTJuUy1LMzRoSTUyZ0JMN0UtUllWUEtCN1poX2RIbE5UNGtKUEJnQ0FQelFFVWVmZ0ZKb2RoekZXc3dncVRTbllhYzlUR0J6YnZYQ0poMkRfSS1mWkh4bXNYWkxLYzdtc252eEI5RWFzSVVDMm1SSHRvRjlQdDFBbUJZWTUxM0N5VkN1Q0U2UkhDemo2eUJMelkyQmtneWNOZkcyRlYzeEFUUVFmZDJSaUVNN0FKZjFhQ3BGUFcwdWVo?oc=5",
+"source": "Quantum Computing Report",
+"published": 1792805274.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
 "key": "3f19db6855a1e662",
 "title": "Huang Backs Kazakhstan’s AI Plans as NVIDIA Expands Partnerships",
 "summary": "",
@@ -324,6 +372,19 @@
 "published": 1792800433.0,
 "stocks": [
 "Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "6ef653060c147884",
+"title": "Elon Musk Eyes SpaceX-Tesla Merger, Huang Pitches ‘Financeable’ Chips, Zuckerberg Wants More Compute: Mag 7 Voices This Week",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNNmxQaThZUEJBRXM3aGRfZ01Wa1JtdU5qaDRVRGpORG5saVFCWmxsdEdSWFBSd3o4MUdib3FDbWw2RzB3eF9uTVlGV0w0UFlBNFYyWTBZcllIcWlGbmVGZVZIS1hMbU1PcEt2dFR4alNvdllGWndQR1dJN0FnbEFUS21zcFpSWmN0VllfMmFlUTJVLWttZk1QZlhQdi1uN1ZTemg3M3U4MWZRdUtuOEFzdlcxLWNuZVc3TUwwTlB5bGlrMlZFbEY1V3ZLcnNtaEh5V3Q5Z1RhQ0syVlFMcy1DV3hWYktaRVV6THVJcko0MFVPUW5peVc1ekp2cE9QUk5LQnhMTnJNTk04Y00?oc=5",
+"source": "TradingView",
+"published": 1792800420.0,
+"stocks": [
+"Meta (META)",
+"Tesla (TSLA)"
 ],
 "keywords": []
 },
@@ -4830,66 +4891,6 @@
 "Tesla (TSLA)"
 ],
 "keywords": []
-},
-{
-"key": "6fca3d4fdf2edd38",
-"title": "Tesla Says It Will No Longer Release The Cybertruck In Australia And New Zealand",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOR21GdUNJTWxBNDRiTFhHSTlmT2ZHZU5sdkZFVXI0M2xDZFI4bFIxREh2VmRicWVqTjdnaDl5SGlZbHlYNWpGeXdqb0VrM1lvY0g0a2ozWFRkc3E2TTFtWkdyZ1R5UjJOcGhPNFcxODF0eDFFSHRoT2tydk5YNEF2SnIyRmNCU05lc0tqcDd1Q0NFYzI4REJ3cjd0dnk?oc=5",
-"source": "Engadget",
-"published": 1792754764.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "b7ee6fee536cc8ad",
-"title": "Tesla Q3 2026 energy storage revenues fall despite second-highest quarterly deployments",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQb2s2NktlSVRrSHVLc3FqRFRFSDJIdVg0TXJUZU9HdFgzR0xzOUpKRWJPWHB4QTlWRkFuMGVMNU1pSDROanJQVDB3emFTdkFYaTIyZWxfVGJYaUVRM3N1QjR2ejlxbk81N3cyTl94NGxCRmlKSlZpWkwzN3IwMTdRRW9STWt2UzlOVXREQW1pQWoyNFpYQzZ1dUhhV3kxZFNCREVMUXRubmhhdnU2SGdpeFVGaE8zWlpkeFVTVg?oc=5",
-"source": "Energy-Storage.News",
-"published": 1792754717.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "c462f38e6fe1698a",
-"title": "Bitcoin's volatility is well above euro-dollar gyrations, though it has calmed to rival Nvidia's",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRkhNMW01RS1OdmJZQUlSRkZtQzFnZEIwR1cyekJlYXhZelFxZERsNkd5cVVqVGUzVGdscThsUEZDNXVOSXItbmhMU3RNa3k1MjdrTHZuempTdEZkVWtwZU9JaEhWZDFzX1dYYmlENDIyczdjOUZ0b0ZJd3V3QVdIbnZrZXNQdjRVaTJHNTF4MEYyVU9wWkRRNnNtSXVPcExsZ2lwcUJfcFJfZFltRVEwRVA0bl94MnViR2Fiamd2cHNFMWRsVWNod3RlbW9URjdBaGdQdDBXRVRjUQ?oc=5",
-"source": "CoinDesk",
-"published": 1792754553.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "5c19da88b0bd7827",
-"title": "Microsoft says Chinese hackers used AI agents to attack hundreds of organisations worldwide",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSm83UkVBb0c2QzctM1FHVVczNDJXVmNIZGxEWW5yVElwZ204T2s5eXFRUDhQS0JrV2NKYzJwTW5PRVpkTzNlRTNVYmQzWGF0VExsR2VCREdkWTJ4NW52TWlzRk5uWUc1bWZWRWdRa3dDZzhBQzh3NGFaUjFoT0tRUHRJWjBfU1BoYlZVQmd3OVNLOXhRV0VaWmM1MmJnbVhNRE5ubEhPOUg0UjlSbGhCR3ozUFJaSkxsbGRhNWxDTWd2ZFFmZ2c?oc=5",
-"source": "The Indian Panorama",
-"published": 1792754340.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "e0188cc54b4d47f0",
-"title": "Watch Q&A: Indonesia’s Stock Market Selloff",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMk9oaDVERFpBdUZ3a1pVUzduNmZWcVJCbHRNbWt5Umd1akVoV3FSZkpNSDJMY2JocU9NLVgtWjNHd2NNYWd0c2dDR1RmdDZlWjVfZWRWbXZ3RmpnVVZCWXFRQXpWVDMyM2pORnhXOWlwZDZRc1oySmdSRTlXZGFXOEI4Q1ZSWTN0U3JRcHVOUWFhLXI3Q2c?oc=5",
-"source": "Bloomberg.com",
-"published": 1792754178.0,
-"stocks": [],
-"keywords": [
-"selloff"
-]
 }
 ]
 }

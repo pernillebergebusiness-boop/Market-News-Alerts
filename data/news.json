@@ -1,5 +1,5 @@
 {
-"updated": 1792813186.8456178,
+"updated": 1792815081.2843134,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -72,6 +72,54 @@
 "Yahoo Finance: HTTPError"
 ],
 "items": [
+{
+"key": "33f44ff81e01e6c2",
+"title": "NVIDIA B300 China Telecom: 32 GPUs Spotted [2026]",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5TMGVIaTZWdkhvdVE4Q0RZTEk3cnZZblFMWFhVTmQ4OXZSam53YWpCdVk5YUNMTU1GUlZGVWQwVjJpOUNNdjc2VUlWRnd6enRsbUZaWENqN2FFeWQ1U1U4NFNfYWlTQ0lnQjhTcDE0Rk5RanhhM1VrR1g1U0M?oc=5",
+"source": "tech-insider.org",
+"published": 1792814887.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "edef42601f23f74e",
+"title": "TSMC or Nvidia: If I Could Only Own 1 for the Next 5 Years, It Would Be This 1.",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYTRfalhnWXlGTDVmTnI5MzN0ZGVseU9IYThCWS1GVldzUzJaTGZZNnFPZ3JJQWpISFctR1IxSTVLQ1N1aHNVLUc3a2pRNEd3TFVDekkwY25jekxBU1ZpbjJwTWxyOUtGVlFOWGNlVnRQczdSWkZXaVJQVXRvVU94S19EZTJnVUlnRXVHTTBodTM1T01ES1dB?oc=5",
+"source": "The Motley Fool",
+"published": 1792814825.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "34c73bfc98059862",
+"title": "Nvidia RTX 3090 performance nearly doubles with free GPU unlock, but there's a catch",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbkJJSkNlNzc3bnl5akhmYmFqMXpGTUx6WXczNW9YNGFlRzJFVk5kc3hiU256RVJ2V0xaZ0s2RVY2a3hvSjF1VzJoM0JuVmpDdlFOUndqRXZZbnJtWDIwZHU0WUVnRnI3a3VOQWhpLXlPYTFVaWhCZlRMOFItSHJuVGUwU01tajB3bEVuY2t3NURSVXhVNk1iQUtjaHNjQURMVmk1SkRSclFtRjM2Sldqa0pIRFptMXNjR04taVRLeVZwRjAzMTVB?oc=5",
+"source": "Notebookcheck",
+"published": 1792814460.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "b470f654068b3860",
+"title": "Tesla's flying Roadster gets fighter jet graphics, thruster data",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeHFsYUVsQjJ0SEJyXzVNMGlQSldnRDNBMVVwMnFiRlJ6V1JIaUk0Q1RIcTJsZmo5YnJ3d1pBa2Fua3N5YlJiV3hBdmgxS1F1TFQzbUlHRmhoOE51RGVzajRrOHNWQ3VVdk5kT2poTWF1Mk5LbTBYYi1jYVFNcExycU5rMUdCUThFOVowS0xNYlM3X0RuOGxJSkc5WWhRVTg?oc=5",
+"source": "Interesting Engineering",
+"published": 1792813140.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
 {
 "key": "382120b488e1fe33",
 "title": "Tesla Hosting Electric Summon Halloween Events Across North America This Weekend",
@@ -505,6 +553,18 @@
 "published": 1792793901.0,
 "stocks": [
 "Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "6c9293fde78b13e8",
+"title": "Fort Bend offers Tesla tax breaks for $10B solar plant that could bring nearly 10,000 jobs",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZjdpbk9GUjVwOWJtb0V3U1RjZklOeHh0M2JQWVlSdU1DQmszNDB3OXVNOVd0RGNSQTI0TmNYZ0tZT3ByaHR0VldrZDhzc0lZOHFKUWpZZTNiWVZ1TV9FWUY2NGdGeGptekQ3cDB0SmlsY1Z3LXhSU2pyS0tDUmJlbEZHV2dKd21VLXY4T3dPNFQxRDJYYWc?oc=5",
+"source": "Yahoo Finance",
+"published": 1792793507.0,
+"stocks": [
+"Tesla (TSLA)"
 ],
 "keywords": []
 },
@@ -4830,66 +4890,6 @@
 "keywords": [
 "selloff"
 ]
-},
-{
-"key": "4fb1bf7cd1857ee2",
-"title": "Microsoft Has a $1 Trillion Opportunity Hiding in Plain Sight",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaThXVVY1SnNEUmdxX3l1bkk2elRnZFB5aXpLRDI3YTlmSExtYmJjQ25oem1KV3ZXUEVXdkpiWVdiQnZpT1M1dzdNV2lra1pNdHlqeFlqazU1UkZRRXI1c2s5SzZpd2dtZGlXMTRRQWNnaEkzNkFRUVM1clljRzZuLUZ1QjVqWTl1UktIRnM2OXRBTF9hZ1Zkb3NYeUVwSnRRV21aczZTTQ?oc=5",
-"source": "Yahoo Finance",
-"published": 1792754152.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "c86aa58e1ac7ac6d",
-"title": "Microsoft Has a $1 Trillion Opportunity Hiding in Plain Sight",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeEdQaXlvWVZaVkJmR3N0YldhMTBwLVk3TjZuTkZUWk85bmlvX2h0dkk0bmV4TDA3WVpoRV9CR3dER09YUmdoeUV1NXhXRVkyZTg2SGNnSklXT1Q1aFdVVTAtLVpZeXRIUktqb01NUlRtU05GVExia2JxU0t5a2lRMnBjc1VXSzZpaDdDcGw3dHJYLUJrWm1VZ3FpUF9FUGszVmdNbE5xMA?oc=5",
-"source": "24/7 Wall St.",
-"published": 1792754100.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "8b7168a3046f1e15",
-"title": "Unreal Engine 5.8 Adds Microsoft Advanced Shader Delivery Support, Potentially Addressing One Of UE5’s Biggest PC Gaming Problems: Shader Compilation Stutter",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNM1lFbDh6SEtrVlVfVmw2cHZ6ejFZOWpHWlA5b29HczVxb2hNRTBaN2pSbWVzOGgzbWJtd1NsMzhJcUxzbzNvUFRpSjF2SGl3V3pSdmpDVlh4ZkpHekNja1ktdFN0Z21NMXNxcTFVNVBGblZDeGZOV0h4WTdfQjZWT1lvaTZ2QUk0aFdWVDMxUXFKVEVNdTVhcjhOM1FzNWxUMHpzU3ZuRVphOUU5MFEteUltNGMzQTJXeVQ4VG10aS1nM2U1dVJjS1JTNlc0MGZ3cWZEQm9ScW1OV0lEX1k2Um5HVUk3TzNVeE1DLVFNSG9Pb3Jmd2dhdW1sODRFU0xvcU11ZGhhOXBpcF9O0gGMAkFVX3lxTE0zWUVsOHpIS2tWVV9WbDZwdnp6MVk5akdaUDlvb0dzNXFvaE1FMFo3alJtZXM4aDNtYm13U2wzOElxTHNvM29QVGlKMXZIaXdXelJ2akNWWHhmSkd6Q2NrWS10U3RnbU0xc3FxMVU1UEZuVkN4Zk5XSHhZN19CNlZPWW9pNnZBSTRoV1ZUMzFRcUpURU11NWFyOE4zUXM1bFQwenNTdm5FWmE5RTkwUS15SW00YzNBMld5VDhUbXRpLWczZTV1UmNLUlM2VzQwZndxZkRCb1JxbU5XSURfWTZSbkdVSTdPM1V4TUMtUU1Ib09vcmZ3Z2F1bWw4NEVTTG9xTXVkaGE5cGlwX04?oc=5",
-"source": "Wccftech",
-"published": 1792753980.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "9ab989453538abf5",
-"title": "Apple Inc Estimates – NASDAQ:AAPL",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1XYk5aZlh2QURIOGRScGtHT2JwUjNIRHdoUFIxaEFrbVpPWTdkbFJMREpXeEFKMlVaYXoxRElMaGZTc0RiU2VfMk9peDBSZWVwYl8yVzBlVzJQM2h0VjBhQTN1SzNDeUpQaXBTMVFCRjJMU1BiMHE4dA?oc=5",
-"source": "TradingView",
-"published": 1792753903.0,
-"stocks": [
-"Apple (AAPL)"
-],
-"keywords": []
-},
-{
-"key": "089438505b09f2b9",
-"title": "Meta Platforms, Inc. Estimates – NASDAQ:META",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA1bWoxVllCaUJ1UWRtZlEySlBURzNrWmx0dkpLNUlULTJ4LXNEeFpBSDVMQno2bkRrR0pWbWg0TktUTDA4WWtGWktZbDFXUWV5blgwT2ozcDFqY21sMURPRzlxc1pIU3JGNWgxTHJpWWlORzBQRjZSRQ?oc=5",
-"source": "TradingView",
-"published": 1792753829.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
 }
 ]
 }

@@ -1,5 +1,5 @@
 {
-"updated": 1792809511.3325515,
+"updated": 1792811410.7229655,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,6 +73,30 @@
 ],
 "items": [
 {
+"key": "44e9287ec8df9068",
+"title": "Microsoft was using Windows 11’s speed test to push Bing, now it’s quietly backing down",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWGQyMV9pbVVqQWlXMVQ0VWdMUXpfQm9RQ2E2VXhNYzZTd19yYlhJXzNPNzZ2cXBOU0NsaW9waTFUSFFYNEtTWmJpcXhIdGdBZ3l4SGlmWkwzTElMSEZZV3ZwSVE5SjlhTHZ1S19yZVRnZU56YTAyckRwWWZ2OXpXcnl2NFVLb1V2S3JIaXhHNVRBSjVLU3JDdXEtRmVUMzkyZjdOUGFVYnd6OE94TXJyT0lXZkRfVmtFQXJGcFFaeFE3d3pM?oc=5",
+"source": "Windows Latest",
+"published": 1792810802.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "54f7c4ef3c74f144",
+"title": "Nvidia, TCV Back Higgsfield in AI Video Push",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcWI0VXRHY1VxWTRiajlHZHkwRkxFcnVFS1BMYXBwck5mdWxQR0lxcHliTUk3aElSYnRlRVBKMGkzUEJzQVo3SC0yd2hCMktSZWJWc2lRemhYR1pSbHVJQlBtQ3VLYXdkd0xDblNvMVJVallka2ppVUsyN3k2WUU5M203bUVscHpMb3JGbUsxblFnUQ?oc=5",
+"source": "Briefs Finance",
+"published": 1792810726.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
 "key": "bc4653b7adc74e68",
 "title": "Microsoft Teams Adds AI Phishing Detection for External Chats Starting in Early November",
 "summary": "",
@@ -115,6 +139,18 @@
 "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRjVncjA1eW9IU29ROHZxSjdfeFV3MnZpY2tHQng3RzdFM3FmMndqcGhlSmlSYlNVSVFlakJPN0h5NFVnYV9aQkU2NG1paG5IV1ktU1RzQWppVU1vcHNSNlVHVlgzcWRNMmJoWDVzWjcySG9kWUJaSmdsbjg3ZFhEUXhwZ1lCUzA?oc=5",
 "source": "shattered.io",
 "published": 1792806304.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "14d099d0ffd17874",
+"title": "Elon Musk Says Tesla Cars' Value Lies in FSD Service: 'People Are Buying FSD With a Car Attached, Not the Other Way Around'",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPT2pPQjVyNzBvbFk4OEFMTFdLaHRfU09PMzBtQnNHN0ZwOGdRTG1NdTRob05vQU1pSzhhelVLUmZKU2l6T2E2VWVLWkpuaWxoakRIVmJUeGo4TmNMRDh0TWFNSHNJNGNZZ0VIendReHZFRllZN3V3bktRVEs5YVdwVDJob0tLMkRCOXZlYldrcw?oc=5",
+"source": "Yahoo Finance",
+"published": 1792805400.0,
 "stocks": [
 "Tesla (TSLA)"
 ],
@@ -178,6 +214,18 @@
 "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUEhwMnpILXIyRTJHOW5qZXhYT3RIU1NVdUZ0YzEwaVJWMEFmdGpXVVpsdUY4UEVSUHl1TUhMaUdIVWJrVTFFMy04ODRUUzR0b1dFZFhXdWxVdWhXam85NlY5X1VkblVCNXJILWJ6MC1xQ09Ld29aTVhueXZLNFdHZ1FKMFBiX0RUR2tCUDgzelhYemFwYzBuQnZVdTJsUnQ2WXZTSTRDWEpPbjN3QVZzMTZpZi1uVUdGMHc?oc=5",
 "source": "Gasgoo",
 "published": 1792802920.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "04895333b67d1264",
+"title": "Arizona surgeon busted boarding Miami cruise ship with luggage full of 'Tesla' ecstasy, shrooms: Border Patrol",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZFFBLWVNNXAtZE8yM0NPZFRiMlV4WUpkVUV0eHl3X0t5RVVDbXctOUlQNVhQSWpJYURTeFh5bXUxa2ZOS3JWODZPanVwMklCd3FZX2NfOWlsT3lnWjdXRzc3a3dYSF9mYTVJb2U1WVpEczVwQ3RmRlFDSW9VaWM4bjladkpJM0EwYzdZQzRrSmw2dm5sQTZpcjdmdlNubmd3MUNYZU5YaFVkUktyR1BrRmpjX3VMRzZyYVdCY1dDOUZhTjJpMDYyNmNmbGg?oc=5",
+"source": "FOX 10 Phoenix",
+"published": 1792801915.0,
 "stocks": [
 "Tesla (TSLA)"
 ],
@@ -461,6 +509,18 @@
 "keywords": []
 },
 {
+"key": "9e47fd8c08054e60",
+"title": "Tesla Roadster UI Revealed: 6 Details That Matter - BASENOR",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOWVZaVlBeDVXbGR4TGNBdk1uODBobWR3VjhYajVCME9lU25wTE9jRlZuNFlLVElaQUxGMG9zQXVZU3l3dmtFUHpTRzZWazFRbXJ1OVVXOEVHSzdGR1lfUVNPUjRWTmEwWFBsei1Tc01QUUYwVU9FN3ZUNi1vNExrVXlSMlc2aXQtdDIw?oc=5",
+"source": "Tesla Accessories",
+"published": 1792793189.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
 "key": "5238b4bbb644a572",
 "title": "Tesla Roadster UI Revealed: 6 Details That Matter",
 "summary": "",
@@ -563,6 +623,18 @@
 "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMGk3RmZfZGtNcGZlRmM5VXljeVZXTnlraHBkdlJGVG15Rzdlbk9lYm9obEJIY0RySXRDRTU4U0FuZkxYaVUweW1VRU1SS2M5aUVydFR5Ykd0aTdndmVPWHNIb3dTb19VeVVnekRLQjhtU2dORHhzcGtQV1N2U1dERE9TeF9Oa1lCenJjMGJ2YnhqQjBvMVlRVWtEY01ndXZaeVptRXdEaTFhS0l1YUZKd3R0VjNoWXFGZUo5SkZaVzkwZw?oc=5",
 "source": "The Motley Fool",
 "published": 1792791597.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "84048df68dc0061a",
+"title": "BMW iX5 First Drive, GM's Big Tech Plans, And Tesla Cybercab Deliveries Are Coming Soon",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOGtmU0tDR1lJY1IwelM2enZUcERaN2dZVXd1Zk8tbVY4dEI4aW5mVmxGLUt6R1c3WVJCNjUzSUVJMjA1eTdrZlRQUkhNR2x2NENyMWRFR3hSczE4WHdMUnBoNk1nVlloWG1FZWJXWVRpU2FSRlJWMnRtYWd4X1d6bzcwaWtMV1NEbnRZa0tQOWp5YzNo?oc=5",
+"source": "Yahoo Autos",
+"published": 1792791568.0,
 "stocks": [
 "Tesla (TSLA)"
 ],
@@ -4815,78 +4887,6 @@
 "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVkJjcjhkc01sV0RFdHFxeVhzUU1DTjdyTUNoeWU0RjBPbWwtZWxOczlySW1fMFNMemJiSmdvVHRSUXlLcVNKSE9xQnd6eFcyYl9QY0s5c1dhT0R1eVRodW00ajhwR1ViYlpseGtySzFrN0w4enowM0Q3YllGTnJBaExhNjBHVVN2?oc=5",
 "source": "Barron's",
 "published": 1792753560.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "8fceb48d7125b95c",
-"title": "Two Critical Nvidia Stock Flaws and Other Reasons This Analyst Says Sell",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5SVktBZjJfVEV6cG1KNTRURUZ5MUNuSmFSeW5aeldtcWg4LWNkZC05TVVmRmhZYzhSWnNtbG81Vkt0ellCTWZ3dGRYMGptZ0xfZGdCTU8xY3lmR2tjNE80NE5MZ0l1R3M5M0xHV0k2THFIYk13QXlRRU5hSFdzZw?oc=5",
-"source": "Barron's",
-"published": 1792753560.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "66364bc92edb240a",
-"title": "State Street SPDR Portfolio S&P 500 ETF (SPYM) Adds NVIDIA and Apple on Wednesday",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVUVacGdjYWV0VEJzSUFSRi1tNzlwVW94ZzNDUlJRZFZnZFNWUzh3Q2VONFFmbnpSazk0cnVIdkZFM0xTc0pGeUU5ZXJfNFhydnVUUVdiTEpCWXpKV2Jja3Q3OEVpNThtd2ZxR1gzT0RlaUhJWEtTT00wRUg0NzdSRm45U29xVFRkbjNPZXR1OW1nU04wall4TVdB?oc=5",
-"source": "Yahoo Finance",
-"published": 1792753516.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "de142520bf882427",
-"title": "Invesco NASDAQ 100 ETF (QQQM) Adds NVIDIA and Apple on Wednesday",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZWtwbXRjTXdkU0ZIcXJ5WnVscUNaaXJPZ3Zlb3c3OWdtWHBhVEg2aDhiVDJCOUpuNkFrSGdtQnd0ckJ2V2o5UTZuQkFCSVlXWS1CTmZrRVZ2WXlxS1JNbkgtMmYyeDlQS19NYWRtclc5RXY0RUQzWU9tOHc5YjJHdzZjVzRjUU50Wi1lUEgzSC0tRlM4T09V?oc=5",
-"source": "Yahoo Finance",
-"published": 1792753512.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "5dae5eb1c717eaea",
-"title": "What ProShares Ultra QQQ (QLD) Sold: NVIDIA Leads on Oct. 21",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMmtvRnhiR3IxRDM0VEJSV2hJMl9FQlgxaGhmbFNBdWxMbDdvTDhjMTZkZVZhdkFFbXZzZjE5MkRHSDZfZG1xZEpOcWt3SVpNNkdiU1Z3cVg5TWFyZWZBU1BXMzRCTnJfZGUzMWF6VlpDa1dUd29jaTBlODRyQlRFSmlaYWlGTEZHNW9XNms0anpHakFfeG1lcg?oc=5",
-"source": "Yahoo Finance",
-"published": 1792753506.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "3fd7d703e202ba87",
-"title": "What Avantis U.S. Equity ETF (AVUS) Bought: Microsoft Leads on Oct. 21",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOWR2S2Y5T2ZYbHlJWUNWRFFfYllMdklrWTZzbDUwTGZOUGdycUZycF9zMGFyMWoxeVkzMDA2RDlfTEVhcTJ4UmcwblcwcHRyU0hGdXJLU1ZQbF8wTDFRVVJhaUZVLVhjM3lkZ0hZTTU4cGhsMXk0Z3YzMmp6OFc1dUMwZDJ0enljVW82VUdtR1E3N0No?oc=5",
-"source": "Yahoo Finance",
-"published": 1792753496.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "01c8069b4b065ddc",
-"title": "State Street SPDR S&P 500 ETF (SPY) Sells NVIDIA and Apple on Oct. 21",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVFNuSllaZTVBbmVLbWZ4UjZSRTlrNzMzblVaSy1wNTFTV1FsX2tReDVZQTBWbGZIbEJiaUctQVdPZFI5c2RGemxlUHZpeXI4OWZiVGxhM05ZeUNMRUNlUUVFTWZTVE5hTTk1TGNFSmF5ZjU3ckVkM09HazFQUVZmYmdhNkRGbjcwVG80NnhTWEZwZw?oc=5",
-"source": "Yahoo Finance",
-"published": 1792753489.0,
 "stocks": [
 "Nvidia (NVDA)"
 ],

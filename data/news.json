@@ -1,5 +1,5 @@
 {
-"updated": 1792881798.4316075,
+"updated": 1792883116.8908343,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -72,6 +72,18 @@
 "Yahoo Finance: HTTPError"
 ],
 "items": [
+{
+"key": "9deee801978dacaa",
+"title": "Jung Yeon-tae’s Professional GPT Revolution 8 | NVIDIA’s Vision for the AI Industrial Revolution",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4xLWJwREZaRy14Qi1aQm9ST29jajdhOWtkYVZqWTg4b3F1YWc5ZTQ3bFNYdHJVS3F3a1c5ZldXWHJYcjJsNjZESlVrNURsdXh5Vlg5VVAxY0I3TE44a29EVm1YLVhySVFwSDRpdWZWaDM?oc=5",
+"source": "Korea IT Times",
+"published": 1792882127.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
 {
 "key": "749d2022ed4469d5",
 "title": "Microsoft heard my complaints, Windows 11 finally getting proper Internet Speed Test tool",
@@ -153,6 +165,18 @@
 "published": 1792878520.0,
 "stocks": [
 "Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "dd4480b718290183",
+"title": "Tesla’s New Halloween Mode Turns Pedestrians Into Skeletons on the Screen",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTnM5OW5TRXJFSmN0MGU5Y0JFMmEybVZFM2pLLXRGdDFTZUJXbS1KUXZyZGlob3FZTy1Fa1o4WmhpMDd4OHJLRmRHeGlwZWs0REhBVl9MaGJmXy0zOENfdFNEOTVfS3lldUdocFFqYU05OWd2a19XU29IczVLckt5LTZYcTFVOEg2djRRa3liZko2SFphODMzTzdkOG9HWUxfWUc4aTJKa0k?oc=5",
+"source": "Yahoo Autos",
+"published": 1792878400.0,
+"stocks": [
+"Tesla (TSLA)"
 ],
 "keywords": []
 },
@@ -4857,30 +4881,6 @@
 "published": 1792781938.0,
 "stocks": [
 "Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "ffdb8e5b4e08ff0e",
-"title": "Microsoft Teams to get AI-powered, context-aware phishing detection",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWGhVeldleDFNRVg4VWdzamV5c2ZLdEE0b2gwRVZMLUE5SmkzdkluR09zbUI4Z0h1cVRqUnMxbm9ZWnQtNzVqSFBkTW9LMXB0RzIySXNlSEgwZ0w2eVZZR21IS1l2UjVNaXYteGdSUTB4aVRZUXhGV3FIbE9QWllRaDFYSi16ek13c0RMVnJhLXNSMTRrRnNWdno5YlhvUmNtbm13a1B1eTlNblcyS0s1ajNFcnlDZw?oc=5",
-"source": "BleepingComputer",
-"published": 1792781681.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "5625f7580a11fba8",
-"title": "The Garage never should have existed: Why Microsoft’s grassroots innovation lab worked for so long",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNX3c0UlA2RHBZYi1BdWdxbGpfb1cxMi1hRjlaSklMSzZYZ0ZlRG94QjRIN3Z3ZkNTRG5fZTliczN6dVBCc0hxUlFrdTBJYnVvNUtYQ3NHUXRka1dXLWQ1UDlUVk9BTnUxTzIwSG83eUFFNXZPTDlNNmlEQ1ByaG5WRm1hX0Nta040ekdWWmt0TmRNQ1lOSUR6S2FhM0l5NUt5NmxBX3dCQnRnWE54amxvSG5hdkZXM084aXAzUGpXV3BlSEhnQ3c?oc=5",
-"source": "GeekWire",
-"published": 1792781587.0,
-"stocks": [
-"Microsoft (MSFT)"
 ],
 "keywords": []
 }

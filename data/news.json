@@ -1,5 +1,5 @@
 {
-"updated": 1792799473.3078678,
+"updated": 1792801331.0650642,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -72,6 +72,42 @@
 "Yahoo Finance: HTTPError"
 ],
 "items": [
+{
+"key": "c6f577a646680f6f",
+"title": "NVIDIA RTX 5080 wholesale prices jump $300, while RTX 5070 Ti rises by $100 in China",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdHRZekdwZC13TFlxMFh6VlI5OGF2TnV5THFWSmwtVENscW1ESWg3UzI1aHctZl9sLUxwWkMyRGk1VGFuLTFLUXRlSmxMb3BpUjFUenotdThwbzNwRUJSVDNndmRYdXFZUmhVb0NjY25wQno5UElmTzJ3dmYxcjhLRk1WU2Q3ZHFVZ1hHSHo0bnBhdU94a3RwM1FXMFNFOEFPXzdtQ01KaXpPV3p5MjNGZThPLVN0S1dpbnIyTzkyUnhxNUVUQl9sVDYxRlJmd1NoQmV4VlEzN2xnVTBF?oc=5",
+"source": "TweakTown",
+"published": 1792800433.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "4c4fae1e572975fc",
+"title": "Amazon’s $5 billion Nvidia AI servers sit idle in warehouses amid data center power shortages",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQRnk2d0hpNlpIbnU3NGRDOElmbS1uWnd5dDBrWXVKY09ZYjRpVkdDazZOdktabmJ1LVJ6LUVwcHgwTjFrQ0YwakFwOG9uei1HLXZDMjczSkJPcGxFdjBqbUVvaWJmZ09YLWhIWlVPb0M1MW5PeGdRSURjdkJhM0s1S1g0a3pLWDRXWFpSU25vd3ZPckg4LVhiX3RMbXRkV3E4NkE0UFZPclIweDMzWExTR0ZTcWpOVW9lcFBlZm5IeE0zSFI5dzBTMjdQalZSOUJLekJfQ3kwd1MyeTA?oc=5",
+"source": "The American Bazaar",
+"published": 1792799669.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "70fb3bc908e92992",
+"title": "Musk Halts Talk of Tesla-SpaceX Merger",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZ3Z6RUk5TmxZX2xMM0kzalZEcmMyWUhjRjlhaW1VQUJFeWRHOXlHR1FpX29IV19ZeW9zTEI4b0syZUZMZGlwT1pzS2JBN1ZGSjRjYzJHbkg1VC1BZF9Lb0VLUXQ0OUd4WnZVSFczZVlYRU5oMHNBclRJN1FWNWI2THBWQjU4VDdnWWxlRmtmY0J0dw?oc=5",
+"source": "Briefs Finance",
+"published": 1792799486.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
 {
 "key": "7b12ae6cbeddf753",
 "title": "Nvidia gives robot developers new tools to generate rare training scenarios",
@@ -187,6 +223,18 @@
 "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQNDFZQV9uak12T2p6WHhjX1ppTFBGM18wR0Nqc3FEQUVVbTdQQjZpVjdJM1FNMTNLWTFjOF9mSDlmd2d6bEpmQ3ZIdFQxX0FzY21rYkVzUUVXcWs3UHZtR2l1V2x1OUQzSGpmYnlKM2lSRTltX3UtWlZPQ2JhaTZPeDhydkhVUHRBSEt0QWo0TmlhSElRaXM4TVlRN2Y0YVp5RDBidHI0TXJ2RGwteVBCVkhSV09sOHlvUThkNXdQTzZrNGVWbF9UWUNDSlBSbDBIdTVubVllZ2piVVZfX0VhX05ZREtjaGV4QmJOZHlvcVhYb21IR05mMDBfcko0dVhHTW1WSUd0RlNSX1pmbXdRY1hB?oc=5",
 "source": "TechRadar",
 "published": 1792794300.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "e45dd1b94e3705f0",
+"title": "NVIDIA RTX Remix 1.6 Launches With DLSS 5, 6X Multi Frame Generation, Minecraft Java Edition Support, And More",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOFpvRnA0R0hJMl9TdHZ3dWwwaGNoeTBsSnZLWndybWtoLU1sRFdlelRtbHlDdW8wOTdEZXdLRHBBNmJFNmlpcUhOWUpjckRBLTZvcTAxdmtYQVRZT2RpOUZURi1mVDA1aFBMLWZLdUxYZkZUOVlYNF9rcExhS3VPT0Y0d2tBYzZ0Zk53UlZlcGpWbnQxbVFIbFBNMWJDMFNrUDcxX0QtQlJQUEJrMVppdnd6c2JPMVZJNi16WGpDcnRPbEdLcUwzOG84QWxHUdIBzgFBVV95cUxNOFpvRnA0R0hJMl9TdHZ3dWwwaGNoeTBsSnZLWndybWtoLU1sRFdlelRtbHlDdW8wOTdEZXdLRHBBNmJFNmlpcUhOWUpjckRBLTZvcTAxdmtYQVRZT2RpOUZURi1mVDA1aFBMLWZLdUxYZkZUOVlYNF9rcExhS3VPT0Y0d2tBYzZ0Zk53UlZlcGpWbnQxbVFIbFBNMWJDMFNrUDcxX0QtQlJQUEJrMVppdnd6c2JPMVZJNi16WGpDcnRPbEdLcUwzOG84QWxHUQ?oc=5",
+"source": "Wccftech",
+"published": 1792794000.0,
 "stocks": [
 "Nvidia (NVDA)"
 ],
@@ -589,6 +637,18 @@
 "keywords": []
 },
 {
+"key": "d29d8b6dc654bbd7",
+"title": "Cassava Runs NVIDIA Nemotron on CAIMEx: 5 Facts [2026]",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9qaVBIakZtVGJTR0VNM1JDd09pcUFYaXM0V3c3TC04bHk3RDFGaVhLWjU5RFRnVjlfZWpYaU8xVVRsN1RmY09yNWhFeDFzWXltcFF0ZGlhdWtpRTRZbE1SZVBDTlBkZDlBTjlhRE12MDU2dXl0eHNwUzk0Zw?oc=5",
+"source": "shattered.io",
+"published": 1792787403.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
 "key": "d9d30ddeb25b1794",
 "title": "Einride to Test NVIDIA Reasoning AI in Autonomous Trucks",
 "summary": "",
@@ -972,6 +1032,18 @@
 "stocks": [
 "Nvidia (NVDA)",
 "Apple (AAPL)"
+],
+"keywords": []
+},
+{
+"key": "eb301e3e5aa5416f",
+"title": "Nvidia and TCV extend Higgsfield's Series B as the AI video startup reports $1 billion in annualized revenue",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQOTZFaWJrNW5XZWtfOUdvSlB5dTVHbDZPb25FS01IcnBycjY3czZwWVdHQ2w1ODY5ZG5YRHdBOUZwS2hEa25kc0JYdXJkQWl5cjZUaHF5SmpDa1dfMUUtS29rN01GWnJZREZYaDFxM1I0aEJwd2lVeFhmZlQzNnFBWkN0czRGak5kWVNmMzZueGNqUDJSWVJpTENVcTVydXRLWnhVMGZ4N1RibWF0b1h4RmdLd1hzTWthVWZiZF9adG53VV92b2VUZzc3S2dDaVluOXhLYkVXZ2tHZGVsUktwQlR3?oc=5",
+"source": "MarketScale",
+"published": 1792781938.0,
+"stocks": [
+"Nvidia (NVDA)"
 ],
 "keywords": []
 },
@@ -4813,78 +4885,6 @@
 "published": 1792752750.0,
 "stocks": [
 "Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "98800001f80d7641",
-"title": "Big Tech Capex 2026: Meta $135B+ vs Tesla $20B",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOUtFZjIzWDZYeURtekJuS1ZpWTBMY0ZmRUd3a3ROMFJQVHN1MkZUMmxCc0E3R0VISTR5bS1BZDFJbUdiMkRhbWlHcjY0X1otSms2bW5OOXozUFl1Zl9qVzczY0ZqWVFoZjJCQnkyZ1BURkJmUi1SR19lVDNKQkVWQmNGVQ?oc=5",
-"source": "tech-insider.org",
-"published": 1792752750.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "e7e5a1a0a5e3548c",
-"title": "If a Stock Market Crash Is on the Way, Warren Buffett Says This Is the Best Thing Investors Can Do for Their Portfolio",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdDEzNFI4Njllb1ZvY1NXYUh5aDJ5bHJxcUZ4a2U0SEJ0ZUo3dklTQmc5bFZQQjZfcWduOGQ1bG5oai1qY1R0MDJVR1l1LXdUN24ySWhZRUcxREZ3V3lUektqVkxPZ0ZlZHlKekhKdHNqY0M0VlhZVGYxN0p6ZDJzWXhtU0NGNnVrTDRCOGVQZTI3WkMtYjRUSE13?oc=5",
-"source": "Yahoo Finance",
-"published": 1792752600.0,
-"stocks": [],
-"keywords": [
-"stock market crash"
-]
-},
-{
-"key": "a87b4908e86facbe",
-"title": "With Nvidia, Israel’s economy is booming. Without it, the picture is more complicated",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1NMWVYSDBLNXg0WnRsU19IQmdpS29rUTlGbDlBRVRMQW5menhPSTkwRFc5V0tnd3RqUEFULXl6a3NTbURvcXdOMHh2b1E0NnhEdnJzay1fX09WaUYwZ1BZam5IMjQzY2M?oc=5",
-"source": "CTech",
-"published": 1792752360.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "1e4f2c812346cc0f",
-"title": "SpaceX and Tesla Merger Soon? Crypto Prediction Market Punters Are Betting on This Date as Elon Musk Calls the Combination a 'Good Idea'",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPc2pqenJxb0pldlBqTkUzak9yTUVqNmdZakFSYmNNcDZqNHg5SVpidVBLWi0wTVQ0YzVyS1FwbW5KbHJ5Yk8yTzFTV3VNMlpWR21VX2RfYnE4TURCLXlzcjhaMi1YeFUyZDZLbndYenl2aUt1WXBiY2JINlNCTkt5MXBuN1NVWmlJTGt2WEVPRW9IN08yRV9LT29RVjE?oc=5",
-"source": "Yahoo Finance",
-"published": 1792752326.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "60ea8b4060b694e9",
-"title": "Stock Market Today (Oct. 23, 2026): S&P 500 futures following tech sell-off",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaFpCUlkyeFJJQWxPYkx6YXJKdlFpdmNoWlNxdUZsdmIxeTZjd1J6dUFPa3h1OVNUeXdxMFBkZi1rN1h3S19FdDJCYTQ1d3dpczgxdWRsdXVwQ3dwWElQVkNMeTFMbFVMZ1pfZjdZZHpVZzJXMkNGcVhwaXlLTnM2S3VOQjYtYjMtWmJlMG5wR2I4SWJlMXYza2F3ZjlhM2RIYjduR3FfT29YcjQ?oc=5",
-"source": "TheStreet",
-"published": 1792752285.0,
-"stocks": [],
-"keywords": [
-"sell-off"
-]
-},
-{
-"key": "5cdab1d12cdcd944",
-"title": "Supermicro launches 100% liquid cooled Nvidia Vera CPU rack",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWkJUTEd0VzkxVjVyYnVOb05nN0s5dDRCcHJzX1JHOVNvUW1KcGVtZ2Vwa3ZyaWczVjVvRk1EcXZvek1idlJQLVVFMmFxdFJRZjBoQ0w3ZVR1NzR6c3dCX0p6a3dkM1diM21WbVVlZ3U0cks2dHc1MnAycGQ2Y0tFNWhXdXUxa1FBd2xaYS1GaGQwbUZreEVLTjlEU2xpbnd3YUtsZQ?oc=5",
-"source": "Data Center Dynamics",
-"published": 1792752226.0,
-"stocks": [
-"Nvidia (NVDA)"
 ],
 "keywords": []
 }

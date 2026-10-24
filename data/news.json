@@ -1,5 +1,5 @@
 {
-"updated": 1792858019.210153,
+"updated": 1792859961.9873064,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,6 +73,42 @@
 ],
 "items": [
 {
+"key": "a01d289158a9261e",
+"title": "Former Bronco Raptor owner says Tesla Model Y won him over in a week, despite one flaw",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNT2UyV1NDd29SLXVzbFdFdE5RNHNMNWQ5YTdPejFybzNqNXlNbEZsQVk3dlBtV3gtX2tla05Hck0tYkV4Wno3Z2U5SXd0a21OMmY2QS1lM2lnb0NVTXZXUmN4SmRnSjZldUdKazRzVDRPNU43NFNPbDRENzRBRjBMX1I3Zw?oc=5",
+"source": "The Cool Down",
+"published": 1792859700.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "d0e9b92c5cf87c27",
+"title": "Tesla App Gets Redesigned Interface for iPads, Tablets and Foldable Phones",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaE5TdmFIR3JMejc2M09GYmVNemdOYWtnUWJlOVl2Nm1TWjJzejlDbDNlTFlwX3VMTVJtSEhDOFVYSkJ0cHFHWEdwSWdMUjdyZmZkUnE0R2lONmJjRlVzb3J0M1hkQ29UeEtvQWQ5Ujd0NEMzeC1tTWJoSXVEcUpMU1l4YU90cnM?oc=5",
+"source": "Drive Tesla Canada",
+"published": 1792859110.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "a845cee6b374e155",
+"title": "Sweden's Government Offices Block ChatGPT and Claude, Keep Microsoft Copilot",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRlp4OE5aTFVlb21aR0dkS0xiSFd3ckZOT0VhYzR1dVlld0NhX1Q3TWZTWmVJcHJZQUhwbXZSc1dqak9odnF1UGFDRFJYR21FY1d4Mk03VjNtYXpTdmZoMGdhNFc0RWpwLXR1RWFZbmtva0tTRzdfbG45VTJHR1lFUTdKRGdWUVc1Ri10WlJXV05zV013Zl9SVnZoTy1JUGNqWHc?oc=5",
+"source": "Yahoo",
+"published": 1792857663.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
 "key": "6082214141c9133f",
 "title": "NVIDIA wanted me to upgrade my RTX 4070 Ti for Multi Frame Generation, but I found another way",
 "summary": "",
@@ -129,6 +165,18 @@
 "published": 1792856100.0,
 "stocks": [
 "Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "e81ecb4031938e55",
+"title": "Microsoft May Be the Only Hyperscaler to Stay Cash-Flow Positive. What It Means for MSFT Stock",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWFpDcUN6TWdfQ1AxeUMtTzZyNjdTRnJONzg0YWZTNFV6V2k5WDZxdl9TQXBrU1p0bk9PMVFLRkxma3VMdGNkSW8xcXczX1U1OUJBODNUN3BjaTZqMmNFcFFWQTZDb0VRZWRRY0Jnd2R4Wlk0TWFtbWpja2x0REQwd2xLaExFSVVDYnJfQm1iUl8xYndVMkZVZmRtV3JSVE5jMVBnRTA3T3diZ2ZZM0ktZDhqdldZajNyekE4WVNSVWJkZjI4X0g0cHB4T2FMcGJOTE1F?oc=5",
+"source": "Barchart.com",
+"published": 1792855802.0,
+"stocks": [
+"Microsoft (MSFT)"
 ],
 "keywords": []
 },
@@ -283,6 +331,18 @@
 "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdmthR003YTY4SkN3TVBOWWVRNTFQdVNIMlI4UmJhM2xSQ1kwdkpKdGlKYkV6VDZJS2lMOGwyai1oTTROQjdDMnpUYVN3MG03R192YnBnSWxZcHpXcnNjT3V0a0JNRTg3dGJlYkk4cUNLMlEzRHRpN09OMUJ5TGh3d1ZrOW1kZXRVY2JtNGtnYzhtckYwQkdTVWJ2TVFvM0ZHM1lXQ2ctTUZJeXlLclZjTGtnR01uYWlvUlZPNGRGOHYyN2YyN3k3cjQ4aVVEdmxSSi0weXNncnJVUkl0eG0wc1d4SQ?oc=5",
 "source": "1 Smart Business Story",
 "published": 1792850528.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "fdce04fbc56d6d68",
+"title": "Tesla Roadster Screen Shows 5,500 PSI Thruster Bar [2026]",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWXFSM0xhWDZRZFBTYzN1aHpfLVc5eEcyZWxXdDNyLTYzMnoxdTlpalk2ZHgxdjE0QVdkdVEwTWExMEQ1eXVESm9JY2oxTWJwZF9NRERidG1GZ1pkTjZGLVZnM2J1UURzSkUzYnVjZHNxSHF2LXpiQ1BCM1BHaGpHX0UyTzRNaWpSY1dWUlVSdV8?oc=5",
+"source": "https://tech-insider.org/",
+"published": 1792849874.0,
 "stocks": [
 "Tesla (TSLA)"
 ],
@@ -4824,66 +4884,6 @@
 "keywords": [
 "oil prices"
 ]
-},
-{
-"key": "9bfc07da5d465c2b",
-"title": "A new class action claims Apple's iPhone 17 and 18 models lack core Wi-Fi 7 features.",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSE5aa2JNTFZoMFVwR1hXNEFpLXJOckJqYnZ0Nng1MVFqVWJYS2tfdFBmOHE0eU0tWWFBWEFCMHBHdTFocEpsWno3a3l2blR5N2VhLVBybDZrZXNlR3UyWi01Rlh6Um5LVnB3SWJWZU01UHdpclNyUEtxaUZtQTFNa0R2V284SC11TnU0ODlNSzVJM1lHcTl4WWhNdHVSQk1NaWZFYTM2V19NWlVYWGlYOUNqa0k4Zw?oc=5",
-"source": "Claim Depot",
-"published": 1792767772.0,
-"stocks": [
-"Apple (AAPL)"
-],
-"keywords": []
-},
-{
-"key": "3d65a96b408773d6",
-"title": "Microsoft Reportedly Plans to Close Arkane Lyon, Putting 217 Jobs at Risk",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE91RXJCZElsb0xnY2Q4YlFnNmlIVXBPNnktTUtjNkxHZ0NWM1dObEhKcE9uUVhvVHZfbnN6a042anQtTHFyWnhjSWhpYTRfcjVRVlVlVUFhU0I?oc=5",
-"source": "TwistedVoxel",
-"published": 1792767669.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "1b4b5eba1a04091a",
-"title": "Aker BP ASA Estimates – OSL:AKRBP",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9oMTNrTHVEZ3hTamo2SUNwQ3l1Y0xGOGJnVzhtTEtfOExKRTR2Mkp4QnRJdkdRdVJjU290VDM5UlJGTEFnNFZuMm81UlBWU0ZfN053eV83bmNiTDRvcGRTUkxfSGpPeDlyVnpfQlhxNjZUMklVcWc?oc=5",
-"source": "TradingView",
-"published": 1792767659.0,
-"stocks": [
-"Aker BP (AKRBP)"
-],
-"keywords": []
-},
-{
-"key": "ff7ca8acc1f465ce",
-"title": "Microsoft Raises the Stakes in AI Model Development",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdEVBRzNweC05T0VENzFFWjRCS21vei1fNlBsU2FlalZyLVJaMlhfa3R0ZzJTNGIwRV9lbmthV0NFcjByZ3haYThYeWl5M3ZzcVJzRkwta0h0XzBDTmlGMEVETk56TnRkdk16SmUwRVlBQ3F5VGF4MmRJNFYtTUFMTE9Ucw?oc=5",
-"source": "Cloud Wars",
-"published": 1792767600.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "9017512055dd7b68",
-"title": "Alef vs Tesla Roadster: 11-Year Lead Wins [2026]",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdGhxT2RnOGlZeE9lM0xvT0VpdmEwSnA2V2ZDbFFZazNUZm8teU9fekpvRW9qM2otM0tEQ3kwZGg5SlZ2SHREZUZIWGFpNTVuNUszQTA2TC1HTHBDMHQ5WXpfQzgtNFFHRlJUVi1HeDJXRUdwRTJsV1czYlpIQUZXc3h0Zkxvckk?oc=5",
-"source": "https://tech-insider.org/",
-"published": 1792767488.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
 }
 ]
 }

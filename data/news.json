@@ -1,5 +1,5 @@
 {
-"updated": 1792878716.9418402,
+"updated": 1792880087.4260783,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -72,6 +72,42 @@
 "Yahoo Finance: HTTPError"
 ],
 "items": [
+{
+"key": "c26487c588141d86",
+"title": "Tesla Cybercab in Texas: 5 Details That Matter - BASENOR",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQR3RKVHdMa3ZIS1J5V3B2bUY4dndoNlN1QXh5aGplOWpaeVBSTVpiajRZSlVGYlNYNjVmRGtidDFlemtrc2FfTVd3UG90T2NITV9oUnZoZVk1NUY3NDlZc0JmMXdqM2luWk1TazY4UWp0cEZEbUo4djZCVjAzekI0MnBpZzBDSHM?oc=5",
+"source": "Tesla Accessories",
+"published": 1792879456.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "f49869dbf3b505c6",
+"title": "Bank of America resets Tesla forecast as Robotaxi miles double",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNR0pMY3cwREJXRVRHbkJuZHNpZmkxYndVSnNHamdUZ3Jsdi1RUVF3MF9JOWk5Zkdldy11R1poN3VWU29Nc2VQNVF0dXRINWI4LTZvY1BzZEVDNDdTdmZyNWtLVUI5NGY1Z2hoTF8xcUZ1d3lodm5SdkV3R3NNUmVCdm5zMjRUS2ZQWlg2Z0NZdFpCdDJWNG1vemlfeWp5ZUs1NVZyWQ?oc=5",
+"source": "TheStreet",
+"published": 1792879380.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "d6401921908150eb",
+"title": "New Tesla Roadster Now on Display at LA’s Petersen Museum",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZC15alc3SWVTeWFOanU1NUk2N01XX1h2MHJFSS1mQ1Q5RS1ObkVVbjVYMjRwaHlKaHRYNlRtakdDZVphS3AzUHl2ZTBLTVp1aTd4OGI1U0hrLUtBOGNPWXUxRlZUYzJsQUFDSHJ2RjBzdERVRTFjS0dTN0cweTRueGpIOEVCREZGWU9WTzg1Y3lVRTkxS1Btb3JUNA?oc=5",
+"source": "Not a Tesla App",
+"published": 1792878780.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
 {
 "key": "5f40f66ce1f06416",
 "title": "Tesla’s New Halloween Mode Turns Pedestrians Into Skeletons on the Screen",
@@ -189,6 +225,18 @@
 "published": 1792873194.0,
 "stocks": [
 "Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "3ae0ceb67952a548",
+"title": "The File Tesla Never Wanted You to Read: “Radar Saves Us”",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPR3NtdFF4OG45emlXTmVSTUtSSUl2WEx6dDhQQnBxeHdiazlveE95ZTFQeWVxS0hUQWF4cEEya0xpVDBKR05yU2lEUm5aLXF3bElGNDVUR1hBMENGaHdxbm1qMnRsYXJ0MmVLcmlOVmszejBxRUN6SUxSZzh1dlVDU2tTWUxTSTg?oc=5",
+"source": "Vocal",
+"published": 1792873095.0,
+"stocks": [
+"Tesla (TSLA)"
 ],
 "keywords": []
 },
@@ -668,6 +716,18 @@
 "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBiNjZOalgwaTZNLVlEOXN0M2drOWxvOFRGQmcya1d4bE5mc2tWOTcxNnlTN3VNQUFFQTJrMG90Y3dzT25FUVR3aWFKeVk4ZzdwNzNvMjQ2TFVIWTNjT3lCNXVzbHFOR292RGY1REdkVGRJOGw0ZXk1aWNQY3pTZw?oc=5",
 "source": "AOL.com",
 "published": 1792863420.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "0ce18a6dd488a0c8",
+"title": "Customers Book Most AWS 2027 Capacity as NVIDIA Invests in Higgsfield",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ndFJkSHNEQjd4X3dXVFRzWjZKa19GV0NzWnpfdkRHazY2QUxWZElXUFJnamU4c2RuUlNzWmRtMVhkTXItelVsdmlXaUIwMm9GWkVKZ2o4TzY?oc=5",
+"source": "TOKENPOST",
+"published": 1792862958.0,
 "stocks": [
 "Nvidia (NVDA)"
 ],
@@ -4821,66 +4881,6 @@
 "published": 1792781100.0,
 "stocks": [
 "Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "e32c8ba2cdef261c",
-"title": "Tesla Cancels Cybertruck Plans for Australia and New Zealand",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPODNjOGZmNGU3NWhpRGF2WnpJZmJJc09zNkNLZnJyQ2pzTDU5bXI4akRyTU1kNWxZWm1kQ2NCRUo2Z1ZkejVJVGNCSXRjX1A5WXgydER1WFY5NVg3Sm56ZmZLR2VKMVh6TmFMUnJUZ3h4ZUVwRXBDMWVRMTF3MHhYRTZabTlIN3RMXzJRdDlFZkV5MmZ3U203d1ZTRmdRWElZb3A2M0ZpM2lRUDg?oc=5",
-"source": "Yahoo Autos",
-"published": 1792780080.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "2a66dec4d46e5182",
-"title": "Tesla Lobbies on Autonomous Vehicle Rules as Senate Debates Oversight",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1GYkpQcXFEZzhZSkZJWV9aVVJVUHJQWjUwOGNtdHpzbWctSDVIODZpNmljSjBGN3pST3g5WGVDdHI1dTFlMV9vSXRtUE03eVBibWVHVTNScHI0cHFuX0hicGxDd1c0NkkxM0Z5RkxCRWVQVXFOWUpZ?oc=5",
-"source": "Legis1",
-"published": 1792779965.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "cba73a728a80cbb9",
-"title": "Microsoft Stocks Face a Cloud-Margin Test in Wednesday's AI Earnings",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9TNUZQSHVsLWd3UUFXRk5vYkl0bWNGYXJUWFRQQmVGUGpVT3RXXzh5eTJTZVR5SFRfcmd3eWYyX3hVc0ZsVjFtV2xCZDNScGplam9LT19WaTR0cVkzRVpYaHZqUG5FUWt5R1E?oc=5",
-"source": "TradingView",
-"published": 1792779818.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "8c430f92913a8eaf",
-"title": "Microsoft Stocks Face a Cloud-Margin Test in Wednesday's AI Earnings",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUEF4VnkyWWwwQjBfSDlXSzVkZzdwUTliUkFKSC1CWGtnTnpPN2Z6Unl6R21PQl9mcEl2aFB1T2g1ZVlCOVVWY2JSRUg5d2oyOWQ5cDVwcEhTVHhtdmNldFRJcmVPNjI1YWZybVprNHUwUXg4aGRneGJzcUljUUlTQ1d3SWhNcm5IQ0FiVXppVGF0UTUwTUhMTVhieDNqWENW?oc=5",
-"source": "Yahoo Finance",
-"published": 1792779818.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "b12d3de50adf094d",
-"title": "Nvidia Stocks Put AI-Factory Downtime in Minerva's Crosshairs",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOXBWWFd2NkNzR3dFWXNnUTZNelJlcDVORGRVeTQ1cWlIOERhSjRNcElsUGtOaTZ3SnhKNjhtRzM0bVZlM3BuWk1GUFp2OWl3dlp4ZXBMVFNEUktvdGdyUUV2Wkx1a3JFeGRnSTZyeHpTakFDSWEzQlloYVNQaEN0T0hYbEJQbjNUZ25pVHQ3dVFOUFNJVmZaS0hQUkIxVkpzMzNlQWU5Mzl5ODJ5a0NsSVNiaVpuQktQNi0xMF9B?oc=5",
-"source": "TradingView",
-"published": 1792779713.0,
-"stocks": [
-"Nvidia (NVDA)"
 ],
 "keywords": []
 }

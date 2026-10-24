@@ -1,5 +1,5 @@
 {
-"updated": 1792816849.147631,
+"updated": 1792818593.2328064,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,6 +73,30 @@
 ],
 "items": [
 {
+"key": "72cc11b3327e4169",
+"title": "AI: Anthropic’s $750B Compute Bill, OpenAI’s Trim, Nvidia’s Safety Net & More. AI-RTZ #1249",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOamx2aHBHdFpLMDNFLTVtSU03YnIwOHU2aDJuNGtMRzB5OGFTV3Q0SGZPdVVZTG9YTmNRNmoxclE2MklHeXpTeXFDX2JTRk54dHhsejY2ZjZUWkhxaHFMbnFOZ19RMC1fei1lc0lZRXZuV1EzSy1jQlZsdXFRZENyNkd3?oc=5",
+"source": "AI: Reset to Zero",
+"published": 1792818153.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "e62d144883b232c8",
+"title": "Tesla Model 3 Hits 250,000 Miles, 1 Part Replaced [2026]",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTmtFaGZhZTFCUGllcEVxcG1pSG9BOENaWW1mU0d2ODZtMG1PMmFLTWpsMnhleUsyRjJTbVBjT1ZmWXBEOVpfU3ppX2EyTmJpMUd4ZTZCNHFrSlA2aVVfYjFhZmpBOTFfWGotY044VjUzZjlXTzkwNHhlbE43SlZyNw?oc=5",
+"source": "https://tech-insider.org/",
+"published": 1792817433.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
 "key": "5a301de30380b89f",
 "title": "Vallejo: Man Killed By Tesla In 'Full Self-Driving' Mode Is Identified",
 "summary": "",
@@ -81,6 +105,18 @@
 "published": 1792816615.0,
 "stocks": [
 "Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "7871225d631450da",
+"title": "Nvidia’s CEO Visits Astana as Kazakhstan Pitches Itself as a Physical AI Hub",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOczFCaWVQWHpJd1dYTWdPN0h3elg0RmpqWFdMM1dZbXgzSjRXUkpHdFJPRkUzMmpFZXdrVVI1MUhwVHlFbUt5bHkwMkNVZ2M4My1nWGpFUlZnTWUyNE40LVh3dm9jR2YxY2pWNjlyZHVWcU1FWTduUmpJTlpNeC1mSEpXdE4?oc=5",
+"source": "The Diplomatic Insight",
+"published": 1792816347.0,
+"stocks": [
+"Nvidia (NVDA)"
 ],
 "keywords": []
 },
@@ -4853,42 +4889,6 @@
 "published": 1792755293.0,
 "stocks": [
 "Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "e64251a5de24a966",
-"title": "TrendAI brings Nvidia Nemotron to Vision One for sovereign and private cloud",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRk95VXJNLVNBMThxdUJES3NzLU9jUXYyS3U4TFV2clZJbTcxOUdLVmRYblNGVkM0ZEl3WFk3NFhDdnMxeUwzcW1TTktqTmp1Z2prZFlhWE1EMnhRbFRLcnFIQU4xbWNLYm9OdUxzeV9wRGNmbDlfQzZSbk1yMkd5MTJ0NXBKWHJySHg5NVk2ZUxlMFZsLUFmUEU0b1NzOUh3VzZzYU1NNnJwZG9maGFoVm1YOW5BbEY2aFZRekdhdw?oc=5",
-"source": "Techzine Global",
-"published": 1792755174.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "a9750c55c3105444",
-"title": "Apple Is Just $42 Billion Away From Passing Nvidia as the World’s Most Valuable Company",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQczllUkU2QUQ2TXR2UklteGV6azI4QVQwanJCVFFSd3BJZW5GaGVfMF9hM0xxaXVRZXFNZFM3Z21SMjZkdmFPNmU5SENyQ3EyTndKQ25QRmR0MEJ5R1VueFZ6UkZOQVliTTBHbm1NamN5bGFwU0lUclZ3c1YwYTJ5b3M4NU41Q2JoaTNuT2IzczlFVGZNcU5DUjJOTTliUk1OeG9YWXUxTGc0c2ZGZmdFcUNUQzd2VzVieDBoZENPb2tOYmQxVjd6ZA?oc=5",
-"source": "24/7 Wall St.",
-"published": 1792755000.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "6bfa2b6fff383bb4",
-"title": "Tesla Says It Will No Longer Release The Cybertruck In Australia And New Zealand",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNX21vaU1EakZSZDFjdTRGaUVtaDlTZ0Uyam85dzdHSzg1VEhnVmF4QzdEd1hqN21KR2dpVFNOOUdZVmlPbi1fM0t0OHY0eU1rWmtTYXk0V0ZTamlyeUt2cndjc3JOb1BtVlE3RVhYRzNONTFLTzhrN0VwZjBaM0o4RzBQZ0l3UlF6bUgzd015ZkFyUGZ5YUcwWG44bE94Ym9G?oc=5",
-"source": "Yahoo Autos",
-"published": 1792754764.0,
-"stocks": [
-"Tesla (TSLA)"
 ],
 "keywords": []
 }

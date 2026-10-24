@@ -1,5 +1,5 @@
 {
-"updated": 1792828756.0265818,
+"updated": 1792830327.1153917,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,6 +73,54 @@
 ],
 "items": [
 {
+"key": "90cbf6d578f37cb6",
+"title": "Tesla-SpaceX Merger: 50% Vote, Terafab Chips [2026]",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWC1jNnZYSGktcDB5dnVKSXM0UlZQQ0dPWG5tUU5FajNITHNDeGZHYk1mczZkdmlMaXltTnA0algzdFY3dUNtLTZJUDUzNFBQeTFZUEpfZXpCTkZoT2NZblF6RndjR2Fad3ZwaGhrUkFWZ3V5SGhNZTFNNTU1LW9vYkNR?oc=5",
+"source": "shattered.io",
+"published": 1792829710.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "af1696559ec3a35f",
+"title": "Bloomberg Says SpaceX Struggling to Secure $40 Billion Debt Deal for Nvidia AI Chip Purchases",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1TMlpmdHFESGpOVWJ3aHVxdC1BaUxKZ21mM3NuWEFpcURNTXNmSkdtOXFubVl4M3pBXzQ0U1d2Vm1QUTJFMkFpNk1DdzEtUmRuMWNWag?oc=5",
+"source": "bloomingbit",
+"published": 1792829520.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "9247d91824bed0ff",
+"title": "Danaher, NVIDIA, FedEx, Sanofi: This Week in Healthcare",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTG9XMlVERXRYTWFlb3hRbm9BWFB0cGFrdy1vMHhtYVpQWUVHb3FGRkJnNTFJOTM4a0RMQVB3NGJqb0hzdFVRdWdURzZUQUw1SHJXcExhOGpOaFdpN1NfNW5CWGNmS1hIODNQRFJBQ0VkT2Y2aDg4Q0dBS0FhRzRPU1c5YWhsV21XYjRGalUzVDI?oc=5",
+"source": "Healthcare Digital",
+"published": 1792828951.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "f62cce98c7ad625e",
+"title": "Microsoft fixes a Windows 11 audio vulnerability.",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBONkFEUXp1REloT0V2SnR1ZDJycU1zZzJXNlAxUHloVFBMTmgtTVFsUTNjajZsZmFfTW1VU19CTEdOUTVXUXRlX3NlWQ?oc=5",
+"source": "超能网",
+"published": 1792828625.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
 "key": "15a5b3cd43cc5bc8",
 "title": "Tesla Optimus: 20,000/Week Goal vs Reality [2026]",
 "summary": "",
@@ -81,6 +129,18 @@
 "published": 1792828226.0,
 "stocks": [
 "Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "cc2c78bbdf34760b",
+"title": "NVIDIA confirms GeForce 621.01 driver bug causing video freezes and black screens",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNFNqNlhTV2JfSm5mWWQzc25TeVgwS0I3ck5JZkg3Nk1VYUhyQV9zNWRMc3RuRmlHcVpock44U0RQSC1iekpJY2ZOUUt5bnFDY2gwS0h2Zk5RRUR2bWR1M2pWRjF4TGNsMHJKZEJQdzMyZ09CTTYtQUxEaEo5cWhVMkRYTTVreTAzN3VTTjVHTlFUTTRfdkVwUlI3TVJFcUdmdk5xNzNiZ1l4TTkxOGc?oc=5",
+"source": "VideoCardz.com",
+"published": 1792827958.0,
+"stocks": [
+"Nvidia (NVDA)"
 ],
 "keywords": []
 },
@@ -193,6 +253,18 @@
 "keywords": []
 },
 {
+"key": "107b6af8971b1e46",
+"title": "Form 4 Meta Platforms Inc For: 24 October By Investing.com",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNa0JaZERIQ0oxTENaMDV6S3RQM0Q2YjBnb1Zoa2dyLXc5bWR0a1JwT2Y1N29ZWFZHRm1YcG9aYk4zTl81eGZnQlp3MGhPVUM1ZkY0WklObHB0OVYwNEs0d2gtUnFxMWREY3dKVFRnYkNkeVRGbkR0eklweDNNZkJCSXI5NW10NWlINWVYcTB5dmJ1Q2FiaktMcXA5LWZ1elVCNWQw?oc=5",
+"source": "Investing.com UK",
+"published": 1792827120.0,
+"stocks": [
+"Meta (META)"
+],
+"keywords": []
+},
+{
 "key": "c25320b9e619ea2b",
 "title": "Q-SYS expands Microsoft Teams-certified portfolio",
 "summary": "",
@@ -225,6 +297,18 @@
 "published": 1792826915.0,
 "stocks": [
 "Apple (AAPL)"
+],
+"keywords": []
+},
+{
+"key": "5b942945dd7642d9",
+"title": "Toyota, Siemens & NVIDIA: Top Manufacturing News This Week",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRFhhSUV2Sk85cVphdzVBeVczcHRIWmhNUGFwTkdVbW53UTBtR0tDN0VSWm4tZEVLQUJVVmtuVzFkVF9PWXhDYVAxLXBJTVB5THhra3NGd1lwT3JPRHpKTmdKeXVfMzhNN05wc3Y5SGI1RHQ3aWlnOEpSZ1ZiZC00TU5yM2xQNWJDX2NSVjFJcUwyU1ZWTWdj?oc=5",
+"source": "Manufacturing Digital",
+"published": 1792825743.0,
+"stocks": [
+"Nvidia (NVDA)"
 ],
 "keywords": []
 },
@@ -357,6 +441,18 @@
 "published": 1792818153.0,
 "stocks": [
 "Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "16cec14b8029c875",
+"title": "Is The Battery Trashed? A Tesla Model Y Hits 111,000 Miles With Zero Home Charging",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWU12Ym03Zzh5QjQwbmthSjVQMDBfcW9HdzhyR1ljajlsQno3SUlCUWJadVNGaVdYRHN5bVZOVk5MSFJTVXQ3VDVhaTVFcXFrT2tCeUpOd0dsNmpzNXJzWUl6eEVmd0gxZnVyT18xbFZTM240MWlUN2NkZlpTcnpfZ2VZVzhLYUZxc3c?oc=5",
+"source": "InsideEVs",
+"published": 1792817607.0,
+"stocks": [
+"Tesla (TSLA)"
 ],
 "keywords": []
 },
@@ -4793,102 +4889,6 @@
 "published": 1792757760.0,
 "stocks": [
 "Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "5ae8b02fba04ebd5",
-"title": "Here are Friday's biggest analyst calls: Nvidia, SpaceX, CoreWeave, Deckers, Unusual Machines & more",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNlE5Q0stSFpOZE5TQXJUN2VoeFRYREdtUDN6OHI1Q3N1R3o3bFNQZm0ta01LSDRGeEhwMm9nR2pSRHJWa0d3cUdiTVpkZThtNndsUmpkLUpkbzVsdkFQcFVoT3o2amF6bVc4dlQ1OWM5b0FzWExlNXFueUZ5ZkRyWXdlYUV3WXVMenVaWW9TSnIxWXZ0MGJrMjdvZG82NWs?oc=5",
-"source": "CNBC",
-"published": 1792757745.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "5778401cff5dc0eb",
-"title": "Seeking Clues to Microsoft (MSFT) Q1 Earnings? A Peek Into Wall Street Projections for Key Metrics",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYkxldmNtU2E3NVlJM0QzOFV5enVyOThvWnN6bllld0VwYkpBeG8xZUlNTEloeDBQb0pFVnJjQmNXakdIWTRVcUJGeFRwelVWcjZGNEVZejJwZWMzem5MdXRkUG1lM1JreUhXZDlKYmRLTG4yaU1JQ1pZRVJMaHltaDQ5aHU0aUFyNW5DNHZoYmJJTld0enBnUFFVeVY?oc=5",
-"source": "Yahoo Finance",
-"published": 1792757707.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "15067a01bc8ba7f9",
-"title": "Tesla And 2 Other Top Founder Led Stocks",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYmJrN1RBZGdOWkdmQ2NHc0YxR1lnQ2x0YTFEQ09VakZnT0ZseGk4VFhHWlMwd28zSmtfVVJ2RmFuTEhWTExBNHl1eUJFRlliS0xWclVSQkhlRGJzNlB0MnlqVGVjN0lCSEdsNVRvRHIwNE9CLWVhazNJeXJUSTE2SVNubW5TdEZKNjRKRkdSRXh5Ulho?oc=5",
-"source": "Yahoo Finance",
-"published": 1792757375.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "e881a6057a0fbf3f",
-"title": "Tesla And 2 Other Top Founder Led Stocks",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ia2JxVV9wQzdvT2RKMmxKck5XRHVoVjVqb1dZbFEzcFdscE1LRXNuMERDbHluQ0pWSUpYVkJVclgydEFCT2x2Ri1tQzdNYUZaYTRmVl9SQ2FjMDVaRFBpblJyc2JtOTlQNzBnOUhSMTB4TlNUeGdYREgyMi1CZDQ?oc=5",
-"source": "Yahoo Finance Singapore",
-"published": 1792757375.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "0f47ce83c1d2369d",
-"title": "On the ground at Nvidia's AI showpiece: Jensen-mania, robot ducks and neocloud distress",
-"summary": "The word on the ground from Nvidia's GTC conference in Berlin.",
-"link": "https://www.cnbc.com/2026/10/23/jensen-huang-gtc-robot-ducks-neocloud-distress.html",
-"source": "CNBC Top News",
-"published": 1792757310.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "7d5784edfea93df7",
-"title": "How Teradyne, NVIDIA & Sereact Automate Retail Returns",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZG9kRjJwVlVjRlJhWHFHamI2Vzc5a2stTlJ0MGRnUjNSbkhSekEwd0llY3NicHdGQlRBOE1ESXBpcnpYNmczdnNReHpubkVPMjh2a0c0a2o5ZzEtZG0wcVdla2ZxcnpQTlpyaUl5bGtMMl8yMmVKUVg4S2k0RG9CZnQ5cUwwelhwQkdMVnJXcmw?oc=5",
-"source": "Supply Chain Digital",
-"published": 1792757282.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "9a2761485fcfc735",
-"title": "Microsoft’s new voice AI can start working out what you want before you finish speaking",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SUE1rb1lRU3BXN0tzSThYZlpBTy1pTUZCOWt1U09WZHRYTlU0blVpMzBhUGE0TWgtVVBWY0pSRFNmNGhILTJSMWk2dC10c3YzQVQyVnBBQWU0VDBlNVZNT0tQMU1FWWFE?oc=5",
-"source": "The New Stack",
-"published": 1792757109.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "d75c35e3b7f94d14",
-"title": "Microsoft is testing a more limited alternative to Recall in Windows 11",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOVdNRXIxcFk5WTkxYTVIaFhsOXczaVpGdzVZZlJSWVRzMW8zMW4yaHU3RnlyZ1hmUDBLT2lhcy1OVi1CODZ1OUlZelhmbEJiZThXVFUwbVVWOVUwMXQ0M0RTS1hSTkVhV0tnYnN2WXZBZG1OTFcwQ1F1SC00cm5zQ0IzTlRIQQ?oc=5",
-"source": "Mezha.net",
-"published": 1792757050.0,
-"stocks": [
-"Microsoft (MSFT)"
 ],
 "keywords": []
 }

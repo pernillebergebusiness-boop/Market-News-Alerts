@@ -1,5 +1,5 @@
 {
-"updated": 1792807234.8543656,
+"updated": 1792809511.3325515,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,6 +73,54 @@
 ],
 "items": [
 {
+"key": "bc4653b7adc74e68",
+"title": "Microsoft Teams Adds AI Phishing Detection for External Chats Starting in Early November",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOR1o3SHByRzZEYzctTHRQekVRRzNDNmlRZXJoNV9NbGdzTHU5T3gxWUJPZEpZV3RNTlcyVUNIUHpLUVFac1VGWkQ1cFVVTU5PcXBJR29ZblAwV2cwVHA0UnlYdzlYYkxOdEZuaDN1SWp5VHV6Y1pHdTRWWnFyTWs2YUJLNDI5cUdLejFBeF8yTEhsd2loN3AzaklKZnV0SjBPTjNiUElPSl85SjBjR1FodmUzZFMtbzJrTGxfZkVCSkQ?oc=5",
+"source": "gHacks",
+"published": 1792808003.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "4b98c723c23e28b7",
+"title": "Tesla (TSLA) Starts Semi Volume Output With $2.8 Billion AI Component Bet",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSTlzLTFTSGNFNXBQMlhvU1E2MnhnX0s4T1RQYkZfVWdlZHZfN3B0RmVmaEtfNXQzcDVUb0Z5X3hYMWtjRXBnZEYwMzRkbGxCYzR4bzY0NjJaN0pFbVh6aEp4MXp1TU54RWhKemJjRnZ4S3BnYVhpV2hiM0RiU21TZy1zSVpyZUpUaEJrSVJwa2xST3ZQdV9uNA?oc=5",
+"source": "Yahoo Finance",
+"published": 1792807860.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "e3a7db0c4f938dec",
+"title": "NVIDIA Expands Isaac Tools for Robot Training, Simulation and Deployment",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMXQyTjZ5Z1VBZVByXzlpdE9JTWQ0M0FRd1RXNTZrZ1BkbGNYNk1RdkF3QjVBRVRfVmRRbnFZaVNUTzBBOTBIY3pfdGllQzBrR0k1bXVjdks0VG5Ka1FPMGdjVlFUeWd3Ukx3WFlxZmR2X2dpanlmVWdocmpiN2xfRHlMWElpMGk0Vm1hUEZRNTlTaURDMTdFcW5LYW9BUWFPMS1BT1ROb2V0d0h1V0lhTHJobks?oc=5",
+"source": "HPCwire",
+"published": 1792807145.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "ceb5ea64664c6543",
+"title": "Surgeon Faces 3 Felonies Over Tesla-Logo Pills [2026]",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRjVncjA1eW9IU29ROHZxSjdfeFV3MnZpY2tHQng3RzdFM3FmMndqcGhlSmlSYlNVSVFlakJPN0h5NFVnYV9aQkU2NG1paG5IV1ktU1RzQWppVU1vcHNSNlVHVlgzcWRNMmJoWDVzWjcySG9kWUJaSmdsbjg3ZFhEUXhwZ1lCUzA?oc=5",
+"source": "shattered.io",
+"published": 1792806304.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
 "key": "3f19db6855a1e662",
 "title": "Huang Backs Kazakhstan’s AI Plans as NVIDIA Expands Partnerships",
 "summary": "",
@@ -95,6 +143,21 @@
 "Tesla (TSLA)"
 ],
 "keywords": []
+},
+{
+"key": "200e23592d1e0993",
+"title": "AAPL Stock Hits Record High As Apple Tops Nvidia Market Cap Amid iPhone Duo Debut",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTDNJSXExelJGYWlmWmw1OVdUaHdiYlY1c0dpSi1QZjg4UFFkZ2lFSUxwdUZsQTVMSWwtMDREM1YtWlp0MFV1Uy1UMXliLThGU2lkdFFfRWNCTDZTUExSX0Z6SWxxWUdnTnVSM2cxek9uRXVIZTV6WlpOcXdweTJYSUsyZFNnTXBBdWN4MHdhNTVMaXBHUks1TWtsU0cxM2swRHQ0WTRORjYzNkd2TmE2cFYzQ2M4ZmE0czhMNDZBV1R1MG5KTmx4RXRrUXV5UVg5RmFlcXM0c1o3NDhKdWF0a3AyVGdoaGpVWlBQSnlCVW1NbGJz?oc=5",
+"source": "Stocktwits",
+"published": 1792804598.0,
+"stocks": [
+"Nvidia (NVDA)",
+"Apple (AAPL)"
+],
+"keywords": [
+"record high"
+]
 },
 {
 "key": "3b4de786d2062271",
@@ -4826,66 +4889,6 @@
 "published": 1792753489.0,
 "stocks": [
 "Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "3fe0dfe673f0ce2c",
-"title": "What Invesco QQQ (QQQ) Sold: NVIDIA Leads on Oct. 21",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdGtoYmgwX2ZtTUtpMWNKVnppUFd0d1hMeXByTF9EZjBXajZ1VjJFV2V4RlY3YnpaeTRHMC1VcnQyYUNzdzAxZV9uelVVWkJVRnkyLWJGVlNndDZBQnk4MGctQXFfYV9vb01Xand6aFNrZHFTbk5vZHdRN1YtZ1pjeXR4MzRybUg5Qk1GNXZucGJ2NlN4Skdz?oc=5",
-"source": "Yahoo Finance",
-"published": 1792753457.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "8eae8bf8bb937dd3",
-"title": "ETFs Are Net Sellers of Tesla (TSLA) on Wednesday",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNT1llTDlpdWRnSVVRTUZYYXpYcHptNGdpZXhmMWlGX1I4WTJ4T3NkWEhUV3VOUElvRWFkT3pUeFhhOWIzMWlUXzJTdUZNdHA4UTBlVkpoRG8xbGpXVVd5dG9Nc2dSN0E1azJYU1RRYkx1NXJHeVhyd1A0U3YzWFBoLTlQMFNpVmFSYzJ4a0JFZ0t1UmRscVBV?oc=5",
-"source": "Yahoo Finance",
-"published": 1792753382.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "c048e65d492cdc7a",
-"title": "ETFs Are Net Sellers of Tesla (TSLA) on Wednesday",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSS0yWDF2TjVqSkpxY3hRcFE2N3pTd1dlbWVDdWZQbXh2LXlMN09yZk91azRUU2w3bWFVSG5RRE9TanhsMlVhVFcyaE9paE1rSmhhTVQ4c2kzTkxFeFNyYjhoOWlZMkdHZ1dKOENGTEJaS1A2YjJKTTMzQklRZ0F5NVRB?oc=5",
-"source": "Yahoo Finance UK",
-"published": 1792753382.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "d068e48c1f269479",
-"title": "ETFs Are Net Sellers of Microsoft (MSFT) on Wednesday",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPU2RqUlBfSXRlSDFlWlFRZHB1dkhOY1A4d2dHRVJYUkpFYlNYTGRXQnJlZnlGSnJXYUpDYlZacy1wcDAtRUgtSGRudDNRUlpwT0pqYWV0YVhlbmtSaDN6YjZYZ0FlWENhMzg2QlEzb2dlZkxqSjNEYnNXcm5rTGs1b2xOWW5NdUpoY3VoVmN2NUYwZFBPdUVLQTlwbWQ?oc=5",
-"source": "Yahoo Finance",
-"published": 1792753343.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "4e20d1a32d3cfd0e",
-"title": "ETFs Are Net Sellers of Meta Platforms (META) on Oct. 21",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTm1ESVJlZTFrQ2dzbzNrYXVrSWxNSmpkMkNVa2FKMG1WZ0Q5WDJpemo5dnR4Vzl3TXNORk9pa2hWQWZfUDJxS0ljT28xeW9yN2JyODJFRUZDX21QSVM3Yi1SSkZhNE5yOG4zUEJ1V2VGazJ1M3dQVEZVU2tBY0E5N1BmYlgweGJRUHlXRlRUXzh3b3F1dHdnUUJ6UWU?oc=5",
-"source": "Yahoo Finance",
-"published": 1792753330.0,
-"stocks": [
-"Meta (META)"
 ],
 "keywords": []
 }

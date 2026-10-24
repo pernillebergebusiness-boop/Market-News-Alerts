@@ -1,5 +1,5 @@
 {
-"updated": 1792832333.7774203,
+"updated": 1792833667.1012776,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -69,23 +69,45 @@
 }
 ],
 "feed_problems": [
-"Yahoo Finance: HTTPError",
-"Oslo Børs (Google News): HTTPError",
-"Norges Bank (Google News): HTTPError",
-"Markets (Google News): HTTPError",
-"Equinor (Google News): HTTPError",
-"Aker BP (Google News): HTTPError",
-"Aker (Google News): HTTPError",
-"Kongsberg Gruppen (Google News): HTTPError",
-"DNB (Google News): HTTPError",
-"Mowi (Google News): HTTPError",
-"Nvidia (Google News): HTTPError",
-"Meta (Google News): HTTPError",
-"Tesla (Google News): HTTPError",
-"Apple (Google News): HTTPError",
-"Microsoft (Google News): HTTPError"
+"Yahoo Finance: HTTPError"
 ],
 "items": [
+{
+"key": "bfdea96862f32e06",
+"title": "SpaceX Tesla Merger: Musk's $1.004T Fortune [2026]",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWll1T0dPTURhY05EN25yNUc3LU8xaXJBNlJNdjJFWjVZcU5WY1M2YnNycHNPa0tiSG1BcGdVSlUtMWVVRmVzZVlULXRkd1h5S29uNEY2bHE4SV85YU9RRGNHdE9XcUlYM18zLWJvcDhDZmhFcW53dXMzcGp6Y0NSUDdZeVU?oc=5",
+"source": "https://tech-insider.org/",
+"published": 1792831939.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "762209c0a135b8be",
+"title": "Equinor stock trades at EUR 43.55 in weekend trading",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYWFnaEdTS0RQQ1FLS3BtNW94SDNiSWZaY2FLV2hWM1BnWDNPMVM0SE40dDVFakVaMVZUOGdnSFhGNWxxbmJKajFGeDFBcGoySzNEZlNZODNnajNVd0I4ZXlBXzVYQXpVQmFIaHQ2dm51Z0JKaVBRN2VOM1NNZ1B2blJENkVKSm1zTDZNZ0l6c3hYX0YwX2N1cmdwREdEa3BqWUkwcHIzRmVnUzRyN2s3RjkwQ0RqZw?oc=5",
+"source": "ad-hoc-news.de",
+"published": 1792830707.0,
+"stocks": [
+"Equinor (EQNR)"
+],
+"keywords": []
+},
+{
+"key": "1a9fd74c30d2c8d0",
+"title": "ZERO injuries. ZERO airbag deployments. ZERO pedestrians or cyclists hit. That's Tesla Robotaxi's reported safety record across more than 3 million miles of autonomous driving. These aren't empty roads. We're talking city traffic, night-time driving, rain, and b",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8taVI2MXlzS0J2TUpQUnNPSk1mdkV0a1ZoX2ZudnVHOTVMVERsaDlGZGwzb0lKeXVSRGxZNVNiRl8tUjl5ZjNpZjJrdXlMQktYczdJQ3hwbDdnNWViMGU4MWcySlFNY3NyUUJWSg?oc=5",
+"source": "X",
+"published": 1792830600.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
 {
 "key": "90cbf6d578f37cb6",
 "title": "Tesla-SpaceX Merger: 50% Vote, Terafab Chips [2026]",
@@ -143,6 +165,30 @@
 "published": 1792828226.0,
 "stocks": [
 "Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "f1b0f897cbd29cc8",
+"title": "Commonwealth Financial Services LLC Sells 785 Shares of Meta Platforms, Inc. $META",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTVM1V09YZ2ZHTFdtb2U2WHhZc25xdm9wTEc4THJBZGpfUFJhVGRwYlZjeUxNTklCV2tveXV6dUFTMi1JMlMxckJMNmVaYkowc3JUZV85WmFUczV0ZGI5SnRWNDJPeXdWaUhxYXdWcUg5ekJwUFZ3YTZrTnBFcWVCNTlHeHFmemZzVWEzR2V0S0VodDN6NmtMNjdMcEhJQlltTll3c3ZpR3hGRl9ZVDY5X1hDWkVQYlFjWDFsNUFNc0VqVDIwYlRjT01lWUx4azZmUmxIZmxPWQ?oc=5",
+"source": "MarketBeat",
+"published": 1792828065.0,
+"stocks": [
+"Meta (META)"
+],
+"keywords": []
+},
+{
+"key": "fb641c81bb4393e0",
+"title": "Form 4 Meta Platforms Inc For: 24 October By Investing.com",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNmJfa3BDUkNESnl6OFhpcGRzci1xSnNtTEtNd1Z3V253b3AxQ3BaZWtxanZLRUdqSFpxemJfRnhpQkdWSVBreGNaT00tNDFVZGhFSkRNeXphcllrRk5XajNBRVlLVFpDVnIwczNQZXhSaXVzRzBfZ1RVdTlLckNGWFVMdjNMbUxSREM1V3JyaDZHblVoZ3o4bGV4RGdYQTlwUDdZ?oc=5",
+"source": "Investing.com India",
+"published": 1792828042.0,
+"stocks": [
+"Meta (META)"
 ],
 "keywords": []
 },
@@ -291,6 +337,18 @@
 "keywords": []
 },
 {
+"key": "1f0486cadc9775a4",
+"title": "Tesla, SpaceX Bitcoin: 30,221 BTC, About $2.5B [2026]",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1XNmNiRlpybnJab2pvMU04ckVBMndqQVhaakNWZ3o0cUpveDdFd0pZeFJ0MVE1RU9xWGFiRFJVT3M2TGk2U2xRTnFvemgtcE96cHpDZXJudDhfWTMwVEtUNTlJcnBzVEgyb280ckJiOWhOR0lEcWRSTmhB?oc=5",
+"source": "shattered.io",
+"published": 1792827010.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
 "key": "397b8a33908a5aa1",
 "title": "19,053 Apple Inc. $AAPL Shares Purchased by Boyce & Associates Wealth Consulting Inc.",
 "summary": "",
@@ -399,6 +457,18 @@
 "keywords": []
 },
 {
+"key": "93908fcb480e04e5",
+"title": "Apple's iPhone Duo Is Going To Be A Massive Hit",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUVZ0VGJMakRZOEZ0T3VFRElBbHNVbGJTMFRSNHRzckFLcl8wX2dFS282R2N3YWhEX25UcU9xTnMzaFl4am1NWHFvQ1g2NHJuM1FTVnk3T1pFaXoya2RlRzBhczBkYjZLcWpLT2lOQ0I0dklOZ0hpSURXSFlDMmpYWHVadDFwOWV1Y1lsU3VBUkxqSFVrY2xBVmNoWXFsRU1UYTVvaWx3?oc=5",
+"source": "RealClearMarkets",
+"published": 1792820085.0,
+"stocks": [
+"Apple (AAPL)"
+],
+"keywords": []
+},
+{
 "key": "1d820a0b4a78704d",
 "title": "Windows 11’s Xbox mode needed a keyboard just to get back to the desktop, now Microsoft is fixing it",
 "summary": "",
@@ -419,6 +489,18 @@
 "published": 1792819512.0,
 "stocks": [
 "Equinor (EQNR)"
+],
+"keywords": []
+},
+{
+"key": "e87ed29cb6983ad9",
+"title": "Nvidia Introduces MicroDuck Mini Robots With Isaac Lab 3.0 And Newton Physics Engine: 5 outlets compared",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQN3ctcnRTcFlzTDdieE9na1JvVEJuR2I4UjJPdzBsdUVXTjF2aUZSLTRobXBZbHVwQzEycHVHUmtnbU9OWVh1aVI0dnNiU3puWkt1S0JZUFRkQWJyeWJBNGNMVGNrS2Z3X3d3RXRsWlVKZElLLVZiZGk1MjFJUTRqaEpqdHMzMWVMSEVFQmc3aW1qemtzdFdoYWthN0pfSXdKZkx6U0pSMTNHR3VzN09OSDNaRktmVloydlNXcnhxUk5lbl9xTzFQUXk0ZlY4Yk5kT3lQZVZSWU9HeFg2b3o2LVQwTzNzUXV2cGc?oc=5",
+"source": "NewsCord",
+"published": 1792819462.0,
+"stocks": [
+"Nvidia (NVDA)"
 ],
 "keywords": []
 },
@@ -4805,102 +4887,6 @@
 "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOOXl4bHBDVENMOE1PYWJZUEJXeEJfdUlzUjhNTVZoeFE3SERZMktlOHBqUDItMFhWcVdjLXZPOVB1RG9hNzhrMmd3ZWNlYVFDbzhab2V4dVA3aEVqSENLM1ZfQzNiNmx6R0VaTVUwRU9FUUFnMV9kcDluWEJTOE10OWx3N0RhRHNZZ1VZZzJLVTFzdW5ndXpkQjI0SU5TaExsclZaUEM5cnhSQTZhYlhEM3lpTUk5aFZkRFk4bzZPaENrVTRrbnBQMzhUSHMxSzRCNFFGSHhaRi1TMWNNamlQU0Jzc2tXTDBmRUxFQUljMlFGSkJlOTFwQnZXckNibC1zTFVXUm9MTGhuY1RPZHVscE5YUmFzRU9aZ1doSUtuSGF1dEVxNlpjWkl1SWRzOEJBNHAyY0dtZFJxUE41a3JRWURuZE1LUFVacUgyb2UxWQ?oc=5",
 "source": "Tom's Hardware",
 "published": 1792758383.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "d7ec833227b66271",
-"title": "Microsoft Links ConnectWise Attack to ARTEX AI Agents",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaWNUclZaUjFlTXNBWHU5R1k4U2JLcDk5bG4yUWM1Q04yckJtdzBLNTh4U3RrVk9JV2RrSnJzeGlGemFPVE5zYmplNHpwZ3FuMzE0c3llcWRwanl0VUc0ajVFai1aQXVFSGpSMTNBUkRYY25RbXZ2MmlTV0pmenBGcVhCMDRQTWc0NlRnaU530gGWAUFVX3lxTE1DVWpKQldYWldxd0FjVE5saGFHemNGRTVRN2lTbFhQZWV5Qmp3X3Qxc0VndGU0YXZNU1FncnlvSzJZMzdONko0WUZVU2VNT1h5OGNRZkwzQmtfUk1QSlVtUU1tMzJ4MnlKLWhPQjBNaWdTMmdOeE5qbUJqZUVOWGZ6Sk5wcmpTOUZrbXJOczdNYWNDVG12dw?oc=5",
-"source": "FindArticles",
-"published": 1792758331.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "65a483a1c5f5f1ac",
-"title": "Microsoft Corp. Estimates – NASDAQ:MSFT",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE12Tnp3MjlaZldkWHJ5c01zRnBoSjB1ci1SLW9ITTJkSVVFLVNNdXRfaDBISWYzYVRfUVF0VGJtZlFDM1VMQk15N3RvV09RVTVCTnlETnhBZkFyMEJWNW05a3BEd0M0WHNpc3VGdmttampfVEZTOW00dw?oc=5",
-"source": "TradingView",
-"published": 1792758241.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "aaff0f2a53ab010f",
-"title": "Analysts Are Bullish on Top Communication Services Stocks: Meta Platforms (META), AT&T (T)",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQc21ENG5SWVlUcVhyUkhINXBHWTZYZXhmSmc2QU1LRFN4cjB2NmViMEpOOThCLXVuMGlici1URUlKY1ZfRnozVEJnQXVJd3puNXlua0RERHdoRmNndDlIT2w1aGNVWkc2aURPZ2dtTE9vbUF3eE90WnJpNGlfR2RpR3RZbHF5bzNkdEpTMVNwbTNhS29OeTJpNjYxbEJlMXNqdktuY1NHVlJxcWJxMEF0N1gzUGxFQVcwZnV0RXFiYkxBdkJtQjdQSkw5OERTcnpVV3p2bzVya0tueDgzeVRqa0R2dXJiU2UwZ2JGcjBCRXZzT2h1c3FsdDlzTQ?oc=5",
-"source": "The Globe and Mail",
-"published": 1792758120.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "40ce5da75bb5a6c6",
-"title": "Aleria to deploy Nvidia Blackwell and Vera Rubin GPUs in US and UAE",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNR1d4WTJyak9acE5JdEs2MXZhUEhZR1liYmVJeUxDRmpDbnZ5ZUJpWDF0b3JtVE5JWTVHWGcxc3dvNjhWc2xGckVRSnJIdGpwV0F3cEFzSkw2cTZ3X0QwbkU3ZHVZTVlKbGpNcWZQTV9NX1EtMEh4bVZwTkhocW9Ba1JTdmxTeU95NTI3enJmcUV3REZDSnB5VTRsSGFIWGRKZDVHNXJkdUVVZ0s5YmxhRQ?oc=5",
-"source": "Data Center Dynamics",
-"published": 1792757895.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "3bf332f96b99ab68",
-"title": "Microsoft Shares Lessons Learned From Its Carbon Removal Procurement Program",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSU9Nam5IcFVKRFB0ZlVTQzYwcVczNVFvUUJTYUllWGRlVlo0enpPeS1CcVdHbC1OSlhCZWFEaF9xWG8xZ1hyMkNlTlRHXzF6YlZpSXFRVTVrM2NBa2I2d2drb1N4ZWh5aVZkMGtUZUFyZHNmdXlIenpFN0UwVFJpSjFQM1JrUWNhRi1XZ3NscjhYNTlsd3c3SHZBMmhQQ1NzYmotYQ?oc=5",
-"source": "Carbon Herald",
-"published": 1792757866.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "71473d96dbf63970",
-"title": "Higgsfield Extends Series B With New Investment From TCV and NVIDIA",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPallRQkl5MGFaOWNMa3Z4cHB5ZjcwN0JaVzUyT2dUZnBlczRVYkliWFVTT1VwOWhDZjBmM3NFSXJpZHBkVnpnRWNYMEU4aWdJeUZhbHpZZTNiNDlJQW1nS1EwZ1ZkZUVobXMtTEx2ZnJVNV94bjhGNUhjQTlmRGpkMnhMb1lab0FfMVRsNXB6RDQ?oc=5",
-"source": "Yahoo! Finance Canada",
-"published": 1792757820.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "a5c5229f82fbea62",
-"title": "Higgsfield Extends Series B With New Investment From TCV and NVIDIA",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUGRCQmlVOHc4d1JtTVpKSi1aMFZzbERHZ1VzaEZUcUtpQ21telB5ZWZBUmE3QWcyWWRsSjYtcnJHNDYySFRlOUxXaU9PT3FXZDZvaE5nNVZxaWtPOE1aUndiMUFya2s1a3BQcldiYkpEaDFNX1NETlFsZllUYWY5VWNGZHFXMGplbERyS3pXTXdrUXBjNWZCQXJGQzA5OTNCSkdpWQ?oc=5",
-"source": "Yahoo Finance",
-"published": 1792757820.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "a02c07f2690b03ff",
-"title": "Two Critical Nvidia Stock Flaws and Other Reasons to Sell, Says Analyst",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5SVktBZjJfVEV6cG1KNTRURUZ5MUNuSmFSeW5aeldtcWg4LWNkZC05TVVmRmhZYzhSWnNtbG81Vkt0ellCTWZ3dGRYMGptZ0xfZGdCTU8xY3lmR2tjNE80NE5MZ0l1R3M5M0xHV0k2THFIYk13QXlRRU5hSFdzZw?oc=5",
-"source": "Barron's",
-"published": 1792757760.0,
 "stocks": [
 "Nvidia (NVDA)"
 ],

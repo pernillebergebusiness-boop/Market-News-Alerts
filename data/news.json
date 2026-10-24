@@ -1,5 +1,5 @@
 {
-"updated": 1792804603.2005262,
+"updated": 1792807234.8543656,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,6 +73,30 @@
 ],
 "items": [
 {
+"key": "3f19db6855a1e662",
+"title": "Huang Backs Kazakhstan’s AI Plans as NVIDIA Expands Partnerships",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSGJ1SlZ4NHN6MjkwSjRsbDQ4Rk1IZjdoNEY0bEZHZ0xkLTczZUJQaUFuRkpiR2wxeTY4aWxFYS1DS3c5VUY1ZklaVHNUay1Ic2ZZOHFMR3o5MkFObldNNTZHQy1ROTAteWl0QmhmdFdTNTFkNDU0cnh0Z0l6SHpyTktLcjZHRURSQVMyZg?oc=5",
+"source": "The Times Of Central Asia",
+"published": 1792805085.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "eba57a10d500933f",
+"title": "Tesla FSD Crash: 70 mph, 1 Swerve, Data Missing [2026]",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObDVIYkRnS1BxRVNrc2xNSTZmXzYwb2RaV3BXNjZROS1GSWJZdnBRV0RKTVFlNVdWVVI1ZGNxRG5fUTVJck5MNzEzR0xTN1lmaDgzbVNRUDA4YUNwaU9vWThSbkk2eGhFWnFGcExnQmM3cjlNN19xaDJuWS1iRVJFOFJRSlZWcHNoNmlsTg?oc=5",
+"source": "https://tech-insider.org/",
+"published": 1792804929.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
 "key": "3b4de786d2062271",
 "title": "Stocktwits Zero To Sixty: Tesla And SpaceX Form Merger Committees As Profits Drop, While Rivian Buys AI Startup And GM, Ford Advance EV Plans",
 "summary": "",
@@ -91,6 +115,18 @@
 "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUEhwMnpILXIyRTJHOW5qZXhYT3RIU1NVdUZ0YzEwaVJWMEFmdGpXVVpsdUY4UEVSUHl1TUhMaUdIVWJrVTFFMy04ODRUUzR0b1dFZFhXdWxVdWhXam85NlY5X1VkblVCNXJILWJ6MC1xQ09Ld29aTVhueXZLNFdHZ1FKMFBiX0RUR2tCUDgzelhYemFwYzBuQnZVdTJsUnQ2WXZTSTRDWEpPbjN3QVZzMTZpZi1uVUdGMHc?oc=5",
 "source": "Gasgoo",
 "published": 1792802920.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "131b03408908cc30",
+"title": "Tesla Just Reversed Its 2026 CapEx Surge — Why Gordon Johnson Asks If It's the 'End of the AI Trade'",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxON3JlVW9SaS1ubkJXVlhpVXBNY0lGMHp2ODIwbk9YVGV0QUd5cU8xakMxSUFobnY5X243b2ttUkxqc0gxYlh4Rzg4NnR1cGZOQ3V1VVBRXzhOVXVPVzZaenZZSkc1NnBtbWI0UncyRl9PSDV2N0VRdTVldWE0cU9tTTc0SzBKOHdtWENUQjJDUEU3V1gtRWtmUnFR?oc=5",
+"source": "Yahoo Finance",
+"published": 1792801800.0,
 "stocks": [
 "Tesla (TSLA)"
 ],
@@ -128,6 +164,18 @@
 "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTEpCMkdJcVJadjZKYnBOUmpRWFFybEtjSjl5UnBCOVEwdW1wY08zWVpRbEhMTE1QNE8zV1pNSGlFVGlMNFJPc09wXzMxMzJmQ1VaejJxaFMtV0JiVTUxX2JWOW9tblViQ2dQUDZIeS1hR2lkZnVpeWVtVkxFVkp5endVVkpxSmpjeWd0cGRXMWVMLUxDRTZZeTVVekk0ZU1XR1pwaWFhcGxzdXAwX2NkWTB0VnBjbUZuWGc?oc=5",
 "source": "Shane the Gamer",
 "published": 1792800365.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "77997c063c8f4a61",
+"title": "Microsoft Brings Its Customizable File Explorer Context Menu to Windows 11 Beta Insiders",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYnlRaU9MY0dlSlJQVjJOYlVfMTRFVGo1ZFNySDVmTklSdllHRE1HeXowY0lZMWhtY09JRlVTM3FTRThNbndsTWlrQnF1MzkwUWdpWnMzd3lfMk9WMUUyWE03VXdFZEZ6cXc4aEVoYzlRNlpNLVY2MlVpdktzYWJQWXZYREY3SGhVR1NlLXhsVzRBNE5fLUNNc2MzZzViYVhFNno1amszTzA1UmNZNnhVYlZSWGlyV0t1djk4OG5uZjjSAcYBQVVfeXFMTXBKTFBpS2ZUbWM5VU82Sk0yc1VCOXJHRnRUaDBNWUVhb2NIdGlGWUZldmRMR3AxTGRsM2xHVWFpUVhIVkFTSHpDS20zR0lvUDd5ckNqWFJyNldlNlFrV1VtRE5vYWFLbTVMZjlPaHpWVTNzQlVMNUxKcWlRWU1PVHVLSmlHVU56RExmNUI4WUdGS01BZnRBczNFcS1NZ1R6a0E3U1Y1UlN0QzI2cHNBaEhibUlJT2lEdXhrVE1ZeFJKbEFIRk5n?oc=5",
+"source": "TechPowerUp",
+"published": 1792800150.0,
 "stocks": [
 "Microsoft (MSFT)"
 ],
@@ -4838,54 +4886,6 @@
 "published": 1792753330.0,
 "stocks": [
 "Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "2ec938c5dcca9dd4",
-"title": "Apple’s iPhone Duo Ushers in a New Era for Smartphones",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOF9RbW1NbGtwYXc5bEZxbFdpM0Ixd0h0ZHh5QU42b1BPZkZBQW1zVDZ0TUg0ckhIdkdmTjlXYnJ5aTBqVFdiNDZKT3FwRTZkWlYxMGZYNUpwMnloZS1CN09qbkdVR181bmJ2VVlOcnlMbktuQlJPY21yeHU2UURHY0lYZ09QZ2FXOHA5S0ZlUzJKRXMzN0JOOEtCQlVqLUd2VWZDMTc3YXc0SHlNTklLZVdvZ1ZaM05OQWpNbFpmZjludElZd0pxTA?oc=5",
-"source": "Bloomberg.com",
-"published": 1792753321.0,
-"stocks": [
-"Apple (AAPL)"
-],
-"keywords": []
-},
-{
-"key": "207c86a671f37846",
-"title": "Should you turn off the page file on a 32GB PC? Here’s what Microsoft actually recommends",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMmx1V0ZOaWRtUW0wMWpoWkxmS09xa1l5QlZGa2VFNXh5dV84cFg0NVYtY0lPeVJWOHdUcnNZXzdrYnVIYkgxd2RPVkxfRWloalN2V0l4QmFqRi01UFE1SmFPMWNkLWhRbDJucEF2dnhvTXBqSk9ydllQUkRWN2RNUTNxdm1kMEVqeV93ZUZLMWRFb2FZbVNxZjk5UWYxUFBCV0NDYVBHUk9JYldXQVBkejMtSkNkM1A5c3J1WTVnRkh5dGRGbEE5dVBmSzVmaDA?oc=5",
-"source": "Windows Latest",
-"published": 1792753277.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "b989975d7b64c585",
-"title": "Is Meta Platforms Stock a Buy as Revenue Continues to Soar?",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNd2FTR2VVcnNyQXoyWndTa205TWVDOTZhTTdudU0yWUlPMERDXy0zVnRlSHgtNkJRWGJyTEtqUXl0WHZjeUNKYzNWdk5ZeEtnYmZUWjJKbmVfaVVtOTJ0QlhYOWcxSVVabFBKQUtZVF9wM0M4WUU5RXBQT2JRZXZwd0NOWUd1aUoyUC1rVGxyS1g0V3Jvbm5sU1BxX3Fmdw?oc=5",
-"source": "Yahoo Finance",
-"published": 1792753260.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "3012b1545a3379c5",
-"title": "Nvidia’s China Market Has Effectively Vanished: ‘Every Restriction Also Gives Chinese Suppliers a Larger",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLVB1cEhqVEktM2hKVTI4RXpMSE1hN2ZkWkRTOUc5NHQ3N2JOMHJGaDN3SFJZb0tIWUI5RnVfb1V3TFZuU1dHdDlmd3RkWVdENHNrRlBDMWZET1JEN0hsTmlDSkdqdm9vUkZZNmtkbUUwamZ1UWdBbldQWkdVNUFENlE4RnlrbEh6TzVkQlE4U0dGa0I2bUtj?oc=5",
-"source": "Benzinga",
-"published": 1792753219.0,
-"stocks": [
-"Nvidia (NVDA)"
 ],
 "keywords": []
 }

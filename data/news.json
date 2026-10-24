@@ -1,5 +1,5 @@
 {
-"updated": 1792870474.0793016,
+"updated": 1792872007.4667318,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -72,6 +72,66 @@
 "Yahoo Finance: HTTPError"
 ],
 "items": [
+{
+"key": "90a024720440c804",
+"title": "Tesla Reveals the New Roadster’s Fighter-Jet-Inspired Cockpit Display",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYkNFLW5KbEFPbEdIQnhvZkxac3lRZzc4UTcxSmp1VGU1NnBpZFpja09hV2t0MWdzODNzSW83bERzV1hlU3VmS1NheDdJeDNSeUJZenhNWm5wLUNITDRnWUp6UkthVWF2cFg1NUZnZGs1X0lfalhpMjRYZHFZcXNhN3FXYmJoWDB2b0lYUFNR?oc=5",
+"source": "Drive Tesla Canada",
+"published": 1792871418.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "d53507c16eb88ff8",
+"title": "Xbox’s brand-new COO already leaves Microsoft after three months",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE52bTdjajU1b3NZeDEyM3MzSmttVG95UERIVngyYm9fdnhYak92V3loUDFKZGs5YllMb2FUR29ZVEJzejRZOGlRc0lkYVZWTjNxODl2OGR5eDB5T2JzZWh1SHYzUHdnQnJBV3RENE92QkYyN2pIOTZOM1hvU2E?oc=5",
+"source": "JournalArta",
+"published": 1792871184.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "1e5dcfd06d3859b0",
+"title": "Marvel’s Blade Game In Trouble As Microsoft Hunts For New Studio Buyer",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5jU1dYMTJLaEM4aHZyMEluWGRrdmVjWDVTSUs5dnp5UzVvd1RZSGM0UURrWUNuSUZuckM5UTdTZ0xaYnNvRzBIZWNVcndBTldEdWF1NGRmMFAxVnNnQ3J2RXVqVUQyTk9ncjNiZQ?oc=5",
+"source": "Cosmic Book News",
+"published": 1792870877.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "a3fe4180f4824813",
+"title": "Stock Market Sell-Off: History Says This Is the Best Move to Make Right Now",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOV2RaNjdqQ1lMU2VQYzVmbWpuM1pzZkxHcW45N1dsdlRhOVY0ckRWMFRJQ2ozRTZTbHRRUGRPZ3pSdG9BMTNNTVp6QlRoUkJrczc3clE2WS1xOTRicmFpMVZ0akItVE1HUFZZYzR4Tk44bWo5eW1qWG56OUFHVE0ycGNJLTlzRzVLcDZRVC1OaThGWEVueWg5aE5n?oc=5",
+"source": "Yahoo Finance",
+"published": 1792870860.0,
+"stocks": [],
+"keywords": [
+"sell-off"
+]
+},
+{
+"key": "2ad5e82aae14e039",
+"title": "SA Asks: How much could Tesla be worth in a merger deal? (TSLA:NASDAQ)",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRGtpb3JCblBZOVZHbWwzTG40dE5GWEJMY3pmTEtJOGVVTGM1Z29KTG1YTXlHbDFJTmp4bkdxSFRwVkdDeVVYQUY1cG9IRzN1TUktWEszc1ZrbS0yMDVTcUFqN21HRlRRLV9LREl4SU9EVFRkZHFsNnVXTTdISjg5cXNRV0dPNEpRaHZQTU9BU0x5WWNaUGln?oc=5",
+"source": "Seeking Alpha",
+"published": 1792870851.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
 {
 "key": "e8e8ababf05f3c7a",
 "title": "Stock Market Sell-Off: History Says This Is the Best Move to Make Right Now",
@@ -194,12 +254,36 @@
 "keywords": []
 },
 {
+"key": "269cf6e6fc5c7853",
+"title": "Microsoft and Alphabet Set Oct. 28 Earnings; Amazon Follows Oct. 29",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ReEtFbFRrcnF4TnRGeGVXSExtUGR1RlFaODFZZGVROENtcEtpaVlHMExTNDA3bE5YZXg3VS1jUHp2WVpHXy1tSE5BMHlQN0dhQldxMFlVOUo?oc=5",
+"source": "www.tokenpost.com",
+"published": 1792865264.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
 "key": "caf6c5346ab47938",
 "title": "Roadster-Inspired Tesla Model Y Refresh: What We're Seeing - BASENOR",
 "summary": "",
 "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTU9pX2hTUUdaSzkxN3NTVlA0WWI0ZUR5UlI3Yi14Rkp1dXFybldPYUEwcWFBNGg1Mnl4aDJhdzNmTUFCc1FLYjg2WndEWDVuZE9nVEcwbHlfSEhZRWoyckIwbmxFajk3WHZubVBSOVpKeWp1N3d6N0xMZUJhMDFfNktnWDFMTmNFTFludm5EX09sYlNONmc?oc=5",
 "source": "Tesla Accessories",
 "published": 1792865147.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "d291f0a17a071234",
+"title": "Remember that 2016 video of a Tesla driving itself? It was staged.",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4LVNTaS1TLXVsZzIwUUhSOU85VHAtcF8zUE5sOGF5a2FhTXljRW1mVkdZczZRSElvYU9aWVhXRlV6VHpWVkRwQm1BaUdtODQ1WVR4VkxTVUJZSlA0RFBsbS1fWUdvaW1fM3ZDWA?oc=5",
+"source": "Mashable",
+"published": 1792864545.0,
 "stocks": [
 "Tesla (TSLA)"
 ],
@@ -214,6 +298,18 @@
 "published": 1792864545.0,
 "stocks": [
 "Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "242cf4b69d3ef65a",
+"title": "Nvidia’s AI Guarantees Carry Up to $108.5 Billion in Gross Exposure",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9KVFY0RGJfSmF1ejJ5WmdVWWpnSjJDWnRpV2FoeXdWRUpDLWRmQ25SbTFpdVNVS282TDdveWJON0wwWnVuVjBHRXZLN2IyUHhUUnZQTWdDeXk?oc=5",
+"source": "www.tokenpost.com",
+"published": 1792864404.0,
+"stocks": [
+"Nvidia (NVDA)"
 ],
 "keywords": []
 },
@@ -248,6 +344,18 @@
 "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBiNjZOalgwaTZNLVlEOXN0M2drOWxvOFRGQmcya1d4bE5mc2tWOTcxNnlTN3VNQUFFQTJrMG90Y3dzT25FUVR3aWFKeVk4ZzdwNzNvMjQ2TFVIWTNjT3lCNXVzbHFOR292RGY1REdkVGRJOGw0ZXk1aWNQY3pTZw?oc=5",
 "source": "AOL.com",
 "published": 1792863420.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "bfb2953d26ee9b66",
+"title": "Customers Book Most AWS 2027 Capacity as NVIDIA Invests in Higgsfield",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ndFJkSHNEQjd4X3dXVFRzWjZKa19GV0NzWnpfdkRHazY2QUxWZElXUFJnamU4c2RuUlNzWmRtMVhkTXItelVsdmlXaUIwMm9GWkVKZ2o4TzY?oc=5",
+"source": "www.tokenpost.com",
+"published": 1792862958.0,
 "stocks": [
 "Nvidia (NVDA)"
 ],
@@ -4773,114 +4881,6 @@
 "published": 1792775887.0,
 "stocks": [
 "Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "5746f6c2c3aaa1e0",
-"title": "Broyhill is Upgrading Quality in Software: Moving from Intuit (INTU) to Microsoft",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOY1c4TUlmRzliajIyVUxwb3BxQkVtRkJ0SjNWYURsejdud2JzTDJ6c05SRU5JN0d5a0h3Rm9kN1QzN3l1SVBaZzhod1JXY3haMWlLSkpIcjNTM3dIeXd0WEFfUDhQZlBDcUVwN0RHblo1TmJVakM0WDBqTE1kUGJrVTFaQjlhUEFNa21aam9Ddno2MXUweURwckNUWDFLMXlhOUdmNURMaHZnS2s?oc=5",
-"source": "Yahoo Finance",
-"published": 1792775772.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "a4eb7fc4f5163cb5",
-"title": "Tesla Promised To Bring The Cybertruck To Australia And New Zealand. But It's Never Coming",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOVRsNWlvYlB5eWYxa0Y1cl8tTlZsenV3bHdEckZhWkVVeDlCWlA5SDk2ZVRxYWZiTFpOQnV2OWlUSUVqOG8yekNtcmR5ZEQxWHRpQjUyYXh1cDFldDNiRWdKc2FGeE5fLXBocTdKVTlQb01OMXVWSlRkV2ZJYllwZ1dEd1pZQVJYWWRXcGU4WWh4RkNCT3pNRTJWMzdMZjFUTGdYMTExdXJPUk0x?oc=5",
-"source": "Yahoo Autos",
-"published": 1792775634.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "13a9fe73e44a205b",
-"title": "Tesla Promised To Bring The Cybertruck To Australia And New Zealand. But It's Never Coming",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5OMGpPckN5WFB2VWNWZy1rWGU3cWZ1SWVIQ1BfTWRmNTVHTmhZaS1rWXlfakF3RC0wSnFHN0xRUDgxOVF2Ulo3MVIxemMxY1ZjQWtmRExWNmdTbU1nbE04cmxUckxpTGgtWk9rMTBDd0NadUhwN3kwcWNn?oc=5",
-"source": "InsideEVs",
-"published": 1792775580.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "054f8deba1534db1",
-"title": "Tesla reveals Optimus Academy, where robots teach themselves",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNXJEMEJSd2p3N1JRSTVheUxzaTZEZG8wYTU4SkdMRWl1QXlMRTZQN2c2X05jRHFFN1FsaFJMb3hWRmJxVFZzbXJLNTY3ZGhvZEt3bFljaE41ZzdrU3NTV0gxNnVfREhGYi1rT2tTb0pybFg2YTlVV21YblliQnA2RzVEbXFiNWdQdXk5NE11bw?oc=5",
-"source": "Teslarati",
-"published": 1792775547.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "d85ee6f8b63d5fb3",
-"title": "Siemens, Nvidia deploy industrial AI to reduce engineering effort",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQ0VpRjB2dkUtcmZOX2pQcGltZnI4LWt3ZXpZSjNoMHY1SmxjbkdKblVmTFNlVHhpYWl0TXJkRTIzUmluVnNHUGJKampzSUVGc1lrMVd4UHVRLV9ob0xVdGVnTkdVa0VFLTc0NHhScy1SNVdhWWtyTXFaSzktUlFqX0hZb09CZWVwV0w4QWtDUzF4enh2eFRqUlU4dVBWc1BCWTBTZ3NLN2cydzB1VkE?oc=5",
-"source": "TechTarget",
-"published": 1792775544.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "05b7d8ffb5a1d381",
-"title": "Wayve, Stellantis and Nvidia team up with France on self-driving cars",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBKR2VWYV9kTV80VVRWR0I0RkhjaDNMUFJxRHJHdVRjbDNBTkNCVzRRLTYtamNmM1J4eVBhR29tR1JERUttVllTWXRDamRlbm1MTG40ZEJnUWlUQ2Q1cnhGcER1UzIxMnJ4NXFpd2FsWC0tV1ZCSVJsRGQ2VQ?oc=5",
-"source": "The Next Web",
-"published": 1792775336.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "4c9ee55d4482c5e2",
-"title": "Tesla App Update 4.62.3 Release Notes",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRWZ5aXZCRmdYV2tnSVBGWEswMlllN0x1Y0thZ2h3b3B6MDI3X1lFblM0WW9TZGdUYTZLRzFmRzE5Mmp4dVp0SkRwU3hkU01PYndGZEh2VDFmTDROYlJIdFE2cFo3NXFkMWxiLUo1N01MZEpoYUZtczRuMVJZcjRMNg?oc=5",
-"source": "Not a Tesla App",
-"published": 1792775287.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "823a03a3f581fb90",
-"title": "Can a non-gamer CEO save Microsoft’s Xbox?",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQT05XVEZWdkg0N2lFS213NzdNQTdaNVNRNFNLN25CT3BRdWxtbW5aVG1YNzFzaXpfWm9idjJkVk9xM3ctUFJUWFpzLTRSYXVMS1ZveDFGZWg4WElkaWFHREZVTElqaS03aEkzVGhkSzZVcnQtWkVBdndxOHdnc09YTzRlbDczQWs?oc=5",
-"source": "Fortune",
-"published": 1792775220.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "d8fde4540742d60e",
-"title": "Microsoft PowerToys update makes your mouse smarter in Windows",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR3loVVJGUHZxbHlVN0VWblZWdndDNzcxeFhHNGxxem5mWFZXYWp6NUFEWWhBb0tlYlZfZm5WNUMzaG15MDNUVVljV1JpNnFRZjZSamlOazJEQk1yZmZTeUQ5Wk5FMENqRWp4TXZyVXdfZjFqcWNmeU91dGhGOGswVkZvQ21CSmJRMEV0YXFHOWVtR3FUWEJzZ0RPT2hVYVlXTXB0TmV2YnBlZDJM?oc=5",
-"source": "PCWorld",
-"published": 1792775207.0,
-"stocks": [
-"Microsoft (MSFT)"
 ],
 "keywords": []
 }

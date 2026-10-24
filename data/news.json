@@ -1,5 +1,5 @@
 {
-"updated": 1792811410.7229655,
+"updated": 1792813186.8456178,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -72,6 +72,18 @@
 "Yahoo Finance: HTTPError"
 ],
 "items": [
+{
+"key": "382120b488e1fe33",
+"title": "Tesla Hosting Electric Summon Halloween Events Across North America This Weekend",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcTUtN2xsNlJpMDlTdHAyY2owdDZfemY1NGJvNDhTUUdLVDJSallfN0toWnZCSkluN1RHQmNLQ2ZkNXA2RFRwRGg3OUVITGhmaGd5UDNlNldpdzNsNlZocWYxcC1aaUpWRXRydDdxTjRsVVpVcmNrMkZZa19zcUZ1VUdXQzRDT3ZMTmFXSg?oc=5",
+"source": "Drive Tesla Canada",
+"published": 1792810894.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
 {
 "key": "44e9287ec8df9068",
 "title": "Microsoft was using Windows 11’s speed test to push Bing, now it’s quietly backing down",
@@ -216,6 +228,18 @@
 "published": 1792802920.0,
 "stocks": [
 "Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "ee1dd102e71eb14b",
+"title": "Xbox Misses Microsoft's Executive Pay Target for the Fifth Time in Six Years",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWFMxU0RmLTRUaUFjb0kzaGRfWGNKWEd0YnJkcklRWmdkRXpTU0VHM1ZuZVpHWHBLVGswVHJ4bWswVzAwNWtCUDVXYmIzdC1KV0EyVnh5UkYxOG95Y1dFNXRIODUtVHdsc00xT3QwR2FUR2tBZ2JiMjdQdUZNZGdHaXlsMFprNjZmTWZzTWRFejhPMTN4Q1VXc1V2Y01vay1SVFlCa3hRSU1lWlZYYTZveGF5X1nSAbQBQVVfeXFMT1hTMVNEZi00VGlBY29JM2hkX1hjSlhHdGJyZHJJUVpnZEV6U1NFRzNWbmVaR1hwS1RrMFRyeG1rMFcwMDVrQlA1V2JiM3QtSldBMlZ4eVJGMThveWNXRTV0SDg1LVR3bHNNMU90MEdhVEdrQWdiYjI3UHVGTWRnR2l5bDBaazY2Zk1mc01kRXo4TzEzeENVV3NVdmNNb2stUlRZQmt4UUlNZVpWWGE2b3hheV9Z?oc=5",
+"source": "TechPowerUp",
+"published": 1792802435.0,
+"stocks": [
+"Microsoft (MSFT)"
 ],
 "keywords": []
 },
@@ -4864,31 +4888,6 @@
 "published": 1792753829.0,
 "stocks": [
 "Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "c43da0377eceb237",
-"title": "Microsoft wants to keep more of its AI billions from Nvidia",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcmUxb21RdVotQWxOZmtVVkV6UkI1WU0yNmFGcDJXdzlVMnpZY01vM2pQUGtzMEJlSTRLdndxSEtwNnZEUS1XZ2taYjJxdlJDRXE5VWV3SDhEV21rdFRNbnVNdGpTNmxfSThtTVo1Y193Z2tHcGNyQVpaWHJPWnA2Z0QyZjZmcXNZNUtMYkNKc1VXREE?oc=5",
-"source": "TheStreet",
-"published": 1792753620.0,
-"stocks": [
-"Nvidia (NVDA)",
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "aa6cd463a51accb4",
-"title": "Nvidia Stock’s Two Critical Flaws and Other Reasons This Analyst Says Sell",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVkJjcjhkc01sV0RFdHFxeVhzUU1DTjdyTUNoeWU0RjBPbWwtZWxOczlySW1fMFNMemJiSmdvVHRSUXlLcVNKSE9xQnd6eFcyYl9QY0s5c1dhT0R1eVRodW00ajhwR1ViYlpseGtySzFrN0w4enowM0Q3YllGTnJBaExhNjBHVVN2?oc=5",
-"source": "Barron's",
-"published": 1792753560.0,
-"stocks": [
-"Nvidia (NVDA)"
 ],
 "keywords": []
 }

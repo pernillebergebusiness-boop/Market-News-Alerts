@@ -1,5 +1,5 @@
 {
-"updated": 1792854364.0038993,
+"updated": 1792856356.4101548,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,12 +73,72 @@
 ],
 "items": [
 {
+"key": "5b9011c3618c572f",
+"title": "OBS Studio 33 released, adds NVIDIA NVENC on Arm64",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZGE2YmFfcXlOUWRQd2NwbXJTYkFma2pIbVA0NVpJS2ZpdGVtdjdjX1p5VW5yTGxZUXFOSTBtU0dJWTV2Q0N5eDNKazZ3MWU0SmFRbEhweldPcnJBeUlGLTU1U0NKWE5NcU9MOHNKcnVyQ3ktOG5vODY3dFE0Ykl1MHIwMA?oc=5",
+"source": "VideoCardz.com",
+"published": 1792856203.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "d815047e8fd82b27",
+"title": "Microsoft Weekly: OneDrive + Copilot event, BioWare shutdown, and more",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONGRFX2VVTVdLdk9NaFlEYWVNSVU3QkJXN192LXZkdXd4SUJSQ0dmM1JkbVZXaGJid1VKeGN4T0t1cTVNLWpqRFFNblhJTEd5OUk5RU5McWZYUE5TSklSNzk4czQyb0ZaQ3BiczJxUWMwRUVIRURQUTFLaUduZXFLelRRNll4WmdRRTJaSVJUZXJvekQ3REFWa1paQQ?oc=5",
+"source": "Neowin",
+"published": 1792855800.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "23383a638875b09f",
+"title": "Can Amazon Take Market Share From Nvidia in the AI Chip Race?",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOEI4Q3BYOTQxY3YxX2k5MEpWWEo1eXpyQ1Q4TTRKRm5XVHVsWHZwUl95X1EzbHZVdUVtaXFublpuajhKUFVhdTNCbFh2Z3hSMHk4T1RwbURlWmdWRm9FNnJEWUFfUE96TElZa0sxdW5KYjdKX1RYbWxxbTlyclh6SDFGQnpfNDh2cjRzZkxpZlRGc2dDLThaeA?oc=5",
+"source": "The Motley Fool",
+"published": 1792855310.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "02bff2f795bf21ab",
+"title": "O’Reilly Gears Up for Q3 on Oct. 28: Can DIFM Growth Outrun a Heavy $10B Acquisition Overhang?",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSGc5NjBoMF90RUpXcUVkeUc1cGhJTXVGbVF1ak80Q0tPekhMZnQ1YUNRNzlpNnRYMm5aSUFuTm81VTBJak55QUQ5Sk15OU5vYnpNZmxYdjh1U2lVdG1WZEVtbGtDOTZDeTNVVnI0OFdNNHBhRVBMZFpROHdjMkpuREU1R1JjeGRSVFRTcDgxNA?oc=5",
+"source": "Yahoo Finance",
+"published": 1792854647.0,
+"stocks": [],
+"keywords": [
+"acquisition"
+]
+},
+{
 "key": "f0f211cd6a41bdda",
 "title": "Why McDonalds, Microsoft and Google saying no to tokenized stocks isn't a dealbreaker",
 "summary": "",
 "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbm5pWDd4RndldEZ5NU1XRVVESnRLMmdDSUdqU3BDdUx0a29iMEFEMFY1UThtWk5VdDhXd2JMMllwd3h1M0FVZzNNZkM2NmVHUm4wd0FQMk81UDlYZksycnV5N2JIQ1hoYmNsbHlSTURFMkhyc0pSemo2MEt6R2N0amtPenJQWkNZNG1BSUhmbm1MYThvS3ZaNWJsWGtZbmlkOTQtX1Y0RElUYkNwQjlDSWo2MUp4NmJUVU14TWZJaGxpeUZCdzRyWg?oc=5",
 "source": "CoinDesk",
 "published": 1792854000.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "1d5552011b631bc9",
+"title": "Microsoft Is Winding Down The Garage After 17 Years: What It Means For Employees",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUlNIRVBRbHVKVzhKUGZtdkZpTXZJTDNnRmY5cFY0OS1ubzBGMGVWaTlvQjBZeTREYWViNWFmSmhDUkpTZHd2WnVfWVFCMGh0Wm9LTlhYMXNjM2V4dy0wcW5ZTnNmbDFpZVVZWkJ3Q3lGSnJWM3kzeWtOVzI2T1RPQTFFU08xa0RHdEFsZHFMekptdmRrVlNlVi1DTDJ6Y1pfTktpMVkwd3Zrb3JzWXZ2RkptR0Z1Z2xJbFFZdjFNOTR2cFFm0gHMAUFVX3lxTE9lR0RwcUJWR3AtRmxFVkhPYWhRZ2pQMmFvbzEyODJrazBVcFo0ZFRBYTlMLU55NVc5NWs0NlhzQzdjLTBMZ05KY0MwUVVIYm9TODBmUlkyR2VMMURzSVpWN29HN1BPdGhFc0h5eG1SYTdjZ2V6LXpxUWZNbXZXcElDdHpGcl91VnpxZWVEcnR1aGtKbWlnNk1EZ0pURzFMbGNxVXB1UGVZMU5ZR2Z6TFFNcWZpblI3MUJ0M3RoZTZDZURkUmpCT016ZlBNOA?oc=5",
+"source": "NDTV Profit",
+"published": 1792853991.0,
 "stocks": [
 "Microsoft (MSFT)"
 ],
@@ -93,6 +153,18 @@
 "published": 1792853880.0,
 "stocks": [
 "Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "2783062a2fee8a60",
+"title": "Nvidia vs. Broadcom: One Grew AI Revenue 221% Last Quarter. The Other Grew 117%.",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbUZXZ0JzckR5ZHE5Qnl4bkgzVlhpWWFIUU5IbFNSenNva0EwcEdDbzQxcEx2ckFOZ2RMclF2eVBGVVcyQnQtOVFYRG1WMzFtUV8td2pCMkVjMEtfeVlaR2UwV0ZEUXBsTllGX1VWYnVtaGNtR1hfODV5UGFIYlhNaVVDY3l0aUJJRHVjWWhPZmVqaFZtdnZ4UXJLNXl5UHpYcWp2bEt2dmxxalVNREt3Zl84Sng1d0FQNmc?oc=5",
+"source": "Barchart.com",
+"published": 1792852202.0,
+"stocks": [
+"Nvidia (NVDA)"
 ],
 "keywords": []
 },
@@ -321,6 +393,18 @@
 "published": 1792847475.0,
 "stocks": [
 "Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "4be149cc15400221",
+"title": "Apple Inc. (AAPL) Options Chain - Yahoo Finance",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOLW9VUnpESVF6amNWOHdkb0RsbWZueE5qczdWMENqcU9abGpIZFlRQ0h2OGI2dXhZUWNSSXJBVzBPWTg1R1dSbURZMGJkcXFfak9JbGkyZVp0S0xla0ZJNlVNYlhJT25nMjFIYm11UUxWM2NYeWtEelRDVTlIVS1GQW9Mblk?oc=5",
+"source": "Yahoo! Finance Canada",
+"published": 1792847395.0,
+"stocks": [
+"Apple (AAPL)"
 ],
 "keywords": []
 },
@@ -4798,90 +4882,6 @@
 "published": 1792766700.0,
 "stocks": [
 "Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "5e5205211a19bab9",
-"title": "Report: Microsoft Is Running Out Of Time To Save Xbox Studio Arkane",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcy12WFEzT2dCRXVwcXJjRGt0bjdXYzlWZmNtMlN0aldWZThTZWFpTWxHdzFtSEwwX3FHbTJGTEVjZENweGVZNzRHZWU4VlJwVVdaTDJuVmd4NHItVmRvWFpNR3hSb2JpOWhaMEJUVFZoVGFFWWltVWpWeDBGQzR2QzdKTDhxVmpIbWUwR2dGVkQ3QkdDMnVtaS10UkZwQzdvM3J2ZjdpNA?oc=5",
-"source": "Pure Xbox",
-"published": 1792766700.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "b5c3217d7bdce53e",
-"title": "BofA Securities Maintains Meta Platforms(META.US) With Buy Rating, Maintains Target Price $845",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONFE1bkF6QW9BR3BVVHhxZVNXNUZNSmxoM29XV3lfeHRlejdzOW1hU1BrRFZMNU9XZ2VyTE9Lc3lTdEg4OVpsRFoxb3huaGFIZmFqOGFFYlp1NVozVUZ4amVsSklTNWVfVnl1YUp3eVdXOW1PSDI2TjFqUlZZNG1YUFRvT3JsWktFMm95MVVvS2kxX3NRVXZyUHc4em5VMXVXRUxGa01OTnRZaHFMS0JKT2RIMFF0Q1pk?oc=5",
-"source": "Moomoo",
-"published": 1792766500.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "871d38d2a4e1f8b9",
-"title": "Nvidia ticks up even as Seaport reiterates Sell rating and says competition is 'mounting' (NVDA:NASDAQ)",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNenN6aVcxcGQxcmM3TjN1dVhDMDJidWhJN1dTbFQzODNqUjJlZ3FiTXhJRjVRLVFKNkFoLVJkTUhMbzdaUUxVdHg0aW5ydmw4Vmcwa211bjNobGlUeUxwUk4wbDFxbjhMaXFEa2VtVG5pRzZ3djRnUmtDalhzRkpLUFJHR0ZnblpzTWstTkdfRk5oSEtnZGFWeHlqZzlQTUcyS09lLVhvb0EyYUw4M2VJeXl2NXg4RlhsM3VCTHBjMGRpQVk?oc=5",
-"source": "Seeking Alpha",
-"published": 1792766382.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "7dccbcd62e4347f7",
-"title": "Tesla Europe Sales Surge",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNLThHMGhmVzBlZTNtdUc2RHdMdm0yZ2lBZEoyb05peW9aa2FhRHBoM21USkd5d3VINlFldjBBWmtwZWs3Q01pV1N4VWdhaVRQM2hFYm9BNU5GTnk5QVBoWW10NU9nWC1nbk9nNE9aQkoycl9wd1JLNVgxckN1bzFrNmt4NkhCS0Z3dlg3aDZZMDdIT00?oc=5",
-"source": "Yahoo Finance",
-"published": 1792766346.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "881c950b1a9b5988",
-"title": "Tesla Europe Sales Surge",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5fOEc4U0hMR0EzdGxTYXdQU0hXbTRkbm9vTklDQ2RZSkVKYWpaM3UxTlV6Q1daRTVkMkdHbUl2Z19lc1pGUldBbmF1NGlrd1lXMlNyZTV3YTk2ODlEUTJ1LTdFYUYxQ2l5SmlpUFVIZklKTHB6dVZR?oc=5",
-"source": "24/7 Wall St.",
-"published": 1792766340.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "a7b73cf47b5e9bac",
-"title": "Aker ASA Class A Estimates – MUN:FKM",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1oNW5iX1F1MXI1OXNyTGJLT0dQMzN5QmpyVWRxaDBkS0VkRnFuSmFyZllSaDR2bkhvejA3al9NbE1UelhRdkN1NVlRVWgyOU5ka2NxYlYzQTZtZDRvNFZvWTVFQWJtYXZnYlJlWTNKcGlTWFU?oc=5",
-"source": "TradingView",
-"published": 1792766202.0,
-"stocks": [
-"Aker (AKER)"
-],
-"keywords": []
-},
-{
-"key": "f7f3412dfc03c843",
-"title": "Not Intel. Not CoreWeave. This Underappreciated Nvidia-Backed Company Is Growing Artificial Intelligence (AI) Revenue by 123%. Here's Why It's a Buy Today for $8.",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaVBtNDk4Y2NFbmh5eWczMWVfaDBnTGpPS002djZSY1FkMWkybFZxSkZGbWQ3Q0MzMGhtR1RKcFNoWWk5NnNfMmxCZEQ5dWFQS0p2d1lBdlF6Vk5CUkowem1Ya2M2VUVCZ3hzbzUtWTFSbDNtTHF3d2FMLU9BSTlaTmsxcnZNaVNOc2l0b2c5VGJ3d1dlMnRubQ?oc=5",
-"source": "The Motley Fool",
-"published": 1792766172.0,
-"stocks": [
-"Nvidia (NVDA)"
 ],
 "keywords": []
 }

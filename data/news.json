@@ -1,5 +1,5 @@
 {
-"updated": 1792863412.5004256,
+"updated": 1792864982.4719858,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,12 +73,48 @@
 ],
 "items": [
 {
+"key": "805432c4762aed12",
+"title": "Tesla Roadster Makes Public Debut at Petersen Museum in Los Angeles",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNlNrS1dNSGdYOTFOOVRveFhzQW5OcHpndVN6TzI1c0RBMVpLYmh1aDBZd3drZ3dkMFZzYW9UcENuVnl2blhHendnYWRHSmFLaGoxUlpHb3FVMVY3bDQtRzN5TThHRzVFNXVBaXhTUHhlMUdtOFhiWlBWblIwTzVJMVNNLW0xQURwY0VWRVlFbzU2Unpnbkpaczh2cTdtZ3RTNV96c1Z3?oc=5",
+"source": "Electric Vehicles",
+"published": 1792864380.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "b0f93c09eae86a81",
+"title": "Satya Nadella calls '1873' the book to be read as Microsoft spends $41bn",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeDJ3UWRKS2RNeDc2eDRXUFQ4aF9TSW5GWC1TWTN6Z3JYd1d2aVZJQXZDVWk3dVZLRFZtaU1hYUlZdEFYUDc0TC1sYUtJY2duZGhIeTZkS21lM1hibXBoSDVib1VDYjN2RGxQMUFhbVVCSGJnTzd1SmF3MmcwdHBFcmE5R1ZXcmFlalBSSWV1aHM?oc=5",
+"source": "PPC Land",
+"published": 1792863498.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
 "key": "953f08872fddf9ae",
 "title": "Apple Joins Nvidia in the $5 Trillion Club. Here's Which Stock I Think Can Get to $10 Trillion First.",
 "summary": "",
 "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQnZzVWVvN1ZJT19fTTlZQ1o3M1ZuNmZDcHZ0NGpRR3ZGUjBvNXJESjdFMXQ0OFNkZzdTd0Y4UGlocTdjNmU5VHZUbTBNa0JJa3VZVUZsOXVhMUt4LU1XWjlZUGE3bVM2MVpYMDJyTktvVHcyQmxVRE9KSWR4UGJaTGhBbUt4TEcwc2JzY2JJSQ?oc=5",
 "source": "The Motley Fool",
 "published": 1792862776.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "99bd1c3ae38a8013",
+"title": "AI bear slams Nvidia's GPU pitch: 'There's not scarcity other than that which is created by Jensen Huang'",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOQ296eGZsT0J4ZXhoWnJrcmlOaC0wUEx5QlNQN2R6b3luMklwSTkxOHpsZ3d6aEtPbTVOaWFpSjZPUlRMOW5YOEQ5d04zU0VtQ1JiWUtSM1ZHV0dfUGpsUGlLQmFQVmtDRk5URkpRcmd3ZG5YcUZGOFV1SkJLd1RST1VjTkt2YkRNaDdPcjJMZ2hGT0tPaVYwSG1XdC1Nc0JEQjdJSzVsendNZ1dtdHlXQWRzQm5kaF83TFNsUFYtY2RTaE1qd2dJVTBkNkI0ZEYxUG5wX3VtdjNMREJpR05WcjhvYnhJeFp4b1lwR2FUbFJtUQ?oc=5",
+"source": "Yahoo Finance",
+"published": 1792862107.0,
 "stocks": [
 "Nvidia (NVDA)"
 ],
@@ -277,6 +313,18 @@
 "keywords": []
 },
 {
+"key": "9b10ab1ac27dedb9",
+"title": "SpaceX Filing Requires Controlling Shareholder Approval for Potential Tesla Deal",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBqdG0zS3Q1dUdDaGgxSVhURzNjSkpWcEN4S1AzMWhXaTZWbDRWMXVvQTRXZ0ptYm0tZDlQVW5kajM0LXZrcTJtZmtYZUNYc2g1NTFMSExiMUY?oc=5",
+"source": "www.tokenpost.com",
+"published": 1792859885.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
 "key": "a01d289158a9261e",
 "title": "Former Bronco Raptor owner says Tesla Model Y won him over in a week, despite one flaw",
 "summary": "",
@@ -297,6 +345,18 @@
 "published": 1792859110.0,
 "stocks": [
 "Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "f6eb5b1e069607ea",
+"title": "Sweden's Government Offices Block ChatGPT and Claude, Keep Microsoft Copilot",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1GS2JHNzFFT0FwTFJlV3F0OFdoZk13dEFNSjM4Qi1LRG95ZF9LRGVqc2t5MEtGMTZPa2JhcGsxSGt2VFJDTG1RblQwWEtiX2pIN21yeHJVUzBqSzR1VXkyVjMtZzc2dDc3ajJWZnl1X1ljbWJOaFMyRE5HR0E?oc=5",
+"source": "Decrypt",
+"published": 1792857663.0,
+"stocks": [
+"Microsoft (MSFT)"
 ],
 "keywords": []
 },
@@ -381,6 +441,18 @@
 "published": 1792856100.0,
 "stocks": [
 "Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "e32a381c0b16fabc",
+"title": "Musk Calls Tesla’s Merger Vote “Quite a High Hurdle.” JPMorgan’s Premium Math Puts the Stock Near $500.",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOV195cXl3am1lS2tmeGtDSmJnajJpVXZyN01wX0lDMTRFcDFfRG9uR0xnck5MU3R2NTh1NWVMUDhPOGxWVi1MS2JVVmMzVzF4eG9kdHU4MmZKV2NMZjFIQmhBS1FsQ1h5Nml3dXFRTzdSbUhabUh2aDk5T0dmemRNTnZiT0c5bDZPRDdVNk5EYmY4M0YyVUxwOA?oc=5",
+"source": "Yahoo Finance",
+"published": 1792856009.0,
+"stocks": [
+"Tesla (TSLA)"
 ],
 "keywords": []
 },
@@ -529,6 +601,18 @@
 "keywords": []
 },
 {
+"key": "46cca9004a4ef6a5",
+"title": "Marvel's Blade Could Be Lost as Microsoft Looks to Offload Arkane Studios",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVk8taHNsbTIzQVVxSWR5RWZETi1xTUtudEluTGFuX2JHM25fTzRMMkRfOUJOVU0tYzFHaGNwZEJnSFNZSFhSekhidFE2WGZIdExnRmpEbVVtaVdwTFFTOFBNdGl6eWctckRvUHNyUk84VExkMG1fazJIT3JUUlhrVzVZTVo?oc=5",
+"source": "AOL.com",
+"published": 1792851789.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
 "key": "af073e68e3ee5ed2",
 "title": "Audi’s New Spotify App Does Something Tesla’s Version Doesn’t",
 "summary": "",
@@ -571,6 +655,18 @@
 "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQ3I0cmJtX2t2UzYweUUyM0xIZTBVU2JXNE80LVBfZmZMQ3RlcUpEU2ZwVTYwOV93UllPNEVwaDVaV3RIb1ZxdmdDMzlVTnktYldndkRCdTNIOWRibUpUQm91RFVNc2FEdE9jQm80c3FTRXozWkZrTFlVWjY1cWlMZHUwcE5zcWFiWWgyVnZZVmcwZWNjaEI4N2N5OERGeldEUkVrMnFPYUhCYUlkMFVRR240LUZGQQ?oc=5",
 "source": "GameGPU",
 "published": 1792851069.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "d6a1c82653cd2000",
+"title": "Cisco and NVIDIA Unveil High-Density USFP Module to Elevate AI Factory Networks",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbVlmaGJ6SjNSS1duZGwwdXdmMDR4TzRjRS1tQ1JhUmpQOTltQVJqMlZjSmIzZUVnU2FYVVdaRHNhVGlVY25ibzdZamN4NnNyaUdTaXpKNkFqYklpZHZJc3AtNlFfYVlmR1E0UUxNVEVEVnc3STIyZVZmSm1NREs3OFNScmxYOFhZQkk0TEtXLU9iUGtOMTlVb3ZwQmw4VnJQVmY4N21VS05iQms?oc=5",
+"source": "Small Business Trends",
+"published": 1792851060.0,
 "stocks": [
 "Nvidia (NVDA)"
 ],
@@ -4786,102 +4882,6 @@
 "published": 1792771991.0,
 "stocks": [
 "Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "26ab394408ef802d",
-"title": "NHTSA Proposes New Rules to Clear Path for Tesla Cybercab",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOVFaRS1BODUtcGF1dnA1R180ajJCa2I1dVFoRjVKNVZvUmRMY0RVRU9sSlFFQ1U0Y0hSbVBpQS0zYXpGc3d1S0lfRGNWV3dmUTYzS2tjX2pKeWs2aUNqV0kxdy1YckdxUWF6RHFNczV1elBUUXVSVWhtR3o0T09Gci1ZZlNOd2RtVXhlRDFSOUlsc2JXV2VF?oc=5",
-"source": "BASENOR",
-"published": 1792771516.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "5d10f989c5566348",
-"title": "Microsoft Strengthens Digital Sovereignty Push with New Cloud and AI Protections",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaWQ5c3BMdXdSWXdfYUU3dHluV2lPcVNWVmZKX2s4M0tjcmYwSVV1MEhWcVJwSHJCeVZkUEZsMHUtWE5HX2Zwa0RoSHdLeDlxNHZGZ1BLS2M0MmQwNTJnUkpibE9pZjRhN2pVNUstbVM3ZjZCYzhnZ1dLTldVb3Y2VGZ5M0Fnd2NWTVJxZGdydmxNRUNxcmFtM2JpVnQ4REYyQ1pCekk0cEVjSnR4c3o1VlZ2X3RmTDRXNjlCVjV1ckwwZk5QX3BrdA?oc=5",
-"source": "Redmondmag.com",
-"published": 1792771457.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "f239094583cfb647",
-"title": "Microsoft’s AI Diagnosed 83% of Difficult Medical Cases. Doctors Got Just 36%",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVWg0c3AxS3VJV3hrdDJnQ0dRWXlHR2VOLUpZTy1KbjdMbWgtSl81Ymgxam9SZGRGam1ia1pPc0hLZEd6Q3JIbDN0c3JNR2ZZYTA2LThMSXgtNUZKZENRbkI0LXRwVWFYVmpsYUlkaXo3cVNXUU1WRzZvdU1jdDFYU2MzT2M2U0RMZTdualBxcC1HeERQLVNWZQ?oc=5",
-"source": "Yahoo Tech",
-"published": 1792771301.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "c049bda29501be7f",
-"title": "Microsoft’s AI Diagnosed 83% of Difficult Medical Cases. Doctors Got Just 36%",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNV1d5V0w5aWZsYkRBTUx2Rnc4YmdFTEt1SHJscVdMSGpKNnVsajVheUNQdWsweDVMNDdueENGSEhFVkEyRjh6NTBSYjR6LUQwSlY4OXFfempZenliMkVlWHpfbXVXVGtvSjNabDRhM09EWTRaLWd5aGlUa1ZBY1h2d0EzOHlLcUQzZUxYS2pTSGVDcU5NRkQ5RFpfYUFEVk5ELWRsVA?oc=5",
-"source": "Gadget Review",
-"published": 1792771301.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "bf84c2027d95a556",
-"title": "Nvidia CEO AI promotional push lands in Kazakhstan",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZXlvYWJacVpFN2s5b2FtcHY2MUYycWVqNTdkZzYwYVl0RFR4dHhKSVJMQTBHVFhLeEpfLTBGeEduLXdHLWlsckFtaTZmSnhMdXAyX2Y3djQyaXhZb2JRa3Zocm5WUWRpMG5nMUpOYWlFX0lXbTNITFhUaGdhekx5TXdMcGFYc1N1bjRvUlNuZVZwSHVU?oc=5",
-"source": "Mobile World Live",
-"published": 1792771287.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "6cd8e456b050f878",
-"title": "Nvidia's Latest AI Power Play Could Shake Up Video Industry",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUnR5QlJTeThiLXBtVUt5LV8tck5BYmZEeER6Q2xBd2EtWmVXVm95LVROeXdmbGhIQ0N1VUJ6Y0JzNGJ2bXlJQnh5Tk9pMGVfeHZjeTZlQmFpX3B0WnBSY2FSSFA3cUpjZmMzRUhBQXhDY0UyMEtqUFh0YWhEb2g0ZWczQWk4THJDOWRvelJ6SlRLSDdZdUVKQjBDY09RV25hdkYyVHhHcWVqNmo4X3FiSXBmaS14RkZsVUNv?oc=5",
-"source": "TradingView",
-"published": 1792771122.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "588f6dbc346e1145",
-"title": "Nvidia's Latest AI Power Play Could Shake Up Video Industry",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPS3I2UzBrdmJxbG9rZEFiejVyQmV6ZFhnYzZMZ05wUVZacGZ1bEpONzU5YnBURGZxOUQ2N2VJcjB5MUVHQ3dlSmZyb3BKdml0dGM0ZFhlNTNEdC03R3c1UFhiUl9GT3VRSXQ0bWtMeWpLQWhRckZ6b1VsNWI4NlR1UGM3a0tTeC11VFhaNjdBZ05jV3c2NzVn?oc=5",
-"source": "Yahoo Finance",
-"published": 1792771122.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "3e40206d151e3ea9",
-"title": "Apple class action alleges false Wi-Fi 7 advertising for iPhone 17 and 18",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSE5aa2JNTFZoMFVwR1hXNEFpLXJOckJqYnZ0Nng1MVFqVWJYS2tfdFBmOHE0eU0tWWFBWEFCMHBHdTFocEpsWno3a3l2blR5N2VhLVBybDZrZXNlR3UyWi01Rlh6Um5LVnB3SWJWZU01UHdpclNyUEtxaUZtQTFNa0R2V284SC11TnU0ODlNSzVJM1lHcTl4WWhNdHVSQk1NaWZFYTM2V19NWlVYWGlYOUNqa0k4Zw?oc=5",
-"source": "Claim Depot",
-"published": 1792770917.0,
-"stocks": [
-"Apple (AAPL)"
 ],
 "keywords": []
 }

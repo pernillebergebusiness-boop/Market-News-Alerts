@@ -1,5 +1,5 @@
 {
-"updated": 1792912283.1036487,
+"updated": 1792914270.1454349,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,6 +73,42 @@
 ],
 "items": [
 {
+"key": "61651a4f727f88ac",
+"title": "Microsoft Confirms Issue With Security Feature in Windows 11",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbHhLdkpLMmJTc0JKOGtQbjJacTFGeVhHbFFqbkJ4YjlkM1llLV9JVXRHeDZVeDNxWmlwaENFVl9SaUJmUS1OcDdDT19iVzEzSUo1dGlrSkdYd2hYa0xvazdfeEFib2RKNC1IUjVZRzRJT01QODBhQi1ndjRPWnVlYVZxbTZWWk93QUE?oc=5",
+"source": "Yahoo News UK",
+"published": 1792912920.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "89d966bd3b1cfbb8",
+"title": "Tesla Megapack Almost Sold Out for 2027 [2026]",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOa1I5SWhkN1FkeUZvWUlKelNwTnF0VmhEUWdHVzBEMmVLNVI3SXJEQTVuR3N0Q09GT2txMUJ1WTA4bnFMWFpZemE4Uy14Y3RuUnk3aWdXN1NoLXdZN1hhbThjSUpwY0gtWm9BVGhCYldKd3d6Z2plRVJRekhTWmgxemtnUW41dVhjZ3c?oc=5",
+"source": "https://tech-insider.org/",
+"published": 1792912885.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "29842e264d428199",
+"title": "Washington bans Chinese AI model DeepSeek, Microsoft abandons major UK project: The week’s key developments",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQQVNSNFN0bDZabWpTQmRvZXM3bFpTWlFXTE9KY1RkTGRwRDY1bFcyNG9vdkdZbTFiWHRmOG4wbm1fU3E2XzAyMG5zWWprcm02NXgxLUw0bEk0bFhGU0tSX3lzMS00MXpuQjJlN0JBVlAyT1kwWUpOX0FfQkdaSDVqUi1zSzMzQnM4eF9BOUZ5X1lORmgzSmlqS0Y5enFtb096X1FPVGlKbXFqeExmMXlidFczQmJ4UHROQlh0bVdEV1VUektkai0xMmVUV1l3M0QwbmJnNVhZUzJqT0pTUy05d1Rrd21EV3FFZy01aVJB?oc=5",
+"source": "L'Orient Today",
+"published": 1792912860.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
 "key": "78ad9e18e816200d",
 "title": "Microsoft plans Arkane Lyon closure as 217 jobs at risk",
 "summary": "",
@@ -129,6 +165,18 @@
 "published": 1792909239.0,
 "stocks": [
 "Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "3210e02ea6ce2066",
+"title": "Roula Chehab Elevated to Chief Commercial Officer – Enterprise Sector at Microsoft UAE",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOT1lyd01CeUR3Yzdxekx6NkNsTGEwdzh2M2FIRnhNN3ZDNVNodG5FLUNGV0JwaVRvN3BLNF9OSW5BWi1GX01JUlkzMzREbndzRi1mMGg1TmE5NVMzM0dGRUxPcV9KZWVlM1NjUy1HUG9vdi1oWERnVGRoT0pMbXd2MEtGUHZDVlZlMk8tcjFJSHBRQzJQZGFlR3laSGVBYTRqT3BiaWJjTQ?oc=5",
+"source": "https://hrtoday.in/",
+"published": 1792908799.0,
+"stocks": [
+"Microsoft (MSFT)"
 ],
 "keywords": []
 },
@@ -217,6 +265,18 @@
 "keywords": []
 },
 {
+"key": "40e47ff9ae43744c",
+"title": "Kongsberg Gruppen ASA Unsponsored ADR Estimates – LSX:A3D9X7",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0ySEg2M1lHNUhwZU9zLVJlYXZhRXBXVXZzeU9tRE85WThlckJJZ3VvcVRVS1kwV3Z3MWE1alBjak5RSUNOdC1nVW82NDhURWxnUVJPbzB4SlBVY2NyaTRGbGIwdEFPTm1uSG9xeUpSWWlmOXN1eGxR?oc=5",
+"source": "TradingView",
+"published": 1792908126.0,
+"stocks": [
+"Kongsberg Gruppen (KOG)"
+],
+"keywords": []
+},
+{
 "key": "7b4cdcf42173f979",
 "title": "Tesla Model Y L comes with six seats, serious pace, and a very Mumbai reality check",
 "summary": "",
@@ -253,6 +313,18 @@
 "keywords": []
 },
 {
+"key": "4ea9978ec8f7af5c",
+"title": "Xbox's first COO Helen Chiang leaves Microsoft after 21 years, just months after promotion; CEO Asha Shar",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxORmQ3NmFfUTc3bGkxbDNBYmNDenV1a0hxNHUwT0N0bmhyQ3FEX3RnM2VicXlvSWhPUk1ldi11M0N5VXdWaEJPcjVsVTloTHhkY2l5Y256d0dydXhRcWJiaFc2UmRRa05XX1MtQnBWWkxuWG93bHBqMTZYbDBQMmFTT2hJb0ktMnIzdW94NnVSWWVjSmFLdmR2ck9LZlQ4SWw3WS1kRWZQT09ZUlVxbkUzRjRUdW5HcUthZGx4S3NvZFV5UllmTVo2bHFVUjhLc2ZSN2FWdExqYzZDQ0xvVW9PQWhERklvS1I2SGhlUnY4UWpQUl9DenRNcHM0SXNoMVpibWU2RUhXUHQxYnNJZUcyb1I0Q25wa0pwbWxadHhHNWhORmZBeXJfSm5jRU9JdlNSdUJST0FzSzhJd9IBvwJBVV95cUxPMkFBWmROZmJJX0U5ajlNNngxa2dkVE1nd29fazN4VzN2YVBOS3F5V1N3bm1idmJidkw4UjJOajlSMGdHRk5XdDdWTEJtSnFaRWxoa2ZIdzNkUnRKTmRnOVRMYjJnQ3NsbTVlb19yNUJMZHQzU1VjMmJxX2ZYZ0FSbEtEQk1NTHhON25GYnE0dHllb1RvQ0tSaUNfM0NqSHVsbXNEdXU1anZaNDI2aGM4LVZ1RWtadFNoSWluempjM2d0MkNDRzMtcTZKRkFsNXhPR1pNVFJmdGNPcUZDVC1tOWJGSW5mVVg5aUxVN3EyQ3g1ckhCM18xSUozRkt3MlJ6Q1lCVG5EUFhZRld4LTZxMERQSEtoYllGa01PS21aOTR4LXBhRWowaFllTXJyQWZxTGlHMHFRaWRfUEZrVmFJ?oc=5",
+"source": "The Times of India",
+"published": 1792905180.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
 "key": "338c6ee2cfa1ff62",
 "title": "3 Oil Stocks Worth Watching As Brent Crude Tests $117",
 "summary": "",
@@ -263,6 +335,18 @@
 "keywords": [
 "Brent"
 ]
+},
+{
+"key": "4585b058ac046a93",
+"title": "$NVIDIA (NVDA.US)$",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMikANBVV95cUxNUkdoNXUyaDNTOVNIRnZYTzFza0FDZTdYNmE1cXFxNUh4SEduSDZyZlJybFNLcEl2azExYnRDRTNGQ2xTTEhVQ1d5dDVyRUJaOWVfaGhBdTZPX2ZqU2NZbTVtV0Zud3NjZ1R1dTIyN3FRZ2RlbnJIWnBiaFJjVEM1LS1TZGpsZW0zR2N3X003RGk3VkpqcEJHaGpndmVwMDhyQVh5bVFrdGZCRGNDNGI2cGdsNG1fb3NQTlFuYkxTNXlhcjk5SVZ6YlFkV19LRW56Q3RsajVfQV85YXdmTy1PV254NzJfelJtRGlXOEg5Vks2MG5qZ1FvZ2hxRzdzaWRrY1k3QTNrd1ZEZjJiUFVvYTZFaHphQVgxdUNWWUQtSC1RSDBjeGEzYk11ZWFkdUhQd3lpbVVmLXV0cFFLVGd3ZjcwWHdoWng0T0VNMFpTZHdXdEhQazRPRVZyREpTUUczOGZ5RndhTFgya2J2eHpKOUhZTGxWV2FnSV9xd3A3OE8zZlhZajZ1LXpDZWctaENW?oc=5",
+"source": "Moomoo",
+"published": 1792903576.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
 },
 {
 "key": "73718a72c457cb24",
@@ -523,6 +607,18 @@
 "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeGtKYS01OTd5T1pwSXNEOE85NHY5U0dPYUlFajBIMkNtTlNNYmkwMHhXakFRVUFqV3JOTlIxd3d5STZlQjZaU1VsUWhaUVJUSzlYcDIxQl9XVkRXLUFqMnhIeGJxTHRENFNNaXVySUR0Q0NMQVMxUmJVaG1sZGVrdVl1dUZQZTNtMjRreUdsYmJ4MHdWT3NGenhyd3JkcnRlM2pEOVdKcm16S01aa1FDd0t1Z3h4SXgwUWVoSXoxazJwQWVrTVdBd1lXRkJ1czZvcGtN?oc=5",
 "source": "XDA",
 "published": 1792896960.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "2af2f2492d643e8f",
+"title": "OpenAI, Microsoft executives’ quotes on AI training threaten copyright defense, news outlets argue",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWTZuNFRvQkI3c3VuSEJac1d2X3hYeERxYUhzZVhwWXVCQ0FpbFl6VlFHc29DemdiVzJ5MmhLUVh6cldxNm5DeGxvYzg5dGlMWWxyUFhNVHVDbkVDcURhd2FfbXZ4bEdvdW5FTjdUQ1dWbHRlMG91RGxxVlJUT0JfQzRmcEd3em1GVjdQNFBkVmN0U1lKakpWN1hFRFI2MEZpS212NmIyeUZjNjFtQWkydngyR2RnUjhlbmthT3dn?oc=5",
+"source": "DD News",
+"published": 1792896739.0,
 "stocks": [
 "Microsoft (MSFT)"
 ],
@@ -4785,102 +4881,6 @@
 "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUjhDOFNmcW5YbUZNVURSVUszbzdXWU9fZ2ZVMFAzek5KOG9OUzd3eC1RN3gwV1J0aFUyOXd0WlpSMDkybmdtdkVrNHhLck94WC14ay1MSnBPMkViYmQzakVJS2ZidWVEcWlPOHlZX2otU0ZiVGx6am1FUDU3MVZUWVMxZlZVWEMzVUdSVnV6SkZXWnZaSm92a2pVUE9jV2doZVJUbThNZmpFVjEya3lv?oc=5",
 "source": "Inven Global",
 "published": 1792795554.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "4050d4139d34321e",
-"title": "Tesla Roadster: Engineering genius or PR stunt?",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLWDQtMlhiU3RGRDcxUWVSVlluREJNQzlVbmRpMGtFdndlTmpDQVExUDJmeXdncTZmNEJZTmEwSUU0SnhNU1M2d3E3cmtPWmZhdjloRlNDWnB1ZXfSAWBBVV95cUxPYjF0Nk45ZE9YQkJQcXlyUDQyNlpkZEJJamtIeFRuQUxkbVBIMlIzeVBjR0hrTGVkMmxjd3NGR3k2bjJjMUg3dnE5dnpmWDRKR1JISGkyQzE4SXBoaHRhaXE?oc=5",
-"source": "KTVU",
-"published": 1792795265.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "020bac91b144eb8e",
-"title": "Jim Cramer’s 5% to 8% rule puts Nvidia stock in focus",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQXVnYnlTVmxDSXpQTnU4R0dYMk12TVVUcW5wMXNyck5rNzhEZ3JIMFVlT05Qc0JUYmRzdV9rcy1aQXl6QVVJV3QxNWp3Y3hwT25HTmRqQXFFcFgyZG1EaE95Q0dhdVlLS1lydnplYnNmakhlOW81OXhVTks2RlRCUzZFQ1hJd1dMTl82dF8zY0FvUzA?oc=5",
-"source": "TheStreet",
-"published": 1792795020.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "a85c29bee192b76d",
-"title": "Meta Platforms Inc (META) Q3 2026 Earnings Call Highlights: Revenue Surges 26% to $64. ... By GuruFocus",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOXzhxTVhOSHFqd1dQRVB2ZG1pU3hYTUZ5bjJrSGwxMW0wLVFBTXBQSUp4V2lid0hUNVZ6TlBXdkc4TEplMTZHOGpoQkpNRGx2Sm81Z2Y0NDlfeUgzRGR1VkFTeTlaUFV2RzVKN3RiV040NlpNT1ZFbFhsZ082Mmk1REVOOWN3V0xSWlNIUWFwakx2N2FfNXlNdGlWbDU3MXFsakFtMmdxc1psLTEtMzFUM2Q4TzFMckJIaHg5aUEtMWVJd2lzcWY1LS1EUU0?oc=5",
-"source": "Investing.com Canada",
-"published": 1792794490.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "0f63d0c621641d43",
-"title": "Chinese startup claims its $2,000 mini PC can outperform Nvidia's DGX Spark",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQNDFZQV9uak12T2p6WHhjX1ppTFBGM18wR0Nqc3FEQUVVbTdQQjZpVjdJM1FNMTNLWTFjOF9mSDlmd2d6bEpmQ3ZIdFQxX0FzY21rYkVzUUVXcWs3UHZtR2l1V2x1OUQzSGpmYnlKM2lSRTltX3UtWlZPQ2JhaTZPeDhydkhVUHRBSEt0QWo0TmlhSElRaXM4TVlRN2Y0YVp5RDBidHI0TXJ2RGwteVBCVkhSV09sOHlvUThkNXdQTzZrNGVWbF9UWUNDSlBSbDBIdTVubVllZ2piVVZfX0VhX05ZREtjaGV4QmJOZHlvcVhYb21IR05mMDBfcko0dVhHTW1WSUd0RlNSX1pmbXdRY1hB?oc=5",
-"source": "TechRadar",
-"published": 1792794300.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "e45dd1b94e3705f0",
-"title": "NVIDIA RTX Remix 1.6 Launches With DLSS 5, 6X Multi Frame Generation, Minecraft Java Edition Support, And More",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOFpvRnA0R0hJMl9TdHZ3dWwwaGNoeTBsSnZLWndybWtoLU1sRFdlelRtbHlDdW8wOTdEZXdLRHBBNmJFNmlpcUhOWUpjckRBLTZvcTAxdmtYQVRZT2RpOUZURi1mVDA1aFBMLWZLdUxYZkZUOVlYNF9rcExhS3VPT0Y0d2tBYzZ0Zk53UlZlcGpWbnQxbVFIbFBNMWJDMFNrUDcxX0QtQlJQUEJrMVppdnd6c2JPMVZJNi16WGpDcnRPbEdLcUwzOG84QWxHUdIBzgFBVV95cUxNOFpvRnA0R0hJMl9TdHZ3dWwwaGNoeTBsSnZLWndybWtoLU1sRFdlelRtbHlDdW8wOTdEZXdLRHBBNmJFNmlpcUhOWUpjckRBLTZvcTAxdmtYQVRZT2RpOUZURi1mVDA1aFBMLWZLdUxYZkZUOVlYNF9rcExhS3VPT0Y0d2tBYzZ0Zk53UlZlcGpWbnQxbVFIbFBNMWJDMFNrUDcxX0QtQlJQUEJrMVppdnd6c2JPMVZJNi16WGpDcnRPbEdLcUwzOG84QWxHUQ?oc=5",
-"source": "Wccftech",
-"published": 1792794000.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "e37e4d49c115baad",
-"title": "Neoclouds secure record funds as Nvidia’s Huang says more investment required",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYTR6NUU4ajAxbmNBVmZCUllvYWNHNmg1eWx2ZE1OR2JVUFdOcjk1ZFpxdkRLNHNzc3BFcFdRdzY4WWZfVTA2bDREeEM4eEk3X3N4eVRqSm1PS21McjV4d1lsRFpwWFAzakk4WUs1eThPc1BKeE16Zkd2c2F3YUtoT1l2UlBab0JZMlA4RDBZYk82b05yZHpJN0FoTXpXb2g0a1E?oc=5",
-"source": "Yahoo Finance",
-"published": 1792793901.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "6c9293fde78b13e8",
-"title": "Fort Bend offers Tesla tax breaks for $10B solar plant that could bring nearly 10,000 jobs",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZjdpbk9GUjVwOWJtb0V3U1RjZklOeHh0M2JQWVlSdU1DQmszNDB3OXVNOVd0RGNSQTI0TmNYZ0tZT3ByaHR0VldrZDhzc0lZOHFKUWpZZTNiWVZ1TV9FWUY2NGdGeGptekQ3cDB0SmlsY1Z3LXhSU2pyS0tDUmJlbEZHV2dKd21VLXY4T3dPNFQxRDJYYWc?oc=5",
-"source": "Yahoo Finance",
-"published": 1792793507.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "6baee7cd4892a70d",
-"title": "News Orgs Fight OpenAI, Microsoft's Fair Use Arguments",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQd3g0SGZPbjZNY0dQcFFYakN5SHFWcnZaUkRDd0FxMGN0QkNacm1lSkxIbnpwbG1vLU5pMU1WTGRDejNuYWhXRU1YZnB6M005TTRUSm9yQWhtbzhld0liT0RKeVVhTDhkdjRwOE4tNlJzQzJ0R3V5SFZweENhSHJDUWNoUW5rTnJJbGg3TmtaemUybVpZd3R3dtIBVkFVX3lxTE14UG5iczI0Q2FCc01uSVotWXZCWEwySFVOMnF5YVNjSldpMnV2MUpNbEZUNmtjdVV4V0tIRDd2emRCUVdiYjZCY2x1am9LbnROeDRjdEFB?oc=5",
-"source": "Law360",
-"published": 1792793417.0,
 "stocks": [
 "Microsoft (MSFT)"
 ],

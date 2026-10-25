@@ -1,5 +1,5 @@
 {
-"updated": 1792909273.6571074,
+"updated": 1792912283.1036487,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,6 +73,66 @@
 ],
 "items": [
 {
+"key": "78ad9e18e816200d",
+"title": "Microsoft plans Arkane Lyon closure as 217 jobs at risk",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBReENpcHhFNzlSLUJFaHhsV3A5TktMMkZDOGJNaXJ4VS1FVlV4VFpCWXZoY0UweDNSNzQ4S1kwdUNiNFZ2MVFTdmRuUEVVdlptWFZQZms5VDk2Z2QtTkdZU2k3dkJJeGxITFpPcEJ5M0NKTTcw?oc=5",
+"source": "Kursiv Media Узбекистан",
+"published": 1792911522.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "eb81a2ca3d400d49",
+"title": "Tesla is building Megapacks as fast as humanly possible. That's exactly what the AI boom needs. Demand is through the roof, with almost all of 2027's production already sold out. The reason? AI data centres are hungry for electricity, and these giant batteries",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5CSFlkZWROaGpDLVdLUDlwcFNwLVVmcjlZdlN6NEJSd3NDM3JGMnRZbkVVblExRE51SGxlam92U0tvdlZ2X0tnTkoySnV3a1lZVlFGWGR2SWVPd2o4NlpJZzU2ZDJJNGplMmZGag?oc=5",
+"source": "X",
+"published": 1792909800.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "0c2223ba11ee308d",
+"title": "Minecraft Java Edition now features full ray tracing with NVIDIA's RTX Remix platform.",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONjF3cGw5UXBuUENtQlNsMm9VT3ctdi1PcVJ0Ui1OZkxXTzFJYnFmR1JRV18wT1U3dGpyaEtXZTQycjJ2bU9sb1lmVk1uUDdrM1hXYlpxWWE1U0pVdjRqdUpRdTdHUlhDUVlkVFRpYW5fZDFydnEtZk9jQmV5Y0pEdkxMOS1nYVJUc3FLUWp0N1RzdC1oRk9oOFlrSndJSndkODFZUUF6cWhPRVVhVTVaLWtkaS1UNzROUGswRjBWaEtXenJHRWNDUXNQZ1dSZ3htUHY3bQ?oc=5",
+"source": "GameGPU",
+"published": 1792909629.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "e9e34c983f1a2670",
+"title": "GM Just Announced a $20 Billion Buyback. Tesla Trades at 350 Times Earnings. Here's Which Auto Stock I'd Buy Today.",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWkh5emU4R2VsQ181blJsNGdkZlBuampZVm8yR2FiZ21OSWllUjFHd0R4SzhxQkN5NkxIUHZscGktM1l0RVBVSHNkMTB2bFV1UnVFSlZIaURBbjdZMnZ4bmFNckxJSjZRaXRnZGRvYWZLMzEtcUlSMGVqRHNENXlGZE9HZWdiSDJhSXBwX1pwNEZqWjg4OG93bA?oc=5",
+"source": "Yahoo Finance",
+"published": 1792909500.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "aa32e9f501754c1d",
+"title": "Tesla Website 2026: Robotaxi, Semi & Roadster Specs",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUTM3Uzh4LWJHam1rS0pKMTJJY1RKZDQtX2R3TFp1b2hndTNEN1V5d1NuS21mb2dPaTV2bHNXVjlZV2YzMFRGX0NsSFJkQUlRS3FXS0lWb3RqMVduVWVQaXV5RXhWRkNLUDBwTVRtQjV6Z1RkeFZRbnZ2WXVKcUhadE9paDRxdUIwZ0tONkRNYm8?oc=5",
+"source": "https://tech-insider.org/",
+"published": 1792909239.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
 "key": "7d644bb83abc10c1",
 "title": "Tesla slashes Model 3 & Model Y prices after Cybertruck cancellation",
 "summary": "",
@@ -81,6 +141,18 @@
 "published": 1792908755.0,
 "stocks": [
 "Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "4bcf4c86aec73bf1",
+"title": "Microsoft And 2 More Blue Chip Stocks To Watch",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOTFCWjFjaXROekEwMmgzV3UzMVlkUTNYcVVUMHBwMU9vUXJ2SjFjX25fWW53UHl5WEYyX21UZV85UmlsQkVGdHlZclZVZzlTWFZQOXY5RnYyQkI0Nl9TVEJyeHh6R0N4UzdWajZUa0FkTEhWcnRLMjF3TzQ2SlpWQlpvZEVYRFhJRnpUeFdXWWVnOWxPLVNGbldWWTViLUtpNERkNS00aFNTMFhPLVpmVUFNbTPSAboBQVVfeXFMTnZrM211UFJDSWE1M1R0QjhMQTJnbkx0UGxQNDFkVmRWYjJHV2FMM2pTcExaZEtYeUxSdXFxeVRPTUZKaHA4d3JXZHNoVTg5YkNGWk5UZENuaTF4YnZUOVlWa19zRHZfbE1lRHJiVUJJX196M1VEVFhMNkFIck1kbUh0WHQtV2ZBQm1WeGVCTThRWVB3cExSR3B0VE5ndDAzQ21DMWRZdWpEbUdLMzVsaFNzRmE1OHplSzZ3?oc=5",
+"source": "Simply Wall Street",
+"published": 1792908577.0,
+"stocks": [
+"Microsoft (MSFT)"
 ],
 "keywords": []
 },
@@ -141,6 +213,18 @@
 "published": 1792908254.0,
 "stocks": [
 "Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "7b4cdcf42173f979",
+"title": "Tesla Model Y L comes with six seats, serious pace, and a very Mumbai reality check",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZDlSZ05IQzlKbHhGeEcyWmdKei11ZGFhTFhMMUlOYkdtNkI4akdaaFh3TXZfU2t0R21lMHpzblhidVk0OC1UT1g0N1FySzlnT3Zrb2dJQUpiVzFWdGZnRi1GM1RtUGg5QWhjN0JKMWdzeFZRVVZfVlRPRk1USWpVbTJaenpxN2NUTlJTcU9ZT0NKcC1yMzh1alM3UjRJaURDeXd4Xy0xZ2tHVXNIM056SWN0Yks2cDhseGFqb21lWlk1aVpJc1BxbUwyamNGY3B1eG1FY0FR0gHbAUFVX3lxTE1jOVNpMldoZmxoN3Njcm5wc1VjT0E5dXFTcF81MWhIWThaYTN6NGpkcUwzTTY1d0dKYjBnSGVJem9PS0JBb3BDWkQ5MWVub2s2T1BSSnJTaDFtTHR3eDBBb2xhaVJYS0VCVU5MX25zcmtWSkdsSXUyV3hsMmNjLS04c1gtTEdBWnZkOWFTN3pSZE9WS01KZW1nSXllU2VOdWdIMUFKeTlPT0EwWXBPWDJERUExYWNUXy1vTlJFbnd2RWxEQmwzTktoQl9NdHYzdmRyOHd3YlhaSVhKQQ?oc=5",
+"source": "Firstpost",
+"published": 1792907032.0,
+"stocks": [
+"Tesla (TSLA)"
 ],
 "keywords": []
 },
@@ -261,6 +345,18 @@
 "published": 1792901100.0,
 "stocks": [
 "Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "2db7239210a7f442",
+"title": "Intel Foundry Yield Reportedly Rises to 85%, Secures Orders From Nvidia, OpenAI and Others",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcUZodVlOMW5jZnBmeHZIOTdmNGdKRU5OVHZSUUdLTzhLMUdRdlY1TTkyV3U0aFhyRW5fZFdKeWhLODA0Ujg0NnVnWGgwZTl6VEtXb3JuYUdGVE9oQUZtQjQwOG5yZ0RZVmFOQ3Npd0RWcnVWVjQ0OUY5MlhINW1ycEZWSzdrdHNqTlprUHZfbG1EZWJiWE1EX0MtakYwZ3JybEVIbjN6T19fTThvOXA3UF9KdEtmRmFSRWVxTXo2VW1RNWdDZEw5ZEJsZG1nc2tfc3YwR3drMUpWLVhMWkhiSjJn?oc=5",
+"source": "TradingKey",
+"published": 1792900610.0,
+"stocks": [
+"Nvidia (NVDA)"
 ],
 "keywords": []
 },
@@ -4787,102 +4883,6 @@
 "published": 1792793417.0,
 "stocks": [
 "Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "09ebe013bb1d8134",
-"title": "Azure DevOps Comes to Microsoft Copilot with Plugin for Work Items Pull Requests",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNODhtenZZeldtYXpjbXpoZ0hhMGlsVVVfTzIwbEdNU1V0cjB0cnNvdkI5WUpOTk53R191Q1NpZHZHYUtZRnNZMmxaczF1ZGtGV1ZGUUN5eFVZaVdPQ0dMYVRMZkg3Tm4xN0QyNjhQeVZ0eVd4RGIxQVRwVUVya0FpNzVyMHJ6aWlDaWhCSnF1SXRWcU9OUU9YVnF1VEdkUW8tRER2cWZzN2FCamtxcVJrTkFrWUcxQ1c4ZzBFQlNNZEdaRVZRdmV0QzRCZ0tIY3VmLWVTUw?oc=5",
-"source": "Visual Studio Magazine",
-"published": 1792793389.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "9e47fd8c08054e60",
-"title": "Tesla Roadster UI Revealed: 6 Details That Matter - BASENOR",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOWVZaVlBeDVXbGR4TGNBdk1uODBobWR3VjhYajVCME9lU25wTE9jRlZuNFlLVElaQUxGMG9zQXVZU3l3dmtFUHpTRzZWazFRbXJ1OVVXOEVHSzdGR1lfUVNPUjRWTmEwWFBsei1Tc01QUUYwVU9FN3ZUNi1vNExrVXlSMlc2aXQtdDIw?oc=5",
-"source": "Tesla Accessories",
-"published": 1792793189.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "5238b4bbb644a572",
-"title": "Tesla Roadster UI Revealed: 6 Details That Matter",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOWVZaVlBeDVXbGR4TGNBdk1uODBobWR3VjhYajVCME9lU25wTE9jRlZuNFlLVElaQUxGMG9zQXVZU3l3dmtFUHpTRzZWazFRbXJ1OVVXOEVHSzdGR1lfUVNPUjRWTmEwWFBsei1Tc01QUUYwVU9FN3ZUNi1vNExrVXlSMlc2aXQtdDIw?oc=5",
-"source": "BASENOR",
-"published": 1792793189.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "44c4ade3bee3242b",
-"title": "Tesla wants to sell a car with no steering wheel this year",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcE55MmNNcERoVnZadmkza2dCXzZORzl3TERFeVZ3WmpGYkFQWnEwNmM0LXpKSWppbi13MG9tOWIxUTJyTVdYdnQ0ckNEeWljbkwtSTVxUFZYazJfWm5WUVR4TlBHcnVFX0VpRVBBZHEtZHgzc2FFMy1Fb2lhQmJPUlJKZ01oUDNLUG9yU1FoenR2TngweVkxRVN5Yw?oc=5",
-"source": "TheStreet",
-"published": 1792792980.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "239a0d7e1cc27c9a",
-"title": "Nvidia Telecom AI Push: What Channel Partners Should Know",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcWdCUTdlMFFHRmhvbkNxV3FsR2txd0VJbFRaZWhxaWd5WE9UTEwzN29rMEx6aGhHY1RqVkFfVW5QdTdGOHZRYldVR2F5S2Z4NDZiOFo2TGJ0dG1YVGVzNkp4ZjRlVzJXeE1XRFlONzJFX203djhUZHlUWWpPOENpc2RIczc2QQ?oc=5",
-"source": "Channel Insider",
-"published": 1792792792.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "12ad9f00157a8f3d",
-"title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdG5iRF9HQ0pxeHJ0dUtYWkV4ZXlQVldlcVdmdVZLOHRlRkM2ODZDak1zX1NNOFBpS1hzbGxPSVU1bnVmQXhsRGJ0WlVpWWlBS1ZrNmFXT0wyZnJOc3pUZlBZa2IyVXFQSFVVR0V5bHRDbWlpU0pBTHJ6NGk1S0NqeGFFdWRwNWdvdVpoNXpCanBlZFZ4RnQ4RUphQTZfRFhUMkp3Mzd4c1JlbUxmN3pVMjZrdkNDSE04UFZV?oc=5",
-"source": "TechCrunch",
-"published": 1792792759.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "83ee33afca53be1b",
-"title": "Elon Musk Says a SpaceX-Tesla Merger Is a “Good Idea.” Here’s What Stands in the Way.",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOR3NhOGpPUDdnR1M3Q3BIeTYzUTd4Q2txX0dobDEwQlN6enVEMVVGVVo0OThUXzdYRmlPWXNCTTFyNHhjR19zdWRJUmt2YlBfZEhpSm1UMENaUS1abS1jVVFtZlF5YURaeWlPalNMUXo5d0lTR1JNcDJHYW10c29JZWlZdUZ3UlZDWFBVSWRjXzNrU3FaWWsw?oc=5",
-"source": "Yahoo Finance",
-"published": 1792792442.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "057d4b4859e47d0e",
-"title": "Elon Musk Says a SpaceX-Tesla Merger Is a “Good Idea.” Here’s What Stands in the Way.",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9rU043RHpSY1A3dXdwVUNnaUhpYnF6emZxUzVPWjVySWVhZDItbnZWV0tyY2dmemlaTE1oOTZZaEpPNU5PY0ZHd1ZZTjlESWgtMXVENUFzcmh2dF9BeXlVTUpCWlhtOXo4NnVsMUtwRFl4bXN6Rjk2eXRCUQ?oc=5",
-"source": "AOL.com",
-"published": 1792792442.0,
-"stocks": [
-"Tesla (TSLA)"
 ],
 "keywords": []
 }

@@ -1,5 +1,5 @@
 {
-"updated": 1792971232.5174804,
+"updated": 1792972766.72859,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,6 +73,42 @@
 ],
 "items": [
 {
+"key": "09daa74d21553939",
+"title": "How Data Center Financing Risks At Nvidia Shares Has Changed Its Investment Story",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQk1iTkFNNlY2T2RHTDJHajBSSkpNRGRsT2JoTWh4RGNrTEU5QmhEa042YzViS2pPX3hqc1B4THhEYVdiT1M4c3BlZlZIR2NqRFRJT2NSSUx1ak14d1gtbUlRYTU2NHoxS2lhTEZnYmVJNXJkLTRoaWUwSjRqU1ZLWl95QklRUEttZkhYTDY0WFA0ZksyWHRKX2JHZG13MjBFQzYwdVZoenh3Mmtmd0ZhUkdVNk42dmdjQXRWUksyUmJuY3dta3hNNk9QTdIB0AFBVV95cUxQQ0prSHY4MGhieDlSdlV2TW9VMjJQajJoQWo1NmZGck1jR1BjVE9NSDZleTIyaWgzYldMQlVMbFpGbHF3di00RXZlOW5ncTZCYUFEWG4tX1J1eDd3eWFFdWV6QWdhVEFPSjJJVW5IZ1BZTkdfdUQwcW12cTBzbmJrWWtHSkZBVGNvbU5UbXJvZzlLWGhjaWxRRzZJZXdhVm5lRW5ob2N1QUVDLUUyd0lFNGd3M0JteHlNUHFRZnZreE9QMG45WWczSXR3S25TT3Uw?oc=5",
+"source": "Simply Wall Street",
+"published": 1792971925.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "630d902842a5d6bc",
+"title": "Musk Says SpaceX Has Closed $40 Billion Debt Deal to Buy Nvidia GPUs",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9MMGRUc2dwY1RONHRMYWEtdEZsc3dDVGcwWktfOUUwX3p3T0FLUVo4NTZGVkFPVEMyNzJmSGotejI5TVVvV21qSktBOUJHWnRseGNhS2pmd2s1RkxHY2FaSFhIYVREQmlScVRmTnlTa2oydHpXSHc?oc=5",
+"source": "BigGo Finance",
+"published": 1792971300.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "0d4ed8921e790c4c",
+"title": "S&P 500 Net Profits Surge 30% Led by NVIDIA, Micron",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWHEweWR6Z3JqaWdQV2FfUmxjWG9Wck5rOXdvZFZMcWFhUGp2NGxZT042S2xxdm00OEY4WUtnQ3VrTUlhTHA5SGpkcmpRemNLbFNodjZ1R09fSGxTVDhJbDgzRzFFY1ZkNEZRVldZSnJxZG5ySmt6c09fbzFVU3hNMWtmbkNCOHdpTU5yc1pB?oc=5",
+"source": "조선일보",
+"published": 1792970985.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
 "key": "d285578b5a7b1b4f",
 "title": "NVIDIA, Nokia and Telecom Operators Advance AI-RAN and Distributed Intelligence",
 "summary": "",
@@ -97,6 +133,18 @@
 "keywords": []
 },
 {
+"key": "e84af24ba91cddb5",
+"title": "Orange Business, NVIDIA Advance Distributed Voice AI Inference for Enterprises",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTXVJS2xxR3NzdXNMVmJyZlF4TGxUR0VLb2xfbUZjeElYeWctdFBQY0dfdnV4NU5OZXRBQ2taTEhFajNSVTdrR2V4MWc0cE5LeTNIemVqN1VPajZMdWxRR21BRUhDbUNqeG1TOG9xOHgzMEdhdTloVlNfNjdRVkM0T1Zia3RJNkhoR3pDbFVCaE1RVjBVSHpWWUJjUDJ3WGMwRHozckh5QU9tQ2QwRGY1OEw4Q0FpVHZJRGJEVmtyZmplQUNleDN4SG4yV3M?oc=5",
+"source": "The Fast Mode",
+"published": 1792969776.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
 "key": "514f6010ac7a528b",
 "title": "Tesla and SpaceX Explore Historic Merger as $TSLA Earnings Beat Highlights Shared AI Strategy",
 "summary": "",
@@ -105,6 +153,18 @@
 "published": 1792969433.0,
 "stocks": [
 "Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "10f6c193a9f4ba3a",
+"title": "San Jose rejects appeal of NVIDIA data center permit as environmental concerns persist",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOU2Z1QUhlUy04aUJlUHQ4ZWNaYWY5TjBTY2l0dkg5U0ZkNEE3cjc4N3E5dUM1TzM5a2g5LXcxY1EtVjhMSDkzV2ZnSDRFNzY2Z1pEZnNvQjN2SGJRMTVqdjdDbU5MdXNmaUFUa0VXM1VOYlgyRmNELUJFX2JjamhQaGctalV2X29aQVlFLWJaWHhLSUZzLUJZYlB4VnRvRVc4Tm42MkdrVFVwekRablB0cDF1cXA2Nm55b0RPNWRBWVNhVmRHa2c?oc=5",
+"source": "Local News Matters",
+"published": 1792969200.0,
+"stocks": [
+"Nvidia (NVDA)"
 ],
 "keywords": []
 },
@@ -153,6 +213,18 @@
 "published": 1792967395.0,
 "stocks": [
 "Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "e27368c9c06c76d5",
+"title": "2026 Honda Civic Sedan vs 2026 Tesla Model 3",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcHFaRWpodHZPRmF0QTFoRDhCeWp3SEZHa3JiYURjdzBWZVFseGVRdzF2NnZ4WHA3R09JSlhKTmNISkdkUDRscVVqNDczZXFsUVZ2OFYzaDVJcFctRUo0UzJHaVZramhFaVo2M1IwZTdwb1NZc210YWN6VTF4aG4wQ0tyR0d0YW8?oc=5",
+"source": "driving.ca",
+"published": 1792966490.0,
+"stocks": [
+"Tesla (TSLA)"
 ],
 "keywords": []
 },
@@ -4807,78 +4879,6 @@
 "published": 1792862958.0,
 "stocks": [
 "Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "953f08872fddf9ae",
-"title": "Apple Joins Nvidia in the $5 Trillion Club. Here's Which Stock I Think Can Get to $10 Trillion First.",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQnZzVWVvN1ZJT19fTTlZQ1o3M1ZuNmZDcHZ0NGpRR3ZGUjBvNXJESjdFMXQ0OFNkZzdTd0Y4UGlocTdjNmU5VHZUbTBNa0JJa3VZVUZsOXVhMUt4LU1XWjlZUGE3bVM2MVpYMDJyTktvVHcyQmxVRE9KSWR4UGJaTGhBbUt4TEcwc2JzY2JJSQ?oc=5",
-"source": "The Motley Fool",
-"published": 1792862776.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "b63d01d4ce3c395b",
-"title": "Tesla App on iPad: 3 Redesign Ideas for 2026 [2026]",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8tZTVCb3Vad1EwSTh2ZHNSYi1xRFBKYUlEYTVqeEFXeG9JNm00dTZEYjVsN0tDdVhWV2p6eTB1eGlETy04WDdCSmF1R09mZHJfQ3lxRGM5SThkeVlGUVVvREtHSVhQTnVETG5MejhvNUItS2ptVnprb2ZR?oc=5",
-"source": "shattered.io",
-"published": 1792862122.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "99bd1c3ae38a8013",
-"title": "AI bear slams Nvidia's GPU pitch: 'There's not scarcity other than that which is created by Jensen Huang'",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOQ296eGZsT0J4ZXhoWnJrcmlOaC0wUEx5QlNQN2R6b3luMklwSTkxOHpsZ3d6aEtPbTVOaWFpSjZPUlRMOW5YOEQ5d04zU0VtQ1JiWUtSM1ZHV0dfUGpsUGlLQmFQVmtDRk5URkpRcmd3ZG5YcUZGOFV1SkJLd1RST1VjTkt2YkRNaDdPcjJMZ2hGT0tPaVYwSG1XdC1Nc0JEQjdJSzVsendNZ1dtdHlXQWRzQm5kaF83TFNsUFYtY2RTaE1qd2dJVTBkNkI0ZEYxUG5wX3VtdjNMREJpR05WcjhvYnhJeFp4b1lwR2FUbFJtUQ?oc=5",
-"source": "Yahoo Finance",
-"published": 1792862107.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "9d19bd0280f6a912",
-"title": "AI bear slams Nvidia's GPU pitch: 'There's not scarcity other than that which is created by Jensen Huang'",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0xcmhnRXo4VEY4TWxsSXlJcVBkNGFBZjNEZ0xxc1RjaU8yaVRrWDhkNHlMR0xoUXMtRjJmdzgzUXhaTXMxc05sa25UUFJxN0JQTWd6ZzAtUTlTaS1fU2lZZzk3ZkF2M1N5ekg2RE5xUFM3c2VLc0JBUQ?oc=5",
-"source": "AOL.com",
-"published": 1792862107.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "71facd0d4378f918",
-"title": "Canadian Publishers Push Back Against Meta Platforms (NASDAQ: META) Over AI Content Scraping Terms",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSzhwRndoUExCT1VMRXJyUWZZSkFubkxuajZRcmpoZlFaaWN4TDRyaGxLZ3pTdVZVZGFzRmJmSHNtSkNkR09pSlhkcVZZdTNfN2kyZlFlNWNYQnNXOVN1ODZQQk4zZmRwSEhUSnY0dzZpMjZzRGhraVBPZVBnNUtVX2xHN1dfX0lIWm1CYjV4UmFLNzlJazdIS1J4NGZGM2pUZEtPMXRRR3ZjUzRsamkwNDFPZjFQbHZobmZGNk9ka3V1R1ljRGtCX3d5SE5rNFhtR0NJNWhyd3g0WDBw?oc=5",
-"source": "Foreign Policy Journal",
-"published": 1792862040.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "2f9e504e806d82ec",
-"title": "Tesla Roadster Uses New 4680 Cells That Promise To Fix Everything That's Wrong With the Cybertruck",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNY29ObWsweUlnVnRBLV9xMUJ1azlQaTNiWm9qeVB6dWxGUVlDZDNmcGxXclpDb25Ia0dVUFZJM1ZHNkxlVHM3UEhzeklRM3RYTUpvdVNjX0k2aE1xNTZQUHlRV0ptRmNtV01lNXN4OHhJejRtN25Ya3pGb1BKcWxpQkpGNXVlVXBmRDBsQ1RjYjVyT2U3amo1bzEyUDNDOWM4RmgzakNQQ0Y2R2t1QWhQV1d1TndCa1N0TjU5TzhvekVhdzBYQmdGU3MyYjhLSTljVWVrMTBGWUFhbmNCYlE?oc=5",
-"source": "autoevolution",
-"published": 1792861763.0,
-"stocks": [
-"Tesla (TSLA)"
 ],
 "keywords": []
 }

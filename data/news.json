@@ -1,5 +1,5 @@
 {
-"updated": 1792967758.280169,
+"updated": 1792969344.3457959,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,12 +73,36 @@
 ],
 "items": [
 {
+"key": "6c00cfab92b674f2",
+"title": "Nvidia’s open-source Flora labels an hour of robot video for 72 cents, against about $88.50 on GPT-6 Astra",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSGRfX3licUp0OEpsWWdTWHhPbjFpLUJCNGZjWFpCSUhBMzRFVVhtVll2ZFRlREZKRTV5cXBIUFhudDdPU1l6RnNmZXpTNnFibGQ2VmxvRzFpNmo5eWxWNGR1djRfVTN1ZVB4RUotOWVjWlhla25TcG52YXMzdTVXR0lDRTFnWEltQXE1M0FXTWdtVDVYbVJZdmhzU09NSTBoel94SWRTVHRyWHdCNDBIX1FzSzRFQ2U2UGNfQmlzSkk?oc=5",
+"source": "eGamers.io",
+"published": 1792969131.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
 "key": "8e8db6b3936eca94",
 "title": "SUSE strengthens NVIDIA AI Factory ecosystem",
 "summary": "",
 "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYXVNYW1hZTJFbnJnb1FZNTRvSmJKOWE0UEpWcmowU3hMMUZBRWNkU1pmbkw4U3BLZ0FOZFFwVGNzanJITXJGbVdIejlhNTl4aVJBM2lkMUp2cl9RY1RaeVZoeUtPRTRlUGxkMDlrc1k5cUE2a3gzdjJjelFpaUV5Z1dRSHFmM2w1X29iYUdhYkRvT3RCSmc?oc=5",
 "source": "ARNnet",
 "published": 1792967447.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "e9c62a913b9c24cb",
+"title": "Infineon to Supply GaN Power Chips for Nvidia’s 800V Data Centers",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wcHk0bkhJNk5PZGJvdURQS2ZOa2FFMmN1SlVhQjFkanlmU2ZYYkVvRlpTdVZHbUlEYWFkQ2NKaXFleUNOa0x4N3NfZWFGV1NRTW1aa2huLTJtTGFrbmFmemVhTnowVWs?oc=5",
+"source": "THE ELEC, Korea Electronics Industry Media",
+"published": 1792967395.0,
 "stocks": [
 "Nvidia (NVDA)"
 ],
@@ -826,6 +850,18 @@
 "published": 1792948192.0,
 "stocks": [
 "Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "603e6c9b50318dfd",
+"title": "Meta Platforms Inc (META) Stock Analysis & Forecast",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBDdEJDeEJ3RDNpVmNxaDVDWXlFaGtJT2FrVGREU3hvUGdSVk9LTTdxX0xJNEdudG51NmkyOWRvOV9iTlFxYVl5YW54N3Z5cUpRQVR6V1pQUldpejVRaFhtU2wzVXAzQQ?oc=5",
+"source": "TradingKey",
+"published": 1792947793.0,
+"stocks": [
+"Meta (META)"
 ],
 "keywords": []
 },
@@ -4841,42 +4877,6 @@
 "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVjVvem1yelYxZ1JCSGx0aXUySWR6M1pRdC1GY3RoOUg5ZjBtLTc5WDlLT3lodHFUYzd0LWZNcW9ZZ00xMW5jdEdMVFJJdFZOTnVoTXdtQzhXcjhMUV9iUmdUWXBNbzVGOVVJbUlrRTR0clJjYjRwYUV6ckxlOHppY01ZQm9NclA1aEJSX0tFbkhqYkp5WmFmcmwzVDVfRE5fV2lGUDJORTVneFJGMUUyc1lDQ2NLVEFYTkJpMnFJb2N5eENQWEE?oc=5",
 "source": "GeekWire",
 "published": 1792861086.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "6d5a776871fe7c85",
-"title": "Nvidia's AI bankroll meets its first real market test",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZm4teGt0WXdHeVpqWC1SNWtqbmxCbzRjekxrT0hLZXd1U3dtNW96dmxRU21DcUVyZHgxX0oyVFAzX2d4cXlzMldudVlJVEwtWDlQWnhEdUhWbVJWeFJBaXVPMjV2ZGlTaTJZSTFzWHp6VHVfVjlVZGt1MjVLUFhLM2F0Rzk2ZDM3?oc=5",
-"source": "Briefs Finance",
-"published": 1792861035.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "f8f0e64d751c03b2",
-"title": "Meta Platforms, Inc. (META) options chain",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPY2pmaktzakJGVHdXakp3WWMzM3VlQkpjTV9TcjFSa2FiS0hmZ0VPSmR5TFR4OHRURDZqU293S0YwTVNUdjNkem03NnEwTm9MVjZhakZaNF80c2tudlRCLUNGR3RkVmtQSnRYSVl6V05PbFFsckhheDVnc2YwSWJfS2R2RVk2TWVUVHRVSUUwQjNSUQ?oc=5",
-"source": "Yahoo Finance UK",
-"published": 1792860981.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "021414ab0a8411e9",
-"title": "Xbox Project Helix Could Reportedly Get Physical Games, Microsoft Job Listing Suggests",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYnBMY0xCMjBTRjBDYVBNaXJVTzQ4Z0RGaW5ubzVHcnp3dkF0ZzQxYXY4ZVNqTFdua2NLbksyV05weWtBTFZQR0xCSXFHc0YzeGJETjNsLUtpenBaR3B0ZFRiZzVHTmxfT2h4dzBsc1hnWDNEdkRnZGYyMG9hMDROTjlXczQ1QUtIWmxEYjJpeEt3aEtXaGtqWDhnUExDOTVxVjZfUG5mejBOcmNRalV5VVdiTFFHV00?oc=5",
-"source": "IGN India",
-"published": 1792860825.0,
 "stocks": [
 "Microsoft (MSFT)"
 ],

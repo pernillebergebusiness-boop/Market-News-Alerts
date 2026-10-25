@@ -1,5 +1,5 @@
 {
-"updated": 1792917596.3526042,
+"updated": 1792919303.0202265,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,6 +73,54 @@
 ],
 "items": [
 {
+"key": "68841e7d76352eff",
+"title": "Microsoft confirms Windows 11 Universal Print broken for months, requires manual fix",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPS092cnd3TDE0NTh1Z0N2bjlOaTM0OThTZUZXbFg4UVJjMnZnaEFOQmVLd09zNmloMHRLTnBINDRUNzQxWGpOQndtVk9iUG5ISzVXYXFzUGZlVmZYckt2ajY0dW9hTUZIYy1KV2t1OVJ5ODVMRXRVRE82LWsyMkNGNEx5YnlVTjJ3STdDM2d0aE5nMmhrbHExQnM0bTdlS01lbHgzV1pIM0xmbVJ4aG5xZ2NR?oc=5",
+"source": "Neowin",
+"published": 1792919040.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "d724294c5752ef70",
+"title": "Modders unlock hidden AI performance on NVIDIA RTX 20, 30 and 40 series GPUs, with up to 2× tensor throughput",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeUFBeGY4RmQyNWpQQlBJdUduVlNpQWY1Q3hEU3duaUFnOTRhVFV4eTM1Wng3NjlCQ19SQUFQRk90a3lORTNuVThURTRVcmVPRzZPTVpCa0VkNGtZLXpBcnpzcXl5ZXlaWlhfamt2SzN5N0tXN1FyQXVNLW9mUXdTMGVsUUt5elBPQ1NwaGdxRzJmUEFZb0tZMmRrWFFZSTVvNHF4TFhRSm5oNmw5dWE4ZDlZRmw3MGJZY1lOUDJwdnZDLVVBMk55NUpiM0Q5bi1G?oc=5",
+"source": "VideoCardz.com",
+"published": 1792918730.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "c6e2df62eded6130",
+"title": "Nvidia vs. Micron: The AI Revolution Is Big Enough for Both. Here's the Better Buy.",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByU1dvMTN0VkdGQWphN3Q2YlZYOEs4NjNLYkFWTkZubkhOeEd1cWtvMDk4NTFERExaV1ZDQVdFUk8zZnVnck1fazRuZ1hmRnZnRGhJbVBNUkg0T0FzZHNLTDVVX1dGVUVKeWUyTGl5TDhqVnVkbFhRVThGUlhjRm8?oc=5",
+"source": "AOL.com",
+"published": 1792918200.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "c57dc4b787f0895a",
+"title": "Meta Platforms, Inc. $META Shares Sold by Nisa Investment Advisors LLC",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNR2dmZDNWWmZUQ2VWTzNWMWx2bldEVXA2aHRtZFdUYmp0VF81RFd2dWVDY2pCWHJ4SHZDTDcxQ25vSjBjeDB4SDhrWTNIaWpkWDJSYlBDSy1kR1B1M0Y4SFlPenJ0N2dIeEZ0Mlk1M1JIQ1BCVkVZemJscEtSX2s2TFNnNjBXZkpUdlNCWnFEYmFWdjYzakRHZXRmVkh6LWtKU1BxQkFEUUlseXUtTEZ0a2dqZ2V5UzBwbk1MbmxEMXBMaEZfb1pR?oc=5",
+"source": "MarketBeat",
+"published": 1792918077.0,
+"stocks": [
+"Meta (META)"
+],
+"keywords": []
+},
+{
 "key": "24d689ead026642a",
 "title": "Nvidia vs. Micron: The AI Revolution Is Big Enough for Both. Here's the Better Buy.",
 "summary": "",
@@ -105,6 +153,18 @@
 "published": 1792916415.0,
 "stocks": [
 "Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "e860d9432a7e2511",
+"title": "Meta Platforms, Inc. $META Shares Sold by Kapitalo Investimentos Ltda",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNR0FSeC1zX3BWNmtpMzBNaG03T1Byb2k3NndSTUVnRjdSR1JRLUNVTkgwZlRvRUdpRFA3T21ka0ZGaDdXNUloZkJnRTR1ZngwcVFRTDdiTU4zZkRYZ2xiaFpvQ2JZdDctQkVmR0pzNC1lZHVwYk4zUU9ra1YxRWlhTnpfMFd6cHQwVkxNSzF3ekt0Wm9ja181NG5sdkNPa3labi1uU2IzWkR4ckRGeVNSV0k0MnR6bTI5RTlpckxKNEdJVlQ3UHc?oc=5",
+"source": "MarketBeat",
+"published": 1792915181.0,
+"stocks": [
+"Meta (META)"
 ],
 "keywords": []
 },
@@ -4821,66 +4881,6 @@
 "published": 1792803480.0,
 "stocks": [
 "Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "213b40819ac5b810",
-"title": "Tesla's Robotaxi: The Math Behind a 2027 Profitability Bet",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUEhwMnpILXIyRTJHOW5qZXhYT3RIU1NVdUZ0YzEwaVJWMEFmdGpXVVpsdUY4UEVSUHl1TUhMaUdIVWJrVTFFMy04ODRUUzR0b1dFZFhXdWxVdWhXam85NlY5X1VkblVCNXJILWJ6MC1xQ09Ld29aTVhueXZLNFdHZ1FKMFBiX0RUR2tCUDgzelhYemFwYzBuQnZVdTJsUnQ2WXZTSTRDWEpPbjN3QVZzMTZpZi1uVUdGMHc?oc=5",
-"source": "Gasgoo",
-"published": 1792802920.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "ee1dd102e71eb14b",
-"title": "Xbox Misses Microsoft's Executive Pay Target for the Fifth Time in Six Years",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWFMxU0RmLTRUaUFjb0kzaGRfWGNKWEd0YnJkcklRWmdkRXpTU0VHM1ZuZVpHWHBLVGswVHJ4bWswVzAwNWtCUDVXYmIzdC1KV0EyVnh5UkYxOG95Y1dFNXRIODUtVHdsc00xT3QwR2FUR2tBZ2JiMjdQdUZNZGdHaXlsMFprNjZmTWZzTWRFejhPMTN4Q1VXc1V2Y01vay1SVFlCa3hRSU1lWlZYYTZveGF5X1nSAbQBQVVfeXFMT1hTMVNEZi00VGlBY29JM2hkX1hjSlhHdGJyZHJJUVpnZEV6U1NFRzNWbmVaR1hwS1RrMFRyeG1rMFcwMDVrQlA1V2JiM3QtSldBMlZ4eVJGMThveWNXRTV0SDg1LVR3bHNNMU90MEdhVEdrQWdiYjI3UHVGTWRnR2l5bDBaazY2Zk1mc01kRXo4TzEzeENVV3NVdmNNb2stUlRZQmt4UUlNZVpWWGE2b3hheV9Z?oc=5",
-"source": "TechPowerUp",
-"published": 1792802435.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "04895333b67d1264",
-"title": "Arizona surgeon busted boarding Miami cruise ship with luggage full of 'Tesla' ecstasy, shrooms: Border Patrol",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZFFBLWVNNXAtZE8yM0NPZFRiMlV4WUpkVUV0eHl3X0t5RVVDbXctOUlQNVhQSWpJYURTeFh5bXUxa2ZOS3JWODZPanVwMklCd3FZX2NfOWlsT3lnWjdXRzc3a3dYSF9mYTVJb2U1WVpEczVwQ3RmRlFDSW9VaWM4bjladkpJM0EwYzdZQzRrSmw2dm5sQTZpcjdmdlNubmd3MUNYZU5YaFVkUktyR1BrRmpjX3VMRzZyYVdCY1dDOUZhTjJpMDYyNmNmbGg?oc=5",
-"source": "FOX 10 Phoenix",
-"published": 1792801915.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "131b03408908cc30",
-"title": "Tesla Just Reversed Its 2026 CapEx Surge — Why Gordon Johnson Asks If It's the 'End of the AI Trade'",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxON3JlVW9SaS1ubkJXVlhpVXBNY0lGMHp2ODIwbk9YVGV0QUd5cU8xakMxSUFobnY5X243b2ttUkxqc0gxYlh4Rzg4NnR1cGZOQ3V1VVBRXzhOVXVPVzZaenZZSkc1NnBtbWI0UncyRl9PSDV2N0VRdTVldWE0cU9tTTc0SzBKOHdtWENUQjJDUEU3V1gtRWtmUnFR?oc=5",
-"source": "Yahoo Finance",
-"published": 1792801800.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "c6f577a646680f6f",
-"title": "NVIDIA RTX 5080 wholesale prices jump $300, while RTX 5070 Ti rises by $100 in China",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdHRZekdwZC13TFlxMFh6VlI5OGF2TnV5THFWSmwtVENscW1ESWg3UzI1aHctZl9sLUxwWkMyRGk1VGFuLTFLUXRlSmxMb3BpUjFUenotdThwbzNwRUJSVDNndmRYdXFZUmhVb0NjY25wQno5UElmTzJ3dmYxcjhLRk1WU2Q3ZHFVZ1hHSHo0bnBhdU94a3RwM1FXMFNFOEFPXzdtQ01KaXpPV3p5MjNGZThPLVN0S1dpbnIyTzkyUnhxNUVUQl9sVDYxRlJmd1NoQmV4VlEzN2xnVTBF?oc=5",
-"source": "TweakTown",
-"published": 1792800433.0,
-"stocks": [
-"Nvidia (NVDA)"
 ],
 "keywords": []
 }

@@ -1,5 +1,5 @@
 {
-"updated": 1792928273.238218,
+"updated": 1792929881.8120103,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -72,6 +72,18 @@
 "Yahoo Finance: HTTPError"
 ],
 "items": [
+{
+"key": "aeda360211a4b645",
+"title": "Earnings playbook: Alphabet, Microsoft, Amazon and more report this week. Here's what to expect",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQb0l5dnFfdUxybkFnYjFMWUtiZFRVWVNieXI2bEJhSi1ZUDhfQmJSa3lDekl5bkQwcDRZTWdhQUF4cnIxc2U5aERBcmk3OTgyMUwtOWxYVTZ0TjhfcllPalFSLV9zTUVueTlhLUZPYThDdzlaeTVhR2QxQkNtOXJ6REpB?oc=5",
+"source": "CNBC",
+"published": 1792929248.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
 {
 "key": "ba772c8f02fe3eb1",
 "title": "NVIDIA expands Kazakhstan AI infrastructure with Firebird ...",
@@ -230,6 +242,30 @@
 "keywords": []
 },
 {
+"key": "b0cc63c9fbb915e9",
+"title": "Apple Inc. $AAPL Stock Holdings Boosted by Shore Point Advisors LLC",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQW5CSEdiWEVZZG1FOGd4aW5XRTZNMzR3R205UDFWZWMyTzJFMGlVQ3FvNUJYaVdRem91eWJZZUV6a014QlJzMDVWaTh5YnFDdW9JZ201bVFMNGtLa0NCVFpPZkpjaGlyZ1l3UUxLdmlRZ0M5MVR5WnhXWUtHcmRBU1ByNkVLbUF2WDBMakM2RGwyWGdLN0haYnRzR1ppd3RQN3Y3ZU9WUUFJdHQ2M3hmZDR2bzl0U3h3UjlPdjRCeTVzR3Zp?oc=5",
+"source": "MarketBeat",
+"published": 1792924040.0,
+"stocks": [
+"Apple (AAPL)"
+],
+"keywords": []
+},
+{
+"key": "763b9288ccc6e068",
+"title": "NVIDIA Korea confirms RTX Spark will not replace x86 gaming PCs",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOTNrMVotU2lyS0dEMXQydHd4ZE8xQndTU1FEZzV1XzI4S0lETTQ4QmFsWVJ2RThYYy1IWUxuZzdEVTRBM2pRQVlKOTN4M3AxNkhkQjdOS2s4bExkcmVfWDB6eTNMYVZYQzdQUGdmQVZ1TFVBOEJjTmhnMzJpN08zUkZaeEE4Yi1SYnlPNldSNzM4elRPUjE3YWtsOGExWUU?oc=5",
+"source": "Pasquale Pillitteri",
+"published": 1792923577.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
 "key": "2b30a6f1111134b0",
 "title": "Nvidia open-sources Flora to make robot video labeling 125x cheaper than GPT-6 Astra",
 "summary": "",
@@ -279,6 +315,18 @@
 "keywords": []
 },
 {
+"key": "12efb377d7058226",
+"title": "AMD vs Nvidia GPU Chart: 32 GB vs 16 GB Flagships [2026]",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaU53STNpci1OYk1FLXZRekc4QmFFamRBdUpVc3U3YnYxdWNCbVhsbUR6SjZTMWVhZTR4NEZEMkp6a01tYXRiZnFEc0ZlMHFvR0NfNlpBb1FhcUxpcWtTNzRpMTRubWR1VndjQlBLbVpCcEZ3dWpWQ2ZXMC1TVjdQWW9pRmJJbGt0OVRnMUNoMA?oc=5",
+"source": "shattered.io",
+"published": 1792922121.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
 "key": "7ef659b49d80bffa",
 "title": "Nvidia May Face Chip Competition in 2028 as HBM Risks Extend Beyond 2028",
 "summary": "",
@@ -297,6 +345,18 @@
 "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYV9iT1lNYk9EUFhLNEczc3YwWFI1bjA0S3JmVkhNRmh6czdkdnQtUkQyd1R3VGR6UFRGOUt4d1U2emltQ0FCdnEwdXBvWDdtY21MVVc1UlhqdkMway15cExkaVRYTDBxWUppOWxZRGhpcnZlTHU0YTlKTkd1ZkFqbWFQdmFKZldaSUpHZ0l2M0lDZDRkempRbg?oc=5",
 "source": "Yahoo Finance",
 "published": 1792921622.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "f59e0f7fbbb32f44",
+"title": "Own Microsoft Office on your Mac for $99.97, no subscription",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNks0Ym1PdXRERTJkV05xU01DcTJTLTJFYWtxNkdqWjE5bk0xQ0Z1YVVBQjNfMXRaQUdhTzdDZkRtSHVwV2lsaFhFXzJTb3JqWGkwR2R1ZXZvMThtRmVBdk02WGpQX0RoVUtwdmlPWHVLZktHZU9wZVQ5LWg0dXdyUC1hU3QzbzN6VGJpaWFjcGl3XzQxd0xsdmJCWDVtSzZvMWFUeGduMA?oc=5",
+"source": "Macworld",
+"published": 1792921229.0,
 "stocks": [
 "Microsoft (MSFT)"
 ],
@@ -4819,66 +4879,6 @@
 "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ycDlGNi1LR2ptOGotcDZmWl9ueU5VOGNyOUh2V3oxWEVYVEp4Zkh5R3ZrY1pJZWtGQldENjlXUC14VDZXRXUxUEQzQ1ktZU52aF9QNExHSVNkS05nLTJFLWNUMm9CNzJtUW5Hbw?oc=5",
 "source": "X",
 "published": 1792818900.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "0200bd5fb195ab2a",
-"title": "How Third Quarter Output And Sales Results Will Impact Aker BP Stock (OB:AKRBP)",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNX2Jqdll1SnlyMk94aEhtUEtTN0NmS3dUSGlPZGxBTHY3bzhuXzloX3oxeEZFTDVBeU5FOHZuRWpCX0ZlSDluMTcxNkllaVU2dFRwNXlKdW4tS3kxRVZBMEx3WHI0MUNDd0NBWWowbGREMl9XanZPYjFsTlNTcEQ5Umk1cTYwZ3ZpejZjdTZtbGpGNlplWXJJNncyRmRBU1g2QjBGTEtQZnRFZmRRVUJaOGdkc1pLMkhFV29WdHptWjhMSzFiY1HSAcsBQVVfeXFMTlJZQ1NrTGhINDNmSnNKVWNod0Y0OUNOR2hGX1puMmpHMjNXYmFZWnREbzJiaGF1MEZwZ1B6WThjR0ZScHZaOGU3LS1POHZYTWVzLWZSejFiUzdsZXBNVktLZUNpb1BHNDlBMF9CVXNFdjlTTzAweEotbjNtdlNueUdPME42c2RLSjdNSHhqY0N2bFpRVzAtMnBVeUhkaHhnV0VJX2otejRMT0Z5T3h3VkZ6clBWZzhDbWRaNHMtUFZRWjF6RE5zRGhRMUk?oc=5",
-"source": "Simply Wall Street",
-"published": 1792818729.0,
-"stocks": [
-"Aker BP (AKRBP)"
-],
-"keywords": []
-},
-{
-"key": "aa11d9b5d2b6971c",
-"title": "Tesla shows what Roadster drivers will see on screen before thruster activation",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE95MnNJWFpXX1hyREt5REx2UDVxVXVJR0NvelZONlNlQWVMdXBmazVqUkRkSUNnOWw5b2pMYXQ4bWdhbW5nYldHN2JWWC04bjhlRU5iQTVBTVRZLU1wYXk0LWgtalRpVkx4OGpmNVc1dw?oc=5",
-"source": "Teslarati",
-"published": 1792818540.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "72cc11b3327e4169",
-"title": "AI: Anthropic’s $750B Compute Bill, OpenAI’s Trim, Nvidia’s Safety Net & More. AI-RTZ #1249",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOamx2aHBHdFpLMDNFLTVtSU03YnIwOHU2aDJuNGtMRzB5OGFTV3Q0SGZPdVVZTG9YTmNRNmoxclE2MklHeXpTeXFDX2JTRk54dHhsejY2ZjZUWkhxaHFMbnFOZ19RMC1fei1lc0lZRXZuV1EzSy1jQlZsdXFRZENyNkd3?oc=5",
-"source": "AI: Reset to Zero",
-"published": 1792818153.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "16cec14b8029c875",
-"title": "Is The Battery Trashed? A Tesla Model Y Hits 111,000 Miles With Zero Home Charging",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWU12Ym03Zzh5QjQwbmthSjVQMDBfcW9HdzhyR1ljajlsQno3SUlCUWJadVNGaVdYRHN5bVZOVk5MSFJTVXQ3VDVhaTVFcXFrT2tCeUpOd0dsNmpzNXJzWUl6eEVmd0gxZnVyT18xbFZTM240MWlUN2NkZlpTcnpfZ2VZVzhLYUZxc3c?oc=5",
-"source": "InsideEVs",
-"published": 1792817607.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "e62d144883b232c8",
-"title": "Tesla Model 3 Hits 250,000 Miles, 1 Part Replaced [2026]",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTmtFaGZhZTFCUGllcEVxcG1pSG9BOENaWW1mU0d2ODZtMG1PMmFLTWpsMnhleUsyRjJTbVBjT1ZmWXBEOVpfU3ppX2EyTmJpMUd4ZTZCNHFrSlA2aVVfYjFhZmpBOTFfWGotY044VjUzZjlXTzkwNHhlbE43SlZyNw?oc=5",
-"source": "https://tech-insider.org/",
-"published": 1792817433.0,
 "stocks": [
 "Tesla (TSLA)"
 ],

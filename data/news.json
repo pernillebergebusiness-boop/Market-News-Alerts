@@ -1,5 +1,5 @@
 {
-"updated": 1792940042.633397,
+"updated": 1792941411.3762805,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,6 +73,30 @@
 ],
 "items": [
 {
+"key": "8a700c5e0e105a90",
+"title": "Memory chip selloff contrasts with improving stock market breadth: Kobeissi",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcFJxS19QeTZKLXRMTXdLLW5lS2FybkNDdk8wZTRIMFVYYjg3bjRnOS1CZkNkWUZSX3BhT3AtVU81bkpsNDltbVZaQXZzR0wyb09aV1hISDFHeEg1NkZlb1p1ajRQel80aXhnTk5jSnFSRzNJb0ltTmtpVWVOaGpRaGVUbnhZcUlzQXNBRDFZWDZldUswSzhjZmtpclQ2UHNwNVgxWlpyemxLeV9idzZvUW1R?oc=5",
+"source": "Seeking Alpha",
+"published": 1792940963.0,
+"stocks": [],
+"keywords": [
+"selloff"
+]
+},
+{
+"key": "fe08b56b1d24bd8f",
+"title": "Microsoft, McDonald's, Verizon, and Others Tell Crypto Platform Not to Tokenize Their Stocks",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZXBpNzdMaGFVbjdIOHkwUDdQMW9CdWhOdjh1bHpSbUZCVHdVakpnRDh4Rl9SWjU2Mlo2Tk9RNVVzSjRyejNQMmNRWHI4Rk8ybDN1VUVTNzMwYi13WHh0VVBCZlkwNjBITlNESnlsVVRySDk1RVQ3akxGV3FUVTJ1b3NUREF5cjZJODV3THZhVnNlR1IzcnQ1U282SkFydEF6bXA4YkZZNkdSNWNDZVZ1UDRVZ0ZLQnlLdGlR?oc=5",
+"source": "Gizmodo",
+"published": 1792940184.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
 "key": "1d87a3815274adb3",
 "title": "Tesla makes good on its Cybercab promise in just two weeks",
 "summary": "",
@@ -145,6 +169,18 @@
 "keywords": []
 },
 {
+"key": "6db6671d80236fcd",
+"title": "Strip Nvidia, Broadcom Margins and a Gigawatt Costs $20B",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObGtzUUhwZUR5cU9iSkFIdE9YNWxLSEMzMmZEWUFjNnl5THVlMExxc000M0xnQjg0ejRYTnRaLTR2S1V5VWpqcFZrdlN1ZVZ6R24zbThmZklidlU0WElVNGJKLUZZMHNCTU9fVVQ4VTlOczBMLXRXZzBORWdkSnNySmxGSnlvLXVZbWc?oc=5",
+"source": "FourWeekMBA",
+"published": 1792936992.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
 "key": "c6b472fc4e386af2",
 "title": "Tesla’s Robotaxi Just Put Starlink Inside Its Roof",
 "summary": "",
@@ -175,6 +211,18 @@
 "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPV19lUHYwU1N2d0lVanRvN1I1UzNSMVZxUEdlcGJsZW1VVUdwbUhvTkVPRTJVY2lnMHRmOFlpN3d4VXRqcHBnWVg5N2lLYmVZTVR0TUJwMHZCcWxpVW5PcUd6ZENIeXJhZmJiMDRWeW5rYzNrRDF1Vi00VkR5MF94SUtZd3hmMHc?oc=5",
 "source": "The Motley Fool",
 "published": 1792936297.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "3536b69c5c555003",
+"title": "Researchers Cut Quantum Decoding Time In Half Using NVIDIA’s RTX",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTmMtT1ptS2w2cnktODQ2TURhb1pVTnF1MjVnOXZnQk1oSlpUNU03VUtlSThkcnU0NTUwZUowTFlSVVRZYnZJOEdzS005QXVCNHpuREp4aHJMYzB0ZUI3TW1FNzZBU18zUFhVUzJoN19xYWNCN2RyOFNBdlBhV3g2SzZqbUVZRm9rcHNncjV3?oc=5",
+"source": "Quantum Zeitgeist",
+"published": 1792936273.0,
 "stocks": [
 "Nvidia (NVDA)"
 ],
@@ -1234,6 +1282,18 @@
 "published": 1792922414.0,
 "stocks": [
 "Meta (META)"
+],
+"keywords": []
+},
+{
+"key": "e1553283093b330b",
+"title": "Tesla Tequila shows up in online store for $420, sells out immediately",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1NNnRmMDlKc0t6WjY2WEJRdHVITW5FVGhvR2NDZS1OOE1JeGNoMW52bE5va0hNZ2FJMnM4R2xoY21uMGtOVGFxLVN2RjU0RFNKRE45VTFOSFFFNHdCYXRmNXhYemVxeFJtWWdnWThMbEg5VlZlZ2c?oc=5",
+"source": "Mashable",
+"published": 1792922400.0,
+"stocks": [
+"Tesla (TSLA)"
 ],
 "keywords": []
 },
@@ -4820,66 +4880,6 @@
 "published": 1792840481.0,
 "stocks": [
 "Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "6df72c001027b5a8",
-"title": "Prediction: $200 a Month Invested in Nvidia Will Be Worth This Much by 2035",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQjRKeXR1Y2ZxeVBnS21lRDA2S0t4a18yNHJfdVpwUS1DbC1qZEZ2NUFBdnBVMVk4QldTdlVYZjRNWml0LWNpdTNucFYwbVBnMzBjWjZyYV9DMEp2by1ma0lpNW84RUNwYTBpT0l4VHh3MEZHZlVLcU5ITld0Nzg5RjFQNi13eEZha0Z3M1ByVGx1aEVnRjRF?oc=5",
-"source": "The Motley Fool",
-"published": 1792840451.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "f27151c26bdd4a80",
-"title": "AMD FSR 4 almost caught up with NVIDIA DLSS 4.5 in image quality in Cyberpunk 2077",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU2lIWGlrMHR0MXkwWVNlTjZaZmUxcEYzbTM2WFg2NUx3aG1MUDB2N1U3RDR6ZkJnZ2FQYWNWTkhCY2M5SGNUNFhpMjg4MkNmNFRnNnBrYlpHTy1SZm1JanZfd211MWEtMnowRnZCVUtyNEZCdWRnX0ZvZk9PYXd0TGsyUmVsMDFiQnl6UUVSaVJfM1g2bUVPMUNKc3g4V2hfZTFuRWU0bUh3Q0lETlpneE9QTzNVeWhI?oc=5",
-"source": "GameGPU",
-"published": 1792840371.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "2d337bcbfc3f0072",
-"title": "Will NVIDIA’s DSX Pods Shift the AI Landscape?",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZzdSelI5ZUNYeEdwekk5eU0wR19Rd3NYemU5V0thb0JJOEYwNlByd3duYkU3bzRyM0VPNGJJMTZKTnRnRVc1cHZZY3V1ejBGZ1gwOEJFOVdBSVpWQXUwVVc1Y0YxSUZWdmlMRHFBek9pbUQzNTZ2alc5R3VWQ0Joc3ln?oc=5",
-"source": "Data Center Richness | Substack",
-"published": 1792840236.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "266585bf4eee337e",
-"title": "Tesla Model Y L Debuts With A Human-Sized Third Row",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1JUDMyUkoxR3R0TERPSnJJVlI4T0p0Q2RiYmZXNlRENGs2aGFrUk5WdGdRYmQyV1pfcG1VV2pYaG9UVFBsN3FnNkR3QUhITGdWWVFQUUFHNjRZTzIwSGsxRnBGc0FsZ0pHX0w5OQ?oc=5",
-"source": "Motor1.com",
-"published": 1792840123.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "5acbc154d3548b13",
-"title": "Tesla Roadster Screen Shows 5,500 PSI Thruster Gauge [2026]",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNU2R4OTlPbzFPaV9GWVpxdDlsTTJtVERDNmdUWDRaZklPNkpzN1NSZlMzaEViRHRRVlZ5S3RFV0VUMDI3VnpWX2Uwamp0d0hMTzl4SllicGlkVGJzNUMxVUdfUlp4S0l3cXMwUlBpcmsyQkxEd2lERk9ONTdVWHd4alhkcw?oc=5",
-"source": "shattered.io",
-"published": 1792840095.0,
-"stocks": [
-"Tesla (TSLA)"
 ],
 "keywords": []
 }

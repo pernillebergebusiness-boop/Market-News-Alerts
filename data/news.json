@@ -1,5 +1,5 @@
 {
-"updated": 1792937818.1014428,
+"updated": 1792940042.633397,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,6 +73,54 @@
 ],
 "items": [
 {
+"key": "1d87a3815274adb3",
+"title": "Tesla makes good on its Cybercab promise in just two weeks",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9pb3V1OUROYk53OE4tTk8yaFp3SDExNEYwZXhuaDNRcUI5dWhLRktlQmNnRVBHVm9fdmUyU1pkd1NZQk9qMlJnWG5QOTRycmwzOGdZWlVGM3NJejBDelFxXzkwLTNhcEpaRmc?oc=5",
+"source": "Teslarati",
+"published": 1792939214.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "1b84068c52d297e1",
+"title": "The best Android and Windows integration I've seen doesn't come from Microsoft",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBrMEVDWGJSblhwVFJ4M1UxUXNhbnVXblV6RXppMVlFeWZtWWREbWNTVlpPcm41cnhUNnZEMS1faFZ6dnhKaFo5YXZRVTBXRVJnclJkR3JzNmdwNFcwMkFQd1dIV1hyUlBzbzB3ZlJua0c?oc=5",
+"source": "MakeUseOf",
+"published": 1792938617.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "6b009bfd41bd66d1",
+"title": "Markus Persson Built Minecraft Alone; Microsoft Bought It for $2.5B",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNjlpZzI4aWxuYTJMcnhHUzFjT05FSTl1RWR2UTNRbmMzUjhFdjJxZy1DNFFqOHFHM2RLQjFLbGZKTUdZc1I0dkVXZG1vaVdqRl90M0dPcGttRTB3ZzdpOV9KY2pTbVNGa1gycklfZ2tMTk9HSk5PbS0zVEZCa1lfaWprRHE2MVh0QUJKLVFYMmMxWWFQR3JVTFBTNDdhb1lGa0REQXBzUmYtZDhUX2dudUFGeW5MeFNJYjdma3hTUlo1SXN4Q0U2U2ZBSk82NTl1ajlRMlhwUWRiTDl0UzRNU2hrX1laSlpQa2c?oc=5",
+"source": "Men's Journal",
+"published": 1792938600.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "91c3cd762a9f7dae",
+"title": "Windows 11 64-bit performance boost coming soon thanks to Intel & Microsoft",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTTE2MDFPOVVPYWc5dTd1VDMwRUVJaS1TaWdGajR2WmdaMUxRSG5XbDM1ZFNtRUlRWTVJcVVvVC1UZWk0RFZlUWlwZVVPak1MYXhFUWRCTFA5cUdCYnZwcGE1cVNKSGtmZ2g3clgyV09kSVFWX2dwazJJc05PaVJicl9OOUpta2pMQi1aYktVWmhYUWlXUERrZHBCV2dsMy1zcGRZRjJB?oc=5",
+"source": "Neowin",
+"published": 1792938000.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
 "key": "af23d4cf0677cc63",
 "title": "Woman Buys Brand-New Tesla, Notices A Crack In The Windshield. Then She Tries To Get Tesla To Fix It",
 "summary": "",
@@ -91,6 +139,18 @@
 "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOW5hNHUzUFJBbDBfNDBWWEZEajZGYWVFeEp2bXM5U2QyeG14Q1U2NlVfcWtCSmtsWDVacEZ1blVaSG9yenFPeUk4SHI5dmlrRjV1X2tTLUVQUm5Nd3NwMC1mS0pDRWhvMzRJemxaRWcwUE12OEg3Q2pTTlNoN2JRODBacXkwdzBBTzZ4OUhVaTF3N3NnZEhkOFA5UWpaTnVRcERUV2hpc016RUVHZUZKd0tRZnN2dw?oc=5",
 "source": "RG.org",
 "published": 1792937311.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "c6b472fc4e386af2",
+"title": "Tesla’s Robotaxi Just Put Starlink Inside Its Roof",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAweFNaTF9zYW5oTVhmWDU2cUx2SHdOU1BOYWhNRzhtQ1RDQWU5ZG9VbnNXSXRjYzJJWC0yYUtaTmRpZ2xQdFB0SWM1TWxMZ0IycnNpRnJSWXhTaXJ4TXg3UEN3RktiNXphWllQSzFQSkRkUHhOMlNVOW9yNA?oc=5",
+"source": "Motor1.com",
+"published": 1792936586.0,
 "stocks": [
 "Tesla (TSLA)"
 ],
@@ -205,6 +265,18 @@
 ]
 },
 {
+"key": "ddb2d0282902dc29",
+"title": "Nvidia weighs $2,000 annual software fee per GPU for AI agents",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQTVhd1p2dU5lMjdnVE00aktFSy1fcV9wNHlReEFIeHFvZTRrWHRlZ3VtWkp5ZENUV2xfZzd3Vk16SVhyWjNrX203aE9laEJyUzlzRDU3d1hwcUR4UEhnWnczMlU2SjB4R0hKY3B2ZWUtU3FSVWgyd1dIcmVHbTZ2UWpVWXhOZw?oc=5",
+"source": "Mezha.net",
+"published": 1792933734.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
 "key": "eb26379f46903573",
 "title": "NVIDIA’s Jensen Huang Receives Honorary Judo Black Belt in Astana",
 "summary": "",
@@ -227,6 +299,18 @@
 "keywords": [
 "sell-off"
 ]
+},
+{
+"key": "ae1dc901c33ecd4c",
+"title": "You can still buy Microsoft Office without a subscription, and it’s $27.97",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQc2RneXNXZ0t4aUNGamhMWndmanV2X05oRTFJOUxfbWpQWFFmMzVPczd6RzdsM1Q2dG9GZnc0VDg0UXJIWE82Z3hHc0V5eGJyM3RpOHN5RHdaVkdXOWFwT192NENYU1FMcDhXdWJyYzUzaG93UWY2SExqT3p5RE55NmpWVEZuZ2hOdHhrRC14TXVxakwwV05VWHd1bGk?oc=5",
+"source": "Mashable",
+"published": 1792933423.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
 },
 {
 "key": "1d32f54e74eddee7",
@@ -379,6 +463,30 @@
 "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbjRiUWYzajF4ZmpWUTBMMG1haFBZSjB4bkxaYW1qTW9YX3dzd0tLVXIzRTE1QURLY0VTQ0RWdy1MYU5nci1lZk1WQWdFLW1JTzk3YnZSX2xxWXlfYlo3LTY2RGRZWll1SHBkQ3R4bXhwSE9GMVFSdTZIdldfNUh0UV9VUFZuREJwLUV0RDhMN195NUNjUGlUZTFnN2VVbERYd3BfZU8yUDdhQQ?oc=5",
 "source": "eletric-vehicles.com",
 "published": 1792931663.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "fc27dbc2c61002f0",
+"title": "Why would Musk merge SpaceX and Tesla?",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNDNHTDgyQ3lETFYxcThqTjJzNVU1Q285QmF1YlhZNEprZlpEaGlEdUx4N0FadXBFN1BFRG50WU5xV1lyNVM0ZDVnTEludHpKNTdrb1h1bFhzWmFWV2lHSFdFbHRBMG5aRk5xMEVUZTFCckhHdVlvd0VGdE9UVVRRZUpSQ0ZkVWUycHJBd3g0b1VHcFRHMnp2ODBFc25FSlB6Ui0xU3pqSWhVMzBvZk82dVdtVmZrSGo0WVF3RU5PY3V2MVNPek04?oc=5",
+"source": "news8000.com",
+"published": 1792931400.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "dc923ac1a67aab5a",
+"title": "Why would Musk merge SpaceX and Tesla?",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUXdBWnZuWW5MZk5SQW1aNzNVVFRSZElMb0FiNWNWdDdwd1ZBemtiREl4Wm9GeFIxSF80SlByNEFSMW12blAyTHBLN2JiVmlpbmpTd0VERTMwR0FxZE1vSXIxTXJLaGNRWm11SWlMTDZVMEVhU18xQnBCb25od1BmTUF4ZlhjNVNOcnlwcy1FNmJId0VSbzladG5DLTR2Rl9jZlE?oc=5",
+"source": "Lynchburg News and Advance",
+"published": 1792931400.0,
 "stocks": [
 "Tesla (TSLA)"
 ],
@@ -4772,114 +4880,6 @@
 "published": 1792840095.0,
 "stocks": [
 "Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "5ee615cf8a76cbb1",
-"title": "President of Kazakhstan highlights value of NVIDIA CEO’s insights",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRURKdXRGa1NsU2J1LTJIcWZUZ1lya01ua0ZPZzdxeWlTZkJHSXM3NmpxNDdzUE1nck53WGg1OUF5clA5NU9aQzNSRElUSzF3WTlXSWZzNnZLczNRNlJuTEpnandFTGZoWURKR042MUVkVk9tTlZSR0RkMTBCSzhDNTRJWWR6Q1NaNWNqSWN5eWN3bTJhaUFLN01tcFZWb03SAZ8BQVVfeXFMUEVESnV0RmtTbFNidS0ySHFmVGdZcmtNbmtGT2c3cXlpU2ZCR0lzNzZqcTQ3c1BNZ3JOd1hoNTlBeXJQOTVPWkMzUkRJVEsxd1k5V0lmczZ2S3MzUTZSbkxKZ2p3RUxmaFlESkdONjFFZFZPbU5WUkdEZDEwQks4QzU0SVlkekNTWjVjakljeXljd20yYWlBSzdNbXBWVm9N?oc=5",
-"source": "Qazinform",
-"published": 1792840030.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "1959ec053a8767ca",
-"title": "Best Crypto to Buy in October 2026? Tesla and SpaceX Hold 30,221 BTC as Remittix Plans to Cut Supply 20%",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNX2wyVFhlV0FNRHNPUGp1QmRvVkJ6RnNPNDBCRkhENWFEVTE1MWpKQ29DRnlfOFpXd3NnMEhzdjJWY1BfVm9makdSWUlVVjlvenFtN2VBa09PQmtZVG5tSTdfZVhfdUc5eFBLN19LRHdwZzNSOXZBdVlWNTlvdGZYSnRwSGwyZjB5VXVKY01yVkhJMS11S2EwVkVJOHJrQnBuZW1yTWxncTh2S3NGUGdVQzl1eXc1bUFPbGZtbHVjcDcxcVp4ZXdHZlJWTHI2RTlfdXEwVlRjMzlwUkhqMGJvOFBQT0hKNzlJelVYVGowV2I0RWFFa0xoX0xVSQ?oc=5",
-"source": "StreetInsider",
-"published": 1792839998.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "321f45fb9fd7bf26",
-"title": "Tech Stock Sell-Off: This Could Be the Most Powerful Reason to Buy Bonds Right Now",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPb0pDRWFhd1N5bnVTbXh1QUI2cEdtUVZGOThwYXY5bm8yTVZXUm9DNzRyR2ptV2d2Zi1QN25la3piQk9iS3hPYktVcnVNWjNHZFl3eWRjLTNyNVFBdXQxaFVuTkFHaE1rTmtRWnRLazdoZXpJZnNGYVhqbi15OWZ1emY2cHV0Zw?oc=5",
-"source": "The Motley Fool",
-"published": 1792839846.0,
-"stocks": [],
-"keywords": [
-"sell-off"
-]
-},
-{
-"key": "1a2e34f9f9a66a15",
-"title": "Nvidia's RTX Spark has an NPU it barely mentions, and I spent a week figuring out what it actually is",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUi1MREE0X2pWeEg3R3pvMmJ0TFQzNWRkUHJpQU1DbWhrMi1uZmdsb2F0bVhEYVh1SWIzMXJ4QlhyWWxxU2xLX2s2OHVVd1Zka2w1MDlLdXRlMzdUaGJYdmtFLVZfODRVZnBmM2tsQjRLSjdoTjZvM1JxaHFiQlhCeGdYWlNyWDJFNk1NUjVpbUprWEh5Ni1J?oc=5",
-"source": "XDA",
-"published": 1792839621.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "99aa7dcbeab2b26f",
-"title": "I'm an Outlook Classic holdout, so I used the new Outlook for 3 days before Microsoft's 2027 switch",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcHJNMTNYQS03alNwbkpWa3ZnaG9yZWpvcjdJQkVMZDA1V3pRLWtuNHdoRVJWRmsxcnIxYXM1VS1vOTRPcEQ1cHd5dUNhUmRIcmFQY05HSm5lbHh4LU5kWDlMSzNHLXlZTGVsa0VRcWNXWFFidFI4UU9KTUxQZU9kUHJ3Nm9WZUhFdDJ4Vll6bENod0hTcWlPOTBfM1dSQmFid1A2ZE1yUFoyb0xBTE9GMl9xNWVhcWNNZnpqbXRrbDk1NWh6UHhLX2RhMjJtMDNKMDZZVA?oc=5",
-"source": "Windows Latest",
-"published": 1792839611.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "eb335a91a484042c",
-"title": "Nvidia's role as AI financier faces first big test as neoclouds take market hit",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN1kwNGVDOVM2RzM1UHRXSGxMb2t0bVR5U3F2ektqUGFGSDFwcEx4MzVsUVJWNjZobzhHSWoydXFZSVc0Y2ZuVmtGaWZ4UlpIelVnWlRGeF9fSllBSXlDNDd2U0NLenF4aVlGRy1MQWZ2bHVlTWVROUh6cVdrT2ZZU1E4N1ZaS2MxZEIyaG5QeXBEVUx0X1dLZmd5bk01RXVtc0stTG5oT1RJNk1tQ2lndi1jYV85QdIBuwFBVV95cUxQWkFsODZMbW1ZMjhwOXdUcHFSZ01La3kteUFsVXBPVWV1RnRqVzRmLXZZOXZpWklDTk52T3k4ZGkwbHduZHJkdW9rYjhEbXBPLWFiZURiNmt1UUdyaUpqdS1kS1lXTjRJWnA2N0Z4UlR3NnJhUkNyZ3RYMGF4VTRfWDg3emVCWEZ5R1dYcFk3RXc3RjRqQXNhMG82MlR4d2RaNFU2OUNxQmVJcU9OOTNyaXluSjI0N1d6WFg4?oc=5",
-"source": "CNBC",
-"published": 1792839601.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "700f2115097db311",
-"title": "Nvidia's role as AI financier faces first big test as neoclouds take market hit",
-"summary": "As Nvidia has gone from chipmaker to industry financier, some investors see the company taking on outsized risk tied to the AI buildout.",
-"link": "https://www.cnbc.com/2026/10/24/nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit.html",
-"source": "CNBC Top News",
-"published": 1792839601.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "9071852a6c019050",
-"title": "Microsoft launches model specialized in AI decision-making",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9IVVd3d1EzTlRsdkVYNXUwSkQ0VEhEMlJucUExdHNnVWVIVTBEeUY4MUlwV1AxRmdJWjZuODNFZw?oc=5",
-"source": "jawlah.co",
-"published": 1792839155.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "4aaaacfb5eec7186",
-"title": "Which AMD Graphics Card Is Equivalent To The NVIDIA RTX 5070?",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTFBWM0R6d3c3TXhveFJ0Z0tmMTBFenBjaUlwbmFjQ0tkNXdZekZmLU5aZV9nYy1SS3IwMDQtRUNwSXgxekJIa1NGa2EycThDYjBnd3VpRGozZHgxWmdScjNYam5RYnd5QzRkajhUZDVlRTlwOFIxWnFzTE91UkJUc0ZhRUI3dw?oc=5",
-"source": "BGR",
-"published": 1792838820.0,
-"stocks": [
-"Nvidia (NVDA)"
 ],
 "keywords": []
 }

@@ -1,5 +1,5 @@
 {
-"updated": 1792892254.9275453,
+"updated": 1792894195.4287264,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,6 +73,30 @@
 ],
 "items": [
 {
+"key": "2c03e9aea56359b4",
+"title": "🧭 Nebius’s $3.5B Loan, Microsoft’s 1.1GW NiSource Deal, Aolani’s ~500MW LOIs",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ybVVHaDFGVGo0T0xpTDAwNXhVUkJ1aWMwd21CY051d2JhMkQ0NFVrTU01TVlaTThka1NFTzhidE1tUnE1RFhVa1ZTUl9hR01EM2szUzVXVDFacWN1N0pVd1RTRFo2YU1QTHdzaTViaFVEUzlvVEZPa25R?oc=5",
+"source": "Global Data Center Hub",
+"published": 1792893652.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "6ef7db9b2eb09f76",
+"title": "🇺🇸🔥Finally getting a look at the INSANE Tesla Roadster The supercar is sitting in the lobby at the Petersen Museum in LA…but only until Tuesday. ⚡️ Writer: Bri",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4cTF4U2JTQjV3eHZuM3h2NkV6YU5yT1MwVE9NXy0wanBoQU91d3EteWo2TVRpcTdRWDJ2b096OU4xcFdfQ1lOOGdFTzY3NGpHX3h3MmNBSEtiZHdlaHl0emQtbzhOU2xZbDBMTA?oc=5",
+"source": "X",
+"published": 1792892700.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
 "key": "88e7f5d7dde2ede4",
 "title": "Form 4 Meta Platforms Inc For: 24 October By Investing.com",
 "summary": "",
@@ -133,6 +157,19 @@
 "keywords": []
 },
 {
+"key": "77c8421c089732d4",
+"title": "SpaceX, Tesla, Meta, Nvidia, Intel, Netflix, AT&T, and More Stocks That Explain Today's Market -- Barrons.com",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOd2NHYmNySXZad1hXaUlZLU1aZjU5aVotcDNRLXFSYmQ0cmgxYVFvc0VrdlVRY0loS2x0TV9QbmdIZC04dmZJekR6MHJ3TTJUMEYteFZDVS1VdEhBNWYxQXY3WFFwR01uRFZ6SFUxeW51aHpfVzZsVkVkd0E0RzNqQldkZDduc3dubG9FUkc1a09EUUl0b1pvZmw4OA?oc=5",
+"source": "富途牛牛",
+"published": 1792888250.0,
+"stocks": [
+"Nvidia (NVDA)",
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
 "key": "eb593e98344a94a0",
 "title": "Vallejo Crash: Tesla Hardware Evidence at 70 mph [2026]",
 "summary": "",
@@ -189,6 +226,18 @@
 "published": 1792884900.0,
 "stocks": [
 "Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "db2bd160de5422b7",
+"title": "Nvidia H100 Rent Up 44% as Anthropic Token Prices Halve",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSTh5eFRHazdpUm5OUzRUcjk0VUpuYUpWSG1URXFMcy1jQ3U4N1JVSllvNWE5OTVXOVc5dFBaci1lc09oZEJ6eEVNR2NrYXoxQ2QwX0pDdEVMRnJQVldRalZYVDNLQmNYcmRmV29ZN3FIdVdIbWI5VjJneE12d0pNaWwtTl9IZDloTHc?oc=5",
+"source": "FourWeekMBA",
+"published": 1792883920.0,
+"stocks": [
+"Nvidia (NVDA)"
 ],
 "keywords": []
 },
@@ -4832,54 +4881,6 @@
 "published": 1792784162.0,
 "stocks": [
 "Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "5c12480d565a530e",
-"title": "SpaceX Filing Gives Elon Musk the Final Word on Tesla Merger He Says He’s Staying Out Of",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQkVhamhOdXlkMjJpamNxN2NVVC0yT2RxblU3UDNrRXlDcmtudU1Ba09wM3ZtUkN1dmdzRmNKaGd0Tmx4YnE5NFE4dU1GbnZMVmNKZVpDZXI3NGktUGFWYnZHZXJXc1ExYWxvZGsySHNlMVdKRTFtcWtfTHBQR1lWX2F4X1FqbEtTOHJZM09RUkxtaVM5N3daSUtR?oc=5",
-"source": "Yahoo Finance",
-"published": 1792784162.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "9eea9cd3b29db1ab",
-"title": "ISMG Editors: Stolen Vendor API Secret Exposes Microsoft 365",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMjRXVS02UWNQQmpJcWdZQTcwOFU5UU1wY3E0OWhtYUhrdDRHMGxJU0h2cFE4Ukx2SzVSNFE0SDZGTHhBX0Z6c1pCNjVsMVdsMWt2NHhzbjJqVmFQX1l4TjU0UXY3dk1sbGlzNFJDeEVFREktbVBDRWw4WTdpc1B3OXlHeEdPMlBvRF9LUUdZWGxfTmxoQlJiMU4za0l5SEl0UVE?oc=5",
-"source": "BankInfoSecurity",
-"published": 1792783944.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "a0a97bd4ebd8077c",
-"title": "Nvidia CEO Jensen Huang Says US Must Take China ‘Seriously,’ Warns Against Underestimating Its AI and Chipmaking Prowess: ‘If There's One Country That Could Manufacture Things at Scale’",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSVU1bXVnbG0xaVJfRVZySVhKNGctb3pqZXdqQXJoWVRfU3ljb3l6ZkZfWHBTejNMc0dTTFBwY0o1QlN0YlZWeGZQdlpDQzlVb2hMM3ZEekhiV21OQVZXeTlZWFJCdDlaVFlpS2l4UmE0bkxYcm9ZN2J4eFcwblA4MGtLNnd4Ymh5WktpbmlVQ0c4ckVwaVEw?oc=5",
-"source": "Yahoo Finance",
-"published": 1792783822.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "8fbb141eccbd70c1",
-"title": "Microsoft says its AI tool outperforms generalist doctors in complex diagnoses",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTjZRcmdGRUdkVXNucEN0SEVaV2tnZXRiWGVDcU15MXlYcnhjeHhWeGprQUhqRzBOQ2l6Nlkyb0t3azZVRUdXTDU4WGxZWlRQcTNRWXJNOEJ5U2xHNWtXckc0M3M3Zm1pRkM3RG04ZFprSWxqNTRMSHRUOFBnbGJXWS1URlA3cDJYZEFmMWlvNmNmZjZNbVM5X0I3TURYTTZfMktqM0RtS0ROYmtrNG5hadIBtgFBVV95cUxPdTR0QUw1b21qaWxyTXo4MDB6b1VWdkptT2lCQVlzS1RIR2pzSkZZd3R1aW1SeWp1NjVpdW9pLXM1ZWs5N2pkTldsWFBwMC0xdVN1RDJsbzA3MzlmNnV5QkVKd1JaRjR5MUZEakVneGpwb1hLU0tXU0pBS2FhQUxHT291WnZUamVXU0luRHp3TVhOUjY5SkhPcHdSdXZ0WHNsaDRfRFBEUjlJLTNFRXFMU0JQRmZtZw?oc=5",
-"source": "Fox Business",
-"published": 1792783320.0,
-"stocks": [
-"Microsoft (MSFT)"
 ],
 "keywords": []
 }

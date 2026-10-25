@@ -1,5 +1,5 @@
 {
-"updated": 1792894195.4287264,
+"updated": 1792895971.804142,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,6 +73,20 @@
 ],
 "items": [
 {
+"key": "4928d0226ee2202e",
+"title": "In 2008, Elon Musk borrowed money to pay rent while saving Tesla from bankruptcy; 13 years later, he donated $5.7 billion in Tesla shares to charity",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPSFhUQ3hJNFpmZWpyYWRueDZfSC13R0FFZnRqa3ZrWlV4WjU2SWVwVkcwWkpibE0tejU1elZuSmoxeE1NYnpneDdhTWRsTlJoblRQQWY3NktpS0VSa3lYLUVjTXVrN3JaNG5rZUJ6WVNLSXZkOVdlaENEREZ3Z0FPSDR3a0xjb2x5aVV4ejNoVzhnM3R2bDRfWU00QnJNa1VCakNBbUgtUFFnQkpzU2RjclU3MGVQbmVCWThIclIzN1BmWEVpOGxqNTM4X2twanNmLVhJekhBQThOVzZLSkpQMEZBQ2FUcjFDb2tWUE5LTV9ZLVpLRFZ5QnBpaHg?oc=5",
+"source": "Parade Magazine",
+"published": 1792894980.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": [
+"bankruptcy"
+]
+},
+{
 "key": "2c03e9aea56359b4",
 "title": "🧭 Nebius’s $3.5B Loan, Microsoft’s 1.1GW NiSource Deal, Aolani’s ~500MW LOIs",
 "summary": "",
@@ -93,6 +107,18 @@
 "published": 1792892700.0,
 "stocks": [
 "Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "aa880075a23b4fa6",
+"title": "Nvidia’s Jensen Huang Says AI Agents Have Sent Token, GPU Demand ‘Through the Roof’: Gene Munster Sees 15 Million Bot Users Soaring to Billions",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOG1EcXoxY09jT1IzdTlXRlZBZ1kyMEozME5xSFJyeWRsVXBUdFd3aTJ3eDFxbzFvdFZHaWVRLXgyRFp0dWpMaGRVdHdsUVI4OEVsR19yczBzTm1aTjg5MFBXWW1odklWQVlxbVh2d2xZU2ViSkl3TEpSMzAwLV85VVZFeWxBQ1pWcDVZclZtOFNuQ1BJSWc?oc=5",
+"source": "Yahoo Finance",
+"published": 1792891800.0,
+"stocks": [
+"Nvidia (NVDA)"
 ],
 "keywords": []
 },
@@ -226,6 +252,18 @@
 "published": 1792884900.0,
 "stocks": [
 "Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "532dd275cdf427d9",
+"title": "Nvidia H200 Rental Index Rises 20% in a Month to $6.20",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9rZU9oYlpqcUhHS3hoM2M0dEx5TFRBSVNfYU5vVC1mdXIxZUtsYU1ETkZqNV9GVW1acWpUNUdFU3FiTWJnTVBpYVkwakMwT0VldmVPeEljQk9GTGM?oc=5",
+"source": "www.tokenpost.com",
+"published": 1792884664.0,
+"stocks": [
+"Nvidia (NVDA)"
 ],
 "keywords": []
 },
@@ -4845,42 +4883,6 @@
 "published": 1792784513.0,
 "stocks": [
 "Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "c635bf39053e89c3",
-"title": "Apple Reportedly Raises iPhone Duo Shipment Target by 44% to 14 Million - AppleMagazine",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5HemVnaGJDVjBjUnA2eC1oLWxwWDZnbmd1b2JTNmFwLXhJanRxanNQeExoSFBkT2tVWlFRQ2pnazk5dGlLbVp4TVhLajg1cndPTE5ORzc2SmFqQW9jYVQ4T2RCanhZell5elRzNVNrSUp4Z9IBd0FVX3lxTE1ydTFURDlVejM3TXBQeW5HMGd2d2I0TkwxSEJJa01YMV9XdEZibDFvVUN0RG9ZXzFvdU01RTRMZnBSUGl6dFBRSWtCY2Nlald5c3NkWW8xRHpqT2JCWmZIX1dxQVhjSU1raDFadkhsS0dWUnNydm40?oc=5",
-"source": "AppleMagazine",
-"published": 1792784268.0,
-"stocks": [
-"Apple (AAPL)"
-],
-"keywords": []
-},
-{
-"key": "01872f2b91382d7f",
-"title": "First Shift: Tesla targets 5 million annual sales by 2030",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeGhIS1VFbFY3Z2NKd0J6TGxhQzdERkJoUDd1V0hkdVg1cHJlclJ1NGsyVURhRXllbUpEUWpCdDVkYThwQ1BXTk0zQzJMT3o2VHUyQWVjNzhOc0E1d1gtOGZ5YlpqQTNlUmRvbmdnQzJSaWk0NDgweEFvbmthZDVkaXhvSkRfNUMwM1BFVXFmQ1JqUQ?oc=5",
-"source": "Automotive News",
-"published": 1792784220.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "61ccbab17272f080",
-"title": "SpaceX Filing Gives Elon Musk the Final Word on Tesla Merger He Says He’s Staying Out Of",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBRQ3d6WjR0ZjJKcGRxcXJzSDlfQ0twWVlHNVJKQ2w2MFg5LWs4TU9xMmdtYlFUa3lGazhadEZEdWRuTkFsUF9ScHRRTE84elFHU3NmaFZramVqWGZHMHlydWFuMkJ1ZERnbUdGbWVqZC1ISGN3SW5jZXpnSGtHZw?oc=5",
-"source": "Decrypt",
-"published": 1792784162.0,
-"stocks": [
-"Tesla (TSLA)"
 ],
 "keywords": []
 }

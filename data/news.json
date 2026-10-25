@@ -1,5 +1,5 @@
 {
-"updated": 1792969344.3457959,
+"updated": 1792971232.5174804,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,6 +73,54 @@
 ],
 "items": [
 {
+"key": "d285578b5a7b1b4f",
+"title": "NVIDIA, Nokia and Telecom Operators Advance AI-RAN and Distributed Intelligence",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNX3FramhHTjBQZDFxdUNxZEhUMjFpR1lfSDVNc1VMcGd5WlNyZEVJSVdoUzAxcU1CcFNQV0NvLVlJai10UjkxalBtUFZSbEZSTVBoRFlQT2dyanNkQmNxMUdpd2g2Q0EtSUNvelpDM2ZXRm9Obm5VVHZBWTNieXd2Q0VmRms4R0hwZnpaVkQyZFU1d2R1d3ZQNzhQOFZFTWcteTliUTJPMW5MZDRvVTBOcG1IczlsMzRyYS1CWEViZVE3RW1yV3VqSUFzWUROZw?oc=5",
+"source": "The Fast Mode",
+"published": 1792970127.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "cdf33e0a8756bb84",
+"title": "SUSE Brings Sovereign Control to Enterprise Agentic AI with NVIDIA",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY0pUMldEMHZYcnM5dk5RQlNVaTNsY0dLM0xXQVFVdmU4eklsVEdDUjVNdk84UjVDSXNuQ0ZuNVliVk1fUjc3V2haWjFIVzRjQ3ZlWURKOVd1Tmc0Y2xWVTE0SjZVTTg4OUhobzg5ZXJDSnlQVmdUYktYVm5GU1NEYnQ1MjJOQ0xpcjhwYzZDR0RVOXh0RXY3TXpOVy1nUFZCd21qLTdfY2tOaTg?oc=5",
+"source": "iTWire",
+"published": 1792969862.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "514f6010ac7a528b",
+"title": "Tesla and SpaceX Explore Historic Merger as $TSLA Earnings Beat Highlights Shared AI Strategy",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNU3ZBdEY5MWtFaGJPRnpCTURVZmhhRHBTZHpIWnV6TnphNVNyUzhFX01zNDUwQUtmZjQ0QmIyaXJteXpCRUdqZGc2ZjJhVDRwdTRnYUZERUhzTXdYLXBFbnhDT3hyNFZrMF8xdHBERnRIUHVFMWdyUjdJbjBMNzd0aUVrMEFiTXJHM2x4b283cWlLM1ZoSUtxYXh0aXc4YjU0SExjQUhxZEZDOVpDQnNERGdtSmdsY0Z6dE9UbXRCcnd3WnpGU1I5YXJPbk9GYWNTdzJmNEdEUjc?oc=5",
+"source": "Crowdfund Insider",
+"published": 1792969433.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "5161347c33c85ce7",
+"title": "Quote of the day by Microsoft CEO Satya Nadella: 'We have to do something useful with AI, or we'll quickly lose social permission' — challenging AI pioneers to step up their game",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNR1NmczJHUmwzVmVtOUNtcUVJekxkX3RZVmVkSUdIOERMeU93ZThfbFZkTUFEcFp0TUZxZzJoRmk3a2Z3X0F4bWFSUGhDVnNVZkFtSnpTNU5iZGJRYWN5UFhuQ1ZDNTFfYkRqSEh3ckt6MnVqazh6MjFZNG1MTDRISFRyanQ5UUJfNE9jM1BiQklyNHl4dDd0WDJrN2lfVEJUaThoRUFHc19mSWtxOWlRUXdhRDJoTUlVVWdtUVA2dnhUdjBpV21zVk8tamJ6eVNFX0RPbnNJbHNFWGpqQnZrZGFTVkJsNldja3dSY2VRZEtUTmhELTVIVDRsVmhpSE8xdF9lQXk4MXpaX1N0M2FNNTNJVVVnUHFzNjc4dlotcG5aUkozNFRXdQ?oc=5",
+"source": "TechRadar",
+"published": 1792969200.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
 "key": "6c00cfab92b674f2",
 "title": "Nvidia’s open-source Flora labels an hour of robot video for 72 cents, against about $88.50 on GPT-6 Astra",
 "summary": "",
@@ -117,6 +165,18 @@
 "published": 1792966294.0,
 "stocks": [
 "Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "3f6e807b7f0d60e4",
+"title": "Why Is Microsoft (MSFT) Central To AI Cyberattacks And Digital Patient Twins?",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPT085aEdGQ3ZtY1pCUWxURy14N1ZnaHNsaER2RTlWWGxJU2tnbVQ0Q2tQZVMwNXMzeHlKS1Z0VnZfb09tYzhtTm01dS0tdkpjMmNDSkNiNXZLUHJBSEtqYUFYbFFoV0RnX3M5SXRGV3BNSkJOeVBMYTRRa3U3Sl9hSTVhUkFza1BWR2ZKdktaRkdkZk1SekZNaw?oc=5",
+"source": "Yahoo Finance",
+"published": 1792965988.0,
+"stocks": [
+"Microsoft (MSFT)"
 ],
 "keywords": []
 },
@@ -457,6 +517,18 @@
 "keywords": []
 },
 {
+"key": "01502422e0ccc503",
+"title": "First Look at Tesla's Roadster New User Interface[VIDEO]",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUU1NLUd3S2N5OWNqLVNTeUZYZUt2ZllpQTVkT2xacjRZZHp4YVdBQV82WlVPbkNBREtaQkZSRDJJSG5SX0w3U2oyT0tBNFpHV2tEcGs3NUNzYW15S0dCZnphSDg5RkFtQW9pblhCMWhCRjNuekVvZ2NCdjN6Q0RDdGhUcnRXYVlKanBxOHNQSjNHQ2xXX19QU0I4aVlLQnc?oc=5",
+"source": "Not a Tesla App",
+"published": 1792956480.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
 "key": "1bb5f6e499565974",
 "title": "Tesla Shows Off New Roadster’s Fighter Jet-Inspired UI [VIDEO]",
 "summary": "",
@@ -525,6 +597,18 @@
 "published": 1792954740.0,
 "stocks": [
 "Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "0024116e6580319f",
+"title": "US S&P 500 Q3 Net Profit Projected to Jump 30%, with Nvidia and Micron Accounting for One-Third",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBmcnM5VHVXSENlN1p3UmxsRjFWZnBqdVJlN2JBTUtreURNQjNlUGZXcXBpSkNpbHZwUnpfYl96TjNyWi0xUlVUeTJyOTRlcmg4c2g2VjBmd3dtQ3J3VnFwLW02N21WUQ?oc=5",
+"source": "news.sbs.co.kr",
+"published": 1792954680.0,
+"stocks": [
+"Nvidia (NVDA)"
 ],
 "keywords": []
 },
@@ -4795,90 +4879,6 @@
 "published": 1792861763.0,
 "stocks": [
 "Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "5f44a626561ee408",
-"title": "ABA Technology Presents Fusion AI In-a-Box to Jensen Huang, CEO and Founder of Nvidia, at GTC Berlin",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOOW1ZU1FfN05vdDhyeGwzY3hPWVJVQmNBNHZwS2Q4S2tRZUhDcEJTVkJGMlVQcm1uMnhXb2tjdm5WcUhTR2QwOFJXRnlpbnhZZGdBUWJnSkF2Um5sekF1M0pWeUkwTzJkaG14eWMzVEs0V3lMaG9YNmpMR3RWdjFoVDZwRVVWY1N1NkRvRXcyMWhJOW1qS0Fqc1c2bFhCMVN5cGEyZk1tWVlKV19GcVh1d3lpU2RlTWVkUkhRajlCdHJhdmFxU0xSLWlROTF3UjJhbUQxVUNMSGtJc3VYaktQZloyTG83cXI5dVdaN0FjRU9aZkFpdDVraVpCQWpWcTNJVWhocmMzUDJCcndkMFVBN3E2NmlTZw?oc=5",
-"source": "Atalayar",
-"published": 1792861743.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "c0b0abae71fc90ae",
-"title": "Tesla FSD and Medical Emergencies: What Owners Should Know - BASENOR",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYTFhQmVPMnhNdHdpM3B3cUtoVDBmMVhXV1l0OHk4SGNGcTRUejV6X1AtUnR2aGdydnV0LV9EX1liUElhVHJFcktQSzhsbnNlcDlJQnV4ejFIOFU0VXE2YkIwNkM0c2dKN3VvaW1pOGFPd2pReS1uVEhPNW5MbkRaa0VoOS15d29KX0MyVkJzR2c2VW1UR0Fz?oc=5",
-"source": "Tesla Accessories",
-"published": 1792861584.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "a111b7415a51c5b1",
-"title": "Amani Hooker & Cor'Dale Flott Interceptions | Film Review powered by Microsoft Surface",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVXg5M2FXRE9DeEltSjd1NGxFb1NLQ1hCSjBzd3cxR25ocVV2V2hkblhta1ZfcmljT0ZpMU9VYTdvR1BVYVdOM1VrMTFmNnZMZTJTaWJQR2JDRnRJSWEzR2Fja2JFbHd2TlE3Ti1tV2h0emdBSUl2T3FLTWF2S2lKRnBjSzF3LTlJYWh3YzZ4aEdZTDR5THdQSVg3TDBrclhCbXNFLVczUnQ1SGhGOFJNTkRwQWV4Ql80eWFIQw?oc=5",
-"source": "Tennessee Titans",
-"published": 1792861582.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "98c89f0a3c72606c",
-"title": "Tesla Japan's 130 kW CHAdeMO Adapter: Your Questions Answered - BASENOR",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTkJFSktLLWpXa2NlWkJVcFAwdnNMY3Vkb0s0bmJiVnV5eGw3RkNnNEVIanQzS1N0bmlVRnRlZS0tZjYxUWRqTk0zVzhDUkFkamNoTUp5Z3VyNDMtSHhaY1JWa296b3JnV1FvYU53QmZDUURVS1NNN0VzT2lEWUxBb1JlQkFqMEpCdm9OWWZaQ3hnYVBUSlg3cS1R?oc=5",
-"source": "Tesla Accessories",
-"published": 1792861412.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "4bbfab807ea72eb6",
-"title": "Grab Microsoft Project 2024 Professional for Windows at 95% Off",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPU3pEODdES2w4MG9GbXo2MjZxeGhOQUQyS1U0dlZkc3BIQURscmlPbXB4TmRVQVFCMi0xNFU5elVPOFpfV2tjQ3M1OHlXbW10MkhBb25yV1hDRC02Q2szSlhxd2ZLemhuLWdIYjduZExCMnl5X1ltZi1DLWM1YXhlc29iajZ0NzVnZ2MxdjBPMzZiYnVBaFB4ZzhB?oc=5",
-"source": "Neowin",
-"published": 1792861233.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "c14963a4b86f081b",
-"title": "Own a Lifetime of Microsoft Visio Professional 2024 for Just $50 Right Now",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbWJzeVMzeTBfTS1zZEhqZndVa21HSWpXX0hmZ0QzTGJ4RXA0dnZKSndCdzB6X2FOSERzTjNRbl9NcnRTNUpKb3lOTFRxU1RYM0hqdE5RVUlSWVJhOXZJSE9MUU5lRmMwdjNadXRyc1JrLWJVQTlic3llMW9vNWtPZUpIZHJPV3JJckFQQjRSTVRvNmZ3Q0xLSFI1U1lVUlFsWXpv?oc=5",
-"source": "PCMag",
-"published": 1792861210.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "39bffc1b1c326b88",
-"title": "Exit interview: Microsoft’s comms chief on CEOs, reporters, what he got wrong, and stories that stuck",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVjVvem1yelYxZ1JCSGx0aXUySWR6M1pRdC1GY3RoOUg5ZjBtLTc5WDlLT3lodHFUYzd0LWZNcW9ZZ00xMW5jdEdMVFJJdFZOTnVoTXdtQzhXcjhMUV9iUmdUWXBNbzVGOVVJbUlrRTR0clJjYjRwYUV6ckxlOHppY01ZQm9NclA1aEJSX0tFbkhqYkp5WmFmcmwzVDVfRE5fV2lGUDJORTVneFJGMUUyc1lDQ2NLVEFYTkJpMnFJb2N5eENQWEE?oc=5",
-"source": "GeekWire",
-"published": 1792861086.0,
-"stocks": [
-"Microsoft (MSFT)"
 ],
 "keywords": []
 }

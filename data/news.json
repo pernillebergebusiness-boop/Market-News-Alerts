@@ -1,5 +1,5 @@
 {
-"updated": 1792903587.009995,
+"updated": 1792905622.249787,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -72,6 +72,18 @@
 "Yahoo Finance: HTTPError"
 ],
 "items": [
+{
+"key": "2091378578a4bcfa",
+"title": "NVIDIA, Competitors Vie for Robotics Developer Dominance",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNVRfamt5V2FBX20tYkZ4amhid0VxSXZBak9zTXp4VjBWWUVfc2xZUkpCMl9ZQ0ZSbFY4ellyU0ZfVVpQRFByNzAzM2V6cktkNnFqMXNrTnhUQXZSNndJMnZRXzVGLUR4RXNvVms3WXFYNmxDbWxyVkpLeDdEdEFZLXo4ZWFZcWNv?oc=5",
+"source": "조선일보",
+"published": 1792905378.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
 {
 "key": "73718a72c457cb24",
 "title": "🇺🇸Tesla FSD saved a driver from an UNHINGED trucker. A reckless truck driver tried forcing a car into a concrete divider until self driving AI instantly dodged the crash. This is why we ride with Tesla. Worth every penny for safety alone. Writer: Bri https://t.co/Xp",
@@ -157,12 +169,36 @@
 "keywords": []
 },
 {
+"key": "144afcec2f08bfff",
+"title": "Nvidia Drops New Game Ready Driver Version Which Adds DLSS 4.5 Support to Call of Duty: Modern Warfare 4, and More",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNMGt0QW9kQVNxaUxBaFJFNVE4UHBvemhTT2hYWmVzNEwyamZwQTE1S1VIcGZYLTRIWm91Mnh5RHNJMlNwakVpVmcxUlR0MXVvTzV3M2NvYm16LTFaSWcydk9rQXJWZEM2TlpvZGJZWEV5ajRIWE10SnZ3N2VWZ0JYZ3M0bFdoY01Rdm05V3ljUVVqUElNcW14bXo5OVRsU0ZZOXozTkw2TUxSY3pGdVBfTVc4OXFJYVVyUjFFNk9CZUdQd2VNUkc0M3hMX3NmOTdJblI5YzFZQmpVRS1rOUttdklDY0NvdURzOTNLSUJXbFJKZw?oc=5",
+"source": "IGN India",
+"published": 1792900017.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
 "key": "dfe0fcb0e7421cc3",
 "title": "Nvidia targets local AI assistants with a model built around a 4GB memory budget",
 "summary": "",
 "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE56VnpNWnNtLUVLSThUcDJyb000TjktTTlpaFJ1REtWZU9uQUxpSnJ1alg2bVdaMmVtZ3hLWHlEc1lBS3ZFb2RTTGFUUk5kanp2d1NqeDZzR1d0cUQ4LUlUem5jeVBrUFM2WU1LRjJHNFo2cTBvNkxKR05n?oc=5",
 "source": "MIXED Reality News",
 "published": 1792898648.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "07d95947fb32d215",
+"title": "Hideo Kojima Shares His Thoughts on Nvidia’s DLSS 5 Technology, Citing ‘Mixed Feelings’",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeVZqZDlHUmJMT1hDamJzLU9Ic1BtWVNnN2ZmNzljb0lhTjR1WXZVX0IwVWZKWXNldVNMOUNvaGhFNS1EWVJpYmQyZ1FnbHJJQ3dUNWlWQzFIY3c0dDZiemJFbllKdzlDWE5GRlBXMUdYWVFSVmU5Nk9pVE5HNmI5R044VVl1MHI4SVpQSlZNQmxXNGwyd2h2RUw0UHR3QlRfOG5nOXpiMTBmV2pqVmQtRk1WQzhJOEpnbUNzOEdHVUNwZ2JrQVE?oc=5",
+"source": "IGN India",
+"published": 1792898470.0,
 "stocks": [
 "Nvidia (NVDA)"
 ],
@@ -273,6 +309,18 @@
 "published": 1792896358.0,
 "stocks": [
 "Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "cf62fe693b890ef9",
+"title": "Microsoft Teams to get AI-powered phishing detection in 2026",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPN19Pb3czemZQUXhReFpmcDFDY3V0ejFRQ215STRyZ1Z6X09TR1V0ZEN5LVl6Vnc5RERDaWkzcy1aTVNKVkxJVWxfc0JPWGphY3o3dnBvdlZQc1FxRFhOTWRBTDNJSUZpeU4zakdwS1hLR2Rqd0xsd01IczVYMi1jenFqYmVwMFAzN0FGd1V2OHk4QzdtblVMZnFycHpROE16cVRPU2ZfdTRQUGFfZVp0b1RXVdIBswFBVV95cUxPN19Pb3czemZQUXhReFpmcDFDY3V0ejFRQ215STRyZ1Z6X09TR1V0ZEN5LVl6Vnc5RERDaWkzcy1aTVNKVkxJVWxfc0JPWGphY3o3dnBvdlZQc1FxRFhOTWRBTDNJSUZpeU4zakdwS1hLR2Rqd0xsd01IczVYMi1jenFqYmVwMFAzN0FGd1V2OHk4QzdtblVMZnFycHpROE16cVRPU2ZfdTRQUGFfZVp0b1RXVQ?oc=5",
+"source": "TechGig",
+"published": 1792896054.0,
+"stocks": [
+"Microsoft (MSFT)"
 ],
 "keywords": []
 },
@@ -4833,54 +4881,6 @@
 "published": 1792790428.0,
 "stocks": [
 "Equinor (EQNR)"
-],
-"keywords": []
-},
-{
-"key": "18ea146cbd8d0451",
-"title": "Microsoft Defender Adds Unified Threat Intelligence Investigation Tools",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNW5nZ3RJNVN0Z003b3J3M1hwSDd5cUhObzZfemQybWZQRGlxRFlwMGI0QUFHcEZwZDZaZi1GVGdUVjBpSlRkcm9lRDZtYXZlUkxkb083X0VvTzNoNmdCZk1aSlloanc1Z0c5VG15bC1BbS1fbzZYbjNiRDU3Q0VSUnVLMXZIVXZIOWdzRnJTaVZkRERsdnljcHFjWUVmM2JMdjJLXzNTTFBCN0RSbVVF?oc=5",
-"source": "Redmondmag.com",
-"published": 1792790418.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "8f92db6b671f9152",
-"title": "Tesla Stock Lags Apple Because Of ‘Communications Problem,’ Says Investor Gary Black",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONUN1VkpydjZiekdSLV9jT1ZHTUtGRzdDbUxlQXZiNEUyNjlmSXEtc042YTl4VGFYSDFWU0xaR1VCUXRtbmRIamFSbWNZSGJNMnRhQnRsdnNldWFmcndjUy1iYzBFZy1UY2dOWEtyMEdZUWZBSTRzLVBEa1c4bzByOGY4dGpTenhHUDJHOVowbTBfemg2RDdjZzBBZw?oc=5",
-"source": "Yahoo Finance",
-"published": 1792789916.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "c60b63cd0a2db77c",
-"title": "Tesla Stock Lags Apple Because Of ‘Communications Problem,’ Says Investor Gary Black",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSXVHOUp2dWRFZmdBZi1CZlZUaFltNXZxWjYxUGtnc05qTmhXNkNJcGhEUkVCaGgzaU5nV185TDhTUHRGN0V0cmZkUEdEVkhKVVZzenRycFBUUXVTeF9CbG1uc05BZGI5bkNNdG5lUlBUSUJoRXpES0pub1A2S2lwMnJkSzdWTHk1MG5UQTg5Wk8ycGZCZkhaZXUzblo5SUJBamtMWXBGVW42bWV0R2VzM3pWZmM3OFdaQ3hkMUowc0cwSFJJcWl4QUlzUzkwTkRVdmxiclNGU3NwR1dWVHc?oc=5",
-"source": "Stocktwits",
-"published": 1792789860.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "39b41664149f8de1",
-"title": "Prediction: Nvidia Will Outperform Broadcom Over the Next 5 Years",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQREx5XzA2LXpTUFFCSmcwQ0tGVE41Wk9CVHdnd256RFZFOV9EU1FaZV9KWkxqaElwZ0xvMjZzUjFzX2k0QTh6b1F1UG5tTWtXLTlWNURJenVlazNMUkNIOURRam1Ra2prM1AyWHBFbWhpWTNJTjNKWnRtcnRjdDZwR1pLb2RQNnVKQW9BbncwYmNSal9ETk5VaWhjVm1FMERrNHYtZ0RKN1pJTkdUVE5RTUY0X21RVWRSQy1lU3JSM3ZmMFNqdFh5d0ZQUC00bF82ekZRekFsMW9STEFFQm9kekJETQ?oc=5",
-"source": "The Globe and Mail",
-"published": 1792789629.0,
-"stocks": [
-"Nvidia (NVDA)"
 ],
 "keywords": []
 }

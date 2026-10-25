@@ -1,5 +1,5 @@
 {
-"updated": 1792888017.948128,
+"updated": 1792890470.2353354,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -72,6 +72,54 @@
 "Yahoo Finance: HTTPError"
 ],
 "items": [
+{
+"key": "cab057892d528221",
+"title": "Tesla’s Flying Car: Price, Release Date, and What It Can Really Do",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE11ZjlrUXEtSjlURjdDZ3lhMUVRR2ZRMjgwNEJtX0UxYUVQYXhTVFZtWXNLVjZTZzJpNmg1X1pxcE9QR1MzQXhoN1JjdjYwT2xFVjlZSDhoY2xDNUE3WmppU3BB?oc=5",
+"source": "ColombiaOne.com",
+"published": 1792890000.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "21af9ce16fb93405",
+"title": "Nvidia unveils OOI CPO prototype for post-2028 AI needs",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcDZ4LVhJRGluTDV5SXJ4WWVoanZwdFJGLVVHVHlENElabUNZWDhxbTkxMGZHc1ZfLTVkZzhNVnBpR0NPVVNsYWlGQm01NGJ1REpmVEZyaHloR29zUHpuMXBIbEZpbURTR0pYUFl0VURTRXhRVGU1UG9GaGhLYWRSMlFFSUpNalpEZDV5TjJJQmk0QQ?oc=5",
+"source": "digitimes",
+"published": 1792889144.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "1c767f6fb185eb62",
+"title": "Denmark has abandoned plans to ditch Microsoft Office after technical problems",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY1ZnV1UxalNxUy1GQ0luMVV1V055aGF3NnYwdl9lNUwxUWw1YkJNLVo2ZDB6LVZkbmRYbE1SalJzT1BaQ0Z5RlZIeGxxZklULUktUlF3TUF0Ykh1QVVLUHc0VE5Vakl6TnZ4MTNTeDNhVUF1UzBKS1haY0N2TlpZSkZqRWF1MkQwdU90MjlxWEQ3VW5MUjdJSnVUZ2R1SDFOakgwUzVIc2docE0?oc=5",
+"source": "Neowin",
+"published": 1792889040.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "eb593e98344a94a0",
+"title": "Vallejo Crash: Tesla Hardware Evidence at 70 mph [2026]",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdVl2NzdfZkpfMm5Fay1WTmljY21haDV5eTlJTUpLRUtzODVhWWJUcGZabUc4cFB2UkVObmZZdGd4NDZtbE5SeHphOHRoVVNxc2hUUGtWdExsUHhVLWdoWTdHMEhlM19NblV2T1p1YWc1NnJLT2V5YnVfTUtUMWtMdU5uRFVfb3hHVFJ3?oc=5",
+"source": "https://tech-insider.org/",
+"published": 1792887670.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
 {
 "key": "6ae1ac4aeec82a38",
 "title": "Vallejo Tesla FSD Crash: 70 mph Hardware Evidence [2026]",
@@ -4832,54 +4880,6 @@
 "published": 1792783230.0,
 "stocks": [
 "Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "17766a2853759aa6",
-"title": "Microsoft Highlights Azure Credits, Training and Tools Included with Visual Studio Subscriptions",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVzhDVGh0OWc4QnRJM2JET1F6TExmZTVZX1JIUktWZWpYNWhvYV9PdGY1R01taWpDeUFMY2sxbWNuVW96MVNhUEVrU2l6MWx2aU5BbS1ZU1JyT1RqZmVBTEZwZTZxZHJtSzdWeEFsWEU1dk5kU3B4alpxYmpsSTdmclhJYl9HbTNYSTdUU3hDZDBtbmVSelljckVVWmQzQWYzUWRzNE5TTFc5S2YwTTZXZVl1WXpBeGJLX3o2TG1yMDN3ek9WSDFBR1BTWWNHZ2hjNERJRnctX0pHdGt0RndvaHFTZXNTdWFV?oc=5",
-"source": "Visual Studio Magazine",
-"published": 1792783228.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "5c5e08db0a9a9f2c",
-"title": "Meta Q3 revenue tops estimates and Zuckerberg says Muse accounts have topped 10 million",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOTM0LXJlVWF5SVlXYVdVeG5tVElveThKRVZPNXFRY0hXM00ycHB2TjdBalF4RnFxVWpuSEJoVFpNWFJsNDNVUEFtTWs4Mm53VlJHbVZSc1c0Y2NDaXlRRjRjYUhPQThxTDFzdWJaYWFLaXJGVHlRMFRZRXFTVF9zdTBDd1FxSXVwWGNnQ19VbENrQzQzODFtQk12RkZ6Y0t2OUZuTXV1VkgyTWdndVJaZ0taQUxTUXJjNzVsMmNB?oc=5",
-"source": "WHEC.com",
-"published": 1792782869.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "a0dc20f5f940db71",
-"title": "Microsoft Retires AI Builder Add-Ons: What Partners Need to Check",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPY0E4WEFpWkJfaXViZ0NIQndTdV9ZSk5mNjNFLTZ4TXZoVzRvOG4wcENGa0lVajV6cWl5Y3JjWGowNE1ka0ZOQWhKSmM3WWdPZmpIVTl4Ujlzc3VTTE1ORHdQeExHdVIxSldQb1BZZktnUnFuM0ZFejAwdHNIUDhNOWtJQXRMUQ?oc=5",
-"source": "Channel Insider",
-"published": 1792782722.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "b85bdc04dbbc85f5",
-"title": "Seaport Research Issues Stark Nvidia Warning on Nvidia Stock",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZUh5MFZIUFktRVNLQVJQc0hvQ1ItVE96UXFwRFdhWGFjbzU3NTBISEVuVTNCeUNMc1kxSEl4Z2VBY2RqVkl5ZmRjZTdNbE5XdUZwYmstNjF1a0luNUJ0SWRQZmk3ZVdlYXNiVW5USjM1S1JxTUVjQlByR0J5WFM2RmJqWjRRbWFVSHA2MnBLMHV2Mjg5dlh6dnQ2eVZSUldrTjhDdW9FcHl6Zkh2dzJxd1lDRXZhQWVGYzYwQg?oc=5",
-"source": "TradingView",
-"published": 1792782178.0,
-"stocks": [
-"Nvidia (NVDA)"
 ],
 "keywords": []
 }

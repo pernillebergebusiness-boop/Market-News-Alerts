@@ -1,5 +1,5 @@
 {
-"updated": 1792899618.118873,
+"updated": 1792901638.689231,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,6 +73,42 @@
 ],
 "items": [
 {
+"key": "ea928c7b23fffed7",
+"title": "NVIDIA RTX Remix 1.6 Brings DLSS 5, 6X Multi Frame Generation, and Path-Traced Minecraft",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTXk1cmd6VU53SGRWZ2d3dElUTjVaNnJmNk93ZGNnRms5YTY4NTE0eWRGekphMGRPV05pMFJPMTlsblljUFJPZHNaRkJxSE9wQVNPOU0wc2JDeE9EVzAwUzJlcVNIVFVRNlFEckR1VDhVUW1NR2ltbnRlSlZRd2t6eEgtQnpJdVVZd3NHS0hLRnhCZVdmUU8tckdHZVdRUU1rTkhycGhLdUZ4ZTluQ0lFSk1uOW9OSHotc1lWQVN5UmpLYTA5X2NKTXJSc2VtQnU4?oc=5",
+"source": "TweakTown",
+"published": 1792901113.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "e8318793e39cba4b",
+"title": "Gaming PC deal with 16GB VRAM variant of NVIDIA’s RTX 5060 Ti graphics card is an excellent way to pick up an affordable 1440p gaming rig",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOWEUzYkQxS0FqX2lKV3RUUDg2REtpOUZURlFCZ21HajlkLVNoNUNjY3ZXMzBzUmdGYlVyQU92ck5zTWlkbjBrV090b1R2RmF6Z3N2MXNOVDQySnB4UVIzanBVTDZZNm1PTUFqenNBbkdROUhKb2Nwc2xtMzVWendFR1AzZTlZNWpURmthazRFNHdxZ1cyS0pmSWJyLTVRWFFneGp0b0QxWFJPUU1TOWxsb2lVTXpKTlhIa2dCcXJmSm5wOHhDX3Mzb3lFV1hKemFKcGx2N1FRNjVnUENYWW9OZjdHT3pKdnVNZXBjdjBFYmt4ZFduZFpFT3dzOA?oc=5",
+"source": "PC Guide",
+"published": 1792900226.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "f662b30b96a5468a",
+"title": "Nasdaq Rebounds to 26,430.89 as Chip Stocks Snap Eight-Day Losing Streak Ahead of Earnings from Tesla and Meta",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQXlDd04zMUNHd1RwOWZNdEFUSHFzWFhaMHpNUUNhUUV6UzR5Mmg4UXlHZkUwbWN5MzVYXzFHRm5Pa0dnWS12ZVN2V0xhclhDdGpYR1JTWlZHOFkzb2tHZXkwTWU0dERSWFdzbnM1TERQM2Y2SWNJVG9tVkhMYWp5eG13WHhlUHBFNmdLSDJLOWxfNVNmTS1wdndhVlg5U0Z2TWxBeFp2YVRCN2pGUmt1WGZ0bG0zRk9aRDVFTFFhS3FlSUZ2QzZkTVpfNy10dnZ3WTRHOWRRTGptcG5ZVFhr?oc=5",
+"source": "BBN Times",
+"published": 1792900172.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
 "key": "dfe0fcb0e7421cc3",
 "title": "Nvidia targets local AI assistants with a model built around a 4GB memory budget",
 "summary": "",
@@ -121,6 +157,18 @@
 "keywords": []
 },
 {
+"key": "d8fc11f4e0998709",
+"title": "Tesla’s Flying Roadster Launches A New Era Of Driving",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcEdEeTlRWEpmQ05hYTJUUDZJZkV5V19ZeHVFbjVYeDcwMmplRUpFMmxpQWRlTkc4T1Z1NmNqYTFpSE94RW9VT0pxNHdDZmRkM0ItRUJ6RlgxZGFGaFJtem4xVkRPSDk1b1k4YUdRY0k4RW5sVm5sQnVXWUNLYmdWbS04eXRfVlc0Z180?oc=5",
+"source": "TheFutureParty",
+"published": 1792898245.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
 "key": "5b514695693d452d",
 "title": "Should Investors Buy the Meta Platforms Dip?",
 "summary": "",
@@ -153,6 +201,18 @@
 "published": 1792896960.0,
 "stocks": [
 "Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "b6d0c2f5c4024756",
+"title": "2026 Tesla Model 3 vs 2026 Kia EV4",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBFcGJEM2xjcEdyTDJYcHZoblBwMjFxRjZIWDg3Q2ltMTBLZnU1dFlOcXpSNi05OV9MeXBYcnh6Y0NjZTdHX0hqc1EwSHphZ2R4ZTdLSWVrcE1SNlVrV0RaMnFsMXhHRVhEZHc1alB6UVZrZGxzY3ZzbHdB?oc=5",
+"source": "driving.ca",
+"published": 1792896358.0,
+"stocks": [
+"Tesla (TSLA)"
 ],
 "keywords": []
 },
@@ -358,6 +418,18 @@
 "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdVl2NzdfZkpfMm5Fay1WTmljY21haDV5eTlJTUpLRUtzODVhWWJUcGZabUc4cFB2UkVObmZZdGd4NDZtbE5SeHphOHRoVVNxc2hUUGtWdExsUHhVLWdoWTdHMEhlM19NblV2T1p1YWc1NnJLT2V5YnVfTUtUMWtMdU5uRFVfb3hHVFJ3?oc=5",
 "source": "https://tech-insider.org/",
 "published": 1792887670.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "b9fc7048e37aca08",
+"title": "Vallejo man killed by Tesla in ‘full self-driving’ mode is identified",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSkVBSl9IYTNRcjVHMHhNM0dzWmxQUFZRSF9uSEx4VWN0czFOcGtoUjBMS0JVZ3d6T3BWdVFOcEdGM041UTJMMFFyWVR0OUJsUTR5Q0VaaUc2Z0hZYV9kMEtxbnBSdFVYVVlaMERKZHRGRFVvNGJoQmRsSktLRDhWWVlmb2VGb211cWRaMzRSNF93TkowVlppN1dPb2R2M0NtWlprdTFIbzNNTVg4?oc=5",
+"source": "Local News Matters",
+"published": 1792886400.0,
 "stocks": [
 "Tesla (TSLA)"
 ],
@@ -4811,78 +4883,6 @@
 "keywords": [
 "oil prices"
 ]
-},
-{
-"key": "5ea66e303f7dec46",
-"title": "Prediction: Nvidia Will Outperform Broadcom Over the Next 5 Years",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeGlGRVBSQUtpRkJIV1UxbUJNRXpWNjFuRE5saDB4ZFJoT1NyYkEtUlNNY2FfV0QtSmRRWmpSelhRMnl5TjRlTlhTcG1wRFN3SllMQTlhUFJoQ2tRTXpaeDlPbHZpaDBNWkZrTzZBcGc5S29ya3Jvc3F3dzlTLXNMcDIxaHFRNjZlQ01BWG5uYURHRUY1WGJxTWhPWWYwX29nNW9JTW5uYVJMY0E?oc=5",
-"source": "The Motley Fool",
-"published": 1792788496.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "e162fe1055c80113",
-"title": "Tesla and SpaceX Could Merge. But Here’s the Bigger Opportunity…",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOTBJaFFYZzNMVlh0QlhPOGVZVzVMOXk0Ukc2LVBRcEQ3ZnBTLXBRMGhaVGtCRzJkZER6NmJYTVdQWlNYdlh1cmpJM2pwSHdpT1p2LWZ5cTlldVg5X2VVc1d1LThXNWstOUZ4M3pCOEUtVHpLLVlIb19jQVA5S0hmRXVFcmFtRkZjMmJwTXZ2MEdEMGpWTDdWMWRGLU5YT0NqU2ltT2hDZ2N2QQ?oc=5",
-"source": "InvestorPlace",
-"published": 1792788017.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "81ca448e45417f04",
-"title": "How Baker Hughes is levering the Dell AI Factory with NVIDIA to Accelerate Centrifugal Compressor Simulations with Physics-Informed AI",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNWUh1d0VVSGZtVnpBbVphUWFvc1gzbEYxV18xbGx3dFNKTnFXeTdxdm9YRmhCX1ZGeVp4LW11M1MtdFo5YUtiN3cxN05Fel94anYwM0I4RW9iM1pjU0tKMllwN1lPdkVQNnpZQk40LWxXSkVCcWppWVFrWlBmUEN2WHY1WUJkckx1M0NJV2EwMUlVNjN3WmRrS3Z6R2F4NlYxV0R5Q3lieTBwcng3OU9hSzhueEpTeUx1d2VpNzFybDUtRnItNDE5d3FHVnJrckhWZDJBNG83bFdEVUN1VFBVYTJLYXdzN1dvdWc1VUstaWVRcHF0bDFxeFViNWN3ZzYta3dvZE5BNHhYZV9OcXpqMXZSVVJHQQ?oc=5",
-"source": "Oil & Gas Journal",
-"published": 1792787891.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "3a77f57b18c63873",
-"title": "I combined Nvidia DLSS with AMD FSR and got a result I didn't expect",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdXF3MkEwSk8tX0lsREEtZ1dZNEJJV0wtU2FkX0pEQ19VQVZySmlaYUVoOEpYdm4yOUZHaEMyb0k4dXBKVlRwVHVoN3dwdUxRTmVNZzc3bFMyQVRGLUZkaTRYbk9mT2VVWGRURjRaRGhtM2ZMSEhiZG1KU3lqbmpoTDJkUzhCVzhxNFNtQURGUktwMkRXZ0pJbWxR?oc=5",
-"source": "MakeUseOf",
-"published": 1792787417.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "d29d8b6dc654bbd7",
-"title": "Cassava Runs NVIDIA Nemotron on CAIMEx: 5 Facts [2026]",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9qaVBIakZtVGJTR0VNM1JDd09pcUFYaXM0V3c3TC04bHk3RDFGaVhLWjU5RFRnVjlfZWpYaU8xVVRsN1RmY09yNWhFeDFzWXltcFF0ZGlhdWtpRTRZbE1SZVBDTlBkZDlBTjlhRE12MDU2dXl0eHNwUzk0Zw?oc=5",
-"source": "shattered.io",
-"published": 1792787403.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "d9d30ddeb25b1794",
-"title": "Einride to Test NVIDIA Reasoning AI in Autonomous Trucks",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUWZVWGM5Q3FTa3lHTE1XYVlGMFd4WE5oZzUwbTZMMWlEOGxKcURuWjdNdlN3LV9IaXdZOHBkaS1VZkdoWkJ2LTBUWjZBRDlvNi1vckhSSk1hM3dzcUluMXNqUWQtUk5OdzJVMkxJb2NkSVZfR2h1YmpIQzlwcnlreTFTcE5VOHBtN05pX1RBLXA?oc=5",
-"source": "Advanced Clean Tech (ACT) News",
-"published": 1792787299.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
 }
 ]
 }

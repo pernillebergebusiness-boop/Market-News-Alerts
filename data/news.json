@@ -1,5 +1,5 @@
 {
-"updated": 1792922811.9820395,
+"updated": 1792924719.8692536,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,6 +73,54 @@
 ],
 "items": [
 {
+"key": "14dd40f0b5a9342c",
+"title": "Tesla stock sellers should pump their brakes, 5-star analyst says",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObjZOeGs3ZDNWdEpQdXdiSXg0TGVSMlhlTHR1Tzg0TW1hVlpEX1RzNldweFZtVkRFdGFDcDRwTXpabDJJOGdhYzZQV2VMam5XeXRybTJwVzVLb0xNbGxOdFJESUFEd09qbXNDQnRVaGt4Sl81WlltaXhRSGlDdDRUVG5fazJGSEVEeW1iRDhjejNxWEhKMEktXzczMFNqZE1iZ3c?oc=5",
+"source": "TheStreet",
+"published": 1792924380.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "d77fb40396374c1e",
+"title": "Nvidia eyes converting old nuclear plants into massive AI data centers — reusing shut-down German energy sites could reduce the cost and timeline of building from scratch",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQUFVoWHcyVVlZWFNsbldGSXRpNFpFbVdkSzhBMlplM3dTUGxwYU9CamtweDJEWl9IcV9IVzEyR3lTcElvUU1IUUdsX2tNMEdvNlBvZ2JJT1ZidU5CVDZYSzh2N1VhN1NKcnNTTUh0OEM5ZFlPbzZDOFpHRjhndlowd1Y0clhCMFEtUGU3ZHRpVFZLM1VXaEpCRUt4b3UzbmJDSTZFMkxZOVA1X1dLV0hNYk82UG83WFZvRG1iUWQ4Q2tyUE9ZMldEWExKeTRBRXlUdmQycWtKNXZ5alFYakp6Z04zYXlLWmhKWDQ1Vy01TzVPRnJONnRjQVVESHlwYkxtYmN4SGEtZFBKRVdfVGpCZm0xcEUtYmx0eXptV1E5NGhnTHl4OFlRdUtBbnRzeTlhelNSa2wwREJ0RTRYdzNjX2lpSGppd2c?oc=5",
+"source": "Tom's Hardware",
+"published": 1792924200.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "2b30a6f1111134b0",
+"title": "Nvidia open-sources Flora to make robot video labeling 125x cheaper than GPT-6 Astra",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWDZCdUVjbzZsQ1A2RDg0eE9TMko5cFl6VlJOZjEtLWEzZzEwdVg3M3NXSmtWUlliVkZuTHBZYUdGbHBCXzNDcFlYVHAtLUl5WlBRMmY0aXpsREJUb0RkX3R5V2JmdHIyeEcyRjFrbExGLW5MQWtXX01HaGRLbWFDdGVaVVVnNS1IYUx4VllHNmdzcWtpbUluNXB3UExwcVNPWi0wZ3A3Z1hEdUlyVEE?oc=5",
+"source": "The Decoder",
+"published": 1792923205.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "70c1169ef84c99a2",
+"title": "2026 Tesla Model Y: Driven, Tested, Rated",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaG5KSmtxTGlEWV8zZVVFcWFFQnF5ZHc2RVlpZVZYblJlNjBidmRrS3pOcWE4ZWdHMWVoY09kZ216ZWpBb2lTSFZJWklXUlBGNHdtbEZsdkU4ZnFLZkJ0VkFHak1uank5M09PSjNjelNzMTA3eVBGUXNMRV9ibjNKcA?oc=5",
+"source": "Edmunds",
+"published": 1792922876.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
 "key": "1df6e2a388609c85",
 "title": "Compare 12 Agent Swarm Frameworks: OpenAI, Google, Microsoft",
 "summary": "",
@@ -116,6 +164,18 @@
 "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNajRWOGRpUzBZS3VrRDBEcEhDOGhDVkNrbmdHbS0xclZ6YUJOWE1zbVZFVVR4U2lPZzNFNGh0UllnM2VrYTY3RzM1djE4WFpscGlyd1ZSTzVTQjl6U2xHUWFFZ1hQczJsQlJyeHNkR2J2cnZucVl5U0ZGTVVLYjY0UmxtQ0o2SUd0eHNyYmlxNnZ4Zkhoc3dF?oc=5",
 "source": "The Motley Fool",
 "published": 1792920633.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "474e073ef814dd3c",
+"title": "Set Up HIPAA Microsoft 365 Backup: 13 Steps, 90 Min [2026]",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9NbnRYTGJkTVF5TzdCRTc2azBkeEw0XzBHcHhkVnQ0NjltTGlDRktuVzdwVnFrTWd3ZUVsNDVlWkVDQXdCWVdfQ1hLRnladUk1V3puekowbG0zdjJFd0UteUIwQVFITUZhck9jWEtZZU55X1B4RzR3bGtB?oc=5",
+"source": "tech-insider.org",
+"published": 1792920214.0,
 "stocks": [
 "Microsoft (MSFT)"
 ],
@@ -178,6 +238,18 @@
 "published": 1792918730.0,
 "stocks": [
 "Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "8d8980b8957453eb",
+"title": "Kongsberg Gruppen ASA Estimates – FWB:KOZ1",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5US21fVVhUalE1ckhfNzg2cklxQS1qR19HdEhMT0t0TXlpXy15MF8xdUV3X3NJcHF0dDBoVXRmNUl6TWQ4SW40ZWxsd1JRV2RZMFlmRG15RldpZVVvcDNka1phWXJBdUxqLWI5ODhDMmprZFVN?oc=5",
+"source": "TradingView",
+"published": 1792918437.0,
+"stocks": [
+"Kongsberg Gruppen (KOG)"
 ],
 "keywords": []
 },
@@ -4808,78 +4880,6 @@
 "published": 1792813140.0,
 "stocks": [
 "Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "382120b488e1fe33",
-"title": "Tesla Hosting Electric Summon Halloween Events Across North America This Weekend",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcTUtN2xsNlJpMDlTdHAyY2owdDZfemY1NGJvNDhTUUdLVDJSallfN0toWnZCSkluN1RHQmNLQ2ZkNXA2RFRwRGg3OUVITGhmaGd5UDNlNldpdzNsNlZocWYxcC1aaUpWRXRydDdxTjRsVVpVcmNrMkZZa19zcUZ1VUdXQzRDT3ZMTmFXSg?oc=5",
-"source": "Drive Tesla Canada",
-"published": 1792810894.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "08e4870a8cb9836c",
-"title": "Microsoft is killing Windows 11’s web slop, and now even the taskbar’s speed test no longer opens Bing",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWGQyMV9pbVVqQWlXMVQ0VWdMUXpfQm9RQ2E2VXhNYzZTd19yYlhJXzNPNzZ2cXBOU0NsaW9waTFUSFFYNEtTWmJpcXhIdGdBZ3l4SGlmWkwzTElMSEZZV3ZwSVE5SjlhTHZ1S19yZVRnZU56YTAyckRwWWZ2OXpXcnl2NFVLb1V2S3JIaXhHNVRBSjVLU3JDdXEtRmVUMzkyZjdOUGFVYnd6OE94TXJyT0lXZkRfVmtFQXJGcFFaeFE3d3pM?oc=5",
-"source": "Windows Latest",
-"published": 1792810802.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "44e9287ec8df9068",
-"title": "Microsoft was using Windows 11’s speed test to push Bing, now it’s quietly backing down",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWGQyMV9pbVVqQWlXMVQ0VWdMUXpfQm9RQ2E2VXhNYzZTd19yYlhJXzNPNzZ2cXBOU0NsaW9waTFUSFFYNEtTWmJpcXhIdGdBZ3l4SGlmWkwzTElMSEZZV3ZwSVE5SjlhTHZ1S19yZVRnZU56YTAyckRwWWZ2OXpXcnl2NFVLb1V2S3JIaXhHNVRBSjVLU3JDdXEtRmVUMzkyZjdOUGFVYnd6OE94TXJyT0lXZkRfVmtFQXJGcFFaeFE3d3pM?oc=5",
-"source": "Windows Latest",
-"published": 1792810802.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "54f7c4ef3c74f144",
-"title": "Nvidia, TCV Back Higgsfield in AI Video Push",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcWI0VXRHY1VxWTRiajlHZHkwRkxFcnVFS1BMYXBwck5mdWxQR0lxcHliTUk3aElSYnRlRVBKMGkzUEJzQVo3SC0yd2hCMktSZWJWc2lRemhYR1pSbHVJQlBtQ3VLYXdkd0xDblNvMVJVallka2ppVUsyN3k2WUU5M203bUVscHpMb3JGbUsxblFnUQ?oc=5",
-"source": "Briefs Finance",
-"published": 1792810726.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "c73dacc222d579ad",
-"title": "Elon Musk Debuts New Tesla Roadster: ‘Flying Cars Are Real’",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBuQTJsQnB0c0Z6dHo0b0wwbDVQSV9OOWpuRFBzSEU3eVByR3gtaVdveTJzZXIzcEJHZ3hYcm1oV1h5NE9zNDg4d0duQW1qRnQ0Tnc?oc=5",
-"source": "IMDb",
-"published": 1792809010.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "bc4653b7adc74e68",
-"title": "Microsoft Teams Adds AI Phishing Detection for External Chats Starting in Early November",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOR1o3SHByRzZEYzctTHRQekVRRzNDNmlRZXJoNV9NbGdzTHU5T3gxWUJPZEpZV3RNTlcyVUNIUHpLUVFac1VGWkQ1cFVVTU5PcXBJR29ZblAwV2cwVHA0UnlYdzlYYkxOdEZuaDN1SWp5VHV6Y1pHdTRWWnFyTWs2YUJLNDI5cUdLejFBeF8yTEhsd2loN3AzaklKZnV0SjBPTjNiUElPSl85SjBjR1FodmUzZFMtbzJrTGxfZkVCSkQ?oc=5",
-"source": "gHacks",
-"published": 1792808003.0,
-"stocks": [
-"Microsoft (MSFT)"
 ],
 "keywords": []
 }

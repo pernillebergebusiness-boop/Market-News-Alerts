@@ -1,5 +1,5 @@
 {
-"updated": 1792962396.7124372,
+"updated": 1792964256.3585067,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -69,23 +69,81 @@
 }
 ],
 "feed_problems": [
-"Yahoo Finance: HTTPError",
-"Oslo Børs (Google News): HTTPError",
-"Norges Bank (Google News): HTTPError",
-"Markets (Google News): HTTPError",
-"Equinor (Google News): HTTPError",
-"Aker BP (Google News): HTTPError",
-"Aker (Google News): HTTPError",
-"Kongsberg Gruppen (Google News): HTTPError",
-"DNB (Google News): HTTPError",
-"Mowi (Google News): HTTPError",
-"Nvidia (Google News): HTTPError",
-"Meta (Google News): HTTPError",
-"Tesla (Google News): HTTPError",
-"Apple (Google News): HTTPError",
-"Microsoft (Google News): HTTPError"
+"Yahoo Finance: HTTPError"
 ],
 "items": [
+{
+"key": "e310e92d788f828f",
+"title": "Tesla-SpaceX merger: Musk's $3.7 trillion plan faces a 2027 deadline",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQUM1OEtmU2hqZkF2NkI2T3JwbnM3bDlpdFpjS2hZeno1U3RwSkZnTTJDSDBXclc4c3p0VjEtSzJiT3U0eS1NeGdHaVJtaFhsMWtVREgwczdtaGhMUVNkcHZNdThEMHFYLWNUVTRHUFhPMGJxNVFORXBlaVFvcDhVbmZsaWNDeDFBMmZiM1UyXzg?oc=5",
+"source": "www.equiti.com",
+"published": 1792962624.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "5a125a94b45a0f1c",
+"title": "Tesla Cybercabs Ferry F1 Fans in Austin as Sightings Hit New Record",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZWEwUGVyaGpxREZGQ2tQTXd3cGFHT3hiUDAtMjlrRENfSTdwWlA3VUxOT2Z0SnRROXJmWTY5MjBuUV96dnMyU0h3UnpGYjBlcFRXMkZxbXNTNzRSZldYb3N1UnRYS0hqMmF0M0tBa19fOGtiWTk2b09wUHB0YWpvNDRUeF9fajNQNGJtY3pacHZveEZab3V6MUtOcnhnR1ZPdTlIdFNn?oc=5",
+"source": "Electric Vehicles",
+"published": 1792962567.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "1fcbca200be206cb",
+"title": "Grok on Tesla Robotaxis: Everything Passengers Need to Know - BASENOR",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYnJLSG50TFZmV2JiTHhEZjVqOFRXN0plbVBTRjEyUXRlUVpYUDBjNi10OUxvd3g0WU05Q3BLRUI2b1ZNMWdCaUhGOHFWYktEOVBsbXktUlhRMnRZQ25FX25YSXdLekRxVUlXZkJ1VlZGaUU4a1FETnJpRzU2cG5ibUx6cWcyMDhHanphd2pKV0NsdU9MM29CLQ?oc=5",
+"source": "Tesla Accessories",
+"published": 1792962251.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "4c09317d805f701e",
+"title": "Toyota takes on Tesla and China in humanoid robot race",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOay04eC1KWXJvNXZNTTlwaWtmU3F6UmlUU0VZck0zTkhIdmdiQWNhdTBWNDFtelRnemhNTUR6bU1ObE5rMHdJNHEwSzh0WlZaQ1dBM0ZiTUc1MV9iMzE4NXFpQmtUYnJqSlpCMGJiUzk2dXZnSWhzSlJQLUtqRl9KaE5LeHU?oc=5",
+"source": "Financial Times",
+"published": 1792962006.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "026fa8fa7856211f",
+"title": "Microsoft's Cloud Storage Changes Frustrate Users - Here's Why",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBYSkpqZ0I5MUhiMXdXaEVKOFhLY1JsZUl4WTRHSkxVdGhPUEN6OE1uQW9rZWRQMUFoTVZCV3U0d2dlSkxiMnNqOUNuWmM1M0VCMWZtYzZsaUIzR2dwb2ppeE1XZFduUnN6enczMFN5OHNOdXZ5ZjIzWnpHN2o?oc=5",
+"source": "BGR",
+"published": 1792961220.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "c3812314101ed98a",
+"title": "He Tore Apart a Tesla Model 3 to Build a Jetboat, But the First Ride Went Terribly Wrong",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZmZVTnk2MGRPZ1Vpc2NRWmJ0aWQwV3J1YVB0eS1zTzVkbk5mdDk3aE1BbEthV2ZteE5pMU4wWEFHbFNXSUk1LWh0TDRrOFc5RFlZRTEwTkhlY2J2MDk5aWJfbTVTbExkbzBpelN0MEQxLXQ3RVcyTmtfcWExamJPRC1YZWpjOFdiQW8xa1lHV0JMekJPT1E?oc=5",
+"source": "Yahoo Autos",
+"published": 1792960615.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
 {
 "key": "9290838f182a597f",
 "title": "Can’t Create a Microsoft Account? This Could Be Why",
@@ -111,6 +169,18 @@
 "keywords": []
 },
 {
+"key": "ab96a67e195e4449",
+"title": "Tesla’s Optimus Enters Mass Production But…",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBMQ0ZUOWNPQjd2QVUzOGZ5Nm1pdTVfSWpsT3hHX2Y2SXIyREl1R20yRWpKZFVPRFZVV2dzZm9jR0JHbzA1Z0FDcHpBeWh2dExtZXU3c05PQmo3bmRJaVBZRERweHJ5WXZP?oc=5",
+"source": "https://mikekalil.com/",
+"published": 1792959722.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
 "key": "83a9a72402665302",
 "title": "Tesla Is Betting on a Flying Car to Combat Its Stock Slump",
 "summary": "",
@@ -129,6 +199,18 @@
 "link": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxPM3ZIM2g1MkhqV1Q3STBYRXRXMEJ1UU90dTMwa1B2Z25ROWJtRmktbml4LW9ubFJFTnl5U3R5VEc5Y05wd09yRWUyNWNHVnJwaE9NdFhQZUJLNkRGU2tPYXM5cWNUMFJZdlYzYTBhMUhWbnE4V1otdVJSdlU5QmYxMWNPZER5cnpEazdvWERBdXZzazFibk9hVlZXd3FmTVlNNFBPaHRtSFNDakY5NmRHSnJrbzdVUDVSYXFfV1dOb19KTlF4dHdHODIxd1FVTXZqWlpwT0owMUdRNDE0Z09tVEoyZUxmQmV5U2V2OWxqMDh4MWRra2lVTHRTU3l3bEVmTFVUX3BMUkQ1ZXljSXQ2aTJ3SXp1bDYzanZJX2hhb0tTcnlYLUhaTENlLU00TGNKT0dLYmU1REpteTI3OGE0SGtFZ1hsY3F6NlZYd2FzSlF5VEFtN19SYy1rTDBDZ29IaklubktJaGx5aXQ5dzVuWEx3?oc=5",
 "source": "The Globe and Mail",
 "published": 1792959632.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "4f87969e1e7e2c03",
+"title": "Elon Musk Became the First Person Ever Confirmed With a Net Worth Above $1 Trillion in June 2026. Here's Why That Milestone Still Matters for Tesla and SpaceX Shareholders.",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOGVxVHZRU3NvZEVJUHJuemlzQ2t2Um9XN0lIT1VNMUNBV0NwekMwZ0xnR2daTWdoalZaVGpKM2dxc0Jnd29XNDdJRDZwNWVPY0hnTm9IN05qTG16cFJLSWI4cFhmckE1T1dib3JlSmJKMUJDLWVmMUxhRC1IQ0J1T3BnSXpfNndKZjhxRFA2OWtoNFBrZVhab3p3?oc=5",
+"source": "Yahoo Finance",
+"published": 1792959600.0,
 "stocks": [
 "Tesla (TSLA)"
 ],
@@ -227,6 +309,30 @@
 "published": 1792957514.0,
 "stocks": [
 "Meta (META)"
+],
+"keywords": []
+},
+{
+"key": "eed9c11055a6f55a",
+"title": "Apple, Nvidia lead list of tech companies that donated to Trump’s White House ballroom project",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTGpONWU5MVBQZnFzZ2RLeUdyRlpuX0lFb3JKYV82WjRYQWJ1RW1VdHVoNXY0OXZUQWtVTDNHTVJITGNtUkhmdTRQQ2NHUkJxX0t4eTB1THB4ZEk5UnhYVU95NDYzc2dnRmE2bHV2ZDdMbEpJM0NLRGFWQnlyUGJyWFJ0RXJNRVFjTi10T2Z5M3UtdVRGR0ZuSmtiUTM?oc=5",
+"source": "Mashable",
+"published": 1792956684.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "65bb9fe8f6807e7b",
+"title": "A SpaceX and Tesla Merger Would Build a Conglomerate Just as Spin-Offs Thrive - Tesla (NASDAQ:TSLA), Spac",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeXIwdHVyYU55UmJtY1lQU1EtSG9PNFlPeGJSLUI4dVVQUFRXbHpFYVNKQ2cteVJSeXJWNnFVSXp6NUdMQUFnSlFfQ21RbFIzMWpJanhXOXh5Ql9CNnFrR0tjV3FrSjg4Sld1X3k5MEZ3dTcwOXB4a0ZmSjVpdGNKLTFaaDdhd1lnV3NjcF9rVnNzY2NsV2JmQXhLRkNqUWxtSm0wcU9UR3JzVFZ3aWZTcnZyekFIY2p3OC1JYjlkSFQ4cC1sNVlmZ3NyTHI1YVE?oc=5",
+"source": "Benzinga",
+"published": 1792956608.0,
+"stocks": [
+"Tesla (TSLA)"
 ],
 "keywords": []
 },
@@ -616,6 +722,18 @@
 "keywords": []
 },
 {
+"key": "2abc654853367362",
+"title": "Microsoft AI Diagnostic Orchestrator Scores 83% Across 304 Cases",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ZWDdwc0xydW1GMklmSWRPLUt5LU1rYmxSN3Y2NUpCZ1pOc3dKREVoeXlkT1ZHcm0yM1hJenlMdjNUYk92eUdwNml4and1eWdRY1U2NWV0bThDVmM?oc=5",
+"source": "TOKENPOST",
+"published": 1792948192.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
 "key": "000269428e3536d7",
 "title": "Microsoft AI Diagnostic Orchestrator Scores 83% Across 304 Cases",
 "summary": "",
@@ -634,6 +752,18 @@
 "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSmFGb2NzalJDaV94ejl5U1R4Z1JLNV83VlBuRlpfczk2ZVpDSnBRQ3kyS3NyQ1VTSnBVVlJCUWVlZHhSclE0YmpXMmw5NzdvSEhSbzkxcFk1UG1vMnJwRC1NeVg5MFgzX0NaNHBfYWtUTWhUTlRsa3FQNVBfYk5md0tWcDR1cW1BN0Vj?oc=5",
 "source": "Drive Tesla Canada",
 "published": 1792947667.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "e056b96937d8973c",
+"title": "If Tesla Merges With SpaceX, How Many Bitcoin Would Elon's Companies Hold?",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWl95ek40UnNzdnlnQUJBd0lkVTZjTTJ3QVB4TjdWdUp4V3dNbk5sWU10LUlPRFlvQk8xXzJCVzFSS2o4SGlrazQ5ZGpiZDhyM2RwZVNaZlFmOUl0UjhoWHNKTUpqQ2txRDMtMkZoVnFuVVVXWWZkaXpkM056T1ZqQWhCd0NadDRqVUdCWW82dUMzMWMzWEVXcUxmWXI4c0tBa0Ezal9DNWVnRnFGN0hqQ1BXS1NCenhfbUxMUU9qbTd0ZmFQNEowUjNUVQ?oc=5",
+"source": "TradingView",
+"published": 1792947635.0,
 "stocks": [
 "Tesla (TSLA)"
 ],
@@ -4749,150 +4879,6 @@
 "published": 1792859885.0,
 "stocks": [
 "Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "a01d289158a9261e",
-"title": "Former Bronco Raptor owner says Tesla Model Y won him over in a week, despite one flaw",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNT2UyV1NDd29SLXVzbFdFdE5RNHNMNWQ5YTdPejFybzNqNXlNbEZsQVk3dlBtV3gtX2tla05Hck0tYkV4Wno3Z2U5SXd0a21OMmY2QS1lM2lnb0NVTXZXUmN4SmRnSjZldUdKazRzVDRPNU43NFNPbDRENzRBRjBMX1I3Zw?oc=5",
-"source": "The Cool Down",
-"published": 1792859700.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "669e32783dfbb8a4",
-"title": "SpaceX’s $40 Billion Nvidia Financing Faces Higher Borrowing Costs",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9BelEwVkNLLVIxc21wM0RRMXFDdHZHRmU3Qjdkcm91b2VPOFF1YXFYZ2ptSE1vSERkZWVPOFAwWWNKeGllWWFLdUk1NUx0M2JYQnR2LUk2dVU?oc=5",
-"source": "TOKENPOST",
-"published": 1792859502.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "d0e9b92c5cf87c27",
-"title": "Tesla App Gets Redesigned Interface for iPads, Tablets and Foldable Phones",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaE5TdmFIR3JMejc2M09GYmVNemdOYWtnUWJlOVl2Nm1TWjJzejlDbDNlTFlwX3VMTVJtSEhDOFVYSkJ0cHFHWEdwSWdMUjdyZmZkUnE0R2lONmJjRlVzb3J0M1hkQ29UeEtvQWQ5Ujd0NEMzeC1tTWJoSXVEcUpMU1l4YU90cnM?oc=5",
-"source": "Drive Tesla Canada",
-"published": 1792859110.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "667ec9427f3b8f4a",
-"title": "Alphabet, Microsoft, Amazon Report Oct. 28-29 [2026]",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5BQjlzdEM2Sm51V01SaGszNGZUVUdCTW9keTM4QWc5VklWMXhFM3NBLXJPNDdET09ybGpGNmdNY0Q3QnpjMXNHZkNYZDVYNzJVRDNKYmszSmJ6UFNKakNsdGhsUU5zRld5RlRvYlhLY0dPZy1XekwyRVRDbw?oc=5",
-"source": "shattered.io",
-"published": 1792858821.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "835c697b8ae38798",
-"title": "Alphabet, Microsoft, Amazon Earnings Oct. 28-29 [2026]",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5BQjlzdEM2Sm51V01SaGszNGZUVUdCTW9keTM4QWc5VklWMXhFM3NBLXJPNDdET09ybGpGNmdNY0Q3QnpjMXNHZkNYZDVYNzJVRDNKYmszSmJ6UFNKakNsdGhsUU5zRld5RlRvYlhLY0dPZy1XekwyRVRDbw?oc=5",
-"source": "shattered.io",
-"published": 1792858821.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "c31cdf6c8feae7b4",
-"title": "NVIDIA Shader Cache Size: 13 Steps, 40 Min [2026]",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPR2RwQ3g5RG43MTk5U2w4Ymg1YzdCZTlpUlROSVVMRWwxLWg0UEQwaWhkNEthMGJhMkN1Q0FKMUZGRmhIU2xmS1FPbXFSMVJBQlFXTXItMVFvSHdCWGx3U0M3d2pJRldCUXY3QTd4VjNFSzE4d3phQW5iT3lKYU5iZldXSVJ1QQ?oc=5",
-"source": "https://tech-insider.org/",
-"published": 1792858664.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "428bfd479f8d011f",
-"title": "Microsoft develops AI tool that can diagnose 'sequentially' like a doctor",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQc0h4TmhqWG12NXFrTUxqeXJJUVlkTlhUbGxEUThTUUhZcUY4SDVEN010UmRkY0loaHRNclhQam5QdnJtTTFtRzVSX2pWNUFtNV81XzZNWmRvNHpNVlVSeVdVY0NoZ1BiQmZTNFRhZHVvY2VJZDhWa2h3QmNiWTYyY3ZJOTdPalNOSE9QTjhvOGNwS2JkbGdHR2xGU1JVdXh0dDFpQklNYUNzYnA2UENIVW5Rako4S29LMEVlZEFyQlRDSUM5ODU4aWJmd2xkbzllOVVJ0gHYAUFVX3lxTE5vd0N4bWxMclRrR1lBZ3hzYjZVTHBaVjRXM0ZQU0ZhU2paYjNlVmNtRlQ5dU5Ba1dBZE94WjdjR0JaUTJLZFlBME56TTZ0RHVSYkc2N1FJQXdnX2d2QlJucm1uS0R2RlIyNDFObjZBRk9rbmVwWDc5RlU1WEZfQjh2NF83MkdRNXAzZENFMF85Sm1FdnpFamg1b0ZRLU94ODBMd3I0S2RsdmtJM3NneU56c1F5RjJCMlc0cTFubW9jaklYQ1RUaEs3UjllYWItMmUwSHZwejFxSw?oc=5",
-"source": "GMA Network",
-"published": 1792857892.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "ce727ac39a8b1950",
-"title": "Here Are All Of The Crazy Tricks The Tesla Roadster Just Did",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1qTXdRanUyb3pvRGRhd0NCalRYMXZqZ0xKRkdBd0Y5ZnVtTnJ2cFFtRzlqSjd0c1Y4dmRpS2xveXZpc0F3czJyOEw3UEVLSF9VZjR5OFJmTVVjUDNPYkxERUdmd05SLUVQS2tvR01MenRNLWJPXzl3bw?oc=5",
-"source": "InsideEVs",
-"published": 1792857679.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "f6eb5b1e069607ea",
-"title": "Sweden's Government Offices Block ChatGPT and Claude, Keep Microsoft Copilot",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1GS2JHNzFFT0FwTFJlV3F0OFdoZk13dEFNSjM4Qi1LRG95ZF9LRGVqc2t5MEtGMTZPa2JhcGsxSGt2VFJDTG1RblQwWEtiX2pIN21yeHJVUzBqSzR1VXkyVjMtZzc2dDc3ajJWZnl1X1ljbWJOaFMyRE5HR0E?oc=5",
-"source": "Decrypt",
-"published": 1792857663.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "a845cee6b374e155",
-"title": "Sweden's Government Offices Block ChatGPT and Claude, Keep Microsoft Copilot",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRlp4OE5aTFVlb21aR0dkS0xiSFd3ckZOT0VhYzR1dVlld0NhX1Q3TWZTWmVJcHJZQUhwbXZSc1dqak9odnF1UGFDRFJYR21FY1d4Mk03VjNtYXpTdmZoMGdhNFc0RWpwLXR1RWFZbmtva0tTRzdfbG45VTJHR1lFUTdKRGdWUVc1Ri10WlJXV05zV013Zl9SVnZoTy1JUGNqWHc?oc=5",
-"source": "Yahoo",
-"published": 1792857663.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "6082214141c9133f",
-"title": "NVIDIA wanted me to upgrade my RTX 4070 Ti for Multi Frame Generation, but I found another way",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYi1GUnlVVVBZQl9mMzlpdExmZG9OZVE4Umx1NElUNGdWelhzRV96SHdqWHFnbERJcVlNNzIxT2pHYmpiOGdGSU5HTnYtY1NQdkItaGlsR01ISFotZ2tjTWlCdmtlcWxHTlBHTW9JQUdyZENFTTVZbDk1b1ExS0Y1RVJTdTJsRUtwSXZMaUVpQ3FTbVROUkpKRlgyTzBSSDR4RGpzUWtR?oc=5",
-"source": "XDA",
-"published": 1792857622.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "49f43bd3745fd2ec",
-"title": "Apple’s iPhone Duo hits stores with supply short, demand high",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5GV3hiMTBudGR1dlpVT3pQdDhCM28yZWY4S2s0dVJzVWlYbVNpa1ppT2dnVzBRUDREWlRqS2lQemV3czhzRlZiSE5vcG9rcGh3VHRYU0tpRUlENWxSNVVlcGVvX2pDeXNNanh0am5MVW5ibHpSWkE?oc=5",
-"source": "Taipei Times",
-"published": 1792857600.0,
-"stocks": [
-"Apple (AAPL)"
 ],
 "keywords": []
 }

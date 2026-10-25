@@ -1,5 +1,5 @@
 {
-"updated": 1792915727.7363102,
+"updated": 1792917596.3526042,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,6 +73,42 @@
 ],
 "items": [
 {
+"key": "24d689ead026642a",
+"title": "Nvidia vs. Micron: The AI Revolution Is Big Enough for Both. Here's the Better Buy.",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdkF6S3hUY1BCbVMxcE1DUjdUS2dNSHhEX1IxTkQ2OEpOWXRkc2dMbjd6NzFkR1lDQjdpYnJjT0tUSTFTR1JSbmRPRmotQ01yS1hieElPbEJvQThwc2piWTBFTzByeldYQXFCcU5rNmVBM0w2T1RIcWROY3VlSUVvMGlGbkpaSjNoTlpoSm9JMFJzcTUwRHoxUA?oc=5",
+"source": "The Motley Fool",
+"published": 1792917509.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "4c90fd59180dadcd",
+"title": "Nasdaq Index: AI Spending Fears Put Alphabet, Microsoft and Amazon in Focus",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNT1RMRE5CcnMtdnRsNzc2TnBhV01WaUl6YThELVpYQTZpZm1VSlZ3X09vR3lpUlFIMXY5MEtWTk5NZ1VwTmtlOV9ZQ19BZEg1Z2R1eGZ0ajBpZ3JrSG5vQlNLc25jSFdiOTA1LUlLVlhZcUlPSTVnSkxRcmVKbzFaaFBQMEFTckRqU1JhOTFXMXR5M3pxbVVTc1M0M0M2Y0pqdlduWnh2eHpBTkhwOFg0WU95aEhjVklraTFUdDhic1kxUQ?oc=5",
+"source": "FXEmpire",
+"published": 1792917149.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "d9fbaa057359602f",
+"title": "Microsoft's Next Xbox Could Officially Become Its Most Expensive Console of All Time",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wdlZ1S3djUnlqdG5kNldKX0JSWUltYmpITnk2a3lRbk5EN3MzdGwwWlN2ZXFyc2ZEYzhFSUxwQkZ2bmQwbHIwRXlFZXdkTWYxbDA1TTF5MUo2dTNWQkVkVGhvZmhZZ0hUQ09OLUV2YnQ?oc=5",
+"source": "Collider",
+"published": 1792916415.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
 "key": "b69ecda521791ec2",
 "title": "Cerebras bets on wafer-scale chips as Nvidia's GPUs get scarce and pricey",
 "summary": "",
@@ -93,6 +129,18 @@
 "published": 1792913735.0,
 "stocks": [
 "Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "acb1bb7d9a6bdb82",
+"title": "Apple Inc. $AAPL Shares Acquired by ABLE Financial Group LLC",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNd3FqM2pTZ1lFRnVhOF9uVE1scFJUSGJIeUZDekxTWHlGVTRUT3hnMHRmTlEzaUpURG8yQ0hfbENveUx0Ri1YNC1XaHNEREk3Sm1kZGVRbmhYdHNlaFpDdkM2M3ZqT3dwblEtZU9CcUVNSXVFWUZ3RHpHSnM2dldHajJkWlFrcmZqX19LbjBXZ0ZCVERQSW4zVU9yeFpYUmh6R0JYRXFBU2s2LVZZeEQ3VFc0eTFWVmRUVWZJ?oc=5",
+"source": "MarketBeat",
+"published": 1792913648.0,
+"stocks": [
+"Apple (AAPL)"
 ],
 "keywords": []
 },
@@ -141,6 +189,30 @@
 "published": 1792912860.0,
 "stocks": [
 "Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "b1ee1cfd94517d93",
+"title": "Microsoft Ran 1,024 Coding Agents With No Boss, Scores Rose",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOd1lEcGJ3YlhLcjBSSGJOWHJLaWV6Nm9QNHo3bUZ3QzBrWC1wWDR6UEduZk9nUDIyMlFpN1Y2UHR3bWZNNVV2eVJpNXVURDhzODEtaXA1dzJaMElQX0hUX0hFM1BaTjVlMEZWWWJucGRmb1kxYkpiSmgzWHQyTUJBZ0dLWi1Ja2Y0NTN2NU9n?oc=5",
+"source": "FourWeekMBA",
+"published": 1792912713.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "b925568f08bec803",
+"title": "Tesla Megapack AI Data Centers: 2027 98% Sold Out [2026]",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdlpSZkQ5d092QVBUM1NyTlpCaUFCTmVUQjAzdWZxWTNFTm9ubG5EaWJZcXRyNXZlSVZiZTBCV0JMTTJqRndrZDZBSUZwTnZNMHR3RlM0VlhpcFo3R1FGN1BsZnAzN0ZpM0dOQ1llNGU4RHg3TTNuRW9jUzhMUVVHbzVMcGI3Zw?oc=5",
+"source": "shattered.io",
+"published": 1792911617.0,
+"stocks": [
+"Tesla (TSLA)"
 ],
 "keywords": []
 },
@@ -241,6 +313,18 @@
 "keywords": []
 },
 {
+"key": "c78c5f6f40805f22",
+"title": "NVIDIA Tokenized bStocks Price (NVDAB/USD) Today | Live Price, Market Cap & Chart",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ad0ZLbS1YZkx6SUh4N2NBWVJPTms4em5JYXY1N3llakdNS0tDOTlKUUhyODlRcGRma2Y1dXp4Um1icXBHN1VvUUVJS2l1NjEzbzJHT21GVVpIUHdGMVJYSlVjVWtmZGlz?oc=5",
+"source": "Binance",
+"published": 1792908643.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
 "key": "4bcf4c86aec73bf1",
 "title": "Microsoft And 2 More Blue Chip Stocks To Watch",
 "summary": "",
@@ -325,6 +409,18 @@
 "keywords": []
 },
 {
+"key": "58699793766ad9ce",
+"title": "Nvidia Forward P/E 17x [2026]: Cheap or a Value Trap?",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONmsxY2FoLXpWdmlCSFBWODFlSWlPOHhJamNGTWtQTEFfSkJ2VFljbmNZRXgtazM3ZDNkX2lSNzNweDFGQklZWDBmeVhTUXJhcUV1dXVoa3k2Rk5KYUs0a2QyTS11dmFXQXljUXJSbVUySXFOVGROT19vcWlMb2NtcnRQampEUVk?oc=5",
+"source": "shattered.io",
+"published": 1792907117.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
 "key": "7b4cdcf42173f979",
 "title": "Tesla Model Y L comes with six seats, serious pace, and a very Mumbai reality check",
 "summary": "",
@@ -383,6 +479,18 @@
 "keywords": [
 "Brent"
 ]
+},
+{
+"key": "01557ed06a6adda0",
+"title": "‘I have not seen anything like this in a long, long time,’ Microsoft CEO Satya Nadella as companies, gove",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPM0xEMmlVaUlMLUVjeVF5QTJ5T0NHTjZWMlFTdm5ZWlVnb2hvQmNoeFphT0xILUMxc2xfZVVXWXQxSG0yZzFKN1Awb0VRc2c3Ul9GbjlnOG1jV1NLd3RLQVBlUXJHWk1jZlUzbGQwVnFUX1BVbEpiMGVnRjFjcHVmY3RvWGZZQUNYaktUY2stbHJsOVVaZmRFaGh1eGt5UTVOY1VjMWRzQjdhZ1NNdFVkZzhRcnZZMUhYMjlrdl9sRzFCMy1udjNwdngtZWFZN0c4a0tZUDRWVTBOajFRbjNJWTFzdWJfM2hscVN6a2VFUFZKM09NY0t5V3AyWGl2NWZ2dkdlZ0h4R0hQVGR4a0tQY3oxTnk1dDBZb1NHYnRVRDRNR0RraXFkYmhJYnNpU1NSTWJyTlRKdTlWQdIBvwJBVV95cUxPc21ZU2o1UUY2b0FzeFd0LW5acFMyYTYxMmROdEVTS2RYZlBaQWdoWlZDRWdsYnRldXFjZ1dTY3BpLWp5WEUzVnV1dlpJUUtCSW1UV3hiTHFhR3phWThMTjdIeEdpRmV2ZG9WbFhid3pzNGYzbUtEQ1lSS3YzZnNLUUV4dzg4anpNWTNDUll4ZFRmQzM1UkZYTTNUc01FMXJkOS1qc1o1dElLSEJQanlsU3FHbXAwRlo0LU9HYl8wNnlLbi1wVVhTYWVqck1lblZLWHRCMFdFc0UtZWFXLWZQUFpvekhBWmttV0hDbFg2VU5nRndwOHg4SjFTSHFVMlZiRzdnNFZVenU4dFd4R3RYdEpsejlkV0M1S2lqZmg4UHYwejZmTE9Zb3c2WC1NM2ZXTHV4ekVlUWJlWDlBdFpR?oc=5",
+"source": "The Times of India",
+"published": 1792904820.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
 },
 {
 "key": "4585b058ac046a93",
@@ -4773,116 +4881,6 @@
 "published": 1792800433.0,
 "stocks": [
 "Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "6ef653060c147884",
-"title": "Elon Musk Eyes SpaceX-Tesla Merger, Huang Pitches ‘Financeable’ Chips, Zuckerberg Wants More Compute: Mag 7 Voices This Week",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNNmxQaThZUEJBRXM3aGRfZ01Wa1JtdU5qaDRVRGpORG5saVFCWmxsdEdSWFBSd3o4MUdib3FDbWw2RzB3eF9uTVlGV0w0UFlBNFYyWTBZcllIcWlGbmVGZVZIS1hMbU1PcEt2dFR4alNvdllGWndQR1dJN0FnbEFUS21zcFpSWmN0VllfMmFlUTJVLWttZk1QZlhQdi1uN1ZTemg3M3U4MWZRdUtuOEFzdlcxLWNuZVc3TUwwTlB5bGlrMlZFbEY1V3ZLcnNtaEh5V3Q5Z1RhQ0syVlFMcy1DV3hWYktaRVV6THVJcko0MFVPUW5peVc1ekp2cE9QUk5LQnhMTnJNTk04Y00?oc=5",
-"source": "TradingView",
-"published": 1792800420.0,
-"stocks": [
-"Meta (META)",
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "a4fc950d5c331f73",
-"title": "Elon Musk Eyes SpaceX-Tesla Merger, Huang Pitches ‘Financeable’ Chips, Zuckerberg Wants More Compute: Mag 7 Voices This Week",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOR1VDdWg4MGh5aFZpelltVXdJdUtXZ0xXZi1mN2xqa2VQNUN1T2VFQ3J5bWxTWVd2V2hHWVFoVFkwTkJnSzMyTWQ0UFNOY1dicFlqSW85R29XOXkwSzlOVVE0M2tRVWJ3WXJqMlUtdG9KemE3NkhPR1NKUnVuaDAzSG1GOFRoakZpRWxWbFdFNFhFSmZYTFE?oc=5",
-"source": "Yahoo Finance",
-"published": 1792800420.0,
-"stocks": [
-"Meta (META)",
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "2da1a0155cd38bc4",
-"title": "Xbox COO Helen Chiang Leaves Microsoft Just Over Three Months After Taking the Job",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTEpCMkdJcVJadjZKYnBOUmpRWFFybEtjSjl5UnBCOVEwdW1wY08zWVpRbEhMTE1QNE8zV1pNSGlFVGlMNFJPc09wXzMxMzJmQ1VaejJxaFMtV0JiVTUxX2JWOW9tblViQ2dQUDZIeS1hR2lkZnVpeWVtVkxFVkp5endVVkpxSmpjeWd0cGRXMWVMLUxDRTZZeTVVekk0ZU1XR1pwaWFhcGxzdXAwX2NkWTB0VnBjbUZuWGc?oc=5",
-"source": "Shane the Gamer",
-"published": 1792800365.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "77997c063c8f4a61",
-"title": "Microsoft Brings Its Customizable File Explorer Context Menu to Windows 11 Beta Insiders",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYnlRaU9MY0dlSlJQVjJOYlVfMTRFVGo1ZFNySDVmTklSdllHRE1HeXowY0lZMWhtY09JRlVTM3FTRThNbndsTWlrQnF1MzkwUWdpWnMzd3lfMk9WMUUyWE03VXdFZEZ6cXc4aEVoYzlRNlpNLVY2MlVpdktzYWJQWXZYREY3SGhVR1NlLXhsVzRBNE5fLUNNc2MzZzViYVhFNno1amszTzA1UmNZNnhVYlZSWGlyV0t1djk4OG5uZjjSAcYBQVVfeXFMTXBKTFBpS2ZUbWM5VU82Sk0yc1VCOXJHRnRUaDBNWUVhb2NIdGlGWUZldmRMR3AxTGRsM2xHVWFpUVhIVkFTSHpDS20zR0lvUDd5ckNqWFJyNldlNlFrV1VtRE5vYWFLbTVMZjlPaHpWVTNzQlVMNUxKcWlRWU1PVHVLSmlHVU56RExmNUI4WUdGS01BZnRBczNFcS1NZ1R6a0E3U1Y1UlN0QzI2cHNBaEhibUlJT2lEdXhrVE1ZeFJKbEFIRk5n?oc=5",
-"source": "TechPowerUp",
-"published": 1792800150.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "4c4fae1e572975fc",
-"title": "Amazon’s $5 billion Nvidia AI servers sit idle in warehouses amid data center power shortages",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQRnk2d0hpNlpIbnU3NGRDOElmbS1uWnd5dDBrWXVKY09ZYjRpVkdDazZOdktabmJ1LVJ6LUVwcHgwTjFrQ0YwakFwOG9uei1HLXZDMjczSkJPcGxFdjBqbUVvaWJmZ09YLWhIWlVPb0M1MW5PeGdRSURjdkJhM0s1S1g0a3pLWDRXWFpSU25vd3ZPckg4LVhiX3RMbXRkV3E4NkE0UFZPclIweDMzWExTR0ZTcWpOVW9lcFBlZm5IeE0zSFI5dzBTMjdQalZSOUJLekJfQ3kwd1MyeTA?oc=5",
-"source": "The American Bazaar",
-"published": 1792799669.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "70fb3bc908e92992",
-"title": "Musk Halts Talk of Tesla-SpaceX Merger",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZ3Z6RUk5TmxZX2xMM0kzalZEcmMyWUhjRjlhaW1VQUJFeWRHOXlHR1FpX29IV19ZeW9zTEI4b0syZUZMZGlwT1pzS2JBN1ZGSjRjYzJHbkg1VC1BZF9Lb0VLUXQ0OUd4WnZVSFczZVlYRU5oMHNBclRJN1FWNWI2THBWQjU4VDdnWWxlRmtmY0J0dw?oc=5",
-"source": "Briefs Finance",
-"published": 1792799486.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "f91e4164cd93bd3c",
-"title": "Tesla plows into Troy home, alleged drunk driver narrowly misses couple",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdU9kZ01VUEdtZ0ktcU5MVlJGQ0swWUp6eUU0LUFxczVvSGh3VGZETDVoRVRLWExKVTl5dDR0eGxjVWNzeFREZW5fRGE0MTFjMVhfUDRhaXhnSFN1a2JGdldraGMtQjNaai05UE02aTNQcEhxcUxjemY2ZUd4U055SXVTR2EtajZLNDYwTS05VEtROFV1U1g4OXVQUFk?oc=5",
-"source": "WXYZ 7 News Detroit",
-"published": 1792799134.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "7b12ae6cbeddf753",
-"title": "Nvidia gives robot developers new tools to generate rare training scenarios",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNGxWSzhVUmNVNHF3VjFNUlJGdDFRWklDWTFIa0MzVVRsZ01TdkoyRTNuVWRodTdsRjFSY2RGUmZKUl9rb1lHZnhhcnBiUEUtMGM3ZU5mb3lhbF8tTkFkZzczM2NtNFlCWlV4VDRPcnFPZVJGa0c1bEdFVDFzYjAwRDZMTGpENWtidWFzVg?oc=5",
-"source": "MIXED Reality News",
-"published": 1792798746.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "52cd775ec243e3f3",
-"title": "Xbox COO and ex-Minecraft boss leaves Microsoft after just 3 months in the role",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPU081eWxtaHdZSHlDNEV0Q0xMeEJoTE9UREFQS2YzVHk1ZnBCQ09XdWVhTU1aRzFKN3BHU1pGYm9LTUNhenZSbnVKbVU2X1BiSjRKNm5FQjBCcVB3ZHYtOTluTDlGN05SQTVsVXFOV3JPTTluQmZ4YWo5VGVpazU3cDR5RE55UWdvdG54MXpka1JFOXhxZzBpdGpqNnRjYXBJNlQ4bkdocW5JZnlieDF1enpKTkxuS0dLakVkNzZQcw?oc=5",
-"source": "GamesRadar+",
-"published": 1792798364.0,
-"stocks": [
-"Microsoft (MSFT)"
 ],
 "keywords": []
 }

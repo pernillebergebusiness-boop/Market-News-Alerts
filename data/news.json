@@ -1,5 +1,5 @@
 {
-"updated": 1792964256.3585067,
+"updated": 1792965784.4489448,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -72,6 +72,18 @@
 "Yahoo Finance: HTTPError"
 ],
 "items": [
+{
+"key": "30d65f8f09eeab7c",
+"title": "Aivres NVIDIA Vera Rubin and HGX B300 at OCP Summit",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRk9fWEFQV3p0bGRZZkVBeDRra0ZqQW8zZTZKbjRqczhHVHVBMGF1dU5Lcm9fTU5JdFNzNXRJaTFUOTczNGNwbXZDLU9pVkFaNmFCVWpPNVhIVFQ2UGl5TEtpUFJDTFhHNjFieFdjVjF6QXo1am1KbVNuRzl5RlJ3cnc4SXJ1N1c1eFp2LV9nMA?oc=5",
+"source": "ServeTheHome",
+"published": 1792965115.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
 {
 "key": "e310e92d788f828f",
 "title": "Tesla-SpaceX merger: Musk's $3.7 trillion plan faces a 2027 deadline",
@@ -225,6 +237,18 @@
 "published": 1792959368.0,
 "stocks": [
 "Meta (META)"
+],
+"keywords": []
+},
+{
+"key": "ec138b2571d6d5b5",
+"title": "Apple's Market Cap Grew From $350 Billion to $4.6 Trillion During Tim Cook's 15 Years as CEO. Here's What That Growth Curve Means for Apple's Next Chapter Under John Ternus.",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbXNzb2ZhakIzS1BBeGpYVHlKQ2pzNzJjMkxTZ3VHZFJxeUpTS3BKN3BuRkxCYzQwcFMzdFBOVXZLYVd2VnpndVBXM1h4VzJocDFRVF9GRXM3T0FiY19aRFFWTmV0MzJGQmdSV2NYMkhkb1B6YmxpTDhoanFoTjRaRXdtdkx1cmNYSWFfdEIwaW96X3NfYlE?oc=5",
+"source": "Yahoo Finance",
+"published": 1792958700.0,
+"stocks": [
+"Apple (AAPL)"
 ],
 "keywords": []
 },
@@ -4853,30 +4877,6 @@
 "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUmloSmt1STU4UTlvN1YtWEx5aG1fZFlBblRQWmI3aDlvVlE4TjR5elljUEtVa3luYTd2NS1lMkdfRlpKRUVvMy1pTXU5aXBORTV2amM3OFFxSUx0QWw2Z3dlWWZtUkRyanlpcjRNZVZuZHF5ZGxDTkNPeEpEOXRidWNIMVJCNzVpektvYml5VVp4a1pTSUx5eWlR?oc=5",
 "source": "Autoblog",
 "published": 1792860300.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "ba1be87f10a727a5",
-"title": "DIY Wrap Club Launches Halloween Sale With Up to 30% Off Tesla PPF Kits",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOczhsVGY0c21kSmttNVZHVTYtVzdncVJtQ3pxMU5HTDUwaDEyX2pBRlNsR0J2SERCVlVTbFhjcndpTHFMS3o3VzRVaWlwOXQtTEpsRUVFQ2cwUU1ZcENxTmFnaDZRZ2xxQ0JsNHFfVXRkQ1pGeXltRUdRSDg3LUlyNHRYSzNGTno2Smc?oc=5",
-"source": "Drive Tesla Canada",
-"published": 1792860010.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "9b10ab1ac27dedb9",
-"title": "SpaceX Filing Requires Controlling Shareholder Approval for Potential Tesla Deal",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBqdG0zS3Q1dUdDaGgxSVhURzNjSkpWcEN4S1AzMWhXaTZWbDRWMXVvQTRXZ0ptYm0tZDlQVW5kajM0LXZrcTJtZmtYZUNYc2g1NTFMSExiMUY?oc=5",
-"source": "www.tokenpost.com",
-"published": 1792859885.0,
 "stocks": [
 "Tesla (TSLA)"
 ],

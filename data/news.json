@@ -1,5 +1,5 @@
 {
-"updated": 1792919303.0202265,
+"updated": 1792921153.1554458,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -72,6 +72,42 @@
 "Yahoo Finance: HTTPError"
 ],
 "items": [
+{
+"key": "de04db52f971b523",
+"title": "Here's the Price at Which I'd Buy Microsoft Stock",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNajRWOGRpUzBZS3VrRDBEcEhDOGhDVkNrbmdHbS0xclZ6YUJOWE1zbVZFVVR4U2lPZzNFNGh0UllnM2VrYTY3RzM1djE4WFpscGlyd1ZSTzVTQjl6U2xHUWFFZ1hQczJsQlJyeHNkR2J2cnZucVl5U0ZGTVVLYjY0UmxtQ0o2SUd0eHNyYmlxNnZ4Zkhoc3dF?oc=5",
+"source": "The Motley Fool",
+"published": 1792920633.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "9618efe7b5177e85",
+"title": "Governing Microsoft 365 Copilot at Work | Kovrr",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWVBqM3FrTE9QSEJPd3RGT3RsZy1teFhPVFU5VW1aNE1EblhuV0lnNlhLR2htMW5OVk9wWFVCS1FLTW5OcFQyNGdibW95N0ZJc3dLcFRHanN1VnpUSXVodUhjSzl2VGM1X19DbjVDRTZHWDNSNHFQUTVvaDBPenJmbDZwZTVlNFVKak1teg?oc=5",
+"source": "Security Boulevard",
+"published": 1792919511.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "4fa9a305c376493a",
+"title": "Microsoft techie on moving from Kolkata to Bengaluru: 'I earn 40% more, save less, no regrets'",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQM0pHU2JlRkFHM2VyX05xOHE3YWZ1U2dFcTV5Qkh4YTA5Ml9ralFEQzM5MWhtMkNzM1RCZWhLNTdwT216ZTlVRVRaSHg2YXJueWxmeDlRSWdwSnZmb0lZTGxLTF92YXE4d19JZndkN1Z3UGJHRUF4QWlheU5VMzQ0TldLYTFwdnJPUHRBWHFWSnpzbzV0d2hTTzdvcjNqd3h1ZHpHLTd5SXNLNHRfaUMwdnM4WkxLUlU1UVU1RWR6WnB1ajJHVGRnR0Z3SFFsLVpJVlY4dU9NeklKcmRYYUNGZHFB0gHnAUFVX3lxTE40U0hzNmpLd0JYVVpwT0R3dW9zREtpV3EwUS16Y3hHRzY5VWZzYTZEaXJiOUpxeW1XZnhLRy1OY0w1d1VFT0c4akVlS3BkYmxnRm1PM19ZOGdiQlBsdkxPbFNsaEVHTXdLWkxqWmM2UzZvdU1rcHpyaUlIWTV5X1hOSXNFeWlNUzNicnIwZWt4ZUlFMzFDZVN4Zk9qU2JXMGF1NF9Yb2ViU1JLeHpuZy1tRGhDeXYzMnJzeGkwOHBWb2FxUzhNaUt4QjZ5NW44T05XS1hVSlZmaTM5cU5ubUpuNmdzODItZw?oc=5",
+"source": "Moneycontrol.com",
+"published": 1792919463.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
 {
 "key": "68841e7d76352eff",
 "title": "Microsoft confirms Windows 11 Universal Print broken for months, requires manual fix",
@@ -199,6 +235,18 @@
 "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNd3FqM2pTZ1lFRnVhOF9uVE1scFJUSGJIeUZDekxTWHlGVTRUT3hnMHRmTlEzaUpURG8yQ0hfbENveUx0Ri1YNC1XaHNEREk3Sm1kZGVRbmhYdHNlaFpDdkM2M3ZqT3dwblEtZU9CcUVNSXVFWUZ3RHpHSnM2dldHajJkWlFrcmZqX19LbjBXZ0ZCVERQSW4zVU9yeFpYUmh6R0JYRXFBU2s2LVZZeEQ3VFc0eTFWVmRUVWZJ?oc=5",
 "source": "MarketBeat",
 "published": 1792913648.0,
+"stocks": [
+"Apple (AAPL)"
+],
+"keywords": []
+},
+{
+"key": "459901592045fde4",
+"title": "Apple Inc. $AAPL Shares Bought by Baker Ellis Asset Management LLC",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRklLU1lGMVNzaFFmLWFYalE3WmlRTHFNNzRDekc1U3JPSFRWZ0ppYzh3RFh5a05obTBqNzBibnVMSFBlTlZpZENPeWlfQVhwWG1Vczg2LW9Ya0lqTFh0SEQtMHdzT1ktUGU5RVRLalNJWS1tVEVhNURlaG1kRHh3cXVIa0R2YU5jTkpGUXZKNWZ5eVIyaWw0VmtyTmlybHZoZUJlc1hMYmVlNmFMTDhrVUsxM3I3Q09KT0ZKR242eS1ydGc?oc=5",
+"source": "MarketBeat",
+"published": 1792913555.0,
 "stocks": [
 "Apple (AAPL)"
 ],
@@ -4830,57 +4878,6 @@
 "published": 1792805085.0,
 "stocks": [
 "Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "eba57a10d500933f",
-"title": "Tesla FSD Crash: 70 mph, 1 Swerve, Data Missing [2026]",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObDVIYkRnS1BxRVNrc2xNSTZmXzYwb2RaV3BXNjZROS1GSWJZdnBRV0RKTVFlNVdWVVI1ZGNxRG5fUTVJck5MNzEzR0xTN1lmaDgzbVNRUDA4YUNwaU9vWThSbkk2eGhFWnFGcExnQmM3cjlNN19xaDJuWS1iRVJFOFJRSlZWcHNoNmlsTg?oc=5",
-"source": "https://tech-insider.org/",
-"published": 1792804929.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "200e23592d1e0993",
-"title": "AAPL Stock Hits Record High As Apple Tops Nvidia Market Cap Amid iPhone Duo Debut",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTDNJSXExelJGYWlmWmw1OVdUaHdiYlY1c0dpSi1QZjg4UFFkZ2lFSUxwdUZsQTVMSWwtMDREM1YtWlp0MFV1Uy1UMXliLThGU2lkdFFfRWNCTDZTUExSX0Z6SWxxWUdnTnVSM2cxek9uRXVIZTV6WlpOcXdweTJYSUsyZFNnTXBBdWN4MHdhNTVMaXBHUks1TWtsU0cxM2swRHQ0WTRORjYzNkd2TmE2cFYzQ2M4ZmE0czhMNDZBV1R1MG5KTmx4RXRrUXV5UVg5RmFlcXM0c1o3NDhKdWF0a3AyVGdoaGpVWlBQSnlCVW1NbGJz?oc=5",
-"source": "Stocktwits",
-"published": 1792804598.0,
-"stocks": [
-"Nvidia (NVDA)",
-"Apple (AAPL)"
-],
-"keywords": [
-"record high"
-]
-},
-{
-"key": "1c16896aff6dea15",
-"title": "Stocktwits Zero To Sixty: Tesla And SpaceX Form Merger Committees As Profits Drop, While Rivian Buys AI Startup And GM, Ford Advance EV Plans",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNeEg3OUlYc2lJajRhYkpxdEVvOFdhVHhTRXJoYWs2d0RUM0ZHVVFmSUxONHc3N2xuMG55Ukd3ckM1U1FQUzkyQlhwUzl5eUk5Ql9zZEF6d0RISnNTMGRIRWJORkp1VENEM1NoMjVpYTFwYldZeTZmNVd3VzFPWHgwX3RVTHdJdTlDNmxmdVZxU0M5YzlJcWRkdDNSZ2RobUFTZDZ4XzRkSzd2MWpCZ25ELVlrN01lNFBWVWtSQXNsVy1VZHhyTnc2OHZhQlRJRy1LdjJ0WDZxOW1INmJXM0R6OXRlQWJBN0xQR1ZTU09EazMwejRfR25IY2UxckRHUGQzQi1RNW9rLU00bmMzMkk0VkRuM0NpbmxoSUxNdUE3cF9uOERP?oc=5",
-"source": "TradingView",
-"published": 1792803480.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "3b4de786d2062271",
-"title": "Stocktwits Zero To Sixty: Tesla And SpaceX Form Merger Committees As Profits Drop, While Rivian Buys AI Startup And GM, Ford Advance EV Plans",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPbzBfOVhMSl9LM2xoVW5UTUg2ZVU5dG1MLUJjS2ZrOFZBWGhLY3N0ZFo3cVFxSlJKbkZ5RGMwQ3Y1aGIyWFZyM19WQnlPLXFBamhmd0Y0eVZreExVXzdjZlRqLVdXWnlmbkpfN2dVVVJBVGRUZVJBRDRuZFc2XzhQSnN5TXdXamJMUkducERUUGJnaEdBOFhSRHhZaUZ6MXkzb0I3Sk4yczdNQmk2dFgxSkdyUWFobU90cEpmOEFkaTg5UFpJWGZxTGNyNVJIU3I5WW52WTRhWVFWZ29rQ2JBSmFTczI2SS1sWC1mN2pvOXg5NS0yVFVTR0ZUNk5YZ0JfWDhZOGNHaU9ybEV6Y2pxZnk0bjFITjZWTmdmdTM1YzlFZEtWaVJnbTdObw?oc=5",
-"source": "Stocktwits",
-"published": 1792803480.0,
-"stocks": [
-"Tesla (TSLA)"
 ],
 "keywords": []
 }

@@ -1,5 +1,5 @@
 {
-"updated": 1792929881.8120103,
+"updated": 1792932300.1390135,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,12 +73,204 @@
 ],
 "items": [
 {
+"key": "847d4cf234dd1898",
+"title": "Tesla Says Base Roadster Isn’t ‘to Be Messaged as Having Butterfly Doors’",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbjRiUWYzajF4ZmpWUTBMMG1haFBZSjB4bkxaYW1qTW9YX3dzd0tLVXIzRTE1QURLY0VTQ0RWdy1MYU5nci1lZk1WQWdFLW1JTzk3YnZSX2xxWXlfYlo3LTY2RGRZWll1SHBkQ3R4bXhwSE9GMVFSdTZIdldfNUh0UV9VUFZuREJwLUV0RDhMN195NUNjUGlUZTFnN2VVbERYd3BfZU8yUDdhQQ?oc=5",
+"source": "eletric-vehicles.com",
+"published": 1792931663.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "4f4ed5f63918a2f7",
+"title": "Why would Musk merge SpaceX and Tesla?",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZFdjY19wTkczSkc0WlhUMnVwRGtkNkVOOFVQYzNRUXlQVEppMGxIZlhGVm9Cc0FoZHhNUGd0eFU4VWZoVjVmMThyd2VlOFFveFVMU0JLTkJrRE8wT053aXVIX3U3bkZ6VXY4NjE0S2tYOWt3TlU1R3dYUmVDcTRVWVRCMkV2dG5uOGhUckhHM19odDN5ZTZaMlpFQkNlRDFZcjdScU1JbzFUa2Yza3NIbzJmTkp3TmtNWmt6a19kYnFwczNfYUo0TXJ2Z3BnbGxm?oc=5",
+"source": "Lee News Central",
+"published": 1792931400.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "62bcf31584ece23e",
+"title": "Why would Musk merge SpaceX and Tesla?",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNblgwRUIxckhBSDI2WUs4UzlBbmtnZnZTdWw0NVF6RXBBLVVUa0tINE1CYk1lUmk1ZmIyU2hPaWJDcmdOTHgwX05IbkI0VmplSk9RVUxVQkVfeGpva3ZZckpiNU9GbzlBU0hxTXdUckxHMzVtYWJveFFtcnNOaDItWjZNeWRYamEwTFhXU29tNmFaTkFPemZCd295NEs2WWYyWHN4UmpTbHdUSGVQMzdybU0zaHExVUh4VGh6X0VR?oc=5",
+"source": "WBKB11.com",
+"published": 1792931400.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "2a1f39d3b7d4d58d",
+"title": "Why would Musk merge SpaceX and Tesla?",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZVV3Mmk1dTNPYm15YUFDekZKbHd3RmRhdmJydHFRc2NRX3RUWTBrZnVsRFd5OU0xYXJnUFpnaUN4OEV1N1pvVDk5cHZJR3E1RHY2TFplTkpDYldDV2ExVkdldlNzTmdjZ2tsQmMyNDltbkRUVmRQWHZ2ZkZtLTdvRW9SUGNScFFXQmJzMkpHOHduRFhHclhUWm9LYlpvZw?oc=5",
+"source": "Richmond Times-Dispatch",
+"published": 1792931400.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "9b8a54da9e8be12a",
+"title": "Enthusiasts have doubled the performance of NVIDIA RTX 20, 30, and 40 Tensor Cores.",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQb2tqM2JXVTNrQXpiNUFPeUFhbmdGMnN6RXIzQXBQUDc3a25MY0k5dzFwd1Y3QndlUWZfVXJEVDd6NW1oaDk0VF9wTzJoUDhNR2ZkdF9jVnFWaWxFRkJQeDVSSVNjWXBKaHBYNHlFQ0kxU3NBelR0Ym81eU9MMXNIa3dpWV9SSXRuaUE1bHBocTV5dmNDcnp6VFVCQ2dNamI2S0ZnaDdkTThXQ1hfZk1N?oc=5",
+"source": "GameGPU",
+"published": 1792931302.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "4f20c9df662f8fb5",
+"title": "Windows XP debuted 25 years ago today — Microsoft's biggest launch since 95 was its first consumer OS to remove the DOS underpinnings",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPYUZHdjdoWXRwcWVDb1NTVFM3NTZyVl96Nmc4RTJFZmtsWmw0RHk5VDJVNmtPVkx3NTVZVERhMDVjdkxCalo1WHd1T0hlMk1zWG1XSXlWWlI0N25qOUI5ZGhUQTRkMjZORHQ1R2VNelJ5XzVldW5ta0s1Nm1fR1dXQURZckhSX3pMbmtkSU5wSHRnbWF4ZFkwRHJtYWw5NkVlYjJKX1dwd1NnNDdJNG5nZmpDSVRDaTZlWXAxc3ZRamtTODNLN3o0VDJHOGwzdHBUSDdmN2FEUlFiN2F5N1NRekFMeE84M2o3M1U0UkhrRGJmcjBzbW0zNy1tY3lDem9lSUFvRGJFaw?oc=5",
+"source": "Tom's Hardware",
+"published": 1792930800.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "326ba7f0c4d12e96",
+"title": "NVIDIA’s open-source path tracer gets 20% faster with RTXPT 1.9",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdzlaY3NfOWJGN1FzUW9WTEp0R1lMc3ZKM2hwYl9PbnprUllxVklzMWVvSWVYMnpVZXNBeU8wWHNYNDlPd2ZFTldZQmlpMks3QjNpQjdlWUdxbnZZNE05akFwZjVBWm9NWHJOSWlER05YbDZCV2VEbUM0ZmRhZkt0Z1pjU3FzS1pZOHZyYU53TVVfOVk?oc=5",
+"source": "VideoCardz.com",
+"published": 1792930730.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "ed9e403890e00cbb",
+"title": "The Opportunity at the Heart of the SpaceX-Tesla Merger",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOY014YzRQTlhxbXQ0X013dXdESGhiZk8tcUtMclJaM296T1VvcUpUYURFNHZkVllsS0RwMTFRWkFrc0hYSDZCajN0LXpOU1NkV2xNaU1xN2tCVktKT3pzQUczLXM0Y1JIRVdZU0ZhaU5zSC0yUmlEVkhJSHZETnR3UVY3VENsakFZZ2tOdVhwVDQ0V05iVHVEVlpDT01QT0FpYmEtbFBR?oc=5",
+"source": "Weiss Ratings",
+"published": 1792930067.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "331b5203c1fb6fbf",
+"title": "Alphabet, Microsoft, Amazon Among 160 S&P 500 Companies Reporting This Week",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAxMkZ5MEprdVBPaVJHY283Tkx6amsxdVVacFpaTURySHIxVFJ2N2xmNm95RzBnbFVpS1VSbER6Nmd3ZWRyazRZSGN4bFVDUGhzVTdkYWNqUmRlajFxYld3Q1lRNFA?oc=5",
+"source": "Binance",
+"published": 1792929681.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
 "key": "aeda360211a4b645",
 "title": "Earnings playbook: Alphabet, Microsoft, Amazon and more report this week. Here's what to expect",
 "summary": "",
 "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQb0l5dnFfdUxybkFnYjFMWUtiZFRVWVNieXI2bEJhSi1ZUDhfQmJSa3lDekl5bkQwcDRZTWdhQUF4cnIxc2U5aERBcmk3OTgyMUwtOWxYVTZ0TjhfcllPalFSLV9zTUVueTlhLUZPYThDdzlaeTVhR2QxQkNtOXJ6REpB?oc=5",
 "source": "CNBC",
 "published": 1792929248.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "233bd1f1449d77a1",
+"title": "HPE and NVIDIA Expand Secure AI Infrastructure for Enterprises and Industrial Operations",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5zNFVWeGxVa3Q2d0xYaG04Nm44Q25JUFFDellNbXQwa1Z1dXhMdFVHb2NCTGdIUXdyUGlSNndUbUhSSHpj?oc=5",
+"source": "بوابة التكنولوجيا المالية",
+"published": 1792928641.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "659078ced772d851",
+"title": "Diversify Advisory Services LLC Sells 2,734 Shares of Meta Platforms, Inc. $META",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNlRtU1psT3Boa2FRMlhVdm1zR0ktbUNWd3lldXVDaEo3UEtyamhnUWJXaXpJN0RlZEw2U3UxMC1rdmhXX0tBdHVJbk53dEZEUy1qMEVZVm1qa21DSDctMjkwaTM0X1E1Skk2ZE5ueGN1d0l0bGRBV1hSSmQ4emJFRm1RMGRjMl9XbjlXbUtsSlh1MjdwcEhvRUVUbFVFOFJkV2FWSnJVZ3N1SEFvOVY2S3N5b0pTSkVyczN3RzBwZ21ZWDV2WkhyVjRmcmhIOWN2dGNB?oc=5",
+"source": "MarketBeat",
+"published": 1792928536.0,
+"stocks": [
+"Meta (META)"
+],
+"keywords": []
+},
+{
+"key": "60115be8f9732f26",
+"title": "Meta Platforms, Inc. $META Stock: Carnegie Investment Counsel Reduces Stake",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNanppY1RLNXVDa1ZGYWNHYXpjNHhMLVNHdkpNYUFwYjI4c0VKNHowRUFGTnd2dlpKMWw0djRhYVhLN2VsNGRaNWlDNTQ4MVVZdERNZ0hEYVRLa3RLT2JmeG9ETkhJZEl6Z3dSTnNfM3hVb1dEbGwxN1F0RHZxUEVWVDJacllyNUx0YkpNQUFvaXJfTnYtVlFMeFVxVlpSWE95cGs1VDlYSlgtdHhHLWRobmF3ZnIyZlhCWVpibjNYMVZuX2pmOWg4UkZuTmg?oc=5",
+"source": "MarketBeat",
+"published": 1792928534.0,
+"stocks": [
+"Meta (META)"
+],
+"keywords": []
+},
+{
+"key": "2019d3fbeb2bf763",
+"title": "3,555 Apple Inc. $AAPL Shares Sold by Three Magnolias Financial Advisors LLC",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQT3Y0aHdVbmpQM21zZXZ3VDIwOXBvekVjdnotUms1eVRWVEUwby1sdUZlM0FaNmE5VDMzY19MSUZYZGpmZVQzaG9YaExvWWxKX3hKUW5ycC1LQ1dDeXROU0o5Z3JhN1pYT2hGNU40ZGhFZmpCNXBLUkFaMlh5U2M2cGNLQm53bFA1ZGU1UUphR0Y0RC1pczdQckNNWFFlZHB5MDk4RkZfS3UzbzJ2Z3d1MFZtMmRHSURyOUZRN3JqeEpHWE9NdkZaQU1RRWpkRnM?oc=5",
+"source": "MarketBeat",
+"published": 1792928534.0,
+"stocks": [
+"Apple (AAPL)"
+],
+"keywords": []
+},
+{
+"key": "49fda42f6088519c",
+"title": "50,613 Apple Inc. $AAPL Shares Purchased by Sanders Morris Harris LLC",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNkJEd1FoZFc3VzZzOGFZZDc5RGd4NkNhVVBDX0tlT1R1VWR4ZFZCZWhpV1FtR183d3pXekJiYk9SbGZBX2NvV3lheHI0cWdFWkNsaDQydGwyVlF3cXhoZmptLUtuVmFxc2pMeGNubmNBcHNDWkxuMTJVbDhWQXVENElZWlZpSmhINUhvTWxHazdDUmpVSDQ2TzZaaHBtTjI0YXNjcjNQangxTGpFM3h2M25QUFRLXzJJbkxYUlVQSll3RWFTX3c?oc=5",
+"source": "MarketBeat",
+"published": 1792928532.0,
+"stocks": [
+"Apple (AAPL)"
+],
+"keywords": []
+},
+{
+"key": "abb3d0c2c4b2042f",
+"title": "Apple Inc. $AAPL Stock Holdings Reduced by Mitchell & Pahl Private Wealth LLC",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOck1fZGFEUVEtLV9EZ2V5U3JjWXR4NDZ4VjM3SUltZFRueVNKWVBGNG9KNFVDNHV6Tml5LTl6a1FVLVUxeVJFdmZ1czluR3dzVjFrVXlkVTM1ZHB1THBoa09iWWdtNXZ3UkttU2I5N3ZYTkZhc2tJcDhHTzJmMW0yY1FteURXMjRuX2ZNUmt6N0o5cEUteE5keVdnajJ3cmRKdHVXVy01XzFqWngyQkZ1RzBwdm02UU5CVHlvMG1NcG5Cd1RMRllXWVN4MXFhODQ?oc=5",
+"source": "MarketBeat",
+"published": 1792928527.0,
+"stocks": [
+"Apple (AAPL)"
+],
+"keywords": []
+},
+{
+"key": "d0ee92e1164f9532",
+"title": "Bottles Creator Mirko Brombin Wants Microsoft Office on Linux, Not Its Clones",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZOFIwNGVJYVliT3NnLTY1MUd3SGhScV9xYUZUZnFxendOc1Q4eHBJb25aYTh5YmZkWEJLNE5JTUV6aU1EUHZMSGVSNzlYNTV2RThTdS02YVdCUVRoazIw?oc=5",
+"source": "It's FOSS",
+"published": 1792926861.0,
 "stocks": [
 "Microsoft (MSFT)"
 ],
@@ -206,6 +398,18 @@
 ]
 },
 {
+"key": "5567c9465861bb80",
+"title": "What Nvidia’s $235 billion stock buybacks program says about inequality in the AI economy",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRHloM2tsZTJvWTVsWDJBMjU2VnhlYWxnS1M2ZHl4TWJtdDFJWE5KOTFEdGFGSDkyZ3FnMFhaekxBUlpJaG9wdDM5VW9UMTctNnRMcEp1UUlRZUZLLVZWWFVkd1FEaFlyRENFekRzQm16TF9Kc2Q4VngwQmFkZ3Y5UDZzSGRPdVlySGRGdnlkZnlhLVloc0NUdndtaXY5MzU4X0ItcTU3cUJNcW1aT0YtZFRuTTlyS1BUcnVpYWNkTGd2VjJQeHo4WXlvSE5jTUJwaUh5X3NjMTFuRl9xY1pJQw?oc=5",
+"source": "Oxfam",
+"published": 1792924702.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
 "key": "14dd40f0b5a9342c",
 "title": "Tesla stock sellers should pump their brakes, 5-star analyst says",
 "summary": "",
@@ -298,6 +502,18 @@
 "published": 1792922699.0,
 "stocks": [
 "Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "9b9abf08083b5be0",
+"title": "14 coolest Tesla features that put your regular car to shame",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBEMXJKaDdnY0ZtT21VSWpwRzlscGEyRjFQMVFjNXU5Y0VGenozWkFzMHU5RjBMN0V4WW9IellTQTNZMFpIeFlrQTdKR0RiRVpuMS1feWgzY3kzZHU3TWVHNw?oc=5",
+"source": "Mashable",
+"published": 1792922400.0,
+"stocks": [
+"Tesla (TSLA)"
 ],
 "keywords": []
 },
@@ -4665,222 +4881,6 @@
 "published": 1792827120.0,
 "stocks": [
 "Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "c25320b9e619ea2b",
-"title": "Q-SYS expands Microsoft Teams-certified portfolio",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWXRzNmFEX3ZkeTlMb1FQelpPU21uNDdKWm80RkdYemE0Q1djdE5RUHpRVEF1SzgtNGdRWmgtam9Dc1ZQa0lWX21SRjNZZVhiNzdRbDBHTVNQMlh0UjRBUXAzUmlacU1melNfQV9Kcm95bkVfS2x0RVhTZGpGWkF3UExDcklsbUVVZ0lUcF9JVEUzOGN1RHc?oc=5",
-"source": "Pro AVL Asia",
-"published": 1792827118.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "1f0486cadc9775a4",
-"title": "Tesla, SpaceX Bitcoin: 30,221 BTC, About $2.5B [2026]",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1XNmNiRlpybnJab2pvMU04ckVBMndqQVhaakNWZ3o0cUpveDdFd0pZeFJ0MVE1RU9xWGFiRFJVT3M2TGk2U2xRTnFvemgtcE96cHpDZXJudDhfWTMwVEtUNTlJcnBzVEgyb280ckJiOWhOR0lEcWRSTmhB?oc=5",
-"source": "shattered.io",
-"published": 1792827010.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "397b8a33908a5aa1",
-"title": "19,053 Apple Inc. $AAPL Shares Purchased by Boyce & Associates Wealth Consulting Inc.",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSTVsdUtNMzdQMkgzRzNLWGh4TmM5d0NCUTJyVHV2NmFfT0dWR285TndUSmZUU0hxWUZ0eFFqbFUtT0dacklITHc1QlNsajFPNFE4TFB6MzVXTFJMMUNHZGNzMzhxZ0FqZlVjM09aeGNxaFZwMlRDSWVyTFhTU3BDZ3pPNzVhbjhPMEx0azZUWU1CdVpfVjJKSERlNkdZb1U0cVp3MEdrM084M3dmUTFudVl1SVJ1YU9yVkF0ald6ZVhBSXNrNFRQX2ZJZ3JhblBxSDZjR21CQQ?oc=5",
-"source": "MarketBeat",
-"published": 1792826990.0,
-"stocks": [
-"Apple (AAPL)"
-],
-"keywords": []
-},
-{
-"key": "43b8a2f60b680002",
-"title": "Apple’s iPhone Duo Launch Lines Surprise Gene Munster, Who Sees 20 Million Units and $8 Billion Revenue B",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONkc3clctT2hVcEx4VVkwNVVhM0lwTG4wRVZ5c0dyazB6Y21aWVJwYkE5LXNjUllDMEFRTkZxbjl0aTd2RHFXRTVUd2F1RUR3OGxFZFhMZ2FxaXA0U0xEWDI0cWc4YVZLVG9uc1NOZXZIa3pZTi02WmludXR4b0piZWw0YW05VXpZRkJJ?oc=5",
-"source": "Benzinga",
-"published": 1792826915.0,
-"stocks": [
-"Apple (AAPL)"
-],
-"keywords": []
-},
-{
-"key": "5b942945dd7642d9",
-"title": "Toyota, Siemens & NVIDIA: Top Manufacturing News This Week",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRFhhSUV2Sk85cVphdzVBeVczcHRIWmhNUGFwTkdVbW53UTBtR0tDN0VSWm4tZEVLQUJVVmtuVzFkVF9PWXhDYVAxLXBJTVB5THhra3NGd1lwT3JPRHpKTmdKeXVfMzhNN05wc3Y5SGI1RHQ3aWlnOEpSZ1ZiZC00TU5yM2xQNWJDX2NSVjFJcUwyU1ZWTWdj?oc=5",
-"source": "Manufacturing Digital",
-"published": 1792825743.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "91aac62044e84d23",
-"title": "Havila Shipping ASA: Equinor Energy AS has exercised one year option for the PSV vessels Havila Charisma and Havila Foresight",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XeFpPbEw0WlE1a243TExYUzlDRWFjdjJzd042Vk5fSmVITGt0RjBQTGd4YWZTYjlGcEdGSFRRNjI1WUN6YnpHRFg3RHhIWllHNUUzZTVVb1A1OWM?oc=5",
-"source": "Energy Digital",
-"published": 1792824850.0,
-"stocks": [
-"Equinor (EQNR)"
-],
-"keywords": []
-},
-{
-"key": "4f7db60ffd54c7a7",
-"title": "Microsoft, Alphabet Among 22 Companies Blocking OKXICE Tokenized Stocks",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUWZrNVgxUUhnNmhRaGlld1dQZkc4R0hHb1BtU0Zvd2NKcWt3TVpMallESzc4amFNTzh1LVZvTVhTQnFrZVA3RHppa2hkbVcxbnRYNEZpaGJlOHpJN1ZPeEFsLWdnNUh2NEFlaFpVcmdpa2M2ZkxkNno0eFk1UFQ5VzBGSmdPczdQbGZGeF9uMXFMT01CQ092eWk2eFQwMHVw?oc=5",
-"source": "Crypto Adventure",
-"published": 1792824612.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "197f5ba30c8e2eca",
-"title": "Meta Platforms (NASDAQ:META) Earns \"Buy\" Rating from Rosenblatt Securities",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdk85dGRteUFDRFllUnp3dlAtY0wxbUs1QkxCY1dYVTdCbVlUeHBScUNqbXdUd1lUczFYRl9oVzN5RWxuUklUVHE3VWt2cGFfM3pQVWFuUkdudWtGZFRaRTBHWFoxRXdhcEpjTzFyYzlTaG8zR01YcXd4Ri1XYlY3a2tNLTM4aFFYVEVaWFBrVVd1b2tfWV9laWd2MEtnczgzTmVudHNNNG9heEstVlF1eVlxaG51U2FrNDhHb211Szc3THR5a2JkamJMZ0pvTFd4SGc?oc=5",
-"source": "MarketBeat",
-"published": 1792824375.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "e47d51fa4bf0e5ac",
-"title": "Tesla and SpaceX Could Unite $2.5B in Bitcoin Without Buying a Single BTC",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQME1RVEsyYVhhejlWLXNtZkt4X1llUTNwcWVTbElXQVNxd01GUHBMNE1iY3FLeTVyajlZZG9RcVFBbDRpSWpINmw4RnJKNW4yYW12UXJnTTdZRVF1MHZ2ZXJRX013bEpPWGJXSWJfV1U2bTQxSk9iYnE2eG0xR1BkMWVZYlJZUXZSYThzTnFOdWdVbWxKeTF0c0d1ckc3VGM?oc=5",
-"source": "CryptoPotato",
-"published": 1792823640.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "5e7ccfb63c8a5568",
-"title": "What to Do if Your Microsoft Account Has Been Temporarily Suspended",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNUJRcTBYb1JhMUlrS3YwTWtaQjktbTF0MnU0Y3UyX1lRSzJBUm5MM0ttUG9EZF82LUNZa2ZsYUR2aFNialR2Yms3cVR1alhjM3J3RHhtQUJHTzlVQ0FuNzdYRmx0VWVEQ1oyc09HUWMxd0QtdEl4aUlYWnFjR0NEbVkxQ1FWS0xseGJnVF9QNE9Ga1ZYa05GdTlJM00?oc=5",
-"source": "Guiding Tech",
-"published": 1792822548.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "2ac4da44364c3f72",
-"title": "As Tesla presses accelerator on the product that Elon Musk predicted 80% of the company's value will come",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQREhuNnAzcWZtRTVNRjlyTWQxZnNzaGJ1aEFqWUllYVRYYTdXUFhaN1ozVUdKeHRJR3dMWm9hczVrTDR3aXd3T05SNGtiY0c0aU5LcEpzYWxtM2NWQ2tUel9FNTFHZUM0dFVzZ3R5SUJRcjlrNFp6a3lHLWJZUFhzUkktVVUwUkRlSWZLNEpVVVZIWktobjNqOXZ5R2RpaVk5bUZfTzllMlhDQ2d6Zy1ucmkxWTJtaTdnMFJzNXhiQXJWRHhrb0RxaU44MWhRcVJtLVQxbWRMYVZNcHZjR200ak9qeVFZMjhvTi1nWi02bkoySVhDZElyeE1QQk1WTTFvVHlKUlozT2JESUs5emJTc09LQVV3YlhoalFSMnJIcG4xM2hDZ2tVd3RkSXVCZ2l3YTYzOTd0eFdUZ2tKRjRFRkFIbkLSAcoCQVVfeXFMTjlIWFYwVlNIVmVycFNOeGNSVm1CYjJ6bTNBQ2pjUEkxY1NZUWN3OHFHLV9vWlF2QzhDSEpycW5fWEdnOWFUR0RpcDc2S3NiMkktYnJpUzAyRkt6bUVTX1JtS21vaU9RZzFicEQtSjFSbVNYdnZzSWRxV2tDZnJEdElOV0tMLTBXWDJNSXFNMHR0V1RQOFRBYl95aG1SdThTNVBrUG9uWDIyZlNkTXFiNTlRYWZXSHYyeUpFNUxvSUFBVTQxX3lPOXJYYlV6RU15b0pYbWV4X1VqalJXb1VNV1VSNGRnM2xYRXJZU0pla2NaMGFYUVR4OGNtcnVWQ1doNzhpMWMtUlF6a0VxajJsQWpBcTFmc01kYlFidXJHOUNqOVZ5WGRQOWxKMmV3Q3JlR0JWeUhPV2ZTeUNNSVZsTm5aRkpWcUcyay1R?oc=5",
-"source": "The Times of India",
-"published": 1792822500.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "0582695d234a8354",
-"title": "People are buying FSD and getting a Tesla thrown in with it. FSD is becoming the main attraction, and the car is almost the bonus. The numbers speak for themselves. Tesla has 1.74 million active FSD subscriptions, up 67% in a year. People used to choose a",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ha3AxUHl5THNmemlYOGNtRnBNTy12T0phYlktaW05VHBXM1lORUtYMWU0SXB4czR0R3FpenBqY2hHYWxYR3ZJWndzZVNKZlJ6MENYM0NkV2JobVFVb1B5VUVjWTB2cmpPdVVLNQ?oc=5",
-"source": "X",
-"published": 1792821601.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "0fbbe478690d19e4",
-"title": "Tesla FSD Hits 1.74M Subs as Buyers Demand It [2026]",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVW1mRTNxLXBoQkt3UnpuM05sbGliQnJ0cnZpN3lsdlJBWS03UWtTaXBvTHhTdWEyNjE3bDlwS3BLaHJhSlhPTjFzMHc4XzkycnhXZ2s2RWJzUWVqM2poWG52OTBaS2t5VVVvU2RnWnNWTGtnLVJiaWlLeHpONzNTaGlva2o?oc=5",
-"source": "shattered.io",
-"published": 1792821006.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "93908fcb480e04e5",
-"title": "Apple's iPhone Duo Is Going To Be A Massive Hit",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUVZ0VGJMakRZOEZ0T3VFRElBbHNVbGJTMFRSNHRzckFLcl8wX2dFS282R2N3YWhEX25UcU9xTnMzaFl4am1NWHFvQ1g2NHJuM1FTVnk3T1pFaXoya2RlRzBhczBkYjZLcWpLT2lOQ0I0dklOZ0hpSURXSFlDMmpYWHVadDFwOWV1Y1lsU3VBUkxqSFVrY2xBVmNoWXFsRU1UYTVvaWx3?oc=5",
-"source": "RealClearMarkets",
-"published": 1792820085.0,
-"stocks": [
-"Apple (AAPL)"
-],
-"keywords": []
-},
-{
-"key": "1d820a0b4a78704d",
-"title": "Windows 11’s Xbox mode needed a keyboard just to get back to the desktop, now Microsoft is fixing it",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMXAyR3c0RjkxRklBZllJTkdNeWJ2V2ZhMFgyUE5PUjdlWHVtTXlybVFFWjgtOEtHWk0zZjVrSVlEZ280bGRjNXhwTHpTNXhkSWgzNjF1RG9qNkhrLUhLS2s1eURRSFo4NDM4QTMtcFpqM1BhQjdqU1VFY1VpYmRRY1A1Z05kQm9od3kyeE5UY01BNjF0ckNJZGUyRXg3Tjdtc0RvaW9rOW1OYjVIamdJSERkTVp2Rk9CRWdwMk5wT09NSl9oSTN1M3JtN0Y4VHAyek1iOWZfZw?oc=5",
-"source": "Windows Latest",
-"published": 1792819550.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "f351b1736704c459",
-"title": "Equinor ASA (NYSE:EQNR) Stock Gets Downgrade from Wall Street Zen",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUFBfLXI3NElMTF95RzF0TWV3QXdHUHpuLUdIbGVmakhoTVdyQ3BmTGZfVDl3M3lzdlBoMmxubllnYXFnTWNIUVRmbVhVYlg4b3J2dUFkcEZHN0FZdGozeUtXRE83SnQ2SnVRQ19PeXFrM1Z1V0FGNWx6cHNmaDBKUzhLTXlaZ2VBZTd6QzAzNDJhdFJFOXMxOVN5MlhHRUc4d2VYMU5HUTJFUzduMGZoTWJFUGltVnNIUFExVmdqbFNfMk0?oc=5",
-"source": "MarketBeat",
-"published": 1792819512.0,
-"stocks": [
-"Equinor (EQNR)"
-],
-"keywords": []
-},
-{
-"key": "e87ed29cb6983ad9",
-"title": "Nvidia Introduces MicroDuck Mini Robots With Isaac Lab 3.0 And Newton Physics Engine: 5 outlets compared",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQN3ctcnRTcFlzTDdieE9na1JvVEJuR2I4UjJPdzBsdUVXTjF2aUZSLTRobXBZbHVwQzEycHVHUmtnbU9OWVh1aVI0dnNiU3puWkt1S0JZUFRkQWJyeWJBNGNMVGNrS2Z3X3d3RXRsWlVKZElLLVZiZGk1MjFJUTRqaEpqdHMzMWVMSEVFQmc3aW1qemtzdFdoYWthN0pfSXdKZkx6U0pSMTNHR3VzN09OSDNaRktmVloydlNXcnhxUk5lbl9xTzFQUXk0ZlY4Yk5kT3lQZVZSWU9HeFg2b3o2LVQwTzNzUXV2cGc?oc=5",
-"source": "NewsCord",
-"published": 1792819462.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "24a39367aec2523b",
-"title": "Tesla's fully loaded electric Semi just hit the road for a test drive, hauling approximately 30,000 POUNDS, and the driver couldn't stop praising it. A reviewer with a commercial driver's license got behind the wheel of the production truck and tested its acceleratio",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ycDlGNi1LR2ptOGotcDZmWl9ueU5VOGNyOUh2V3oxWEVYVEp4Zkh5R3ZrY1pJZWtGQldENjlXUC14VDZXRXUxUEQzQ1ktZU52aF9QNExHSVNkS05nLTJFLWNUMm9CNzJtUW5Hbw?oc=5",
-"source": "X",
-"published": 1792818900.0,
-"stocks": [
-"Tesla (TSLA)"
 ],
 "keywords": []
 }

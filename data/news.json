@@ -1,5 +1,5 @@
 {
-"updated": 1792890470.2353354,
+"updated": 1792892254.9275453,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -72,6 +72,30 @@
 "Yahoo Finance: HTTPError"
 ],
 "items": [
+{
+"key": "88e7f5d7dde2ede4",
+"title": "Form 4 Meta Platforms Inc For: 24 October By Investing.com",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZXJtXzJnTDBpMkZRUnAtNmhxbHRydWJZdFVKaFJyS3ZWaUFPSkZYU1QybkM2THhHeks4OWduNk90LXg4WXJWN0hwSHNHQlN4UzVfRVlLc0NIVlVkNlFNVlNCV2ppR3JvTHNLMmh5b0RQSTBIY2xIemNyZUo5bVZISUpSb184TWZnd2tZbFNiNVZrLUxlU3BERk1GSExNMnZzTXNZ?oc=5",
+"source": "Investing.com Nigeria",
+"published": 1792891409.0,
+"stocks": [
+"Meta (META)"
+],
+"keywords": []
+},
+{
+"key": "3b79d6ca5368d2f0",
+"title": "Microsoft ends MS Publisher, but there are decent alternatives",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNR1pONThoT0xNMVl6ZUJpb2lNd3pZbnVoc3otR3hYbmV2Z19KWnhNT2VsZEZXSTZfTHJzRF9ENW5kSzBZUW5XTmk2dTVPQlc1VGdZb2RsSFZIcC0wNVppNERLa2g5ZnFlSzBlMjlNWmZvOGFtT2pLX1pxemRtMnh6cFM1NW5wNUxlNG5tZUJydVFsY0lGd3NyUlNRUGM0VXpHTk02aU4zOThzNUpWWlhyYmNhZw?oc=5",
+"source": "The Star",
+"published": 1792890000.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
 {
 "key": "cab057892d528221",
 "title": "Tesla’s Flying Car: Price, Release Date, and What It Can Really Do",
@@ -4854,30 +4878,6 @@
 "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTjZRcmdGRUdkVXNucEN0SEVaV2tnZXRiWGVDcU15MXlYcnhjeHhWeGprQUhqRzBOQ2l6Nlkyb0t3azZVRUdXTDU4WGxZWlRQcTNRWXJNOEJ5U2xHNWtXckc0M3M3Zm1pRkM3RG04ZFprSWxqNTRMSHRUOFBnbGJXWS1URlA3cDJYZEFmMWlvNmNmZjZNbVM5X0I3TURYTTZfMktqM0RtS0ROYmtrNG5hadIBtgFBVV95cUxPdTR0QUw1b21qaWxyTXo4MDB6b1VWdkptT2lCQVlzS1RIR2pzSkZZd3R1aW1SeWp1NjVpdW9pLXM1ZWs5N2pkTldsWFBwMC0xdVN1RDJsbzA3MzlmNnV5QkVKd1JaRjR5MUZEakVneGpwb1hLU0tXU0pBS2FhQUxHT291WnZUamVXU0luRHp3TVhOUjY5SkhPcHdSdXZ0WHNsaDRfRFBEUjlJLTNFRXFMU0JQRmZtZw?oc=5",
 "source": "Fox Business",
 "published": 1792783320.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "a3cb2c87687413ef",
-"title": "Wall Street mostly loses ground under pressure from rising oil prices",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOUNWMExKdUdLSk4zYVlEdU9Objhna2g5d0VvZlNTTjJfSXlVN015Rmt4eG9SYkUwbUFrc2tXSVV4REs0eUNFSHFOWHluM3k2ZThQVkpOYlJrMEtIOVNUZmNmUEJWdWVqdExGSEtIVzdadEZnRzdfTzVkNmlRcWRlc1JVWVk0Ui1RM2lMVi11X0dsWXNxbl9xM09LZkc0MkRTS0R2Q3hPWGtrSEhVeVpJ?oc=5",
-"source": "Pittsburgh Post-Gazette",
-"published": 1792783269.0,
-"stocks": [],
-"keywords": [
-"oil prices"
-]
-},
-{
-"key": "4b8936751ffc3e5b",
-"title": "Microsoft Agent Framework for Go Adds Embeddings and Vector Search",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQTE5akNEdElxNmpobjJ6RG8tbVd4NkpNRHlXT1BBTGx4Z3h6cWZfM1duMUhMNmJTdU9scXBvLTRYNEFrTkNpUVJ6Z2QxNVpmcGJSNS1ETWZvWFJTTUJka3hxeDZoVF82dFIzUzBZaldqY0dRUVJfc203UmJtanBDeXB0NlBFbUNlX2NzSXFPUkk1WUY3X1RfUFd2ZW04Y0pyVXNBX3BOeFBqWVNNMDhRWmVjTVpVNUcwUWplT0hYYUZyQQ?oc=5",
-"source": "Visual Studio Magazine",
-"published": 1792783230.0,
 "stocks": [
 "Microsoft (MSFT)"
 ],

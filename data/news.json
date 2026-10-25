@@ -1,5 +1,5 @@
 {
-"updated": 1792886316.3708298,
+"updated": 1792888017.948128,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,6 +73,18 @@
 ],
 "items": [
 {
+"key": "6ae1ac4aeec82a38",
+"title": "Vallejo Tesla FSD Crash: 70 mph Hardware Evidence [2026]",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdVl2NzdfZkpfMm5Fay1WTmljY21haDV5eTlJTUpLRUtzODVhWWJUcGZabUc4cFB2UkVObmZZdGd4NDZtbE5SeHphOHRoVVNxc2hUUGtWdExsUHhVLWdoWTdHMEhlM19NblV2T1p1YWc1NnJLT2V5YnVfTUtUMWtMdU5uRFVfb3hHVFJ3?oc=5",
+"source": "https://tech-insider.org/",
+"published": 1792887670.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
 "key": "c8621f64c9e74689",
 "title": "Xbox COO Helen Chiang Leaves Microsoft After Just Three Months in the Role",
 "summary": "",
@@ -81,6 +93,18 @@
 "published": 1792885246.0,
 "stocks": [
 "Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "cee54e7c3111f760",
+"title": "Chevy Bolt owner shocked by Tesla Supercharger prices after charging for just 6 minutes",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSzFOZ1ZUVFRjUGlpTjBXUkJ3RGR0TEd2bEZVQ3AzcVR2ZUVheDQ5SGoxVS1ZRERicG94ZVBCM2txeU5BNHNudUZ5M2tqR1g3Z2pVZlB4emE5RXdIRldxcTFaLTBzdi1FNWhQc2JXWDhjQlItUXFCc0FvM2t2N3N6UjdLaTAtOEloMWdpWEh0SUdubUFxU2pjUC05TFpTZw?oc=5",
+"source": "Yahoo Autos",
+"published": 1792884900.0,
+"stocks": [
+"Tesla (TSLA)"
 ],
 "keywords": []
 },
@@ -4856,30 +4880,6 @@
 "published": 1792782178.0,
 "stocks": [
 "Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "1273ad5413e75094",
-"title": "Seaport Research Issues Stark Nvidia Warning on Nvidia Stock",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbjNyZ28tWDR1VGFiZzFTcXJYNHhja20zdTVsLTZYVzRQb1B5OFdtVXZwM1RueGN6dDBnYzBtYzExd1pfTzlXR0hQQW1QQkFTWmwtT3JabVlCbnozMXpvY0NUWlYtR3YtbDdfVHhSNVlLRk04THAxOVFRcGhubWhDbUFwamhydEhPRm5lbjJfM1JLOWhOVldMUjVsMFc0SzV6b1FJ?oc=5",
-"source": "Yahoo Finance",
-"published": 1792782178.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "00d387df119ebc53",
-"title": "A SpaceX-Tesla megamerger could benefit both companies and Elon Musk's personal fortune",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSlJWR0lmUjJ2ZXpvVlZqTHprWlVzRG84dkJSOExSRDlDQzY5QlJHb0x4MEhiUWJzamg4YnYwbXBkN2xDSG03MElQc0ZrX2EtZFpSRnhBam5NNFpaOU5qR0hINmNiTGVxSkVwdWlON1pRaXVEdzNNRFNnM2YxeEViczhoWDhfUExqNG5YaDZqc01odjQwSDVKMFNXQm5SNXRnNWRVYm9KVy03U1dZT01kODNOV3ZVUFNONXJZNA?oc=5",
-"source": "WHEC.com",
-"published": 1792782140.0,
-"stocks": [
-"Tesla (TSLA)"
 ],
 "keywords": []
 }

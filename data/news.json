@@ -1,5 +1,5 @@
 {
-"updated": 1792897819.168072,
+"updated": 1792899618.118873,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,6 +73,54 @@
 ],
 "items": [
 {
+"key": "dfe0fcb0e7421cc3",
+"title": "Nvidia targets local AI assistants with a model built around a 4GB memory budget",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE56VnpNWnNtLUVLSThUcDJyb000TjktTTlpaFJ1REtWZU9uQUxpSnJ1alg2bVdaMmVtZ3hLWHlEc1lBS3ZFb2RTTGFUUk5kanp2d1NqeDZzR1d0cUQ4LUlUem5jeVBrUFM2WU1LRjJHNFo2cTBvNkxKR05n?oc=5",
+"source": "MIXED Reality News",
+"published": 1792898648.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "06c9c1232ad19d4f",
+"title": "Should Investors Buy the Meta Platforms Dip?",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVU1EWkpyR1p5b0tHT05RU3hKYmNIWjFSTEN0V2w4TkdWcnp0SEZ0Slp1cl9UMUh2TDBDT2puVWN0dHVNbUc5VGdqV1l2VTdyUHlHMEVNRnhjZ0JaOFl3b0YzVklTTE8wMWpTeUZVdGxHbURQOVRoRUZfUGhsa0tfLUhmOTAwVGk5NjFGVzVkMVBGd3JyQTNjdUVZbUdNZw?oc=5",
+"source": "Yahoo Finance",
+"published": 1792898400.0,
+"stocks": [
+"Meta (META)"
+],
+"keywords": []
+},
+{
+"key": "ec6172eb3cddc229",
+"title": "Should Investors Buy the Meta Platforms Dip?",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOeWlsTTNSYzJlamYwVVQxVEd4V2M5ZlBlYW9GTmxxbUM5WGVNUmRVd3FFTU9VaFFZbFUybWNoUnJQYjRhZEFHdFBWN3hmV1kxYjZ4NHJENkY4MkJuX0V0bElrMHZ5VEZuMjBKSEhYMVZBVlMxQWVsaEc2NVdaOEF3V2lR?oc=5",
+"source": "AOL.com",
+"published": 1792898400.0,
+"stocks": [
+"Meta (META)"
+],
+"keywords": []
+},
+{
+"key": "5492b5459f7aa5bf",
+"title": "Microsoft warns Windows users of possible update issues in 2027",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOV1pzY2xlWVJKTW9saUFPUUVIWnotNlpsVThKZFFUajlwOU83Vk9kUHlaMFdDd19fWnViZC04ZDBQbnRCTkNLbkc4RDRXb2xTMUU0N3ZlWGJNUkJGVjhtaXBCR2wwaE5IczlDLVFwZnB0TXJ0bkpNRU9LYnI1OEtoZk85Q3pTTjdvYnNocVpWUWJFSG9KUGk0eGNVX0hDWXlTTXhTWExqdkRFclU4ZlE?oc=5",
+"source": "Bangkok Post",
+"published": 1792898400.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
 "key": "5b514695693d452d",
 "title": "Should Investors Buy the Meta Platforms Dip?",
 "summary": "",
@@ -109,6 +157,18 @@
 "keywords": []
 },
 {
+"key": "2b4efdaabe4974e2",
+"title": "Elon Musk Says Tesla’s Megapacks Are Nearly Sold Out Through 2027 as Energy Demand Surges: 'Ramping Production as Quickly as Possible'",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQT3phSVFkUTI3Qm1nMlVSb0tNa0ludGJXQzFRS0JRcFVoNzhOaEJ3b3N4VlNZdkZGRTYwNTl2QUI4Y3h5SWM2WDBqWEp2WEJNc3ZyNDkyUGJ6S3lxR2UybldrN004Z1UtU01EcU1iclJUV1V6S05DQWlLWTMwQkQtSm1ReTdTeFNMR2dDY25sb2U?oc=5",
+"source": "Yahoo Finance",
+"published": 1792895400.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
 "key": "4928d0226ee2202e",
 "title": "In 2008, Elon Musk borrowed money to pay rent while saving Tesla from bankruptcy; 13 years later, he donated $5.7 billion in Tesla shares to charity",
 "summary": "",
@@ -121,6 +181,30 @@
 "keywords": [
 "bankruptcy"
 ]
+},
+{
+"key": "39eade95c1c32785",
+"title": "AI arms race heats up upstream: Reports indicate Intel, NVIDIA, and AMD have prepaid over NT$100 billion to secure capacity for high-end IC substrates.",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOay11Rml0dXg1Y2FFSkRKWXFQZDgyck5Cc1VSa2hWVGNSV25tTnl6NUNfMVduRm9yYWV4d1lxX0pZYWdtSUlEZTVmekJjMGNjNUd2MDE4WWktUUF2eG85YWFRcVdFaW5mTEIzVU9fTFY5bTEzMmVZLUxBd2hlSVpfY3N6UER4RDFkTjJpSmR1QndSWEZycW5rd3JRYm5WV0ZEbHRUMlRn?oc=5",
+"source": "富途牛牛",
+"published": 1792894482.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "a18ac85c7f1d3efe",
+"title": "OCP 2026: Nvidia, AMD, Intel Pitch Open AI Racks",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBSam5sZmVJR2k2M3d2NmpDeVQ4c0RlNHhlOW1xb0Z0Y3RKR2dtTmUxQVpxSzRYcWZlQUU3djVBdW5WYTdncFZxWjlOWVh0R1lEQm5hVGF1cWtlV2QyODRsTjA1MXotQU1mZUtETjZhdEthV0ZJ?oc=5",
+"source": "shattered.io",
+"published": 1792894223.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
 },
 {
 "key": "2c03e9aea56359b4",
@@ -4797,90 +4881,6 @@
 "published": 1792787299.0,
 "stocks": [
 "Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "0a9ed2ebcf86f9db",
-"title": "Stock Selloff Continues as Oil Surges",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ1IwcUcycG5DdFhjWFBwM001cEZYd29Tb2E1aldUMlhrNDZkazhTQnViZDVXT0otMUdWRS1rclAwWDlxUmtmUHJmeVFZZUhDWmtxRkl0SDBZb2I4NFJEYnQ5LVVlMkxhdVFXQTZHWmxMcTlKV2RKbjZ3dnRqWjRNQ1lnZUZSVGc1?oc=5",
-"source": "WSJ",
-"published": 1792786740.0,
-"stocks": [],
-"keywords": [
-"selloff"
-]
-},
-{
-"key": "57be2d520e6659a4",
-"title": "Dow Drops 652 Points as Oil Prices Pop and Treasury Yields Rise: Stock Market Today",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPV3B4dDB3RmhKbzFMOGlJVFNvQkYtVjhpemppcWVueXptbDNlV05Tdl80cWd4c2EzOUpJdXlkU1h5cEMwNWRUQngxeXpDaG8wMHpIQm1sb056eEsxQzlkUUF0WHZWVjRMeFNzQlNBMm9XQzhNRjU4Z0I4c2VCajAtc2FiMnZZZV81aGRhUEg3dXVwSGRHa3B3d05WUDMwSlFTSmhPNVo0OTFFaUxZUmI4?oc=5",
-"source": "Kiplinger",
-"published": 1792786163.0,
-"stocks": [],
-"keywords": [
-"oil prices"
-]
-},
-{
-"key": "c4077ad03388c83e",
-"title": "Security Firm Discovers 32 NVIDIA B300 GPUs Operating Inside China Telecom, Showing U.S. Export Controls Aren’t Curbing Top-Tier AI Hardware From Getting Out",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOREJVV1VnWkIzOVdDOUxkTWE4blJnMVlrLXZvS1owYUVxNnBRZHlfaW5xVWhQX29JM05EanZOMkFneE1vbGtMWXY2WVF4ZXg0QmFuZVkwVmVhOTFiWGpxTXRPUHNwNDUzTnhpa1djekthRTUxcE4zSEVHZzJBbVQzeUFBTDPSAYQBQVVfeXFMTkRCVVdVZ1pCMzlXQzlMZE1hOG5SZzFZay12b0taMGFFcTZwUWR5X2lucVVoUF9vSTNORGp2TjJBZ3hNb2xrTFl2NllReGV4NEJhbmVZMFZlYTkxYlhqcU10T1BzcDQ1M054aWtXY3pLYUU1MXBOM0hFR2cyQW1UM3lBQUwz?oc=5",
-"source": "Wccftech",
-"published": 1792786080.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "3ebd9b366c854e96",
-"title": "Scalpers offer Apple iPhone Duo buyers hundreds extra outside Beijing launch",
-"summary": "Apple's global launch of the foldable iPhone Duo brought scalpers to the Beijing flagship store looking to pay big for the already pricey devices.",
-"link": "https://www.cnbc.com/2026/10/23/apple-iphone-duo-china-launch.html",
-"source": "CNBC Top News",
-"published": 1792785997.0,
-"stocks": [
-"Apple (AAPL)"
-],
-"keywords": []
-},
-{
-"key": "b42447f827db07ae",
-"title": "Musk: Optimus and Cybercab “Will Be the Vast Majority of Tesla’s Value” as Earnings Loom",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNU3oyOS1qSTVGQU9LUHBOald6RTVjYXJUR29UTlRQNThEQ1p1Uzk3YW5OZS1nQndtMWRUYXhaU2xQNXMxc201bS1kbXdzOV8tT2ZCQWhDelh2ZXRHMnE0MzhGaEJDZk5ZS0VGZktmRVVUR09HZThob2pva3daX3BRdExPM29SNnoyczNENEcwZ1FRZzY1SXZNdjJDOFJYSmp2RkE?oc=5",
-"source": "Yahoo Finance",
-"published": 1792785902.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "bcbf32a366a6008f",
-"title": "SpaceX, Tesla Special Committees Review Potential Merger",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdHhLSm1XYkZzQzB6TEZYWXJGRWl3cFhENlRnM3Zqeno0VVFPWE41RGg2YTFJUWNZWXdsUTlKb2U4ODlkZjJmU040STR5R0pLS2VGbkN6WW5ybW5ZMFpJcmdGRllIZkR6MkFSWk83U2duZy1BSFRKRnU3VnNabVByRk5tSVhkWFp6c0EzOXlObDdtUXpnSGlHNGhPMTdPS2praWpIUzVZVHRoSjJaMFBzZGVBY0xEdFRCLTJlQ2c5Ml_SAVZBVV95cUxQSDY3aHBtR0VVUTdUSFpCN2RnbkRTdXU4VGxqNDNzVkxiVllSWjJWbWUwaWdGYUNQWDlUOU9WMkJEdkZzbDlvdkxnbENKT3Nka3VOTm1tdw?oc=5",
-"source": "Law360",
-"published": 1792785708.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "f366a460ebad7f83",
-"title": "Microsoft: Security And Silicon Set The Stage For Cloud Margin Recovery (NASDAQ:MSFT)",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOC1OUnVGZFhXR2c3OHA5ZG1neE5lcGVyQVBoamFnclNaOEk0dXFidzFjaEU5aExjTW9sMXUxR015LXZ6Y0NPMHZIQzFhcXpsUE1tdEQyc3N3WVUyM1VtV2xUWDNkVW82TnBHX2FPRjRtQ0pRbGZSZlhVUm5LTjBfaWV3WDZwS2ZaemQ1cGNxb2xQUEV1cFJLRHZLb09jTFFsZDVHdWdxMUFnVVVtTXdlLQ?oc=5",
-"source": "Seeking Alpha",
-"published": 1792785635.0,
-"stocks": [
-"Microsoft (MSFT)"
 ],
 "keywords": []
 }

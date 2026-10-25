@@ -1,5 +1,5 @@
 {
-"updated": 1792965784.4489448,
+"updated": 1792967758.280169,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -72,6 +72,54 @@
 "Yahoo Finance: HTTPError"
 ],
 "items": [
+{
+"key": "8e8db6b3936eca94",
+"title": "SUSE strengthens NVIDIA AI Factory ecosystem",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYXVNYW1hZTJFbnJnb1FZNTRvSmJKOWE0UEpWcmowU3hMMUZBRWNkU1pmbkw4U3BLZ0FOZFFwVGNzanJITXJGbVdIejlhNTl4aVJBM2lkMUp2cl9RY1RaeVZoeUtPRTRlUGxkMDlrc1k5cUE2a3gzdjJjelFpaUV5Z1dRSHFmM2w1X29iYUdhYkRvT3RCSmc?oc=5",
+"source": "ARNnet",
+"published": 1792967447.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "d243ef8600e559e0",
+"title": "S&P 500 Profits Surge 30% Led by NVIDIA, Micron",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWHEweWR6Z3JqaWdQV2FfUmxjWG9Wck5rOXdvZFZMcWFhUGp2NGxZT042S2xxdm00OEY4WUtnQ3VrTUlhTHA5SGpkcmpRemNLbFNodjZ1R09fSGxTVDhJbDgzRzFFY1ZkNEZRVldZSnJxZG5ySmt6c09fbzFVU3hNMWtmbkNCOHdpTU5yc1pB?oc=5",
+"source": "조선일보",
+"published": 1792966294.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "2c98f73f37dee393",
+"title": "Don’t miss your chance to get lifetime Microsoft Office Pro 2021 for $28",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPU004Tk9fRllkTUpHYnM5c3dYUEZKOHN1X0lra1QtSHBSLU1sNWlvRTAxTG1rNVFEcGFqNHQxdDFYeFRvak1sNHByVExyN2FXakNxWEdjS09NRkVCU2VPS0JGRkVFWVE1TW5rN1lkU1N6bTlfZ2R6ZWthSGFfb3RlNXg4THozSzN5M2huaUZOYTdIM2d3V3UyZTB1UWY?oc=5",
+"source": "Mashable",
+"published": 1792965600.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "43fdbac9a54469cf",
+"title": "Exclusive: “Buying More [NVIDIA] B200s And Fixing Runtimes Are Orthogonal” – How INT21’s AI Swarm Killed Python, Outcoded Human Experts, And Rewrote the Drama 3 Runtime In 60 Minutes",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOR29VRU9ES2dZNTFmYlE3dVB6NVBlMTdfSTZIT1ZJQnZaQkFUUTVDa0RFTDV4alJGR2Q5aGJRZUl5LVRjZldDM3ktMUpVZERIUFk1U0pXcF9vU19GbFVQeFpFNS1mb1MzZjJjM3hzUHRoaWdjWV9lOVJERnFIbzNoRXhJdHNCMmtEQk5JeGR2cm1wblFMcHNJX0g3U0UzU1BjeHlGeDJnTVoxbVpUbWdrM3ZsUjBoQzFkb2RyeGhGbXZ6ektmclctNjdYVnJ6TFJsem9QeWlqSGt1Q2ZDMGJYWWNoQlhXdjdrYzVNYlZnX3QwWExrLURfd3JMc09nODl3SlQ0TlFtU293T0c0bldJTV8zVTdyZ05nNnhLMnRXNNIBpAJBVV95cUxNVGRDdkJkRXd5Q01STldkVmVETjE3MldzZ0FYQTlJWmFlaFJiOXRjRnpJSUdDZDd2MFJkVWRoVmtCOHRTM1U4eXVBOHR0OVFpUGljMHU1MlNnOFV4bEhJRHBlUUFQQ2JHdjI5U1pOa3lNZWtiLXJJSmdHeVRGanhZNURXeVVwT3F2V3YxeTQ4RHlxZ0ZGdEhIWTNvMGxsaFpFT2dnRU9lVzN5cXZwbWs2OGdIZjJhRDdFdVFGR1NJaUNlVzB3Sy1pQmJVaklJMkJrM3FuaU9GTUdGcVo5M2JkbjFuX1h2SHRhUXJwVUJNV1RqZ2RfbXpVNmhld3VqLW9JV2xRVkZESHlMdFNVbUtmUWJ3dFRXX1ZvVkJvVmM1eXdFRnI4?oc=5",
+"source": "Wccftech",
+"published": 1792965233.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
 {
 "key": "30d65f8f09eeab7c",
 "title": "Aivres NVIDIA Vera Rubin and HGX B300 at OCP Summit",
@@ -237,6 +285,18 @@
 "published": 1792959368.0,
 "stocks": [
 "Meta (META)"
+],
+"keywords": []
+},
+{
+"key": "7290cb4f005d2034",
+"title": "Nvidia wraps OpenShell around full-stack silicon to stop AI agents going rogue",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMVhkUFVGZkxlUFhvOWM1a3Ywai1teFQ2T21UdHBWWGdYR0pzbEN5V2hWY1MwQk9xT21sb21TTHB3WW5qTVRrYW9lbVpQOG95XzVtQTlkT2R4enpTU1drM0JVNHFLRGphdzNpY1hFVEt3UGxzNWlwNVJ4SWI3UDhlWi1uVlVkLWNKQXB5bGhyQzZrQ3NUZDZTRWJIYkx2TTI4QjdIdXU5Nkc2ZkpfRnItUQ?oc=5",
+"source": "SDxCentral",
+"published": 1792959178.0,
+"stocks": [
+"Nvidia (NVDA)"
 ],
 "keywords": []
 },
@@ -826,6 +886,18 @@
 "published": 1792947227.0,
 "stocks": [
 "Equinor (EQNR)"
+],
+"keywords": []
+},
+{
+"key": "ec03560d6fab8c28",
+"title": "Nvidia, Micron drive 34% of S&P 500 profit surge as AI boosts earnings - CHOSUNBIZ",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQjdNV3FheVNZOVF3c0E5TVFBamI5OURuVHFDUkhxS0JERnc4QUVkTW1EMElHMHlGRjNmZDc4VE16T0RYdjI3M1hIaUVrSU5HYVRUU0I0SThPcGJlZHlqZzVwdTdfcmNhUEM5aENBWGRPSDVpeWRjYWl0RGlmQXpFMlU3T1FJSXdQ0gGcAUFVX3lxTFA2U0dnMlFvU2pKSHhCTVEtR21CeFA1VDM3anV5SnVxT2RxclM4T1BXT0hXUmFNUTZEWWlhN0dmWnRwSWMyeElPWVFVRV95TVlFSVpqM3ZVcWhYRm1UTDl5X1BYTzZPX2pOQU9RUGl2N3c2UGpJQ1lrNUVYYUkwTTk0cGRpeVJrQV9LQ25wWklEMkNwdG5xaVgxYVdENA?oc=5",
+"source": "Chosunbiz",
+"published": 1792946820.0,
+"stocks": [
+"Nvidia (NVDA)"
 ],
 "keywords": []
 },
@@ -4807,78 +4879,6 @@
 "published": 1792860825.0,
 "stocks": [
 "Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "09b4c8aa5dd131ba",
-"title": "Nvidia’s GeForce Now Gets 10 New Games, Including Gears of War: E-Day, and More",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTzJTRWtTOHFWTV9Jd3pQelhWZFM5eElIbDVvYk1LRXJRM0NGYlRjbDZRQzVTaWtWVHNNLUJwTjlzVlZJbzB0UHJtLTRNRlNkSVladmd5T1ZrNWJOZHhXVmRxTmtGNDBVT0RjenNXMXluNzhIdHpYcDNuS1hxcVY0LTRVNm1sdk9rTHZLS1JlUkpPVGdxZWJwdDloQmtzQW1YMkp4LWtyNldMa2dDdnRUU3VReGg0dURvbC1XNA?oc=5",
-"source": "IGN India",
-"published": 1792860596.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "540224870266d4cb",
-"title": "NVIDIA simplifies DLSS 5 modding for classic PC games with RTX Remix 1.6",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZmprTEtDWTZIbUhWNi1jLUVFWjZNcl9HdzZ6WldFTWN2cjJOMWhaVHMzVDV1aGcweHBJQnF4NmRSa1FmcDUxYTZyTnVYQ0xPRjFEcWVadmtwM0ZuS19OX0ozVWNoSkJQaVZUZWozOHljWFN1OVlwTmFmVHVDYWdtbThBUUhJSFRNaDE3OFVWMUNHU000dTRwWVJrYWtVR2xLR2c?oc=5",
-"source": "VideoCardz.com",
-"published": 1792860403.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "aef864c48a85b4a0",
-"title": "I can't recommend the Nvidia Shield TV Pro, even after an Apple TV 4K price hike",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdXI1NW4tUTRfVDkxdzNuaERhR095cVRLMXFtajVFRXd5RTJuN0lUR0Y2T2QteUZLeGpxY3VwN1BoR2FrZkl1TzJESU1oZ0luclhQanE4QV9HWUk4aE90clM0SGU3UHBVMURDck50V3pfc2M2ejRuQjI0M1NobmNjaVBMaEE0RjJwelllZHVTSDdoOUY4OU1LR3ZxbTVkQQ?oc=5",
-"source": "How-To Geek",
-"published": 1792860318.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "4395f94122e15763",
-"title": "Just $37,000 Will Buy You The Most Efficient Tesla Model Right Now",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9mS0VPa3I2S1IwYVJfVEZ2UHpyV2hPX2RKUjRRVG9uRHVKZ0RhZTYyaEVWalVxaEpuN2tBdWRjOVNGOERvUHlEU3JsU012eHpPdkhtSmc3WGhXQ0p5eFdEUDloTkNONVhETjVqTl9B?oc=5",
-"source": "CarBuzz",
-"published": 1792860315.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "b5843a7f729e92f1",
-"title": "Tesla Wants to Sell Cybercabs This Year, But There's a Problem",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUVI3dGtWNTNPREZFQzNqbnM5aGdxdzFLNTJ3UGd0NnhqN0xLTmlQUHdjc1V6enFPSndZMzROVm92TEJ5WXpNc1kyN0Z5MzlaNUtWNkxYTVdvak1JT3VxaFFub28tUEx4TUNHdm05MXVfeDJ2VnJvcGp5cFkta01waWNlWVJZOEtQTUgtcjhVU1BoX0ZKVWVseExwZFNmb1MyUVE?oc=5",
-"source": "Yahoo Autos",
-"published": 1792860300.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "8931d1b53e1785fe",
-"title": "Tesla Wants to Sell Cybercabs This Year, But There’s a Problem",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUmloSmt1STU4UTlvN1YtWEx5aG1fZFlBblRQWmI3aDlvVlE4TjR5elljUEtVa3luYTd2NS1lMkdfRlpKRUVvMy1pTXU5aXBORTV2amM3OFFxSUx0QWw2Z3dlWWZtUkRyanlpcjRNZVZuZHF5ZGxDTkNPeEpEOXRidWNIMVJCNzVpektvYml5VVp4a1pTSUx5eWlR?oc=5",
-"source": "Autoblog",
-"published": 1792860300.0,
-"stocks": [
-"Tesla (TSLA)"
 ],
 "keywords": []
 }

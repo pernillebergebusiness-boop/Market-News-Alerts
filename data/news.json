@@ -1,5 +1,5 @@
 {
-"updated": 1792926393.8605545,
+"updated": 1792928273.238218,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,12 +73,61 @@
 ],
 "items": [
 {
+"key": "ba772c8f02fe3eb1",
+"title": "NVIDIA expands Kazakhstan AI infrastructure with Firebird ...",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNM1VSQlpYUnFuYzZrVTg2RXlCN2QySXFGbjlHZ29RV0c5Z3Y5UDlQSXZGTzlaMThQOFJjNmg2TVlZb05PcW13bUNrTHdKNkFvS2plTVV5bjFSUHQtUjRUY2pVMWJlSDdZS0U4MFJrTWVPTVQ1R0ZReWlYV0ZqQ0dnN3lrYw?oc=5",
+"source": "eeNews Europe",
+"published": 1792926848.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "6fe19c04197bc08e",
+"title": "SpaceX AI growth puts Nvidia and CoreWeave stocks in focus as demand for computing power rises | Hindustan Times",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOaElGVnBleXM1d18xQlhWQ0l6a3ZJY1FId19COVhxWWNmQnhqOF9vcXRzOGctMnpteHM0ck91YWZTV1QtNFk1M2lUb25KOU16TW81a2x4bS1lTTlqbmR4XzhZbE5LdmxFNFZBclB1ZDFBWWlTTFBmMWd1WUVsRFpvNEtxckVQVGdUaGFQQ1NXS0RfM3p6Nl9kb3ZlR194UjVpY1pTdHVtd0dXVlZRenFmZzZPRWtCTFR2em9mYkMxeHFDMzNyNkhwR2ZEOTNJTHBucXZEQ05ESDNFSG8wLTlWMldYY3NfUWVib3NWcWZCMWpDVmpQZWtSR9IB_gFBVV95cUxQWExXMWJrMU14dGh5SVMtaUJwMFpzNGZmdkNkRk92TFlZOFdRdTlMQVFOOUFqUlNIZFhvcUtRaG40MjVka3JjT1lZaE9YZ1NiNDhieDU1QWVfUDhLa2VieHlVZzI3dlk5aFp6ajV6M2I3US1ITkc0UE83M1pnSDZyal82Tmg4Zm5SeWtvLTJjcjhkUTczTTAxUjctd1pxeTNpVnhkZTNHeVlpQVVsUy1vSnA5eVN1MnczOHlyUW1udVF3N1RNT3lYSkhpR0kzVVNzZ3F2VFNkakx6LUF0RXJLUEFEUUhENG14VUd0cjh4OEFKZnJfMFdiZFE5Qjhzdw?oc=5",
+"source": "Hindustan Times",
+"published": 1792926149.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "9b5c3be78208d1ff",
+"title": "5 Apple Stories: Peter Thiel, iPhone Duo, Nvidia and MacBook Buzz - Apple (NASDAQ:AAPL)",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTGdZc292bFhHdExCaHNkZk56a2J2ZXk5WEp6SFhxclJLNTlQdmdOTXVrbkNDbU1IWWpJbjJRWkVaVUxGYW1pRHlmUFNsOU5mMWNpSzRIak02MFlzLWlrRGdFaE40ME42SjVaMUtBTEd2NXdSOC1IbllWZk9uWFJiSzR2RDVyWmUzNnZiMXFBUkdHY1dvSEptTmZyQkljdXFVNzdCMg?oc=5",
+"source": "Benzinga",
+"published": 1792926034.0,
+"stocks": [
+"Nvidia (NVDA)",
+"Apple (AAPL)"
+],
+"keywords": []
+},
+{
 "key": "2fe49de56bad4690",
 "title": "Microsoft confirms Teams will let third-party tools scan your meetings for deepfakes from November",
 "summary": "",
 "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWWlPMkNZOTFPTXNhbUxIVTRaMVotNXYxTDdOalMtQ1ZRVWxybnczd2k3YjVrTmZHU0VoYmtSckRibE1rTHpPRjhrakVLMElPQ1pQekI1a1Jld3IzM2ZMNjJPV0J6RjVyNXlwQWlybFFETHhiejJwdDlmYjFWMmFscXlLczFkVzQzUHJDY1VOM0hwRS1hNnRQdXBGVmx2dkZxT0IzbzlkNGw5UDI1OGw1azB0Y0dLS2NQMUZRV1pNNG9JSW9IaVpleUY2Uk9kdExDLURnUVZ5dw?oc=5",
 "source": "Windows Latest",
 "published": 1792926014.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "bb82b21add829760",
+"title": "Alphabet, Microsoft, And Amazon Lead Busiest Week Of Earnings Season",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNejc2bTI5S0tyekp3bHVMcnhSNk9TUHR3QXJpeldDM0lqcXJ5X2JKZ0loY3NyR2w1X3FtZlFOc2puRG8tQ25zNEIyOWpZVTJfakJPSGtKX0hQSEhQdTJ6cXFJamNQY2xQN1pram5RTWJUR2E1T3g5M3hMOGZCdkVNTmhNS1NPa1ZQVDZKQU5CZm1FX0JMdzZmVzdaMnVUaUxaZWhWTE1YU0xGTDJMOV80eGhFWEhrM09oV3c?oc=5",
+"source": "Forbes",
+"published": 1792926000.0,
 "stocks": [
 "Microsoft (MSFT)"
 ],
@@ -4830,54 +4879,6 @@
 "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTmtFaGZhZTFCUGllcEVxcG1pSG9BOENaWW1mU0d2ODZtMG1PMmFLTWpsMnhleUsyRjJTbVBjT1ZmWXBEOVpfU3ppX2EyTmJpMUd4ZTZCNHFrSlA2aVVfYjFhZmpBOTFfWGotY044VjUzZjlXTzkwNHhlbE43SlZyNw?oc=5",
 "source": "https://tech-insider.org/",
 "published": 1792817433.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "a7b47106c54c0aa7",
-"title": "Tesla Model 3 at 250,000 Miles: Only 1 Failure [2026]",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRXVoVExXNTlnODV6V1haNUgxc3JaV1AtSWdpUG5xYzZwUUR2bTJqZ25iRHJUVG5tbHJnaHVtVGg2Vm1IelRlS3BXeGQxak5YUUFqVkVCcnFIVU5pcTRjTnBNQjNtX005ZzBRWXpCbS00ZjFrNDlsSTNpVUZIVHlUSzgteW5NRFRzcnc?oc=5",
-"source": "shattered.io",
-"published": 1792817105.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "5a301de30380b89f",
-"title": "Vallejo: Man Killed By Tesla In 'Full Self-Driving' Mode Is Identified",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ0tuY0tIUVJYMW9pTldxa05sYS1ic09zTlZ1NXl4bVpPUTZXeDJHYzdFaDl0RVI5cEhSQkR6TWVYZl9pUWRQSzU3VUJWd0VEN0FTaHFFcWMzUkw3UURSaDFDSEZFbWRiQ2VOblZ1UVBmS1ZxUTg0UlpzTUpEdnlkWkR0Xy1NRmRIOFMwLUZDLWFMMzl1RHp3?oc=5",
-"source": "SFGATE",
-"published": 1792816615.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "7871225d631450da",
-"title": "Nvidia’s CEO Visits Astana as Kazakhstan Pitches Itself as a Physical AI Hub",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOczFCaWVQWHpJd1dYTWdPN0h3elg0RmpqWFdMM1dZbXgzSjRXUkpHdFJPRkUzMmpFZXdrVVI1MUhwVHlFbUt5bHkwMkNVZ2M4My1nWGpFUlZnTWUyNE40LVh3dm9jR2YxY2pWNjlyZHVWcU1FWTduUmpJTlpNeC1mSEpXdE4?oc=5",
-"source": "The Diplomatic Insight",
-"published": 1792816347.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "02c8ec0dadd77824",
-"title": "Tesla’s U.S. Sales Tanked In Q1. It Still Gained Market Share",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qaUZ1ZVpCRTAxRkZCZ3BiNG1pRFN3UFAwOGhPZEh1N1M3d1R2U21FRlpfemlHazFsMzJUQUlIODMwblhWT3h6RDRNbFlabkc5S25iTGxReGhxRXdmVjlBNUE3b1QxenJwZFpmUg?oc=5",
-"source": "InsideEVs",
-"published": 1792815844.0,
 "stocks": [
 "Tesla (TSLA)"
 ],

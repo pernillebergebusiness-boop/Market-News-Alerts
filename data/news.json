@@ -1,5 +1,5 @@
 {
-"updated": 1792975353.4699583,
+"updated": 1792978119.2468023,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,12 +73,60 @@
 ],
 "items": [
 {
+"key": "6d2efe6297fcda71",
+"title": "Nvidia (NVDA) Stock Still Looks Reasonable Following Its 7x Five Year Run",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVnBEQl95MlE5aEpsbU9BdEZKTnVOMzdId0Z5UnloR0JEbmxmT1duNTB1SDl3MU9aeHQ5UmgzeVJYbUdHdFdjdHZRNFlMZGV0ZWF1RlljdWFWTEt5WHo2OXV5MlF3b3pFQTc4VVBEYnh2MGUtRGd3RHpoYS1iT0RHdHFqQU1mWXJ1X2dwS3RxaHBfOExzZG9lSmNn?oc=5",
+"source": "Yahoo Finance",
+"published": 1792976760.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "6227f1df8ed7a108",
+"title": "NVIDIA Flora: $0.72 vs $88.49 Per Video Hour [2026]",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWWowa1BSdXhqNXZJOXFqdUsybUhmTUk0RjU4bWdhakVZN1BVMkRUbHhhVmN4YzBxRUEyWmI0d2pkdUtEQkZlOWx6ZTZDQjNFNG5yQ2wzY09sMnZDeUpCMWJ0emg1S0VXMXNoQ1Z6SHpnSkdzVE54YXU2ZkRBWXpXazdzYk5iZDdH?oc=5",
+"source": "shattered.io",
+"published": 1792976107.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "8716a3111574bcd7",
+"title": "Tesla’s Earnings Are Mixed, but Elon Musk Is Pushing Beyond Cars",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9MU3ZaTzltYlpuLVQyZmRDRXF2RnJ2VkFWOFFhdlRXcnVDZEdMaW1xNEhQMjhPRm9vbWUwbktYYjRqUXBMa2pJU3N6emxKY3c3OHI0QTc5VGxpSTVGZ3p6aXBaSnp6dndSRkoxZW1KY0NiWjNXeWc?oc=5",
+"source": "Observer",
+"published": 1792975894.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
 "key": "982e9aa0007183cb",
 "title": "Valeo to Develop Automotive Computing Platforms Based on NVIDIA Hyperion",
 "summary": "",
 "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNHF1cXR3MmdJQ1puUkx3LVk5ZnlBZFMtZnBvWGV2NEJ0VzFSUFBpY0tlcndSWFNqUkZNaU9jaWlBRFJVMVZ4NFJVdHJHN3dlODA2WjM2X09BWFBpLVdjSktnRWZaWS1McEk2WThRYi15VnNZR1RVRHVYb3NhU1oxX3gxV3VWVnVSVlV6QV82dmRrVk1iclBtcGlvRXhmcnZtdFA2QmZWNWtNUQ?oc=5",
 "source": "Machine Maker",
 "published": 1792975171.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "af5f9a2c31d3ea73",
+"title": "Nvidia Flora Beats GPT-6 Astra: $0.72 Robot Labels [2026]",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVTNuU3BGUzFPNUZLT040R1cxLXdZS19NcEtPbTkwY3B1T1NoRGpyWVk2YzZUcEt0cThKWmU5am5MSndUNnhqOGd1QmRRTUlEZDVjcWFTYVZhWERzMkZJV2JZLTl3Z1Y5cTN0S3ZRTkJBOWVOaWdOcmZEcHVBSzlieG1BUHFtajQ?oc=5",
+"source": "https://tech-insider.org/",
+"published": 1792974752.0,
 "stocks": [
 "Nvidia (NVDA)"
 ],
@@ -105,6 +153,30 @@
 "published": 1792974655.0,
 "stocks": [
 "Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "4e68a0696492493e",
+"title": "WWT & DDN launch AI storage design for NVIDIA Vera Rubin",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMzU0cFpUSGF1R2tSdjVBakxNcDFKNlNzS2o1X01lVTdqbmpESllqRmxZcFdYNVVpaHBUdmtDaUFVYzlKbjNZUU1iMUZRbXBfMUZVTVhLb3o5U3pZRFhQSk1vallHQW1GTE9GZ0ZTLWtyTWFncFdjeFNlUy1oTVJ3WUMyY0pvaTFfUmI0?oc=5",
+"source": "IT Brief Australia",
+"published": 1792974600.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "60284204c2401cfe",
+"title": "Tesla asks judge to void Arkansas commission’s request for documents on its North Little Rock site",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONTJpSGFPMmdhMk5VbVhsVFZnN3EtOUdPS2tVOHVUM1BHNHhlU09XYWdCV2ZsM2Zkd0d2YVBIZ1kwMWtDNHRsQ2ZCay0tY05xemVhUnQxbll1SlZzMkxYVEwycUg5R2ptNlBkV3JSc1U0aVA0LXdoRmVTUzkyUlNreUNlVmF1bUVmVUVnX3A0eUwwVW9HaGlldGxJaTRBeEdBT3hMN2VmRnYzUQ?oc=5",
+"source": "The Arkansas Democrat-Gazette",
+"published": 1792974600.0,
+"stocks": [
+"Tesla (TSLA)"
 ],
 "keywords": []
 },
@@ -213,6 +285,18 @@
 "published": 1792971300.0,
 "stocks": [
 "Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "2fe98b6b3631dc65",
+"title": "Satya Nadella Says Microsoft Is Rebuilding Around AI Agents as Trump Pushes ‘Super Intelligence’ — From 11,000 Models to Agents That Work on Your Behalf",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSktxVGNHWWl6RDMxRDBsSnlqMXljdXd0UFV0LWpLNVA1SGtGbG1fbGpycVN2c0pqN013WmxqM3JvWE9aU0tYckJmUEVOaDNiNmNsUlpsSkRhZno2NkJHZjNhM2JHdUh1UmxVRjBIMkFqV0lqS2R2endBaUxVRWZnQzAwb3RnZnAwLW53Qm04aTVsZGJXXzJsSlNIdmtCVjh2dWtjYm9n?oc=5",
+"source": "Yahoo Finance",
+"published": 1792971005.0,
+"stocks": [
+"Microsoft (MSFT)"
 ],
 "keywords": []
 },
@@ -4794,91 +4878,6 @@
 "published": 1792868100.0,
 "stocks": [
 "Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "402fd539913836cb",
-"title": "Tesla Model Y L: Reported 325 Miles, $61,990 [2026]",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4tNmhUSjB3SWJLakk4a3BIdmpvbURCU3lxRlUtT3pvQmN6akF5THh3UWVuQTlIUzZTZDV4QzU2cnlVSlc4ZkQ0UFhuNHN2Qm82d2x0NHZoYlBKWkpMS2draDZLekxwVGVQellTUzV2dlFZV01ZdWY0?oc=5",
-"source": "shattered.io",
-"published": 1792867820.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "ebb16f1a33bd718b",
-"title": "Palantir Sets Nov. 2 Earnings Date as Microsoft, Alphabet Report Wednesday",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5aTmFrT3lfXzZhMVFYLTJleHRoUVZQel9MX1dNZUg0M3RoS1YwaDNvNW5FOTdYN0hneXd1em9fbXlyenh2SWpHY3N3cDJ3YTA4U2RaSzBpelo?oc=5",
-"source": "TOKENPOST",
-"published": 1792867526.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "3efc79642de35fb4",
-"title": "Sweden Bans ChatGPT and Claude, Approves Microsoft Copilot for Government Use",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYThnTG0wb2FMSVJjNGpJUmNQdFBObzViU2dhT19qN2g0U2ZKaGxfVFMyWGRmdm5VTDV5R1lVU09DcmQySDU2SHNFMmh2cmFJbVZIaEhDSC1scXBiN0RUeG15QUNMSmRSY0ZFSzRVY2tvOWtDeFlhODlfa0x0cHFPcmVhWTVlVDM2RDdWblRkaXR2Xzc5YUxFOFlKQmlxU1JXT25RZC1TOEZmUUl5bVFz?oc=5",
-"source": "KuCoin",
-"published": 1792866848.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "544cfd0640cbb8cd",
-"title": "SpaceX Tesla Merger Approval: 3 Gates in the 10-Q [2026]",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQenpXWk8xTG04YThta3V1NFl1LXhjQkxuQ1NfaUo5YWJ0QUlIYXNvUlM5SmVRcXowUV9XN0ZXLWM0UXVaRFUtdUlOOFktMnZfZnduMXFKQ3BhZmV6Rmp6RF9weEtNLVIzQXRmWWdSQkdJd0d2OFdvakZJSzd4emNTR3Y1TjdEMHY1YzM3ak12SEptUQ?oc=5",
-"source": "shattered.io",
-"published": 1792866623.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "7e76ce9b359c2bdf",
-"title": "Man Operating Self-Driving Tesla Hits and Kills Pedestrian on California Freeway",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdGRLdnhfUzY1SERCYTEwMDd1eG1IYVBnRHo4TkhlOFlDbzJaNUhMZmR0LTVSemt0RUNFNXRRdU81TWtvYlFpamR2SzZ5by0weXFCODhUY2pXNERlN3dIZXI2cW1aQUxjdFhCSnJSZU1XZzhlUWRJd21yUDBXUGNVdU1QYkVKRHR6ZXdjdnd6dEpQZ2hZZGVFU2NB?oc=5",
-"source": "People.com",
-"published": 1792866343.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "4e46511ad2f620e8",
-"title": "Microsoft Q1: A $744 Billion AI Reckoning Is Coming (NASDAQ:MSFT)",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUTN5LS1OVkkwY2UzWFh0SkJlM21VRkpmRXpEYXNwZEIydFRPZGdnRTl4OWlfWkEzUXNkdlljRllvVlhpTzQtdkptbzlPcDJ4MUEwVWVzUTVVVERsZ2QwNW1OR3loNm44Wk5ObGhrbmtuYWt1aHFQRmU1bTNQV2MwRXZxb1IwTl9jVHoyX0QyNUNiTW1I?oc=5",
-"source": "Seeking Alpha",
-"published": 1792866084.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "4011e14074dec812",
-"title": "Tesla, Nvidia to Bankroll $2.8 Billion Samsung Substrate Buildout as AI's Next Shortage Takes Shape",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBxd2ZWZDAtZTV1ckRRTkZpYWhHVFR1VEFnNzR4REVQT0w5STJ4azNjVzBYX0ItUmQ5alZFUDFOQzhKcVdJaXJya2l4YVVBOHZ1Y1JxR0VrbmpzU3NfNHlmT1lsYkNLa0F4QVpoai03TEozVDRveXc?oc=5",
-"source": "BigGo Finance",
-"published": 1792865820.0,
-"stocks": [
-"Nvidia (NVDA)",
-"Tesla (TSLA)"
 ],
 "keywords": []
 }

@@ -1,5 +1,5 @@
 {
-"updated": 1792989770.196967,
+"updated": 1792991873.6403356,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -72,6 +72,79 @@
 "Yahoo Finance: HTTPError"
 ],
 "items": [
+{
+"key": "fc238a3cbaba730d",
+"title": "Tesla to Build 20,000-Robot AI Training Cluster with Total Investment of Around 14 Billion Yuan",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43bFRPVTE0UzFqWkpOVTVvY0gxZ1NpeDZQSWVrdjJzRUgxcXpvUUQ0M0ZrSFFZZkRNa3E4dUQ3UHltTzgtWEw5MTg1SUxoUW82aDZz?oc=5",
+"source": "36Kr",
+"published": 1792991434.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "b622803d294cba47",
+"title": "Tesla Cybercabs take over Austin’s F1 weekend",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0xSHliTGVDeWJJWDZ5UFBoYXcxYVZXbm93bUFZbTA1WHlHRmlkNnRuM0E5ZE1xTDFpLTZYc25sb25hUTJ2VTFKeUpNS2hDSDRMdkZrNjAwNXNwNk10VzlvdEVYOG83NndSM2RTX0tuNDBoSGk5R1JmMXRCSQ?oc=5",
+"source": "Teslarati",
+"published": 1792991138.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "f65bfcbf08a3ea6e",
+"title": "Tesla’s AI ambitions take flight as rivals race to keep up",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZjRISUlMdDF1alVHd0JSeDdZOUhFQ2dTTzFkMFlkME9pNHRCTGFGME9GLVJ3TklGbGhydk9QQ3dNWTE2Y2lhbTdfeHdPdmxZREtQMHZSUDI4b0txc1VGR1N3bHBRUTVyc2pSVkY1TGxhY3VlRVRFUm5acjlDWUR1M0lnY2k?oc=5",
+"source": "Financial Times",
+"published": 1792990861.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "3d3f8dd642102373",
+"title": "NVIDIA graphics cards can be accelerated by almost twofold - enthusiasts found hidden potential in RTX 30, RTX 40, and RTX 20",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeUtlSjhtejhKNm9VLWRMcmdfemhDUmJxQVFWZ3RNZXFuUjk2UkcyRnFyM25nRExld3MwbFpCaW9KT2FiVlpiWTg0YkpQQWxjN2RRdWxYektCaEY4Y0dZN3FVeTRNLVFBeG5sel85RFJBMTBuakMxQi1JNlVUOVJIVFZMMldvR1oyN2tHRnRndXNZZTFCSExjdklFb0NrNnduUTh3U2tUdVIxWHk3TzVjdlhyUVplZ3RMTFFLU05XT2huY1piVG9sUmd4LWE4aEVZd3VFeVZmQzhWdEd20gHiAUFVX3lxTE5ZaV9xSzFtUzk2THAtOEFzV19ZY1ZGbjNsckFXcTk1Yl85Z0N4WEVvekJYTFhWVm1KVjlka3JzS3dCYnlRcW9iam0tN2JGckJlWlZVXzREY3EtWmNJOThrTDc4TUJZT0FsUzh5cjdwcDEtVFhscjF4WEJzaVpJYXMySUNjZnpFWm9PbjFHN1pCMWJ5amM5bldrZ3MtYUtuTnNYZklDS2s5TjVZbzhOS0VPcy1mbnhwTUNVLVZmNXBEeXIta1F6QXIyV3hHbmUzWlltOE41RTVJb1NMYW1OVzI3eHc?oc=5",
+"source": "iXBT.games",
+"published": 1792990320.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "f9907b37795d7bbf",
+"title": "Microsoft claims Windows 11 20% faster after RAM overhaul",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMEJaZWIwRWFfTmxyeFVGY3BlZGxzdV8wbmtLSHVSUVRyTVhuNkpENUJsMWplTU9vWS13UHQtT0ZjSG5CcTJYSG5FeEZDRmdCcG0wN3VjanlEd29QR0tqTWVGUmhqTHk0eTdHNjZ4aktCQTBNZDU3LVNwcG9TNEpGQTRWWHFicVM5czljR3JFMFpVWXU3MzJseHljOXV1dFdjbDJzLQ?oc=5",
+"source": "Bangkok Post",
+"published": 1792990260.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "b7c1f5103303a070",
+"title": "Autonomous & Self-Driving Vehicle News: Tesla, Mobileye, Aeva, Ouster, Pony.ai, NVIDIA, Stellantis, Bolt, Wayve, Volkswagen, Einride, Valeo, Aptiv & TIER IV | auto connected car news",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNLXpSRDZNWTdpaUNvcWdGUWJBRUxfMGlXTXYtNFEyV0NxU0hfTmhxUlQwb2JGN3Y0VW9QS25NeVRPNkxsVV93ZkZGdGp5bW9iU3VERTFwaW5MckVKc0xmTEJVR1NFTFJORXR5SVZ2VlNDY0VFRjhabEo4dkp4WU1xTFpYci1kcWNsNndSNHg2cExQUVlCRVEtb1plX0dLa2diaDV6eU9hX1dnT1pOTmVkZXBNQ1pnUHlZQ1BVX1FEWWJfcS1fejBXbUdWZE5qZDRDUGtmTnFUZVhYTkItWlN5emwyMnRGNWFITHVDTEZwQk9hdXpJT3d3N2UybExoRjRtLTVZUFE4ZFBZQVZJLXc?oc=5",
+"source": "AUTO Connected Car News",
+"published": 1792989966.0,
+"stocks": [
+"Nvidia (NVDA)",
+"Tesla (TSLA)"
+],
+"keywords": []
+},
 {
 "key": "c5d9927b2b6aa2d2",
 "title": "Jensen Huang Says Nvidia's Next-Gen Vera Rubin Chips Will Generate $40 Billion in Revenue per Gigawatt, Up From $25 Billion for Grace Blackwell. What That Means for NVDA's Growth Runway.",
@@ -753,6 +826,18 @@
 "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNU0wyOVRKcWNYbTVUNGJtaDdvMThyVVprRGhpbWtneXRrcU9oNGlFVDBTZ1VyNDFMVjdQdDBzWFNPSU1zWHlFNnlLX1dpVlpQejVYWndSS1RjNnE0VUxGX0JpRXRFYXJxakRJM2RnWnVHQ3l5QjRFQTRLck9Ea1pfTA?oc=5",
 "source": "스포츠조선",
 "published": 1792973549.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "bd66f4ebeb8402f4",
+"title": "TESLA Guitarist DAVE RUDE Shares New Video, \"Tour Chops Vs Home Chops\"",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQT3ZUZUY4UkM4XzdsdDhKQkw2QU5NTWpBTXAwekpVYkRSN0QtdXo4MWtiZnNtS1dyUHdEcTBXbDVTdUhFZWY5eU90Nnl1REdURVJVaExHVEk2VFRqbWdPakJSbmpJSEF5dmJyMEN1LUFzS0FRUGJKdmJFMFRuckpsV2xuOGRQbTR2bG5EVlhuRG1Sdm04S25JRnE2X1U?oc=5",
+"source": "BraveWords",
+"published": 1792973425.0,
 "stocks": [
 "Tesla (TSLA)"
 ],
@@ -4795,90 +4880,6 @@
 "published": 1792888250.0,
 "stocks": [
 "Nvidia (NVDA)",
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "62829aaca1a2fc0d",
-"title": "Microsoft President Brad Smith Rejects Vance's H-1B Allegations, Warns Green Card Restrictions Could Hurt US Tech Industry",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcTVLOTdLZFdvYW9faTNLRFRuQnB5cHd4aDhER2V1SmJ4SWYtelBLVE1QRTRZejc4T2ozNDMzUmw4NkJ5eTdfY24zMU1aWHBVS0NITTExelk3UEQtSWMxUG5ickNUTXBHOUFKcWxuNEFSaWNIdURmRkdLd1d4VTdmVldIam1vS3hJZ21EY2pNTmFxaS1abENNLWRYRmZoaVQ0ekJqTl9makZzMXlCeVdHekY4cXhlN1BuNi02aEVxM3BVQkRVOU5JaTJUOU03M2ktdEFPYTFicGZYTkpLaHN2RjRiQQ?oc=5",
-"source": "INDIA New England News",
-"published": 1792888184.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "eb593e98344a94a0",
-"title": "Vallejo Crash: Tesla Hardware Evidence at 70 mph [2026]",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdVl2NzdfZkpfMm5Fay1WTmljY21haDV5eTlJTUpLRUtzODVhWWJUcGZabUc4cFB2UkVObmZZdGd4NDZtbE5SeHphOHRoVVNxc2hUUGtWdExsUHhVLWdoWTdHMEhlM19NblV2T1p1YWc1NnJLT2V5YnVfTUtUMWtMdU5uRFVfb3hHVFJ3?oc=5",
-"source": "https://tech-insider.org/",
-"published": 1792887670.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "6ae1ac4aeec82a38",
-"title": "Vallejo Tesla FSD Crash: 70 mph Hardware Evidence [2026]",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdVl2NzdfZkpfMm5Fay1WTmljY21haDV5eTlJTUpLRUtzODVhWWJUcGZabUc4cFB2UkVObmZZdGd4NDZtbE5SeHphOHRoVVNxc2hUUGtWdExsUHhVLWdoWTdHMEhlM19NblV2T1p1YWc1NnJLT2V5YnVfTUtUMWtMdU5uRFVfb3hHVFJ3?oc=5",
-"source": "https://tech-insider.org/",
-"published": 1792887670.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "b9fc7048e37aca08",
-"title": "Vallejo man killed by Tesla in ‘full self-driving’ mode is identified",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSkVBSl9IYTNRcjVHMHhNM0dzWmxQUFZRSF9uSEx4VWN0czFOcGtoUjBMS0JVZ3d6T3BWdVFOcEdGM041UTJMMFFyWVR0OUJsUTR5Q0VaaUc2Z0hZYV9kMEtxbnBSdFVYVVlaMERKZHRGRFVvNGJoQmRsSktLRDhWWVlmb2VGb211cWRaMzRSNF93TkowVlppN1dPb2R2M0NtWlprdTFIbzNNTVg4?oc=5",
-"source": "Local News Matters",
-"published": 1792886400.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "c8621f64c9e74689",
-"title": "Xbox COO Helen Chiang Leaves Microsoft After Just Three Months in the Role",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPU1RLUmNMRmVTVUhaWGRkcDhoNF9BVURRcDJUaGlmaENRY19vM0s4SVNzTHg5XzBnQTdseGxxaTZIWXo4QzJvVzZaQUN1YlBoRF9LM1N5VFN2Y1h2YWlyYWFyb01rM053OThOb3F1RnlTX09RWlFxajNYeGJGU1NvU0c3MUNGWkd4WUNLUnJTc3VrRE9YdzVnUnQ0ODVHZHBi?oc=5",
-"source": "eTeknix",
-"published": 1792885246.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "cee54e7c3111f760",
-"title": "Chevy Bolt owner shocked by Tesla Supercharger prices after charging for just 6 minutes",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSzFOZ1ZUVFRjUGlpTjBXUkJ3RGR0TEd2bEZVQ3AzcVR2ZUVheDQ5SGoxVS1ZRERicG94ZVBCM2txeU5BNHNudUZ5M2tqR1g3Z2pVZlB4emE5RXdIRldxcTFaLTBzdi1FNWhQc2JXWDhjQlItUXFCc0FvM2t2N3N6UjdLaTAtOEloMWdpWEh0SUdubUFxU2pjUC05TFpTZw?oc=5",
-"source": "Yahoo Autos",
-"published": 1792884900.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "9d151ef504935521",
-"title": "Chevy Bolt owner shocked by Tesla Supercharger prices after charging for just 6 minutes",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTFFhTXM5LXZSS0I2WXhVX1paaDNsUXk0YUpMNWdjOWZlVk5UU0tZdF82aXZTVnhSdWpnaVg4RDFpZ0JTU1dKamRuLTVtU1VxU3BMcC05emVSRkgtck1YaFp6anM1UldRSUpxTDNoOENnSEw0elZNSThLWERULVJFUzFaNEZrbVBYS1ZBM2NFeDREdw?oc=5",
-"source": "The Cool Down",
-"published": 1792884900.0,
-"stocks": [
 "Tesla (TSLA)"
 ],
 "keywords": []

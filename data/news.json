@@ -1,5 +1,5 @@
 {
-"updated": 1792991873.6403356,
+"updated": 1792994479.4818985,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,6 +73,31 @@
 ],
 "items": [
 {
+"key": "1790cdeb4b2d0408",
+"title": "Director-founded AI startup Destiny joins NVIDIA Inception",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBkTUVDVmFSM3F6YW1qaUIwN2VsVERJbENGVVhQenAxTkFERHZDeEJDNmVJQVFlVG15VHM1UjVCQ0RNNkZMbkFwY3l1SDYtU2ZvQWxIcXppaHJ4ZEVDZC1rUDBwSGlXQQ?oc=5",
+"source": "K-EnterTech Hub",
+"published": 1792994445.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "b05de0674ba655b9",
+"title": "Tesla and Nvidia to Invest KRW3.7 Trillion in Samsung Electro-Mechanics Chip Substrate Facilities",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeG5kUUVCdjJILUstSHU1SklYclFWbnN3ZEduU3NKZm51dER0aTRUbWp6T0hydVQ3VVZKMFNEcHB2aFhpQ1ZNOFZXSF9uc3I1NzdyQVdoODJuRzZ6blNscTkwVERGVGltaldZdWE4UHpjZXk0ajhfMFdrRGxFdWdTY182Y04tNWo3UHFsZ29MY0x2N0ZSdTdQYVl2R1Z2NkluTEFCdHZZb1RaZEJVN3dIUGNZZllSbTFNRDhQZDZpc3JmaDYteHRWMDA3OWlraTVDWmNvTVk1MzFFMTB6eXRmOVJVNXg?oc=5",
+"source": "marketscreener.com",
+"published": 1792993835.0,
+"stocks": [
+"Nvidia (NVDA)",
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
 "key": "fc238a3cbaba730d",
 "title": "Tesla to Build 20,000-Robot AI Training Cluster with Total Investment of Around 14 Billion Yuan",
 "summary": "",
@@ -81,6 +106,18 @@
 "published": 1792991434.0,
 "stocks": [
 "Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "40fbab23f56280b7",
+"title": "Is Nvidia Stock Cheaper Now That Its Multiple Has Fallen?",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOS2ZWUEYzQTFRQXBZOVFIYlhCUzl1V1d6R0g0ejJIWTV2Y1FKd3hram40VU9BSkFqRG10b2Y2S0tBZ3o3SUxtX09zbE5haHRxclgwcDcwamYtQVVMUWVMQ01TNy1jcnlWamoyRXp3LS1YUVBwSDRIbXZaU2xzNzV0cjlnNEctd0hraDBRYWxGWHdQOUc0RzJjSy1VNm1EQzg?oc=5",
+"source": "Yahoo Finance",
+"published": 1792991185.0,
+"stocks": [
+"Nvidia (NVDA)"
 ],
 "keywords": []
 },
@@ -109,6 +146,43 @@
 "keywords": []
 },
 {
+"key": "34505c184b9cf6b1",
+"title": "Weekly Recap: Wizz Air via Ticketless Access and Nvidia AI flight search",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdEtNQXRTWXgxdUkybURnQXVWMmhhUGlzaDlOYi1XdlVHamdzT05BWVhpcllhcGpMQzU5enZHRmVyRnhDSEdKZ2hUS3NIWlprS2ZJenVyZ2d5eGZtTGNDZ3VyVkZ2STNoM3d3TnozaUk0bEdkWG5OdXZnWHVteXAwaE80TnByaVpWMXYtZ0dlb2FreXdBMWQzV0lMRmVIZWpQQ0x0eGJDcVhLSjBkUFhtcGJBY2Ztai1PUVIwUTZTVXkzdUxTNWJ3Z3pqWGRNdw?oc=5",
+"source": "TradingView",
+"published": 1792990800.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "1cd77e27f6aa80fd",
+"title": "Weekly Recap: Italian wind farm for Microsoft and Seaway7 backing 500 UK jobs",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZ3lBd0dRRktmcWRKR1dfNG1iMnNTRktzSHBUdHU2b2dmTlh0Z0pzTVd6NmVRNnFka2swWE9NYW50SmZheE5YT2FVMzBnY2dLV2ZKaGMtX3NBNmViWG9QVUVCZXJwV2F2TUpDMjVLTU1vZFJCdUNOVkFXSjk0OHUtSXNUbENpeEpZYkpRNEVoYXJlaEppaHZibXZFejVpYUNSNEFKenMyQU5lX2pnOUxyS3pDb1VtZ25STTFmTDVUTmdaTFlfYmdXd0pFOU8wME5JWXB0bg?oc=5",
+"source": "TradingView",
+"published": 1792990800.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "e8469829ea7f9c8c",
+"title": "Tesla And Nvidia Are Reportedly Funding Samsung’s AI Chip Substrate Push",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOT0VnUEVyTlZGeGlIQ01xNGVKdGhLV1FTcWhlZjlWTndXcWdaeWtaLVoxZFdvTDdpdVlFT2hqd1dYRkVhQlZqNWdYQUEzOWYzT05VZDlqWXB5bjFRZU9YTHRiT1FGZHUtbTNNbTM4eEN4ZlVzUGdoRnlpZEJxOHJadzNUbWVBUEMybGt1dDk2cjRPaDFmM1JIN0RENXNVeEczZXc?oc=5",
+"source": "Finimize",
+"published": 1792990724.0,
+"stocks": [
+"Nvidia (NVDA)",
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
 "key": "3d3f8dd642102373",
 "title": "NVIDIA graphics cards can be accelerated by almost twofold - enthusiasts found hidden potential in RTX 30, RTX 40, and RTX 20",
 "summary": "",
@@ -129,6 +203,18 @@
 "published": 1792990260.0,
 "stocks": [
 "Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "5a51c13ea1bc42fd",
+"title": "Jensen Huang Says Nvidia's Next-Gen Vera Rubin Chips Will Generate $40 Billion in Revenue per Gigawatt, Up From $25 Billion for Grace Blackwell. What That Means for NVDA's Growth Runway.",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVFlZWE12Y1JWbDkyUGxfVjZpUkJSTTBQaE9mbWVqdG9wZ1lWVms1dXZaS3ZZdmFMWW11alAyUmZ0WFNkYUt3VHp5M3E1WlpEQ1IyWXZqN3ZwLU5aS2czdUFOZzBkT3A0ZlRvT0lDWjhKUVlka19ZTG9aS2ZPNFFYTWFKQXctNDF2WmVQTDBCR3FZN3gxb00ycw?oc=5",
+"source": "The Motley Fool",
+"published": 1792990208.0,
+"stocks": [
+"Nvidia (NVDA)"
 ],
 "keywords": []
 },
@@ -532,6 +618,18 @@
 "keywords": []
 },
 {
+"key": "9a1344f8c4db826b",
+"title": "Microsoft has begun rolling out Copilot Code for building apps with natural language",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbm5JblZQa3BQT2xpR2IteGJxa1QxLS10b1d4TnNERkp4Tmt6WU9aclhmSGw5cno1MHE2LTdvSmtqSF8yRVl0SEdyRWRkNXpWYkZnV2dnaDVxLXRqYm5xT3dCRVJoTTRvaGY3UTVad0VXQm9odU5iOVNHUmJ4dWJIZzdqdjctaHR0VUVfWDFMNEZNcUdpeXl0dHZR?oc=5",
+"source": "Yahoo Tech",
+"published": 1792978740.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
 "key": "f4811aa987218208",
 "title": "Musk says SpaceX closes $40b debt deal for Nvidia AI chips",
 "summary": "",
@@ -638,6 +736,18 @@
 "Tesla (TSLA)"
 ],
 "keywords": []
+},
+{
+"key": "2de49b11bbb28744",
+"title": "Stocks trade warily in Asia, Brent off six-month top",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE90MHowUDNReVJUUkkxWEZhTnAyYnZZNGNXQjJPVWt0QjgtaERfUHM4bERQd2k2NW5kMXR5dld0NHpsYnBhOENieXU1VU9saFBya202TXRjUktMa0l6OXF0OEZFUDdxR3FtSTdCLUxRVGpZNnBndExIcGVEZmtXZw?oc=5",
+"source": "Reuters",
+"published": 1792975560.0,
+"stocks": [],
+"keywords": [
+"Brent"
+]
 },
 {
 "key": "83999be75e4b2548",
@@ -4771,115 +4881,6 @@
 "source": "X",
 "published": 1792892700.0,
 "stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "aa880075a23b4fa6",
-"title": "Nvidia’s Jensen Huang Says AI Agents Have Sent Token, GPU Demand ‘Through the Roof’: Gene Munster Sees 15 Million Bot Users Soaring to Billions",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOG1EcXoxY09jT1IzdTlXRlZBZ1kyMEozME5xSFJyeWRsVXBUdFd3aTJ3eDFxbzFvdFZHaWVRLXgyRFp0dWpMaGRVdHdsUVI4OEVsR19yczBzTm1aTjg5MFBXWW1odklWQVlxbVh2d2xZU2ViSkl3TEpSMzAwLV85VVZFeWxBQ1pWcDVZclZtOFNuQ1BJSWc?oc=5",
-"source": "Yahoo Finance",
-"published": 1792891800.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "7e5918b31facd315",
-"title": "Apple Inc. Tokenized Stock (Coinbase) price today, AAPLc to USD live price, marketcap and chart",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5PZzhFRDhsd0VzNzdidk9fZDNpdmdsODMybElVUnBQT2N0OUdYZEIzY1NoMTRCUng5d0hLREZ1LUdnVC1WeVFxU1Z2cC0ya3RpcnhVRk5EYldiaTlwZHVlNzN4RFhYcTIzVUZlQmNRSlgzdFh6NGYyT1ZzYW8?oc=5",
-"source": "CoinMarketCap",
-"published": 1792891417.0,
-"stocks": [
-"Apple (AAPL)"
-],
-"keywords": []
-},
-{
-"key": "88e7f5d7dde2ede4",
-"title": "Form 4 Meta Platforms Inc For: 24 October By Investing.com",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZXJtXzJnTDBpMkZRUnAtNmhxbHRydWJZdFVKaFJyS3ZWaUFPSkZYU1QybkM2THhHeks4OWduNk90LXg4WXJWN0hwSHNHQlN4UzVfRVlLc0NIVlVkNlFNVlNCV2ppR3JvTHNLMmh5b0RQSTBIY2xIemNyZUo5bVZISUpSb184TWZnd2tZbFNiNVZrLUxlU3BERk1GSExNMnZzTXNZ?oc=5",
-"source": "Investing.com Nigeria",
-"published": 1792891409.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "3b79d6ca5368d2f0",
-"title": "Microsoft ends MS Publisher, but there are decent alternatives",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNR1pONThoT0xNMVl6ZUJpb2lNd3pZbnVoc3otR3hYbmV2Z19KWnhNT2VsZEZXSTZfTHJzRF9ENW5kSzBZUW5XTmk2dTVPQlc1VGdZb2RsSFZIcC0wNVppNERLa2g5ZnFlSzBlMjlNWmZvOGFtT2pLX1pxemRtMnh6cFM1NW5wNUxlNG5tZUJydVFsY0lGd3NyUlNRUGM0VXpHTk02aU4zOThzNUpWWlhyYmNhZw?oc=5",
-"source": "The Star",
-"published": 1792890000.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "cab057892d528221",
-"title": "Tesla’s Flying Car: Price, Release Date, and What It Can Really Do",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE11ZjlrUXEtSjlURjdDZ3lhMUVRR2ZRMjgwNEJtX0UxYUVQYXhTVFZtWXNLVjZTZzJpNmg1X1pxcE9QR1MzQXhoN1JjdjYwT2xFVjlZSDhoY2xDNUE3WmppU3BB?oc=5",
-"source": "ColombiaOne.com",
-"published": 1792890000.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "21af9ce16fb93405",
-"title": "Nvidia unveils OOI CPO prototype for post-2028 AI needs",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcDZ4LVhJRGluTDV5SXJ4WWVoanZwdFJGLVVHVHlENElabUNZWDhxbTkxMGZHc1ZfLTVkZzhNVnBpR0NPVVNsYWlGQm01NGJ1REpmVEZyaHloR29zUHpuMXBIbEZpbURTR0pYUFl0VURTRXhRVGU1UG9GaGhLYWRSMlFFSUpNalpEZDV5TjJJQmk0QQ?oc=5",
-"source": "digitimes",
-"published": 1792889144.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "1c767f6fb185eb62",
-"title": "Denmark has abandoned plans to ditch Microsoft Office after technical problems",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY1ZnV1UxalNxUy1GQ0luMVV1V055aGF3NnYwdl9lNUwxUWw1YkJNLVo2ZDB6LVZkbmRYbE1SalJzT1BaQ0Z5RlZIeGxxZklULUktUlF3TUF0Ykh1QVVLUHc0VE5Vakl6TnZ4MTNTeDNhVUF1UzBKS1haY0N2TlpZSkZqRWF1MkQwdU90MjlxWEQ3VW5MUjdJSnVUZ2R1SDFOakgwUzVIc2docE0?oc=5",
-"source": "Neowin",
-"published": 1792889040.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "f6f0ca0602d46cab",
-"title": "Tesla-SpaceX merger tests whether Musk's technology empire is worth more together",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZUExNWluc2NDVzVCTXlhdGh4cUc3d1dPemZwTGlNa1lXUERqLWpualdkRm9ZT1dhd2hMbUxlWnREajgzYTIxemZkZjZHQXhhOHl5SFdxY0NqV210TEt0dDFMX3VZTDJXWHYyWmV6Y0RYQUpEQU1Wb2ZLeVZHSjViT1J1TXNwUEpjVmpJVjFWdk9JVjJBUnc?oc=5",
-"source": "digitimes",
-"published": 1792888881.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "77c8421c089732d4",
-"title": "SpaceX, Tesla, Meta, Nvidia, Intel, Netflix, AT&T, and More Stocks That Explain Today's Market -- Barrons.com",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOd2NHYmNySXZad1hXaUlZLU1aZjU5aVotcDNRLXFSYmQ0cmgxYVFvc0VrdlVRY0loS2x0TV9QbmdIZC04dmZJekR6MHJ3TTJUMEYteFZDVS1VdEhBNWYxQXY3WFFwR01uRFZ6SFUxeW51aHpfVzZsVkVkd0E0RzNqQldkZDduc3dubG9FUkc1a09EUUl0b1pvZmw4OA?oc=5",
-"source": "富途牛牛",
-"published": 1792888250.0,
-"stocks": [
-"Nvidia (NVDA)",
 "Tesla (TSLA)"
 ],
 "keywords": []

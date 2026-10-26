@@ -1,5 +1,5 @@
 {
-"updated": 1793052858.30077,
+"updated": 1793054944.2691572,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -72,6 +72,30 @@
 "Yahoo Finance: HTTPError"
 ],
 "items": [
+{
+"key": "8a033c8a43f7631b",
+"title": "Microsoft offers voluntary buyouts to 60,000 employees",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOem8tenh3bmZyUUxaeEszLTl4QzljR1pSaGFzWUNMbWxlS3BjY2F3OWQ0UGs4bnpIQzY2ZENVNmtnZ0FqWWF2YzdNMExIQy1kT284MjZEbFRhVDBZRVhvNnNyamRIenQ2dzhEYklsQlJNUzhQVVowenRpM2ktRkR0d2VONm5YR3VBVDk1Ny1Sa0ZiQmV3N3drYVZ3?oc=5",
+"source": "Ars Technica",
+"published": 1793054166.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "796b5a420508facf",
+"title": "Tesla FSD Now Legal in 10 EU Countries After Latvia [2026]",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MWDNrZlBGckJ1dmtVd2ZrY1R3U3I2X21TNnVOUi10WnNwT18xVUtrX2pkRDNlbk12MjE0T0hTVkgzVmU4WDFQcURWRVB6aGhQWDFxMmxKb01qVjNZTjdyNUlscVlaOHpNTlJpUDRtZUpXM040ZE9XYWt4MVE?oc=5",
+"source": "https://tech-insider.org/",
+"published": 1793053451.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
 {
 "key": "fc3b660e6dda8748",
 "title": "Intel vs. Nvidia: Flat Trends vs. Rapid Expansion in Revenue",
@@ -193,6 +217,18 @@
 "keywords": []
 },
 {
+"key": "37d1747827a80821",
+"title": "Xbox staff among up to 60,000 Microsoft employees offered voluntary exit",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNLTJlc0RDZUZPaUY5bEx2VnphOUZVRkZORjhaUENSQkFYR0xhc2tiYk5QYTh3YnNXcko0QXBfWWk4YXZwYld6WTU5R2hhdXl4T2RNUGNhd3JzUEdQck5iU0FobnotdjItekVHd3J4ai04LWw5RlJkNjFZWUtZeUxob0p2NkFuOHBFUGItZXRWelc5N1pMUFFjNGxESWVrbGkySGRN?oc=5",
+"source": "GamesIndustry.biz",
+"published": 1793050440.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
 "key": "7803ea7a017dd3be",
 "title": "Microsoft offers buyouts to nearly 30% of workforce in ongoing AI shift",
 "summary": "",
@@ -249,6 +285,42 @@
 "published": 1793049619.0,
 "stocks": [
 "Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "98ad0f5d0f411780",
+"title": "You can't currently order a Tinybox with Nvidia GPUs — and Tiny Corp's new 192GB six-GPU AMD build just got $3,000 pricier",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRnRGRFVQT3B6eF9rcHViYVp1Mm5lcE41YU1zNC15dy1hWV81Sm5tdERnSnc1VXdXWHZlTFFXVFZGdXktb3pHSTlPUlJZZnMzTm95V1hYLUk3Ti1fZzYtS19qVWJXVHloWWVqTFVRZDA3Rzl1cjdKTEhqVnNiekE4eTUyekk5Q2hxOS1WYTF1R0pwRFhBNkFCLVRaWVB2YlczS0tDaUdnWXdUaWlCT0FvTjlCd1Rac3VPNWx1OF9KaFpLOUNSV1FmQXp2ZVQxU0Rpa2h1cUNySDhKUGdTdUF2czBNajY?oc=5",
+"source": "TechRadar",
+"published": 1793049600.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "5f6cea87a7679228",
+"title": "Tesla: Current and upcoming models, prices, specs, and more",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9IaWtMS3AxdnhqLXNOTXJmaGRJdmdnMVUwV0lsMmJJbGZ1TlFNX0pMV0VfTkZpMXFwOFZnT2E2UWhrM0dhVFlEUg?oc=5",
+"source": "Electrek",
+"published": 1793049591.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "b1991b4c70205065",
+"title": "Microsoft offering buyouts to 60,000 employees",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQekhMNmwtZDJOU3ZmZHNSdUpsNFRWcE9BUDEtck5mQ212ejhSWmFBc2loQ0FuOEhhYmhKWW5MMGU3a2ktVTJOai1jaFIxcmRyY05MeU81bV9GRmtfYnJxeDBhOHBQN3lyX3Y2elRhQXptUzlCLW9mR1ZNM3Q4VEQzZ1hybXRxdw?oc=5",
+"source": "InForum",
+"published": 1793049412.0,
+"stocks": [
+"Microsoft (MSFT)"
 ],
 "keywords": []
 },
@@ -598,6 +670,18 @@
 "published": 1793045710.0,
 "stocks": [
 "Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "5b3fa3355b004304",
+"title": "Microsoft to offer redundancy to 60,000 workers in new AI cost cut",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTk9HZkpPLXM0UjZic2pkenE5TzdqWGJveUVYRXZ3ZkxybVRsZDdGTE9rOHBDeTBkQ1llR19TdmNmVktGTTBDUmtLU2JKYmJKdkc5LUVXQ2lLUFVjUEt6dllFYzV2aktpVmdaUWJRcjNNTHNBYllIRVhSbzBtczd0Y2FnNVRDeWU2TlFXOTF0RzZRMHZOTVhlMEFaVlFRVk5HcmEzTGQyanBGMXZ4WWVZS2thYkEwNkQzb1Nj?oc=5",
+"source": "AFR",
+"published": 1793045460.0,
+"stocks": [
+"Microsoft (MSFT)"
 ],
 "keywords": []
 },
@@ -1323,6 +1407,18 @@
 "keywords": []
 },
 {
+"key": "994302aa32057051",
+"title": "Tesla expands robotaxi services in Houston. See the new, rocket-shaped map.",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYXFsYnBjRFJWSGdGQ29naFlDanJmNHlXSmJOTlYtbjhmb2dSX3kwT3o3d1NaYklPc2J1SzVUbHg4T3Q4SkowaDA2c0s0QUFJM0N5OG1kSVN3RzY5LXBoQVYyd1N3T0d3ejVvVmcwVlhTc3llYWo5TjlPWTZUVkFIWXRwUFNLNkFUazdZZ29OUTRvUXFaOTJSY0RJZ1RXVlh3LW5zdWNRQnNHdFNRODN6LXBUanN0QklLanhXRQ?oc=5",
+"source": "Houston Chronicle",
+"published": 1793039536.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
 "key": "ca2c17c8c253d055",
 "title": "Tesla expands robotaxi in Houston. See the new rocket-shaped map.",
 "summary": "",
@@ -1515,6 +1611,18 @@
 "keywords": []
 },
 {
+"key": "26a24a3922d8bf46",
+"title": "Microsoft offers 27% of global workforce voluntary buyouts",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObDdXVVdjdkQ2cmdaQ2hYWFhqQ2JVT0xUNDZxS0JsNThpLWVjaVZzN3k2MHYxbVJvWTR1d0NHQzFoMVhuX0NhOFFLSGw1YjdNZEpsLXJSLTQ0UEVqaUZIcnJqcERWMERFZFQzSEdYdGNUQ2JOMDR2WENiTlJYMHFJaTdFLTdhNkUxVHNRbV9YM19RUDJ0UjBTRFdJcGJpVnVCTU9j?oc=5",
+"source": "Yahoo Finance",
+"published": 1793038245.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
 "key": "3d945ec335914cce",
 "title": "A $13,000 Tesla Model S with 140,000 miles still delivered 221 miles of range",
 "summary": "",
@@ -1547,6 +1655,18 @@
 "published": 1793037870.0,
 "stocks": [
 "Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "c96f8cec0d40e0c4",
+"title": "Meta Platforms, Inc. (META) Stock Price, News, Quote & History",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NdF9xWW1RaDk2MmNFdk5acnJHSVhGM0dqcF90M081cUplRkpyVjZmakJsdS11TFhOcnVVRnM0T1RXcEo5ZzBITzA1N1BsaWVacVE?oc=5",
+"source": "Yahoo! Finance Canada",
+"published": 1793037727.0,
+"stocks": [
+"Meta (META)"
 ],
 "keywords": []
 },
@@ -4761,126 +4881,6 @@
 "published": 1793021039.0,
 "stocks": [
 "Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "623126690285f971",
-"title": "According to reports, Netflix proposed a $500 million deal to Microsoft for a seven-year licensing agreement involving Xbox intellectual property",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA5aEpuSl9wVFhMOFFnV2xzLXhmdGJOeFpXUTNad2ZTVmN2YWcwaVVlNTdoSm1udGFtMGVHZHpaMzVqLURyeElSLWgxVlFvWjF3MVpESTl3?oc=5",
-"source": "WN Hub",
-"published": 1793020978.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "b7d79182350b1651",
-"title": "Jim Cramer's top 10 things to watch in the stock market Monday",
-"summary": "Meta Platforms is looking to raise $95 billion to fund its massive AI infrastructure buildout.",
-"link": "https://www.cnbc.com/investingclub/2026/10/26/jim-cramers-top-10-things-to-watch-in-the-stock-market-monday.html",
-"source": "CNBC Top News",
-"published": 1793020855.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "ce07cef85106597d",
-"title": "Tesla App Lead Talks Upcoming Features: Mac App, More Vehicle Controls and Immersive Powerwall View",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWmZhVkN3SmxVNklqcE1QN3M1enRrN2YwOGxqbWJUUF9TVkdJdzRJOEZNZWVPTjhSRDRGZU9ycWU5ekJsYjZWenV6NHJoaldwRDFfdXAwdm9zOXZ3U0tkVWozcmhVb01KN3JBUzZCbEs4TS1RVkFkVThRX3BKQlFsRU5pcWF1REU3OHAweTdfbnV6U0RNMzVPYTZwQjVfRUpDTUtveTFfRE8wN1ZCbks5bnBrZl9rQXR1MERv?oc=5",
-"source": "Not a Tesla App",
-"published": 1793020680.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "f927b350112988a5",
-"title": "One Catalyst Could Completely Change the Tesla Stock Story",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUG43ajgydzNORlZFRzRCZ2x0aXUtZXFTMjBCeS1jY1hseXB6V3JJai1zLVZXVVlpVWozbG5XM0JLTFVmVTVTVU1ZcW9nVUtzM3poODZmVGplTC1JLWU1SW4ycnRzUGxIZUx6aFczZE85TjI0ems0UXpiN1g4RHdvaHRleF90QTFjLU1LTkVXV1JzQmZzT0RsT21oaFdJeEJjSXZoYQ?oc=5",
-"source": "24/7 Wall St.",
-"published": 1793020524.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "4cbcc41a606ec350",
-"title": "Beyond the Inbox: How Threat Actors Abuse Microsoft Teams External Chat for Initial Access",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUFZEMWNqYVh6MHdMNjJPcFZNNGM0cWIxR1NqN04wVkJWV0FiWC0zVGlvVFQ0NHk2cFdQREZrd3FESlgtLXd6NktCd0FBVzZrUmJKc0w1TklRX0Q2YWc0RXdHWU0xcUk4SVFwMWpZOHlPeXgtZkFzR1I3MUl5bGo5X0NWMEw2WDJyRS1nV0R4MXNHRTljSkhwZUo1dmgzYzhpZnFsaTVnOWNpNkk?oc=5",
-"source": "Arctic Wolf",
-"published": 1793020488.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "28a8af4642324847",
-"title": "Banned Nvidia GPUs spotted powering telecom, cloud workloads in China: report",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM3RIcXJiNXRPRjJ0X0E3MWFJOUx4aGRsQmtzck5kZVROMHZVOXFQaUhkeUxiYkd5bGxKRmd1aTlqbUt6T0xrRTR5S3BMRW5ySkZubFJJcTlnNGQ3LXVXNVZYaFRsdGRhUlozeFpNTlItT3BrdG9teGFLY2V0TVNhWDdybmZUa1NnV2lKYmNKNEU5YlhPelEzT2lXQnZ6UWw1dnpjQkVLakI5bVZO?oc=5",
-"source": "SDxCentral",
-"published": 1793020457.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "4a889cc60cdcad62",
-"title": "Forget Alphabet and Microsoft: Is Amazon the smartest AI play ahead of earnings?",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOV3dZU1dNM3FhWlNKZkJVZ2pZeVhneTdHeHA5YlpRcmtyaWJLTVVPdXBseG1qb1FJUDBDR1J2MDdXWDZrT3hMWnJlRzNKQko1eldyX1JpRUJTWW5tY21QX3dzYjVnUWZJQTk5RE05aG9kSXRzaFNtUzhmVXZyUnBWMlpvUzVySEphTDBZSjZPaEhSNDFJSDZ3eTA4YUNkc0syOHYtdS1pSlJmMm9ETUxJdVVEU09vV0VPcks4aXp2VjhvUktoWG4tZWktRmpTTjU5?oc=5",
-"source": "Investing.com",
-"published": 1793020430.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "0f15b17f41733f63",
-"title": "Apple Inc Unveiled The All-New iPad Mini",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOTkzTC1HYjU2R0pLc18wcEc2Q1ZUajFlSGREVjdwTjIxZnh0MEktSm1ENWVlUVlwbU1TdTdkZklrMWg5dGR0X0lFQWdlRndhcTVacTk0NWFMQ0NGZ1FORk1RYlpBMk9uR2VlOFFyWU5ocURBd3hnV1JHcHZXd25EZ3BoZzFiUHFMVXJqY2RfQW1LcDZNUUQ4ZGN5TllFbXBhVXFGSDJiZnVydE9kbVE0?oc=5",
-"source": "TradingView",
-"published": 1793020263.0,
-"stocks": [
-"Apple (AAPL)"
-],
-"keywords": []
-},
-{
-"key": "9287b38f90afb3bc",
-"title": "One Catalyst Could Completely Change the Tesla Stock Story",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNd1lBVmdvR3p2ZHdWQ2dsNjM0Y3hidksxcnBPLXpMUy1LbVpGVlBzX2pHa3lfZUEtM0ZmWXVOcEFkNDFsblVGVk1ua1AtZWtqcnpqY21GbXFiN3ZtTWowWTJVWThoa2t5SUlEa3gtakFrRU94NHpfWl9yR3JiZWt1RmlqUy1jSXBSdldIQVdSYUt1WkYwQ1dOWnF1X3RuZldNTW44?oc=5",
-"source": "Yahoo Finance",
-"published": 1793020215.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "ad22c7caa07db5e7",
-"title": "This Tesla Analyst Turns Bullish; Here Are Top 5 Upgrades For Monday",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNM2l5MENSbW1VZUU3TVYzZkR1aEN2TWVfdzVhOUdHN1lrbzZmYkJCS0hrNnlVbklhT3g4ckg0d2k3ZDVKV084eEQxOVRhTS0xMzNjMXdidzJFYlpVNUZUaEczZ195R3NvLXRDWE55MjZ2ZmlIU2d0U2ZaQ01ROVNQOXFPSXdkQ1ZoakFLYUloekFXWXp0M1lPdzlCRzNnVi1QaUVVanA4LTJJQmRjRkFZTjE0T1otZ0t4amhiZ3lKUS0zUmRfRlowRGVtWmRibU5ocjhrYg?oc=5",
-"source": "Benzinga",
-"published": 1793020192.0,
-"stocks": [
-"Tesla (TSLA)"
 ],
 "keywords": []
 }

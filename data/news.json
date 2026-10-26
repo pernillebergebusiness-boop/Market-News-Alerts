@@ -1,5 +1,5 @@
 {
-"updated": 1792978119.2468023,
+"updated": 1792980580.9561307,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,6 +73,127 @@
 ],
 "items": [
 {
+"key": "a5114d34df9d1deb",
+"title": "Tesla Cybercab Adds 2 Features: Rear Cam, Dimming [2026]",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcHRhNFNIZzdjYWFPSGhZTDlMVDlLRVVJeTlWUkRuemE2TURZN3JWcnM0UFFZc3ZrM2YzMXAyYmdiOFlfME1oeENZMEpuS2tEVW43RzRZbS16RHFXeXVpcXo3OUQwMkRSVkpVdWtPazV3UnFjV3Z6LWN5MUNkOWNOdw?oc=5",
+"source": "shattered.io",
+"published": 1792979987.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "fd7d985e7a5decec",
+"title": "Firmus After the Float: US$2B Backers, 7.2% Nvidia [2026]",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUFByUkc4bnZjMVVwa1NPaHRsTzJmVTk2SFJZdjBHVHBwMXZBTW9Qa0lsZ2J0cGZrZFlNR2w0ZHFkZGlHWFJrdEplWnZnRUViYmhKN3BpQmphQnprTHhNZzdkcVpIUmlLZmJBUl9uN0RaSWxqZk1kQ2U3V0h4N0RwS2NwMjg?oc=5",
+"source": "tech-insider.org",
+"published": 1792979913.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "81eb6d491ece04e5",
+"title": "Microsoft High-End AI PC Gamble: Partnering with NVIDIA to Challenge Apple Head-On",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVN1hfd2V6Wk5XZ1YtU1ppSnFNWXZvUG1TSG1oTVJTZGlnR1poMTBZT0s1dXFzSDlzWkJsZmpLSnVFY1lhdTZ5LVNSS20yUmphQmJB?oc=5",
+"source": "36Kr",
+"published": 1792979695.0,
+"stocks": [
+"Nvidia (NVDA)",
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "d584ffb6521acd29",
+"title": "Tesla Cybercab Adds 2 Features: Rear Cam, Quiet Mode [2026]",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRzhJaGVfZ3FpUE1oaFlnOEItREJMZ1ZJeXhUMU1jbHFjWkRsWkZCLTdTTXM3SXNIUm1LdGxUanZWY3BpcGZMTUlLeFhrZlVQWWw3ck9vZC1tMm9Vdk1SUVp5eVlQcGpmVWlVN000OGFncmVZTmU3aWktRmVMWVZ3WVRuRXM?oc=5",
+"source": "tech-insider.org",
+"published": 1792979423.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "dfcf33683d69c5bf",
+"title": "OpenAI $30 Billion Funding, Tesla Capex Cut [2026]",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQ1ZBSy1hdUpzM2NpVW8yYW96SkIyV1FpVlE5TDFZZGs4OHViczN2WUk0WktlTFZMTlBxYTFVMklEekc1NkNBa1IwbTg4aDRLME5fUmI5cmt4NjRHUHdfbG1UMENoemo5TThBT0FORGJRcVZrUDVnSXVKN0RBT1RONFBRMEswQ1BtZWxkcGNR?oc=5",
+"source": "tech-insider.org",
+"published": 1792979263.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "93087af4fd284a2c",
+"title": "Microsoft AI Agents: Nadella, 11,000 Models [2026]",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOUQ4NkdmaEF6TW9IcVAwSDNLTDBUWXhmNUFWR2VNUUFtLVlVSnRvWHlXTlFTb2NYOWQtblpFM0NRdE5URUwzdGYwTzAwTG5VT2xmUS1ZWkJkTTFRbW5RYzZ0TEpNUmcxSGNtQVhaSHhLYVBCazlLOXh0NklsVGV5QjhtS1lNWWl5cHhqYWNVTQ?oc=5",
+"source": "shattered.io",
+"published": 1792979261.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "6b7dba0bdcc1f26a",
+"title": "Tesla-SpaceX Merger vs Spin-Off Wave: 50% Hurdle [2026]",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPN2tlbEJCMTRnWmNhb1ZXNnBRX0NJc1g2UlhxLWRLbS1xcUF0VmgtS04wV2FBOWV2bGVvcEc1c0tVdnNOdTlyN3I3ZU5Wc2V0emJiRU9sOWU1X0Y4SHlGM2pLdGdJY0o4dnIwY0JYbFI1TXBtelV1WGlQeThCMjNzQll0R2gxUjJ2SkNlbEVHbUN3Z0F6Slludy1B?oc=5",
+"source": "shattered.io",
+"published": 1792979117.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "d694854eb5579176",
+"title": "Toyota Humanoid Robots vs Tesla, China: 97% Gap [2026]",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVFZEY2k0TDJfamw2eE5UT0o4MnN5MmNjeG5Ta1BMT3RCUWllRlZTSEhtY0Z5TjZwX1BnS1ItNE9ZOTFCUEZoMVJmT2EwRFJsRG9HMGNub2o3U3VVbkJrY2pnMGRzT3VmT0pzZXpMdjN5OVpheklZbnNfd3FUTXBYWFFUdmdsRkE?oc=5",
+"source": "https://tech-insider.org/",
+"published": 1792978608.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "29d26bf2d84b4c12",
+"title": "The Tesla-SpaceX merger explained",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1OZENPMjJsQnpiaHNteGZXc1VmNzNKUWFZQVdha1NaRU1ZdW5ZS3ROYUVNak1wdFRpYjlDM09rVFl3czA4cWFfYU4yWGlpNm5uT1N4UVBXODdwRTJ2aXQ3blBtSm85cXZ6N1E?oc=5",
+"source": "Finshots",
+"published": 1792978413.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "34155c14eb8cc59a",
+"title": "Microsoft Gives Arkane Lyon Another Month to Find a Way Forward",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVXR6RUFfVGdmNTFleVN1LUd2UGI2MTRYUFhSalEtOE9VVG1ZTVhCMG52ZUI2NzhEdG1tMU1mNVNraWJ0UGFXclVBYUtPSDJSeUpmVG1LRUthUm5yV0E2aWVGblNzS0dHWGo0N0J6SFFMTzJ1Vm4yMllzSFRBVFdVVjVGRHR1YjdpR1B0TEMxOWNhU080anNtczJHZk9SeHM3NUFfeGtlMXk?oc=5",
+"source": "wolfsgamingblog.com",
+"published": 1792978088.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
 "key": "6d2efe6297fcda71",
 "title": "Nvidia (NVDA) Stock Still Looks Reasonable Following Its 7x Five Year Run",
 "summary": "",
@@ -81,6 +202,18 @@
 "published": 1792976760.0,
 "stocks": [
 "Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "ac933f879aa02551",
+"title": "Microsoft Asia Lab: \"For AI to Collaborate with Humans, It Must Read Brainwaves and Cultural Context\"",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CWkI4NGFDS2tIZ0VYR19SUEJtUkFEUnl6eUlhN3pLc2JsTVY1OE9XUnFsOHRHNXZuajJHa1pGN25xN2JqVjY3MW93Ui1oOUN3XzVkVnRYZ3ZYd2ZFRHBFOFRMbWN0aWpRLTNVMXpXX2d5YmwzM2c?oc=5",
+"source": "BigGo Finance",
+"published": 1792976700.0,
+"stocks": [
+"Microsoft (MSFT)"
 ],
 "keywords": []
 },
@@ -107,6 +240,18 @@
 "Tesla (TSLA)"
 ],
 "keywords": []
+},
+{
+"key": "33086f185de59277",
+"title": "Asian shares make cautious start, Brent eases from six-month high",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZHdrOEpOUXZKVEg1NWNsVG14dUJiZE5MT3NKSlBRMDBfMUxHUVBqclNvV3AtNWJkZDBsRDRDTHJHVy0yREdjc244UC1pbWQ5VEJwTm5MOW96c243UGc0SG0xdEVheFVscF93TFA3amxMQko5eWUzbERPYk9aR2FJWFJfVzdXYmJ6RWVlS3R3R2VqdlVSQ2JlbFNqNVB1Vzd2aDJIaC16THU?oc=5",
+"source": "Yahoo Finance",
+"published": 1792975560.0,
+"stocks": [],
+"keywords": [
+"Brent"
+]
 },
 {
 "key": "982e9aa0007183cb",
@@ -349,6 +494,18 @@
 "keywords": []
 },
 {
+"key": "9e160e37e03d198b",
+"title": "Quote of the day by Microsoft CEO Satya Nadella: “We have to do something useful with AI, or we'll quickly lose social permission”",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8tQmNscUpwei1sSVU1VTFjeWdpOWM0ZWkxeG5JRG5GeVJxd1ZlZERDbDBLWmVNdGJJUExwZjVfekVhTjh1Q0ljM0ZDWV9oOUd0MjJLTElydHF1S3RsN1hTRndkak5vWlU1ZUYwdEU4LW9TcU0tbGdrVVpFVQ?oc=5",
+"source": "Mezha.net",
+"published": 1792969738.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
 "key": "514f6010ac7a528b",
 "title": "Tesla and SpaceX Explore Historic Merger as $TSLA Earnings Beat Highlights Shared AI Strategy",
 "summary": "",
@@ -357,6 +514,18 @@
 "published": 1792969433.0,
 "stocks": [
 "Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "cf79467824c00a19",
+"title": "Quote of the day by Microsoft CEO Satya Nadella: 'We have to do something useful with AI, or we'll quickly lose social permission'",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRmh3TGRrMjNLbW1RY3VtN0JNaFl2bm14clB4QTZvVjYyNFAzSENSZFFGTE1JMk5EOV9yc2l4X0JzVzJsX3hYZ2lNVHNPTnBMZnBsMnU0Tk96QU10b3dvSVVkS0FvaWxKUkNRVTZZOFE1ZnRvaXI3U2JZYVFwcVNoMGIzanlmZw?oc=5",
+"source": "Yahoo Tech",
+"published": 1792969200.0,
+"stocks": [
+"Microsoft (MSFT)"
 ],
 "keywords": []
 },
@@ -553,6 +722,18 @@
 "keywords": []
 },
 {
+"key": "3e5009abe44d9611",
+"title": "Tesla Unsupervised Robotaxi Over 1000",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYm9pOUFOMTNLRXZPdm5fWC11a3lFUlFza0FiLW5aYUhmLUJHa2VWcEdQcFdJSmxVTkZ3c203aFBYZGlJZ1czX19ySWFRRE50cWlOampNT2NWd3d0bU1xV0h1dlBEWEJSU01OV1pFbVJtclF3bEtiV3oyWDB6NHpWWTZTNUdvbDQ?oc=5",
+"source": "NextBigFuture.com",
+"published": 1792962546.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
 "key": "1fcbca200be206cb",
 "title": "Grok on Tesla Robotaxis: Everything Passengers Need to Know - BASENOR",
 "summary": "",
@@ -633,6 +814,18 @@
 "published": 1792960200.0,
 "stocks": [
 "Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "a9bc3265f79821f2",
+"title": "Earnings Preview: Equinor to Report Financial Results on October 28",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZUpPRFE4NU01Q1FKVElFZU43XzRGSVlwa3Jmd2MyS25DaFR4XzVZakIxRXFtRktDUWJ5a21Lc1VrekhjNFJhWmhYeHNRcmtPS1N1Yk82UmQ4NVVPeVZKOHV4UmFUTi1BNWZseGt3SHlFWC1oWklCU216R0lRbVVlM2pfT0xfdTNIcC1NREprX194amMzRHJWdUVIUFRmQmtqMnc1cXZaX25WUGFBTFpV?oc=5",
+"source": "Moomoo",
+"published": 1792959894.0,
+"stocks": [
+"Equinor (EQNR)"
 ],
 "keywords": []
 },
@@ -4686,198 +4879,6 @@
 "published": 1792871243.0,
 "stocks": [
 "Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "d53507c16eb88ff8",
-"title": "Xbox’s brand-new COO already leaves Microsoft after three months",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE52bTdjajU1b3NZeDEyM3MzSmttVG95UERIVngyYm9fdnhYak92V3loUDFKZGs5YllMb2FUR29ZVEJzejRZOGlRc0lkYVZWTjNxODl2OGR5eDB5T2JzZWh1SHYzUHdnQnJBV3RENE92QkYyN2pIOTZOM1hvU2E?oc=5",
-"source": "JournalArta",
-"published": 1792871184.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "f2ea8aff6e2e4056",
-"title": "Meta Platforms, Inc. $META Stock: Willis Investment Counsel Boosts Position",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONFFVcWR3X3I5bkZjTUxpTUdPd05MYnJ6bm1yNjlndG5sZjZCM0t0Yl9BdFJUdVBvR0VlN2paRy1GaVVtc2ZvSVNaVHdtamExSmlfOUNoRkhHaEpzaUVOaktyby0xX0o4bnhxaU9Lb290ODB3bE9iY1h0WGh1VHlPemxvdkhsOTFEdEQyVGl3V1JZZGVpaFY4N0E4X2htT21kVTNwQjdoY3pPUUFxTGl2TVg0WURtdU16c0std2k2SXd3UFc2TF9fZWIwRDA?oc=5",
-"source": "MarketBeat",
-"published": 1792871028.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "1e5dcfd06d3859b0",
-"title": "Marvel’s Blade Game In Trouble As Microsoft Hunts For New Studio Buyer",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5jU1dYMTJLaEM4aHZyMEluWGRrdmVjWDVTSUs5dnp5UzVvd1RZSGM0UURrWUNuSUZuckM5UTdTZ0xaYnNvRzBIZWNVcndBTldEdWF1NGRmMFAxVnNnQ3J2RXVqVUQyTk9ncjNiZQ?oc=5",
-"source": "Cosmic Book News",
-"published": 1792870877.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "97756f0f0ddd7771",
-"title": "Stock Market Sell-Off: History Says This Is the Best Move to Make Right Now",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5mVG5XZmZsanRxSzlFeWxHTkhfZ3c0WkZMOG5mSFNnNWFaZmhSelU3cE4tNV9fRmIwSFpfNWZDcXV0VUNCZ19BRC1zQllxdHFuWjVJNlBQVTBCVW16RjljYlFNUFZ0MlNPSzJyVGt4NWRvV3Y2WjF4SWt5eElDdw?oc=5",
-"source": "AOL.com",
-"published": 1792870860.0,
-"stocks": [],
-"keywords": [
-"sell-off"
-]
-},
-{
-"key": "a3fe4180f4824813",
-"title": "Stock Market Sell-Off: History Says This Is the Best Move to Make Right Now",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOV2RaNjdqQ1lMU2VQYzVmbWpuM1pzZkxHcW45N1dsdlRhOVY0ckRWMFRJQ2ozRTZTbHRRUGRPZ3pSdG9BMTNNTVp6QlRoUkJrczc3clE2WS1xOTRicmFpMVZ0akItVE1HUFZZYzR4Tk44bWo5eW1qWG56OUFHVE0ycGNJLTlzRzVLcDZRVC1OaThGWEVueWg5aE5n?oc=5",
-"source": "Yahoo Finance",
-"published": 1792870860.0,
-"stocks": [],
-"keywords": [
-"sell-off"
-]
-},
-{
-"key": "2ad5e82aae14e039",
-"title": "SA Asks: How much could Tesla be worth in a merger deal? (TSLA:NASDAQ)",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRGtpb3JCblBZOVZHbWwzTG40dE5GWEJMY3pmTEtJOGVVTGM1Z29KTG1YTXlHbDFJTmp4bkdxSFRwVkdDeVVYQUY1cG9IRzN1TUktWEszc1ZrbS0yMDVTcUFqN21HRlRRLV9LREl4SU9EVFRkZHFsNnVXTTdISjg5cXNRV0dPNEpRaHZQTU9BU0x5WWNaUGln?oc=5",
-"source": "Seeking Alpha",
-"published": 1792870851.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "8fc64121005128d4",
-"title": "What every IT team should know about managing Microsoft environments",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOXpUWHhMdWlPaXM2R1g4OWtIWTI3Y1dTSG5zRUVzM1JPbW8zc3gwblRBbVZfSkRjYUliTmZpZUJzemdOWk1sTkx4OE90c1dPNENvdDFWeVBXUThpMUxlVzc0c1k3SE0wN3g5bUo0c09jSUZPTDM4d2dIT2NwSm1BMzhfdHJJUXJWTEV6WmdzSE1aVTg4TTN5TzQ0QVZ0TzgzUkRrZ1N4V0xlWGVXN3BF?oc=5",
-"source": "mcpmag.com",
-"published": 1792870766.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "217ffa6fdea7bea0",
-"title": "Prime Capital Investment Advisors LLC Sells 3,897 Shares of Meta Platforms, Inc. $META",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOeUJBZUgtX3NkV2ZqUkhfcG02SVVRRy1sVnlxSEE5dFYyYnFJcVpfSG9ZVkc3MUlHdGl1bzZrM3lMQzgxQlpTai15VThlaC1IbDVnTTlqVWQxWUI5bmxMVDhwM1dTQjRtR1NvelR0UnNsdFNpckVFNmcyUGU1ME5Oa2FLaURTV2g1ejhqLUNudllpUkJQYlBtU0pfMFJQTjV0cUMzVEZDVlNCZWNXTVhTM2NsaG9lRE9LNEdKN0dvS1NHZ0hOd2drQmN4TzVySXVrUERGSnptWlloc0E?oc=5",
-"source": "MarketBeat",
-"published": 1792870608.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "e8e8ababf05f3c7a",
-"title": "Stock Market Sell-Off: History Says This Is the Best Move to Make Right Now",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUjF6cGRLcTFmaTh1T2R0enZ3OUtWdm5kcEY3blJRNUdySGhjNEF4a0ZfaF9vaHpKelhGbEs3dU03d1h5SVRpdjhoZFp2THhFUnh4b2dzRGhXb0NWa3JHalg1Q2FHRG1UdzVXeWdpWVZKSFo1M0pZQVpiSWQ3MXltbU9PeERjMExGeHIwS1dR?oc=5",
-"source": "The Motley Fool",
-"published": 1792869813.0,
-"stocks": [],
-"keywords": [
-"sell-off"
-]
-},
-{
-"key": "0b6f6a62e971279e",
-"title": "Tesla Plus SpaceX: 5 Reasons This Merger Is A Terrible Idea (NASDAQ:SPCX)",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPN3QwSjVqWjMtekJHZGhUNjdSWXVXRFA4WXRhS1pCM0NLR3AtQ29kSWNuM2oyOTlxRXp5SFJsM3NzV28tNUNMQVFlSTNhei1DMFlhUlQxTF80REV6Mi1Ma3BoY2hsQjU5elZGcEdwM1JSdVJxRHBDQWhEb1NJYXkyaFVuZFAwbEpOOE9qb3ZUOHdjVGxGZjNsVmxHWEdPcVRD?oc=5",
-"source": "Seeking Alpha",
-"published": 1792869542.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "d78dc3a3e5f8f5da",
-"title": "Nvidia Credit Stress Could Lift Hannover Re Stock And Other AI Insurance Names",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMndMTWQ2WkRmcXlmMG93d3NhZEh2eG1lbDFBYkIya2ZVTUc1VmF3bkdfT1dnWXJneGpHM2tCNURadldZM3JZc1JZbHNqb28xaF9nVEFjQW1XVHdRMUt1U1BmWW1rWjFWVEdicEo0OTE1WU83T05DMG9hT1JCMS10N0F1TlhDYVZ5OHp0c2dHMm1qemp4WlREZ3BjNWU?oc=5",
-"source": "Yahoo Finance",
-"published": 1792868964.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "b66bc6bb9fb41954",
-"title": "Tesla Thought It Owned EV Charging Forever, But Ionna, Rivian And Mercedes Showed Up to Take The Throne",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRWFTMHpQZ2JvNUJ5cF9fUDE4UGpzSHk3U3RNM2IyYnBhTDN5UDBGZ2owc1NBdkp3VThYRExSOEZGelBXMWQ3cXZ6SWZILXk1VU1mdFlYQkhiaWNmcF9TQmhFcjR5b3JUWVM4YTJpWmpKVEdCY3h5Q0pIV2ozcVpTRUZCRU5JSk9jRm5xNVA1VEFCTWY2aFBzVA?oc=5",
-"source": "CarBuzz",
-"published": 1792868594.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "78f146f556938b14",
-"title": "Mercedes-Benz And Nvidia Are Taking Their Self-Driving Partnership To Level 4",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSjdFbE5UNFJNYUluMnhDd0xoZm9WSWNZVXpZdHRPYzRYOXhicjdyZDBIUXZ4dWtoNVAxS1N4Y1V1akR1c2I3dVJ4SVBuLVRiM3BiMGFxNnRETW9UR2VyWklpWjFxUGNzejE0blhFYU44U1NVcmlHODRLbUVYUm9DNHZiS19jbkg0TVFRMzlBcEJMNENwOUE0RzJTcE5PTWtj?oc=5",
-"source": "Yahoo Autos",
-"published": 1792868455.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "78ebb85def4899c8",
-"title": "Vallejo Tesla FSD Crash: Dashcam & 3 Open Questions [2026]",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5jZm5femQxSE1WSTY5UF9qT3ViWEtBTFhXMElZRUl1X1NYM3F3WUhSQ1ZPd01wM0VPaWkwMko3eFFSdFptOFFLVUNLeW5MNkpJWVhSRDJRQmhZZ0dteHE4dzN0bzZTdnI1YVFnakE3aDhFbl83a0dMbm1fY3NKZw?oc=5",
-"source": "shattered.io",
-"published": 1792868417.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "c68f7e4cd09d937f",
-"title": "Tesla FSD Update v14.3.13 Rolls Out in 2026.38.5.10",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9aT042SHdJMkExTzAwSXIwRnd3alRHS015RjNHc2lsZUZyN0Z2Y3B5ak1MeEViMUlKWDB0VjltNE9QZ2F6M2lzS200WldjM0VQS2VMUl84N2EyMERWQnRmRWVnZE9ndWlxX01kSmZFRnU1TWM?oc=5",
-"source": "shattered.io",
-"published": 1792868381.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "f4d37a0797a71292",
-"title": "NVIDIA RTX 30 & RTX 40 GPUs Get Impressively Fast In AI LLMs As Compute Doubles With New Unlock Tool But Prices Surge Too",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVmU5b0tIcFNQMGlTRFdkdF9XVlJRS2s1TlZOYkdqQmtzWmY2eC1nWGFMeExROHhIQlAwS2YzQl9KQm9hS2pBQm5CdndyZGo5M19ONFVBTDU3S3p3SXNyVkRIMElNS0lKckpTTWwzRFVaUGcwZnJfbDRNQUNCSlFaeU1HZEpha0ZIbVdLaDdtbWo1ZWt5dTFVRUQxcTVUc19nQ2N6UnNpaWRHdlFqZTBKdtIBsAFBVV95cUxOVmU5b0tIcFNQMGlTRFdkdF9XVlJRS2s1TlZOYkdqQmtzWmY2eC1nWGFMeExROHhIQlAwS2YzQl9KQm9hS2pBQm5CdndyZGo5M19ONFVBTDU3S3p3SXNyVkRIMElNS0lKckpTTWwzRFVaUGcwZnJfbDRNQUNCSlFaeU1HZEpha0ZIbVdLaDdtbWo1ZWt5dTFVRUQxcTVUc19nQ2N6UnNpaWRHdlFqZTBKdg?oc=5",
-"source": "Wccftech",
-"published": 1792868100.0,
-"stocks": [
-"Nvidia (NVDA)"
 ],
 "keywords": []
 }

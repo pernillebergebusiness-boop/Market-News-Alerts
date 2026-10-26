@@ -1,5 +1,5 @@
 {
-"updated": 1792994479.4818985,
+"updated": 1792997620.2232518,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,12 +73,109 @@
 ],
 "items": [
 {
+"key": "b365aa94c5df97f7",
+"title": "Remittix Presale: $33M Raised, Tesla-SpaceX Talks [2026]",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE03ZlFjVldNOWZqUlJ1eEJ5TzV3RVlPbktzcWUwWFRGWmpWS3BLbDF6emEySGhYeERKbGlHWnZocWNkSHFxSDVfSHY5eVNncDdjTzg1VmhraUx5RXVfM19xMGJUOVJROU9xVHJCTGxVWC1NUTlKZGNweHl5ZXBzQQ?oc=5",
+"source": "shattered.io",
+"published": 1792996459.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "ac394d2ac5c7ab6d",
+"title": "Update: Market Chatter: Tesla and Nvidia to Invest KRW3.7 Trillion in Samsung Electro-Mechanics Chip Substrate Facilities",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZlVDTTFJM01EVHU1Wk43NzV4QjlRbUJDN2tVQWcwWFJLMkRmcURoSlpHTFdVOGltdkV5SVhQQmpLZDRhVERsVHVOV0hqc05sZHRIT1hhVU5FMDZPT0tGUFZIUEE2ZjgxSm9ZVlE1V1pUZUIzRnM4eFZwVGJHNTJuczBaOHhqc21CMDdJb3VUaXV6WWlwRTZvTXltQ2RZQVU?oc=5",
+"source": "富途牛牛",
+"published": 1792996201.0,
+"stocks": [
+"Nvidia (NVDA)",
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "a53a8705baa5fd23",
+"title": "Tesla Stock: Fairly Valued With Little Upside (NASDAQ:TSLA)",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcmVhdFhBT0JoZlY4RlBaZ3VfaFc5QlFSMFM3ejNmeDI3MGlUWEFabnl1Zlh0NmNsVXFtSUNjUjZYTTZHcjRXREJMZndnenZicnNqMkZtelU5S3JObk1HeXdhVVltSTgyUzRZelpxQ1g4TDYxMW1YNEFKNEdkTnFmOTYzODU5Zw?oc=5",
+"source": "Seeking Alpha",
+"published": 1792995946.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "c868d656b37c01c6",
+"title": "Microsoft CEO Satya Nadella's compensation drops to $91 million",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYkdtQWlQSDFsdDNieGlaMmRLRmpfSXBadktocEo2MXlZNzlJR0NUcGRJYXNldVhhQ2pHbUZkeUQzQTBBV01xRkZ3OTN0S1JtcG1zUTZRdWhyaU5CNngtSmxTVXJIMkVIc2dkUnVzd28zdUJMN1drdzdqWjdqbFVNRDFBUHFPTi0zQjNsQ0pGY1FpZE0?oc=5",
+"source": "The Business Journals",
+"published": 1792995600.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "da7c59727ff1c838",
+"title": "Microsoft's $525 Test on Fed Day",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5fbFkxZmZHNldnUW9heG9UNTl4WnlYQkpMV2RURVpWdEpZSmRzeUVTeEM4SEtTaUwwSWtKbVNiNUxLbVdodXk4UzJrQmthdDdCbno4aDUzOThSZERKWE1mdy1Ia0R1dTdzN3Voak9IUHVwazIyb1FoNWxCSQ?oc=5",
+"source": "Money Morning",
+"published": 1792995576.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "c0319a6879edff8d",
+"title": "Remittix Hits $33M Presale: Tesla-SpaceX Merger Buzz [2026]",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZWo0WHdlNjFNdjFYSzAyUHpDcnVLeGlTSHdNbHppLTFxaURyUTNoa2l4OGVQN0tla21CUm9RaDk1TVZMUlM5Z1djblVVZVdDVDFFcWp2UHZRWkVaOXlzVjE0cm5aNEVSYk1UUk9uLWNIb3RPcDJrZnN4Vk1HckVtbDJ0Yw?oc=5",
+"source": "tech-insider.org",
+"published": 1792994728.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "f298a277072c95fc",
+"title": "Nvidia's Jensen Huang Demo Sparks 'MicroDuck' Duck Robot Craze — South Korea's Robotis Shares Surge 13%",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1vbTRnNFZDNzRJRmpoR0dwLU5uOTNEVEF6OWY4VFFzRVBDY2RYVS0zaDNlSXpsc0x2ZHFxWGUwdEVhWV94T2I5Qmo3OE45b2J1RktmdWlwaml1X3hSdEhkazhldE1sdXRDMUZ4YWk5LTB0aV92VEE?oc=5",
+"source": "BigGo Finance",
+"published": 1792994700.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
 "key": "1790cdeb4b2d0408",
 "title": "Director-founded AI startup Destiny joins NVIDIA Inception",
 "summary": "",
 "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBkTUVDVmFSM3F6YW1qaUIwN2VsVERJbENGVVhQenAxTkFERHZDeEJDNmVJQVFlVG15VHM1UjVCQ0RNNkZMbkFwY3l1SDYtU2ZvQWxIcXppaHJ4ZEVDZC1rUDBwSGlXQQ?oc=5",
 "source": "K-EnterTech Hub",
 "published": 1792994445.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "6714221092519402",
+"title": "Nvidia Floats Charging $2,000 a Year Per GPU for Its AI Agent Software",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNFYyZW5FUDhRVUR1clY2OVFNWmtjZU5PeGxJZHc4blp6WFNlM2xWd21vQVp3SGhRODMzN0VoQ3pBeUU5OWtMZWMwU1JBZ21HR3RrMHBaTTU3RTBUd2ZWdUNHTkFfdkZhTFVQWTI2NG9EMlE2VUQyOV9uRHJoaEE0aVB3RTFPU09hNHBsTjNadl85TVEwUWZiaW5BWUE?oc=5",
+"source": "Startup Fortune",
+"published": 1792994324.0,
 "stocks": [
 "Nvidia (NVDA)"
 ],
@@ -93,6 +190,18 @@
 "published": 1792993835.0,
 "stocks": [
 "Nvidia (NVDA)",
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "71267110be11c605",
+"title": "Tesla, Inc. (TSLA) Stock Forecasts",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTnRxanA1NkxRYjNoUjlnekp3M0tGQkVSQ1NCc1lXaEd0c0NWa3p0bWxnSHNpLXNXWlFwVXNZaVkxRlJfS0JWQWVITkx5N3IxWnhmbHVDTHl2b3gyYWVGRFFCTEkxMW1pQ0N4YUUzckZkSGJ3bjUxOVl4N0ptQ2l4UEJ6ekVXVTB0b0NKUA?oc=5",
+"source": "Yahoo! Finance Canada",
+"published": 1792993374.0,
+"stocks": [
 "Tesla (TSLA)"
 ],
 "keywords": []
@@ -142,6 +251,18 @@
 "published": 1792990861.0,
 "stocks": [
 "Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "ceba89886295d272",
+"title": "Weekly Recap: Q3 profit decline and AI RAN tests with Nokia and NVIDIA",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTmhWSno4UktONnIxbzI3cU5xU2ZSN0JsdWQ3RmlUNzFMX1ByaFhUWktiRTVKNEQ0cmFkUHd3blR3eVJOUGZCTmczX0tsYlhqZlRvNF9rRHpFa1V1bmx1N1dvNDF3aTduOWRNOTFQemJWVVlQSFpUc2FsMXI3NWF0RUZrajZkaHQ0a080WlV5aUpwenpUcUJEdjBreF80eWx3b2RUaWpCZ1FHczM0MFZJNUFzd0ZuUG04UVEyNVpYRkdkUkxjMDc0dGNHcw?oc=5",
+"source": "TradingView",
+"published": 1792990800.0,
+"stocks": [
+"Nvidia (NVDA)"
 ],
 "keywords": []
 },
@@ -493,6 +614,18 @@
 "published": 1792980642.0,
 "stocks": [
 "Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "1ca1337521dd25c1",
+"title": "Tesla Cybercab Adds 2 Rider Features in Austin [2026]",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcHRhNFNIZzdjYWFPSGhZTDlMVDlLRVVJeTlWUkRuemE2TURZN3JWcnM0UFFZc3ZrM2YzMXAyYmdiOFlfME1oeENZMEpuS2tEVW43RzRZbS16RHFXeXVpcXo3OUQwMkRSVkpVdWtPazV3UnFjV3Z6LWN5MUNkOWNOdw?oc=5",
+"source": "shattered.io",
+"published": 1792980617.0,
+"stocks": [
+"Tesla (TSLA)"
 ],
 "keywords": []
 },
@@ -4744,142 +4877,6 @@
 "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaFFxZjc3Ny1ORXFINDBkWElMN19GN05yRlFHMmJmbWtRM1ZRcHZiNENfM0tSS25GbzBVaExrWXF2QUg4c3lKRWZnX0lOUExOTEt3Q25CNXlmQ01UVXZtMmFZR3FtS3l0Y2FZRC1IeUFzQjZtSEZCVWEyWmdyd05oUjZ5T3BzdmtlYXVJWjRJb285VzNoREROTm00SkVTQTdEM2dWMUVGVFg?oc=5",
 "source": "Turlock Journal",
 "published": 1792897293.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "0fea399108a6c26e",
-"title": "Denmark ditches its plan to replace Microsoft Office with Collabora because it wasn't working with OOXML files",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeGtKYS01OTd5T1pwSXNEOE85NHY5U0dPYUlFajBIMkNtTlNNYmkwMHhXakFRVUFqV3JOTlIxd3d5STZlQjZaU1VsUWhaUVJUSzlYcDIxQl9XVkRXLUFqMnhIeGJxTHRENFNNaXVySUR0Q0NMQVMxUmJVaG1sZGVrdVl1dUZQZTNtMjRreUdsYmJ4MHdWT3NGenhyd3JkcnRlM2pEOVdKcm16S01aa1FDd0t1Z3h4SXgwUWVoSXoxazJwQWVrTVdBd1lXRkJ1czZvcGtN?oc=5",
-"source": "XDA",
-"published": 1792896960.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "2af2f2492d643e8f",
-"title": "OpenAI, Microsoft executives’ quotes on AI training threaten copyright defense, news outlets argue",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWTZuNFRvQkI3c3VuSEJac1d2X3hYeERxYUhzZVhwWXVCQ0FpbFl6VlFHc29DemdiVzJ5MmhLUVh6cldxNm5DeGxvYzg5dGlMWWxyUFhNVHVDbkVDcURhd2FfbXZ4bEdvdW5FTjdUQ1dWbHRlMG91RGxxVlJUT0JfQzRmcEd3em1GVjdQNFBkVmN0U1lKakpWN1hFRFI2MEZpS212NmIyeUZjNjFtQWkydngyR2RnUjhlbmthT3dn?oc=5",
-"source": "DD News",
-"published": 1792896739.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "b6d0c2f5c4024756",
-"title": "2026 Tesla Model 3 vs 2026 Kia EV4",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBFcGJEM2xjcEdyTDJYcHZoblBwMjFxRjZIWDg3Q2ltMTBLZnU1dFlOcXpSNi05OV9MeXBYcnh6Y0NjZTdHX0hqc1EwSHphZ2R4ZTdLSWVrcE1SNlVrV0RaMnFsMXhHRVhEZHc1alB6UVZrZGxzY3ZzbHdB?oc=5",
-"source": "driving.ca",
-"published": 1792896358.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "cf62fe693b890ef9",
-"title": "Microsoft Teams to get AI-powered phishing detection in 2026",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPN19Pb3czemZQUXhReFpmcDFDY3V0ejFRQ215STRyZ1Z6X09TR1V0ZEN5LVl6Vnc5RERDaWkzcy1aTVNKVkxJVWxfc0JPWGphY3o3dnBvdlZQc1FxRFhOTWRBTDNJSUZpeU4zakdwS1hLR2Rqd0xsd01IczVYMi1jenFqYmVwMFAzN0FGd1V2OHk4QzdtblVMZnFycHpROE16cVRPU2ZfdTRQUGFfZVp0b1RXVdIBswFBVV95cUxPN19Pb3czemZQUXhReFpmcDFDY3V0ejFRQ215STRyZ1Z6X09TR1V0ZEN5LVl6Vnc5RERDaWkzcy1aTVNKVkxJVWxfc0JPWGphY3o3dnBvdlZQc1FxRFhOTWRBTDNJSUZpeU4zakdwS1hLR2Rqd0xsd01IczVYMi1jenFqYmVwMFAzN0FGd1V2OHk4QzdtblVMZnFycHpROE16cVRPU2ZfdTRQUGFfZVp0b1RXVQ?oc=5",
-"source": "TechGig",
-"published": 1792896054.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "2b4efdaabe4974e2",
-"title": "Elon Musk Says Tesla’s Megapacks Are Nearly Sold Out Through 2027 as Energy Demand Surges: 'Ramping Production as Quickly as Possible'",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQT3phSVFkUTI3Qm1nMlVSb0tNa0ludGJXQzFRS0JRcFVoNzhOaEJ3b3N4VlNZdkZGRTYwNTl2QUI4Y3h5SWM2WDBqWEp2WEJNc3ZyNDkyUGJ6S3lxR2UybldrN004Z1UtU01EcU1iclJUV1V6S05DQWlLWTMwQkQtSm1ReTdTeFNMR2dDY25sb2U?oc=5",
-"source": "Yahoo Finance",
-"published": 1792895400.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "7ac1b102bbe2060d",
-"title": "In 2008, Elon Musk borrowed money to pay rent while saving Tesla from bankruptcy; 13 years later, he donated $5.7 billion in Tesla shares to charity",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQy11M0ladkxHTUdCVWdCZVpjT0J1bDJlREVNLTVvcFdCQThPQmtJemdycG1XNk10Z3lWa0s0ejkyV040YW5kSVRwN0p0QXpmUzRvSkk5dFhCWWRfaXRybnVMaWVLNmxxNy04QlB2RC1odzdrQ180SjN2ZUlBdG5iSmtKYy0?oc=5",
-"source": "Yahoo Finance UK",
-"published": 1792894980.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": [
-"bankruptcy"
-]
-},
-{
-"key": "4928d0226ee2202e",
-"title": "In 2008, Elon Musk borrowed money to pay rent while saving Tesla from bankruptcy; 13 years later, he donated $5.7 billion in Tesla shares to charity",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPSFhUQ3hJNFpmZWpyYWRueDZfSC13R0FFZnRqa3ZrWlV4WjU2SWVwVkcwWkpibE0tejU1elZuSmoxeE1NYnpneDdhTWRsTlJoblRQQWY3NktpS0VSa3lYLUVjTXVrN3JaNG5rZUJ6WVNLSXZkOVdlaENEREZ3Z0FPSDR3a0xjb2x5aVV4ejNoVzhnM3R2bDRfWU00QnJNa1VCakNBbUgtUFFnQkpzU2RjclU3MGVQbmVCWThIclIzN1BmWEVpOGxqNTM4X2twanNmLVhJekhBQThOVzZLSkpQMEZBQ2FUcjFDb2tWUE5LTV9ZLVpLRFZ5QnBpaHg?oc=5",
-"source": "Parade Magazine",
-"published": 1792894980.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": [
-"bankruptcy"
-]
-},
-{
-"key": "39eade95c1c32785",
-"title": "AI arms race heats up upstream: Reports indicate Intel, NVIDIA, and AMD have prepaid over NT$100 billion to secure capacity for high-end IC substrates.",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOay11Rml0dXg1Y2FFSkRKWXFQZDgyck5Cc1VSa2hWVGNSV25tTnl6NUNfMVduRm9yYWV4d1lxX0pZYWdtSUlEZTVmekJjMGNjNUd2MDE4WWktUUF2eG85YWFRcVdFaW5mTEIzVU9fTFY5bTEzMmVZLUxBd2hlSVpfY3N6UER4RDFkTjJpSmR1QndSWEZycW5rd3JRYm5WV0ZEbHRUMlRn?oc=5",
-"source": "富途牛牛",
-"published": 1792894482.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "a18ac85c7f1d3efe",
-"title": "OCP 2026: Nvidia, AMD, Intel Pitch Open AI Racks",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBSam5sZmVJR2k2M3d2NmpDeVQ4c0RlNHhlOW1xb0Z0Y3RKR2dtTmUxQVpxSzRYcWZlQUU3djVBdW5WYTdncFZxWjlOWVh0R1lEQm5hVGF1cWtlV2QyODRsTjA1MXotQU1mZUtETjZhdEthV0ZJ?oc=5",
-"source": "shattered.io",
-"published": 1792894223.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "2c03e9aea56359b4",
-"title": "🧭 Nebius’s $3.5B Loan, Microsoft’s 1.1GW NiSource Deal, Aolani’s ~500MW LOIs",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ybVVHaDFGVGo0T0xpTDAwNXhVUkJ1aWMwd21CY051d2JhMkQ0NFVrTU01TVlaTThka1NFTzhidE1tUnE1RFhVa1ZTUl9hR01EM2szUzVXVDFacWN1N0pVd1RTRFo2YU1QTHdzaTViaFVEUzlvVEZPa25R?oc=5",
-"source": "Global Data Center Hub",
-"published": 1792893652.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "6ef7db9b2eb09f76",
-"title": "🇺🇸🔥Finally getting a look at the INSANE Tesla Roadster The supercar is sitting in the lobby at the Petersen Museum in LA…but only until Tuesday. ⚡️ Writer: Bri",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4cTF4U2JTQjV3eHZuM3h2NkV6YU5yT1MwVE9NXy0wanBoQU91d3EteWo2TVRpcTdRWDJ2b096OU4xcFdfQ1lOOGdFTzY3NGpHX3h3MmNBSEtiZHdlaHl0emQtbzhOU2xZbDBMTA?oc=5",
-"source": "X",
-"published": 1792892700.0,
 "stocks": [
 "Tesla (TSLA)"
 ],

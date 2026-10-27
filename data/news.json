@@ -1,5 +1,5 @@
 {
-"updated": 1793132864.0757096,
+"updated": 1793135031.648877,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,6 +73,54 @@
 ],
 "items": [
 {
+"key": "a3cca21f738be376",
+"title": "Memory-Enforced GPU Sharing in Kubernetes with NVIDIA CUDA 13.4",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeXRFNWJKdFVLNFh3bl9KQ0Q2QmsydTVDM2JxNWJaeEJwNGVKd0VEZzMwWFhoSDJITGc4QzdsdEc2eExad0QzVURLU2EwM2xjdDA4aGM3NVhPbjVhYldiLTJDN3Q1OXZQTnN3aHh1ZlI2bG5FM2wyVHE4R1AtaXk1T21VVkpLcWZjMlpzMFl0M3lwekhaR3dxODh0dGhKY3M?oc=5",
+"source": "NVIDIA Developer",
+"published": 1793134701.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "f6b570e09f35be36",
+"title": "Growth Leads Before Fed, Huge Earnings; Tesla, Nucor, Tenet Healthcare In Focus",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVXRacnJCZnJ6NUhDbW1KZkFyRjZacnRvc1NzSzNhRC1HWFltTDRHbWhmeUFEWVhTNW5kNlhxOUJDLUtxLXdLLTNwQ0tUVVBiMHVrcUdYYlBNUVdka1l2WWg0SnVXZERGaVZEUGo2M1ZWTzlNbmdta19RVE85UVhIWi05YjQ0YWY4OXc4dXk5bw?oc=5",
+"source": "Investor's Business Daily",
+"published": 1793134691.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "817eafd8c83114fe",
+"title": "Nvidia Vera Rubin and Vera CPUs now generally available on Oracle",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZExmMUs5T2pCQkdfNzVjVUEwVDlQbmpqMl9BYWQtTnQ1NUFYLWUzajBPLV9VaXRCOFRKUmk5MnRFN3I4MTdZTDhHaE15MzdwQ2F0YU5nVm5nWXpTTEZhNk9uSllsakUyRE54NWU3VEI0WjE3WGQzUTB5c2NxaWYyZ1NqN0FmZXBPZ2pJaG1MYmswek4xbk9OU3A5Z1pSbURLd2pyVWVuU2V1SHV0eUE?oc=5",
+"source": "Data Center Dynamics",
+"published": 1793133746.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "277c2693fbf61517",
+"title": "Meta Platforms Options Spot-On: On October 27th, 574.27K Contracts Were Traded, With 3.25 Million Open Interest",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOM2FGbUJITVVnallmUkpPcExZS2pjS0VkQ3hLTVZPV1k3THM2eXh4cUNnOXlSbjZKY0JpTHdmbnowS3FuYi1HZkQzUEY2anR1d1FhbnZxZkZtVFIzUW9PRC1WUm9yZFl3LUM3dGtCRzA0MjIwVjUtUmNuZFcyR1lvbXY3YjRheUpSZzFlUElxTGdNSGIwdWdoVFNaeXl4YVE?oc=5",
+"source": "Moomoo",
+"published": 1793133431.0,
+"stocks": [
+"Meta (META)"
+],
+"keywords": []
+},
+{
 "key": "e8fa3ab355032f94",
 "title": "Houston gets larger Starship-shaped Tesla Robotaxi geofence, Cybercab + Model Y surpass 1,000 vehicles in Texas",
 "summary": "",
@@ -95,6 +143,18 @@
 "Tesla (TSLA)"
 ],
 "keywords": []
+},
+{
+"key": "357c80da1f319aaa",
+"title": "US Equity Markets End Higher Amid Broad Rally After Drop in Crude Oil Prices",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWEtMbndCLWc2U3Q1ZU1sX21pTndXS0pfT2xWTm9fMF83MHlCWW1BWjRjTGhHSHRGWmhLdVp0MFhlLW5fdzh0NGUwN2VKX25oNHh4MURUWThxazduZXhQaHZyeHBjNHZXOFpVVXc0am5HRUU1di03ZTBfU1hCajBZTm1salkwOERtWlBMNldFV1BEazdORjNocA?oc=5",
+"source": "Yahoo Finance",
+"published": 1793131646.0,
+"stocks": [],
+"keywords": [
+"oil prices"
+]
 },
 {
 "key": "9ca80f214970101e",
@@ -187,6 +247,18 @@
 "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdVhwcUx0dnNxZE5aM2VDREstVk1TcGctYXVaZTRMOTBDbFBQZm9JcWxXZHo4TlphelNLMGlkQTFUWjRfY1k5WTF1UjhSVmh3T2NVVHpNWDV5UWR0Q21XeGswN1pCdTQwOW5PZTJrb0p4MGg0TFFGOXBONTBoMnJQYVQ2TTQ1U0JhamxpMWJn?oc=5",
 "source": "driveteslacanada.ca",
 "published": 1793130241.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "c3b46522c0b5a433",
+"title": "Tesla's Cybercab Fixes A Big Repairability Problem With Its Structural Batteries",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWXhKM0o5WlI2Q1VHTm15RVBlWUxybS1pRlBzMHNYQnIwbVBjTzlyRzlHX2Vyc3JkRUIyVUtlRnctR3B5TEpENVlzdWc3eEtydDVMMDdWMW5GZmlRa1paZ1lkTEM4Z0ctUHVvdHFYeTkybDkwWno0QlFwUjVDX0pXbm9LVFMyelB4SXRZNE83VFg0UU0?oc=5",
+"source": "InsideEVs",
+"published": 1793129898.0,
 "stocks": [
 "Tesla (TSLA)"
 ],
@@ -307,6 +379,18 @@
 "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTnJfUHJXdDh1LVFMQmQ2eGg3VTNWYk04bHp3dVM3ZDc3d2ZRdzZ2T2pMa3I0U0wzd2hyRFRiSWtVNzNOMmFPWG5sd0QzZWx3OVlobTdyMURUa3Q0cXIxOFkwUTRsSjB0YVNYeWNZb0ZWSU1keGt1WW9Odmc5Si1HZDlXNm1nTExoSGpYWkhvMVM5S0ZCOVVRM3oyYVRhdFdWcUJIZzNvaVJXc3lScjVZUEo1LVc4djY1bHAtS3FfMXo4NzdxNkQ1UGxPV19LSXdBYzhnNTBxcWFMQzd3VXI1bWFR?oc=5",
 "source": "Yahoo Finance",
 "published": 1793128221.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "fd56d9c9d0f65dbd",
+"title": "Microsoft Walks Through PostgreSQL Database Work in VS Code",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT3liU3FGVl9rYTdDd01PSDdaQmlOQm5FQmdoUFoxbzVmd29wblhjeUZ5MWJiMVFKajlpRm5vM3RVX3NwTDNPVzFDanl2UEFzTHRMZk4zcFdYamVaOEhoWDZLZm81THdXbWRXbWRjS2ZINTRWdkFpNmpxSmF3QVhMN1IwQnAxZnNaRVN0ckF3ak9OT3ZTZjQzaEpRbzlHOTZXdXE0Q1NNRjJQMDlUeDZNd29Iam5jdDlm?oc=5",
+"source": "Visual Studio Magazine",
+"published": 1793128097.0,
 "stocks": [
 "Microsoft (MSFT)"
 ],
@@ -1888,6 +1972,18 @@
 "keywords": []
 },
 {
+"key": "b1195199adaa0948",
+"title": "Tesla's Q3 Per-Car Fiscal Metrics Show Minor but Important Progress",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONHpxcXF6WEs5NHMtQnBEVDlpczRVVUxrMDhQVHJMQ1AwNkNYXzdmbVl6QlJWajEycVhsSHdKZS11ZU9TXy1XQkE4WmZ2eEE1RlVEdkpSOWpXSnRSbWRoUGYyMVo2Q1dzVVgtQ2E2LXI2ZEZCTDA5OENEMy1vX1d2dzdJQUpsWFdWSnI3Tzh2U2VIaVk?oc=5",
+"source": "Yahoo Finance",
+"published": 1793115360.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
 "key": "8f980f5f53900714",
 "title": "Tesla's Q3 Per-Car Fiscal Metrics Show Minor but Important Progress",
 "summary": "",
@@ -1995,6 +2091,18 @@
 "keywords": [
 "selloff"
 ]
+},
+{
+"key": "0c3ae44b04ea8b79",
+"title": "Google TPUs Are Cheaper Than NVIDIA GPUs, Yet Anthropic’s $63 Billion TPU Financing Hit A Roadblock Until Broadcom Sweetened Terms For Banks",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZnU0SEVmMnV1RnA1VGU0eGw2TjhJakFuUHJzWWlwM3pEWmJXLXhsdno1eHFycVJMQkV3QzQ0TmlFbERGQ3NJSU1WWUszZ3RYVGxnRkNnMUJWbURoZC1fbnJsci1WOG05dW8zaFp1X2ExU01fT1daOWZZQWtfM085RXNBSkVLQ25fOXFlNVctZ1dscUYyMDk0YWp2aVdURFk5VjMwWTBYOGtTTnR6VGszdUxVaG9HRktJVmt2a25FckhRTGZndW5nbFdTeEZ2NTVzY0NHSWdIUUN3MmtyY2l1QTZPVXAxU2piSXNpU3FxRlNEd9IB9wFBVV95cUxPeHNsM3ByUjNnZlcybS10SFNQM1JpMXJxY2VYR0xMejJsN1duZ3U1LTNwd1BCWDl2TFV3VlotelZ4bmp3c1dzbGg4N05fdVY3SHJ2bnZZQXMtbmMyUTJuVjFrdU9ycmhQWFlOd1NmUHp2OUNFQnRrZVNRN2lheW1PelR1S1FlS2pVeGFIZUFrRFFSaV9kdjJndy02VjF3cGVXOUFHcFRDcGFDcEZ6ZlFMVkpOMTNRUzhzbEFYSVRwek9MZEVLUm9oQ1EtbVEyNWpyV01jR1JmbHFSb1l6R1BaTWRCTHZWQjRZeGhtQVhaYkphTm54VG93?oc=5",
+"source": "Wccftech",
+"published": 1793114863.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
 },
 {
 "key": "fef865a5f8e5e4c0",
@@ -4768,115 +4876,6 @@
 "source": "Big Country News |",
 "published": 1793095387.0,
 "stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "198d155469f0dcb0",
-"title": "Microsoft Alumni Score Funding to Build AI Agents for Finance",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMG1EMm1zRXd3OGdKaVRHdTgyMmpGWFMtVnZnR1U3a1paTWlvRWpYSTYxRE1walUtdDVudk9NNFlrQnhjX0gwOEgwcG5EajZmZlcyNGF3bzdlRFhxZlFuMmxIVnBIZzJEMExsREVmTDhrdkprcS05QkhoZVpsampQYmM5R3hnWjFiY1R3aHpOMXd2RkVaMngyUkZyN0R0TTJka3ZnNVR5aGRNYk1SRzVac3p3?oc=5",
-"source": "Bloomberg.com",
-"published": 1793095244.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "7ce639aad22c58b7",
-"title": "Microsoft offering buyouts to 60,000 workers",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMjBockdFRGt0RmRZOFBTSUlIb2lLTmd1Znd0dU9MQ2ZlaXp2YTNfV0h6dFZrV0Mta1dIQlUycGRUQVpxTDJlWGZRUTdVVnVpYTVlRXJhUjBDbkJJR1ZFcWhhRlY3Z2RrMVhRRGVjR0F4YUdwT3NlTGhyNXRMU2Q4N0lNYTVaZw?oc=5",
-"source": "WLBT",
-"published": 1793095243.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "49b0d34f4755b863",
-"title": "Meta gets $3 billion from Nvidia and plans to spend more on Nvidia chips",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYWhlTVNVd2xXZ0JoZGE5RnpuRjVZbWNPdDZ5YjhfZXhFUnV5ak9PcC11YzRGd3J5R1NJdE85UUswR09iemZuN05IeDA4SFZNSDJkbEhEZ2ZEdVR2RDNuYnU1UzRMYXZsM2dFWDBjMHAwZ0JTZ2hwSS03RnJoRWhDdkQweDV4SU1DTUZVMlMxTjYyWHhjSGdyelZYZDE?oc=5",
-"source": "the-decoder.com",
-"published": 1793095240.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "f2944c8e881f80b3",
-"title": "Hiltzik: Who would gain from a merger of Musk's SpaceX and Musk's Tesla? Take a wild guess",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeGJhcUU1ZVpoMS1aN1RMTFJFaEtEZ2ZRalp2SGJBZjdTR1ZKcDFTSGdkZDRKc3pvTFNHMEVtYmgxVVpPVEc1dlZ1QTlvQ3llUTZUblRRMVA3c29nekkyX1pQQ0xUTlJIQk1ZSXN0WXRMczdIRWxDc1IzcjR1NmN0dHZjNW1ZT0M0LUNrMndGWFNycDNsbEZEeE1laEVGZw?oc=5",
-"source": "Yahoo Finance",
-"published": 1793095200.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "afe630656caa38f5",
-"title": "Commentary: Who would gain from a merger of Musk's SpaceX and Musk's Tesla? Take a wild guess",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYkRSZTVmZWRLejBGVlpEZW1tUHFEZnVBY3l4SUpxVWZFano1RVdvczhZelV1VHNjX3pzSTBJdlBIS1AwbHZ5UG9Ga1hjNmFVWHV0WXl1eGdoS1kzdnlJaFU4R0FnbmVGVWFkakxJSVItbE5MTGlobW92THhUNHMtbWtDc1ZxdW43WC1oVlpLckxPVlhhTVBPbDgwRkhkbERseVFhWjBiNFN5OHpqVWpCdVJxREZ2RUhIV3lnTEZYVGo2QkkyQUhn?oc=5",
-"source": "Los Angeles Times",
-"published": 1793095200.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "b8236ba2ecbecb79",
-"title": "Form 4 Apple Inc For: 27 October By Investing.com",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNFd2US1pNTV5ZmlKQWNSMXFrZmNGN2U5ZHFZckhuWDlaaEF1em55MC1JdEp5OXBxdDFIYms3ZTlXZThlNFJCTllMSXNiUTNEOWdmQ2tOZ0Q2RDFCajlraXptNDNwMEVnS2o0WUJGWUNHV0didVJzaXR1eWF0U3luVTd2b3dmS0w5Q1R1VE1xaURGRVNZMjFv?oc=5",
-"source": "Investing.com Australia",
-"published": 1793095024.0,
-"stocks": [
-"Apple (AAPL)"
-],
-"keywords": []
-},
-{
-"key": "0dbe2a01d7d30415",
-"title": "Nvidia Is Taking a $3 Billion Chunk of Meta’s Equity. It’s Over to Broadcom.",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMWRsM3hhTFdOVTR4S2dZWkdCM2lLdUNvajFzRTRIN0wyQXRKUkdYd3hJWlNPQzEtYl8xa0paU3VSNzJUbnI4eE5fdzRGMktOUWE2cFpYMVZ5MEtPaWxuWU9uMUVaMko5dklsM0RmYWM0TGRzejRyRkl5UWt5SHJxag?oc=5",
-"source": "Barron's",
-"published": 1793095020.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "aa1e45ee20e05be6",
-"title": "Video Microsoft offers buyouts to 60,000 employees as spending on AI grow - ABC News",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBuZnpQUG0zTE9zSTJjWEFNUF9sa2s5clFjTDdlUVRxYVZhd0VHbkFvNjFDZmhlTU1RQ0VaYVlhVVpHNkdTSTk4VldZZXU?oc=5",
-"source": "Breaking News, Latest News and Videos",
-"published": 1793094936.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "5afd12498b1c34b1",
-"title": "Infineon, NVIDIA and Microsoft back European physical AI startups ...",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNWV6Si1JWlpyZU9EaGR2TjRsdmp5OUFsbl84ZHNyODRJY2U3MHhNTjZkMnkzWkpEdllkWEdITkE2Rmk0enJSYkZjcnhjS1g1ZHJfRC0zcmloVENweFRvRnNnZjNIU2JoSDVRSXhnY1NPa3lXT2VwMFlSNTVpeEFJV1Nrd2w1T3VGSUNyWXpuSW4tcTc4aEFLRzJhSHNrZw?oc=5",
-"source": "eeNews Europe",
-"published": 1793094933.0,
-"stocks": [
-"Nvidia (NVDA)",
 "Microsoft (MSFT)"
 ],
 "keywords": []

@@ -1,5 +1,5 @@
 {
-"updated": 1793079637.8493373,
+"updated": 1793081734.0362113,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,12 +73,108 @@
 ],
 "items": [
 {
+"key": "f9d6252a386f24ab",
+"title": "Microsoft Authenticator vulnerability let rogue Android apps steal work account access",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcEFxYXNybnI5dlhjaTc2aVloVDE1RHRlZHR0MkY0YnM5eW5FYzFmaEFfbGdjOUI5RmxOd2t5cWx6SXJ1TXI3c1FBNGd0V0VVMThOdldGNzdka1Y5czlOQW5DSi01TFJWQ0dGTnU3dVhSbnJmUWdwd08zR1Z1YmEwZ3FFVWZWcXgzT2FrRGFGYk45ckFqaU9ZWmpuck95Qnc3MmhKYTBR?oc=5",
+"source": "Help Net Security",
+"published": 1793081662.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "61dd9ed5fc830dd0",
+"title": "Nvidia, Meta partner on Muse agent as Nvidia invests $3 billion",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSjBlNWdnMjZ5OENGekpodktOdnNXaHVoQlNEY2JyQnlxU0lJbVo4T2h1dk9hdFJ3eWFtZHE2cER6TmhRRVJ1dnQ3UFA2ZmNLRmtFT19QZEw0Q3hFNDJ1SkxUNUVVUUEwSEY5QWdwWEVSUHI2a2ZCQlptMVpSd083MDVCbXh3UThVa05haUpnSlQtWUdmZlQwSy04S1FVS0ZGWThMTzYzbXk3Wlg2V1Nlc2d5Tm1pdjNfcmNMOE82QUM1ejc5SnA2V080cw?oc=5",
+"source": "TradingView",
+"published": 1793081160.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "fb6561f2bf3d3353",
+"title": "Injective Opens 10x Leverage Perpetuals on Nvidia GPU Rental Costs",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIRmRycWZjNHZJOV9zanhONjlDVXdHZHVqOHl6bHFsMVdjSm9iZXczX214N25XT050MlBCaE5kY09jcFZ6Vk9OYm5sakVxM2xvS050bXpxQnJQSktXbE50NURRb2xuM3lua2N5emFNbkJNOTFQZlE?oc=5",
+"source": "finance.biggo.com",
+"published": 1793081100.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "561a782d2be1db33",
+"title": "NVIDIA and Meta to Expand Collaboration on Muse and Muse Family of Models Amid Robust Growth",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNzg1REp1LUMyZ2Njb0RyaWx2cHJSVU8taDFsUHBtcjlhUDlsT25MYmY4NGxrRElZbUNrNFJGRDBiSjlGOFdHbXhseXNJYTk4eFpvMXhGUTh1QXVDQmdFem43dWZId01nNzRndVRGU0c1ckJaam03ZG0yckJMNjYySUdDTGhvSFJSMmRoaDliRjFXcTNIVmduQ2JoVndfREtsYXlBUldNeE1PQmRSLVRqejhNWFYzUWVpMXBnRkFlNU9nZ1ljLVE?oc=5",
+"source": "NVIDIA Newsroom",
+"published": 1793080768.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "3f04d75be63a2f51",
+"title": "Elon Musk Wanted 30,000 Of NVIDIA’s Bleeding Edge AI GPU Systems But Is Getting Just 20,000, Still Enough To Be 2027’s Biggest Buyer, Says Analyst Jeff Pu",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQWTZsOUJERkktUHZwWlVqdWEtWUI3V09RZm1TZHlYTlBuV3k3Z0xySkk4MnliTkc2NVJDR1ZvLXhKUmhuLXFJcjEwc3pCdHJ3RGlMR0VTVHkzX2N1aDg0WFJDVlRFb0V5cG5FYU1GTG5HWW9hN1lvTTNoZGl1SW5FQ3FWdlBoWGRfUEZ6QzhSZ1hDTTk4emU0akNpUVVmdUJhTWMwcG5tSnlZZTdqd01ONlNNRVk3eEpjRHd4djl6NjU5Q3JjQWxnRXJJRlg2TjNhWUxfbUpzWlQ4bE5uNTRFa1U5c1h6dll5VmpTeWlaYTB0QVk5MWN6SWEyR0N3TlHSAYQCQVVfeXFMT1VzemVab0o4QnJ1UEZLRVNySlRJaDRScFdvRl83dDk1anpDbUJTd2pMZWRPWUo0TVNRSWx0M3NRN1M3QTdMVDVhTVYyZ1BkRV9WaE1iQlBmWDF2b1JJanY1R3FoZVdRVXBFOEhEWlA3Z0tKOUs4c1hqb19aYjF3b25PZzdKZ3JjYWhLeno1MjlfNmppWC1Kb0JCaWVRR3B0SEFwWF93Y3dTUzU2TTA3XzNDZ24wRnBlZk9BWFB4bzdQR2dZN2JKZFNWQW5mUFU3bWFqcTRwaVU1SjViR0NjR0hRLVRzSjRNUkNHUU0zQWNmMmw0dXM2TEpBWHR0Q2tDSDNpbGY?oc=5",
+"source": "Wccftech",
+"published": 1793080707.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "4c92512283e66ab8",
+"title": "Tesla FSD Subscriptions: 1.74M vs $1B Run Rate [2026]",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUmg5VUZsOG95RTBEbmFIam1OeldQTXVoUWJUWi05VFhwZzF1RU9yTE5uQllHRDBPS0FEMjVmSzluOHNyQW92YTNEdkZ5LVpnWXpDQTExQXd4eUM2MVVfVVllTDQtZ0dOZlNUOVgzQlIyMkRXaWo5dlYzOTNxUW9LVmdkckRONXA5bUR0SlBWZkxDS1k?oc=5",
+"source": "https://tech-insider.org/",
+"published": 1793080316.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "4b73235fe7f60b90",
+"title": "Mowi ASA (OSE:MOWI): Presentation of Q3 2026 results 4 November 2026 at 08:00 (CET)",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcVRTM3RaeXh2b3pGZkdrQjZtVEc2OGpwcEdtZDZoNktjZ0dtc1VHYV8zaGFJMlU3eVNsQ0VKZHhjaXk5c1gzRXNSbFdYSHZMVkVvVjUzbGUzUEExOFdEekV5cDZTQUpGZ1dSaHpHTVJXa1lvZ3RUQS1rak4yUlVtZkhjTGtiOE5SSFBCRXpNSGpvSXdCSFl4RFQ0Q181NFAtamxXaWYxNy1RX1NBUzVZVVdGX2gwN0lneHp1c2Z3X0JmUHpIS0tucnViUDgtdDh1cmdFbEVTZjVLY0I5eG1RQU9rdGjSAeoBQVVfeXFMTzh0UGlOM0xoT0g0LVAwN2YxMEw5MkJHeE8yWjdTM1d3bkdoT0ZKRkplX2RJZHpmcGlEem9fTnlwQTRfbm9fTmRDWkRTN00wTzc3dkRXLVl6aEhEWTJiZWpndlR4ajlybV9aSGZsSWlsQkkwbXZZbktxNklXd1BUcDJtUVFFLVZxUnJLV3hPaUpicklLdVlYcjFTTDU5dDZFR2tpNkVJRHRJdi1TdGtLUGY2MU5HX1ZXUURXSEZ6ckFfSV9mVzM5LUFESGN6anBRaUFCRFNSb1NadUdnWWtLQ1pudHZ5dlYxN09n?oc=5",
+"source": "The Manila Times",
+"published": 1793079503.0,
+"stocks": [
+"Mowi (MOWI)"
+],
+"keywords": []
+},
+{
 "key": "a3c327b9785d6e99",
 "title": "Mowi ASA (OSE:MOWI): Presentation of Q3 2026 results 4 November 2026 at 08:00 (CET)",
 "summary": "",
 "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOMUtBTzRuRDM0ZUk4aXJ1UjhPSjNuWVhra0JCcTg2YWF0b2RPRFYwM1M2QjVzQUVUT1Qyb1RMMXAzdmw1dWJ2eU1jWlQ3T0FmTHZ3TFpVWGF0RzlQaEJsWkt5cjB1OENMb2NSNlFQNnRYOXViSWZaTFV3NUxzOU1jc2FQUmxLN0lMWkR0QWx0LTlkZGQ0NG9UM3hYbHlXUlZWS3VycjFyUWV6UW5Hc3kyVTF0X1NUQkNWX1dBTzNtUWJlcW5FUXdVWGllVkd3TjR1UF9RVDdac1FpVUptT0l6cEhDcG8wckxrTUF1Wg?oc=5",
 "source": "StreetInsider",
 "published": 1793079042.0,
+"stocks": [
+"Mowi (MOWI)"
+],
+"keywords": []
+},
+{
+"key": "ed208f6791bfe01e",
+"title": "Mowi ASA (OSE:MOWI): Presentation of Q3 2026 results 4 November 2026 at 08:00 (CET)",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOa3JnbmNzY2JKRGpNWDY3SmpOY2FWNlZWZWtzWGpUTzBRRW1veThvd3Bwd3N5Rm0xYVV5Zy02b2xFN3RSdmpIWGlQdjA3Z040eHZqWldjLWlGREdjeEhNdWhuR3N4b1hWdUNyUVVEOEdZYVRlQ1JXS0hSME90MWpyTk5ZRUJtbFBSLVUwZXNsOF9oRVhhYkZZR1QwMGw3enRVOXR4RGZXQTZjMHVrQlQ4R0NhbFZVMUcxUHVQbk51N2lfNzBJVW9GbnFzZ3FBT3hFY3l1ZllmWTZ3eWNRWkZWbG9tdVQ?oc=5",
+"source": "GlobeNewswire",
+"published": 1793079000.0,
 "stocks": [
 "Mowi (MOWI)"
 ],
@@ -177,6 +273,18 @@
 "published": 1793077260.0,
 "stocks": [
 "Meta (META)"
+],
+"keywords": []
+},
+{
+"key": "520edfe90738f8e4",
+"title": "Nvidia, Chipmakers Face Higher Costs? TSMC Reportedly Plans Up To 20% Price Hike For Advanced Chip Packaging",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPekpKYkZzMEpfQmFkR2wtNmttWjJJOWQ2SWFzdS1oa0dhbU5nU1NnVHhqaHhXX243RmZDUHBNX0Q5a3pUWlg5SnVNSFNVVVRHVWxiOHJrSmZEdmpnSVpmZjlCMlZrR25BOWhVTHBSYmxOY3ZSajRTb2xVWkpSRF9LS2lqOEp3UzBfNDRLdzE1b211R2Nqc3lnQ0tHS2c?oc=5",
+"source": "Yahoo Finance",
+"published": 1793077230.0,
+"stocks": [
+"Nvidia (NVDA)"
 ],
 "keywords": []
 },
@@ -585,6 +693,18 @@
 "published": 1793067480.0,
 "stocks": [
 "Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "f9d33febe212b5dd",
+"title": "In Germany, Kia's EV6 GT tops Tesla Model Y Performance, BYD Sealion 7 in EV test",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMFVTZEJscVJ4TnFkMzMzYjRBejN2elota20zeGdqa0JVZTI2U09NRTRqR0t5QXVYRmN0NjhSSEF2WVQ5TW03ZXNCSEI0c3FuRHNtMEh2ZHlCUjJJOUw3Yi1SM2VXTzdzQ2lEVjh2eC1ZX0xMcXd2M1VMTkZwX3hReGQxQWFHc2szRkZhWjZQa1E5WVNDZkE?oc=5",
+"source": "Yahoo Autos",
+"published": 1793067420.0,
+"stocks": [
+"Tesla (TSLA)"
 ],
 "keywords": []
 },
@@ -4756,126 +4876,6 @@
 "published": 1793029465.0,
 "stocks": [
 "Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "ddd65253999d79b5",
-"title": "Microsoft offers buyouts to 60,000 workers",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZXp4aDVZMldEcTg2cmVmSmEtMzNkYjdnVnJZWFBrS19ZSmRGZFMxa2RuNFd2MTVhcGtHc0l6amF1NDlPdzZDVnB3VmQ1Ykh0Z2J5VzFXWGU3Z2VqZ1BIOWZwNnNrcUh5ZmN3VUhsRnpLU1lEYmlJNDdjRC1oVFhULVJySHB0RGFIUFN1c180UQ?oc=5",
-"source": "Breakingthenews.net",
-"published": 1793029440.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "b0302096d9a9a1dc",
-"title": "Market Chatter: Microsoft to Offer Buyouts to 60,000 Workers",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaTlaWElIV0hlSTg3WmZRbGhJcDBUZEtZQS0tOFRzekNuM2RoLVRxa0VkdEdUSmVPV2oxN0VDNVpRR25jWTJqQ1pVZEtLNm4yZUZrSWFKM0FPNl92N2JWeGMtVVduU0labGEzc1FDQ3RNek5oNVBqZWl2Y1ZjSDFVeE5qSVZrRFFqSERkT2o0WDhnQ1lUVW1kQ0xKMW1nWWRLUVZQczh3?oc=5",
-"source": "Yahoo Finance",
-"published": 1793029436.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "959bd66f385b8673",
-"title": "Tesla Turo FSD Rentals Launch Oct. 28 [2026]",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE84cDBOREtiU0xud1hBNVFJVEdybHlMdTZuZHJMMnQzR2tLeF9xTVFDUExWU0IzdlBxQ3dNY1MzamczcjRuOW9iN1l0aW1EMDB4dEJzOE1NMlp3NUlZTXhVSkpfN2ktcGZBTHJjUEZhVlBDVDJKa0U2VDhzQQ?oc=5",
-"source": "https://tech-insider.org/",
-"published": 1793029402.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "43ef3d2ed1482f89",
-"title": "Bloomberg: Microsoft skal kutte 60.000 ansatte",
-"summary": "Tek-selskapet Microsoft har tilbudt 60.000 ansatte sluttpakker, skriver Bloomberg. Tilbudet kommer fram i internt notat som ble sendt ut til de ansatte mandag fra selskapets HR-sjef Amy Coleman. Ifølge AFP omfatter sluttpakketilbudet selska",
-"link": "https://www.nrk.no/nyheter/bloomberg_-microsoft-skal-kutte-60.000-ansatte-1.18065188",
-"source": "NRK",
-"published": 1793029397.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "f46035185923d66f",
-"title": "Tesla Is Building Maps for FSD After Years of Dismissal",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOc1V0N0JrZXhVLTVSbjRIUldzLXZqc2Y1UlNyNFZPc2lfYWtmZHFUcDdRUDR1YUhkVlVlTnpOcUdPTWtpWmxULUw0RlUyMkl2TWxldkwtOURMWl94TEdhbGl3R3lNbHgwbFlEVFVHdElOOWJzZDYyTkFaSlVOaEF4V1Q2UlJZS3ZwQkdPZ0hkclFjM19fVFhXZ0pRSm4?oc=5",
-"source": "Yahoo Autos",
-"published": 1793029324.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "2ab63f194cdec101",
-"title": "Meta Seeks About $95 Billion for AI Buildout as Nvidia, AMD and Broadcom Consider Investing in Their Own Customer",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZjFnOUNjTkxTUjJRSUxtckpCa3k4TkdsT2NXbkd5NnVzajBaeTNrSVZTOG9XUTJ2QUJHX0dJT3dxeVNZS3RRaUh0NnlITHpSendoRC1sd3Y4M2YwUm1zQXJOX2ctYTduYmRYMnplU19qU3hrcDM1ak5nOXNBaUtJV3JHSm9xNTRRTGliUFBWWWwxdw?oc=5",
-"source": "Yahoo Finance",
-"published": 1793029312.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "14a7595b54a9be93",
-"title": "Meta Seeks About $95 Billion for AI Buildout as Nvidia, AMD and Broadcom Consider Investing in Their Own Customer",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONWRhZFJrbDROYzFKT0d5c1MtaUlFT2xLLS1ZTHYzWVQxUjhoa1dQQWFDdTR1Sjg1cE5fQVBRQUhmcHYyUlVIa0NWZldfdFo4UGloS29rYlJlT2xlWlBBSEZ5YXNMYTRvMTE5dXJLZHBJWldXMG5vOFdqX0U2NUZaeEpGNEZVZnNiWkZraUVjNHlXOE1PVTlqdjJocW1RQWVBYWFvR2lyNkpKWnkxZmRqb0lMQkxrMjVa?oc=5",
-"source": "Benzinga",
-"published": 1793029312.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "926e3f5585ade22a",
-"title": "Tesla, SpaceX, and a $100 Billion Chip Bet: Elon Musk Is Playing a Different Game",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQa2FZT3QzODBQMFJGeWRIQWpHOGQ0d3k4TklnMGVyZ0RQalp3RE5fdU5VdnJDRTBTM2piWG9Qam85NkpQSHc0aVBleldjNWFPNDBkQXdZQWFrdnJkZW5TMXNEaEdsMFdBaURkSTQ1Q3dBamJndFZQWTN3alp2aEVIQjFvc2pXM3plRlpvVU4wOGZvX3JpazZ6a0tzMjVnMFJ5b09heWRMR1g1eVhsaGdRSWVDT0U1WTdYcmpIZUpn?oc=5",
-"source": "Barchart.com",
-"published": 1793029149.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "58c1bbcffc05caab",
-"title": "Microsoft releases emergency .NET patches for critical Brotli flaw",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQekR2RHZhVVc0V2w5bnFrXzJERGRIWGppWk55OUZpaWJOTXo4MmNsY2VHdzQ3TURndkI1X1U0MTJKRmJ6Tk9HbUx0dzJxd1lyNGZ5OHpDdWJpMmp0RnFfX3NUbTRMOWlSWjRHd1o5WUVWTHRJTUg0MWVnOVZQLXF0VzNRRzdhXzZpd0lvVm1mZjM0U002SXdJNDhiNGw2bVhwdWNUOTJrRXcwS0UxcUVzelVDdG_SAboBQVVfeXFMT0xKSGdpenh2OGJIbk9oMmVoZTFXV2N4N2tBY21ndWthMW1EZWhhcnRPZUxzNkl2d3lpNDU1WGhXcXRObmtFVEV1d0EwSUF5U3ViRlE4Z3FuaFdyOFhjY0M3RFl6MURLa1Z6bXg2dm50amVzODRoUFRMZmxmLUswaFc5ZzY3bDlUR3dtY2ZfY1dKd3F2bGxWd2lacDZGZ1lKUWFZcGVPN0xLRGpKdWxiSDU3cG1ac2U4UVRR?oc=5",
-"source": "BleepingComputer",
-"published": 1793029104.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "843e9cd3e6d74ced",
-"title": "Oppenheimer Highlights 16 Buy-Rated Stocks as Market Nears Peak; Apple Inc (AAPL) Valuation in Focus",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSGxHclZMTXk2b0N1T2xGMTZtVGwwQTdDOFEwUFBGbFM5d0Uyc21zY193NDJ5ZXh0T1NkT3dNMzBRaDZ3V1F0aHlUdGt6RHRaLXA3b1RheDhxRmxVYnNvZGJ2QnZndXJpMWpBUXlMdVZNaHQ3SXl0Ti1NQkxOLWVKN0JET0VMZTNGUjVjaWRadVQ5Mks3ZDZ0al9YbTN3TmFJdVRMcDJrMDVEYllfOEdaZlV0SDV5VFpNZzFkeDlrZFZNMVNVQXVpMmRiN3kyUEdY?oc=5",
-"source": "GuruFocus",
-"published": 1793029052.0,
-"stocks": [
-"Apple (AAPL)"
 ],
 "keywords": []
 }

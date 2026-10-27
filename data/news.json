@@ -1,5 +1,5 @@
 {
-"updated": 1793073012.203782,
+"updated": 1793075093.6936548,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,6 +73,90 @@
 ],
 "items": [
 {
+"key": "31e338b7bfdf1d7f",
+"title": "Kazakhstan positions AI infrastructure as a potential export industry after Nvidia CEO's visit",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNWpON3dWRndqVXFRYzJxZVJpTlRNbnF5ZEI5VGFTeGtiZVowUlljUm1YLV9uV2s3YkN3Zlp1VDdQeFhzY2VKeWdBNG4tS2plSFhIZlBONkU1RmZpUFUwZ0FTeG9idUR3b3R0VkdJN1Q4cHZjUTdwQy1LV0s5LTBicnFRT1ZUTGNwMkwyTTJQeURuRXQwU2V0M1VwY25GVTlGZEE?oc=5",
+"source": "digitimes",
+"published": 1793074456.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "97dc8079543cbf04",
+"title": "Tesla FSD Hits 16.7B Miles — 50 Million Per Day and Climbing - BASENOR",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLW05ajFOcm9HOWVkU2xpOGpOMFk1VmlTc2NxdS1yNGwzNHBiWl9IeV9HNGRCZHg1QlpzMjZWZEJYMEFKRllkWGpEMEtHZ0p0a3Y0M3lzZWczZlJOSUptMFJob3d1UVlYOWo3TEh2a0dYOVRtSUtwTGJxSXBETzhQa3JuRXNrd0c1QWJPVmxzdzhxak9JdHRteQ?oc=5",
+"source": "Tesla Accessories",
+"published": 1793073969.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "580f62c2b8e2ed96",
+"title": "Tesla FSD Safety Data: 6M Miles Per Collision — What It Means - BASENOR",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQ0x4WEFLX1NYNXk0UzJwQzlpeXpGelQ2djkwQ3ByWUpZb3lVMmplRVJIZkZrZ2JwbmZmckp6X3RoX3YwcHpza2ZhS0FWd1BLamxDRWlObHd0X24wSnBXbWxUcktsMjEzdkF3T2FreC0zWmxuT2Y5RmJ1TktTQWlBMEpjR3I0a1RXV1AwLW8xN1A2ODFuSHdiaw?oc=5",
+"source": "Tesla Accessories",
+"published": 1793073856.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "9923a99adf6fc85e",
+"title": "PLA and Microsoft Collaborate on AI Skills Training for Libraries",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZ19sYzF5X3F0amFWUmN4M3pmWlAzblJHU1d3NFVEaTVpTmNEYll2c3JvRW5abkNRLVhkdlJmWmEwMFk3QzNxdXFjeFhGS3A1N1Jlams4NkxiWmxYWkFjYzdfbGdPd0t4blB3XzNIZzlsalZheGF6U2VQUnpEcXBhN29mUGVxZEdEWXUwOHZSSUJfRTJjaG5McHQwNHdfbnFybmlsMjJQX3hmeW44Ry0welc4eTRuVm8?oc=5",
+"source": "Information Today, Inc.",
+"published": 1793073743.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "fa3bdf8a17dc628f",
+"title": "5 things to watch from the Federal Reserve's next meeting",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPUF9Ya2djSUVaaWE0LWk3YnlJbm5zazI4R0R5S3RtNnprbEJLcW54andiQ1p3MVFEQkZVWXhYN0twX2h4MjdocUZfMHYxRmlOWlNmWVkySDltejcxZndraEhoZ0sxdmx3UHZ5LWdUbmhzR05td09ocFA0MjlLMzNWWUF3SUJRM2NXWWdGQWNrR0tUdS1KZzZHRlFHYmxuSjdZZC12QUNtcW9LNFBlZ1RpTGxWbERXeTN4S1hlY0ZDUlpCd3VlWFNCZGdqZWhwVzAyMzAzQ1BreGNVemp4eDBjN1VLS3I4MHJ5ZjlRZA?oc=5",
+"source": "LancasterOnline",
+"published": 1793073474.0,
+"stocks": [],
+"keywords": [
+"Federal Reserve"
+]
+},
+{
+"key": "0f0c9ceaf0de1be0",
+"title": "NVIDIA board partners are reportedly no longer able to order GeForce RTX 5090 GPUs",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc0NkaDlTa1BUVS1WNjkyZHhNQnBWdTZqNllZcjlDdkZpay05WjVfTy1jeHlsZE4zZkoxZkc5NTBJWHVCcjBTUl93TjIySkxWdExfOVk5U3Q2YlFSX0lodU9jQVJ1RV96a0VBRzJVVTYzeUpvNmxfalV1dHJFN1JwRFNVSzNKZ3gycG1DWUJEc25NVEYydlBqbm14OEFEMlFMTmIwWFZXU2ViLWlMel9LS2U5UllEUlhCUEhWX0FOMFV3enkxX0s0RG41VQ?oc=5",
+"source": "TweakTown",
+"published": 1793073432.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "f1d6c1b41890b9fb",
+"title": "Nvidia says GPUs last 8 years, unlocking AI financing",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQ1JFNFhzWkZoM0laTkZLd184TFNuOXRSLXV2R3RKZ0dvMXYzZEFxOVo1RnA1X29abHhGU0hnVjJ2OTFJN0UyckVKbGYzVUF6aFNpRUZOaDNXRGQzU2hSTXZ4SmZyZ0VaYWlfTUU5dlNXVzM3Y2ZIQXZscnVIcnoyVEVGOTBvTmthb2c?oc=5",
+"source": "digitimes",
+"published": 1793072860.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
 "key": "e365514d3ac3ba81",
 "title": "Microsoft offering buyouts to $60K employees",
 "summary": "",
@@ -81,6 +165,18 @@
 "published": 1793072160.0,
 "stocks": [
 "Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "fe9b944f138638f1",
+"title": "California sorority girls mowed down by drunk frat bro in horror Tesla smash, lawsuit claims: ‘Left like run-over garbage’",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOakVfN1VLb3JlREI1dzFVS1g3Q19ubU0zODJXRGxrY3lONzhtdGwzWG92T25ocy1zZk1Qb21CWkE2NjBYVUcxNGJReWx6dWRNWXBONm1YZF93TVA3TGxpalFPWEp3cHN2VmphN05YY2JFcllFNWRPWks0WUxkWUVxUzgtTG02MExfLVZUcmZPUzViczllQ2JGOEJ2LXV5MnRSVlEzMHZscG42ZnJu?oc=5",
+"source": "New York Post",
+"published": 1793071800.0,
+"stocks": [
+"Tesla (TSLA)"
 ],
 "keywords": []
 },
@@ -105,6 +201,30 @@
 "published": 1793071695.0,
 "stocks": [
 "Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "e0812ced73a16338",
+"title": "Microsoft offers buyouts to around 60,000 employees to contain costs",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQM3dnSnJFekxrYl9jaXNZWVBENG84Zi1CMzdYNzVDdnFfN0VLeFJxdTRmWVZKUHRPSTIyaVZmQnFpNDhIb1ZUREEzV2p1WVRuVmxvWWFReXJUUXdQcFBseFhLQ3BRa0tUUENPREpnLUNXaFJ2TndYRUZOWndWQTFBaGtkcXFCUk91NXZhd0JKNnRVOVN0Q0JaUg?oc=5",
+"source": "CNA",
+"published": 1793071160.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "0675c9297518872c",
+"title": "Tesla (TSLA) Is Nearing A Sellout Of Megapack Systems Through 2027",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNG4zNFEzdnR5eXVBTkFTdmFubjVQRm41eGhwZVc2V0lKQVNRQWpBTGZVcEd4aXFCbVAtbkxjazMwb3phZVNHUHBrSFlmME5URGdKdXdGMDhvaWYwMzhPUVBxcHAxb1ExOG1xbFZhU2R1TGxIYmUwMGxNZWxSRm1ockZIanc5MllrRElIODJTM0Z2OWs4TDhJ?oc=5",
+"source": "Yahoo Finance",
+"published": 1793071080.0,
+"stocks": [
+"Tesla (TSLA)"
 ],
 "keywords": []
 },
@@ -299,6 +419,18 @@
 "keywords": [
 "Powell"
 ]
+},
+{
+"key": "c97f6c6b016b35a4",
+"title": "Microsoft offers buyouts to 60,000 employees worldwide",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE44R09EV254UFluelp0NnpoeFY1MHFva2NIUVIydkRfZHZrWGpKVFd1aGNyWElyRGVndTJvR3ZkVFlRVHFZdloxWW1iamhIbW1PdjQtMzBPZldLYVhKSURNck95dTDSAWRBVV95cUxOOEdPRFdueFBZbnpadDZ6aHhWNTBxb2tjSFFSMnZEX2R2a1hqSlRXdWhjclhJckRlZ3Uyb0d2ZFRZUVRxWXZaMVltYmpoSG1tT3Y0LTMwT2ZXS2FYSklETXJPeXUw?oc=5",
+"source": "Good Morning America",
+"published": 1793066725.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
 },
 {
 "key": "4de090b66d06ba9c",
@@ -4742,138 +4874,6 @@
 "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSUlOdFp3Y2NRLXhramhUYW00bFJleG9kX2R2bW85aV81ZUxJSnRFMUZ0TV9aZTlacGFQSHFqSFBsYjlZZU5ZUGo3bzJXXzhyMWQ2MnVjSWJ1UlY2dGgyUW04SnNrZjUtYUx2ajRxYUFrTVBESUJRYjFuNUt0WjlxV2FWTk9vZmMtd21GNGVYcU1sU00?oc=5",
 "source": "The Motley Fool",
 "published": 1793027931.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "5233418f1e7727d1",
-"title": "Microsoft’s $678B AI backlog is massive, but is the stock priced for perfection",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZGFGN3VXemRFQTlvQVVWVTVXaTJ1QktCbW02NUlDRHNObE50RHV6QklvdFZKS1RuWmpjSkQyeHdvY08zZm9NZGREQjM3d1lGMThOQ3Y1TU8xZHFGUzc0azFCY1pQMXhMSDBFU1JxRkRBOVRhQmRMTXhOMk5SY2tWdlZVWUJSOXRqUmQxUzk1UGdRODFUSFRpSDd4bjl5X0k?oc=5",
-"source": "Yahoo Finance",
-"published": 1793027906.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "73786f5a44482813",
-"title": "Microsoft’s $678B AI backlog is massive, but is the stock priced for perfection",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSEJKMU95Z05seWs1dk5iUmNlUXd4aXJzd0lzbmdXTlkyeXpRTDdhdXJVUVR2dGdfSk54a19GU1VVcl9NX3dqWWM1Qkh0UTFXcFJJa1c2cFZ4bjZsMjlsSU5va19IUlRlaUFFTzJ4SUUwR0JwNndYTU5ZNDFyLXZBVnZhcGNXS2E0TGc?oc=5",
-"source": "Yahoo Finance Singapore",
-"published": 1793027906.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "facabcbe09f77842",
-"title": "Microsoft's new Edge option for Mac trades speed for stability",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNalg5SFJDZVFTY3NFQlEzZWZvQTFrZDhFUXFfanM4Y0pTVzlUa0FWcE9TdHZHaFAwU2s3TGZRLXROTTgxSVlLWTgta1l1X3U3YzRwZDl4bWdqZURoRUVlZVRMNXdGQnBlX1d5N084OGc3YS1OQTlnT3FiNVRsbTdCcVMwN0dndXhFcTJGQnFycEFuVC1RTkkyc2wtOXdMdXhZa1RsTA?oc=5",
-"source": "Windows Central",
-"published": 1793027887.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "32b39f20f0f330b6",
-"title": "Tesla Cancels Cybertruck Plans After Buyers Waited Nearly 7 Years",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbDNQMHBuM21oMlA1NG55bGFxV3hZeHpyTEplbXNZN3hNdHctcWJwcjBqOWFPZXh1V0EzX2tnbWlSN21heFZNaE10aVRLc0tPbDNFWldodmFybm9UZmZUV2trYWVGMjJMSFEta05EWktDejlWQXQyQ0p2UWpQd25nR2NjQzlHM3k5eklTYnV0QVlLMjVHSDFTNks5UQ?oc=5",
-"source": "Autoblog",
-"published": 1793027700.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "a717fb26cacf732d",
-"title": "Nvidia May Be Bankrolling More Than Chips in Oracle’s AI Expansion",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMV9tYlRUZ1ZmanJ6Y2NwRF9RU0YzTnZDcS1BVFVfXzV2OFVUaEx6R2gwQ3V3ZGpzNGZ1OUJrNXZwVDRLUUFlYy1WRUhpTDJtT0FWdDZYNFpMUkx2YTllTkhBbnI0ZXJ2UVZfOGxqNXUtV2RhbDVoT2tOUVJURWg1U3VXcEh6cnlZTWdCaURXeVhnQWlFNF9xWF8zNGw1Nnkya1ZpSTVHUkNqLWtpX2c?oc=5",
-"source": "Barchart.com",
-"published": 1793027649.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "a3809bc1b7104492",
-"title": "Microsoft Stock Before Q1 Earnings: Buy Now or Wait for Results?",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPck5iTkQ1b2hxNXhCcGdIOVNpOUJPdmtoa1pfMzBLZzV6cjA4Z0Q1Wk15cEV1aC1Rcjh5aVNXM0pzbldSb3lqZVNxUFBwakNmM1RwRXpBckMtVmtBRXdOOGJ3azdBMkRDdXYtUF9sYnZuSy1mZU93ajFtZWtrci1La2p5RTFFeGYzdFBRbEdYU29ITF9FLUc0dDB4SzNSaXd3bDhYaGVn?oc=5",
-"source": "Zacks Investment Research",
-"published": 1793027515.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "989c15495b31d191",
-"title": "Nvidia rallies on AI demand from SpaceX and Anthropic's IPO filing",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRlJ3RTd6VXRFcm14dWJ6WU9tUGRRTU9ueFBObU9wemlPRGotc3NRSlJud1F5X1hWSXR1TmtrWlZYM0x4SERFeHZfRFNJZV9DSGpGdFZtRVRGd1ZnYTdUNHFnLVlzeEZDSEhRZGNlcUd0c09iakJ5cDV2S2ZpQzgyNEZMczJRTl9icS1GN3lYb2liaHlyeTR1emhFUU5PQVRWcDFkZU51Z2Q2b1E0QWdPTi1WaDBpREozc1J3?oc=5",
-"source": "StreetInsider",
-"published": 1793027463.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "66ab92af78dfbbfc",
-"title": "Why is NVIDIA stock rallying today?",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObzF2cW9iUWo3eVFzQjViUDVMd2hRbVVXLUpWQ2FGZWtOSFpUc1JxR1Fkc1kxQnZvcVp2WTJINDJTUHhDQU9XVlpXSjBGQk50czlzc1VoTVBTbjlJSkZjVGZ2dXMtVm1EX01MYVd5OFNXTWc2WHhxYWJaY3hUMEZIWU4tam90d1lFOHdjbDZCVlowUzBsRjI2T1R0RVU?oc=5",
-"source": "Investing.com",
-"published": 1793027395.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "069fa08b57a6c241",
-"title": "NVIDIA Minerva Brings AIOps to AI Factories Through Dell, Lenovo, and Supermicro",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdWQ4d3J0aWhIWTFFbDM4cWZ0bl9MM2lJOTE4Zk5wTmwwVjROTE5hX21Ta05GcEVWUUVydG9tR1lwV2gtc28yRTQwdWRuQjJ5QS1nc3Y4VnBTMWtQanRtVE9jSzJNRXlvN3dnZWpDMDZteUo3RXR4TWhjTzRzSUZBRTdaTlRFQVlvemgwMjlOaUJQY0w0T083WFFPU3k1aVVDaXhHZkVB0gGrAUFVX3lxTE1pOHluMlRONlhaNXN1bWtBMGpkaHpTSlhjeEx5Z1h5dGtxalB0NFFTX214bGdpYUxiMXZiYm1ETXdEU2pOX0tkX3c2SXVXcDl2NUdncXlkTjc1SDZkcldkSEVjb0ROMXozUUFHb3J4ME5KOTd2SlBBVnlMLTZRRmh2X2ozLS1RVkszbVZFc3FPeV9JTGtSQjY4ZDlvcUFjS1hFLUJILW5ray1qSQ?oc=5",
-"source": "StorageReview.com",
-"published": 1793027297.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "4696e532c1e52891",
-"title": "NVIDIA Corporation (NVDA): A Key Beneficiary of Durable Global AI Infrastructure Buildout",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdjlkQXNfRXA0dnVTN2VfQUtmeVA4UldwY1k5azREYTBrZWxObU1ReUk5YjlRbnJtaEtFcFF5di1UdDRUdWFlQmNERWlEdS1vZUxEc21pOVFpVGh4aUR4ZDMzcmpXLXJRb3JBeW5hNVJVNXB6Z21Ld0NHR3Y1alNXb2J3MlhfdTI2Q0ZtbjM2LWlGR1pzOEltWF9KRU5oVG9HUDVYQjR3?oc=5",
-"source": "Yahoo Finance",
-"published": 1793027286.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "22ba4d0de5069f06",
-"title": "Nvidia sidesteps JEDEC HBM standard",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQODk5R29OMjR1djBXOVR1QTJrOFdyS3NTdU1EQzQwRDRWa1lNT19fX1VCbEhVRkVtbUVxWlJMTkxoLVVYNVN3MkpiWEJ3bWRnYWlwMnpKM2NLNE8zeFBrdzI5bW5hZnBLTWpCUFBhdGN3ampBTDFrSmFaRS1XdjAtNlhod2RSck5RY2dHekpYb3NpSGcxQXc?oc=5",
-"source": "Blocks & Files",
-"published": 1793027192.0,
 "stocks": [
 "Nvidia (NVDA)"
 ],

@@ -1,5 +1,5 @@
 {
-"updated": 1793058888.457191,
+"updated": 1793060517.3835807,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -72,6 +72,54 @@
 "Yahoo Finance: HTTPError"
 ],
 "items": [
+{
+"key": "495309bc0a535a96",
+"title": "Tesla Designed The Cybercab To Use LFP Cells In The Future",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1KNU9nQjZJakgwRkpIR3pkUm1mYklmcFhpUmdGQ1M3VXJxYmxQaDZNZnNtR280TDRlYjVnT1FyZE52QkkxS2NFc3ByTTI2WGZjaUtQOVFtTUpzeGdudFJnT29MbTFkSmRGS1NlTWgxUjV4LWtBWnNxQnRCcw?oc=5",
+"source": "InsideEVs",
+"published": 1793060210.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "487f44eb41079265",
+"title": "Tesla Megapacks to Power New 200 MWh Battery Storage Project in Colorado",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZU1hS2x6QXNQcnZBa1RZbHZlRDc0RDFqTXVtSDl6WVgtR0c0T0dZM3N4NHVtdUlqRXFBMURTQlpjbGkwU21sY2V6UVNvSUFoMUpUNkhSbHA2MXJZTWNwR2RpV01zVldGNW9pa1dQTW9NeUZ2ckRKM0EzNEF4NFlhaEVnb2kteUE?oc=5",
+"source": "driveteslacanada.ca",
+"published": 1793059656.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "e744c5a895c82941",
+"title": "Microsoft offers buyouts to 60,000 employees",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUUdzakZ2R1BmZHZBTEhNTWRMTDhWUzlUdWVvYkdzSnZMMV9TMUdQMVEyV2ZBblFkQjZTVTJWczRGX1E5TFFrOUpGbEp1MkM0Ty00OG14YzNWSE9KanIzLVlqYXJkSHFxUmgzTlY4NFMxSVQzd1dNaXNtTDJBeW9yb29KbXgzcF95TS1WUUhERl9fQWJKMjkxZS1ZVkFRSWpvb1RLX1VyUQ?oc=5",
+"source": "The Business Journals",
+"published": 1793059020.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "4d6b48776437d505",
+"title": "Video Microsoft offers buyouts to 60,000 employees worldwide - ABC News",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNODdqQ25XVV9YcWRmeVVjMllGV0lzLUY2VU1LMXZPc09Nb0hKRUlQb1MweC0zOTFLeDliSUlhSjVPUEhuMnV4eHptUFhvem1jYXU1b3ZVOTlRbHZCVi1JOHZLWlV5azVqR2FtYUw3bkhxOGNaU2J5OVc1YjRoNktDejh2LXdJRXl5WmxEa3NscVptOExV?oc=5",
+"source": "Breaking News, Latest News and Videos",
+"published": 1793058953.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
 {
 "key": "2fb6198b3e6ec71d",
 "title": "Microsoft offers buyout to 60K employees amid heavy AI spending",
@@ -157,6 +205,18 @@
 "keywords": []
 },
 {
+"key": "6cd7af57111386c6",
+"title": "Microsoft offers 60,000 employees voluntary buyouts as AI spending accelerates",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcUVRUDk5ZHRsV0lWZ1BXSl9hYU9wSUl2RE5Talo1QWMwaGtwaDM0QkozOTZIUklOWW55djM0TzZXRjBXdUMzT1VtSlRwSVZZb0JJTk52Q0pmSTNUalpaQmdKY1MtNjVJNVRGRk5pdERYdW5Va1RDd3FOaVRBYnRZRFMxT3Y0UDV3Q0RDTU9URDJsZ2c5YjcyME1kNmJfV3NNaWtFODVaeFMxYkY4dW5xZ29tZkp3cG8tY29Yd2RLc9IBvwFBVV95cUxNcUVRUDk5ZHRsV0lWZ1BXSl9hYU9wSUl2RE5Talo1QWMwaGtwaDM0QkozOTZIUklOWW55djM0TzZXRjBXdUMzT1VtSlRwSVZZb0JJTk52Q0pmSTNUalpaQmdKY1MtNjVJNVRGRk5pdERYdW5Va1RDd3FOaVRBYnRZRFMxT3Y0UDV3Q0RDTU9URDJsZ2c5YjcyME1kNmJfV3NNaWtFODVaeFMxYkY4dW5xZ29tZkp3cG8tY29Yd2RLcw?oc=5",
+"source": "WEAU",
+"published": 1793056080.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
 "key": "0c04fa22acd1ea96",
 "title": "Comau integrates Nvidia technology to accelerate development of AI-powered robots",
 "summary": "",
@@ -229,6 +289,30 @@
 "keywords": []
 },
 {
+"key": "eeeb6586dd361aa1",
+"title": "Microsoft’s 60,000-Worker Buyout Adds to H-1B Visa Uncertainty",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQkJzRGdlN1JnRXFYREU0SnFiQU1YSTV0YUlJakliZmZ4MlljQkFFdk1vOUtqNGdGdllQakdLVjFGaGpHdTdvRzB3cXRKd0MyNENHVG1mQVBKVmlkcEJLMXlHMDEtRmN6RHA3RVJ0VnllaUxnWE5fRldYLUpOeVVoOC1vUDFjNWdLM21B?oc=5",
+"source": "Newsweek",
+"published": 1793054520.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "95f60c5d4ca3206a",
+"title": "CrowdStrike and Nvidia Target AI Agent Threats",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSVNrazNMUnVaSlRfTnpCRGNFMXdHYXNlQnVSa2RhMXVKSk5rcDZTclMxbUNWNWF5MVJiUGkzc25fWW8zcUItWm1vdzBwSkRXVmk3b3BReW5XcHhYRG9WVVpxb3Y3LS0tYy1CdXVfNTU5WG40a0l2cHVoakFmMkJtc3Q1cmRzR3BmMHZxVzVBQWxqX2xRUk9wYV85RXBpUEE?oc=5",
+"source": "eSecurity Planet",
+"published": 1793054504.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
 "key": "8a033c8a43f7631b",
 "title": "Microsoft offers voluntary buyouts to 60,000 employees",
 "summary": "",
@@ -283,6 +367,18 @@
 "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRzM3YTN1cXFrdUlsaWVZNWNXak9ueGhTdm5aTk5WQ1AtUk5XVnhYdjY0YUxXMDYzeWpDekpHanZZU1cwRFdpR3YySG1SN21OUUhUSmp3M3Q1bnJPQTNENHZ0WkpDUk9NWVNEWlNNekpfNmxYemRLWHI5R0hYYW1kVG5fY3RDaUhGSUZUVWY3VGVyVkYxUlU0OVZvcXNid1FnbHZIMm9KNVprYy1rOGpjcWxCcXVHaF9iT3N5ekRqUlZBeTQ?oc=5",
 "source": "The American Bazaar",
 "published": 1793051889.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "21d89ea941b230ce",
+"title": "Microsoft offers 'voluntary exit package' to eligible employees in U.S., India, Canada",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQTU9LS29qTmNCZmpJUHY5T3VwLTBuVTEwRnBtcmJhQTVMRFM3dEVnR0t6eWJmTV9qaE1OTUtpQTN3ZHdlVmsxUHVMTkNtd1VwWFFSQ2NneDJ0ZGNVZ0tqcGJ1UXBQM3VodVhRRXlzQ0F5SGV0ZGpGU2tkb1FGNEpRcnd4aGRMLTN6bjB4M29LbjlHbzlGaEh6NmpXMUFRTVFrcFdkeWFzenhnVVNnQlUzRGMwdGMyMzRELUdxeDZEZUtaVi1VSkkyeWVtUUlZVW8wTGFLcHduRDhFcGt2em1BTm9LODVEN3FpVVZmSVJrM29BU3UyaFh1RWVSendQWG1OejhIN1hSRWxUcHlTMFFFYVVSMEZrQQ?oc=5",
+"source": "WCIV",
+"published": 1793051771.0,
 "stocks": [
 "Microsoft (MSFT)"
 ],
@@ -4782,103 +4878,6 @@
 "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZEpYWnJMM3kyenA2UjR0di1taHFzOWFocjZjVlRKdnFEOFllYXJIYmJFbzVaZHpZREFwQ0xhcjJFV0FvQy1kS2ZTM3VQM0JLVXVqc0dHbm94Tm5kWEpEMDEzYWhjTENGT2IyWGVDbWhFYy0zdmdnczVDSlU4dHZ4Z0xJb1ZTMjZBT1p4Ym9Vd3FDZ2EzaFZqNkxCVUp2bXAwMjRtRlRFUmdGS3Y4S2x2enFvVzNSbW5wLW1XVTF5MTF0TUNpREZOZW1NNkpyX2M?oc=5",
 "source": "24/7 Wall St.",
 "published": 1793023532.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "2d2517cdab04ac57",
-"title": "US stocks tick higher as oil prices ease a bit",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOS1V4U21MN0NmSmRRVDFNUlZQYktwbkFtY203RE5DRmVlRnFHZ2V1c25rRXdQY2Q3eXdoYnUxTHFWRTFma2Z3SGxKeU5YRG1fZVpyaWtNWFJvT1ljRWZ4MFUtMG92SU42NkFjY1ZUWVZRaERFMjlNMW1sRTlNbEZpRFhaOHFoR1dSWVVWYnFWc3RWVks0ejh1RGQ0SUpkaFB0Z054dXNNZG5PZklYcDJGRFVXMk1Xa2NnQWpGb1NvXzZrYkFCeWxPYWlTU1ptU1dCRlR0WE1jdENVZlNRcHFV?oc=5",
-"source": "LancasterOnline",
-"published": 1793023398.0,
-"stocks": [],
-"keywords": [
-"oil prices"
-]
-},
-{
-"key": "9a1f0fbb5eab6adc",
-"title": "Tesla and SpaceX Form Special Committees to Discuss Potential Merger",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZm5RWDRJajMzT0FkOXhubVBjRl9TREo3Z1dmME0tSkFtVFI1azlfUktfSFk4Q0pzQTA2UG02ajlOZ2NzRENqWTdFckdCOUxab0xUOFBiRk1WdmZ4RktZWHhzQzMwREdDVmhnMWZoZF9kWE01TF81ZHRFS0tzV0xlOHBfNUdJM003TU5yMl9saE1wU0xqZTJjT2h3ZVVONWx3TFZUUGtoaDc1TjQ?oc=5",
-"source": "Not a Tesla App",
-"published": 1793023320.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "a7ee5dc9830c168c",
-"title": "Equinor & Aker BP Target NCS Tight Reservoir Technology Development",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcDVrLXNoN2h3LVJncXdGLVI5NDFRS1V2Rk51V2lMaENFSXRnS0tnOUZ2U0o1blRTLVRuX2VDT3pJZll1clJ1TWQzNENNRVZkNlhBNUpldzlfTHhEQzdUeXdGcHlEaDRMMzB0NzZma05iWWtLQUhOVGdQVlFzcWhjVmFDNHdjTnFYQ3lFcDlRY1VfRTBOUVdNY3FWc2xPa1VUYmc?oc=5",
-"source": "Ocean News & Technology",
-"published": 1793023252.0,
-"stocks": [
-"Equinor (EQNR)",
-"Aker BP (AKRBP)"
-],
-"keywords": []
-},
-{
-"key": "aee970e01ab64f28",
-"title": "Price Prediction: The Gap With Nvidia Could Shape AMD’s Next Big Move",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaWY0TkVlTDdaNXZCb202cDRFZkJENlFpRVBKWVpuQnlheUZIR0ZHY2NmQTZRMDdXXzdxcXdKZlA1UWU3dWhWTENSZUtMV0lva1hDUGFCVVFIaFktYmF4enlXSmk0ZVBLMGtZNV8tQlRDWW90VlR4SVBxRmlXRTQ1UzZXVHN2Wl9sZzczSjZpcHljazVUT3ZUUjNNNEhrRms?oc=5",
-"source": "Yahoo Finance",
-"published": 1793023243.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "2de32b194df8ab63",
-"title": "The Fake Tesla Roadster and Elon Musk's Web of Lies",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZEhXaFkxM2N3Mmp0Rl9XcmUxRl9jWUxGN0RIMU9RSkMtVU5KT2FaRGNNQ2VqVmEzdGlfb2xldWRNX0UwOXJFUnc4RWpTSmNLUmFQNlRRN0lNcEx5R1VqNEtwV1NWb2lOWGtYaXRyMTJna3lPNEVYTC11NmFlTWdpNklfVXV6bUJVTndDMmNFVjFoLVJvMDNmQmJnc21DWHM?oc=5",
-"source": "autoevolution",
-"published": 1793023147.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "5fed2877ba51c3b3",
-"title": "Tesla Rises 6% as Barclays Upgrade Cites SpaceX Merger Potential; Lucid Drops 4%, Rivian Slips",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbEhVSHJmamJuRnlQN1Y4S19kcmU3M3lXTkhmRnpOWkMxNEFlSHZMU2VlYUdBU25EdzhWN3JqQmMxUHRoTDNSV3huaVYzenJDTkdFVGpHRThpY1lmeXZKYWFZYWNZVkZKTFpZVzNpRTdRanhNVlg3Mm5GRks1b1F4ejhJZVBvdDJ0eUJuM2xxRHRGVXdKblNaSTBkbw?oc=5",
-"source": "Yahoo Finance",
-"published": 1793023133.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "2062fffdf3a0e3cb",
-"title": "Arkane now has until mid-December to find a buyer as Microsoft extends its deadline",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOV0FVUGs0YnYtNXdiT284Vm1FdVRLaW9jSmJscXBMTDU5SnNaOVQ0Rlh3UE9PdXM2M1ZnMnM1TTJDRndacDJPYnFoc2RRd3VHRTU0WjBNdl8zUm55THRXVERIMWQyWkFTWU01Yi1tNE1CR2pCYmZyOUVQdkZkM2loR2NnbHRRRkExVWhGcjkxQ0hLc2NSa3VTNF9hdVdzQmpsTkwwQ0RUT3AtMllvVHJ2OGFhanlPSm1DN0ZPOEtJdFlhT28?oc=5",
-"source": "Video Games Chronicle",
-"published": 1793023103.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "2b4a445e96f2c83c",
-"title": "Tesla Roadster makes it first public appearance after its reveal event",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZzBBOFhKRkFWSjhPNDdZSWJrUWZkekFwTk1MVUlrbGRwV05oMG94RWw3YjNJRUZtUkQwajVQa1hyTlFmN2Rqamk3QnVPc181LXJFZkwzTC1VanhZMm91YmpmMVBWWjhzTmlKdFFad0JfYUJpSmRrWEtha1NKX1o4WXRwZXZrTjBuUVpZdlQ3RFUzLTRDbGZucHBMTkhSMFlyYTVIeUV3?oc=5",
-"source": "The Supercar Blog",
-"published": 1793023101.0,
 "stocks": [
 "Tesla (TSLA)"
 ],

@@ -1,5 +1,5 @@
 {
-"updated": 1793090971.724406,
+"updated": 1793093347.4139402,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -72,6 +72,246 @@
 "Yahoo Finance: HTTPError"
 ],
 "items": [
+{
+"key": "ae96cf4d954a0ad4",
+"title": "Nvidia investing $3 billion in Meta in Muse partnership",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4WWFCR1ItajdJSVpLRVB2U0FhNVRSRG1YMTBxSVRJeEYtZUNZVnFGa2RPd0NCN3M0RjRmQUpRUUhCYjBkRFQxVW1IS0RvMXMzdGN2YWdWVUlZN3RKdVRFeVUtLVNTZE5pUlJDZw?oc=5",
+"source": "Axios",
+"published": 1793093040.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "58e2a3f9641d7308",
+"title": "Apple Inc. $AAPL Position Reduced by MPS Loria Financial Planners LLC",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRThaeDY2MWpvV3FmSmozVU9KZWRMeTlSNGN1QWZkQWFIWGpFQjcwbUhWWXJrbEZGcnVJWVRuOWkxVTFvVEI5OGpPaW9vTjZPWFAtRWVJV2dmNXluTFM1U294V2VDME1TY2FQTlpuU3J4LS1OVlJqVDVBTTJvVS1JRkhUaTI4RDdnY0d3WmE1emNDRU9BZFF4bG0zMnRaYUxLTE1NV0gyWWRuU0FJalVJZE9uZWpuR0JJWm1UXzBpR3E2bXBVOV9V?oc=5",
+"source": "MarketBeat",
+"published": 1793092352.0,
+"stocks": [
+"Apple (AAPL)"
+],
+"keywords": []
+},
+{
+"key": "6ad4ab1dab08e492",
+"title": "Orgel Wealth Management LLC Sells 2,158 Shares of Apple Inc. $AAPL",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeXowOXU5aU0tV09iTTFLQVNjUzdMaXgxM1JvNFFkeUpQem9abFpzVVRjLTljSjZBcGdtOVFHNnR4cmU0U0NKcHd1NWI5WkRNMVlsQlE1ZEJER09iTFFmS1A0eEtiRkpMdk5yUi1kZ29HbjlmLTJGbUVocklLeHRULWpHVWhIcGt3aHVySm5Xb1ZZc2dhbWVEeEdCaE9xV1lhOV9DWW8xQXJsMUp4OVVGOXFiR3g0ZWQyc3U3TzVKTk9ZQQ?oc=5",
+"source": "MarketBeat",
+"published": 1793092351.0,
+"stocks": [
+"Apple (AAPL)"
+],
+"keywords": []
+},
+{
+"key": "c597aacace13a520",
+"title": "51,654 Apple Inc. $AAPL Shares Purchased by West Wealth Group LLC",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeTdMR0JfVTNBMGI5dkl3S2tiSlBoWERzeWJ6aFNORkN2Y2lwdGFpdk13U3RYSDZvYWZwWHFxemM1elI5TG5Rbk10MzhFTUhJd3VnSk5LeWZZZDg1RUVvazVzMUFHT19yS0xOOElUMG1wRVZkdGhmOHJhV2dRSUQwOVdoVnpBUGRVRmFwN0RiczN0WTdNT2NfZDAxUVFtMkdpQmRfMXNTVTVHcEVodWxTeVUwSUs1WjJJWjNvd1U3VzM?oc=5",
+"source": "MarketBeat",
+"published": 1793092350.0,
+"stocks": [
+"Apple (AAPL)"
+],
+"keywords": []
+},
+{
+"key": "c0aa5cfc48a16248",
+"title": "Meta Platforms, Inc. $META Stock Sold by Skylands Capital LLC",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWGxPYkt1RE1nUWFDVk5PRWREU0QtNVljcmh2UHJBOUFkbGZiUldhcGgxTW04SVc4RzdZdWFzTGtFQmNiZ3pHcm93NjBLZ2xRRUdJYVVib3lKRjVjZXNTSkNYTGZRR2UxTUVtNGRndU1CalQ4TUtLYk5DSzFtNENwM29ORXlXd1dlaGE3WnNVUGhucUY5cExWdWNZMUliMU5qMEgwS0g2NlNmbVU5ZEpRVzI0a1VUVUMxRXlR?oc=5",
+"source": "MarketBeat",
+"published": 1793092349.0,
+"stocks": [
+"Meta (META)"
+],
+"keywords": []
+},
+{
+"key": "d8f72f130e8305f5",
+"title": "Apple Inc. $AAPL Stock Acquired by Martin Capital Advisors LLP",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOM1BobUVfbnptWWpFQzJHcHFOdWFORmVnT3U5Tlg5OXdwY1UwTlZYTzJNZjhsS2J0aFFmemx0aHgzWW9xSWlraUJJSkN3czJvUDJUaVAxYkcyZ1lxZlZjSzlheXVCdHE5MmlheHpjR0lVU2NWaTJZbWpFRkh1WXp4a2FOd0xYbFZHZXZSSzBsbG9nT29EbjFZRmZmYl9jb2xmeVE1cU1PYnlNcUVxMV9YZF9UaE9tc0l0S1hYSVpn?oc=5",
+"source": "MarketBeat",
+"published": 1793092349.0,
+"stocks": [
+"Apple (AAPL)"
+],
+"keywords": []
+},
+{
+"key": "e30832e0ca2fe58a",
+"title": "Reliant Investment Management LLC Buys 43,702 Shares of Apple Inc. $AAPL",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVFczdFh2aUdCODJGMUs3cUFPV01MakNfa2dJSjJ6SWxWa2J1SXBmU216ajJkWFFNeUZmZDJVV1RlRFc2X2cxMjlZNFdEdHVpblNUY1N2MHJRV2ZxenN0VUdCY0taQWx1elVMOExobVV6bk1VUHRzU3hUemVEWktmZTR0cG9YOWoyQ1Bxd0RJLVF5OHl3YmJ3Z183Sm5QT1p3Umlfejc4bFVBMmhxbmtNMTBLaUlBMmYxMXZ5dHhWQXFaMmE1WVk3WlFn?oc=5",
+"source": "MarketBeat",
+"published": 1793092348.0,
+"stocks": [
+"Apple (AAPL)"
+],
+"keywords": []
+},
+{
+"key": "c59f7f8379e5578a",
+"title": "Nvidia to invest $3 billion in Meta as tech giants deepen AI partnership",
+"summary": "Meta on Monday announced plans to raise a total of $95 billion to support its investments in artificial intelligence infrastructure.",
+"link": "https://www.cnbc.com/2026/10/27/nvidia-invest-meta.html",
+"source": "CNBC Top News",
+"published": 1793092061.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "d1ff3d6ea4ee9d64",
+"title": "Elon Musk Reveals the Real Reason He Hasn't Confirmed a SpaceX-Tesla Merger Will Happen",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYjNOWWxCOExiZ2ZhUFZlekg1SHp6ZlV5ZHVVNUxiaW9QYVV0eXpidmZhUjlVNW04SU9RVEw4b3JBb2tvMEZPcURHalBLOEc3N3FSc3NjWEEybVY3LXdxelhZd2VmYjZaQ25tZGxMalJ0SVJKSl9CQllUanI2YmhRbjZNd2NJZUpTOUlPYlJsVVllV1diQlhzejJCT1hoZzhERWFSZjBXNHhRTk5oRjM1UG5mRTJaVUZkeUZteV9BemxPcnotVmVmeTVR?oc=5",
+"source": "The Motley Fool",
+"published": 1793091854.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "cb3ce2774feba9cb",
+"title": "The 2027 Tesla Model Y L: The new 3-row version of the popular EV is tops in tech",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSWdVeFlFWlp2Ym5kTVppclZxdzhpb3h6LXRZMDd1cEgtQXZhZnhzaUdoVS10SUlkV1pfZHlibjd0MHdKUHRma0tiRGNXSHV1d3N3Und6MWc0WVMxa2YybXU4UWdwOGdsWWo5dFk4UmNTR0hMeV9veVptRWQ3U2NEQTdHa1d3aW9mYTNFZ0tsVVozR0ppUTNNUnJiZ3I3VVMxTXpKSW9ET2xNSlpPWFh0eE9GUkVqZW5OeU1XaDdQUjA?oc=5",
+"source": "MarketWatch",
+"published": 1793091660.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "a3b3827ca484ead1",
+"title": "1,180 Shares of Meta Platforms, Inc. $META Bought by Kings Path Partners LLC",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVFZoNTNRYlBwQWpzRGdPME9NQ3ptN21PWndXS3NpakE3RzF2aEtCa2pTM1B5MTNtOUt4VGpzNTRDRjl4ZDNzQ19fV2dZNjI1UnpqQm5NMmc5V2dlb3NvTVg0TlNGVnptLVNWSTIyeDVGRVdoM0YtaWZPU0ZzWlZFZkxPXzF2YjBaVnYwSGJaTkNlMXhOWHNpTzU5Q05EM0ItNUpMZjNnQzJ0bXd6X3dhU2ctVmszVGJGTzl2MGQ4b1FVMVU0VEhhLUJraEN5Zw?oc=5",
+"source": "MarketBeat",
+"published": 1793091648.0,
+"stocks": [
+"Meta (META)"
+],
+"keywords": []
+},
+{
+"key": "6bf23563f52869e8",
+"title": "Apple’s $2,000 Foldable iPhone Sparks Massive Buying Surge",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbHRMdEJRZk1fanVwMUp6RjBBNVJaYW94T01RdUFzeXNrRWFFZnNtN3ozYVh2LVpDX05fQVlQR0xub1Z3bWJ2TFoyOEdmTzB6eksyZk05em1abHR6d0VTSWZmSkpPTl9tTENxMHk2bDk4U25kR0NTWlFtd3VXSVJ1UDlfZFNSOTg?oc=5",
+"source": "RS Web Solutions",
+"published": 1793091600.0,
+"stocks": [
+"Apple (AAPL)"
+],
+"keywords": []
+},
+{
+"key": "33bc009ba332feee",
+"title": "Nvidia Invests $3 Billion in Meta in Deeper AI Partnership",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONHpmQkNoMXNXTjdkVWRtMVViNlVISW41N3hialhDdkFBNlNXQUx1MmtvbXJObDdyZ3Yzd0ZkM2FrTGpBNEp4TDVkRUhyemdyNWZoTVNYM2NzTWJGdWJaRlMtR0tGU3EyLWNfaEo2V0JQY2J5bzBuMG5tNlpzQVJsb2xZOWVZSl9McmkzaGEtVHZGR1kzSDBz?oc=5",
+"source": "The Information",
+"published": 1793091480.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "c53419751b6cd73e",
+"title": "Meta Platforms, Inc. $META Stock: Obermeyer Wealth Partners Increases Holdings",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVTNwam9TX2MwTG1rM2t5aEhISkVaVTVlem9SMkhDRnIxX3R6SWg3VldhWm5WekdIcFk0VWd6cGZ4UjNkN3VpY3ExVkJBOGIwSTBSVXptZG9XX1lYQjJTaWlsSXQ2VnI1R0RfVno2OHZmdzBNLTkxUmxBblp2ckt0N2dPSlRpSnRPS2N4REhKejVUM0tmcTlUc3ZGanhnaWw1MHhENDNmdko5UXl3MDIzalUtemxMd0Q5QjZWUkhiMjNVa3dkdTYwLXF4NEVRS3Rr?oc=5",
+"source": "MarketBeat",
+"published": 1793091367.0,
+"stocks": [
+"Meta (META)"
+],
+"keywords": []
+},
+{
+"key": "7d4529e2986debe2",
+"title": "Meta Platforms, Inc. $META Shares Acquired by Vest Financial LLC",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdV9uNXR3eEthQS1yeFJheTloeGxGYVZJSzRDTDliY1RPS0hNXzFTSUYyUWtOZ3VReUFzVHlFS2JNd3g4bjdyTFh3ZVI4bTItOERjbnNBcjg3R0xkZFZxTUFzZ0laclZnLXBPVzBtVjN2WVJXVjVQb3czMG1qY2dtTG85ODdfaW16NHRQbUh5NFVPU1g2SzlMQmltWHJZdExrNjh4V2Z1anZVM3V5TS1qcGhYMVNqWjhad09GTVA2Zw?oc=5",
+"source": "MarketBeat",
+"published": 1793091367.0,
+"stocks": [
+"Meta (META)"
+],
+"keywords": []
+},
+{
+"key": "e8986b52cae28436",
+"title": "Pinnacle Bancorp Inc. Sells 3,041 Shares of Meta Platforms, Inc. $META",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQ1VZSjdHd2hhTkU5dDhWcVU1U1Z3Qmd0LXR2M2FobE5jWGd0MjY2alB3aS1JbjRCNXJCUjlNVVYycDE3b2d6R0ZaZlExT01sbGtQNTZ1dXFaMWdQWFZpRDBfRjh6SlBXdURObk0waWRWZnpvWGpZeUI1R0ExS1g3QVhMVUI1MEZuNFNVaS1tZWY1bEFYbHVqc2hmUlhJNVRtRnVKa1hJQmpJUmZPeUx6TzFKMktxdnJzYncta2RORm5DT2xV?oc=5",
+"source": "MarketBeat",
+"published": 1793091367.0,
+"stocks": [
+"Meta (META)"
+],
+"keywords": []
+},
+{
+"key": "4bbe485e0db74cdb",
+"title": "Meta Platforms, Inc. $META Holdings Raised by Lmcg Investments LLC",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOXlaZzhxOW80WDY0cVlVcE9JdEQ0aUY4YVN4NEN6eHB5alhMRVhBaW5GYjJsa2FFOWJFVjFpSFBZdVYwdWlSa3N4RWI5ZV9zRldHTTV0blh3MXp2czFMVlZCVnhaYWVycldxVmlkSjZPaXUwNlJXdk1WVDE1WG9pXzM4R1NXVXlOWWY1ZzJpLV9ndDlrSXVERE9mLUl3dmlQRkprZzRWN1ZxOHVydTRzRGtkSnZsUmNvdmpVUkFvZ3JLZw?oc=5",
+"source": "MarketBeat",
+"published": 1793091366.0,
+"stocks": [
+"Meta (META)"
+],
+"keywords": []
+},
+{
+"key": "6da08834987aa796",
+"title": "Meta Platforms, Inc. $META Stock: Reyes Financial Architecture Inc. Decreases Stake",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNk1sQWdETHF3X0ZGOEZjdGx0UGFVZ2h1dVo0ZEZXX3JkdUxmMndIaV91T0ttQjZJNDBxc1dOVmRvcFl0anBfdjN4ZGV3SjdFN0hMNlJoYVZROVB4QmJzTzVYWVlUbFBrU3JzM1hpdGo2S2dCbkVaMG9YOVJoSFVBbnJIMF9vY25US05nVk1NZndna0s4Q1RQQmxYUl9EbFlyd2htdVhTRmJXLXptX0FvY2lSWWk0ZnFkX1J0X0haaGFTaFhac0ZpMk1LV0NxaXRVUkNPZTF3?oc=5",
+"source": "MarketBeat",
+"published": 1793091366.0,
+"stocks": [
+"Meta (META)"
+],
+"keywords": []
+},
+{
+"key": "f9bb4f1aa51e0d1c",
+"title": "Microsoft (MSFT) Q3 earnings report preview: what to look for",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYTBQSmw4UnFmS3NFajRsb2pXQ29NcHotZkZpd2haSEtwMGROSDhXSlpzMVpETks1RGZjMDhxbzFfejFuVWVaNGlHd3pVUjh2cEg4SER5Y2xwTFppbXVCclNLaE43bkw1RjQ4bHpSQTdTRUtlb1BvdEJGdEJfTkFBRk9iTndRcG1zWUJMNzQ3RXpsMkV4N1BHQ1h4enBvaGM?oc=5",
+"source": "Yahoo Finance",
+"published": 1793091287.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "429a2945b24cdf92",
+"title": "NVIDIA has closed the option to remove hardware limits for tensor cores in the GeForce RTX 50 series.",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUVRtSEg1aFZXMDh1VlBwY1N6OVoxel9hYm9SRmZpbE1ORXpsQmo0Yks0UEFOWnhrU2NZd0xmQndyUnhqbHY2MmZPRllMLWZMMDVOcDF2Wm5GTjM5cmFta0R0SUtuTldmLXVsOGM2X21STVE4ZFhEbTVzQ1ZfRjQ1V1hhVkNCWUIxdm9PcWYwaURFTEpBUW9jLWVpLTJ1eUlaNmJVUFYydFpQbkVQN01qejM1OUFkdHlRQWItQjRld2stS1U?oc=5",
+"source": "GameGPU",
+"published": 1793091266.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
 {
 "key": "32cc81fe1275288d",
 "title": "Naver seals $9 billion Brookfield deal for Nvidia-backed AI factories",
@@ -166,6 +406,18 @@
 "published": 1793088798.0,
 "stocks": [
 "Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "19f34e1937ccdf48",
+"title": "Nvidia buys $3B Meta stake as pair expand Muse AI agent partnership",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcWhFdzBFb1ltMkxyeG5IWDByUHROR2xjS2FQay1SSFppcFhGWkRQejdpNG90M0FmeW9TT1pZZ0pKUzJfOG5OYm9kV2Q4SEdvSDFpOFNVY3ZMRlEyd0xRMk9HUjZYLVNtSTZvSHNIdjBGckJXWUwxS1FDRl9mdGVmSHFhYUdKcXlqVVhNNHcySW1MUUgxVWR3Q0hWUQ?oc=5",
+"source": "Neowin",
+"published": 1793088720.0,
+"stocks": [
+"Nvidia (NVDA)"
 ],
 "keywords": []
 },
@@ -696,6 +948,18 @@
 "published": 1793084172.0,
 "stocks": [
 "Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "7dac460ee77f25b9",
+"title": "Form 4 Apple Inc For: 27 October By Investing.com",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWVU1ZE5HTm56bWtNUUg0ZjhTZGxSUG90S0pGUVNVOXNIc19YVnJiMS1Lb3VOaU5Cc3FBNTBnSW9EcHNibzJhMFNzRVB0Vkx0dU9vSkVwZkI5R05VbVUxc0ZPQ29peWpCUURqRnloQkgxUUc2QTZzZUFDSUZfWjBYbEZaeXd0M2w5WGpFWkZZTkpabmhiMVNj?oc=5",
+"source": "Investing.com Canada",
+"published": 1793083968.0,
+"stocks": [
+"Apple (AAPL)"
 ],
 "keywords": []
 },
@@ -4612,271 +4876,6 @@
 "published": 1793035500.0,
 "stocks": [
 "Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "6446c97d2c94cd25",
-"title": "Tesla Stocks Rise 5.34% After Barclays Lifts Target to $450",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQnotMjNYTlAybHVTWDVCMnJsMlhlWVFGbGpqNXAtRkF1a3VxMFhMa00wZlFCYTN2SWRvUmg5c0IwcHN4QWs2emcwY0lhWUxqNFd1QUxVVTlJYjFBVjIzaUJiaDdIbEswN0RMVktUcHlBdk4yc3JDZXI1dU92VVRJM2VqQ01uMzdMTnVHem9BaDZMNW02RTFKS1M5RVJpRW93aVhhZ3ZMVDRoaWthRS1FTFd3cG42Uld5?oc=5",
-"source": "TradingView",
-"published": 1793035446.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "acd36cb5a8a19f26",
-"title": "Tesla Stocks Rise 5.34% After Barclays Lifts Target to $450",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOVNhMlprS1l1TUFPT3A2V2RFTU93MUtiLVNJTXY5SkV6WHdOT01nM2xvTTlTa2g4eFhWaDBVOEVJUjdNT0JCd2VqZkN0YzU5X2tmTkRwSmxuNkxkVE9SZXVnUTRxckJsOVVTc3NNWnJHWERDMUtVY2poMG0zMFdRTXlXSHBkV2ZnN2Y2QUJibkw?oc=5",
-"source": "Yahoo Finance",
-"published": 1793035446.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "3ea1b35b9bd4d4a8",
-"title": "Tesla stock leaves rest of the Magnificent 7 in the dust, surging to October’s top spot",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSjBKSDFLUi1ac1ViWU1QNGdIQnV5WWlVeVo0TWxSMHpBY1BHbTFhakZSNjFCd1ItMW9oTFBzbUVDNFh5T1NrUlBKeGRtMlJSbmw1aHhCREpTN0lpZTlMQTNyNjU0amtuQlhjcTVmX05ZUmxxZHZzbldxLUJndkYyVmhfWDJKZVFOeEplMElJRHlNb3RqMVBEVmttMXRyaldYNEwySUpfNjc3emdrd2NVdjM2cG5vM2tSMWlBamhlYlVqeDVLVmZLRWtDam1NN1FkbVR4Ym1NdS1jZw?oc=5",
-"source": "Yahoo Finance",
-"published": 1793035436.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "521305fe6ab1dd22",
-"title": "Schneider teams with HPE and Nvidia on industrial AI agents at the edge",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeGczRDFGYmlNM3M3dU5aaUZ4OG5DeXM5NDdIa3A1VFZzbHRRNGJlVjMwNHhSbERZZVcwNG1tMlpFNzRnbHpYLWc0M0txbjRHMk1YZ3JMRkRlWGxPMThZRkZ3WUJ5Zk5nSGtuZ3o4cjc5ZFF2bGdQYV9Hd2lIT3FSS0tZeUhmbVU1dUNCeTM4ZEdTYWFrTlZqZw?oc=5",
-"source": "Fierce Network",
-"published": 1793035328.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "fee028c0f73c0d62",
-"title": "Tesla Up 6%, Lucid Down 4% on Barclays Upgrade [2026]",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdEhuVV9OTEVJT000Skkzdi1FT2h4QldoQXFSYk00SExCVWpndFdWNmppZmxwUFpCdEF1X00tSWRxY210U2hIT0Z1S3B4NV9HS2tINVlBSEZCZTJLNmphd2hqMlhkODR4Vy1xQ2tMWHlxU01nUW84d3NDZWY4UFZFUGJ5RXpBRW8?oc=5",
-"source": "tech-insider.org",
-"published": 1793035291.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "b0556658864e1a5a",
-"title": "Microsoft Will Offer Buyouts to 60,000 Employees",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUzUyYVd4Q0RwaS16Yi1rZ0VkNmlCeW84MEszN196OUVrNFdUcmZRVjhCaF9jY1d6OHBqUHBpMXhaR1BORkROODF2dFdKdWdCeFFEeTJnbVJ2Y1Qxb0tMLXRDamtkNUJJU0t4dnBtZTRZM2ZRTW94UFZFV1hoN0RqVXprbnEtd2l5Q1E?oc=5",
-"source": "WSJ",
-"published": 1793035260.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "593bbb495ec13d04",
-"title": "Microsoft offers voluntary buyouts to thousands of employees",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMFllZWtvSUQyZ2lTSzVRLXN4TEVWRV9vNkUxVjY3ejFWNVJvV2FfaFcxTGdzZDRfbDJEb2NrVlF0b2dXSkh2RVk5SG1BcVJTMW40QlZ3bFBacWhrdlBVNDBuV1FSVFdER3RlSDBpcXQxNEJVd3VucWM2ZGZOZENnYTlWelBXS2RPNFpQdzZPWE8xTFJWVDROVVZ3N2UyQTBXNlMtV0Y1RHdmZkY4dnZjY0ln0gG3AUFVX3lxTFB2LXFTN3d5SS15a04yQlM2X1BZSXZ6T2l5azNMYlFxenYxRnk1ZE1SZUk1NEVCZWgzQ25yM0JGU05qMHJIcWRTZkxHd0RSbHh0aHUzRGtheHVROWNrSGdZM2Y1cXdRSmxzMTFWVWVVMjJZWndzU1Ftd3ZRdC1UcTBmcVRjd3k0dWpOaDJLbGhsdU1rVzN4YWl0cXhobTZYRVUyY2Q2TjU5UWRIajJoby14SjQ0TEF0cw?oc=5",
-"source": "upi",
-"published": 1793035236.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "5d58081f5a0a4b37",
-"title": "Cadence unveils Nvidia-powered AI data center in Munich, Germany",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPalZIclZtZzhOdnlLbVdQRHlldkFKcU04SWV5V3F2ZHlYN0dYSVlmaTFkcHhuWEx5MDlObFpRTzVuN29lRjdnVmtqN3NhclgtTkpGNEFWLXVjeHBmWS1HaE1QUFBwQXpBZ2dGZXk2cDFoT3NZbll0ZHpNbEJ4T1VkZlhwcWRubEpKODlZdS1JcUZWSTl2eHdUdXREemoxWkROY09iWFh2bXlWWGs?oc=5",
-"source": "Data Center Dynamics",
-"published": 1793035196.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "2def10ed72193f3c",
-"title": "Equinor, Aker BP to develop tight NCS reservoirs",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOanE4ZTRNNU05Yl9semVjQUxrR1ZvVVVkOUVmcXFKZkI3VVRXbzM5dDR1c1IybXlYa1VFTVU2Y2tuMFIxdjRHemhVOHhIVDhqeVUySmRlWlpqVlVlN0xkV2t5dVJhSXBoUlV4VEY1MlpOYnpYODhoejlMaVB4NzAzdTRfd2NvbWhwWnFKM0U3bWczRFN0MHhrSnRfQ1lVMUxfTWFkQnJncnQ?oc=5",
-"source": "Oil & Gas Journal",
-"published": 1793035169.0,
-"stocks": [
-"Equinor (EQNR)",
-"Aker BP (AKRBP)"
-],
-"keywords": []
-},
-{
-"key": "6ac2da5b05d98d0d",
-"title": "Microsoft offers voluntary buyouts to a quarter of its workforce",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd2M2Zk9yb2JOV09PS2U1R3J5RGRYdXFVRExPaTktRlRoTjFlZEJqT0ZVeWs3Q2dsNkd6NTlFVzg1VGs1VDVMWTUxOHZfRVh6SkxrV3JsWWRvRW5ZWEFlUU1HSEZGbEJWNG90azJNNzY5TUNaakF0YnRLTXlzS19FVWFMQU40NzJndkdmMTQzMWNETEw5Y1AxV1FOczNmelRoSjNTWi1JZ0t5bE0?oc=5",
-"source": "KUOW",
-"published": 1793034960.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "d73e2558b208a8d0",
-"title": "Should The Tesla Roadster Spawn A Lamborghini-Style Sedan?",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ySVFDeGUxOHFITWx1RjRpalFKTFFRWVNZRS1FRVkzelpYVEhtbUFvVnBkTGFVTkp4ZW9VZ3dQNHhpMUstYjRiNFJhM1ZSZkFUOFJ5dkhCYVVMYUxTeng1bGhMLTROSGgtbXNPaF9Ic1pSd1E?oc=5",
-"source": "CarScoops",
-"published": 1793034947.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "78ccc63694f20ff2",
-"title": "Burke Wealth Sees Meta Platforms’ (META) Muse AI Assistant as a Potential Growth Catalyst",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSFpadDE4b3dwby1jTFJHdXVCTnpqYXNjZHl3dzBPYThzVjU0U3NwRkFCRW1BdEQ1U2NjTVViY1Y5MU5rVkg5RDFGa3ZHTGxtQU5oMTFXY2ZIVklQdGpFQlZSYmloQzEwMGk1VFM5OVNQVmZnQWJ5N29SbEJRR09XYjB5MU8xSGNUd1pzc2s2dHo5dVl5ZUNkVnRTbWU?oc=5",
-"source": "Yahoo Finance",
-"published": 1793034778.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "7d98254009dea060",
-"title": "Microsoft offers buyouts to around 60,000 employees to contain costs",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOY3V6RnhJNUdQRC1uU19vNFk4YUR3MVlHbmpOdnUxMGo4R2RoWVhvXzAzTGczekw4akxaVjB3VzF4bHRhRFZFTFJ5eGY0ZGFOZ2NtcTBQa0RqZlgzVHlQb0pUcVJjN3RBM3lZTFhjaTNCM3JXLWxzR1F3NTZDLU0teHZyb2FpX2xzajM1UlpVVFRDTmhTRFhpeVR1WWxaT1dva0E0TEVoTjllb3hMSDVFVkRYTnpaQXRhZ0w3ZU9vR1hhQQ?oc=5",
-"source": "Reuters",
-"published": 1793034760.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "5447e64aab4144dd",
-"title": "Microsoft offers buyouts to around 60,000 employees to contain costs",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOblN3bVdUN0ZBazQ0U2tsc3FPelNablMxOE81Y3JMQThCU3RwM2RBejUweGU3cWNCMXFoODJIS0F6M3U2RWQ3UHRZYnVzdGlyXzM2SW9ZNkNJZmFBbmVJejV3RkR1UFlINGF4dUl5dW11YmR5MkJaX0lDWXo1N0FKYktEN05tX1pIX0ZoUjdjQzJFSTFxYXJhTGxGQ1pQeTV2UUR2Rk1rOE1saWRpTTduSFFhNmxuR19DTmFNTDg5REo4enpLdjB3Z0hLaHh4LWRycmJDemZNRmNON1JadGlHWXZRMFgxSmZWSnV0RGgxSTZfUTRNOWktZEl5UQ?oc=5",
-"source": "Central Oregon Daily",
-"published": 1793034721.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "510ad0372d83e64a",
-"title": "Microsoft is offering buyouts to around 60,000 employees in latest cost push",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE90VDZ4NU1HTmJCcGN5ZExUZEcwM0hvbWNMMDFZVERmMjlxQWpBZG94OFQyenhqWXBCbVNsRlo3V0IyQ3oyQ3RJdzJCRFMwZ25zNXlzMVpNLUJsUlB6Z2p6eXlla2cyRWRKTGdTall0cVRYckE?oc=5",
-"source": "Quartz",
-"published": 1793034712.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "4820dd17945fea10",
-"title": "Anthropic makes more per employee than every Magnificent Seven company but Nvidia",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbWFObk92aFlQbEtZY0RPRWI2eXE3LXhsc2p4N0k5bWNGeUxhQkNUazM0alVDUEo4Z2x3eGp4OC1nazJFQkFCRExSWXNYZ0xjT29ESlRWWGt4Q1NhQ0VwTElzRG9SVVpNa0FZdEV0MjB3X3UyS1d5QWVoVWlDVndoaEpxQ0tPZG1qSG1GMGl1MXRLWlhsa1I1Z2xZcEw5ck96UHRpR1hzV3JJdTJKVktKbk1mMldWSHpEdXB3RV92QmhqSlhpcG9sbGV4bl9RWVdIRDc3Mw?oc=5",
-"source": "Yahoo Finance",
-"published": 1793034670.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "441d85dea734f29b",
-"title": "Why Tesla (TSLA) stock is trading up today",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUi1CRElUM2hwZjlmQkp2QzcxV1gyZE9EMFgzWEQ4R2lCY3JwMWFXR0FZYlRtMU4wSHUyZlhIeEpwWE01el9XOE5WbU10S1FsWmpUSmxRYjVZTTRNc1lya1hIaXFFeFBMeWhSX2JuNU1RQW1LNk8zSlVwSUk2ZkFFVm1XWU9VNHhpcWpwVTkzN2RVRktydmJ6dG1SNFVadms0eEY4?oc=5",
-"source": "TradingView",
-"published": 1793034637.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "b41dbad488e4de23",
-"title": "Microsoft Offers 60,000 Workers Voluntary Buyouts in AI Pivot",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeTFoRVpYcTVWZVRHUUxGMjV5Yms3RDJXV2VUZlMwYkJIdGJWUVUxRkpIeHVTaktVYzYycXZUSzk5MC1hLUkyYW8tLWZjS1FpMlpQdVd0ZlZteEpWcmtMbjVTMTNNeUxMZU1XdVJBbXlIUUs4eHRjdXVZQTByRzY2eWNTbndLWTFIeUM5RW5HU2taU20zb2pOeGxn?oc=5",
-"source": "The Tech Buzz",
-"published": 1793034600.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "415bd20c2e4ecacf",
-"title": "Anthropic IPO Filing Cites Reliance on Google, Amazon, Microsoft",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVUZjNFRQUjBBUUZZN2dOOXc5S0syaHJjS3NIazgweUh2X0FPLVhkeFNTVWhLWkVUSGstbzRkT3o0Vm1tVG5BVUpQUVpJVTYtal9UYkRYeVFJeDlKN1hqMU1EekQ2dWRORnJzbHJNNHJHSlFJeTVnV2tiOG9pSWt4UnlNcXdhRldwbFdTX1I2d1VlYldaa043M2xyZDFfblBjUkhGakx6MGlKN29qYUNYSC1xMA?oc=5",
-"source": "Bloomberg.com",
-"published": 1793034583.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "72e4ff95710de390",
-"title": "Microsoft Flight Simulator Releases World Update 23: Poland and the Baltics",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQd0tZazJqVW13S2ZKcWdVQTlXSWdCMzAtdzBXeWFvSU9DTHBUc3dMMHRFeUVsTnd6Tk1weTdnU3dfeFk3R2Y5TUI1QkROc0FIZlgtSVZxeHdaNjhwX1VQLWo3SWUtNEhRd2w0QVpFaUxzbUEzRUJIMW1iWE1mQXF3dXdaalNqSzFiNGNZZGZtYjRnR0VsYmFhX2thZ0xEUWFjUDFiTWZwSm9UZVAtcUttT2hIZGTSAboBQVVfeXFMUFVRanFsSmFBclMyR2UwVFQ1Z0hKOGN1QmxGcFRSek5oSXdIeUFNbl9xczgyQlc0M2swSnhxbmgzd3RUREtzc0JNbmY5SzJiQUs4Zlk2eDFqU250UVNMYk5ITWw5M2M0bUQwX19adG55dzFONzZZeG5QREJQc1A3V0NZSXltY21PTmVRTnp0enpDVE0xekNJMndRYXlMVTlqS0kwdlMyVm5wQm9meFo3TW1QVkZLUFlCMm5n?oc=5",
-"source": "XBOX Wire",
-"published": 1793034547.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "2f900002d769740c",
-"title": "Microsoft offers voluntary buyouts to about 60,000 employees",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTDZZeWktN0czREVSQ3c1c01jU2dXVDJacXB1OHNsUGtDcmdrT0RRVmdwd0xpVE9wUlJmTDFETnBINGZDQVJLQkEzUmdPTk1XY1pOUjlMVVhGR0VuMEQ2SlZSNjg2UE5keVhPYXZ0enNmV3VzSUUwYWY4a1JaWE1GanFqa0xXVkZXZERPUlZFRGxRX3EzRC1SNGdOLUI0VDNVcXNXOA?oc=5",
-"source": "Yahoo Finance",
-"published": 1793034540.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "af9aa38f2c1c6d2f",
-"title": "Microsoft offers voluntary buyouts to about 60,000 employees",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNd1FrellfZ3VnSVRBX1cwMGN2YTVrT3ZJcXRTTGlTUEI2MFdwem9ob1VENkQ4WHBzblBfMEZPb2NOOV9lM1dLSHJEVlhnV1hLeEo4SndjcFpvZDctTDN4YkN2U1BOS2dFT2E0cUd2RndTMHgwMU44ZWtXMGdHMmd0Nld3YXI4MFhPVWNXS21JSQ?oc=5",
-"source": "Yahoo Finance UK",
-"published": 1793034540.0,
-"stocks": [
-"Microsoft (MSFT)"
 ],
 "keywords": []
 }

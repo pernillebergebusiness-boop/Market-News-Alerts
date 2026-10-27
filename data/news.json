@@ -1,5 +1,5 @@
 {
-"updated": 1793143628.711752,
+"updated": 1793145413.142456,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -72,6 +72,42 @@
 "Yahoo Finance: HTTPError"
 ],
 "items": [
+{
+"key": "306deb6c47fde92a",
+"title": "NVDAB Rises As Investors React To Nvidia's Meta AI Investment",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYU5pSm5CRjFWenhwa3pDcDNqNGhzVlBQVkMtWUdsbTNaX2E2c096OFVRTjdSQnI3YUNKQnpwekpIWG44NldhWU1JRWprQW9tR1pnT3p0cEkwWDBPZjczRG5iSFdZTGc3Nmk3WDdDb0ItYzFVRFo4cGRsMEd5b2FwdjZ3cFJRU0t0RWZxZVp2aks?oc=5",
+"source": "MarketForces Africa",
+"published": 1793144853.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "5cea3e0b6e5ad943",
+"title": "Judge recuses from Tesla lawsuit, new judge named",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxON0VzZ2NuQ3JUWEE3dlZ1cVNZS05LajNIblJCdU94VUxESENsRTM5OVpmN0tDLVo1cndONzExQXlFNmNFNUdJSlpzdlk3VmhDVHdaZDlHOFV5MjRkMVNfOUJUdG1IMkp5aHNOcktETGExLUJma1R3YUdsdm5XX3cyRkxZaVc4a3dEeEJpSGJtS2M2XzdFRHhzeTQ2RExidw?oc=5",
+"source": "The Arkansas Democrat-Gazette",
+"published": 1793144100.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "d02509aa438e973f",
+"title": "Nvidia Stock Is 10% Below Its Record. Does Anthropic's IPO Filing Make It a Buy?",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNM2VWZ25FNnFhdGp0SnNVdVF6YXpST2FfWGdFT3FnQlJDb21GOVR6UjZLY2RIVXgwSkdRZlVUM3JYWk1qZW85MTVua2w5WTRZb0RzeVpBZE45YklocXNVR2I2cUNLMFZSaVI0STBMYS11aGFNN05ubU52NmtjRlVXRHBoWTV4TkxBRUdDU1o1TWlNM0VJbHhIVGgyZVhTTHZNY0k2OWNpd2xxT0xzNVdOVHpqaE5UZ1BacmJieQ?oc=5",
+"source": "The Motley Fool",
+"published": 1793143896.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
 {
 "key": "9994063e5fd1bed4",
 "title": "‘Racing Far & Wide’ in AI. Anthropic, Nvidia & Google. ARD #193",
@@ -699,6 +735,18 @@
 "keywords": []
 },
 {
+"key": "1fd7c9eacf8531dd",
+"title": "Tesla Future-Proofs Cybercab With LFP Battery Design as Shares Jump 4%",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxORkQweEk3TkxnS0tEb1ljS1c1a3Z1bV9JMV9rTDF2aXFRaXZhX3NpS3lGMGJRLWxXSmdEVTBWSXNrcVFLU1FKTkVVNEZQV0g2UU5KakJRaUpmZ3RpcTJFd1RLbDM5cUhuUXlzYklnb1RVT0JoS19pUDc2SVRNb2l2ZlFsbzY1bkV4dnJHc1pIR2dWclhiSU4ydUpwY2N4Zw?oc=5",
+"source": "Yahoo Finance",
+"published": 1793130666.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
 "key": "b9d5281d446ada11",
 "title": "Tesla Future-Proofs Cybercab With LFP Battery Design as Shares Jump 4%",
 "summary": "",
@@ -959,6 +1007,18 @@
 "published": 1793127900.0,
 "stocks": [
 "Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "e6e7adde944783a9",
+"title": "2028 Tesla Roadster Concept Ditches Rocket Thrusters For Mustang V8s",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LSGk3X2xRalpfMHc2elZrWEFZOWE1cDRNeXpSQjlIaTVFemhLTXQyT25BdkkxYXFkRTFxemJxczBSUDVUWldyYWI2Z1RBTmhSbncwWFNjd29STVhmTnVJ?oc=5",
+"source": "HotCars",
+"published": 1793127614.0,
+"stocks": [
+"Tesla (TSLA)"
 ],
 "keywords": []
 },
@@ -4820,67 +4880,6 @@
 "Nvidia (NVDA)"
 ],
 "keywords": []
-},
-{
-"key": "0d4c4c1a611737e7",
-"title": "Microsoft Is Paying Workers to Leave So It Can Pay for AI",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUnlqRXdZSkNiOGoyR1lPTWoyQTJMYzJzWmJ3M2hmekN6aFV2R1QyeW5YNGtEZWNXMmxYM21NalJpWnNmdWg3ODZ6X0FybGpMdzBIQXR3bmJ0TXQ3NUJJdGpoV0stUWFHQUNwRTc1VktXR3JNQmtQbFBuT1FzMUJqblJHSE81ZTBUSTBDUzFqNU9yV2c1UVhaakVGb3FMQWRZ?oc=5",
-"source": "Yahoo Finance",
-"published": 1793099713.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "b4f8d93da9f24df0",
-"title": "NVIDIA cuts Vera Rubin's memory bandwidth by up to 26%, and AMD's Helios now leads in memory bandwidth",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPS3Zfa3NJZHpCdXU0N2Q2UFhCOUNJYmI1dEJlLU5nSEZIM2twdTRnSDVTYmdRbU81ZWVpMVVtYzFBTlBYQXFBNTNSRmF6TnRPZlNfN2Q4Yy04aDNOeWpHeVpFUG1XR2xNY2lSU1NpakRWOTQ2RUVKTGpkU1JBR2FCSVNBUFFRaGtoUkcwVWl4LU5aM0QxSkJuSUhiZ2VnNXJ4RGFMVWc5TW5LRnBxdTJzcDRXRUVxQS1PVGZTTTlvUFR0dFFkQ3FFbEpFOTVLT2FwamF5UkVUUERfbUlCeW01ZFFBamRTRThXZFd3?oc=5",
-"source": "TweakTown",
-"published": 1793099707.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "2493617b0b12482e",
-"title": "Denmark drops failed Microsoft 365 replacement pilot",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Mai1jMmpzNlJ4UlJMZXZidDdqM19KT0dOekpZZzF6TUVYR3ptT1VhTWM1bmpNZHhTQVFvSHdaS1czM3hPeXVYdVhUb2kzYzYwQUYyZkwtTmlCRHAzVDJvbENldlBXUQ?oc=5",
-"source": "Cybernews",
-"published": 1793099672.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "6997ccd159b58f75",
-"title": "Equinor, Aker BP Join Forces to Develop Challenging Offshore Discoveries",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNby0talhLMlZzRnA5cGl3X0JHOWF6TmJta254MmxaaTdpS0EweG15WVd0S0RPQ3N0eHFnbzkzX0ltREx4UzBNZ1B3cnU0VXg5Y2djVVhIOHZ2Z1JYVmNCeHB1ZVJKel8yNTh5WWl0VWZmUG9hbERCbWo4dnA1RTR3Wjl4Y1NSNjgwRlhudmM4NUJxMUh4UDVpWXY1b2FTa1NHQzRMQjd2ODdpSGt1V2c?oc=5",
-"source": "Offshore Engineer Magazine",
-"published": 1793099619.0,
-"stocks": [
-"Equinor (EQNR)",
-"Aker BP (AKRBP)"
-],
-"keywords": []
-},
-{
-"key": "3921f7549ee34c8c",
-"title": "Fed expected to hold rates steady, but Warsh may point way to more hikes",
-"summary": "Markets overwhelmingly expect no change in benchmark interest rates following September's increase.",
-"link": "https://www.cnbc.com/2026/10/27/federal-reserve-rates-kevin-warsh.html",
-"source": "CNBC Top News",
-"published": 1793099182.0,
-"stocks": [],
-"keywords": [
-"Warsh"
-]
 }
 ]
 }

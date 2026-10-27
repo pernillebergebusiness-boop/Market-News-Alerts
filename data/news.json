@@ -1,5 +1,5 @@
 {
-"updated": 1793075093.6936548,
+"updated": 1793077236.9354281,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,6 +73,42 @@
 ],
 "items": [
 {
+"key": "79c9b33392a5f492",
+"title": "Tesla expands the rollout of 2026.38.5.11 update: FSD v14.3.13 (HW4) and FSD v14.3 Lite (HW3)",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSVZsclVKMXUwR2VXaDZVVXhCTVV1d1E1OVFvcmhhQVRRTV96Z1dQX0pVRThadk96ZjZDWkNCc0VpZGduVXBHVUFldHg3U2pwQlROTmg3NHJJT1dwYzhiSksxS3A4cjl5Ulc5NUZpc2NZQjNIVmc4MXg2ZXpBcXNtNjdIUVdxS0FWTHpQN0VuSmdxYk9RYXNxLXYwVGV4MVdGWkxxMVp2b3ZGWDEyZnV1NVZYQ19KaS0zNmN5NUxYNlZvc1hNVFJF?oc=5",
+"source": "Tesla Oracle",
+"published": 1793076753.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "4ade684483caa80c",
+"title": "Tesla has a Cybercab problem nobody saw coming",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1lendZcGdwdlRyN21JTjBNT0Z4ajZHaHR5ZGNZR2RZakYwMUtyOXdxLXBua19VQTZfeEc3TUFYeGMzVDlNMmU4Wl9wMkpEcEVWYXg2LXJBdGJoQnhnbV9WQW41eThPblRfQnk5MG0xY3pnY09mRmdObnI5Q1JQdw?oc=5",
+"source": "Teslarati",
+"published": 1793076576.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "5e3b41be44f1089c",
+"title": "Facing screen-breaking issues on iPhone Duo? Apple says ‘We are aware ’ — What users can do now",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxORUVkeGZVZEZlZko1bGNxUFF5UXdiRzM2amF0SGI1dlFoOWg5YmlJRWQwWlE2STB5S2FLZ3F3RC10ZTZVV2QwbUNUdmNRUXRjTlBBekhSOGdIQ0RwWVU2ZXJIT0l0TGNMTkV4VThSMnJWMndESFZWRXpyalU3N0RETXo4ZE9tSUpuVW5pM0V5ZTc3ekxwaUdLbmljb05Tck1TS0dCV1EtNHVUMGEzU2tPVnFRZjBZTHBKRDA2TVZnQ1ZOV1diYUIxLXNTY0U3eTVCWXdrN2xlSlduTDRZQUFHWHRhN3hoaXl2U0VB?oc=5",
+"source": "Livemint",
+"published": 1793076227.0,
+"stocks": [
+"Apple (AAPL)"
+],
+"keywords": []
+},
+{
 "key": "31e338b7bfdf1d7f",
 "title": "Kazakhstan positions AI infrastructure as a potential export industry after Nvidia CEO's visit",
 "summary": "",
@@ -117,6 +153,18 @@
 "published": 1793073743.0,
 "stocks": [
 "Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "af879538c4bb2101",
+"title": "AMD, Nvidia target substrate capacity amid 4x expansion constraints",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNFlDWGR2eEJmREtURU5OaFg4Wko1a1VzSkVkMFBwemJQWlZucEJfZzdFbjR3UEZ3SWN2aDJuTC12bEg1ZWhYeWo5RkRBc2NIYUhyczhxUld5MFFVRnRYRk92LWI3NkVhWk9Vb1plUWVnYUNYWXY0b0dzZ3BjU0U2LVZyUFdhczBoM1JaNDFWQXZPVHZV?oc=5",
+"source": "digitimes",
+"published": 1793073518.0,
+"stocks": [
+"Nvidia (NVDA)"
 ],
 "keywords": []
 },
@@ -4828,54 +4876,6 @@
 "published": 1793028435.0,
 "stocks": [
 "Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "5805d10e1037af72",
-"title": "Meta Platforms To Raise $95 Billion For A.I. Investments",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAzaE1oYXZ5dXJsQ0htdlFwRHRzSFZGcVpSTFJoaF94NnZwRUFpandNNm03TTRXYzBiQkpZVEQ4WGNZRElLOHV6a2x5SWxFTDkxcWJuNFNIQ2J4Yy1uV0NCRGxrRlhzbF9VWWtaOTdkblh6eUIyYnfSAXZBVV95cUxQM2hNaGF2eXVybENIbXZRcER0c0hWRnFaUkxSaGhfeDZ2cEVBaWp3TTZtN000V2MwYkJKWVREOFhjWURJSzh1emtseUlsRUw5MXFibjRTSENieGMtbldDQkRsa0ZYc2xfVVlrWjk3ZG5YenlCMmJ3?oc=5",
-"source": "Baystreet.ca",
-"published": 1793028331.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "7f7756f2caab1322",
-"title": "Tesla stock jumps as Barclays bets a SpaceX takeout bump is coming",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaEpBd09PLWJZTDAtQUNhVWpsSDA1MFl1ZzAxbkNPQ2RnOGxzMnlVV3RONDFqMTRhUkJsakI4WmdwOUVWVG92TkZPeGZYdm9pMFpwX3VCd2JCWk5fV0ZHY1RVSGo4SkNEb2RDdGNEOHZrT3RKMEExNlRQSTh4czRQUmxsQ0RzQUM3REZkM0JMNU93ajFXeks2X0x6MFFTaUpyZkJ2MmJ4OXJrRXRnR19GRXp4ZUhiV0gzSHZCSVphaFpuQVJHTi1BLXR3?oc=5",
-"source": "Yahoo Finance",
-"published": 1793028078.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "03da19ff2a80c436",
-"title": "Tesla Stock, Upgraded On SpaceX Prospects, Moves Into A Buy Zone",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNS09TYTRJaTJCUzM5QTYxZTN1SVpCNzdiQ1d1c0J2VnY4NG9fY3B5LUpibWxOaExMX1ptMU5XTjVoalhKeXl1aU9PdF9MWWoyXzJjak9aWV9FMWRfb1NNWkxYbWJURDF3MnZMNXpQa05LbkdtMFZ2NjZIVXVuOGRVNUJGb1pUTGFFNU5vbUc0SHNjSlk?oc=5",
-"source": "Investor's Business Daily",
-"published": 1793027940.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "70e01c1b9c4c77cc",
-"title": "Not AMD. Not Marvell. Here's Which Company Nvidia Needs to Be Worried About.",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSUlOdFp3Y2NRLXhramhUYW00bFJleG9kX2R2bW85aV81ZUxJSnRFMUZ0TV9aZTlacGFQSHFqSFBsYjlZZU5ZUGo3bzJXXzhyMWQ2MnVjSWJ1UlY2dGgyUW04SnNrZjUtYUx2ajRxYUFrTVBESUJRYjFuNUt0WjlxV2FWTk9vZmMtd21GNGVYcU1sU00?oc=5",
-"source": "The Motley Fool",
-"published": 1793027931.0,
-"stocks": [
-"Nvidia (NVDA)"
 ],
 "keywords": []
 }

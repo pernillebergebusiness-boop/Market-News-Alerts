@@ -1,5 +1,5 @@
 {
-"updated": 1793102556.2990696,
+"updated": 1793105595.0898616,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -69,9 +69,35 @@
 }
 ],
 "feed_problems": [
-"Yahoo Finance: HTTPError"
+"Yahoo Finance: HTTPError",
+"Oslo Børs (Google News): HTTPError",
+"Norges Bank (Google News): HTTPError",
+"Markets (Google News): HTTPError",
+"Equinor (Google News): HTTPError",
+"Aker BP (Google News): HTTPError",
+"Aker (Google News): HTTPError",
+"Kongsberg Gruppen (Google News): HTTPError",
+"DNB (Google News): HTTPError",
+"Mowi (Google News): HTTPError",
+"Nvidia (Google News): HTTPError",
+"Meta (Google News): HTTPError",
+"Tesla (Google News): HTTPError",
+"Apple (Google News): HTTPError",
+"Microsoft (Google News): HTTPError"
 ],
 "items": [
+{
+"key": "4b6b9012c92f0763",
+"title": "Oil prices edge lower amid renewed diplomatic efforts to end Mideast conflict",
+"summary": "Renewed diplomatic efforts to end the U.S.-Israeli war with Iran pushed oil prices lower",
+"link": "https://www.cnbc.com/2026/10/27/oil-today-iran-us-crude-wti-brent-trump.html",
+"source": "CNBC Top News",
+"published": 1793105186.0,
+"stocks": [],
+"keywords": [
+"oil prices"
+]
+},
 {
 "key": "1a9200060c96c1f9",
 "title": "GeForce partners \"cannot purchase\" RTX 5090 GPUs from Nvidia",
@@ -4866,18 +4892,6 @@
 "published": 1793042717.0,
 "stocks": [
 "Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "88eb09c1678ade3c",
-"title": "Microsoft offers buyouts to 60,000 employees",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbXdXOUI5c1dIeHkxdmxWcUU5S1RNbUtyRHBQM3dOYThRbV9NNkNFcVp1RmY4UVR6c0xIVElCOXNhNTlzc05rMXFXX0xYOGw5LWx4LUh4VldPNUcyWGhBdHdHMDJYdXkzckxfbVdMa2I4NTZwaWE3SUsxYVVyVGlsdFgybWJvTzNyajdOMDJkRWdxYmQ3elYyeGZYWHg?oc=5",
-"source": "Yahoo Finance",
-"published": 1793042714.0,
-"stocks": [
-"Microsoft (MSFT)"
 ],
 "keywords": []
 }

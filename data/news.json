@@ -1,5 +1,5 @@
 {
-"updated": 1793159536.8920615,
+"updated": 1793161910.5792663,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,6 +73,55 @@
 ],
 "items": [
 {
+"key": "cef2c48eafbc0cee",
+"title": "Apple Nibbles Away at Nvidia",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNck9lNUR1R2dIbjJzUktyN0FjYWNfY2pSUHlQbGJQYkZoei1ubFd4U3dUZWxsOU1uTWVOa0o4M1RfZHlHdFo0dEpFZnBrNGZ3eUxBTzB3WFRrSmJhSDB2NWtZcElIcW13Z2RXQzBDUzlBbk9yX1dGVnhwNFF0cUtlc3hqZWFjbEk?oc=5",
+"source": "The Daily Upside",
+"published": 1793160149.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "3f001fa99825bc4b",
+"title": "Oracle expands AI chip offerings with Google, Nvidia, and Cerebras",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ZZm1YdFN3VkdWX2JXQjM4TlFhTzVIMVNDQ1lldmEyc2o0QmN3MG1lRVNiQjBpUmVSeHBmVzVxUHp2aUx4Y3pWaHhRU3FSck5qWk5kZURuQnB5M1FfeWthLWkybk9rTFF2VTFydjlzU1pobTdSbzlNZll6TVk?oc=5",
+"source": "Tech Wire Asia",
+"published": 1793160089.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "50bfbc226b0d67ab",
+"title": "Asian stocks rise after a rally on Wall Street, while oil prices edge higher",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUzAxNzl3TUJBV0ZDYTljbzd6S29DWmp0bkw2NnBsRjAwUEhVWmdSQVVaTE9NMG9tMElJX2hxR1JmQXJ2QUJaNC1vVVhCbWN5Y2JKZU1wSjB6RXlNVFRqZElxQTVocjBSWFVEcFpGOFVORnltbmNhQTdVOXFaT09RQVhqUGVGMEFUSWhXZDBlejlwZFlxekxvazMtSkdBdVUwVFE?oc=5",
+"source": "Yahoo Finance",
+"published": 1793159880.0,
+"stocks": [],
+"keywords": [
+"oil prices"
+]
+},
+{
+"key": "37ac4d4b208f5592",
+"title": "Equinor, Aker BP team up to unlock 2.8 Bboe of tight reservoir resources offshore Norway",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNQWU4SGtLc25OcVRYSldNbnprdW9obGhMVWtaS3o3Tks3TFIxOHRzR3pwREY1NmpBYXpQTy1FdzlNd1R1YWYzTDItbS1xVWlJUWQyWm4wUkFvR2FiUEtudURXOHpEeW1yRG9tR2xvZUxocl9VQVRaTTVxRUVla3ZydlM4cDZJSko2MWh6WlF5VjhWdWJEU2ZqdTg3RHQ5WjJEYlJhSzlrWWlWd1NQMElHSHZGMUtfRjkyV1Jlc1JHZThQOGdfUkthdlgxeHNhR29mTkpkdng5ckx3NHppclpxaXVxaE1nd0VKaXRqMnpEWVA2LWdOUTNOMm1pcksyb2dKUTFIYW82VjlSdDZlSWVQUUlCaWh3VUx0bEMyZUtmMGxpNG91?oc=5",
+"source": "Offshore Magazine",
+"published": 1793159536.0,
+"stocks": [
+"Equinor (EQNR)",
+"Aker BP (AKRBP)"
+],
+"keywords": []
+},
+{
 "key": "5695cbf76cc9d438",
 "title": "TSLA Stock Is October’s Mag 7 King — But 2 Motorcycle Stocks Race Past Tesla Even As Chinese EV Stocks See Red",
 "summary": "",
@@ -93,6 +142,18 @@
 "published": 1793156893.0,
 "stocks": [
 "Apple (AAPL)"
+],
+"keywords": []
+},
+{
+"key": "5262a8f3000ac398",
+"title": "TSLA Stock Is October’s Mag 7 King — But 2 Motorcycle Stocks Race Past Tesla Even As Chinese EV Stocks See Red",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOURYQ3NmTEp2ZzFRUW1kcC1lMTFUY2lfTVltbHZWeTYyWmhONndlbHFOWFlEcEx6aVQ4NG4zSTk1anB3M3lINl93cWw2Q2ktdEE1WGZXRzB0a3RpNU5xY3NFLVlhaGF2a0RXMW9rY19mellIdjJqM3M1a3hpUGVieVVuVDludDlVN1ZMTGJGZVZ6TTA?oc=5",
+"source": "Yahoo Finance",
+"published": 1793156880.0,
+"stocks": [
+"Tesla (TSLA)"
 ],
 "keywords": []
 },
@@ -133,6 +194,32 @@
 "keywords": []
 },
 {
+"key": "5aaf32bd50a47142",
+"title": "Microsoft Whistleblower Alleges Foreign Engineer Was Approved to Access U.S. Government Cloud Logs",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOLUd0OC1hYzc1cENLcGRyemdyY1ZGczY4cXlFRnZuQkgyOEttZDJpbHo4Wl9PbTJaZE5pM1hsb1VackFhN1lYX19rNGRGM1hGR0hsaG5xQ1NCTHd4cU1iTlNfUXZUM0tWQWxIbXFfbHdvRFVGUUU0ODg1NWlHZnlRQUNBYklTLTdtTzJZ0gGLAUFVX3lxTE4tR3Q4LWFjNzVwQ0twZHJ6Z3JjVkZzNjhxeUVGdm5CSDI4S21kMmlsejhaX09tMlpkTmkzWGxvVVpyQWE3WVhfX2s0ZEYzWEZHSGxobnFDU0JMd3hxTWJOU19RdlQzS1ZBbEhtcV9sd29EVUZRRTQ4ODU1aUdmeVFBQ0FiSVMtN21PMlk?oc=5",
+"source": "CyberSecurityNews",
+"published": 1793156669.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "68351a0e10b4abd7",
+"title": "Blockmate Enters AI Neocloud Market with Acquisition of NVIDIA B200 Compute Node",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVEg5VGVqN2JtMkFUamxjRElvVWRLVk1uUXRlWkVSMVU1OFFLV1NIMW5KTXV0bEFDeUw3SDlmbDBvSDRNZjd4WVpaVDljRjNFYVJ6cU1Zd1pYUXlLTzZlUHJxUGhGcUlLMHByZ1hjSFpfV0RvT1FyVHhqTnROcUFSZEpIZ1NELXlsNDFSb3JkVnFGTHhCTWVXZ3NtVnptVVNFc1R0OExpaDJ3a2M?oc=5",
+"source": "Investing News Network",
+"published": 1793155848.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": [
+"acquisition"
+]
+},
+{
 "key": "052899475ef61c6a",
 "title": "Tesla Cybercab Battery Pack: 4 Modules vs Model Y [2026]",
 "summary": "",
@@ -155,6 +242,20 @@
 "Nvidia (NVDA)"
 ],
 "keywords": []
+},
+{
+"key": "ab268651bf4e20f9",
+"title": "Is SpaceX’s acquisition of Tesla a bailout? A prominent scholar remarks: It is akin to trading a Buick for a Gulfstream.",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZE51d210clRKVUNIRUhYQklmbS1jRE1IdjhFVHI3MGNEN3JSeG9TVDdUYzNRWG1tX0tEUEVZdW85azNZamxXRy1ERFYzc0NSYVVxaVo4SE1yTEZoSVJVbm5MUHFfTFFFRUhZVnY1OVNtaUszUGxsT05FQnZ5V3lZOFJSb3BxbEF3ZG9ubHMtR3JXTjRQS3lTN3BHY203eDg?oc=5",
+"source": "Moomoo",
+"published": 1793155018.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": [
+"acquisition"
+]
 },
 {
 "key": "031cebe2a8cf5760",
@@ -333,6 +434,18 @@
 "published": 1793150325.0,
 "stocks": [
 "Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "2effaf610984740d",
+"title": "Nvidia-Backed Firm Launches $3.1 Billion GPU Loan into Market",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWG4yWWNoTk85a0VzNWR5dnhLNTZUU3RmTVJWSnNJWmZta1FURTYxdXExMmR3ekxwVmRiUU9LaW40ellxb0JFWDJ1RHQ0c3JCSFlxSEF5UmZWNWJ5d2cyaVR5Vl9LMG1EODd2TjhuNnloRXotNzJDZGp5U3V0TXBLYTdhVW44TTlfdVFZUXRPS0ZWRVBQaDFHWVJZWkpqbE1MNUcydEZPckVqU1VBOWs4Tw?oc=5",
+"source": "Bloomberg",
+"published": 1793150040.0,
+"stocks": [
+"Nvidia (NVDA)"
 ],
 "keywords": []
 },
@@ -4769,115 +4882,6 @@
 "published": 1793106055.0,
 "stocks": [
 "Equinor (EQNR)"
-],
-"keywords": []
-},
-{
-"key": "b25f790093f8673c",
-"title": "PrimeXBT Adds Seven Tokenized Stock Crypto Futures, Including Tesla, SpaceX and Nvidia",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcy1TN3ZGUG9lZW51XzE4aFVCVWF1SEdSYU5hOXNLdVFLOFJTYXkwN2V3eG80WllVTi1jcmZ5V1lxeVJlZ1Y5SXQtekxjU1FjUlJCRV9iRlZsWVlmTTdIbzk1NnM5M1FJb2gyNlUtNjdCTUhMMlFScWZpWm5tel9ZR1VPTWItSXhEY1plcEV0OFNsOTBmVHhydzhjUzZXbXNzN3c?oc=5",
-"source": "Yahoo Finance",
-"published": 1793106000.0,
-"stocks": [
-"Nvidia (NVDA)",
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "42b4b1fea39899ed",
-"title": "Microsoft offers 60,000 workers buyouts amid AI push",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVnpSY1hqT2E1Z0tqVFVKSl9HRFVNUzlySXlKYkZYY1lrVjd6MmZ4MGVLeDZFQ0pOWEl2QWF4Qzc3M2kxcWpabkRYd2hzaHRmdjdaMEpGd0JKR3dqT1BMcVZ0ekFoUGpic3dqMWl4cVZYdWdqbVljMmVWVlo0QVNGMmY0aXY2clI4eEhpeWhSWkY4MDB4YWJTdFBkdDdGMkpJSnNUdXZvZUdmVUd5a3hVMGZpb1U?oc=5",
-"source": "USA Today",
-"published": 1793105916.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "019cf33cb2cbd20a",
-"title": "Windows 11's latest Microsoft 365 feature walks a fine line between useful and advertising",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdDF4dkVLbW1Ubktsbk1OdG4yTXBlY1AyZG52YW1PLXAySnpURTI0ZlNnenZzZUhrbndUaVdvVzFhT1ZRNzBuTXFLaTQtU0xNWnBSdmNSZl9IUDl3Q2w0MWVCczRHeG85RENrSzhLUGE4S001REpHMk1ISjl4R1VBYVBnQTBVTE1EX0c4aGM0MHVSeHRWSWthOE81MUhwSmFjdzM4bXFpZ1lrM3lYTE1QRFZlMG8?oc=5",
-"source": "Windows Central",
-"published": 1793105761.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "eb5a54a1454590f2",
-"title": "The Last Month Exposed The Risk Narrative Between Nvidia Vs.Taiwan Semiconductor",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRGdwejU0cjNMRHN5aWNSLXAxOVpyWDNBRHd1a1d4N0ZVcXpKcVhYNUM0dUR2aktHTVdjRktMVDFjT1NZLVlFMTBIWlVOdVFjWWVPLWdhS1NBeHNqSGdNVVUxT3BFaUxyR3RUcDFYMFItUzJZdHE4S3U2THZFX25QNTdudTRVYXRQNFh5UUh6d29tZEhkZFEwaF9jQm15c3AzN3RlNXdhbnhEVWFrRVQ5SHZyLUQycUN1YTh0eTdGZDVVdw?oc=5",
-"source": "24/7 Wall St.",
-"published": 1793105683.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "bb896c6e3355eb8c",
-"title": "Is Tesla Stock Safer Or Riskier Than A Year Ago?",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSlFQelAwWFBZLVlmcVRTN3luc1dSSWI2Tmg3Uk0td2FaSllrNjItUDdvclhsZkZuX0EzcEJCTmRPaV9EdFZXbE9KNkJmdHNncXlxNlp5RjVvR2dWWDN5MFFaNVdpVjNWbGdBU1BvRktZZ2M5ZWlKTUJGa3lwcmxMNUJKTnY3Tk96bzN2N3E2aU9IVXcyRVpKcERn?oc=5",
-"source": "Yahoo Finance",
-"published": 1793105663.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "df9ff19040a33f3b",
-"title": "Tesla Semi rival cuts diesel use by 36.5% and lowers charging costs",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRGdUWml3NTRtZk5QS2lGQWgyS3ByeE00Q0hweG9FenBmOU9uVkxydXBKQmRPRGJJYWY5SnAwNGZxcHpydkVfaFBSaDFtbW01VE80RnNGMnVmaENWNWs4cTJlOXJCXzRNYkxPdHZxcmhCWkJTejg1eDdGbVFPVmFhSEtiV3dDY3FFVWVxYWdiMzN3dw?oc=5",
-"source": "Interesting Engineering",
-"published": 1793105640.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "2dfd7bfe2fbf3554",
-"title": "Is Tesla Stock Safer Or Riskier Than A Year Ago?",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOLXlLS2ZlZHNlWG4tT0ZxQjJXeGxNdS04Mlc3MVk0Y1hPcTFXRlJPYXpJeTdXQm5JcERJb2lLeHZyUDRITFN2WEd5OE4xTkV0dXBKcm4xUnZKWmRwUER0S3BvaWw1LUgySEpaaVhWc05SUG1CSUpLcFNrcGFXdmVkU3VHemFIZlhZR2VORVZNMFc0d0xtckpSMkpYN2MzT2pLdzdsYnMyTkdQekxl?oc=5",
-"source": "Trefis",
-"published": 1793105634.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "c84e0804c53e7cb8",
-"title": "Nvidia to invest $3 billion in Meta, expand partnership on Muse",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWFVwN1hfQVhaWm9LZkY0bERYY0JtOVBtR2dSSHV4T1c0eU91TjN6WXAwTHNvZmhnQlpkUENkSGhYT21aNWlBWjM0dXNFSHp5andOeTlKRzhDN3NremU5QzhTdDlRMThvMGZFck02ZnUtRWIybmloSTJPVnktWlVSRWdOZ1c3QWY3bk1GVUN1YWx4aExfRnJ4b2VtNlFia0wtVWNQZE5mcl9Ld2JUT3g5X1FRT1lYSUVpVWc?oc=5",
-"source": "Yahoo Finance",
-"published": 1793105569.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "6535219d0617e7fb",
-"title": "Oppenheimer Revamps Microsoft Stock Price Target For 2027",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMDRnVGVGcWsyWjJkS0pUdXV3TTFzN1loWEhNaGIyWGpWVm1EU2t5TnItS0dHSk4tM1dpdWxaMHg5WVZUN3VPUmk1R2p0cXpGSlAxS01nUXhtb182dEpWTk44REFBRGZrMHFQQ0RXOVJ4VTNFRTRhaEttYWpXMGdsVGZfUjhrR2otV1dJU081eVVmOXhWU2NFTUkzNlRoUzZYLVpjR2lnaWZRUQ?oc=5",
-"source": "Yahoo Finance",
-"published": 1793105525.0,
-"stocks": [
-"Microsoft (MSFT)"
 ],
 "keywords": []
 }

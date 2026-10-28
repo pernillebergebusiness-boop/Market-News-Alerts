@@ -1,5 +1,5 @@
 {
-"updated": 1793157043.153861,
+"updated": 1793159536.8920615,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,6 +73,54 @@
 ],
 "items": [
 {
+"key": "5695cbf76cc9d438",
+"title": "TSLA Stock Is October’s Mag 7 King — But 2 Motorcycle Stocks Race Past Tesla Even As Chinese EV Stocks See Red",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQbmRobEdyUUtkY18tem1oa3FXYWxSc3hJSGRUSkwtZ2hURjJzQ2hTeGwyVDRWOWp4VmV2ektyeE51WUpvNk1ROUhQam8zTDdnaEtsM1BCMTRWLTktaENqZ3VJVm1mN2pBU2s5YUJsTmNKcld2emIxOGZ4aVZxWkJSWkYxTzRPejVGUlJwa2JtMDRzenFOa0ZnYjk4M1E4WkI4UEQ0M2ZqN19MeU1CNW44VDV2R2RiakVoMHBxUDJjMFkxWU5SaFFZMWlJTWo4N1BLYkZkNVRQbzJPaW9BemI4NWZMX0JTNjFJdmJZVjdtdmNRLUNRSGRFTXVMNU5qQQ?oc=5",
+"source": "TradingView",
+"published": 1793156917.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "16d55648f21c378a",
+"title": "Progressive Investment Management Corp trims Apple Inc stake",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcGlna3QtczZIS1pJQXdlVTlnSmJEeEVfNVV2NEpad21MdXluamU2bEhUTXhpWkhpLXRmdEd6X3pkRjJ0ZFJPZkVzdzZsWXFvU3JBZFVvU1pscGNialJjVjBUWFhaRXA2dlp3RGxfXzZVQmlxTVlGTHFJek5NYjloamZiZC1TQmxsUlpZcG9YWnczaVl6NzMtaHJqWTdyOEttMVdyMl8waVltWUtPLXlNb1h4b1M5UnNtLXJHTkdlbExxTk9fUC0xTjZTMzFQVUROZVNabk9DSWJiOUJxTlE?oc=5",
+"source": "The Globe and Mail",
+"published": 1793156893.0,
+"stocks": [
+"Apple (AAPL)"
+],
+"keywords": []
+},
+{
+"key": "f0b3c1831e766c08",
+"title": "Microsoft Urges Java Upgrade Planning Ahead of 2027 Support Deadlines",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSXYxQzd1TlJDV1hwN0UwMXBrZ3QyVTB0ZUk4d1JzanVfQmgyOHlCM196YU5aMElIbTBYWHJaUEVHS2xvU0p6OHkyVnNEM0RnX3MwbjQwM0k1V1BWTmJMWlYwSVI3NllMRDNDaU5xdHR3dndUMW9TTjdteVEzT1JVOVB6RzJxYWNvUjJidmJjamtpSnRqcU9pM0MtUXJBSmZ4UGhlZjJfUEVPOU92TjE0cUJ0b3BKeVVKWWlHaTlQVnhYQ2xuRHc?oc=5",
+"source": "Visual Studio Magazine",
+"published": 1793156874.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "01641c2885ab1a2c",
+"title": "Microsoft Shows PostgreSQL Development Inside VS Code",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdjdTVUFpaDhsWldCb1A3ZXJ4UkFuVXUxVVMyN3RHaDA5eXM3V2RZZUJuRVVvZEREOE5paUJLVTRENm9CSGxKY2J2Zi1rV3paNTRKVnNkYnhESngwdHZsZmlDOThoZkh5LVIzb1QxakpMVndHUFBZdEwzTjJjU2pmMkxPa01QV0RtMjNXd2FodGFLanA0ek1QMWp6cUU0QXB4VC1LTXFVWUVlUXZTck5LSg?oc=5",
+"source": "Visual Studio Magazine",
+"published": 1793156874.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
 "key": "9d46d189eee60bab",
 "title": "Futures Mixed, Five Key Movers Late; Fed, Microsoft, Google Loom",
 "summary": "",
@@ -97,6 +145,18 @@
 "keywords": []
 },
 {
+"key": "c308ada12ff2f258",
+"title": "AMD vs Nvidia AI Chips: 432 GB vs 288 GB [2026]",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPN21ZdVE4c0RZa3pxQmZjSEQwSVFEbWQ3WG9Vajl0RGxidm9TLUYwQWtXUENWRm01bGxHYVhweGExa2JGNlhzSUwwdnBrNTc0UHVqU0RLclNRZmlFTHpiOG1NS2VFZnYyalRIcmt6am5RbFdxaUZtaXdFbDJHUUQ4ZE5lT3pPM3ltcTNTUlp0TXMtb2xxRXVj?oc=5",
+"source": "shattered.io",
+"published": 1793155535.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
 "key": "031cebe2a8cf5760",
 "title": "Nvidia's Madison Huang returns to Seoul amid physical AI push",
 "summary": "",
@@ -105,6 +165,30 @@
 "published": 1793154822.0,
 "stocks": [
 "Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "8865c7db6cd7712d",
+"title": "‘Where Are The Cybercabs?’ Tesla Investor Ross Gerber Takes Aim at Elon Musk as Amazon’s Zoox Eyes Expansion With Santa Monica Deal for 150 Robotaxis",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQN2hlRUJpRFZUNENPUDNMTmdyMEFINmhzaVdSQkxPeERZZlRvY0dBQ3owOEgzZHpTZHVZM2VKSmpuTmg0MGozakJVWnZPdi0tMkNCSHh1Z1ZSM0psWFpnbkVySGp2YnpiTGJqMEg0UlhMbmIwOXg3VV9JUHdSdUFOLWNodzdXdXEtMDhNdExiOGpEOS1BaGR5dGxFZFg?oc=5",
+"source": "Yahoo Finance",
+"published": 1793154600.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "0672d7458a02fbea",
+"title": "How the Microsoft and Oracle partnership affects IT workloads",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU3lfUzJYSlVSNWd1T28wNWlReE10alRqdDJwVkxxdTVESUU4ZmtwY2toX0hmelhiQlBwYkJYazBJeUxXR1kwUVhlZFZNalBDUGlWWXE1OFpxR2lQUkFWd0xXemZqejVBd3NTSlhZRGZRa0kyREpqV2tkdzQyMVFCYlpWTTk5MEJVZkJGa1BzenlzNUp0bnN5VktlOGxGXzcxSFFN?oc=5",
+"source": "TechTarget",
+"published": 1793154252.0,
+"stocks": [
+"Microsoft (MSFT)"
 ],
 "keywords": []
 },
@@ -241,6 +325,18 @@
 "keywords": []
 },
 {
+"key": "1ad9d81dbeb5dc30",
+"title": "Tesla Made a Car Cling to the Ceiling - Now, Make Flying Useful",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeHdCTUVpN3BpUzFMWC1Ta1NianZ2MllMRVNiRkVHSG1pUndyS29Ud1B3RmVUU3Zhd3pPRzV2U1hLMHhaSzZCNUFOWXRrdG5uOU02YnNoLUhDU3UyMjNlR0trVG90VWpOSjg0X2RWT1JiMVVpU0M5eDlmM2liMmY0TERscXY3alFmVjFr?oc=5",
+"source": "HackerNoon",
+"published": 1793150325.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
 "key": "ee979612b8694c3d",
 "title": "Nvidia-Backed Firm Launches $3.1 Billion GPU Loan into Market",
 "summary": "",
@@ -369,6 +465,42 @@
 "published": 1793145932.0,
 "stocks": [
 "Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "33551a970abb2e31",
+"title": "VMware, Nvidia team up to extend IT infrastructure for AI",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaVBGcFF1T29xamg4NFpFSVlmV2ZjZ25VaDVZVFp2UEoxd1M4aHhmN2NhR0wyUEZDN1NNNEtZT2JZTVJiWDM4THp6TDlzYnU1bFZROEItM1VtcEVXR0FLaXlsTkhkTDB6QldFMkQ1RVFXRU5QUUY1WXBIQnhaRGVlbzNlVkVCTUpYVDA2NGdXM0J0Ullsa1AxTHFIM0M?oc=5",
+"source": "TechTarget",
+"published": 1793145912.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "19d3ac110da20e58",
+"title": "Nvidia Arm deal another step closer to -- death?",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUFNMdDNrVjBPN3hvT1hfZGxmNnVuZ0xfWW9oVmI0ZWJBLTRHbXJYVHJ4TkZiZXhjN2c5dmJoTEw3SHlIdV9YYWpxSUFFR1ptREY0VHJPblVxYkVaSUFhYnFSRHhqbGVud1VtaHZUbEpMSWpnLVB0M0RxWllrWU1QSk5rb2hCQVg2SGYwOQ?oc=5",
+"source": "TechTarget",
+"published": 1793145838.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "25cc7076f0c93688",
+"title": "Nvidia launches integrated AI platform for VMware vSphere 7",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLUhnZHMxcDdPU0RLN1c1Z0N0Q3hJU3BkcTZNQXZIREhuRG1qcHM5amNDU19lNlN3ZDdXNmo1QU1YckRJNUhQMGplbWphejZKSUtoNVFsNWVldzR5LTRRUmx3SzJxaVQtZGV6QUJSX3FOX0kzbGRvOU1xZzBwMlc2YTlldUZMemtxMWtjZzhCT1owWGFHajU2eVp5dFNzdi03?oc=5",
+"source": "TechTarget",
+"published": 1793145824.0,
+"stocks": [
+"Nvidia (NVDA)"
 ],
 "keywords": []
 },
@@ -4744,138 +4876,6 @@
 "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMDRnVGVGcWsyWjJkS0pUdXV3TTFzN1loWEhNaGIyWGpWVm1EU2t5TnItS0dHSk4tM1dpdWxaMHg5WVZUN3VPUmk1R2p0cXpGSlAxS01nUXhtb182dEpWTk44REFBRGZrMHFQQ0RXOVJ4VTNFRTRhaEttYWpXMGdsVGZfUjhrR2otV1dJU081eVVmOXhWU2NFTUkzNlRoUzZYLVpjR2lnaWZRUQ?oc=5",
 "source": "Yahoo Finance",
 "published": 1793105525.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "bd3d2a9968a1304a",
-"title": "Oppenheimer Revamps Microsoft Stock Price Target For 2027",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMklyLWM3X0tLb0NSMXYweDl3bDRfeklMcU02dnd5Q05DLUZfc1ctRzBkcG0yTVRGbmdhR0c0N0dIb1VoX1NLWUpJekVhWHBsOW53RnpWNEZ3TjVyM1BoUkFtZjRJbWdMNUtVR1NyV0RlWUpoNWc5TFNNUTlDNDV2RlZmSG82emsxbm9pQy1QNy1mNnFnWkpHb3JwT2dmckpSYmNlclZsdk00Um1paTZ6bWZmWjRVTWd3?oc=5",
-"source": "TradingView",
-"published": 1793105525.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "962a6514b8793c77",
-"title": "Zacks.com featured highlights include NVIDIA, Micron Technology and Sandisk",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNY2h3VlFKTDY0Y1A3RmtkZm80VjZ4V1hoWmQwbWI5V0ZaZ1o3TG4wdVJTc1FvM1ptT3BYQXVvaFRSNXFScU8xM045NVIyVWx1b2lYZTZscG8xY29OM1EzU3g3TWNSdEVVVnFkTDFPQ0RKY2ZBRS1EQ2oxeDRvUUl0b3p6WWlRUVBweFFiTnFB?oc=5",
-"source": "Yahoo! Finance Canada",
-"published": 1793105460.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "5069af62d6044d75",
-"title": "Zacks Investment Ideas feature highlights: SpaceX and Tesla",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdGpicjRnRVIxMXlTeVgxTG5SSEtCbmZSS2dFR3RjaEtVUGZzNE9TcmhGTklOeDI5QmlEV0liTXBVV01OTk9iN2VTTTkyVy1iUWtnNDluTGFCMDVqckpjR3ZwR1M5MHlZcVM1WkR4MU1HdVZIN01TZTFvNFhkYVZ3bGs0ZTB4N1RmaDNSeF9uUGV0ZTRtbjhXZWRjVV8teF92bjY4RXZlVll1Zw?oc=5",
-"source": "Yahoo Finance",
-"published": 1793105340.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "341b97397d7636dc",
-"title": "Azure and Copilot Reacceleration Reinforce Microsoft’s (MSFT) AI Leadership",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYVZFOW9xRzZMN1JXSzNHLVZlU3pfbllDN2E5THFwcjhDemxPR2h5Z0YtUGFyQ2RheUpDTHh0S1ZWUFdjWVE3Z1ZWaUx3ejUwNEJZQk5kdUI2QXVNT0VjZHVpa3RJeHQxNXF0MnJjM3pBRzk0OVgwLWM3eEpScDZiR2FPVVdlcjUxZWtKRUlYOWRzeHFCVGVMd1BaNkp6UnhkWEtkeWM1a0NuX1dON2xkRlln?oc=5",
-"source": "Yahoo Finance",
-"published": 1793105332.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "ffdf6c5148a79962",
-"title": "Alphabet vs Microsoft: Which stock has the better setup ahead of earnings",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdHdXVGFGdWVBdHd2Nl9rbHRhZ1hyalhaMXVPbEJCU3JMN1hXTUlRYks4b0JnQjhZTVpVbklaQ1FIQmI0andUTnpETEZLQmNFM1dmYkV4QUVkVUliRHRCUGIxSnZvb3lmczQtMXd4MmRQV0IwdnpvbmlYa1ZDbHlJdFVMX2dEX2Fpbmw1RnBLRUZlRl9ocTN6NzVjbTdMcGFTcS12SmFuSlNMeHo5Z1ppbEx6aFVCQkpuUDdqZ0VheDREOXEyQ0VGYkwzTUJVUWM?oc=5",
-"source": "Investing.com",
-"published": 1793105221.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "4b6b9012c92f0763",
-"title": "Oil prices edge lower amid renewed diplomatic efforts to end Mideast conflict",
-"summary": "Renewed diplomatic efforts to end the U.S.-Israeli war with Iran pushed oil prices lower",
-"link": "https://www.cnbc.com/2026/10/27/oil-today-iran-us-crude-wti-brent-trump.html",
-"source": "CNBC Top News",
-"published": 1793105186.0,
-"stocks": [],
-"keywords": [
-"oil prices"
-]
-},
-{
-"key": "4a627c182a9c49b3",
-"title": "Big Tech Is About to Report. Nvidia Investors Should Watch One Number.",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQbXkyVEtGRVlOU3QtMm1Nc3NvUnJKMUFQWkZaQlV0ODVvYm9uSEtyTHZUblpFV2g5TXZ4RThyTURycmpRYUltdklqUTlrSjBSZzFxeVBhZmRjTHFFaGF1RlE2RU0ya2x1S08yTm1MeEFQUV9LUFRhU1pPejViYWYzLXBnbGkzSmtDVGRQdVpGcVRaeTd5UzU2TE9aQ3RUdmthalNobkplOEF2eFNuNnBBYTBTb05Wd2NKZzJfM3RHaWZYUVQ4amJfN245ZGt6RDQtQnBNeFBZakRBT3MwZjAxaw?oc=5",
-"source": "The Globe and Mail",
-"published": 1793105184.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "457b98663c58bf68",
-"title": "Zacks Investment Ideas feature highlights: Nebius, IREN, CoreWeave and Meta Platforms",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPN1I2Q01zTXM2SUpBRkh3MVdIRTVsUXZzLWhTOWM1WlpxNERJaGRrRjdlLVowM3BFcU1Sel9sWTVRTDNzRllRSnNfVGQzbHBic1FXMGlBOTI1T2VYWUJFWVF4bGhyVE53RmU1VDhGN0czSll3aHctVThmSHRZR2VRRFFNMVlPTUhlQWFUTGxFd0huREpx?oc=5",
-"source": "Yahoo Finance UK",
-"published": 1793105160.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "2281438ddd583590",
-"title": "Zacks Investment Ideas feature highlights: Nebius, IREN, CoreWeave and Meta Platforms",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWm1WTmJ6NW5NZE0xVHVscVFpcndsSGs4WERfSzRSWm1Jb0VWYWtkZkxOY1NtMC16NmhER3VBdXMtVTFKem5vQ1ZtSVJydmNFOUZ2b2hZa3AzTkhwWjFsbllJX0dCbWNLWmR3S05FbnJkRER3UDdDYTZPSFVWWXJ1WTdOQVBoZXpQRGJUdUk5YndUM2Y3SjV6aTl1RDVvZmVsbnlpSjM4eFQzUQ?oc=5",
-"source": "Yahoo Finance",
-"published": 1793105160.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "97f78e41b4246c9c",
-"title": "Nvidia Invests $3 Billion in Meta as AI Partnership Deepens",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTC1QdzRwbzU3Ukg5VEdSckRaREZ4LVZmODVzTXd1cWdSNVdoTTVWdk9KbjRZZHNiajZlREw1bTZnb2Y5dXFYbm5hNlN5LVBhLXh6N1MwX0tqNVZQWEt3aVJTQkVYSFgxcXc2dmw0ZTk0WTB3NldMTVFRbWtUcmNPeDU4R0NEalUxbzduMlFNYzhBS2NieEVNSUM0d04tWUM5eTdUVGxBR015cEplQnlyTVRWdVY3RF9IY0E?oc=5",
-"source": "TradingView",
-"published": 1793105150.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "bbe59f43ec1f618d",
-"title": "Microsoft Teams to use AI to detect phishing scams hidden in conversations",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQV0M1X1d0TmwzYmp3THUySjI5M3RTT29Od2NZMXFENXlFenRsV0NFTkRUenBwdklENmg4OW5PSTlDLWhfQmZrM2h1R2dNQ3dZR2kxX24yaFZtSkVDU2tDMnFhaFZ0ZlA1eGhLQlFqUlJUTlF3NHktSnZ1SVVFMDh5WF8yZVVzSTdjNFdpY1pSVEc3V1BTTmNReUV0TWRnRTdYODQzTA?oc=5",
-"source": "The American Bazaar",
-"published": 1793104821.0,
 "stocks": [
 "Microsoft (MSFT)"
 ],

@@ -1,5 +1,5 @@
 {
-"updated": 1793272238.144897,
+"updated": 1793274681.0298264,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,12 +73,324 @@
 ],
 "items": [
 {
+"key": "b80ce463bb5118c4",
+"title": "OpenAI Now Makes Up 11% of Microsoft’s Revenue",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVWFudl9CUnFXSkNHNkxmNnFzWEU3ZWdvb1lJWTN3T1hFcjlBN3JwVHpISmZ6R1VYRzMxeVN6QkJGY2hSTVAybnhvU3pLb0d3a0UzTXFTOFE5TjFTTUtYSjFDYm5URndEN2xWNHZmVjR1QW5TX2QzM2pQT05XeEQxZXo0bGpNU0xJR255Y2JNT2x6UQ?oc=5",
+"source": "24/7 Wall St.",
+"published": 1793274611.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "b2d3f19fc1f62f59",
+"title": "Google, Microsoft Earnings, Stock Market, Fed | October 29 Barron’s Daily",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZXc2eC1lR1J6eEp2ckZXZjQzU25scHpRSFB6ZHpYNlFNcFFOUFFHNWpQbjBfVmJMcHVzZTdoTmhEeDJKVTloRWRxZXBVVHZ3RENVdWZxN2FTZkFDdUJEZFZTbnVpcHZlOUs4bmxGZFoyZjZIWS1GaUNwM1Exb2w1NA?oc=5",
+"source": "Barron's",
+"published": 1793274420.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "1bee9bce4e4728af",
+"title": "Tesla Robotaxi riders report detours after Houston service expands",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fWXpCVHlmMmJteHo3SzJJa0dQQ29ja2dzZjBVLUc2X2xVUzFjLVlfMWdFaGduV2NsOWs2Tnh1ZjJWZTU1V2xSQ1ppZWlxdXgyZDg5ajRWVUZpblFHNi1BdjNZaXUwb2hvMTBSeTU0WVJDcHJjekE?oc=5",
+"source": "The Next Web",
+"published": 1793274313.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "3aa23292995e2098",
+"title": "Premarket movers: Microsoft rises; Alphabet drags software stocks lower",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYThxcmk3ckpVYVNtclh6RTl5cTRNWlYyOXNmVm1qRjVKXzhIZGV3a0c0cU10V3BvdjI3ZTNyeExKYlVqcVhKTkVLSzZ0Q0tjTGk4T1BKelU2R2ZxQTd2SjZXMm1Gc3c4Ny1zcXNZNlhPcF8xNlMtbUlpNHZncWVrc0JZS3ZCUEdmRmhEQXJsdm1KanVqZGFfMC1XZFdoOXRqdnpfd2xsTjRuRmxRTE0yV1ViMVB0WEpyTGtzOEVncFpoVTBu?oc=5",
+"source": "Investing.com",
+"published": 1793274298.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "9f8e0054a52b280f",
+"title": "AI build-out hits snag as Google and Microsoft put off raising capex forecasts",
+"summary": "Microsoft and Alphabet both reported capital expenditures that fell short of estimates, adding to concern over the cost of the AI build-out.",
+"link": "https://www.cnbc.com/2026/10/29/microsoft-google-ai-capex-estimates.html",
+"source": "CNBC Top News",
+"published": 1793274206.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "0ffb24489f948781",
+"title": "Great News for Tesla Stock Investors as a Merger with SpaceX is More Likely",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNelZoc0xVMzMtZVE2NjZCbklGZHhOcG9fdmVjcEhfaWd2c1dZdnVwdU1WbVpNZ3BVVU4yWC1sNXREZFBCX3BXbXg3azlmVXBiOHZJTnRvekQwaU9VU0VCWlJ6b0kzOHhJeUpZOTFSdm1LNl8tOXF1Y1VXcEtfREZpR210SWwtUDVlbHd0VTgzajdwTFVobFJsakswMDZGVkJIY3E3dzlJblJkaVMtaGJrOUxPOU1tTW1uZ3c?oc=5",
+"source": "The Motley Fool",
+"published": 1793273995.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "e04ce2574845de76",
+"title": "Nvidia's $108 Billion Earnings Test: Why the Next Forecast Matters More",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOcEVWMlA0Mi1oaG9hZVMyLVJMX0h5V3E4TWhQbDZMYUxwdDRDTkhyUVFkOVZKbzBSUlhuWnlLSElmQ0JQNVUyYVlBLXhiWlFmeVk1M3E0ZGc2RDlIVUNRUm80NVRjWUNLb3RVUXlJdUdhVUIzbXdMQ3c3Wmt1SlNXY2J5M2EzOV8tSVZlNkRtakdqVUxnSnZWUm9TbXZDOThJeHFRV0dLZG5OdFNDbF9pOUJKeWRUU1FUY0NTd2czUUVtTXBZV0hWdzA2R0ZXQ21CbTJrQWp5YkJCVzk5cjZfa1dB?oc=5",
+"source": "The Globe and Mail",
+"published": 1793273843.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "6e7f995606917069",
+"title": "Don't get the latest Nvidia Drivers if you plan on playing Phantom Blade Zero",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOU0lVYXhhN1czVW1WNHpUT0dvRWs3MjhDZGJkbVJXN1dPUm51UzZNMlB1MTcyczZac0xhRXplODk3RVVfVVpDLWJRVXB3aFNOZ2g1cmZNVFZaRFNuMlRBZWw4aVB5ZUtVRk1tbGctbzhMZXNKUTFGb3hpQUVnWUtpR3ZhZERwRDNMa2Q5X296aWE4ZG1zWVZHZHFtMmg?oc=5",
+"source": "PC Gamer",
+"published": 1793273767.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "217723dac47f5d64",
+"title": "Tesla confirms when $30,000 Cybercab will go on sale, but there's a major catch regarding who can actually buy one",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE51UFlhbmFqeC1kSW9SdVd1SFFibGZYTmtDRnpJa1VnS3JtTVFJZkxySmh2cGg1dnNRSjRnWHUtWEtWSXdybnRuTEFGUWpyVFhvV1RyUWNVaGtPUEgzZDB0VXJ6LS1NTXJUZExaX2RB?oc=5",
+"source": "Supercar Blondie",
+"published": 1793273580.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "16ebfb0a8f6d38ed",
+"title": "Elon Musk Takes a Jab at Apple's $29,799 Mac Studio: 'Makes a Tesla Seem Quite Affordable!'",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQV3d1bmUxZFlHUVRmeXdlM3RCQ0pkSzl1YUJRaXNDX25uWDNQdEQxcG9jX291dXBjeXdUd19ZUklWODBtd1doREswSU1kMEROWE9rajlYV1o5UC1yUjFCREhoYjBaWkN0VUJfbTBHMlUwVTlaRVlISEtkWGhkVHQyOEkwal9RMDdqSWhTMktaVFcwOUtiQjVBSDh4d2JjQVl6VVdtUVpoV1BlT3RlWnFJdC13VDJ2NWN6cHBCVHMyemw3cXF1dHZiNW9fRzB2bFdkR3Aw?oc=5",
+"source": "Benzinga",
+"published": 1793273431.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "fc9debe670c98aaf",
+"title": "Meta’s Fundraising Gets an Early Boost With a $3 Billion Investment From Nvidia. For Nvidia, It’s All About Agentic AI.",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOT0lSUVE2RzRXR3l4NVdsc2FvbTcyTFVjZWZMdW5CZFdYMUVFd0hxbVZMSjU3aWhNREdwQVgxcncxbHpxNDRuaDQ0MzRSQjFHU0NVOTRBS3BuYTQyblNzVkozVm1FOWZSQ0hqUDc2Y1Z3eTRwazFzd0RRMjh1UTRWaXhGN04xTkhiTXd0Q19NZkpTMWgwc3ZTaGozRFBnVEdhN212R1Zib0hqb1o4Y29mQ3hHRVJabjRKUjNrQTRXLVhVdjdxNERxVElKNUlwaWhTb0dYZWEtbjRoLXpCRzBUNE5iTy1WZURuQTI3S2R3?oc=5",
+"source": "Barchart.com",
+"published": 1793273402.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "33f6853c0d91b439",
+"title": "AI build-out hits snag as Google and Microsoft put off raising capex forecasts",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1pM0RNUDRnMFJXZkRoZG5ZdVVXRHozTUtidUxjMXdKbFBHVW9hTjg1NlFPcFcwLTZCQzM3cTRQYnpzRE1LQ3pNUkpxQmN1OEdnN25fZGhNUDlMZ0w0VW5kUGdoWWd4ZDFWNlZBTHFQaVpDd3B2M01UN3ZrcWzSAYIBQVVfeXFMUDhDNzNOa204RlZoNUNMTUZnWEVNY0RVbmtlNjQwc0N6YU0wWlhla29xRE5GRkhZbmwxRjEwNE9lZ2VoaG9mU0loVVJGaEprdmY2TkE3U1luNlE3Q2g2VmJVSlZkQ0RPYVdpSGYzV1lSMFZzZmRjU2lFanhOUThXUzZGZw?oc=5",
+"source": "CNBC",
+"published": 1793273401.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "b031c47de0b54531",
+"title": "Can NVIDIA Stock Jump 50%?",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQXQyVjdJVW4xalMtNHZlclFJN1BOQkxUMElvOFZzZENuX2VCZUplTG1JdVoyZndURXhRaTN2UHZGNEVsM0FwSG41ZWR4TkFUb3VPM2R5cWp2eUw0UktEbzhqbmdiZ0tpSUVGdXA4a3lQMlhUMnlOclRTNXVXQnhZTlcwcDVlb0dDTGRtelV3?oc=5",
+"source": "Trefis",
+"published": 1793273153.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "061a234bda3345db",
+"title": "The Cloud Titans: Microsoft’s Copilot Backlog Challenges Amazon’s Data Center Re-Acceleration",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZFcxclZjdnZ4S2w4MmNMU0tDNjlJclZxRjhSVEN1Y2xnU2VLaEFHZUR5Z0dhU19YamVlRDFsdGVBc1BoZ1BIMXdTUzF6YVdPU1FIUDg0S2RFb2I3Q0t3UlVSSDNRVXRrakk0WndWalRNN1lNa2xRX01TMmZDTHlyZVA2NHlOVWxWTlRkMjJ4NnVqUUg1bXFEQkhKYXcwYk1OSXAtOHJfWHRReVdCZTJVSTRZMm1ldDUzM3ltWFdoUmxkOW5EU0diWlJCTUVOeFU?oc=5",
+"source": "24/7 Wall St.",
+"published": 1793273040.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "ed7b3e78dead7812",
+"title": "D4vd Arrested: 15-Year-Old Found in Tesla [2026]",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZFNwXzFoQW42WVBkdEhKMkNuNks3SDFISDVFM2RyZzc4bHltX3l0VE5EZmdKWERsWUM2dEdzenFxOV9mel9JNjhRbGxXdDhVTktzX1J1dk5RZXA3ZW5jQVc0NXRoc2tQSndJRy11MDRGNWY2bXNqeUNXUGVxYVdjUE5uQUdocW8?oc=5",
+"source": "https://tech-insider.org/",
+"published": 1793272931.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "aa6c2a9dbb8ed501",
+"title": "Criteo appoints former Google, Microsoft exec to board",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSk1UOFJKWkpXVXN2UTVycHhkLXN4THd6aHJQTGJBUXdpR05BOGxOZWtQa01XOTRfcDdNdkp4eGpsX0haRlY1X1FlM1NDUG10VjhGN28taWx3eGd0SXlEVVVFSmVCZUN2Y2FQT3BzazNYRXdYTWRndmtWN2c0ZTZCbGRENXNlMThTM3diYUJkcVU0aTZXM2RWaEd2R2JzUmItd19DeUJ5UmtBOTZyVjRr?oc=5",
+"source": "Investing.com",
+"published": 1793272746.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "9a04d24f8b4e862b",
+"title": "The Cloud Titans: Microsoft’s Copilot Backlog Challenges Amazon’s Data Center Re-Acceleration",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMVMxazdTaGY4ZkIwTThFQ2ZUdm1lU19xT1g0eFBVd0lwemY4TUY3S1NGX3NuWnlWVnhLMV9sNDVFcUF5UjVRN09Fd0tLbGlqb0U2dnA2cS04UzllblU3Njd2b2RFOWRQWFZzdEZueGVzaHk4T3RySzFZazFVRnFmS0gyMUFFZjVKVmpjeGphV29TTWNqY1hzdFBaMC0wNS1TdUl4dmt3?oc=5",
+"source": "Yahoo Finance",
+"published": 1793272510.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "f44c51e1dcd33dad",
+"title": "Nvidia's $108 Billion Earnings Test: Why the Next Forecast Matters More",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNjZXcEJFQ01veENSRFhmM1R5SGpDT1VjT05aelZPZTlpRFVJMWZWYkhPOHlHLTlYel92SktaY2ZyTTgtTUpnbjI5QkhXV1p5NkM3anpOZ2RHNXY0eUNvb213cFQtNkQyU0lKZ2lGMFEwWUJKem13T2NMTU1uU3dYTElHVE1vajFueEtuUUc0d1VmZ2o1amttRk52THpBaU1KM3A5dGNNMmprVFlLcUo5NFg5bm1pUQ?oc=5",
+"source": "The Motley Fool",
+"published": 1793272498.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "b55c08ad9d0a8186",
+"title": "Microsoft Vs. Alphabet: AI Spending Splits the Market",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSVlTeUZ2VG9BM3d1VTJ4THN5Q1JYY1pUU1lPMm5FUm9EMjV5bjJ2a1U2UWd6U3d4OTUtZDJmbS1GTWtyN0pNWk1NRkN1di1BeU5teTBTMWc0YUJ4dm03XzVvdDRoVHllTFZtRmlnWFJLQUVzOVdmem5mdVFNc0w2MHl4Qkd4bjVlM2RsNUZCU2wwblhfYXZLdEdJNkw?oc=5",
+"source": "Investing.com",
+"published": 1793272461.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "37af486d9e7c7b1d",
+"title": "The Fed held off on a rate hike. Today’s GDP and inflation reports could make waiting harder.",
+"summary": "GDP and inflation figures arrive together at 8:30 a.m. Eastern time. Strong growth and persistent price pressures could strengthen the case for an interest-rate increase in December.",
+"link": "https://www.marketwatch.com/story/the-fed-held-off-on-a-rate-hike-todays-gdp-and-inflation-reports-could-make-waiting-harder-693338e6?mod=mw_rss_topstories",
+"source": "MarketWatch",
+"published": 1793272260.0,
+"stocks": [],
+"keywords": [
+"rate hike"
+]
+},
+{
+"key": "6eefb1d0bf805089",
+"title": "Invesco NASDAQ 100 ETF (QQQM) Buys $20.6 Million More NVIDIA on Oct. 27",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSm9WeVlFSkJ2M1BPQU9QMmE1Q3pIeWlqLXBabzQ2aFJycWt5MGNTenNwaHJmQ2pXaXFPeGdYSElnQTM2cTRNX0ZTd3F1ZHFzSHJrd3FQOTE1blJPNzR3TWFwTi11WDloY1pSSHU5N1dIa2JVbFQ5OHVjd2xFYWpfclpxMGRqbnJBeGVKZHlJWUVOYnFJeUc4?oc=5",
+"source": "Yahoo Finance",
+"published": 1793271864.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "eee86b1b13389bd1",
+"title": "Italy Backs Tesla Assisted Driving EU Approval: 5 Key Points - BASENOR",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWFh0NmxZbkNpX2pmN29jWXI5X3p3STVPN2thbzJBOUIxSGJfMlJ4UWNjY3p4cnBSMWVoMDV4aVB0UEdzeTB2OTNERGN0VTBrUzBmZnFRd3NfQ3dSenQxZ3lTYlVPc0s3SnJCYW0xYWNtUkk4RXVIMjBjY19hUFJ1OWZuTUs0bENjSE9UZDJNWFBoUnlTSGoxa0tR?oc=5",
+"source": "Tesla Accessories",
+"published": 1793271858.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "a92fafa8e2e90807",
+"title": "What ProShares Ultra QQQ (QLD) Bought: NVIDIA Leads on Tuesday",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQWpTbHV4U3VwUFdtd0xxOTcxVGNMbHYtWUQzTTZyLV9nOS1fZjAxV05uSDRwS3AwcTQ4RmxJV3pGdDRvYWk4clNzeExzRjc4b1VEbGZLbkIxUGdGZVp5bXowaF9KbUpUX3BCNU90aE9DbHRVVXREdzQtdUhrMlZBcHBQZUd4OUNHMWlQYXY3WEI2ZmFlMmxZNzI1bw?oc=5",
+"source": "Yahoo Finance",
+"published": 1793271839.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "e7c9d5fa6a47d1f5",
+"title": "ETFs Are Buying Meta Platforms (META) on Tuesday",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTlZJcjNpTUdzTEd4S3VXNE1ZTTRTcEdNNnd2VTgzaHA4N0hSVDFOeHFBWUpOZkU3Ylc5V3hXTGxnZDhoQXc4OFBKT2pQR2ZfQ0ppeHB5bE9OOUN2QkZXdllKeHBZYk10ZXBjY1lWZzB4ZUNuakJ0cElWQkpyQzVBZjdZSlE0OWR3M1BDbFRoODlTVV9xaVQxNktBT3Q?oc=5",
+"source": "Yahoo Finance",
+"published": 1793271666.0,
+"stocks": [
+"Meta (META)"
+],
+"keywords": []
+},
+{
+"key": "f8a9266dc36750c1",
+"title": "51 ETFs Add to NVIDIA (NVDA) Holdings on Oct. 27",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSFRQOEN5a0xSdVR1QXZyRTI2cEsySXhEcHZLSzJGUldjczR2dEZIYzFtU2pBQ1dGRWFYQUd4MjJBMkdEdE9MSkg5VnBhSDQ5ZjFvMW5LNXowTUVKbWNLM1hXR2s5Q2U3ZGR2NmNMVU9XOVlpNFRqbUpGN29tMVRwcGFDNXhJa3dreDVuSUNqXzZuQQ?oc=5",
+"source": "Yahoo Finance",
+"published": 1793271642.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
 "key": "a587132bd1f6581f",
 "title": "Microsoft Q1: Copilot Usage Jumps, Seat Count Goes Missing",
 "summary": "",
 "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMWZHWkkxRWpDODZncmRXY2Jhb1NlQWp2Y0UzZXduVWNKMVpBaEhhRFotSFpaUXZoMmY4S0RxaE5kQWFGbVRQa1VVTXFBOGJudS0tRHBxQ0pfUW9HbWdobWtISlp3c2ZtY3hkaG05Ul84eWl6NW1DYkxrZWx3V19ZbVl3?oc=5",
 "source": "UC Today",
 "published": 1793271320.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "ab6eb338d1c88c74",
+"title": "Yes, Linux runs Microsoft's own video game better than Windows",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOckpGa0c5QWl2NGRndTR5MmtPOG1mdUdhcEdma0N0M0NRRFFxbXdtWHlvenpUbk5LS2tfbE5FeHRmVHpOYkhDaUhQVjJmbVBsczRDc1VCZzhUV3ptZ0RRdkZ1MldtYnptQ0s4VWJoOGVwUDl2RGlodEVhUi1CelNxWENxeU51V2F1QVVKcm5jbHI?oc=5",
+"source": "MakeUseOf",
+"published": 1793271316.0,
 "stocks": [
 "Microsoft (MSFT)"
 ],
@@ -105,6 +417,30 @@
 "published": 1793271240.0,
 "stocks": [
 "Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "fb7b9d41efd94ed3",
+"title": "Microsoft Positioned to Sustain Elevated AI Spending Without Compromising Finances, Truist Says",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVTBRMDRLQjJFNDV6X3gxS2gzRG9sY1BVbzNrOFdOTW81V1FYQmZHcW5pVXYzRE9LYU5rc3pXYUFkbjEycmhpSnJRczVxaUR5dlRncDRFQ185dVpleDQ1ZzRTbUc0eXlxeUN0aHFQcDhhSE1oZWFvRVYybENFT2wwOGdPTWF3SUhDQW1kUmticmkyakhBMWhPY0dHWUdneG5TRTVvTXh0eFk5QUN0VmFpdzFaa3BlSVIwRGdTYUFscW1tMFJHS1NyeUxCUGFsWDMxRkJ4VHZTMThuZ2Zwcm1lag?oc=5",
+"source": "marketscreener.com",
+"published": 1793271214.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "8a1983b776e531da",
+"title": "Microsoft Positioned to Sustain Elevated AI Spending Without Compromising Finances, Truist Says",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPckZDR2tQRmpTWXdVQ2VrNXlKNEdFWlc3TnVUMEx1WFRVX2kzVUlvUzdNX0R6Wmt4Z256VXg4ZUFTa21yd1g5U1g2SGw0X29rZXl4anM1ZGtSNG4yUjdySTdteDBTWEVNYmRQSndxV3gtTlVvOGE2dTFLeWVOUEZTcU1OOURTN2pxZm9Nc01KTVdkV0dJQXZiNDVMUEpOcFFYTmY5M3oxVQ?oc=5",
+"source": "Yahoo Finance",
+"published": 1793271093.0,
+"stocks": [
+"Microsoft (MSFT)"
 ],
 "keywords": []
 },
@@ -1229,6 +1565,18 @@
 "keywords": []
 },
 {
+"key": "3d8c852580831a37",
+"title": "DOJ Investigates Nvidia’s $12.93 Billion AI Deal",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5xQUpmM1pYYXRHMmxJaFo2SmpxVUNLUncwQ3hEREpNS1p3bjlIWHBkemZLX2w1MU02QzlrQjRCRVNUbURLYVJya2VIb05YWEtYN1ZBaHBXVFphQ1MteG00WmFTdFdZZ0htTkotTzlkQng?oc=5",
+"source": "Times Of AI",
+"published": 1793261113.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
 "key": "9a5422cf133826f1",
 "title": "Andreessen Horowitz's Fund: Samsung, SK Hynix as Critical as Nvidia",
 "summary": "",
@@ -1573,6 +1921,18 @@
 "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWUFsSHdPWFRUMk4zUjFXUFZtV28zT1RhaVRxWVlsTHFaU0ZoQXhkU2dSNk1sdkFZSmpYbWI1Q2h4X3o3Q1RMc0pPZll2Q3ZxM3JLYVdxM1h5VWxfZU11T2owd2ZiMFBJR3BITG1YWWszSnlDbEtmeUpyQ0ZQRWFlbWdXcUhUTnRY?oc=5",
 "source": "IT Brief Asia",
 "published": 1793257620.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "68f67cc1949e1abe",
+"title": "FuriosaAI Quadruples Value to $2.9 Billion in Nvidia Chase (1)",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbHVvZEd5RHllRy1KMHRGTFVjLWllajVqZG9HRzdsVHRFdUE2WFZGTS12bDRGMmRkWWxyMWdWV2JBMmlMWkY4MTBQYmR6aG9yM3J3Ql9WMDVKV0ZLQVNTMnY2VjJHcmpJLUVKOXNybjcxMGlnUml6TFdsQnluUS1mNE1jQzZRd1AweEt4MmY3NUY5SHlqLXRIZW1tZXlTMHhLblNsaHVaejN2Zw?oc=5",
+"source": "Bloomberg Law News",
+"published": 1793257440.0,
 "stocks": [
 "Nvidia (NVDA)"
 ],
@@ -4523,368 +4883,6 @@
 "published": 1793220335.0,
 "stocks": [
 "Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "fbfbb14123a5ec92",
-"title": "Injective SICI Perpetual: 5 Nvidia GPUs, 10x [2026]",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZ3l5Nm5ld1hhSTZOSmllMkhvWEgyak91bHFKWkdSYzA5S0Q0X2ZXOGxkZG05cUNDaktudFB6TUdzQ1BsRkJWM0dmZ3UzTnVSN2JDejNSbXVlTTY1bExtM2F2WWo3WlVDYUFoVW1QMnN0cFBVWmNDNFpfRVF0U2wxTHRUaWRjaUswSHc?oc=5",
-"source": "shattered.io",
-"published": 1793220311.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "74ff14a99293ff6f",
-"title": "Interstate 880 in Hayward Reopens After Tesla Semitruck Fire, CHP Says",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcmVDUHFyaUN3cW1aVEJUMTRKM2xmUGVPcjFXWWJzeFBtS1RYVnJyM1ItaTVzSWFsOVhZWU9qLVI5elF1Q0FWY3JOUU1OSnk2N19qVkduYWg3YXhzSE8wSmpsTHF4RnpPY09ubXpPYm9LeVBNMFZ6RlYydFBfZ2t0bnUyYlJFaUl5LVZLdTVfRlZ3MElNd0g1R09tZU94ZVZDRGhoOWFCQQ?oc=5",
-"source": "KQED",
-"published": 1793220086.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "da7e6e8d0084cd33",
-"title": "Microsoft’s Profit Jumps 32% Despite Big Increase in Spending",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1JV0t1VzdLRjByRlFFemJORWcybEE3eFhxMUpFWGNYS0hnVTk3VzJLLXMzZlBXUzlyTWJWenEzSjFNWVE4NUxsMmFFU29KeEhpNGthZWVjQW53Y2xUQjNtNU9ReGJpNzF4YzhuVUYtXzltTXJvNm9VeFlPMTM?oc=5",
-"source": "The New York Times",
-"published": 1793219820.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "1ebc78ddc9552cfd",
-"title": "U. Of Buffalo Prof Skeptical Of SpaceX-Tesla Merger Benefits",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcEV3WHA4V1l6aXpnT0NqZFpRb2lTclFnc1h1dlpJV01iUlFQWHBpUDVqV1pIQTlpd2NxRjhiRHpEZG14NVZfUnhQSHdrOGtST0NCbHlLUUN5eldXQ195WTA5Mzd2aW5zT3hHcmE0dkRCbE00OFI4aXlVRURlR1ZCMDlVbUZ4Y2RDQ3AwaEtBM094akMwdFZjc2d5aTVIazFW0gFWQVVfeXFMTjloVVF5Sk5HQ0Y5dlN5QW1WNFhEZzB5YnFXZVFDZlZ1dENVV2ROeTk0MVVSRGc4SmxjWEU0dWI4TldTV01TbHVSdnBGdlRfSDBoMXBHTFE?oc=5",
-"source": "Law360",
-"published": 1793219720.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "d33a07fd2668db4d",
-"title": "Microsoft expects 'very few people' to accept buyouts, CFO says in internal memo",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRG95SnZ6TDlZRkN2X3YxaVl0UjJuci1GaGQ3a2Z5NFludTF5UlNjdnltSFBTY3ZQQ1JqOTlwdGFMQ2xGeVF2VHVuNjhkbk5sNGk5MXJsdXl1SVNYTDdKRjd5djZ6UWI1NEJXMkQ5dHl2RnM0Z3NENG5zQ2cxYzlhVUNzSFhzSi1RUHJoNWQ2enNkWkY0U2xpam9qRmV4YmJxUFE?oc=5",
-"source": "Business Insider",
-"published": 1793219713.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "854fd467575ab816",
-"title": "I tested Nvidia’s Nemotron 3.5 Bolt, and it changed what I thought my 16GB GPU could do",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMjd5OEd0Nnp0VmlpX2E0eFdkd1BRbi14V2VOODZ5Z1BZV3Y1Qmx5LWc0TFBacUJCNnJYT1Q4U1IwdEk1RWxzVUdxd1FoMXlSaEVDRlprOVU0aW9MbmNxQ2wzOTdjRWxfckctclJrNS1QREJCbUlsRmFiSEJmYlhEa3VEUjFscS1ydDVQai1kRDgwMHAyQnBucHQ1VkRVR3h6MUptOGV4LUNUQVZ3UUVvcHVMMnhGY0E?oc=5",
-"source": "XDA",
-"published": 1793219420.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "125ace269a976b3d",
-"title": "Microsoft FY27 Q1 Earnings",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcFhxV3NzVUNmS2V5YnVBdmtvRzUtd2FkVG1xNkRyWThJaVdFMXRReTE3VS1rbDdPOHdoVEZPN0N5MFQxcnZoLXptYXQ1M0p0T2wySzE2cXd2dUZKUmxsZzJ1UnVCNTlrSHNlNkhOcjduOWNtYXFudjJPUnctd0RPemRaSXlkVkJBbzdVa1BDNkdFUnc?oc=5",
-"source": "Microsoft",
-"published": 1793219396.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "3c5b0eb537639762",
-"title": "Microsoft stock rises over 4% after hours on quarterly results beat",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOHVCcGo3eC1BdWNEWjktOG1JUThGb2FSTE5ZRERhZmlSUnd3NVhGa3FrQ0JWVkUzNmJYQlVJcGtCd0pOTUdtSkFxOThqS05TZlZsdDRXMWJpSjlUaWg0ZmVRb3lQTGdLdzI2Q0FtanZqakstM0p5SUNFSUJ6QWlHMHQ5Tjl2RV9FNWlDSGtaM2E0eEk5TGM0TFF3XzNQdmRHN1FOWlVNZ3phN0hIQTBMZnpiRGQ?oc=5",
-"source": "Investing.com",
-"published": 1793219296.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "872b196f9befa528",
-"title": "Microsoft earnings beat by $0.17, revenue topped estimates",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZG53RmFuYXdoN1RVYWtLWlBEcjU3SThhMXFDbjcwMWZGLWRxS0k3MG9yc3VuNWJkLWdDeXA0clhPOVlIaENNMllBcEVsU2JvODNwSFVWUGZwNEhkaE9PU0p3Ui1HdFRuTklpUGdVVWlxaVFmdEVJVEFLbDdQOGg5eGJqVnVQZWNFenI2c05UUm1lWmJNcjdaZ2hQUWdvclBXMHpKbDB3?oc=5",
-"source": "Investing.com",
-"published": 1793219096.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "93cea3b515d0ab6f",
-"title": "Microsoft Tops Quarterly Estimates As Azure Growth Accelerates",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSThkSVNfWm5qaDhnWFVkMDRubV9ScU16UVNvQTFmQ2ktSTdkX1lKRXRvVXViSGdRYzdrYTFjTWVEcWdCTlVHcnVLdzNJbUEyN0ZXTmNXNjA1VDFZWGZkLW9YckdNcFhjNUYxUER2clY5cGZGMEdYMHpKTmpLOExNcWVrcUlDRDhJbXRGZE05Q3c?oc=5",
-"source": "Investor's Business Daily",
-"published": 1793219068.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "fb62853eec08079e",
-"title": "Microsoft beats Wall Street estimates as Azure growth hits 48%",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdVB5bDVYUlFTeFRnZmI3aV9yWE43X3E3ZlhhbjZTc0JsY1RWeVpwMjZGLW1DTGsxbC1IckFUZ3FJNWVjN2tMYXhMZ295MklkdS1Zcng0cFNIbmI4X2k2Z09PRjBZNmRDV0JqcXRQNW1nUjZob0J1M1hZaUxEX0VyeERHQzZtUjVvLVowdVV5QU5BNkwxMUIzeEg5X0ZIZDA?oc=5",
-"source": "Yahoo Finance",
-"published": 1793218920.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "dfafc766a26f740f",
-"title": "MSFT Stock Jumps Above $550 Ahead of Fiscal First-Quarter Earnings as Microsoft Spending Concerns Mount",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQbWZzMUw2RjZmZlpWOEl4NFoxYWRibE1kSVVNblNLX3htRGRSX05TdnhScXlLYjVSUWgtckxwdjAyWXhGMk43QU5ZSmtKbkZKMDdOUlhpS19fTmRlWHlDSEl5QklDZUU5Q1V2SjZHaEV4MS1BbDc1ZWFreGpXSVhkNEJmRnJDN3MzejkyUXlJbVc4TzhhaWRHcFFFbzJlbmZrXzdRbngwSC1yZnhxNWhyTXhlbWsxQW5aQ0FHdzlnQ2RQWjFibTNvQ2QyNU9nNmVyU1BfbmpqYWY1d2p4c3c?oc=5",
-"source": "FXLeaders",
-"published": 1793218878.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "85598371d3f27e57",
-"title": "Meta’s Raising $97.5 Billion. Nvidia and AMD Are Buying In.",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQnZ4Vm91UVpOZkJKOHNQT3pZOVdhQy1vLTd3WFlvTk9XZEFxNUplVi1vS3FobTdOOXdXS1FiV1lHUXVsX09JTldOTWJ2bzlNcGxJM1RlRlJwbFdUSjl4MFgwZk5fWE00ZzBlaG5ac1JjQzAtZ0paMWpmWFg5cWRoVDNuOWIzbHRqYzJKQzlJQWk0dzlG?oc=5",
-"source": "Yahoo Finance",
-"published": 1793218852.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "29a6c1298b539eff",
-"title": "US DOJ is inquiring about Nvidia's purchase of Hugging Face, sources say",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQLUFZcHhMY0NOT2hYMkd1S3BsRmktd05RTTdabEFzMmVnMEJfTUFCaWRMRk5mSVl0dXNsT1N0ekJCQTFBNlI4LURVay1NOTM5cVAxaUVYZ1FpWDFZb3hJSDlYNkloamVpX0U2Ri1IMHMzRlJ5aFl3ZkFUbE9RZFZ2Y1c4aE9EQ1BDVGZZVTFGWTJZWEx5dGNiRlQ4ZmJ4NjNhaU5QTktWa2FHMVhZZV9NLVY5c29BZkF6VF91SDNIc0pxdw?oc=5",
-"source": "marketscreener.com",
-"published": 1793218837.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "c3aa909bfd09c139",
-"title": "Microsoft stock jumps 5% as cloud growth drives earnings and revenue beat",
-"summary": "Microsoft earnings are out – here are the numbers.",
-"link": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
-"source": "CNBC Top News",
-"published": 1793218816.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "2a0ca5bedd9bbbb7",
-"title": "Microsoft (MSFT) Beats Q1 Earnings and Revenue Estimates",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQ2xVaEFPM2pVQ0FoZXRSc29hNm1GcHV3b2d6VUtxdG1SMU5iMEk2Sm5rbWFGekREVTEwZFkxTVBIZng4WlRXdFJJR2xCUHpYMU5ZYllyWWNqcWJIYWtaTWVBaG9Pc1NPNDR3V0JHVWJnS1VrSWNLSEdZTWdKTlQwMGIzWGR2Y3RXUTJGSmdNVHQzbmRYWmgxclhlSWRfZw?oc=5",
-"source": "Yahoo Finance",
-"published": 1793218802.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "863323083dd3595d",
-"title": "Microsoft reveals strong cloud growth amid financial reporting overhaul",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1uRzdyZDVYV0ViMTZrbVF5X05qb2VNX0N4RThpd2hmckJBYkUybkIxa3lVclpGT01lYlJRQ3ZrV25RMnIzM2l3TjBiTHBoRWZ5VnFLYmVFLXZHZ2lYZmVNNnlHRmhGb0hrdjhiMFBUandRdXAyckFvWWEyQXM?oc=5",
-"source": "The Verge",
-"published": 1793218800.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "eebb32a9002cfbfe",
-"title": "Microsoft Quarterly Profit Soars as Cloud Growth Accelerates",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObG1JUFZyWEVVeTdxNHJ3djFId2dCZDY3Vkc3Qnc4Vzh1NVFKTXN2cVFEcWdrbEtSdlE5Y1VfQUV6aDE3M1BscVgzVFJXVWZ5R01XQnpjb0FGb2dmTVFEWFhlWGFBUm52dlZzTXhhZ081RzF2dWNWT3U0RU1tejhYZXdSQjA?oc=5",
-"source": "WSJ",
-"published": 1793218740.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "62d394c5c7f1b16b",
-"title": "Microsoft beats forecasts as Azure accelerates and AI spending surges",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1FOTNYeUd2c3p6dDhxOUFvOVpua3dvRjhkOHUxZFB1TVVRWUR3WEdPazFjTHZ1RlJXQnlRRUhqMTlwSHBYaGdVWV9YdjItQ2JNallnT1BORl82U0I1Tm5yMnR3RVpTUDQ?oc=5",
-"source": "CTech",
-"published": 1793218620.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "54526d84da260f57",
-"title": "Microsoft beats out Q1 revenue and profit estimates",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUThvMjB6ekFhY0xlR0RJU1VCcDA3UHZacjdNNks0enZ5VmV3WFNsM3JJRHJuTm1vMGYwRVZqTjBmS2NIUGFDZUtqN1RCT2FWcnJXXzNST0p5TWRWcVhUSFBfcGZBQ2kzcFdXRTdJUVlMV25qMEk4SVRKSHZxSFRWZ0h5QXRXTEk?oc=5",
-"source": "Yahoo Finance",
-"published": 1793218560.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "a53b6b0e6e96c2dd",
-"title": "Microsoft Bing Ads Revenue Up 12%",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VRzRLQWZqeUNaX3FIbmhzU1hYNmd0c3JyS3c3SndqU0k3eFR2cml1TTZFbHVSSUtzLWQzbU5aSjI1c2FMUGhsdC1rLUF6eFNCY1pUQ1gxTzVTczQwMzRDN0x2R3psSmhwS3F0ZVBsRTA?oc=5",
-"source": "Search Engine Roundtable",
-"published": 1793218500.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "970567c2686c5cc8",
-"title": "Nvidia's $12.9 billion Hugging Face deal draws DOJ scrutiny",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMUMwY0xlTmlOWWZEMEZ1MjQ0YnY3eG1WV1k5T1pqOWkwTXFZTmk0c21wTVFibmpXaFdWRElJNVVOX1lyeGxITWpHQ2hBbVpvS1NQRmUxZlZaRVNiZWNfb25TWXAyWXl5Zm1zV3VuemEwNGppdlE5UURRVTA1ZDZmcWY3cFAxUWtMMWtlejRSZTB3QW9wWXRpNNIBngFBVV95cUxQUUg3OVpUN1J0S0pUY05lVXRETERQeFJua0pFSjlHd0Y0V3JkVWNOTTVlc2pIZHRIcUxFbDZYOVhIamNhaGtjbkpTUXo0MXlFVjl5Z0tzRFQyNVdDZjhPZEpySW5aaWh2OXJza1lIQldNM0poSlF6SzBnU2MwUWlVaG0wZ0dsV1F1NVpXRC05N2gxZG5RRGF5MkVwem1mQQ?oc=5",
-"source": "CNBC",
-"published": 1793218430.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "14beeb7490766491",
-"title": "Nvidia's $12.9 billion Hugging Face deal draws DOJ scrutiny",
-"summary": "Nvidia faces DOJ inquiry over its $12.9 billion purchase of Hugging Face.",
-"link": "https://www.cnbc.com/2026/10/28/doj-questions-nvidias-12point9-billion-hugging-face-deal.html",
-"source": "CNBC Top News",
-"published": 1793218430.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "edb6191210bbca33",
-"title": "Microsoft beats quarterly cloud revenue estimates By Reuters",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaWIwNDRNd21id2dZNmFoRzNCOFp2MHhyWDhPQ1pxelZ3TnJVSjJqUzhCelF2X2xNQTM1WUZOOWxFRVphanU0bUV0bUF6dVlxYmRRYkFkbHhlWHNrRHkzRnhsUlliWDhRRlBuRHZ5QWo5a2xHZThYMk8xdVJnWFRndGNtVHRqZFJYV0RicjVwSXVmM3ZFUm9VZzZqNXd0MTBqU3FYRnRHT1FrZw?oc=5",
-"source": "Investing.com",
-"published": 1793218424.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "5db3f92aec16d592",
-"title": "Microsoft shares spike on revenue and earnings beat",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWVVjaDZ5RWNubEc2N094cC1UMXMzM0ZITjdNd0FxdFZhLUJiT3JCRTVUb2t6RzJ5MHhVbXc1dlBfY1FQTFJUUWtTdzBzR09vbjNfRzAwUWFGSUttTjhDYjhyeDlzLVU0Nk1FcEpPLTU2N3FHWVpHMV9KaUdxLXd0UE1NWjJodDZEb3o4THltVjRtaEVfSkJHemR3?oc=5",
-"source": "CNBC",
-"published": 1793218405.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "fed9dcf3c267848f",
-"title": "The DOJ is reportedly looking into Nvidia’s Hugging Face acquisition.",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQM0RYQWd3V3l0NV9tU19QVWdGWkxpVHV6dTJBaTJuZmJJblhBaUhIVG1QSnNJeVNpRnl6TmNwN1pDSGgwVW5YZnk4eU1oNDJmNGtLNmI1Y290NEFtOGtpRmcxVm85S0hwanBmODFrcmladXZaNHd3WWplSXU1VGJWOEo4NWMtMkRyc2l6T0tCVnNRMGhNSFc2bm8xYzJaRWo3Q0dFWGJPLUc?oc=5",
-"source": "The Verge",
-"published": 1793218395.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": [
-"acquisition"
-]
-},
-{
-"key": "9a421d079482a48c",
-"title": "Can Meta Platforms (NASDAQ:META) Justify Its Record Artificial Intelligence Spending?",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQV9KaVN2a2FsbXFFX3NLZGVTVmtwYVhoeGx6Q3hCeHlrM1hvbFhwY2FkZXFhcDJiOG9IbUxjeWxlSW9HYzJrWXJvZ2xqN1pKcmxEVFJyRndLTXZneU9qM29iQlZGaVJBOE9QUjdhUlBQX3dGSEdzaVR5b1RqMTFxNmxpbDFoTE1TZXNZTWxuZUlidzNhT0p0QzN3OUFpdkVERDZkQzB3eHRYc2Nncmp1MjZnemZPNUpYU2ZRME8zMEhHWFZmY2FfejZEUnRXcDlQVmNQMldpMA?oc=5",
-"source": "Kalkine Media",
-"published": 1793218380.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "cef7f0b10ecedf04",
-"title": "Microsoft beats quarterly cloud revenue estimates",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOVN0eHFLczNzZmgtZ2MwbWJmTExmOVdqZjg0cUFOM1NZSDVjaTFkcTV0SnpUYW9mVnlYMnA1c3RfN1BLQjZaTUpEQWdFREI2d0p6V2FCekFVdUxmdGxUSzk2MlZKcURZb19XaU91azRUTTJ1LVhxWDhLanFpVzRTSHlpenRDUExycVVR?oc=5",
-"source": "AOL.com",
-"published": 1793218345.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "f9a6a876fefab213",
-"title": "Nvidia Wants Your Next Laptop to Be an AI Workhorse",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQS1VFdld0akFiLWlBRzFwWml4Tm8zNW5abUM0d0hPWDNJNUFacTFBUGRHbmpKNGxsRDdGUDhUNHMyd1BNemo1WWR2Z043Si1lLV80cktRQWhjdUt5N1hyNWtGU050cUlqZ1hBZjdMeHdBX3QycW94cHk4WHFzT1pEbHNUcnp4Z3g2ZGIySGh6ekNzUUN4eGU4WkJKTXlBZm8xVXRKbl9UZVZ5YkF4Uk04UA?oc=5",
-"source": "TradingView",
-"published": 1793218340.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "e1b177a383705557",
-"title": "Microsoft: Fiscal Q1 Earnings Snapshot",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWjViQUJhR09YTDU4SVE0SXZha2xkTWlZZkZ2dEQwWlk5ME1ubzhzY0M1VHpjTkRmOGg0WV84V3IycFFHTzlySDY1WXphUl90R1dXcEhobVd6Vkg3dkZ0emhxUmd3YTllRU43MnFUMEx6Mk5jRUpub2hOZzd3RUI5ckY4ank2TzdveG5GU21iekZVNERBYVo5LXBXZ2EyQzA3N2FJLQ?oc=5",
-"source": "Yahoo Finance",
-"published": 1793218302.0,
-"stocks": [
-"Microsoft (MSFT)"
 ],
 "keywords": []
 }

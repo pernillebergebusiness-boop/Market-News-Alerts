@@ -1,5 +1,5 @@
 {
-"updated": 1793316326.299382,
+"updated": 1793318365.8342595,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,6 +73,54 @@
 ],
 "items": [
 {
+"key": "f94861a7ff681d94",
+"title": "Report: Nvidia CEO Jensen Huang was targeted by a Chinese spy",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNenpMaHZQNGhHQkd3bC1IVzNsOHg4MFVLN1d2UXNXZTFHWllvZWk4RG5MYzFCMGRFaUF2TG1nV3p3V0VrTWRlYmFZTFB2bHJCR0tNaVVSS3FoNzVFcElITkgyZjQ5RDRNNlRIMUxZb2w4RFNFemVIWmRNcmRnLTU5c1BiNVh4QWdWTlF3bU45MUY0SDc0aWg5WlQ0Y1VjQQ?oc=5",
+"source": "SiliconANGLE",
+"published": 1793317980.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "15f15fe6e92f0d5e",
+"title": "Microsoft is a buy right here, says Jim Cramer",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZmJ5M3pKb0g1VlJ6MUdLOXB4dV9jVThsTHFvOHQ5cWhEdFJfd3VzVlo1SDRlQ19jQ0I3UFczcHR2Mk1uV2Rja0pHOEMyTDJrWXpTYk01U3JXc0k1bjJyTU81TzlwUjQ3ODN4c0FveXFXRXV1eW53TGhRU0RpdmFKNGtpeTZMUm1MZ3FXMXlETUk3Zw?oc=5",
+"source": "CNBC",
+"published": 1793317659.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "caf2dd53323cfe82",
+"title": "Equinor's Buyback Year Rolls On as Fearnley Lifts Target to 540 NOK",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTWZPVU1IU3pNeU14UTVqeFdBVVNwdlZDdEVHa1BaVDZYOERGUnhKV1Z4MlJFZDJVeTR2TG1UeTIwZ3BDQmxGRlpfUDZGV29TOEdjVVVwYWVzR2gwbDV6UnI3Y2FGRTJEaXVGa0RZTTVWWVlTaUkxQ2lPbXZMcDNnNzV6UHh3bFpZc0k2Szk0RVdrS3pwZXBPbURmZ3kyd2h2bmJ3MWNXSklHZWR2UHoxc3Z4dVFrYkM2eGVqZlBVNUZycDFwampKd2R3NFJWWXZudy1JRGxR?oc=5",
+"source": "ad-hoc-news.de",
+"published": 1793317253.0,
+"stocks": [
+"Equinor (EQNR)"
+],
+"keywords": []
+},
+{
+"key": "22d196e5827b173b",
+"title": "Verisk expands insurance AI integrations with Microsoft Copilot, Amazon Quick and Claude",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSlhPdnVuQWhFeHNBV1Zmc0J2MlFqM1lZWUZtU2lVb0hHbWpqVFpBZzdkZkFrTllObDV4WHptUG9PdVgxQTRNWW1IVWIwSzlBdWhQN2lrWU1FRnVFRUhFSXJNQjhmOFFNWGsyWHlaeTVCSFU0YmlyY05sbndEWEZfZENlcEN5YVpMVTNJMUFaUTV0ZkRudFV3UA?oc=5",
+"source": "Beinsure",
+"published": 1793316595.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
 "key": "7a87d55bc7740506",
 "title": "Researchers find bugs in 5 AI developer tools, with OpenAI and Microsoft flaws still unpatched",
 "summary": "",
@@ -81,6 +129,18 @@
 "published": 1793315546.0,
 "stocks": [
 "Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "1923984aba7ea26f",
+"title": "Tesla owner says $185 tow left her Model 3's seatbelts and parking assist malfunctioning",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNem1ETk1fSnJiZ1pkUjFfV1VEZ1RjRW45c2FYZHpkWFljRTZROWgtUl93b1g3cEZTSEQ3RGFlZWU0azNlbnhkZTJBMjVrd0VEa3RseFVUclpNSlg1eTVITlFLNVg0dmhtNnlPbE9UZ1UyMkp6RVRXaEEyQnhhcmpPdXBXUlJEb3Y3NkRKR0NsN1VzTEZnN1E?oc=5",
+"source": "Yahoo Autos",
+"published": 1793315280.0,
+"stocks": [
+"Tesla (TSLA)"
 ],
 "keywords": []
 },
@@ -103,6 +163,18 @@
 "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTHJnVUV2VTdLMFNab29LdS1GYUdrSkFhMHF0LVpWR1RfekViQThIaGRZSGNnNUIwY0ZYMmhnbTRBOWlnWWdSVFBONTRScGVoUkJqZDJHbHlCMmZlVXgzc2xLZmh0OXh3a3hxSzRBaUR1dWZ0QzgzTnhDLXIweWJ4WVNkd1R1OGRzQWZRZDJ4LUJJaGtGU0xMQzNETEhhVVFkZDBaRGlTczRXaXp4elJ2NEdjRFYxc0ktV09kd3FkbWV0Tk1CZ1N4WDRKMmUwbVk0UTYyQW9hdw?oc=5",
 "source": "Investing.com India",
 "published": 1793315240.0,
+"stocks": [
+"Apple (AAPL)"
+],
+"keywords": []
+},
+{
+"key": "dea7593d918d767d",
+"title": "Form 4 Apple Inc: Jennifer Newstead (SVP, GC and Government Affairs) For: 27 October",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZWN5bE55YTI1aDk2ZldhWGIwYm1sbWFKREV5Vk9ya205bkxKckNrdEZmR19mN0h3VF9fdzJIWm9EV2hrSlQ3QlhaZHk0b1JFUGVpdk5MenlzTjB1MXN0a2M2XzVybWotX2V0cWtqZ3NOSkxwTDFfSFpLUG52MG5TNThXaVNVdzY0MTlaemFDTTRvY0pKRjFEdXgwREotd0RHUmtrMkV1bWdBMFBaVFBZM2ZndWtFTWdKa29OeUxnX2NKdWNfakNVb2R0cEVlYl82a3B0ZTlWaw?oc=5",
+"source": "Investing.com UK",
+"published": 1793315160.0,
 "stocks": [
 "Apple (AAPL)"
 ],
@@ -321,6 +393,18 @@
 "published": 1793313015.0,
 "stocks": [
 "Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "b465d9488c310eaf",
+"title": "Jensen Huang Says Nvidia Counted All GPUs At Firm Under Probe For Spying For China",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNTBaTU1vTTVXUGhlUnUya0JuNldKam1QekxrRFo3TGRxVzUtOFJaOUcxYnJzYlozWnNrVkZlcW0zR1F1cThzTHVvMDhqSjk1ci1nbWRQaTVpMG9pSldoaTBXQ0N6YnJEMVRVUmYtbzZhbDNrcVpBM0lFa0JwaXg3eEt5OU13M0dDYWZpdUN5YllTMEdiWjV6NUhUVjI?oc=5",
+"source": "Yahoo Finance",
+"published": 1793313005.0,
+"stocks": [
+"Nvidia (NVDA)"
 ],
 "keywords": []
 },
@@ -1449,6 +1533,18 @@
 "published": 1793301300.0,
 "stocks": [
 "Meta (META)"
+],
+"keywords": []
+},
+{
+"key": "ca0b915c6049406d",
+"title": "Nvidia-Backed Marvell, Lumentum Could Be Nearing a Deal",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOa3Q1ak5oNDBVN1Vpc1ZkVGp6SlZ3dUZUck0yMTRQMDQ1UTR4NWxDTG5IR0llRUFJTGNyTkhmazJ0aU41UExxRzNQSmpEWEZOdGczWTNVS2Nrb2dCLXdUSFNBaGZnZlFCcExlQVhzRURNRHpoMHlldWNRcXEyakE3RGZ3Y3hVWHlmZHpYYm1uRU9vRnJ5bjEtMWN4b0YwYVVibWNR?oc=5",
+"source": "Yahoo Finance",
+"published": 1793301209.0,
+"stocks": [
+"Nvidia (NVDA)"
 ],
 "keywords": []
 },
@@ -4775,104 +4871,6 @@
 "published": 1793278412.0,
 "stocks": [
 "Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "cd817c008366fb9d",
-"title": "Siemens Gamesa and Equinor warned over floating wind safety breaches",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTElxVGlVSWNSeWVaN3E0U3hDc2FGeTZMTDV6QXNfREJJRnZTbGV2XzN1dy0xMC1PMmxLdlJVcFAxR3BRRVU3amhTb3h1S2h1UlNKbHlfU1dfTWlsOEc2b2Y5XzlDUDhnb2dkV3R2aXJrd090YWtNb1JxaEJ3QzhGZ3BQa1BpZTM5T0piazZRNGItWHJ2TjYzOEJOUnBaX2VTY3czRWVoLUZlTzVi?oc=5",
-"source": "Wind Power Monthly",
-"published": 1793278365.0,
-"stocks": [
-"Equinor (EQNR)"
-],
-"keywords": []
-},
-{
-"key": "c4a54f7b910c48de",
-"title": "Nvidia CEO Jensen Huang Was Target of Chinese Intelligence Asset, Raising Questions Over Potential AI Chi",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQWUIyRzlXeWIxRzVZNFdPRkFZWnFUVnVCV3gtNThSMXIwcGpmRW04NjlBdFJlb1hoT0Y2SzJJSEZWLUVwRmdZSUtWVm1WRkFReEhsSkJSbGtrRlJTcUxTVUhxdXVvOXUySUVGM053NFNTb0VVUDFMZWtsd0NvZ1laNnJlSUxrWklwNllIUnhFdXZCQUZYU0NSY3dNaUE2T0V1UWh3dXQ2WUsxRWhwLXM3Ny1RNzZPa3cyODhoc3FqTGladmdpdUZ5aDlpd3lqYlJjSmNWOXFUNUVKcWpIYnNZRkhVM3B0bjFERmIyU2ZwOUZSbDFQVENXeGQ1OEoxTHpiU1ZKdDhUSQ?oc=5",
-"source": "Benzinga",
-"published": 1793278344.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "17d431d3d299ac5a",
-"title": "Tesla Roadster SpaceX: 3 Tiers, 2028 Build [2026]",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRTNfQURYYTdFUTlHU2NCRHpNaVdxZGZvSnh1aEJ3ay1LLTcwSTllcGF0RnBzdDAzVVpvM01lUWw5eXk1LVEyUDI4cWEzOWpXcGw0cUUzSTcyQTNSbzAtOWpiclZhOUs4R0JRMmxiaUNrSHRaNUdud1Z2V2pKZkVQMVRxc0diS3lpUXc?oc=5",
-"source": "https://tech-insider.org/",
-"published": 1793278221.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "625dce7cf0e1d5ff",
-"title": "Elon Musk’s Tesla, Starman sent to space in 2018. How to track them now",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWW1fT1BDV2x3akwxY1dGcGdmZUphdG9oc29icTVNaFpacG12ZDI1MDJZMkREcmRiOWI0cnNjblNaRGc4OTJvb3U3Q1JZOENEc1VFaUMxLTJDeGNvQnZFRFJ1MjZCNEpLQnVHdXAxV3ZGU3JBbUdhMU5KYkVlNFIwVU5tMmRaVHlFYnVTQTU3RWJIZWY4Y3VCejdjNU1YQ216NzhLWjBsaXJXaFJPb1I5MFdjLWxEUWR2cVUwS3hfeFZFWGlqM3Bz?oc=5",
-"source": "Florida Today",
-"published": 1793278185.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "fb1327ab66914089",
-"title": "Dept of Justice reportedly probes Nvidia over $13 billion Hugging Face AI platform acquisition — concerns raised over competition in AI and pressure on customers",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQU3BmSkJtd25WTTA4N18xSVd1U0JrQlo2eGhtaFZzaEJ4U3d0dzRSM1NDRUpaSFRHc0w4LTFySUhZazRpcmd4bTQ2Tk9lNmczR3NSV2RILVpmbml0ZkZINWU4b1JVQVo0SGhXRlN3LWhiMHVNd0gwLXBKZHI2ZENoaG8tZVh0WXZRSld1YlNNR0FFaVdfS2xzdW4tMDQxdUhQUHNhSzJwcEhyXzRoZ1p0MmVIRjFpZVkxY2Q1WVhuampCWXlrekVNSGFvYVFKWXdNMlVFQXhUbmZDdk1VemJCVnpIY3VxcmN1dV9MdEg2TUdPd0JNV1FHbVo0R0c0THRZSDRzdnVMY1M3ZXE4X3dFNmlKZlZMSmdwWHpBaWlNRFBvM1dPeE0wV0w3RUxrZk5XQWtnUGZKNnBkVkhIeC01djRtaWZnNFNNbU45eA?oc=5",
-"source": "Tom's Hardware",
-"published": 1793278159.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": [
-"acquisition"
-]
-},
-{
-"key": "686836facbb64af7",
-"title": "The Zacks Analyst Blog Highlights Tesla, Netflix, American Express, InterGroup and Moving iMage Technologies",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPakZpaEF2NFVoRkFrNXNZMWhxWlVkQkpIdWtEVFZ5emxDSTJiZVlaeGsxQkxzNEY2Z1ZJNDBOZVQ3OGs4dllRQ0prUnZDS29IeFNCUlVkR3JDczR6TFFtaWVzU2xJem9WYjNxY2VfMjBRUi1zdlB4R1Z3d2J0Qk5kaXlFb2dhTVlzdjVIUDl1S0VNNXN3QWtLQ2xfNEEyY1BiUjdCOW9tVGNveER3cTJURDZyUVdjZ3psdFVOcHRNN1hOMmpwQ1V1U0xWT1hYZXFCMUF1LXlCUU9KTmtVRFl6aXBCcXp6UVlVUFNTNlpUd2YxNXJFZDhMTVpPMUgtZDdsSXFLT0hnRlhYWGFRMTJueTBDdw?oc=5",
-"source": "Zacks Investment Research",
-"published": 1793278158.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "8c748f5408c2cc88",
-"title": "Microsoft's Azure surge and full-stack AI monetization drives growth: analysts",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObjBoUU5XbWFsUXRhRmljcklaRnR0VThVb1k0UDhUNlhQZmRKZFJobDcyZDJYLUZUUnladXpSejZnVmRmTE1qMGwtYkd6VVNnUkJ6UE5MLWJuYlJ3dUctT2ZuRW5YMVVoaWJJQ3IteW14aTZPQXVVMk5lS19CMFZ4ZjB3d3BNOThQc3BnblBOWVVvdnRsX0pzRFdsMmJJR0FrbnlIMzdLVFdrNWdKejlWT2I2R0w?oc=5",
-"source": "Seeking Alpha",
-"published": 1793278093.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "9370629a3c5b72df",
-"title": "Why CoreWeave and Nebius shares are sinking after Microsoft earnings",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNkxhZnNpNmRyVmhJeVNMVHI1Z2E1WU1yaUtNdVRQUTNGVXMzbHNLdm9fS0hoS1pHZWtGQTZLYnBuUGljazl4LUZ4SDBqQlEtRlFMVE1IMDg3eHhONUdka0tHdVhSenZoVFZFcFo0MnI4NktiUVk1MVFma0o3em5tME44dU1zaUR4Sm9aUmxyX3pVc0Jtc1RwaklVYldlOFBaLVE?oc=5",
-"source": "Yahoo Finance",
-"published": 1793278014.0,
-"stocks": [
-"Microsoft (MSFT)"
 ],
 "keywords": []
 }

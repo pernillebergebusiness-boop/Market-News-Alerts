@@ -1,5 +1,5 @@
 {
-"updated": 1793230997.7734008,
+"updated": 1793232906.3686473,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -72,6 +72,90 @@
 "Yahoo Finance: HTTPError"
 ],
 "items": [
+{
+"key": "c93dd9c21fb98c17",
+"title": "Microsoft Azure revenue surges 48% to $33 billion",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdWNBU0RaYVZyYlFYRG5LZktuLS1hTkRwYnN2bU15VTh2UjRscnk5N1RrV1JTbFJWSkJWRGhEX2lSWjc4b1lPX3JZZkpSUTJQQ2M1WFFSbWVJZU8zUkxBd1plMXJ5a3d0b3lQaklsUU55MXJJaTBYWkszaFRIVXpZNkVOM1pPOTQ?oc=5",
+"source": "www.thestack.technology",
+"published": 1793232749.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "27766a58c60442d5",
+"title": "The major reason Microsoft’s stock is heading higher after earnings",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRGt3VmtmUGNnc3VOY1NTUnZIT2lROU5pbXptLTFFSXRkWFl0ZzF5SjhPVmRfVXQ5eFFMYU5VWjZTRFZrYzM3NHJyVFpfQ3ctYklCOHJndkgwR1d0bkZnb0xGaEhZejVmZUIxbnEyUHJaUXRJRVpmU0ZSTjA1MW4xc252VVhRX1V0dFkxcWRubnB0NzdvYnBDcTNOZmpqUlRaZENOMGxJOHBhUks2TlE?oc=5",
+"source": "MarketWatch",
+"published": 1793232729.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "d37aeee4522f6a3c",
+"title": "The major reason Microsoft’s stock is heading higher after earnings",
+"summary": "Microsoft showed investors that it’s able to grow rapidly while keeping spending in check.",
+"link": "https://www.marketwatch.com/story/the-major-reason-microsofts-stock-is-heading-higher-after-earnings-c019a036?mod=mw_rss_topstories",
+"source": "MarketWatch",
+"published": 1793232600.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "05c0cb2a80e400eb",
+"title": "Microsoft and Alphabet Just Reported Earnings, Putting the AI Boom to the Test",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUm1nWVhTMTlsNDktVWFYZ0UxVTdTeDE4NHNCa2lOcjVPYkU3Yzg5c2xKWWFYcVQtcUJvRDg0aVk4R0Z6QWQwMnU1Zy04Y216MXFDUDU0NnRNLWJ3M2FyX185OXlSVC1KcEFkUktJZFdrWVl1ckRvUXdwQlFwOHBaTEN5a2l5R0xVNWFHUXJ1cndkSmFmNXdxZDdkVnBhYlNDcUlaSUJROEFPT3NVSFo2VS1rRGlxMXBLcmNvZw?oc=5",
+"source": "The Motley Fool",
+"published": 1793232372.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "e8234ee4357e7041",
+"title": "Tesla FSD Interventions: 4 Causes & Fixes [2026]",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVjM3WllDdzRKU2RjWlFjSjYtNnA4OFJ4bUQwVGVnLW1MWjRwZXBrSDJEdVNrQWJycFFOVzRFWF9Iamw5b0ZPLVNIM0xvYVpEa29QdDlMekxKWFA5MmttbUtJb3l0RWJ2X3A5VS1faEtVWDIwRTZ6cXpHbjFaU3ozalFpSk9YVXEtS1JRUEtzejQ?oc=5",
+"source": "shattered.io",
+"published": 1793232035.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "36890d24fcb75f6b",
+"title": "News Content Hub - Equinor opens marine robotics centre in Norway",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONWtDbTdZQ1FWNUl1UzJ2MDUwWHdoZHI4c2FCbWlCaG9jaEs0Yko4bmgxc2ZmR00xbWdJLXF3UFR2eWZFV0ttcVd4V1poR3VWeEl3Q1lsbzBmZUdNVjhvcUl0WVJHLXdmY0Z1bk9JZ1RkSXJScjBrUXY1VDVHaDZ1UGZLaF9saTNfNVBvRm8tWkFQVXdrMjVHc09RMA?oc=5",
+"source": "Riviera Maritime Media",
+"published": 1793232000.0,
+"stocks": [
+"Equinor (EQNR)"
+],
+"keywords": []
+},
+{
+"key": "ee83e9b2696453c4",
+"title": "Tesla’s Full Self Driving Has Now Dramatically Reduced the Number of Reasons to Intervene or Complain",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOakNSTEdRNEU5bmdqWHRpaE5VVmJZSW9xeEdJQ0k2aTVUUEhCTUM5VkZaUzBBWU8tVDBKNFBRNk9acUp1blBlSzZiWUlvM2otTk9Qa1Z5RVZMZ2ZPZkczaFNLVndvelFwWkJuYUpXeVJKN2IyUjgwcG9sY1NqVzY5azdIdWZjcXl0YW1yYnhTSlJ2TmVySUhkNmczVDRXYmFDTmYxV2d5c09Qck9FUjA4ZnVCU0VMMjE0OVBHWTNyc0JHM2VhbEJvMUV5M0JlQllGNDhucA?oc=5",
+"source": "CleanTechnica",
+"published": 1793231299.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
 {
 "key": "702b7a4cdb94dd36",
 "title": "Bigger than Bing or Xbox: Microsoft’s OpenAI haul reaches $10B in quarterly revenue",
@@ -253,6 +337,18 @@
 "keywords": []
 },
 {
+"key": "dd1293e1a1d280d2",
+"title": "Microsoft beats expectations fueled by Azure cloud business",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcUk4eFU5OFhraWtubXZZXzhCWTN3QjhuelpaYnJpVHR1UHRXMHZ0NG1FdnRXRkYwOWpuRTFGcTBvTi1kdkgyS3lkWGZmWnJZcWVHcEpwaVdxVHZ3X1UwZ05rd1VGdzd5Y3BHMVExVnRBSXhUdGFFckQwNWpqd1FlUlY0VG1xWS1MWU5PYVIzbW44T01Xa1hvRDlKVGM2Y1V3NnJCdA?oc=5",
+"source": "Yahoo Finance",
+"published": 1793227712.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
 "key": "153a7a5de00c07e2",
 "title": "Microsoft beats expectations fueled by Azure cloud business",
 "summary": "",
@@ -283,6 +379,18 @@
 "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZFRBUlZtZGdaNUZwQjNhbFc1R0FNWlVSN3NFcmRvcWgxbU5GOUQ3LXZOSzJ3aktfLTR5YW1WNDQ0Ujk2N0wzQ1dTdG9kNVVWYlR4YlQ0aEwyeUJMV25GYzBOUGt1MV9TMlQyS3YtR3FEakltM2UyejBnTlM4al80MUhEOG1HLXRpcE1YSndHOGM4QQ?oc=5",
 "source": "shattered.io",
 "published": 1793227535.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "62ec34401fd40260",
+"title": "Microsoft CFO expects 49% Azure growth in Q2",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSFJZZ1JaVDZrSUhUcnJuYmhHcUVDN1E2cjROQXQ1NEo5X0xIS1d5NWItSUNKdkZpUHpzVWhBVWdLSTlhNXZuUVFQLW5KTDdzWWlxT0tXaVpHQTJVMjVRcFJpQnJES3hYVHRJb1ZWX1RrY1ByZ0NBQzhKTnU4cGh3c1BGa0ZONnhIak1oY1NnWXFhZw?oc=5",
+"source": "Breakingthenews.net",
+"published": 1793226960.0,
 "stocks": [
 "Microsoft (MSFT)"
 ],
@@ -481,6 +589,18 @@
 "keywords": []
 },
 {
+"key": "63b8ebae359fb0ce",
+"title": "Tesla, SpaceX and PepsiCo: Jeanine Pirro Made 140 Financial Trades Since April",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE92TW1Hd3RGRDNBTDYxOGtYTThTTVZxekhOeV9leEpqUVJVYnQ0TEp4Qms5NjFZalZ0ZWw0YWJHV05jUFdaaTltWEVQVkE2bFd6Rk1zRjhjaXhYaU1CaTc1T0ZBQVRiN0xramRKNVpLZHNXcDdFNnVhbzdZcw?oc=5",
+"source": "notus.org",
+"published": 1793225282.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
 "key": "ffe359e6801b843d",
 "title": "Tesla, SpaceX and PepsiCo: Jeanine Pirro Made 140 Financial Trades Since April",
 "summary": "",
@@ -661,6 +781,30 @@
 ]
 },
 {
+"key": "31e33cfb9fc9bd90",
+"title": "Microsoft launches new MAI family of AI models for reasoning, voice, coding, and images",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQzhvOFFMdzREZTdVcXgtRldpaFlLZENNMEF3dF9wQnF3UWtfRmN3MWt0a2VEVXY1cmJwQTc4dlk0d0hmTHU3bExNTTdkSldJR21ES0l4VnlCT2xERUJGMS0tNFZpMzNBeDJVRW9kc1lBekM1YWZzZjc3VXBMRDJObjdDdXY?oc=5",
+"source": "Mashable",
+"published": 1793223020.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "54f8b7eb736b1037",
+"title": "Microsoft expects 'very few people' to accept buyout, CFO says in internal memo",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRG95SnZ6TDlZRkN2X3YxaVl0UjJuci1GaGQ3a2Z5NFludTF5UlNjdnltSFBTY3ZQQ1JqOTlwdGFMQ2xGeVF2VHVuNjhkbk5sNGk5MXJsdXl1SVNYTDdKRjd5djZ6UWI1NEJXMkQ5dHl2RnM0Z3NENG5zQ2cxYzlhVUNzSFhzSi1RUHJoNWQ2enNkWkY0U2xpam9qRmV4YmJxUFE?oc=5",
+"source": "Business Insider",
+"published": 1793223000.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
 "key": "f8dfd92d9e3729c1",
 "title": "Meta Platforms Says Forward Sellers Offer 40 Million Shares Of Class A Common Stock",
 "summary": "",
@@ -745,6 +889,18 @@
 "keywords": [
 "Brent"
 ]
+},
+{
+"key": "380f58e445478ba4",
+"title": "Tesla battery shopper puzzles over a $16,000 gap between installation quotes: 'This is wild'",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQzNvd0hkVEdFclpGU2pWUDJHUWRiQ2dYZkFBMHFIT3hYV19pdUppRmhFQi1wVHdwVkV0VlQxR1pxbk9sYWwtRkMyWUt0SnBNWGtNNnZ6ekZuRlkyQk5BY2dGUTM4U1VEd3NWV0Q5TGdWSVRTMWt0dVFabWFlakpGTGpETkZ6czZaZGUtcUUyTGtQOVQ0eGx3WHkyZzNCenU5QXFqMU1GWkNuQlp4UnBhQjlnbTg?oc=5",
+"source": "Yahoo",
+"published": 1793222280.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
 },
 {
 "key": "a0666ff3c053e989",
@@ -4725,163 +4881,6 @@
 "published": 1793195032.0,
 "stocks": [
 "Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "4c3ced7bb5ad930b",
-"title": "Microsoft is killing off Copilot on smart TVs",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OOHplNl9FMm5Sb2wxYW9MX2J3bWRkX0ZYcm96YTEzVXdPOWZ0ZkFTVnhMdDM3U0JJYlJJVF9XU1B2VjItSXFhMS1Jd0w3bDNRX1UwcDRERFdscE9jZFg4UnBhRXlpX3Zhc0Z5VXRlYXgza1g2cFV6OGRycHZKOXc?oc=5",
-"source": "Neowin",
-"published": 1793194988.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "eff206e519a64136",
-"title": "TD Cowen Maintains Meta Platforms(META.US) With Buy Rating, Maintains Target Price $850",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMW1vMFdiX2VuTzNlclVlUFhKaXIwRVRQOUNZOEdaN19NWjlUYTFoc2txLVVHTE1tWWJuTmpEaWpwdndnRmkzUDg3V0RLUEFQLUZUTW5Fd0RkRXZ6U0lMWHozMnlOalRqb3JKcUVzQVBaTmlvT3JlLVNUR19IS0d3OHpNNWdtZU5NZWR3N0wtd1lhR0sxZmhCMHExREtrZXdKWUc2blJva0VvZ0pKRVNr?oc=5",
-"source": "Moomoo",
-"published": 1793194985.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "f06c07a2b59673ef",
-"title": "Investing in AI beyond Nvidia, Microsoft, and Google earnings today",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOU5mblBrVk1kRmVMQ3ZvaGZjMmZWWTVuRWVGQlpIem5MN1BKSk1DcGFKdE1xZ3Izcndia0xHVFFxZjVuRTFOV3JrV0loMDNuQWtsQm92ZjZ2a2dsZmdraEFhRk0zZGE4TWl2eG1hQnVFc1BBUVFzOGxjNlJkaVlBT1FxSUpIUWM4SGNHcWZkb3BWdmszNHR1Z016VUpXZjhDd0hSR25vRTlOLWdvVmdoTGxR?oc=5",
-"source": "Yahoo Finance",
-"published": 1793194984.0,
-"stocks": [
-"Nvidia (NVDA)",
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "694d22cd3a0f23a3",
-"title": "U.S. stocks edge higher ahead of Federal Reserve decision on interest rates",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMG5sbDJYY2Y0YUo1bXItVXdRTkk5RlJHSVBDS0NVUk9wOVI2c2hZUXlIaWpRM09vOHVPazV2SHJKSGlxMmdnVUQ2SExVZVNJMUs4VWczZ0pWWHZtQ0dycGtlVUxURkF6cUp2NmQzUm5WS3MtT09NbmEyQVR3cDYzamlkaC14VTVHekNLRHNRUzdPdFE5X2lzeWR0d1VhUkVsb3JUTDJ2M2Y2OFUtVndR?oc=5",
-"source": "Pittsburgh Post-Gazette",
-"published": 1793194973.0,
-"stocks": [],
-"keywords": [
-"Federal Reserve"
-]
-},
-{
-"key": "ed0697e6bde7487b",
-"title": "Equinor boosts profits, steps up development of new Arctic field",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSFNycm9NSUNULTBsczEzN216cU1TX0FsenptRUpXRFNLZjdJSUJ0U0tWek42NmxRSjl5b29KUzNnbXcxMC1kb1Qxa1psTEp0bUxNS0NGaldhaEMxU0N1UjhhOUVmemhaWFd1c3VoZ08wdjlhM245eVNjNDJNZmh6RTJYSVlTbkUwWGF1eE81cl9uSmlyZUw0eldHMXBWZzRxZmlheU9PZWk3aDJZVWR3?oc=5",
-"source": "The Barents Observer",
-"published": 1793194766.0,
-"stocks": [
-"Equinor (EQNR)"
-],
-"keywords": []
-},
-{
-"key": "8e243589ece7084d",
-"title": "Equinor warns Europe is vulnerable to winter gas price spike if cold weather hits",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE55Wm9JSnNfa3FPb3hMZ1AxaDJQakdPYkk3WmMydHdFR0lxaHNyd3ZQRFAzWjZfS3lxaTViUjItc3l3OHNvU25yaHBlN2FtUHZSUU1n?oc=5",
-"source": "شبكة تواصل الإخبارية",
-"published": 1793194736.0,
-"stocks": [
-"Equinor (EQNR)"
-],
-"keywords": []
-},
-{
-"key": "b3fd29d8aeaf8b11",
-"title": "Nvidia May Actually Raise Its 70% Growth Guide In November",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMzkwNDNBX2JDYk1SOUF2YVlkdEx4U05naHhkV0xLZzNfWmNYd2M1bGVCOU0ySTQwNjVzbFFBTEZNVDMzSENyalpMU2FXMFZEN2YzVTNzT093WExtSlJnald4Ny1PdWtKWS1QMmQ0WVNDOTlPVVJadlg0VERoUXNYcnRjVWJ0N0JsU3BXZ0p3UG5ueG9LZG5nTU1VVzltR3NkWjVtZUtRY095UQ?oc=5",
-"source": "Seeking Alpha",
-"published": 1793194667.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "2840531274893ca1",
-"title": "Nvidia Stock May Actually Raise Its 70% Growth Guide In November (NASDAQ:NVDA)",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMzkwNDNBX2JDYk1SOUF2YVlkdEx4U05naHhkV0xLZzNfWmNYd2M1bGVCOU0ySTQwNjVzbFFBTEZNVDMzSENyalpMU2FXMFZEN2YzVTNzT093WExtSlJnald4Ny1PdWtKWS1QMmQ0WVNDOTlPVVJadlg0VERoUXNYcnRjVWJ0N0JsU3BXZ0p3UG5ueG9LZG5nTU1VVzltR3NkWjVtZUtRY095UQ?oc=5",
-"source": "Seeking Alpha",
-"published": 1793194667.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "988e1c613c7eb129",
-"title": "If You Invest $1,000 in Microsoft Today, Here’s What It Could Be Worth by 2030",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMzlETXpPeVBDS2dRakZOeEFTSlN5OG9nVFZWSGpiVjdnTVZJWGRnbklfWWNjanBYd1gyaEZXUnBaNFE1MGRlSnAyN1FhR2NmOEt5aHBPS0loeDNFZEVhaE02eTM3bWNlc0RfYlJzM3RjX2RqY0g1UVBvXzlMR2RxYUFqVFNyQ3RxdVBqdlc4YVFKaG82aEQycW00d092SXVEN2JsdTRtazZ5QVpYTWFnc0dTcXNxa1FBcHc?oc=5",
-"source": "24/7 Wall St.",
-"published": 1793194646.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "d03489c0cb16a46c",
-"title": "Equinor and Siemens Gamesa warned over safety breaches at world's largest floating wind farm",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRnN3dlZXRFVQX1htWkktOERJeUVDME5qTEtKTTRMWHdFQWIxOUk4LUUycU5qOGdRNVpCZC1kSTdMaUlKMGowbmVfbHZyR1oxcGNOU2doQ2tId0EwQTZrNE9CbTN4aGFka1Y2ZmJzMko1Vmt3cy1uLThXZk1PTmtiT29mYUxQWWVDSXZpTmFCTnRRMDl6Yy0xYTVseWFCMGZSLU1zNVdoVVliUUNGaXpFQjB6bkVfaGEzM1pfS0Y0M3E1eXdDTHNJbkxERWZPa0NjTzVKdA?oc=5",
-"source": "Recharge News",
-"published": 1793194645.0,
-"stocks": [
-"Equinor (EQNR)"
-],
-"keywords": []
-},
-{
-"key": "53e435959a4430ad",
-"title": "Tesla Semi catches fire on I-880 with no crash, closes freeway for 10 hours",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5RMWd1dGE5NHUyUEhtY0NwUDF4MFFxRDZVVEp2RDZneFYyZVdycDlGS1JiZmh0eGF6ZHVkNm9zVU1RSkRZWU5mUlFOUVpBR09HeG45WnM0bTFiMF9fR1JmSHdSbU4tUklHbmJ1YnpUZjlrZ1JkZjkzdWV3?oc=5",
-"source": "Electrek",
-"published": 1793194399.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "c947272f447a5d4e",
-"title": "If You Invest $1,000 in Microsoft Today, Here’s What It Could Be Worth by 2030",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPX3BJZG1SbUNxaVVETGpRSnRRRnZZRmd2bWp0SzJRb2x4LWdEUlI4RVo5VUhhMjRQZWw0Ml92WVZleXlLc0ZmVV9uZVdXSkJhNnNwUTRRUTRlTUJtQXMzVDRnclJyanZNbnJsWDlaV2ZPeUwzdVhvZGwwVnVtOHdyNG10a0JvaGxHcTNMdTFpckw2ckJ0Ry1VcQ?oc=5",
-"source": "Yahoo Finance",
-"published": 1793194381.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "40f0e448c7401b47",
-"title": "Should Nvidia be worried as OpenAI leans on Google's chips?",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTzB3S2tTZ0VYcmU4V3dteVZaUjN6Q2daUlBwY3Q4U0NXcThhM0w3T3U1ei1PX3QweE95ZVY5a3dPUG0xVTdqM1RrUkFQTlZETWlqSS16VUZla3U1anE2dHFZa1hUNXNiQ1JSY0QwclVXdFlub0J2bVpIamtWUlFmS2MyTVhZQlhPckJQZkhlR2VEV0tmanI1UTBueFVGazdJdjZDa3M1dw?oc=5",
-"source": "Yahoo Finance",
-"published": 1793194280.0,
-"stocks": [
-"Nvidia (NVDA)"
 ],
 "keywords": []
 }

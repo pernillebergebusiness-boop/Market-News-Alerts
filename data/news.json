@@ -1,5 +1,5 @@
 {
-"updated": 1793303679.6334834,
+"updated": 1793305840.649456,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,6 +73,102 @@
 ],
 "items": [
 {
+"key": "31606f11df4c67a9",
+"title": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
+"summary": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
+"link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261029a.htm",
+"source": "Federal Reserve",
+"published": 1793305800.0,
+"stocks": [],
+"keywords": [
+"Federal Reserve"
+]
+},
+{
+"key": "ccdf7117bdb2922e",
+"title": "Lilly raised sales guidance for third time this year as Zepbound sales soar. Its stock closed at a record high.",
+"summary": "The drugmaker continues to dominate the market for prescription weight-loss drugs in the U.S.",
+"link": "https://www.marketwatch.com/story/lilly-raises-outlook-for-third-time-this-year-as-zepbound-sales-soar-6d987407?mod=mw_rss_topstories",
+"source": "MarketWatch",
+"published": 1793305320.0,
+"stocks": [],
+"keywords": [
+"record high"
+]
+},
+{
+"key": "69d0b4e78a2d3af3",
+"title": "Tesla 2026.38.6 Rolling Out: What's in It and How to Get It - BASENOR",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE81c2lLcUxERmhvSFRVQkN6Q2VaRElhU1FRTHRCWTl5MktSdE9xQjJYTGdaeUQ1N2xWWlZfa1A3TlNtTEszV3lhWUdPLTRrODBjWnZ0bWZDYThNN01XbmRfd1ZsbnJfYUta?oc=5",
+"source": "Tesla Accessories",
+"published": 1793304210.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "ba9ed3863752014e",
+"title": "Nvidia's Jensen Huang seen as target in China spy plot, report says",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wVV9JcEJHTkVYYTZPY2xmUVhQeVViUFhFcEdnTlRCRFBDS1Y4aGk1cEtWRFFtQTBWV240ZDJ5cFRXUWJfNFI1VWFURldWdTIwbmdzSnRPNkhpQWc?oc=5",
+"source": "Fox Business",
+"published": 1793304137.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "6b31b8a0370a4cca",
+"title": "Microsoft to raise up to $25 billion in bond market as investors get pickier about AI debt binge",
+"summary": "What’s changed since the summer is which companies investors want to back in the AI race — and at what level.",
+"link": "https://www.marketwatch.com/story/microsoft-to-raise-up-to-25-billion-in-bond-market-as-investors-get-pickier-about-ai-debt-binge-7c6ae777?mod=mw_rss_topstories",
+"source": "MarketWatch",
+"published": 1793304060.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "b0ce750a3a5b942e",
+"title": "How the Ford Bronco and Tesla Model S helped shape Chery’s iCaur",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWTdGLVZUbXlVRlZaZTU2dGJNYkV3bDN5RTd5aEg5bXF5TUZ0T1hXcl9FMTlMa1dOOWUzaHlYd01BV1NDaUtaUlRMVEJoVFhpNXR4TGdNY1lYZHdCb0UtWnl1SzR5X1FxcHp5dTBVVFBld1hQYVdZMTJhZFEtZTFXZmZzSWtyUVZiSDB3M0pKY3MzVWxuR2diM280MzlnUTdXUE1N?oc=5",
+"source": "CarExpert",
+"published": 1793304000.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "21c986e084dcc13d",
+"title": "Nvidia's Huang says dealings with firm in US spy probe were 'normal', Bloomberg News reports",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaXJwa3VEMVZBTzlycmloVGNCSVdBTjU3d1RlNlA1OFFDdkpBVXZBNi13S1JOV3MwRDFtUkk2M0t2UzQ5aFUweGl3RGFQQ1I3blJpMHlEV2lhUEEtNkJYdEhXeU5mVGxNWjlXUmpWd2NLejFiUkJyYUxOR0dZWlB6RUtUejhwQWV2ek41cm14V0dfM1I4cVNHQTBVeWpyRzRwQzNjMlNkcjVlZkdrbWd0aGhrbE1EUzlEQXpIWGhERkxmcjA?oc=5",
+"source": "Reuters",
+"published": 1793303669.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "3bb29843afd5eeea",
+"title": "Not Nvidia. Not AMD. This Custom AI Chip Designer Could Outperform Both by 2030.",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbDY0bUZDaEVTSTRfT09NSWRLVUY0UEk3QTRsRDhJdVpZdmNSdzAyTmYxOXlyQ2JOclc2OFUwZFJ5bXpSZXo5MGVlQ3JqUW80RU1YWHVaaGtidjJ3dDd4ay03Xzh2LWVXc2QzRTZ6NXNmZi00ZFh2WFN5UFZlRjRMOVZCUmdUVE13ZXhKN0V0S0MxclU?oc=5",
+"source": "Yahoo Finance",
+"published": 1793303400.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
 "key": "7002ba16daa2328a",
 "title": "Microsoft 365 is $99.99 a Year. Get This Version Now for $49.97 for Life.",
 "summary": "",
@@ -121,6 +217,18 @@
 "keywords": []
 },
 {
+"key": "616a53e540fdcc09",
+"title": "Jim Cramer: Why investors are punishing Alphabet and giving Microsoft a pass",
+"summary": "Microsoft is faring better because of its financial spending, Jim Cramer said Thursday, a day after earnings.",
+"link": "https://www.cnbc.com/investingclub/2026/10/29/jim-cramer-why-investors-are-punishing-alphabet-and-giving-microsoft-a-pass.html",
+"source": "CNBC Top News",
+"published": 1793302233.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
 "key": "cffed09e868fdf57",
 "title": "Jensen Huang said Nvidia's ties to suspected Chinese spy's firm were normal",
 "summary": "",
@@ -157,6 +265,18 @@
 "keywords": []
 },
 {
+"key": "2440f40880fadccb",
+"title": "Nvidia CEO Jensen Huang reportedly targeted by Chinese spy | Daily Sabah",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTkpxMkNYc0dwc2NmTVNud1ZMM3BzZVF5dXV5akF0eDh2UlFIV1QybVZjRTBScGJGZlA0aWppaEY0ckptWEl5ZFRSOTlnZnNjd2hINE9hNmFQOXdTVXdsYko4cm55MHFwWFI4RzN2Y2JuRnN4TGszQWdyRHU1YWhqMkJFenZXazVCT3hsU3pYZTJiMmlYc1dkRUVLTTJmNXcteEwxcdIBqgFBVV95cUxQSzNEOUdibUJ6LUxVZG95TEEwQUZNX3hidVRuV1UzRF9qQzRSQUE0bzVfQm44OFRSd3NYMi1lXzVPZXA3MWJzWmtIM2lIdHNSVVd1MkxORUpSZUpuRHRkNk1nUnBkSWNYSmhuN253SUhheFV0SE80VEZWRHJxbFEyb3U5NFQ1MGxmeE96cmZlWVRYbnJpQmF6VXVKcGlERnNsZVlSOWJTbXowZw?oc=5",
+"source": "Daily Sabah",
+"published": 1793301840.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
 "key": "2b6fb725761e5bb5",
 "title": "SpaceX vs. Nvidia: The Best AI Stock to Buy Now",
 "summary": "",
@@ -177,6 +297,18 @@
 "published": 1793301300.0,
 "stocks": [
 "Meta (META)"
+],
+"keywords": []
+},
+{
+"key": "cba2fa01191c06f2",
+"title": "Nvidia-Backed Marvell, Lumentum Could Be Nearing a Deal",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdVU1M2Y4eThqVVhKMDM2dHoyWENXNzRLU2lNNXFiQXBobDlETkZXX0pGelQ4NEVycTJwdWNtTldQRDRmOXdLMnhMOTBETWtpM3pVMU84U2doY0NRS0E1NXJxeWpmVVZTVG9UczRzd1FXOHNSMkVyUVVRd3dTaVVweTNFOWhkMWdlV0gwclRoUDJEdGt3WmhGTHA0ZmJGSXZzNXY2TWZaOA?oc=5",
+"source": "Investopedia",
+"published": 1793301209.0,
+"stocks": [
+"Nvidia (NVDA)"
 ],
 "keywords": []
 },
@@ -433,6 +565,18 @@
 "keywords": []
 },
 {
+"key": "f7f4556099017301",
+"title": "Microsoft expects to raise $25 billion in US bond sale, source says",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBUMlpoMTJVZ2VXSVNiamViYXhRSWtfRjNMdGxhYW9Od253d1lSRUlic1hQQ0Y0S1VZWi1BX21zM2Y4dDVOM1VER2hsR29idEoyNjczXzJ4c3F6SjRGd1pnSkpxR2dpYlpueWFCYzRobWZnVnNoeEE?oc=5",
+"source": "Columbus Ledger-Enquirer",
+"published": 1793298069.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
 "key": "ba0f054208c55d6c",
 "title": "Nvidia CEO Jensen Huang Was Reportedly Targeted in a Suspected Chinese Spy Operation. Trump Chose Not to Act.",
 "summary": "",
@@ -501,6 +645,18 @@
 "published": 1793297149.0,
 "stocks": [
 "Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "d6f855a2afcf4a59",
+"title": "Update: Market Chatter: Microsoft Plans to Raise at Least $25 Billion From US Bond Offering",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ0VhdFdreHM2ekhGWlNLeENINEFieWJUMkNOSTJZakQ2dUppdlhSSkV4UTMtQTdTN3NEckNvV3AwdEh2dWdvTi1PQmd4b3ZZUUw3RTJEb1dmMkhOT0JYOW5jNjVDc1lJNUZuRlotc3lxSHJjYkhEZ0xyWFpwZGZYTTdNR0p4NHFrQ1JvbWF3elhuc01UZnVvQVgtNHo3RHh0X1pj?oc=5",
+"source": "Yahoo Finance",
+"published": 1793297058.0,
+"stocks": [
+"Microsoft (MSFT)"
 ],
 "keywords": []
 },
@@ -1017,6 +1173,18 @@
 "published": 1793291651.0,
 "stocks": [
 "Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "2dcebc9e5c6333da",
+"title": "Berenberg Updates Equinor Forecasts After Q3 Results, Production Guidance Upgrade",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZkZBemNmQThrSGVybTdnZWo4YXZKQ1ZtRzV6VDdUbmhNYWVvWTltdXkxdi1nUFp2M0kzRE9Lb0Y5aHEtbjd1dFQxeDR0d04wV3o1MUhRR0Y1RTJkeDVDMlZNcmxmLV9ad3BnQmdzREpFNnh3ZW95UHJSeDc2Z3pRMzlJS29KLWdVSFF1emQzMEZsNjd1QV9aZ2ZMWV9GSExpZmVvcjAzaThfajhhUWl5aGVFRkNrajNvdDg0c0dzVUZTZw?oc=5",
+"source": "Moomoo",
+"published": 1793291501.0,
+"stocks": [
+"Equinor (EQNR)"
 ],
 "keywords": []
 },
@@ -4707,174 +4875,6 @@
 "published": 1793270054.0,
 "stocks": [
 "Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "f1ce501c3ad9ee91",
-"title": "How The Tesla Roadster's Insane SpaceX Tech Could Rewrite The Performance Car Playbook",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81OHI5eXBxWmtWbWJ5a0ZGck9qWEdpcVZXLXZQcmFrTjh5Qk9fcVdmQ1lmOXhrQ1ROTjRLRURDVTJoLTBodW13WlpESkNoaVNqelZsTmNidVdrYXM?oc=5",
-"source": "CarBuzz",
-"published": 1793269991.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "526093d878cc8b44",
-"title": "Nvidia's Microducks: what they are and why everyone loves them",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObGp2bEFzZG02dG13Zm9MSHNIWEFmbTJrNm5PZlcyY0lGXzhiZXEyTzBvNTVKc2NwanY1TmJLaG93ZjQ2SXhRRmEtM1hYUE93RF9iS3RVZ1gwTHVEQktlY2luQ0kzZzA3cTMyazVFZkdTVjJqVEl5YlFqYlNWdEM3SXdDWFl0ZnJk?oc=5",
-"source": "nss magazine",
-"published": 1793269983.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "8548961ea8b2a96f",
-"title": "Equinor Doubles Estimate for Major North Sea Gas Discovery",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOby1JY0JoWXU0RmFsQ0U0VGROTXFWRVFHa085RkZOYWltVm85azMtU3REa01VTFQ1MDljU1F1Z0xUWW9Dd3RWQlBpcFRuelZlMm8tUHR3RklXVmpEWlNuZlpuaHk1RzVNRU5XVjNIR09TbTNLR0dKQ25wcGtrd2pnV1Q4TVg1VGprSFotVWp3WEpSWnVWYTl2SW9kR2tkZkRwa2RkamhTOXZ1WC11Z2RtMDVHN2HSAboBQVVfeXFMTWdlWHlsNDNuazl0czFJSUo1c2FSNWRjbzA5emVzY1poUFZTMVNqdlhCZHZsVFByV192TWdWd2ptRGhFaEZwTU4xT3lIOFpQX0ZHbUpwNHlQWmpQS3ZjZW9GOTRENWVJaDFxXzFORWpVYzJ2S3IxSUdzOHp4d3ZSTnFYRl9CaW1BSWtNZWZGdVhOSC1OYlk5bmE4YTRZQ3RFTGlqSVg5MFJIczQybVM3Z01uR2RUYWdjNzBn?oc=5",
-"source": "Crude Oil Prices Today | OilPrice.com",
-"published": 1793269800.0,
-"stocks": [
-"Equinor (EQNR)"
-],
-"keywords": []
-},
-{
-"key": "a992a5be79193596",
-"title": "Kongsberg Gruppen Q3 revenue beats estimates on defence demand",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNd21WOVN4LTVjZjZYX2lTRVIyTmN0QWdvRVdJamY1S3lqRVlHNTNRRlh5SGtZeE14YlFleXVFbE5SYmtEXzdWNjdYNndia1hhWXQxUUhVT2NEQ0E0YktxME5iTjdQLUhRc2hGY2VNWjJ3eEFLQ1Vud1RfZE9QdVhvQnc2VVFQUXRwaHkwUzRoNGhvUVZZM0liQWJyNnZGaTBCQlo0NXlMdENxdkY4SjRKVlNFSmxiMTcyRjhucnNMUXBEWExXaFdkLUlub28?oc=5",
-"source": "TradingView",
-"published": 1793269761.0,
-"stocks": [
-"Kongsberg Gruppen (KOG)"
-],
-"keywords": []
-},
-{
-"key": "102ccc2bdae1598b",
-"title": "NFL Week 8 predictions by Microsoft Copilot AI for every game",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVkVQUE1KbFl4NmNXMVNJT0drTXFLV3JKN216bTZHNGhXbjJyM1Z0X2RuSTU5WTI3WWNXZ0Z3SklRX0JKWTAwYXBwbFo5eEt1S3VzMkQ1VDc5c1JVVXAwUERRZ29vb2s4d1Q3NXNzMVp5UzRGZXRnc3RRNjdmcnQ0TDd1ek15X21qczU5cU1aRnpjMk8yWXJpR0poUTNJTXJ4YWpwbWptNnl4LUNhTlZqQjE0LVlma3E5aS02bkNDNlRRLURNbGowdnM0R2luRnU3ZUhza3BETWxzaVZSYmVmeG9tVDFHR045?oc=5",
-"source": "Central Oregon Daily",
-"published": 1793269750.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "4470274e3ad06df1",
-"title": "Tesla's Free Cash Flow Beat: Good News, Bad News, and What It Means for the Future",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxORlVjem1aeVVnVU03TTVYM3VJcjhyQXpyWkxZY0RtX0lIWWZHX0cyOGNPYnV4WnpoY1FuS3AzZWJmaVphWVBGaE5oVTFXMmVvNEpOajRuRzdBcVI4VkEzdHZiSTc1R1dBXzc3LVY1M1M1VU5wRzJndFRrS2tDVmZib1RWT20tM19XQjliWTZiS2htZFBieHl4XzBUSURyY0s4QmRxUjFrVE9wOXFvZ09BSEdXZ3ZnY2x6enVreUVqRk9RRk85dDVYOEp3VDFVQnFWSWZ3S3Vna053Z19uQUxST2FzSGFuRmF0NzFtOFdUbEdxS08xT1QxWQ?oc=5",
-"source": "The Globe and Mail",
-"published": 1793269628.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "9b062edbcd2be3fc",
-"title": "Naver closes $10bn investment from Brookfield and Nvidia",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQUJET1V4QWM4bDFXZlJFNmhNMVhDdmJSTXo1R2hQTVc1UkM4RlF3VGNHcWNlNDZEZU5JNDJ0ZWpjbzRia2MwX1FKZ3d4TUR5cWZQcVNqR04wUUtDUVNtTjY5clZlbk1Ja2lqMi1Na1dhWm42ZU5JNEdlN0ZFdGtVcjV4R3otSllMRFNrMEU3ckI5ZDR1U3NPaEEyanVueHJB?oc=5",
-"source": "Data Center Dynamics",
-"published": 1793269350.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "9e1531cd732aa357",
-"title": "Wells Fargo raises Microsoft stock price target to $750 on AI growth",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQTVSNzNnc0x6TkV6Sk1hU2hJNGViNEJ6N3hXVzlzekUwTjVtRXJoS0NsT3dJQ3FKblFGd2drTm4yZ3ctWkEyRjNOVm11aTVXN09sUnh5MlBhckRVOHFFNUQ0ZU9Oa043R3ZTVzA2T0JtWEltTzZqc1o1MnFiaWJnYkg3UWpZRXRSeG84MDVNNmFFVEs5N0l1cjFTZ0RfNC12QVlHTlBsQ3kzUDg5aXJDOE9KVHdHa2k0OFZtMTM1MzJoOFZxcnc?oc=5",
-"source": "Investing.com",
-"published": 1793269349.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "19201deab5fa44eb",
-"title": "Get 6 Microsoft Office apps for life for just $50",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAwTXJrWGVQM2Z1b2RGTTZ3WnJTRUtDdjVkU1FROXNRNzlNQ2FNWmNrVmVlLXdPdWIwYlNva2pJbFZvMC11dVZBdkpPaFFjem1mWXBvNUJldElZSkVudndmVmtucFRCVjhWbnNUSGNpNmZtSWtwRlVzTVc3Tmk?oc=5",
-"source": "Mashable",
-"published": 1793269125.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "3fac238144963eae",
-"title": "Former Tesla Autopilot Chief Slams Elon Musk's Vision-Only Strategy as a 'Weird Religious Stance That Ign",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNb256N1FRRGIyWVBCV1BBbVNnTEYyMnVySUlhSW5hMGVrcExkdUlUemRzbVNBOXFDM3RmbVNmbEFHTnNwQ0NjdndMajhiNzFoMWREWENTdlJKN0xOSlZlTDg0UDVMelM1NXNFMkFpZ3hQeXhtSHYxX3V1YTVyVzNJV2dST1R0TlpUZDNuVnpjU3B5MDlSZkhEWEJFaWJBNjB1aW1NYnFWaHpVVnlJZkVEOUdKSC1PMW9LZmQ3dUNFOTZFOG9QeVIwUF9oX1RieXFOWkd4X1hNeUk3eUEtTlBZN3RSaG90a2pEc3dEU1dYLXpZSmxTMWNvUHJncVc?oc=5",
-"source": "Benzinga",
-"published": 1793269099.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "9638efbd41749881",
-"title": "Tesla's Free Cash Flow Beat: Good News, Bad News, and What It Means for the Future",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWUs4aVBzUmFsX3JOZ19xT19FdGxyWmFlT2E1ZW1xczZ4ZWNWTVpHT1B3em0xcms3NUF1OFJidnBwNVQ2ZEdyUzJpdUp0Und6R05EUHJ2bUdrc2l5bmx0bHVYTW5fd3hzRGZDMWdELTRRY3JXbTNrMDFvUlpuNjRIY191eGhQT3pjaDJwRlFxY3ZEaFExLUtF?oc=5",
-"source": "The Motley Fool",
-"published": 1793268875.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "8e838c39dbd6f1b5",
-"title": "Microsoft breaks New Outlook attachment opening with Edge Update",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQ1VUQVJDVURkR0ZSMkRLejZrcldlaEpCbkFpdWpzeXhLaG94Qjh1ZDJPbTd2UFBVdzF4bUluYV8yNXI1Y1Q1S0UzUFJLTmpoNkxpSmgxQU9QVy1YTWRDV29vcUhsY0lDTnVpR1R1RXZNZ3NzYUFDMVpPUWJhTjZvbUJRYUhoV1R3bXJpa01Od1pMTVR4YmlFY28xVjJ2VGlsdlltZms4MDlMYkRxMW1kR1pzNXZvOFRPcjkwZjdPbmFwVFk?oc=5",
-"source": "The Register",
-"published": 1793268840.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "dd9f178ba0816eaa",
-"title": "Improving scheduling collaboration with Microsoft 365",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOd0F1S0haRFA0dG9pbm5EdjNtc1dYaTJhdVpCaXIxQWRtaldkQVJ5amNQSEZNWG1rMjZFTU1YbEo1Ql9hdFpGZzRDa1BJNl9BR3pFcEs3NEZycXlEQ0JGcGU5clkyZENVQXdzZEFpSWJ3a1d3cktDQTE0MzFlUTlTUmV1anJ6UnBaUU5PMk1vMl9GeFJhelM5YURVdw?oc=5",
-"source": "University of Nebraska Medical Center",
-"published": 1793268553.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "3a04160f08bf7c11",
-"title": "After Earnings, We Raise Our Tesla Stock Fair Value Estimate. Are Shares a Buy?",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYXI0NGNwSVZIZjV3R2Etb2ZVSHphNEY3RU1GZm5RckNCQWlaZFVYQWZMb1FSNzVCMGZNUUg4NFh0ZS1sVzZFRFprclQtM1ROTl9nMmVfUlZwU1dCUmljQ3ZiTTZxTldiZ3FGOFloRlVkMzRDdGRnblZrTjg4VEpsWWd2SGhQSTZHNjVsVXk0elFQRGRmNEtrWmpCeTFOTGJqZzV3WGd1Ul9wN29BSHc?oc=5",
-"source": "Morningstar",
-"published": 1793268481.0,
-"stocks": [
-"Tesla (TSLA)"
 ],
 "keywords": []
 }

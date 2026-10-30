@@ -1,5 +1,5 @@
 {
-"updated": 1793400267.389771,
+"updated": 1793402175.7433152,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -72,6 +72,18 @@
 "Yahoo Finance: HTTPError"
 ],
 "items": [
+{
+"key": "1ddf33964c7b5c39",
+"title": "Tesla vs. Rivian: Which EV wins the Halloween mode showdown?",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQVcxMFRFT1dGM2ZtblRCUEZXVV9TUWUybnpDMkJpUktQMnZZZmlrN3pXSDItcEEzN0pDcFlUSHoxTjU4Z3dRQTRMV01NT29ITGRiY0FoNWRUSWdLaHB6bFIzaGlOZmR5QzNiQ0tWdkQ3ZG14Q2FJUVp3M1lhNk9WXzd2MW1Kb0NUWk1KWndfX3pGVFQ5NDBMb0JsRjFDenQ5LW9GY2VvVjhmcnM3Y2hv?oc=5",
+"source": "USA Today",
+"published": 1793400876.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
 {
 "key": "eec75860cac6c830",
 "title": "Microsoft: 48% Azure Growth And Still Not Enough Capacity (NASDAQ:MSFT)",
@@ -167,6 +179,20 @@
 "Microsoft (MSFT)"
 ],
 "keywords": []
+},
+{
+"key": "4c93b6ae84804676",
+"title": "Apple overtakes Nvidia to become world’s most valuable company amid tech selloff",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOT0RRSF82LUthQzE0cDJYYk1tOGRBRUlzNmI2MGkyNGMwQ2hQNUhnRkFlMTJNNDlwZmdneml4S3gtOUg4MnloLUt1Q3BKaWQwLWc0SU5wdkhuZENqUHlhZlg2TGVCOFVHaU91NmYtLVExTDktVnFiOVE3Z2VVZlMzWGRzdVVDVmRuTXJ4Qg?oc=5",
+"source": "Yahoo Finance UK",
+"published": 1793397009.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": [
+"selloff"
+]
 },
 {
 "key": "44773d4800b9e12c",
@@ -528,6 +554,18 @@
 "published": 1793390581.0,
 "stocks": [
 "Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "9e83238b1b9b7586",
+"title": "Nvidia’s $12.9B Hugging Face Deal Faces DOJ Antitrust Scrutiny",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNY1AzLWRsVWhZRTl1eFNvcFdJS0dmMk16T2FkU1pleEhrdkNEeGY2Rk5Uc2YyVXo0LV9BSmhIOEVoazB0QmlkTnU4U2t6THJUaGxxWnZfc2U3VlpjSk5LT3d0RUVZYnlzOUtvNlo4ZTg3SlBvX0pnYng0ZVQ1YXBldlROVWtINmVwa0RUZDNLVWE1bktzbXBJOWZ3?oc=5",
+"source": "Channel Insider",
+"published": 1793389775.0,
+"stocks": [
+"Nvidia (NVDA)"
 ],
 "keywords": []
 },
@@ -1104,6 +1142,18 @@
 "published": 1793383453.0,
 "stocks": [
 "Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "6dfd255003e69e70",
+"title": "NVIDIA Corporation (NVDAD.BA) Seasonal Returns Chart - Yahoo Finance",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vOEt1WkE4UlNSSl9keXdMbWZqdDdOZGVFbXg0dDN4cm02VWg2dkVtdWRqMWViWWJxOXJUUVlYVDhHQUhESUtaUmZrM1U4bXhCbWlGU0xCbV9TX1ZLLXhIcHlUV1NJSE0?oc=5",
+"source": "Yahoo! Finance Canada",
+"published": 1793383366.0,
+"stocks": [
+"Nvidia (NVDA)"
 ],
 "keywords": []
 },
@@ -4836,55 +4886,6 @@
 "published": 1793350459.0,
 "stocks": [
 "Aker BP (AKRBP)"
-],
-"keywords": []
-},
-{
-"key": "470fef10f917b1f0",
-"title": "Tesla plans Manteca showroom, service center on Atherton",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVjY3WkVQYmlrVG54YkRFVWotQWRlb25nUzZCcEpjb2dodVk3bzZrWHlyOVBYVXNCQ0ZtN1o3Q09oVVhSb0ZoN2tQdlJoekF3ZHJUOGpRR2tQdGNZWUlpNXpLcnV2NzlKTVQxNkdqQTZJMFV1TGQya2Y1MDNiYkJNVXUyZkc2ZG96RzE4SHdaTXdReGE2T0FqdDNveXUzdUUtU2J6RFNBWQ?oc=5",
-"source": "Manteca Bulletin",
-"published": 1793350289.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "0262008815c098b4",
-"title": "Apple Inc. $AAPL Shares Bought by Sustainable Growth Advisers LP",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeGxaV1FpVW1iLTUtVmhWTzI5ZjlwYTV4aUVtYldZd0tVd0NNMWlZaXlaWHVWUTk0TDQ1YTd2VXo2R3FLNGtOM242UEpIeno5bXZhbG11c2N6NnlvT0dnckJHVXBrUVRWcGJKRFkxVjJkb0xCWi1seUlQYk9DVFRMRUlKX1MxRDRHQWE5azlseUdmZE1qU09ZNTlKMFJvQkdjNEJoRUhaZDdOR19nWEdPdW1iVi1iTnlJUTZqejFIU2M?oc=5",
-"source": "MarketBeat",
-"published": 1793350283.0,
-"stocks": [
-"Apple (AAPL)"
-],
-"keywords": []
-},
-{
-"key": "331511dd8a04216d",
-"title": "8,121 Apple Inc. $AAPL Shares Purchased by Pension & Wealth Management Advisors Inc.",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQT21NWEYyOFc4TUlkVjhLZ1c0ZHRSR0FHSVp4Snl1c2ROUGlHaU5JaVU5alZ2ZVlBemt3VXBJb25ubmJZdHc1VzZwWk1wWDZNNDdMNUwyeFRkX0NtLWViYlVJLWJRRnY4eUd5TWpxZE54UjFwM041bWdBT01OdnVsbTRxaUhWM0l3a0FYb3l5d2lYaFFtRnlBb2ZRNmJhRUN0M0ltOEpBd1RQVzdBWHNlLTdfdDBTN3JmMzFJQXEtR1BfY3hPc3BpbFZFOVpWN2xrUzBxRzdB?oc=5",
-"source": "MarketBeat",
-"published": 1793350262.0,
-"stocks": [
-"Apple (AAPL)"
-],
-"keywords": []
-},
-{
-"key": "eabd055b5dfa6b6f",
-"title": "Market Chatter: Nvidia in Talks to Back $30 Billion Nscale Data Center Project for Anthropic",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMTdiR3UwTlRyUE1lV2xfQ0pZT0w2REEzV2tZaDhidzgwYUpPNUtNa2dvb1FZeWhGdXB6Y05VcGtpeVVrZF9mTkVneHhHSmc2LTVQSnZVeU44aU5vMnhhNDhJQmVMREVTZmdiOUJxdXlxZ2w1bHNaTGtlejNseEdGVTEtYXlyZW5iME9jMnFVTWJaaTlZa1IwTUJlR19DQWt6ckE?oc=5",
-"source": "Moomoo",
-"published": 1793350236.0,
-"stocks": [
-"Aker (AKER)",
-"Nvidia (NVDA)"
 ],
 "keywords": []
 }

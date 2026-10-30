@@ -1,5 +1,5 @@
 {
-"updated": 1793333590.1558418,
+"updated": 1793336268.1564147,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,6 +73,30 @@
 ],
 "items": [
 {
+"key": "4622f072ccc3ef6f",
+"title": "SpaceX and Tesla merger, Anthropic AI lawyers: technology news",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVUkwWVNuQklybFNVOFpfS21SemlqTzQ1cDRWZi1ZblZwczltZm5lQUFYdm5fTGJNTEpEaVJhZlZzTDV0eXZlZ005UGlVSF9aMk5mQy1QeW11alF4OFhYNUxXYi0zTlN0UHRRT0xidHV6bVhsUlVDenVfRUc0RDJCRk1GV19UM2llVEhLdXEySTZPd0g0cmFsMHQwajlWTFFuWXc?oc=5",
+"source": "Realnoe vremya",
+"published": 1793335626.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "ed1096d2ad41f373",
+"title": "Microsoft's Azure Revenue Surges 48% in Fiscal First Quarter",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14UVZyV1A5Y01sdUtyakNiYTYwSDI4S0FGbmJBQlNLTDNkdm1oMGp6c00ya0dxNzh5ejNqbXA0YnZmbUgyaW00d042Y2dVQVpfT0pIT1RSOE9XRUo5MHBRTTlGRzE2YmM?oc=5",
+"source": "THE ELEC, Korea Electronics Industry Media",
+"published": 1793334329.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
 "key": "129d3169bd41d1f9",
 "title": "ARK: Tesla Robotaxi Cash Flow Funds SpaceX AI [2026]",
 "summary": "",
@@ -95,6 +119,30 @@
 "keywords": [
 "stock market crash"
 ]
+},
+{
+"key": "b9bb9838e51358f5",
+"title": "Dow, S&P 500, Nasdaq Futures Fall As Weak Tech Earnings Trigger Selloff: INTC, IOVA, SLS, AMZN Stocks In Focus",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQc1pfMWFrRUUxaDVLaVhOZlE5WTlYbHE1czI5QnR2YWFWTDhSMUdkODRZYm15RGszeFk2WUhqcUlDT1F5VjZlaWdHRlJ5a3pxMTI2VUNyQ0VXSzNkcDk0VDV1T2l2dU9RTlpKMXdsMWFqODJ0LU9Xa190QU1VV29UQVQxTHlaY1VxSU5fejJ3bTV1YTA?oc=5",
+"source": "Yahoo Finance",
+"published": 1793332980.0,
+"stocks": [],
+"keywords": [
+"selloff"
+]
+},
+{
+"key": "0e14e2ea6a5d02a6",
+"title": "Nvidia Chief Seen As Target Of China Spy Plot: Report",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeVgtcGt5MUEtYTNfckF6cHplaUdoTnF3RTd4ZUZfT3BaRTFFS0hvcU9yazlWYldZbm10bWJNdXdiQi1RWmVQaDVqS1BMOXFEY1J0SG50VUxwaDN2bl9xRENLUGhYNmZtd3hjYWpBbWlvY1o4N1RfM2ROTHVSY0ZPd09FSzhJaXNnSUJ1cXJYajd6cWlxNmlDLWNkYkt4d2VKM0FNcGJSNnJ2M2PSAbABQVVfeXFMT0hMaC1zbGlHbXZQV2lmMVBqSE1jY2w2dGRSX0RZbW1xMzNDWGlrWVFGN3pzX3R3LVJkaEFybGtkcEFMZlM5dXE5QUhkbkNvcWNreG5TdWpLWmJtcmhOVWZuUEw0MHZ3bkdlaVN5T0JidC1EVjRpcnpIdUpTTmtDMFJGb2JITUllenp3S25vc1ZDR3FKNHdrSEl2aXdXMDRZejdPUmhYeDVCdUdyblhoSmM?oc=5",
+"source": "Deccan Chronicle",
+"published": 1793332571.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
 },
 {
 "key": "4596e4bfa7fcaafe",
@@ -289,6 +337,18 @@
 "keywords": []
 },
 {
+"key": "2c2a4f9ffefb9faf",
+"title": "Indian shares open flat as IT rally, earnings-led rebound counter higher oil prices",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMFp6N3FNV2FiY1Y2UFlWQ21yeTgyVlRKcTV6UEMzQTRiUFlTM0lJaWtYSzFpWHMydzQxSWZCeDZLV2hSUzZlNUwyRTNDY2llYnEydkp4WG95cUxzaW1Ed0ZRdUZGbUtjeW1CVWpIeERKR2xERGVWcjdVcTBHQTZiTzNyaHJsMlhpU3hSWnlESUZBc2ZIT3dUUWwwRGpVYk1fVVU2MEx2V1RfNk54NVBRVVFPWEtkcDQ2TUw4TFgwNUc?oc=5",
+"source": "Reuters",
+"published": 1793327100.0,
+"stocks": [],
+"keywords": [
+"oil prices"
+]
+},
+{
 "key": "15e7aa1fc84dacf1",
 "title": "Nvidia Earnings or the Midterms—What Could Spark a November Rally?",
 "summary": "",
@@ -299,6 +359,18 @@
 "Nvidia (NVDA)"
 ],
 "keywords": []
+},
+{
+"key": "48a9a72d622ba02e",
+"title": "Korean stocks tumble as US tech selloff hammers Samsung, SK Hynix",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBXeFVKRE43QUh4YTQxaE84MXhYT0FKa0VZTTlDR2JscVI4Vy0yUjlGY0dHTVRmWG40YTNfdmpVMVUzby11NzJyemZUSl9kMG1EbWdldVhNSF9JZlMzTGRRNTdfdmw5Z1pCdXg5ZVh6ek05ZjczeERTcUFB?oc=5",
+"source": "KED Global",
+"published": 1793326913.0,
+"stocks": [],
+"keywords": [
+"selloff"
+]
 },
 {
 "key": "032b0342046e5ea4",
@@ -463,6 +535,19 @@
 "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYVlGWnAtSVVYVWtQWnA4VGo2MFhpQjA2bFA5QnpRTjcxcGY1UF9vTWpiN1BDdWU0dGQwOGxibnc3T1htazVYcDV0TmNDcWpHWS00bDVkZE15czRLckxnaDdSSlN3V3Q1SzZQRE5WVHg2U19mSTVURkRLcE5lcTRfeXppSUdPYU5UdURwaUFiMDhTSTcyQnA2azRxdnh5cV9zV0daQ3FwVXdWR1p4QlpwQzRLdHAxbnhqT3c?oc=5",
 "source": "GuruFocus",
 "published": 1793323735.0,
+"stocks": [
+"Aker (AKER)",
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "da5cbfd1e6a21836",
+"title": "Nvidia in talks to give credit support for Nscale's deal with Anthropic, The Information reports",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeFZKQnF5QVdNQlBQRzNMTE5PbjhUSXF0Y0NzYXpyaVJFeGplang3clhEYUtGUF9Fd2tPRjE0VllQVjV0cncwdU9za2RGZkFjQ2ZSTGdpQ3hXSkRBSjVtY2tvTzhEVTYtUkxYQjdfc1A3blJMd0c2ajJTUFp0eGMtOEtMbEk2NGl2Y2hrRFVlSHVaT1VQWi1qaGhLTkoyZVhXWFVFaXpDVEpZQV90MFNSZzN2dTl0WXJWZEhBRzJmUFVpNzI2Smc?oc=5",
+"source": "Reuters",
+"published": 1793323560.0,
 "stocks": [
 "Aker (AKER)",
 "Nvidia (NVDA)"
@@ -757,6 +842,18 @@
 "published": 1793316595.0,
 "stocks": [
 "Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "9523bfe953965757",
+"title": "Meta Platforms, Inc. (META.TO) Seasonal returns chart",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9UWHZ4LXZNMjRGU1NxOGZHeFBBajgzM3MyR0ExcHN1YnFXbGR0QTlyY3Fvb1Z6cTlaWE1jbjJsOWh3RUUzZVF1V1gwdEhZemJBSkM1TUxadFlBam9DT01OeS1lcmdOUQ?oc=5",
+"source": "Yahoo Finance UK",
+"published": 1793316317.0,
+"stocks": [
+"Meta (META)"
 ],
 "keywords": []
 },
@@ -4778,102 +4875,6 @@
 "published": 1793282592.0,
 "stocks": [
 "Aker BP (AKRBP)"
-],
-"keywords": []
-},
-{
-"key": "afaf894776ca9636",
-"title": "$60 million AI rack cluster listed on eBay, with 1.4 petabytes of memory and almost 10,000 Nvidia AI GPUs",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTnBaWFRXRUVETlFfV01kYWoxcGNfd19lNVIwNE9NczFCTFVRSVlzZUFId0d5MGdtVWptY1huQVoyazNSVlpuZk1rMThvTGwweFFRQnIwR3hCblJPdVNrbTA4Z3Y2Uk5id0lqSmhEOXk3MWUyelMzT19iSUVGdzdlQzlzbHBYLVlxUXl1YzVVSU8wOXVTZXFmX0dFbkJqaGNSSWszWlJHQllmMjFYVFkyajF0OWZlRlhqbVo3MDlxendXLUN1WjRMOUNJWUQ2QkxWcjd5Ri1fX1llRXc?oc=5",
-"source": "PC Gamer",
-"published": 1793282508.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "8fe72de35cd32e67",
-"title": "US finds Chinese spy in Nvidia CEO Jensen Huang's circle; China calls it a smear; Nvidia says: Jensen tal",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOeDRPQ1doYmV5WkNab0Nia09iVE0xQW1CbDdWbDlENjlLTFJhRXpJSWlHNXRpLUliVVZfb0xTalNLOWdqS2o4c0NkaHNuc0I5aU8wdmppVWZ3TGVqQ1BweG1VREpSNm8tWVIxR0ZVbWQ5LXR6cHNHamNUMVJCZ1M5WTdsMk9zdm5EMnZXUzhSSXFUdXVDMlZBZVVORzdvTXhtWWRuNzF1ZnRrQ3NreHllR1Bad1pFdVlOclFZMGY0ZjZhTmZENndoYk1zRkY4ME1ZanZqZ00xcG9rN2QwY3dDaExPMEFYMXRkLWRLMkh2VVVqV1JzeDBHT3Bta3ZBbUR5cWhsVEVFQ2RYTjZSa0N6VkdkN2tRSXpOeGJUQ3RzcFFsNlYyZGVGNElaR0pnQdIBswJBVV95cUxOZ2ZJZzF4SzZGSUh3Yy1MVzE2VC1GcEhxVHNSUVBLRWxMQUtxSGRLSFdsOUViX1RMcVBxU1Fnc1pNRW5xb05YYzVsQVVHUnFCVHJaWWJ6ajFfcXNmVWZJNUZkdjZZOVpxdEtjMnRnbG82WXR1OVl1aDVIemluZWN0TXNDa2kya3Bocmc0WXFDVkRKd2t2dUdZRjg3Rm0xd3Q1U1BkaDlJMWJqbVlNMXhTNHEtQWRoY2duR2wyWndUb21jbzhPTjFOX2xJbFYtNFFSTWlSQm5JRVlOV2JUeHp1ZEhsbHdNZ0pjaThPS3VwUnhmcUs0YXlpWlV3QXhWR211Um5fLVd1TGxpVDVBMlRlTVctSG1HOWtCb0s5cnFwVWRvNWdacDBGVklyYUpLcEZYUTF3?oc=5",
-"source": "The Times of India",
-"published": 1793282460.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "d00e425a7f36c9ec",
-"title": "Alphabet, Marvell, ServiceNow, Microsoft, Fortinet, Caterpillar, and More Stocks That Explain Today’s Market",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB3WFgzTVlLTWhPQ2JoRWdwQWRTY3F6TzNUb1pPSjUxaXdXSWM3VmVmZlhNSEJIS3p6TFE0anpfQWFOcXAzcWxwWWowQjZ2Y05SSzctQTFCX3NrcjFoeUJsanlCc08?oc=5",
-"source": "Barron's",
-"published": 1793282460.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "ccb56bea607bd12b",
-"title": "China’s Iluvatar CoreX says new GPU matches Nvidia’s H200 as chip gap closes",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPOGJWbWlza2g3SGJtbDRSbUQxcmhtYW91QzMxV2Zpa0lEWDVyZnZTZzk4VGhWdF93UUh3aTJQR1pWMUxvY3lmZDZGQlhwaVVLX0FMY0EtWlN6MVl4cUJ2Sy1VeVF0NjNWWVB4Zi1aT3lGTUhxeW5xOTJ5S2tBV0xiTmRZWFBVOWxRMjhjOFo1cnZkLXB4bm00NHJfdXMyQzlIUzVzOEFuSG4zNS1id2NTMHpWRTIzaGhnVlR1ajhuRDM2TXM3amFRMUQyVDZETE5jUnZneWNGTQ?oc=5",
-"source": "South China Morning Post",
-"published": 1793282408.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "9a694a691d4e0bf9",
-"title": "Rival.io Launches GraphX, Running DeepSeek V4 Flash on Just Eight NVIDIA L4 GPUs",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWkd5NkJONUV6dFBKcHA3cUI1Nm5UUmJMV2JzU3pwbk1iVXpoNUdhSWF6WC05alBZYTdrNkMydUx0LVZPNU11YjJBanJiZHpmMkczVGlqYVZIeXVTTHRKcEV2UzJaaDUzdVlIQktnZXlKWjQ0UFh2YVdwWmozQ0ZtRTVqTEw3NDYyMHpHSlBnVElLdk50dFZBSFczeHc?oc=5",
-"source": "Yahoo Finance",
-"published": 1793282400.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "435e372f006dba03",
-"title": "$NVIDIA (NVDA.US)$[Smirk][Smirk][Smirk][Smirk]",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBEelotNlZOdjhacWRHTHlHTm90NTB6ZUhaT29EbkRXQV9YSWk1SVVQZnRYQV9YYVhOUEFGTjROeEFkNWc3SVRHOG1WTkItRE9PNTVneGhXVl9BYkNYYVJfY2kxdTdaM0NieTZVcl9pWW13UHJOQ2U0?oc=5",
-"source": "Moomoo",
-"published": 1793282187.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "4be5b4bce95dc8f5",
-"title": "US officials believe a suspected Chinese intelligence asset got close to Nvidia’s Jensen Huang, NYT reports",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVE42X1dEalJlOWtraEpMTW9HRU1IZ3Vhb2ZoU2Z1UERhSm1jalNTVFNnT3VYSngwQnc0VHE4OG5TelBOektTTnRoRnBjREEyWmFjSHV1OWRHaFBUZHkzN0lRQkVSZ2pqemh6WUxkVGJfWW5hWkxteFBxY0hTS05sQWRNRXdGRy1wX1pHa3p0Vm9fbmk5V0dqeWZ6TTlYQ2lo?oc=5",
-"source": "Nacionale",
-"published": 1793282139.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "f7dd5beac59e3681",
-"title": "Nvidia CEO Huang caught up in reported Chinese spy probe as AI stocks slide",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZVFzbHNGSTVCdXIwNFhlYzJ6UXhtXzB1REZrenl0Y1JWQ1JMa3MzcWdxYzJxdGxCem5FZ2ZCcGR4VVhNZ3Z1aHA4WnV0S0RaN0FaTTJWcVo2bXhjajBMSlhQM2RhdmNVNmNrRERzaEYzWXJNUUw2MjV1Z0NVb2toQ2czUHRkQXVfbVV4THg2YTJINVpJT1V5WEZnX0g?oc=5",
-"source": "Yahoo Finance",
-"published": 1793282010.0,
-"stocks": [
-"Nvidia (NVDA)"
 ],
 "keywords": []
 }

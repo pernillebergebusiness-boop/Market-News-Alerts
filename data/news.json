@@ -1,5 +1,5 @@
 {
-"updated": 1793390830.4970415,
+"updated": 1793393313.21163,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -69,23 +69,286 @@
 }
 ],
 "feed_problems": [
-"Yahoo Finance: HTTPError",
-"Oslo Børs (Google News): HTTPError",
-"Norges Bank (Google News): HTTPError",
-"Markets (Google News): HTTPError",
-"Equinor (Google News): HTTPError",
-"Aker BP (Google News): HTTPError",
-"Aker (Google News): HTTPError",
-"Kongsberg Gruppen (Google News): HTTPError",
-"DNB (Google News): HTTPError",
-"Mowi (Google News): HTTPError",
-"Nvidia (Google News): HTTPError",
-"Meta (Google News): HTTPError",
-"Tesla (Google News): HTTPError",
-"Apple (Google News): HTTPError",
-"Microsoft (Google News): HTTPError"
+"Yahoo Finance: HTTPError"
 ],
 "items": [
+{
+"key": "9faa4cf3953c8d8f",
+"title": "Stock Market Today: Tech Selloff Pushes Nasdaq Toward Its Worst Month Since March 2025",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUURYQ2lfR3hrMmJxOWRrQmE3QWt2amo1Yzg2SWRqal9MbWFQeVh3X2RTazE0cU5aUE1iUnk5MnBrbF9pNll3S2RlbWNmcFR1SjZqUzhJYnhBVGY3dmN0Ty01ZXVVYzdBaElxcnVCalBrVFRqVF9faC1XQmtNRjBiaE11TUdxbm1JQXJxTDN3Z1lERU5samMydHZELWZqY1hNWlVTQmNpQ0ZQRWZFTkl5RDZIdkdmUVRWNzJHQzlJTUVDSzNkRDQxTw?oc=5",
+"source": "Eurasia Business News",
+"published": 1793392879.0,
+"stocks": [],
+"keywords": [
+"selloff"
+]
+},
+{
+"key": "ed6bee5e4febe0f6",
+"title": "Intel, Amazon, Nvidia, ExxonMobil, Sandisk, FedEx Freight, and More Stocks That Explain Today’s Market",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnQTFDRktCRzRFa3NLUVR2clNvUi14b2xWUzVTMnhqOUV1bk9IVW41X3NGVlQ2ZFFrMEQ4bnA3aGlURlhzT2NzUjQ0TXpRaFdYbTF0bk1INlBTVURQaDRvWU8zbE4?oc=5",
+"source": "Barron's",
+"published": 1793392620.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "759c4bda095e597e",
+"title": "Apple Overtakes Nvidia to Become World’s Most Valuable Company",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQemhEdzVEaEpkYUJtQ2dYN2c3MlQ1N01MR0oxMnNheDZlbXVzaEJJd2k3bksyWGZwR0stcFZUOTNJZFB5dU1jajQ3RVZZYTBodlRJQXR4TG5tbjRibWYtUk9pUVpOWFZ5UGNOQV9sNnUyR3dfZllSSm81U2FjMDJFQTBsOU9XN2ZhRkVoTVBNdWxtVmJzdEVLRElxU2dkdG1HdjU4cGp6WmhjLVVEenJqQU80aw?oc=5",
+"source": "Bloomberg.com",
+"published": 1793392119.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "707469981adbbcae",
+"title": "RTX 5080 Disappears From Nvidia's Store as Prices Reach $2,000",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOTlQVnYtZFhmeFFyV1BMX2pzRzB0YmVDc3B3emFBQjV6cGN1WkthXzcyTTNGbGQ1OE9oWkx5S3ZmZ2kzV0VtZkNPM3hSTVdsNVc1cEFCMXVseGJheTVnWUtRcVhfX202RHZqTUItT0JDWW1wLWRzVnRqcnhKSXJjNUltbFpWRVFsbVQxaVdiZVZuaEM0M1Y5SzNyWlp3ejJOQkdJ?oc=5",
+"source": "IGN Pakistan",
+"published": 1793391975.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "a7f2a1ffe62b4ae5",
+"title": "The selloff in tech stocks is shifting into overdrive",
+"summary": "Technology stocks had been priced for perfection. They are now getting hammered.",
+"link": "https://www.marketwatch.com/story/the-selloff-in-tech-stocks-is-shifting-into-overdrive-afb50975?mod=mw_rss_topstories",
+"source": "MarketWatch",
+"published": 1793391960.0,
+"stocks": [],
+"keywords": [
+"selloff"
+]
+},
+{
+"key": "c9f094b30d1f3060",
+"title": "Why Nvidia stock fell on Friday, and why October is its worst month in a year",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ0VieTFqdkdSazB4aGt3MDNLWm1waGJZV2xYdFJBNWdRNFpSeXMybURZOXgzRDJmNktJSFA4VEdka2JpeFhYb1duaVdvM2lsNkxKOTVNc19NTjhaQUpCcVVVd1BTTks5Z0dLRGtJbnhqMGNCTkZibHRCaTdmdzNiYXk3M0FUc2hqQzlycEk5T2t5NG1pbjZpcGhn?oc=5",
+"source": "Nacionale",
+"published": 1793391892.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "10ef1c85a82d181c",
+"title": "US Equity Markets End Lower After Sell-Off in Technology Stocks",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcE44akdsQ2owdGdKVE05UFlnd0w2ZEd2eXZuR3hpQi05bjFYNHg3dzd4a08xVXpGVGYza1hTZXRybHd6ZHdncWNSRmcxS2ZYUDZJbmhBeVBlMEVXT1FDeER0SklWOUJlaENzVEh4X2wxQ3VuSVdSNWNmaTdQWUhFR3FzU1FfTzVPV2llTmVoeTRxWWl2bWlj?oc=5",
+"source": "Yahoo Finance",
+"published": 1793391592.0,
+"stocks": [],
+"keywords": [
+"sell-off"
+]
+},
+{
+"key": "0dc0eb83a8c6f758",
+"title": "Leaders from Wolters Kluwer, Microsoft, Salesforce, and McKinsey challenge accounting firms to make one AI move in the next 90 days",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSmY1alhlSi1sTTBhUUs1NHhKeXV0dEhRNkZpNEx3cTlaeEhLRTRXM3dJclhJVUI3c1J5YkdNb3lIaEY1UkxjV2diR2lKdVkzSnh1cmJJOUtrSGdaMk00ZjZmaVc1Rk9PVW5FV2dBRDFvdGowMW4wUjdDSU8xVTJtWXFBQlBuWUVlQ0RwRWtaSWxtVjdFdlhHUWk3aUxjUzNfLS1GZ0hWV055R1E?oc=5",
+"source": "Yahoo Finance",
+"published": 1793391300.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "e16d0133e5e05e0d",
+"title": "Nvidia store quietly pulls the RTX 5080 following RTX 5090 removal — street prices climb to 2.2X over MSRP",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPLTRvSVFvbHFOaHloakNlYXNoWFR2ZksteE4yMkRuMUkzYnJhSVBsYkxwUzNZbDBsZ0hLZm9wX25ZM3FGZGZRM1hjWFV0ZVNVN3N4R2hGamxiT3R0UDBLS1VuazlfRTVrZXZETTFnaTV0aEdYTW9XbmYyNzNtT2ZBM3FtcUFXa3RKWFNyMk5oeWtHZ1dRa2RjczB5WjM4dEZibjJVbnpGRUZSSWZSSmRNNndqNWhxdllYQkFEVmtsMmtLNzZhR3FOX2RRdTdOekZTWWp1dUROcnJBQU1LaTQydDdnMWRzVTA?oc=5",
+"source": "Tom's Hardware",
+"published": 1793391190.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "5ec75f10451da9e4",
+"title": "Tesla App 4.62 for Foldables, Explained in 5 Points - BASENOR",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTGN6NlFDMHVCclBHbUpfdjFHa0J3aHAyMEVNTkxXaWZKR2Y4QXdHZlJrSHVBaWpsWC13ckhFWElnTF9MM1BpVkUyd2JsTkZDQ2JmSkRTd3lKOEl1TUJ5RHctUUd1TzZldmtmQXE0WFd0RG5kR2hLenBTSmEwcjBReUVCbGhGTEpJODRZbVRR?oc=5",
+"source": "Tesla Accessories",
+"published": 1793390815.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "261970258642144a",
+"title": "Tesla Optimus Reservations Rumored for December: What We Know - BASENOR",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNblI1Y09jNVZZalRrNTl6Z3hVS1k1eFZ3ZGExR2hoQXRFQUhqdkd5dEpfNE83LV9QMEtLellKbF81R1ZQTWprMjRlQWlLR0phRGFnd0RZMkl2QURORFdwNTYtSWV6ZVVuQnR4YVVkRlF2bUU4VVBJMkhuWVBnb3o3WVhKTC1vZGhhNVpqNlVHVnU4VTlJaXhueDlLOA?oc=5",
+"source": "Tesla Accessories",
+"published": 1793390655.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "5783f929b75fdf6b",
+"title": "Nvidia Stocks Decline 4.7% With Oracle Offering Separate CPU and GPU Scaling",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdEU3U3pYTHZFU3dGYnROYXNKaFRqUWdJMloxWkVncTdXb1pUWW5SVW1uVHo2TGl0S1lwbjFrVWxOWHdOVlEtdU9UcUxtWlcxeWV3VmFPYUlZMjl6NHlLeGJTcDg2TE1odzR4ZE9LSGFpdlhwY1BWR1d0SVBJSHVkVVJmMVFBbkRNaUNlQjUtRmtkUkoyWEIyNVRzLVBrWlhrRzdQNzZaYW5SNk5RVWJIQUpkbkcwcE5qSHVWTDg1Q09nVzY2VEVYWDk0SkdESFI0?oc=5",
+"source": "TradingView",
+"published": 1793390647.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "addbbe194abf1f0e",
+"title": "iPhone demand sees Apple topple Nvidia as most valuable company, again",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMW9kODZPN1N1SnhNVUIzeHpaUkdIY1NiTGg1ZzhZSy13YXhVQUZWVTFaZnhhaEZhVHZWYmcxUlhXLVRSaXNkam5UMjZkQ093a0dYMm1zOExRcHFVUUVVMGNiODRYQ1NkcU1KLVdnd3RYMGM5ZFMxa1JxVDd2bW02djhKc0x6aS1Dd045T0hhWVg4QnlqUy1xWXZIWUxUSjY2MjRBQWw3amtocGs1SmhKcC1B?oc=5",
+"source": "AppleInsider",
+"published": 1793390640.0,
+"stocks": [
+"Nvidia (NVDA)",
+"Apple (AAPL)"
+],
+"keywords": []
+},
+{
+"key": "f8ff98effe1982fd",
+"title": "Microsoft Stocks Decline With $1.28 Billion in Annual Fixed Coupons",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZm5OUy1TbHdnM0RGbTdTZmg4MTdYWFZkLU5uTDNzZFQtSTNRUDF5eGpLemczQ0FmRTFFOEJKMUZ3NEd1eEtLcW96S0djU3Q5N0FXclBhZTZyRnJmTUMyakdUQll6a3BrbVMyaGRMSTRLN3F3SnFqRmJETVhEaUNvSWJNMjRFRTAzaVNkWDYxMkdPTEJjTVBmWnlUdExsUnFKRGpwYUJwMDJFVFZTajRjODI1Vm1yRjlrdlN5WmlIQUNlZUtQ?oc=5",
+"source": "TradingView",
+"published": 1793390581.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "8f1b2cdb116fdc59",
+"title": "RTX 5080 Vanishes From NVIDIA's US Marketplace Two Weeks After the RTX 5090",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUUZhMUx2OFlOdjVpclB2Q0E2VE16ZE5VYkZLeGRGZW5reUN0SjBDQ0RJNWlGM0pPclkta2dHSFpiMlNVcjBDcGh3NXNfVkZZS19xN3dKczlpdnAwbmpzQi0xMEw1ZXV3alZOZ2VYbkJsMHFaYzhnWGQwX3ozb1FlaTE5akFmamdxU05RRGRnMk1WMUoyVU5KSU41Z3QxRmNSQ3Y4cm9OSVg3MHBLdkHSAbMBQVVfeXFMTnhNNHRDVUtNeXVoQlg1cVJTdEhTRlhFcGt4WTZNcWNtei01XzFROUZ2dDNoaFJmSDMyT2VIMEF6S3IwRWFjYk41Zk1HWTBxdER5TG1MWi1oMlhXQnhVTkEzVnh6aGxYVFpZM3FtUE80Z2xjUXdndEh3bWZRR3FjbFo4VTZOcWN2ODludERtVHIyNTNldlFsVWF2ZHVEY0pwaW9DVUN1NFhrbEhGZmhDX0JzUWM?oc=5",
+"source": "TechPowerUp",
+"published": 1793389588.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "f992b1e5d41aceb1",
+"title": "Waymo Partners With Toyota For New Robotaxi. It Could Have Been Tesla",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQkwtQ2EtYmtQWnBEZTlObVZIeTZvQXR6bEtuVXY2Y2NoZFF4QXdwQmlrQkhVUGVYUmMwd1RQZFFxVVF5b2dtWlFwUWxqQ1VGOVVuVnU3dnU5MW9xQkVBMWZaVDlkMkJwcnJIN2kxZl90WWdvcUVxNmlQZEFzOVhQM1ZfaFpqT2FXMXlJR1p3a19tR1dYM1VXYVZQYV9oSWhSWERLT2NNS0tKMU5DNDI0eDlVaWhlVmh3WDNobHVSWFM?oc=5",
+"source": "Forbes",
+"published": 1793389199.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "1569b41310ed8d73",
+"title": "Why Nvidia Stock Took a Dive Today",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZWpnVVNKVXlKQzRrdEl1SmhxZWVWd2ZFZjlEdUxCU1NCal91ZHpWVlo4NnE4WnlvQzVUVkhIVkdpVXRRSWUtcDQ3YThveWU1WnlQQ3VBMDk0aDhmMFRUV2VxcUxOT2pmZlp2WmpZSnpnczQtLVAzXzkyVTNGQXY2X242NA?oc=5",
+"source": "The Motley Fool",
+"published": 1793388884.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "387953e2765862d0",
+"title": "Nvidia has a stake in SpaceX that came from an unexpected place",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVG0yWkw3czY1RmZXWHM1QXZHNDNqNmsyRktJVTZVZlU5Y3JwNHQ2UTR1UlJLZnNwU2Q1SFNJT3R5YkhldjdHd3ZtT25lc3czbW1BNVJpNy1lZnB5SVp4aVdpTnExc3BLWHVHSUM2UG55ZHVSekNzSzNEa19PdjdBdVdIMXNCTWRuSW16X1cxT2VweXN0dTNWWmVzdDdmSzhIc1NxUjAwbUJhQQ?oc=5",
+"source": "TheStreet",
+"published": 1793388780.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "712c37c2f9ea8ef5",
+"title": "Tesla: Paying Peak Multiples For Promises That Keep Slipping (Rating Downgrade)",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZUZnVThvVXJQUjdTSjVTLXdQcVVRNFJBdTVVNVRnakIzVnpqVkNWNUZBb01XZkl0WF9Xc0NFMHFpTTZoU3VkYklPdjFaVnVCVEttSVJBSGVaaEpvME5haEptU2Y4UWJNSndObGVDcEt0M1B3WV9PNHdiYVY1dFktUkc4Tk1wbW1Va09xNmJKWjhBaDlrUk0tX1M5RmRBZjhJa1FkdEJwME9pR2JnTjE0?oc=5",
+"source": "Seeking Alpha",
+"published": 1793388649.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "794883a625ce8d27",
+"title": "Irked by TV spot, Ferguson tees off on Microsoft",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOemtZLUlpU2ZjdUVESjZnaWYxUEJYNkdGbFVqU0JUbURGNDVWNWhUTjhlQ0ZGYlUxajQ1WjJaU0JoZlRqaXBONU0yOU9OS3dYcnRaTHhFVmNzTVF4RFhjaUJfUmo3akJKelI1bVhqcEtSTVlPSmVmZE9OUDVNWjV3Z3p3?oc=5",
+"source": "The Washington Observer",
+"published": 1793388559.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "863eeb8f73e6ff23",
+"title": "Meta Platforms (META) stock price forecast: AI funding and dilution risks after Q3 earnings",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOS0FRMjYzYmNENmdZSkQ5TEdXdXBPeUFXUkc4WDBWcG91a3dJQTlQbVNpQ3ZTLVl6UUZLM1BVUEZ1dnBlc2steXQ3clVEb2paeWV6eWlRem9pbWkwUVVueFN0TU5rWE93MnZyb2tNNkdueXJoLU0wSUFZM3EtTWJWUTRPZG42UExzUS1DXzh3?oc=5",
+"source": "Beinsure",
+"published": 1793388318.0,
+"stocks": [
+"Meta (META)"
+],
+"keywords": []
+},
+{
+"key": "bb4f3d462b2fb386",
+"title": "Tesla Reveals 36 New Supercharger Sites Picked by Owners",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSTAwY05JaXRmVFE3azNWMlQtZkV4OVRYTnpZMW9YWFJKV3ZLY0N2dkdPcU4wR2pYVmdkZ3lDbGNKc0lGUXFqUDlsb3Z0UFg5elktbURDLUxScmVya2N2S1Z1SEFFQXBCTnJuUmxtZmZ6T3BwdzJNSzVHcDlzbTVWc012VDQ2TWZjT0pMcTZtanUtbkw2MjlpYTFvSQ?oc=5",
+"source": "Not a Tesla App",
+"published": 1793388180.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "4227e6389d6413a7",
+"title": "‘Asleep at the wheel’: Wallace slams Trump over China spy report involving Nvidia CEO",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9rblFPdUxOMXpMYUZRNHF3WjU5eksyQzFmaWNjblZ6dkMtanBUaDNxQlpNNWdIa3Uzd19RZEVCOXlRT3FUa1dOZmlyRVFGNTllZTFKYjZWUDFXbDRKalNyeTljbm1tNVBZRVVtUQ?oc=5",
+"source": "MS NOW",
+"published": 1793387901.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
 {
 "key": "9abc8a4399ed68c8",
 "title": "Tesla Plans Manteca Showroom and Service Center on Atherton",
@@ -95,6 +358,18 @@
 "published": 1793387526.0,
 "stocks": [
 "Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "e69b3b69db72ae55",
+"title": "Microsoft says customers shouldn't worry if attackers are probing their OneDrive URLs",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUE10dkRIRWU3ZVBKZmZjRjdmcHlHN1dTcGJMa2FWYWNOOURKenlWc2FiX1psUGljSWRaRGRjRHg3VlR5MkJ4c0xRVzZxZXpiYU9hZmZkQ0pEX2tvNVU3TmhrcnQ2SUhSaC0waFFRSFUtZkJZUGt1UVFmZURsVmZyMERlR0l0OW5DV2szZE8wOFgwMmk4bnJwdzZ1eUdlclVVQXNRY21LUG5vM0tNb1ZtOTl6cw?oc=5",
+"source": "Neowin",
+"published": 1793387520.0,
+"stocks": [
+"Microsoft (MSFT)"
 ],
 "keywords": []
 },
@@ -119,6 +394,18 @@
 "published": 1793387472.0,
 "stocks": [
 "Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "003d30e41ae40275",
+"title": "2027 Tesla Model 3: Cheapest Lease Now Costs $554/mo",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaUlncmhob1NhNVh5VUJxWE1ZaUJLQkxqNVVXWTNiTnlhV3JTWjJFUVQwNjFMLXhXY3JwVVA3eklMUEo3Y2lmR0JmZTA2eGRnREdQaUtYLXdsT0RoSVd2Rk1GQzhMMnR3d3Y4S2hqbkIwNDk5X2pIVER0cGx4MHE4dGxmek1QZmhTSkw0c28zbVB2VUt4XzVV?oc=5",
+"source": "CarsDirect",
+"published": 1793387362.0,
+"stocks": [
+"Tesla (TSLA)"
 ],
 "keywords": []
 },
@@ -195,6 +482,30 @@
 "keywords": []
 },
 {
+"key": "02c8ec0dadd77824",
+"title": "Tesla’s U.S. Sales Tanked In Q1. It Still Gained Market Share",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qaUZ1ZVpCRTAxRkZCZ3BiNG1pRFN3UFAwOGhPZEh1N1M3d1R2U21FRlpfemlHazFsMzJUQUlIODMwblhWT3h6RDRNbFlabkc5S25iTGxReGhxRXdmVjlBNUE3b1QxenJwZFpmUg?oc=5",
+"source": "InsideEVs",
+"published": 1793386431.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "560296ce54b01e54",
+"title": "Wall Street slides as AI cash burn worries spark tech selloff",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPblVtZktXRjdPbHJBWDM4WWJsV2RyMlhnOVFYRTZPc01udjZNZTVjeHdIN1dVY0w1M1NHbHpxNjV6Vm9jQ3FOUjBIaElyZEdSWWxycmNZdnJwNnBfdTJDc1FBMWVJZ19vR0s3Y1h2Uml2LThWc2NzQ2sxN3NnVzFEeGhvNnpPSElHSFRIQnJreHpCR2c3dnRQbEVYTDlJVjhzVVk3b1gxaFczMFhkb2NDSw?oc=5",
+"source": "Reuters",
+"published": 1793385927.0,
+"stocks": [],
+"keywords": [
+"selloff"
+]
+},
+{
 "key": "b2ae7ff44fb42ffe",
 "title": "Aker BP (OB:AKRBP) Stock Price Stalls After Q3 Earnings Surge",
 "summary": "",
@@ -203,6 +514,18 @@
 "published": 1793385889.0,
 "stocks": [
 "Aker BP (AKRBP)"
+],
+"keywords": []
+},
+{
+"key": "ca197d4bed80dcae",
+"title": "You Can Now “Drive” the Tesla Roadster in Your Browser – Without Buying a $250,000 Car",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTXU4OTJoU09nUHhfaVcwbjA0UnJEVVRQYmw5X0xlOGlZb1NnUHNqZk1HOEtZc3VEX1djMFhEZnhoT0FOdWF0ajZNOXZjeWl1TjQxZ3NfYTkzaWpialUyNHhIZ0diUF9KODlBdWRhOWpSVE9hSkp0TVR3dEwyZmhOU3I3UWZ3anQxbmd2eWNCUUxtQ1lra1JzcFNWZEZvNFBKbWNocE8xVXdLYUxvMWc?oc=5",
+"source": "Gadget Review",
+"published": 1793385516.0,
+"stocks": [
+"Tesla (TSLA)"
 ],
 "keywords": []
 },
@@ -265,6 +588,18 @@
 "keywords": [
 "selloff"
 ]
+},
+{
+"key": "54b047ef045afc1a",
+"title": "Microsoft Outpaces Cloud Rivals with Strong Azure Growth and Positive Free Cash Flow",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOclhseWdqbURod0c3RUozWnhCWjB3ZDhsYjZXUFFnQ2dISHNlUzlrSl92NXpGQndzcHVSSm1wa3l0Q2JLbHRyLXlkalpDSnMtSFE3eEk0US16bk4tZ2E2SVB3QTNTY0tNWHlyZEpQTDNtb21nOWdXSUtMcnJBVXNYTE4wWEdHMVZvOVp0UUZXXzhWbjI4TVRiZmlwTXRsX01KOTI0R1NfSjRfcDh6WG5PYlBGZXRxU2FiOEE?oc=5",
+"source": "KuCoin",
+"published": 1793384717.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
 },
 {
 "key": "b559a67faded6d80",
@@ -399,6 +734,18 @@
 "keywords": []
 },
 {
+"key": "fd92283c3a89ec68",
+"title": "Mowi Sets New Interest Rate on ESG-Linked Bond MOWI05",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQXzhJUkh6N3hRUE9ValY5dHN6NFpsM1kwRk44NWtrTlJHcWtIRjNobExYcDFQUGhKNmZPcWQ3VnVteVhUVTJCOERkLTJBQ19lVXlMS2xFQU9rTDdRSjB1QWQ3N0FGMFMwRkVPS1g1bnpENjFVUXVvY3BSd1ljRmEwekRBWENmYXhyVmFCZXVhSDdOSVFSalJQT0JQekhFek44QWE4bE5sNmlSTDA?oc=5",
+"source": "TipRanks",
+"published": 1793383549.0,
+"stocks": [
+"Mowi (MOWI)"
+],
+"keywords": []
+},
+{
 "key": "2ad8f4c33fa0ff6d",
 "title": "Chevron Advancing Microsoft Natural Gas Project Despite Texas Data Center Clouds",
 "summary": "",
@@ -443,6 +790,18 @@
 "published": 1793383139.0,
 "stocks": [
 "Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "41abb3d624b7673d",
+"title": "Google outspends Microsoft in race to expand cloud capacity",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRl8zQVNGcDIyejlTQXNJOUF6MTJJX181aHR2SmVKdjRnQUJ4U0dwbXY4dzMwc1o4US0weHR4cC04eWtjcnhFQmFEU2d2N0o4aU90Q2l1eExuYWRSanl3ZU1uRC1qdFFaeTlzVVNTUHVGQy1FbjgwWVdCaG51VnNlNUdWU1VIY2VSdWFnazBPVnhUWVhvT3VBell3U3dqR0tLcVE?oc=5",
+"source": "Channel Dive",
+"published": 1793381629.0,
+"stocks": [
+"Microsoft (MSFT)"
 ],
 "keywords": []
 },
@@ -651,6 +1010,18 @@
 "keywords": []
 },
 {
+"key": "08583b138fd921ff",
+"title": "Amicus Brief: OpenAI and Microsoft Cannot Use Copyright Infringement as a Competitive Advantage",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQM0dETFVUWHFzeFpKUTFYWDFISmRuN19fTk9SUXNjMHZFYTRjOVBkV2hXR3FhSEZxZ3JkUHlJVkd2a05jdlhRODU5UE9LTmY2Rmk5Sm10WEp6SVpnX0w3SW5aaDE0VE1WRGNDQlVQM184Y0xDOHEzSEpST3h0dm9BRW95dlNYeGMxT3g0LXFjX1E0VVdDNnRQXzNxUEJxaUptM2NLeXFWV0c4OTE4SmU5MHBZaDNqY1U1RGhEcHBsWnBDRk5RbWF3QTFLWQ?oc=5",
+"source": "Open Markets Institute",
+"published": 1793379811.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
 "key": "f7cc82a3c25ae406",
 "title": "Save 87% on a lifetime license to classic Microsoft Office 2021 suite",
 "summary": "",
@@ -685,6 +1056,18 @@
 "Tesla (TSLA)"
 ],
 "keywords": []
+},
+{
+"key": "3b58f572f6452e6a",
+"title": "S&P 500 drops 1.8% for its worst day since June after the sell-off for tech stocks worsens",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5WYWVQaU5yR1dFOTJUTUpXWFBfbTdwYW9fSF9kTmJybDlaUFhNdEFnRWFGd29uUHlDODRTRi11c0UtbnhPRlMxcGE2SzVkdnpQdDUyaE5XWWJGM2lhbGtQSFRqaS1IOVRDU3dWOU0teFU5VFFjTHc?oc=5",
+"source": "Boston Herald",
+"published": 1793379459.0,
+"stocks": [],
+"keywords": [
+"sell-off"
+]
 },
 {
 "key": "cea506fecfa0b313",
@@ -863,6 +1246,18 @@
 "published": 1793377719.0,
 "stocks": [
 "Meta (META)"
+],
+"keywords": []
+},
+{
+"key": "a024cc542d43fb7f",
+"title": "A SpaceX-Tesla Merger Would \"Run Afoul of Chinese and US Laws,\" Economist Says",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPLXJ6YzVGbVVtVW56RkxTbGUzOTFyRjlPSHk1RV9Qa2p0NUdSZlRvZjFGZ041MW9TQTA4TnpCdEcycHZJVmpDX0htaTdpMlJQb2lSU0Q5YUZTdDJkNFlzV2Q2bWY3STM0ZklNVXU5THl4UlVQbzNMZmR2OHd0RG9xOWRBNmlFNEc1Q3NkWDJxSUs4TmFuWHFQUjIteUxJWGw5TjlpZm90OUNqSzFmcDU5UVNqU0xmSjZDTy0zc29vMDJsRG0tRGFN?oc=5",
+"source": "marketscreener.com",
+"published": 1793377474.0,
+"stocks": [
+"Tesla (TSLA)"
 ],
 "keywords": []
 },
@@ -4494,416 +4889,6 @@
 "published": 1793346142.0,
 "stocks": [
 "Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "478ab022141689a6",
-"title": "BG Investment Services LLC Buys 23,534 Shares of Meta Platforms, Inc. $META",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQ3g0SHYyVG5rbHhCQm03SjAyLUZJd00xSW8zbmRsUWE2dy0wVVd4ZmlvMWIwZlZBZWhIcFJNS2RnVmhsclFCVTcxeFF1aEpQbnlLNUl3YlhNTlRlcURhcDBqLWwzSkx4dmlqQUV4dm1oS2RuQXZSSU1ZQkM4U2xhb0xaMi1oczRuTC1xaHozczZVRnl4M3hjNHVQMTZweWJnd2xxTlZoNzVCNFN4dVo0LUZzN2VaWi1wejRqQ0stSDJ2VTI0c21waWdNUHg?oc=5",
-"source": "MarketBeat",
-"published": 1793345894.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "881dddeaa2bce3ac",
-"title": "Norway lets Equinor delay CO₂ storage plans by three years",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3LXZVTThENW96Zk1wMXlPTWQ1U0FWRDNaRmhhYVFZZkRmLVZkclJnUmhhLXk5Ykt1cV9mU2U2bVo1d0VkQmRGdERia1F2Ny1ULTM3cVlhWDVBQWo3TFEwUWQxSGdVSTBPZFlRcnZiX0RVQQ?oc=5",
-"source": "EnergyWatch",
-"published": 1793345714.0,
-"stocks": [
-"Equinor (EQNR)"
-],
-"keywords": []
-},
-{
-"key": "a11647e477f4ea54",
-"title": "NVDA Stock Drops: Nvidia May Back Data Center Loan Its Own Customer, Analyst Sees Little Impact From Intel’s Weak Report",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNVG1Ba2FuOGJIWmwtZXZoM0d2VVRDQUhZeHFxS3NFeHFmQ29BTHVXZWxYUlZwVUVoQ2tRRGZlMDR0clMycXhzVEtEVGl3SEQ2aXUtdHFaV0ZGRzdvTnFvODZzTjNIajNoZjdLWURGWXFLT2Z5ajZlTm9FeExsNnN4MXVSUUg0VGlralU5SThacjQzcWJadjZINWFxX2laUm9ZeDJwVnhERjJWc3Y1dFBQZnAzdzRIXzl3RGc5VTJGU1JpQUFXN2NXc19mVkxockZwU3ZFUnhMakR6RkVOa1lObU5KSTB5SHczdEd4ZHFjUmt0N2x2bzhMUlBsSnB1UjNGakwxTjg0NHc0Rzg2M1Yw?oc=5",
-"source": "Stocktwits",
-"published": 1793345336.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "b8fb85a20aabdc47",
-"title": "BFI Infinity Ltd. Acquires New Holdings in Apple Inc. $AAPL",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQc0FkVy04d251VzFUTWw2Vkp5eGlWNzNpLUkyV3hmZWtIXzBLejZwWmQ2U3Fqa3VYYk9BalVjUUR3SjJpN3hPOHcwUlNNaTRuY29kU2ZzeURMSkVuamNUWURsQVhQSUZsWmxCQllZMU9Wb3V2ekdJbE1ZTl9QajNDZFZ1YUNmMTRiT3dwclFIMlNYeGlZVDE1S3hncVF1LUM4bUZlR0IzNXhlWXZuYm5CeHlPTkhZaDNj?oc=5",
-"source": "MarketBeat",
-"published": 1793345160.0,
-"stocks": [
-"Apple (AAPL)"
-],
-"keywords": []
-},
-{
-"key": "7a2f890d8482ee1f",
-"title": "NVDA Stock Drops: Nvidia May Back Data Center Loan For Its Own Customer, Analyst Sees Little Impact From Intel’s Weak Report",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTGdFWTJ1Wm1ISjFPRjVLdVowSFF0RHpiODd4cldVU1VEX3FUU1VFc3hROVlzM3Nsd0RONGE2emNfZ1hsTm9MUUNUR05IWFFnVTJpeEV4TjMzRTZ5eG1scm0yT1VOTWF1X2F1VmoxeG9NaUJqa1hKX0JlbDhGVmY5dEhZcUc0d2hBMGdNUWo2eDdyMlJ0Y3dZ?oc=5",
-"source": "Yahoo Finance",
-"published": 1793344958.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "fd9c10c6668d723d",
-"title": "Tesla Robotaxi Houston: 254 Sq Mi, 10x Larger [2026]",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVWlXRjN5czZ6QWFlVFp2UVpNY0FaUW9WbVJTeFJlTzBHdUxKamY1eDVTN3RjVDRkajVsMHZXRTlYLXBVeVFDYVZLYTljanVFNTdSNWotZkRhM2pDUnBRMzhqVEx4QVNiaWttWmkxanZvcV9icWVQd1BtRmM1bEljdUpKX1BTY0xXZXU4?oc=5",
-"source": "tech-insider.org",
-"published": 1793344833.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "2e0b2f931d6b4924",
-"title": "Nordea raises price target for Aker BP to 430 Norwegian kroner (420), reiterates buy",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYmhjRDVtejJpcEd4N1pHeHQybzdBaE1LaERMZWdCMHl3X3cwNFNqTHMzLWRCaGR5M1prOGh5Qi04Nkp4S0R1QkNtR19LU0FINmxGenZyTkJSWFNJem14b25DRmwtaGNHdm50dDdXU3V1dnJBZDBBbnpzNzRwQkNkX3BsUXhJbnZTNk9wNURYLXoxa254VGVIT2RtaF9UMmpWeXBlYlNabWZrVldCSFlULUlmN2k2UUZsMDh6RGpoODJGZzJIUjBZdEhKVlFZdVE?oc=5",
-"source": "www.marketscreener.com",
-"published": 1793344832.0,
-"stocks": [
-"Aker BP (AKRBP)"
-],
-"keywords": []
-},
-{
-"key": "95662360e6e7c08e",
-"title": "Nvidia (NVDA) Eyes Multi-Billion Credit Guarantees for Nscale AI Data Center Expansion",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOb0xXYW9LUjRORnF4REN3SGFfU3pEUmV4bHphN2V5UFBxUDk0dXRLNEROSndCOHd3NUZQdG8tQXoyVUtCMGJRSlRFZTd3N3pHZVNKODZkcGtZREdDZXBfcEFzamxGVWNKdXRXREEyNEtNWXBPUzBBd2Q1SVhJejVWUWE3c252UWpYVWRpdi12cDcwbjkzcGh6SmZKaTcybExaY0xvbXFZUWY0cUNzNGtZT0JrRkZ5RV9SaUU5SjdYYw?oc=5",
-"source": "GuruFocus",
-"published": 1793344725.0,
-"stocks": [
-"Aker (AKER)",
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "6acf329b704568d1",
-"title": "TDAQ's 17% Distribution Appeals To Me, Especially After Microsoft, Google And The Fed's Decision",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNM0tVdWF5dkRjYXZYQjMxMzlybHVQaXg0VEJWUzIybUlxb3dMRGlDRUtuVmZFQkdranl4Q3dvQmhHSXllbk42ckpWY2ZlRjh0aVlkaXZnRHcyZEZUb2VXTUhOazdUR0NNUVFKVm8xWHhPSHNvSG45ZTdWcjQ5eXhmQkxsR3M0NFcxMHJUV1dDMjJmX0F6enRxX212N1lWZ2tDT2tUOWxvMEZXd1RSQUoxT09Xdm1wWGR6WlFEdklmdHVCLWpvZ05pZ3RZdVBjeDByMjBMdnlqaw?oc=5",
-"source": "Seeking Alpha",
-"published": 1793344591.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "63c2a68fe6d28e5a",
-"title": "TDAQ’s 17% Distribution Is Appealing Especially After Microsoft, Google And Fed’s Decision",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOYjBERmF5bVdZaTlkSm9TTjNnVTJCS1Z6eW9Zc050T3FyS19RMWNDVE8tYnBMOTgwM0NRY0MyOEx3ZGFjWWRfcHZ5NXpHWnZISUdUM3RhVGNnMnRuX2hKaWdNVG9EX0F4dUpjQ3pEQzNqZjQtUmFkenBRbEVMX0VERlZPdnJvck1EQnFXQlZTUUNRU3pwX2hST2hOQTJFUm5WZmplVDg0Wlh5UUdGb3d5Tl9lY2tZZnpNWllQeVJrR2EwWm1QMUJ0VlhsZkl6WkFSME94VmlsQUtsb04talBEMVZrT3pRQTdUNWFiTkRmSFRmSmJtWGd3Q3JpanEwZw?oc=5",
-"source": "Seeking Alpha",
-"published": 1793344591.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "aa3e9052a7ce582d",
-"title": "ABG Sundal Collier raises price target for Aker BP to NOK 325 (315), reiterates sell - BN",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRUVQNm44QW1iQS1vUFBiTDI4VVpxSWtGUlAtbng2OWxzcHJ4SWlQWWRVanhWVndBNFJDTEhndUdXWmtqdmdHTk1KcU5QMUc4Z3VHV19Ncy1GUFpRaHpkSVlBUENwSWp1ek1PeGNEZEtHeE1YNks3YjVSZkpEeGNLMjJSaWVlVUJNM0JvUVBYejNzaXFkZnZ0X2l2d2dCMDBMOXZUTzlVZTlNWENwWTZ3LXQ1Y3NyZE1obkVwN3psbDdpekh5VzlTNEIxeVlYTnhZUW9z?oc=5",
-"source": "www.marketscreener.com",
-"published": 1793344581.0,
-"stocks": [
-"Aker BP (AKRBP)"
-],
-"keywords": []
-},
-{
-"key": "dd12cf7fe51f394d",
-"title": "NVIDIA’s RTX 5080 24 GB Could Arrive As Early As December With 50% More VRAM, As 16 GB Models Already Sell For Over $2,000",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcnZUNnoxM05mVXlxNHpDQzY2RTlqeGI1bHY2UFo1bkRVOHIzSHVzd0ZBaUtHRE9sRWpxeUFQUlkxM25VMjIwLXRqcVd4RzNMbFZPbUllVGtJNDBGeFgzR005cVA5amZxa2V5THJySjFCRkVJT0E0UDRiak5DOWVKMUVrVjZJUTFUSUt1T2RBa29Lc0VVd0xBeFRLME82d9IBowFBVV95cUxOM2dCRHBtSXZBd2xRYmZZWXp6RGlnVklhT05GbDlrZnA2cW82RWdod01EMXZIZF9IcFJyYXFDdEY3WFJwTzNZYXdEZGNZUy1mWGVVVWhTdGZXcHI3YXA0amRHZjdWUTlubS1BX09RQmNwREZxaTJzbHprV185T2VLa21TQXBZVFFqeXJhNmotTGp1UzQtRE5MWTJXdm41REVYOTk4?oc=5",
-"source": "Wccftech",
-"published": 1793344506.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "cf48ae25e6e777eb",
-"title": "Iran claims four tankers struck mines in Hormuz as strike fears grow after U.S. midterms",
-"summary": "Iran said four tankers struck mines in the Strait of Hormuz, while Tehran disputed a U.S. claim that key shipping lanes had been cleared.",
-"link": "https://www.cnbc.com/2026/10/30/iran-trump-hormuz-oil-middle-east-.html",
-"source": "CNBC Top News",
-"published": 1793344369.0,
-"stocks": [],
-"keywords": [
-"Hormuz"
-]
-},
-{
-"key": "3eb9c3be76dbc36a",
-"title": "Apple Inc. $AAPL Stake Lifted by Annex Advisory Services LLC",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNVZmY0NTYTdleHdGMDJFQWJwZnRJWklTSTdadm9hajhQcmZ0NlVDMFUwOHJ3dDVqcTRXc3Yza0dFZkdtR0h2NTRlSWJkT2ZVd3czMWs5VjVlRGNXRGItY09oZE9aUWNXYUVhZzVKRkFiWVdCaDV1WG4xTVZVbGpvb1J3aFZwbEpCcFl3ZVYwcGFPQWQzMnA0MXdmbjJtdG5neFhyd29qdDF2M01rd3lWVVlaejNmS2FFdWZv?oc=5",
-"source": "MarketBeat",
-"published": 1793344053.0,
-"stocks": [
-"Apple (AAPL)"
-],
-"keywords": []
-},
-{
-"key": "10418ae156243c13",
-"title": "1,734 Apple Inc. $AAPL Shares Sold by Aspiriant LLC",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNm9sWTZnUGJjR09LYVBNaXlTd2ZnZzBjVHAwZmdZenhJTFNUV05BQUw1aEFPUV8xTmlJb2wtSUpSYjd3MDBxaXVTOUFobEV5T1JadnB3ZTZYeGFESFI2VE95YWxRZFk3MjlVQ3NjWktqOE01ZHFaai10MXJuVWZ6dnp2VUFFM1BrWDZsTFRuam1xYUtuaFRib0FGRWFjRmhsNlp3cUpNYk1VSFBNREE?oc=5",
-"source": "MarketBeat",
-"published": 1793344053.0,
-"stocks": [
-"Apple (AAPL)"
-],
-"keywords": []
-},
-{
-"key": "783e5277203b479c",
-"title": "Tesla Cybercab Hit in Austin: What Owners Should Know - BASENOR",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZFRDMVpiT09Uc0VMUFBRRmFDbkFyN1J3UUNKMnY0NjJtNEhQV0k0Vm9rb2dkMGVZeExqcnBMQ2Vqc28yTGswWlgydDZhMENlUy1FSm1PYjlHMzBfeC1oSjhBelpQWnI0S1dkeTlqZ205akZTOHpfOFNVMEc2LUFLSU5BWWMwU1ZhSHVmcVE4RUI?oc=5",
-"source": "Tesla Accessories",
-"published": 1793343907.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "9625df40747972fc",
-"title": "Tesla Robotaxi Calm Mode: What It Does and Who Gets It - BASENOR",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcmRacHFON2NvRE1fb0o0TFRaYkJZeXozdERrQ3EyOXdGSWVBZDNrUWFxcU9YSTRpQk8wVmtXUDQ5MDJYSlFIUnF5WjdmY1dSWVJLVl91bW9sQlpvREhYWldxOEJzYUJpM1VqX0R2Mm5vSVBOak9sRVlFZ1E5cFFDV0pJMWtfUzBPdF9hS1ZodkYxUQ?oc=5",
-"source": "Tesla Accessories",
-"published": 1793343827.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "3b074615aa908316",
-"title": "The Case Against a SpaceX and Tesla Merger",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdnBvSTYxa2RpNjRMLXRMZW1TT1RTb0tZaF9EbWt5YXltbWFyMlJISkxPZnRsc3FBMUE4QnpLZ2NDMVpfQ0pEcjk2akFNTDVDclVLeE9FaHU5TVpjelpra3ZZU2RSZ2ZTRVdOZ25Tb1dqYzd0dUJRb292bzhSNTJ0Sk1vYjJVRFdiSVlycGVn?oc=5",
-"source": "The Motley Fool",
-"published": 1793343644.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "a6837c0e9c8a49f3",
-"title": "Key facts: Microsoft $25B bond sale; 10 tranches; Q1 capex $45.2B",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaTVuUTBjb3BPVXFxaTVZdkZwbHBRVjlIZTR0WkVlcGVwa0kweWFJRk5Kd01PV0RFTzhMTTJuNVZrMlFTTk5SczBpYkZhcUw1a2I3TnI2bUpOVm9PVmZqTmxBWlRpbGNCMGZ0S0dqUi1FaVZoM2VIUGk2ZkhNZC1wQnlmQlZJZEhzZDRjVVhLRUlpN1hQSHUyYno2RkJKYlQwd014S1dNUEJvQ0E2NnFXMVFVS3BQcHh0dVljb1dHUQ?oc=5",
-"source": "TradingView",
-"published": 1793343600.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "a1fd3c151bea71b0",
-"title": "Phantom Blade Zero Day-One Update Brings Performance Improvements, Nvidia Driver Warning",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVl9lTHJOM2dzOXBEVWZVckRIWHF5MmRfUjMwak9xZ1VvQkNWTmI3c0ZwQ3VndzUwZXpoZERBS3FheGUzNFp4SktOQVJzTVNkclFiNmlfZC1qdk1QUnVGc0w1MEZQd1o4ZlpRZzdGSjE2eFhlZUJqMG9KZ3FSdURPMmVnQ0JfVHMwY05sYlJGWENvaTZFS3VuVUZyTUlNbHlwVjlBRFJJbnNPSzREUFVKclVDUjdYNlFBNmh5SHEweGJyZjlfM3FUTE0wdjc?oc=5",
-"source": "IGN Africa",
-"published": 1793343375.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "9852460e5d114c55",
-"title": "The Case Against a SpaceX and Tesla Merger",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVlctVnBRY1lyOEI5TVFsV0tCTmUxSGVxQ2RxNWg3aF9vbWhlOEFhbzdWcVFVMlBNX3lpRjNHNDhwUEpRUkladGplMTdJRU5sVndXU3U4QldpMjlyblJuQWdlWk8yTkEzcFB5eTdVcnd5RS14UmU2Z0JRUnV3c1dVVGxGNUljUWJkV0U5YkNMeTNxNUVsTVBuS1ZFekl5YjYyWEZ1Y3I5cGxZS0JMUzFOdGZ6bDBneUxYZl9jbGVDOE5qTVh6?oc=5",
-"source": "The Globe and Mail",
-"published": 1793343055.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "3191a2d3e1f45f0c",
-"title": "The Case Against a SpaceX and Tesla Merger",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ01xU214cUh2b1Q2ZndVUTd5VlhtckZSc29wUC1abGVnNXJoTlBCVlRjelUxQkh4Z0xza0NjWkVhMk1jbGpFUENubUdLWFBGM3pxTkRVemFXVW9aUW5kS3ZEN3hoa3YwR3BXS091QXpFQkRIWmRpekNDRjh0NTN5RXgxaFY?oc=5",
-"source": "Yahoo Finance",
-"published": 1793343000.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "8cb0ba30440b146c",
-"title": "S&P 500 Forecast: SPX falls, led by tech after Meta, Tesla earnings",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPakxVVDI1b0tDV1ozbWZXd29kTFR0VU5QOU9USWFDeWtoWXVfY2dDS3NoWGFmWTNyTkxUQVNCaDVXTjJNSk85SmE5eVVSNlQxbmhVUkZLSTB6R2xiWDJYeE1GM1BHVDhQRGtwN3BlMC1taWlrX0JUYmZockc1c0hKVnV4VWRqLWlZWkZGRDExQjZVQ28tdFJIN2REQVFQSXVhQmMySnptRURVUTU0endoUFNMOGo?oc=5",
-"source": "StoneX",
-"published": 1793342411.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "92c2cf7b8a056677",
-"title": "Aker ASA (AKER.OL) Seasonal returns chart",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBWZ0Fib0JDdlRSUGRya3Nnc3BtY3VfSl9xckNvSzVVTWs2YWRwb19lNTB6SXo1WmdubEhTXzFMTHFKY0ptQ1MtcTZXWXpxdXktS1VEdzF6ZkpId25Dejk4SUtUeWJZQQ?oc=5",
-"source": "Yahoo Finance UK",
-"published": 1793342057.0,
-"stocks": [
-"Aker (AKER)"
-],
-"keywords": []
-},
-{
-"key": "309db56909d56abc",
-"title": "Nvidia Nscale Credit Support: $45B Anthropic Deal [2026]",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNWNBZjdVUlpyU3FiaWZUMUI1STF2RFMwSXE4MEY0TVVNSmJsN2l1VU5laGJLcGxES1RRV3Zwd096d2lzWURCVS1HQlUxR0xHbHRoQ1hhU05tZGVhZEMxd29DNTlBTkdBUnJRTnNCRWxVZnhDd1RDaVN0UFFrOU5jaU5pMjk0b0w0dGRMSXdOSjhDdzA?oc=5",
-"source": "shattered.io",
-"published": 1793341869.0,
-"stocks": [
-"Aker (AKER)",
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "0c1878ff93497924",
-"title": "Tesla Robotaxi liftoff in Houston! The service area just got 10 TIMES BIGGER. From 25 to 254 square miles, reaching downtown, Midtown, Montrose, and plenty more of Houston. Around 1.2M residents now live inside that expanded zone. A whole lot more pla",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBHYXpvcTJjNTZYYzg2OVNaV3JKcTdfYmxEaS1EbXhCUDlBWm44S2ROLUtVajM2X3hGdGlTeE9BcXlLUHBQcXBESm1MSVkxbTZJaGhhQTdsalRyOHVjeTZvSmY5Sl9mQVplXzhxaA?oc=5",
-"source": "X",
-"published": 1793341800.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "52be7553e1e829c7",
-"title": "Microsoft Report: Three North Korean Hacking Groups Heavily Utilize AI in Cyber Attacks",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNa1pLdTBmSTVINTZTMFNueTFoRkRfN2l3dkZoNWxnQ2RrMlU3UWtwWEFXZl9FeDJGejdoME45Y3pQX3dUX1dWeU9jYzJucTM2dUVTbGRIMXZ6aktxanZjenJyWE1UUHpQTWRlWXRoMjRmcGZOZGdIRXhmUGg4bHE2MkIzYXc3TmdOZVR6UHVoVy12dGpsaTh1ZEJpcHpUNlhqQ1Y5Z1BzY1UzUjBqU1NLMA?oc=5",
-"source": "KuCoin",
-"published": 1793341681.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "ab0d34b5ba042087",
-"title": "SEB raises its price target for Kongsberg Gruppen to 420 Norwegian kroner (380), reiterates buy",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWHlkanAtajk3dG1uc0tDQTU0ZXl1N2I0emRYTkxnYW4yemRlbGUxTm5Ha1VjYkQ0TzI0R3pPLURrSXgwVVloT0lSWXRqVmdVZWdXRDlWWlJJb2FyZU0ySC1vdzA3Q1h2Sld6ZnF1WWZxUTNKYzhGOGtGNF9TUElGNjFmaC1hQU5PY21WS202dUFGeE51WU1kWnF6a3ZhX25JcEdlMElFcWxGZV9ZUnpVX3JiRjYwTmV5Z1RXb25Kdy1BeERSNmJiVmpMZWFqTmJSQnNsVXJ1Z09aZjBySFE?oc=5",
-"source": "marketscreener.com",
-"published": 1793341461.0,
-"stocks": [
-"Kongsberg Gruppen (KOG)"
-],
-"keywords": []
-},
-{
-"key": "d5519ba7cd063870",
-"title": "Form 4 Meta Platforms Inc: Peggy Alford (Director) For: 26 October By Investing.com",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbFVLWkl1YWJBT3EzMjE5QzVuejk1cVNkOEdmRFhzdmNlcEZ6OHhhdE5qbjJMak5EU1MxUUJpNVBKeGluS0Rkdnd6OGhKZGNqUFhwZndYZkdsakFiQkZqb3ZXc01CeU50T3RXQW4yMjNfcm0tRFFscWVESUJkNGZXLTRJQU1kSXJoT1Z3WHZPOFlxZm9STVpqV1VMaWNWbElpdnhEdlJwSC1rbVYycnJodFpvdVNOWHpUaTFVMDNPSmg?oc=5",
-"source": "Investing.com South Africa",
-"published": 1793341302.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "003ac26bf9d81035",
-"title": "AM Intelligence Explores Funding Options For $3 Billion Raise to Buy Nvidia Chips",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaTVwRnJ5NEhqcnpqS2F4VVZIejhEVDR4d3YxWWZiWnZ2TG1rb0RqZ3FnNnZMdHIxYU9fWUJkNFB4THg0RzdEMDVjSF9WcFhpLUc4TWM4dU5oTkR4OVEwUzNKRGhGcVpia1ZpS3dPbHZXYXlxeFpqNmtvbF9wWVF4SEdLc3pQc09EaDlCY0FfQlBwWC1Gc2xQSmZPc1Nwc3RlN0ptRXpXZDNXaE1yZjhXVk44VloyMno2SG1XTmN4cHdWT0U1OHNzOXQ0VFFydw?oc=5",
-"source": "marketscreener.com",
-"published": 1793341219.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "19cdf5de76924369",
-"title": "SpaceX Stock Slides 5% in October as Tesla Merger Talk Fails to Lift Space Sector; Viasat Jumps 11%",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBUTHNNRWVRTXFCRFJQY3FvbEV0U3BrT2xIaUE1dERIRE1OZ1I2WjZKbC16VVVsSFh3YVM4eHFYbXJZUy1sWmFXRmFEUzZxblRoY2hQcFNESkhqck5kQklCQXB5VW5zNDMwZnU3NFVtTlgzc1c3QVE?oc=5",
-"source": "BigGo Finance",
-"published": 1793340300.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "139b64cc176f04ea",
-"title": "Microsoft taps debt markets with $25B bond sale to boost AI (MSFT:NASDAQ)",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRElGbmk3Y3JYeWhhRUY3Z2FxSlA3bWtVZ01tcGVEeUJuWW1YWElWVThjQjN6Y21hWHg2eHZ4N0hJbnlGVnRobThPam1UclAxSzFLdDBuaGVJZ3kySzBWVjZsUGJDUGRZZzdzdEZzelh0a0NxYy1kM1M2VkV6TXpOU3J5aGVneWdNUzhmbkRCWjA2QThNVDItVy16cFg?oc=5",
-"source": "Seeking Alpha",
-"published": 1793340062.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "ade4871c34714c31",
-"title": "Goldman Sachs raises price target for Aker BP to 280 Norwegian kroner (270), reiterates sell - BN",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWjE0TkVNaTZqanh0OGVLTmZWdmd6YTRsS2Z0OUhmR0VVanVHRzJ2RnNxRDJjWXBQS3pqLV9qVEY4R3lIVWtZQUV2MWpJbGpUUmVLUFRRSVQzZlBIZ3ZxR3VmaF9nUHBsVS1DV0I1ckdsTGtxR3hBSnM4M09iNlU0NDlXeWRkZDhNN3d0dkkzMVNKRzFzZzktQTFZRlk5OGhKZ1plNjVyMVhKZk9TRTF3c0R0d2E5Q0syWHZueXl0SkRHQ2p0RXBTaURuQUZwX1N4TXM5ZEh1NnF0aXYwTEE?oc=5",
-"source": "www.marketscreener.com",
-"published": 1793339910.0,
-"stocks": [
-"Aker BP (AKRBP)"
-],
-"keywords": []
-},
-{
-"key": "f8598acd38541470",
-"title": "Morgan Stanley cuts price target for Kongsberg Gruppen to 320 Norwegian kroner (330), reiterates underweight - BN",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOcjkyM2J6X1pSdC1JNWMwTXdMRmhoMmVaZGlJc0dZaHp2Q1h6OU5mb054T2lyS0FFSVM4MFAxMGY0ZmNncUx0UzFITXVOLWdxMFYtaDgxM05oRlM3bXdxejdJSVNJVnI3N0V2UVdlNHBYRVFoRjU0aHFnTkpaYjdrUW9uT3hxV2h1NEVhS1BjWWRvV1k3MEtuYXJ5U21EMnkycVRYZzJQbklUYnFJeFp5MUZjcy0xZkQ1cnZNOUxmUjBsOFJ6LWRuQXQ1ZHN3TXRWUTVrU3ZCUEJSN0psT1FYR1RDYTc?oc=5",
-"source": "marketscreener.com",
-"published": 1793339662.0,
-"stocks": [
-"Kongsberg Gruppen (KOG)"
 ],
 "keywords": []
 }

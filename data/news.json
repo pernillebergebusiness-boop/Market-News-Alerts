@@ -1,5 +1,5 @@
 {
-"updated": 1793484860.3688195,
+"updated": 1793486909.1353369,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -72,6 +72,30 @@
 "Yahoo Finance: HTTPError"
 ],
 "items": [
+{
+"key": "38243ad49c54a9a1",
+"title": "Form 4 NVIDIA Corporation For: 31 October By Investing.com",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNT1diaUhnaW1ZbFd5TGZVQ25GbDVDOEhxNWNocEZkTW5TUzdsSUVqblZpZ1RyOWpRZmMtZ083VmtzYlF0UlN0N1JjNGIxNWhBdUVuNU5DWEpaVUN5QVdzdmUySGxIVVVjVjJ0MnljTHAyY09GWENjRlgzbFpZeUdTR00xWDBqek95SUJNSzNZVXNZdHlJaVN0UFBEa0hUbFFURS0w?oc=5",
+"source": "Investing.com India",
+"published": 1793485178.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "9e566e2e6710110b",
+"title": "Nvidia (NVDA) CEO Jensen Huang Reportedly Targeted In Chinese Espionage Plot",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNR0Jrc3lXSnh5QnN1WEpKX2M4QWNSeVhvekRSbUQ3QXdFVmRPeXo4dHI0TkQ0eVRzeGtrcVhTUlJhT2hONWtqV2ZxNzZmdG03dkJpdk9SZjVqX2FOdF8zMEZZcHRlNVFyeWc2V0pPZkpBeXdPTXJtekZ6ODBlNkg5cVc2QUVVVFFkbUNFNnZ6VzVESmhSM3lv?oc=5",
+"source": "Yahoo Finance",
+"published": 1793484498.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
 {
 "key": "c528b09227b4f1a7",
 "title": "Microsoft explains why Windows 11 users cannot drag the taskbar to reposition it",
@@ -217,6 +241,18 @@
 "keywords": []
 },
 {
+"key": "4f1b630a8be7187b",
+"title": "Forza Creator Dan Greenawalt to Retire From Microsoft After 27 Years",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMHg4NDlUZ3Z6b0xlWTFJU0NjZ2R1d3E3NUp5MVZTUlB6OGRJbVoweUphdUg3c3hHalAtUEJNZzVSaWpUc2hNWUt0dzVBOXdCOTlQZDM5UFAwTUQwZVg0dDZXbDFWczhHT1haeEdGd3RXS3oyZkY1MkU4czZUNmFGTlhfNTJ6a0pMSzB0YnJxWnJyU0xyN3lpSHdBVUFWNnJreVA4UWdB?oc=5",
+"source": "GTPlanet",
+"published": 1793477088.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
 "key": "facbe4b6d69ea3d1",
 "title": "Nvidia responds to report that its CEO was allegedly targeted in Chinese spy plot - ABC News",
 "summary": "",
@@ -225,6 +261,18 @@
 "published": 1793477025.0,
 "stocks": [
 "Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "f6f67ce7dc593b48",
+"title": "Microsoft (MSFT) Business Data & Statistics",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPRHZpc3NxTG5jdXF4SklYV1A5OTRfN2QzTVFXUHdLeDQyaGtUTlh1ZExQaWljYnd2VGlieFgyY0VGVTlodmFCb0lBZFN0MmE5NXBXQnA5Q2x3d0ZGcGpHSFpsSjFHS09RUGpYNmtfYkJQR3NkSTl0RnBpRFZvU1QzQkFRRW1HcGdYYXNab1FnTUNNTFRUazRMZnFNTTF5N3JMTzdmNEtTOXUtQnpRTjc0bzRPbE53OGlzaGlvbUxXYVRKUnRia0RXV1hBS3BRMXBiOVZhbkFXV0RaQ3F2NVloN0NMZVpCQy1Ic3BzdHF4ZERKaEtGS2tFR0NfYWFITnY3VUEyeE81bTNuQ2JmV0xaUU5DMHlneTBLVjdPUDd4YmN5RUNQd0FfbW5hOVo5RVJLcU5rT2J1R2kwYVRVQWx5M0ZURHB3ck9TTkVURU9KRGZiazZjdTV6WHRURVJUeUlGVG93MHZR?oc=5",
+"source": "Moomoo",
+"published": 1793476956.0,
+"stocks": [
+"Microsoft (MSFT)"
 ],
 "keywords": []
 },
@@ -357,6 +405,18 @@
 "published": 1793472976.0,
 "stocks": [
 "Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "ee0c656c11d1e945",
+"title": "Microsoft expects only 3,000 employees to leave through voluntary exit program",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFB4NzRCYy1QMHVoOWM0aF82ZjByVWZrMW4wZWZvaHQxcmtGdGdVakx0NFNPVUQ2ZkpxcVZRRUhUaw?oc=5",
+"source": "jawlah.co",
+"published": 1793472596.0,
+"stocks": [
+"Microsoft (MSFT)"
 ],
 "keywords": []
 },
@@ -4824,66 +4884,6 @@
 "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPelJ0Q0xNdUtTQmh6SW5SUHhTSUlvRWV2Nmt2bVR0YnEzN25ZVXRuWlBDaFpmNkNjTnFGcWtPM05pZm9ObVppVzFjdGVabDRRRHJtQ1cwQjFXWlhmSmpicVN4ejZCaVE2N2w3SlV1bFp5M2hfMWd0b25nM3ZvQXR5YTVhckdkdmc?oc=5",
 "source": "Harvard Business Review",
 "published": 1793380500.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "e3643157e8e8160a",
-"title": "Tesla Semi Wins Top Gear Tech Award",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1kSTl5cXVlYUlnbXBmSTJrSDhiTVI2eDVKUEZMSFpGc1p5V2JOcDFDTS1NNlI5T0tqOFFsSFlPbHdrekdCTWFIVnpDMTc1R3VZRVVYclA5dTljcWk2ZXQ1TGxFSG4xbDh4V3NvbGxTdENXdw?oc=5",
-"source": "Drive Tesla Canada",
-"published": 1793380464.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "1759de797eb23bd1",
-"title": "Tesla Could Be About to Unlock a Brand-New Revenue Stream. Time to Buy the Stock?",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPM1pXZ3BMUkFhRnpUMHRyUmN5emFHNk5xUUNCTW44TEtsQ1ZHakRacEczMTd5Zk1haFh3cjVjc1hCdDE0T1JKTVZlM0RadkJJTE1TTXZLR1U0d0RRT1pYa2l5QkZQMFdvSExmTWdDbkh0NkhhdVQzMzFfYnZhZDlzR196WHYtVlZjZU5nRWtiT1k4RWlmUlU1RUhrVUEyLXp6cjRkaC1wZ3M4QVE5aW9zQWFtRTQ0a0JQSXRuME4wSWc4Vlo0SGpiUGp0TDlJbG9mZm1rMkRySFFmUUozZVUxM1ZhTGNJOUV6WjF4cHVXMGF1dXNlbnM5Yw?oc=5",
-"source": "The Globe and Mail",
-"published": 1793380237.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "efab14dfa50af87c",
-"title": "Tesla Could Be About to Unlock a Brand-New Revenue Stream. Time to Buy the Stock?",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxON2hDZ0tYR2FJMlhjTTBEdGYxWjJVay13TWpyWjlBN2Zqa0d3Y1N2TVdqVkZmekotWEFsRk9TOG5lWnR2cGNXZjRqSmNUYzJpM19UZmZsSk0takxITHpYVnpQbmRRYnFvb0ZyRTBmVnEzXzBQYkxJSk5lRnZmZHN2X2taYV9aOUlXOEpkNWpTdzBlbFZQM0h1bGZ3dmVndw?oc=5",
-"source": "Yahoo Finance",
-"published": 1793380141.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "681c43de1775890e",
-"title": "Terafab, Explained in 5 Points: The Tesla-SpaceX Chip Fab Rising in Texas - BASENOR",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcnhFci1VbE1YU3BhVVlwWnotUGR4dl83b1M1YXZWQWlnZTBvWVBjdXg0MFJtemRVOENQQVh2aHQ4YmpxcmEtc25oUTVhTnZ1MjBLVS1IVng5aWNzTGZleUtYSEZvTlFGR1Y4Z0ZnZzdFV3dHS0pnMEFlZHNZamRBSlFaNVU4dkRFVzhBdE9mUkxQVDVJaU15RXE2YVdNR3ZSR3JuWEdyQlAzUQ?oc=5",
-"source": "Tesla Accessories",
-"published": 1793379859.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "08583b138fd921ff",
-"title": "Amicus Brief: OpenAI and Microsoft Cannot Use Copyright Infringement as a Competitive Advantage",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQM0dETFVUWHFzeFpKUTFYWDFISmRuN19fTk9SUXNjMHZFYTRjOVBkV2hXR3FhSEZxZ3JkUHlJVkd2a05jdlhRODU5UE9LTmY2Rmk5Sm10WEp6SVpnX0w3SW5aaDE0VE1WRGNDQlVQM184Y0xDOHEzSEpST3h0dm9BRW95dlNYeGMxT3g0LXFjX1E0VVdDNnRQXzNxUEJxaUptM2NLeXFWV0c4OTE4SmU5MHBZaDNqY1U1RGhEcHBsWnBDRk5RbWF3QTFLWQ?oc=5",
-"source": "Open Markets Institute",
-"published": 1793379811.0,
 "stocks": [
 "Microsoft (MSFT)"
 ],

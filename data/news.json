@@ -1,5 +1,5 @@
 {
-"updated": 1793404721.009966,
+"updated": 1793407716.0191467,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,6 +73,78 @@
 ],
 "items": [
 {
+"key": "733d6a214fe08cde",
+"title": "Washington governor rips Microsoft over TV ad in leaked audio",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOY2dNV0I1WDJRTVhqV1lONFp3RE5tSm1qWllZMExZQi10TTRwOW10bmwza0RHSWFvNzdtT3p3UFhGWFBhNnp4Z3JQc0lVT1BrWmFQME16bDBaa2V1OGllS203Tk9TNkRlR29BRXdqTWl4R0ZSOXBVRldENmdWUE9KMlNlSkV3RGcxZWV6VW9MYlgxcWhhSUN3?oc=5",
+"source": "GeekWire",
+"published": 1793406170.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "5916c05cbe185dfd",
+"title": "The Quantum Race Needs Tesla’s Engineering, Not Tesla’s Myths – OpEd",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMkxhRDBtaVJFaVlQVFNGUXdidEF0NlVWOHA5XzhRcGgzZ1dBR0N4dXhvS3dvOHlQLU9QVDAzSF9vUmtUM0traEtqM3FodTE3QjQyVEJrNXp1N3ZCNm9QTnlOWkFTeHdwQWRHaWlZVmNFTlU5eFF2cGRqSkt5NVQ0aEJoSlJ4ZzV5Mm9ERFRCcWdraG5QLTk2bTh3MWFabmZ4bHJGc2pn?oc=5",
+"source": "Eurasia Review",
+"published": 1793405770.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "ceee62f4a9c49d5f",
+"title": "Stocktwits Zero To Sixty: Rivian Raises Delivery Guidance On R2 Demand, Tesla Expands Robotaxi Fleet, And Ford Advances Low-Cost EV Plans",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQXzUxaWJXeWN4MlZkSkdfYkQtSG1waHhMOUdDTDY0ZVVIeWJzWVFuZ2FXSjhIYWhZNGpnR1NVS0NzQ2JacURoX1IxUFQwR0J5RUJTZEQ1bXFyellidXl3Z256ZEJFX19oa3VIUkp5WUxEVUxFWFBvYzRMV2N2YVhLUHAzM3ltaURBZTc0MG45bkM4M0NPTXdOcXBPbXVMaExGWnpoUElEcy0xNER1MlZVY2RRVnA1ZHNXM0xDS2dSbWY3cGxzcEQzZmFwTnVWR04zb2FKOTN2OGV1T1lCQmZqMjd0dkU2VC1uUWliaDJ4TmRsLWRUc000UHVMdktQaC1NLVhuWE5HRmVheWE0YTFnTjRoNlo1UGgtNFBzRWdCZFM?oc=5",
+"source": "TradingView",
+"published": 1793405400.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "2eed2c635400047a",
+"title": "Stock Market Crash: Why US Stocks Now Swing Like Meme Tokens",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9IUFBQUFVsSG5qZUtMTDZXdTJBRkFoa2VRZlE5YnRGTVZOY05NV2FYczQ2TkxiSWFVa0xvY1NSeHhTbGMzVDMwTFVLejVDd2hnMnRrSW1nNmtJRlpzX0UwUzV2UUlZaWxrbVduNjd4ZkZvWUViNGdv?oc=5",
+"source": "CryptoTicker.io",
+"published": 1793404973.0,
+"stocks": [],
+"keywords": [
+"stock market crash"
+]
+},
+{
+"key": "8dd82ff49a3eb1f2",
+"title": "What To Do After Market Sell-Off; Apple, Elections On Deck",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZEoyQk15NGhJR0FQZEg4aC1VS3RmOG9MdkZvSUR6a2tpQ0NYcW9XYWFralZwcmVZTnlRSG5CRENJXzQtNF9OVUotNFNLMW5HeTdPSjMxUlhKdGN5SUtIbWxmUXh4NDFSc2FJQVNzd0JXYlZ3OTdDWVd2X3pXT09WQWZ5MnN3OWtMN1hSS1pfLW9JYWdKanlnTTE0bU5ocHo1S2lXR0NMekZCRk1zdUdIODktNUJfckRUbUt4X2FUcGo2SXFNTWkzeWNMWWQ?oc=5",
+"source": "Investor's Business Daily",
+"published": 1793403360.0,
+"stocks": [],
+"keywords": [
+"sell-off"
+]
+},
+{
+"key": "c26ffd1328ac602b",
+"title": "Apple (AAPL.US) overtakes NVIDIA (NVDA.US) to regain top spot in global market capitalization, as its relatively restrained capital expenditure wins market favor.",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVmhYYm1CYUpIX2UwOXRyTkxfMzlUUjdlaWtFVG43TGowNWtzV0VfaGozdjVsN1h2RjB6M0U2Y3lHb3lwbHotNFBKVEJjUklRYVVmcEt5cnJoV0FPYTk0dWFLVkxEWkRWeDlzcHdVQzRZNWNHa1BhV296TXlJZHpzRFJSVEJHN0Zwclk0N2lLZm1kekx2WUYwLWVacU9XWlZ6WnAw?oc=5",
+"source": "富途牛牛",
+"published": 1793403312.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
 "key": "de9b501e6220a12a",
 "title": "Apple’s foldable iPhone Duo draws early complaints of the sc...",
 "summary": "",
@@ -105,6 +177,18 @@
 "published": 1793400786.0,
 "stocks": [
 "Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "170ddc4243d2806e",
+"title": "Microsoft killed Android apps on Windows 11, but they’re back in taskbar Search, streamed from your phone",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPS19BRU8xSjJ3dWQzWm5YVnlSRl9yMWx6MkNhRVlrSWdwdnRSdE5ldmFDSVZhamRzMEhGMGhDeTdtTkZoZFM0MHhvZ0Frd1hrRXR5TTIyNW1FbHpzeGlUN3BJYlBJaVFPSGF2RTVDbmZhSi1EZ1JoU3pIbV9tWmRlNEpQdVlob1FLdlBJUmRFeTRTT2FLOGJwSVZpZmFtRVNqS2J1ckdIaU5IYkxxVGgyb0NtX3dpOEUzOVd2cDBnQjFZOFNZWlJlSTlCN09zelBGZVd5X1B1QU1YYXZh?oc=5",
+"source": "Windows Latest",
+"published": 1793400197.0,
+"stocks": [
+"Microsoft (MSFT)"
 ],
 "keywords": []
 },
@@ -251,6 +335,32 @@
 "published": 1793396973.0,
 "stocks": [
 "Meta (META)"
+],
+"keywords": []
+},
+{
+"key": "bd9ee5f1bae16cea",
+"title": "Apple overtakes Nvidia to become world’s most valuable company amid tech selloff",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaERfb3BqbG1kRV80OHZpNWJtNDZWTlhDZUZ5bTBJRWg0a3hJbmU1MVBmemhhbFBLQVYxbDhkZC14S1pvOWlfQkRURl8zQVJOVmZoR2g2LTczQldSYjlyV1dUVzFubTNtSmFuSUIxNmM4OUJsTFVOaUR6clBwbERNWkxfNHRBUXE1aV85cl9XWjRMTFFUb1lGWUwxU016NUJOdEE?oc=5",
+"source": "Yahoo Finance",
+"published": 1793396873.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": [
+"selloff"
+]
+},
+{
+"key": "4d16a8a531ae649b",
+"title": "Build a Validated Kubernetes Runtime for NVIDIA Dynamo | NVIDIA Technical Blog",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ3FjamI5ZFlnaWszaUE5Ny1udzltbXJMMzF0aEtTY2F0ejBBZzhUYk5lNVpSS2JLTGYwaVdjS3BNdUp2WFNfWFNTS1JTX2xtNV9iQlZ5Skl0YUQ0UVVROGJ4VFAwMGtOekk5Yzl2M3VETTJ2YTc2U0oyb2Zhd1ZXYWQxY0MwZWxlQkpJNHdHaHlySHM?oc=5",
+"source": "NVIDIA Developer",
+"published": 1793396862.0,
+"stocks": [
+"Nvidia (NVDA)"
 ],
 "keywords": []
 },
@@ -495,6 +605,18 @@
 "Nvidia (NVDA)"
 ],
 "keywords": []
+},
+{
+"key": "b6d946760c2695b6",
+"title": "The sell-off for tech stocks deepens and drags Wall Street toward its worst day since June - ABC News",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOblE0Q2ZWOGR2OHQ1RndzcGxzUGN0SGFZUmJKVUJYbng3bHNNeWpnNWFIbDZQRkZuQ3RTNzF2b3pIRVJhejNoRzN6c0s0WUpGT1MteU5IT3RiQ1R3SXlhMUdlNnRTT0F4MnR1ZkxGODhscTB3N3Z2Unl3OFY4alZCTXdpdzBMWUUyZ3hDYUNCZWhIdVJkWnhLdnNfOVo1MlF00gGmAUFVX3lxTFBWNDE0d1pQX3J2cHVrelRZMnYtandfVmpMRVVEYXUwY3dWY0lBa2VtN0lSZEd4SklkakNDY291NmJIQWFKZ2g4am5UZ0d3ZUlwemRDX3NqZG5NdjJfSlBMVktZbk5aN0pCNWd6QTF6UzBMdFVLNTY4Z3pmUUZIQU5JeUU4YTAwN2xmNFVwU3BIcHRuRWM1NFdySDV5aVQ2blc1dmtKVnc?oc=5",
+"source": "Breaking News, Latest News and Videos",
+"published": 1793391864.0,
+"stocks": [],
+"keywords": [
+"sell-off"
+]
 },
 {
 "key": "10ef1c85a82d181c",
@@ -4766,126 +4888,6 @@
 "published": 1793351406.0,
 "stocks": [
 "Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "a7acb0d71dc01d01",
-"title": "Why Is Tesla (TSLA) Reworking Cybertruck Plans And Battery Rules Now?",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZEowZHZ0TkFWVVgtWHVfb3E4Y1diZEJFRlVLNDBhTV9seHloNURGcE1XSUMwX1lYYXV3V1lkRGIwbGZ0dlVVWlZBU0NnLUdUaWRWM0hZc29FSktELXMyeW5oUUo1bWdKTE1tRGRVVDJyZzhhc1ZZZ2VpNjMzd1E2RkVoTTJaTnlsd09OM20tQVQ1ckFOb01HdEhxY2luZDVVTUE?oc=5",
-"source": "Yahoo Finance",
-"published": 1793351395.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "e0e010561c4034bb",
-"title": "Microsoft's massive employee buyout spooked everyone. Here's what's really going on inside the company.",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcFJDY29LSGROYUJzS2ZIZ05MTkh2ZDZ6WVpfRkUyeFpfM2RjUmFUTmZqSVAwVjdOZGZaNjZ6eXVDVi1TaHlxdkRNS3pyaUVXWWcxMXkycG9OaGktR0VCV3hpRWRKcWhtQUkyNFdob3FiZENraG1WSUhpTlNTcHlNMDdRbnlPXy1mLXp0WG9kNGdnUEM2dEsxd3FrOEVtNE9vaDhTWXpVZWc?oc=5",
-"source": "Business Insider",
-"published": 1793351127.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "e77ec5dbedb788e2",
-"title": "Meta Platforms, Inc. $META Shares Acquired by Lantern Wealth Advisors LLC",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeHR5SDd1dmk3MjJUV2JxdHVPWmlJTUdxbVo1TVVGd29ZUUdxcXBpYklvUlZwTmJqYjdvcWFvT2RaeFduYjhETU52MGlUVEhBelZFVEIwdHA1Uy1ORXZXTlFTWUdVdXkwZG1QckRXbFBRV0MxUHVfb1Jfb0M3R0FrVzltazYxTHJWOURJV0lQaHJ3emtUcldhMm4yOUczYUQ1b0c0QlRJVktCbWMtNjN1cC1mMm15WjUzbUJaa2ZWSWxzNTlsU19Fd3Q2QQ?oc=5",
-"source": "MarketBeat",
-"published": 1793351059.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "a647aac9a3d0b8d3",
-"title": "One Wealth Capital Management LLC Sells 3,723 Shares of Meta Platforms, Inc. $META",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUHZCNjhfbjREYktoYkt3THpkWVFndWx3MkJHWVdreFBLTm1LSDZrQXNxNExvX3ZCSldwcUw4a1V3OTlLVDZ4cDhaZWUwUjg4UEZRdDhYWkhaU0dIVVBrVXlGQWo4bjJabG9xZVFHQ2VjUl9qdFJpTm1sMFJiSzl5VnlqYVZaeWljSGlhOXc4N2hCSVlzUnpyc2R2UUJkMnBKMVdSQ2xSTDl4ZElrVEM5TUVrU1FwN0dSZndHTlFxQ3pPcHNxMjZOOHpjVWhFTHlDSWJLdDZn?oc=5",
-"source": "MarketBeat",
-"published": 1793351056.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "dc73538cbad10102",
-"title": "Simplicity Wealth LLC Acquires 2,707 Shares of Meta Platforms, Inc. $META",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVDA4SnJ3MEhCT0kxT2dVOVRTeGhtenhfcHp0VVdPV05LTGRfX1RabHBiX3RSWC1lem84R0MwdWR1MFg4cWhNVTB1YzZoTzh3aXNuOTZpN2xid3hoSHlhUWxxa0ZSVHE3SlRuVS1TNXIyLWt1MzF3LUZGR0Q0T1JtZ0xrTWtJU3A5NUgwMDRqcnZVdXJQb01XY043TFVDbFZxSE9mOTNhTFFHVkZrZnowQkZHbUNNTHJZRnpYTC1MaUg0aExEWmQ1VVpn?oc=5",
-"source": "MarketBeat",
-"published": 1793351055.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "3bcb6cbb6be99dec",
-"title": "91,480 Meta Platforms, Inc. $META Shares Sold by Mondrian Investment Partners LTD",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWE02ZTRKR1VKX2NaQnYwTW5BZ1M0UmYxdHh2YVdUalpqUGVYY3JfbkxMQWR0cDFDdGhXakhkSG1feXd1dkw2Y3NrSXhiSjJBWEdvQVpHRkJZdVI1M0FSTkZvdnhtNEFaTFg0aTdfLV85ZGVnSXVqWEZXZGcwWlp4UExTWXBxMHpQeDJaamdwVEZRYkdOR1ktWG5fR1NybHJpNV94Qm5GUUZFdXhuSURNQWRjb2p4RWxqXzY4VU5Dd0VGcDh3Sl9rb0FPTnUzNHZEeUtKNw?oc=5",
-"source": "MarketBeat",
-"published": 1793351055.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "c11d520a0f769692",
-"title": "Meta Platforms, Inc. $META Holdings Lifted by Sowell Financial Services LLC",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTWJwcFFvaXVNTWhjZVVnOUdUQ3Jqc2gwcHV0VmFpbm8yS0x3cDhJQnNvYmItVkpldExnSmVTQWVnanJHYWJMUWl0ay1tWk8zRE1EMDJnTWRtdFh2WFV0bnZLZlRVUmxuWkt1b2VQVDN3aUhWRUQ3c19jcUJRNlBhNWhpbThtWkxIMmdibUYyeDd5clV6ai1KN25FWWc4XzJwOW8zWExlOUhmWHppTDFnOWhZS3NETXNOSi0xY3Btc1NqNjZidWZzczE1SGlVUQ?oc=5",
-"source": "MarketBeat",
-"published": 1793351054.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "4e8a578c81cfc98b",
-"title": "SpaceX Stock Is 25% Below Its All-Time High. Here’s What $5,000 Invested Today Could Be Worth by the End of 2027.",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWXBfUlN6ejdUVXBRRzlSYVo3RW9OS1hmLU9LMWpzcnJ4MmJSWnlBWUtSQmxSaFZqaldneTFHRVJZRkdJVGV5LUZFVHNBeXkySWZ4Y25scU4zemFKWE5hWmlrMGpZOVV5YUlHUnRBeFpzMGhoMl9WTno1YmhYY3M4ckhzZ0owZ1JDRVd0WE9YMlJud2YzNFE?oc=5",
-"source": "Yahoo Finance",
-"published": 1793351042.0,
-"stocks": [],
-"keywords": [
-"all-time high"
-]
-},
-{
-"key": "94cfe2fa62b029fe",
-"title": "Stocktwits Wall Street Wrap — Tesla, Broadcom, MercadoLibre Get Bullish Calls As Alphabet, Enphase Face Downgrades",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRGJIWEp0R3JIS1hNaS1UM2g4M21hN0ptbXlUZlBKYTRZOGVtM3d1VEhKRmt4NHA2ZXZUMWVVdmd5OE0xY2NfdnZEeVBzcGwwNHJ5bWc2R0J0VkhzU015dGl0NlpvTHJ0R0l4UEZRVklRSTZjVEk0Wkk4Y3h5WXhVdFp4ZmhQNWZXTDhrTVRMOVVKU0ZMWVhfaWJJMnFwTFU?oc=5",
-"source": "Yahoo Finance",
-"published": 1793350846.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "5bdb716205687f6b",
-"title": "Stocktwits Wall Street Wrap — Tesla, Broadcom, MercadoLibre Get Bullish Calls As Alphabet, Enphase Face Downgrades",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPVjNDMkJYWm8xdmctV0FyVjlUdVFsdkxBNHpSR3NBbjZzWkpnTHR6V0FkVjR5UjhvejdoRDFmWjBRUjBrNVRvcGtHanVaY3MyQ2tULW1BQWdBb05kWjBzMTdtTlV6YVNlXzVQX21qNTU3eVNHYkpSZ2tqX0hFY2NmVlJYN0ZKVDVnSnU5b3lSaVJscHg5M0JjaWVlZDhnb0trZjlBZ2JfbFBuZG5fUkxmQ2U5UjFJU1h4U3pvM0swWk5BYjViLUFBUDZTeGNJdzlxcktPSkZpcGFqWlZrdHAtM0p4M0tEdXdLV0tGb0pPdDRWSW1QcjE3Zzc1UzFtVDA?oc=5",
-"source": "TradingView",
-"published": 1793350846.0,
-"stocks": [
-"Tesla (TSLA)"
 ],
 "keywords": []
 }

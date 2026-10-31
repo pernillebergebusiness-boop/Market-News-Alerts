@@ -1,5 +1,5 @@
 {
-"updated": 1793468711.6819193,
+"updated": 1793470570.921495,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -72,6 +72,42 @@
 "Yahoo Finance: HTTPError"
 ],
 "items": [
+{
+"key": "f842ff42b44e13ba",
+"title": "China AI Compute Demand Up 417%; Nvidia Rival’s Sales Up 19x",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRXVxMWtmX1JQbWF4NFRuMG15cFhRYmxaNDVteWNMRjcwcGQ5bzlyZEJEdk9ZajFpQWxQTTlXUW81LUpXMWQ3ZkpxNkVyZWZxSE5tSHMxMUJqNEIxaDlFMGNpMGdkckd6cEFLdVpyck5HYnUxcXc1YjZaQU9HbXJUYWVwVWZ0MFI1SmF2cE9n?oc=5",
+"source": "FourWeekMBA",
+"published": 1793470120.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "79c93d274d11aeb0",
+"title": "Tesla Adds Grok Files to Intel Cars in Update 2026.38: Will It Be Enabled?",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSG5jRmlQTVB5UHV5UG1zS214ZUl6am96Z3F6d2MwMklzbjVjYkV5MVFkdnF3a3J4enRwVTJubS1rUkNmUjlHMi1oSnRSV3lTaW9HWWdTeHY2aFUybFE2OXlmQ1FOcV9KRlZYcXRUZWFEZ1B0T3dUaXR2VktUSzNTS2JaRGxMLXZ5MW05UjZnZW9rcFg3Si0yMkpCdTZtbHJnZC1vNEQzRTM0WV9uNlR3?oc=5",
+"source": "Not a Tesla App",
+"published": 1793469960.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "4a4e120d9f686c85",
+"title": "Microsoft Just Gave Edge A 33% Speed Boost, Contributes Tech To Chromium Source",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWUFEZE1xZkp4VlMxTjl6X3ZrN0w0UlNkaWdIbVZxNlM3RkxsbkV3Slg1djIwdU9YSHBNOWw1SDZMZDVMTGtmR2xUTEUzMkZBVmY5SDR3dDU1NnBjQjRzaDk0azhuQmNnWXdtMEFaalNmRWNxT3B3dmxKR1poZ21LeWNUMTZ0TktKb0F0cGlPb1NJS3N4cHY2NldPbmtLQWZ0QjBfZzFhRS10dw?oc=5",
+"source": "HotHardware",
+"published": 1793468400.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
 {
 "key": "8c0ec8fdb06f51dd",
 "title": "Microsoft Visio Professional 2024 is on sale for $49.97",
@@ -238,6 +274,18 @@
 "published": 1793463914.0,
 "stocks": [
 "Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "0cda6507bda89bea",
+"title": "Tesla Roadster: 5 Bold Signs of a Smart New Era",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE45TVpHSlBSeEZzd3VKc0FJNGZDajNmUGJ6SUdoR095WDFJazFCZU8wYzc2azF0cUlqWHBxNjMxT3czNmlhUW0tN0tEakF5M3FJMTJEalNDNGdHUWZzd0pqTHBR?oc=5",
+"source": "Global Brands Magazine",
+"published": 1793463882.0,
+"stocks": [
+"Tesla (TSLA)"
 ],
 "keywords": []
 },
@@ -4837,54 +4885,6 @@
 "published": 1793376000.0,
 "stocks": [
 "Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "616637824e2918c8",
-"title": "Microsoft Overhauls DirectX Raytracing, Boosting Frame-Rates and Cutting VRAM",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVGI4Wi1Kd3laMnJGdXhuZkxmUDNyMnNvU0RZdjZ0QkFBeHphVERtSmh6ckJTR3hzS1FRMURaQzh6R0czQmMxODRPUnNCM2hZcFo0SXlfY3MyQTBtRHY4aUUyclJtbF9WenRqWEtrWWJpQlUxZm1GOGFPeHlqNmZIN1BwUmJMa3pSenFuYUwtbzY1aEtUd2MtYnJ0MjhqVy1jRDZWN3h1NkNZY0hEYlEyaGZlbXVmWEx2M05HTA?oc=5",
-"source": "Digital Foundry",
-"published": 1793376000.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "a297f5ee3d95b1a6",
-"title": "News/Media Alliance files amicus brief in news publisher suits against OpenAI and Microsoft",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQ3VnQjBqLXJ6WnUtaF9WNmNpeG1PUVRCbjBDWl9neVNRQmY1M19YQlpxNmhzamxxWmxXbDhySXQ0NGdwRnJxZlc0dHlRSm9nQ3NXanpGRGhkeThFMDFpOGVCVEhoRVFfeE1yMEx4eTVqa1lBODdkaUxraWp0WXpiMEE2aGRzZDE5Nk40NFVWbkxDUmNtdDJLLUxIeXl2SktaTkg1Z1RiUXlPb0F2ekhoSHUwVFJmcEdHSDB6Z0RGdHV4M2k2a0g2dEcyQ0hGTkI1amZ0OC0ySQ?oc=5",
-"source": "Editor and Publisher",
-"published": 1793375887.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "48de192ee9323249",
-"title": "Phantom Blade Zero Day-One Patch: Get Nvidia 617.42 [2026]",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOa05kdWNlQVZQdTR4UTREWW56LVJhYzBSanMxNUdXLWl4ZDlqODJfQTFMSGpIRkJCcXhZR0c1eUVQTmcxQm5mOGVWWVdSa09XVjZyRnM5RWtYNEgyRjItVFg0d1I3dUZYZm5wQzBCQ2h5OGctY2hsY2M0RkEtWnl6TzBFMGFCc1I5V2dOS3JtVQ?oc=5",
-"source": "shattered.io",
-"published": 1793375770.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "1692bdd8cc4057c3",
-"title": "Italy Backs EU-Wide Tesla FSD Approval After Salvini Speaks With Elon Musk",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYWF5dUVPb0VXV1YwbGd3eFl4bjdQeVRLQ3NvYXM5R3B6U1A4M3kxTXc3SmMwNDFBUVJRWUcwcUplbG1kWlhWU1c0WC1JallLdE5GblN6eUFsbHZsN1RITjZnT0U1amM1bEEwUVNzMGllR2g1QmZjcDZfNnJVSnRCVFE0V0VPSGp4WnNOYVl3WjQxeXFRcDFpdkMtSlFNZ2FZWTk5dmdVM1dRNnpEakJoTXNxMA?oc=5",
-"source": "Not a Tesla App",
-"published": 1793375760.0,
-"stocks": [
-"Tesla (TSLA)"
 ],
 "keywords": []
 }

@@ -1,5 +1,5 @@
 {
-"updated": 1793478122.5106084,
+"updated": 1793480368.1552472,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,12 +73,84 @@
 ],
 "items": [
 {
+"key": "f380ce5dedba0817",
+"title": "Nvidia forced to dial back key bandwidth targets on Vera Rubin hardware — tweaks will affect target specifications for memory and interconnect fabric",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOXzlYV29WaUlYam1mSjJKaFlNS2VBbmFnWWlOckZjdzlNN3A2Y3RjSXpjZjBTaE5SVUQ4TnNVbXhTYWZCRFFELXBsQnhuSGgxZWVKcGdvd1pOT3lSTXhXbDZPMm80NnBUaFg3V2owUWhLU1ZiTnZrQkNhaDMzVXNnNWw1X2sxcXlhd01IczVET3hJVkcyN3p3cEdEeDBRNlFyclBvbTV4UERIWldpOFgwNXhfb3dGMnZyQkhKbEtSWmx5eG5ockdmU3BWUTBnOVA5elhNbERtYktrT0hPamhHUGtSWnNicVFjM0tYbktsOHZ4NUNpQVlxQ0VUWWJrMEJxOVpPRmMyRDI?oc=5",
+"source": "TechRadar",
+"published": 1793478900.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "f4befdbfa054b51f",
+"title": "Nvidia quietly gave RTX 40-series owners a new frame generation mode, and I measured it on my 4070 Ti Super",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPSzR6UEgxUFI2eFBCTUVmRm1GMUhHTDJZMGwzdnZSRjJUU1VuNEdVLUdnOFZDaFZ6TE4yUU1iYm4tRjREZWkwZlgxSnpHVWk4U3BGXzZHQTFoOHUxajlNdFpLSl9JZEp4QkNCeFNCV0c1cDZTdXlHdUVnZzhXaUM1ckgxOTdHcEFaMUJjRkZrb3l4dURMUHhTaE5wY2NFeFljOWNWMk04TmctdEpwYzE5OFhZYjdqWGtSZWJJNnNpbDJpTWZ5dTh1VVZBSlRRUGVVcDdKMUdncU5lc1IweUlMZTN3?oc=5",
+"source": "XDA",
+"published": 1793478620.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "7755565b0525c255",
+"title": "Tesla Driver in Mexico Makes His Model Y Fly [VIDEO]",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONlRlbjc4WTV2VHYtU2FHeXN3alBMek5iaENJWEVrcGpDXzNid05JckppMU9aZTNVbTdiSkFOSHZNVGdPd3NOQUxfNWlBZTJMZGVVNWpxSDRzNXN0RU51Zy1ZcldzZTR5Z2puZWp5cWI3Z0lxVDJyVk9JT0hwd0Y4eWFtMXNNNUthYml2ODhVZ0ZITFU?oc=5",
+"source": "Not a Tesla App",
+"published": 1793478300.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "d78661326dceaca1",
+"title": "Meta Platforms (META) Delays AI Scraping Policy After Publisher Backlash",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVFZYaU1YQVU3WENLWVJyU2R2UlJUSk44cTV0am91a0FQN3dUbU9qLUNsOWxCWnJDalZJYmJVb18wYWRDb0NtejRlLTh4eHJQVW0ydTJnYUpZOFZkT243bElPUVRHU0JhWUE3QmNlcXBCY1M0YjhURkx6eGNQN29BdmtLWlhPcktWSFRRYUJKV3Q3cXBLS1Y2czk1MDZmX2NvYVRzUEs4UmdLMUtZWWJkQzR5YUZrOTZ0LTZEUzlFelJfeGxTWVdoVXd30gHPAUFVX3lxTE1JYU5pemttMUZlaTJvUGRTN3hBU1duZVdUckJuY1JEa1llZERreHp3Qko3QVpSWFpSUk9lbVJ3dTVOUWRudlNzYzM3TzVPZFNIdS1BTVlqZkNtTzV5WGJrQy1QdGpqaTV1LVk5eHZKTjd1VTJXV250ZjdKZ0lwc1VaNlJEd09TZmZVRnM0YlZBLTA5RFg4dW5ZM1Q5Q3E2Rzh5aDhqbW5PYlg3OUJjcGVDSUV1cVUwOG9hMEtvRElDd3ZSUmdaVlA5Z3pRczFpYw?oc=5",
+"source": "Simply Wall St",
+"published": 1793478105.0,
+"stocks": [
+"Meta (META)"
+],
+"keywords": []
+},
+{
+"key": "561f7c99784d64af",
+"title": "Stolen Bitcoin from Binance Hack Exceeds Tesla’s BTC Holdings, Nears SpaceX’s, and More Than Doubles El Salvador’s Reserve",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQNmFwQWxfSXc2N1MxenE4U1I3SGVVQ2pzaGtpSlVrYnhtRXZDbEdEWUxnU3o0eVhHOUZrc1dxVVRTR0c1TWd2LXVjS0lWUU5zQ2hLa3Q0UmE1OS04NTBzbWRMU2lVU05rRXBEdjlvTnZ6RkFCUU1FZGVPeDc3N0RISXBvX0xMOUZJM2swWlEtcUtBMlpfS0lrTzRhRFhfZkxta3FveE0ybmc0eVh6M3Fsd0pYUHZid0hXVllMYjFlWS1IaHdHVHVLZHFYODRfdFRPU2V4QWNBRVpNNDlhSUI5Wk9rRGtPMHhMbElPQmx4N1RFUjEteTBWUXBn?oc=5",
+"source": "Crowdfund Insider",
+"published": 1793478102.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
 "key": "76c2fea5325b0493",
 "title": "Nvidia B200 Costs Up to 2.3x AMD MI355X per Kimi K3 Token",
 "summary": "",
 "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQ3F3WldrY083RGpjYTlpRXlSVHZCZy1QcUppZ2N2UmpwbXlJUjJwcWx1NUF5TV9ZT1VDRWxmbU1qSWFsbEtTZGlSSEI1OXNaNEtISTlXaUpKVDlBal84ZEw0UE1QeGxGOTdNN2ZYem5sLWpvcHRnS1JURUdMaXlnUkhJQmhhdmc4YU43X1VB?oc=5",
 "source": "FourWeekMBA",
 "published": 1793477105.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "facbe4b6d69ea3d1",
+"title": "Nvidia responds to report that its CEO was allegedly targeted in Chinese spy plot - ABC News",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNc0ZmOFFSRW9GWFVnVnhxYkNlUnpDNWYxdHBVWllKUUcxa3JvUzBaTUtOYl9pMXRzOUVuZkZCMG9sal84T245YVR6UkZsVmJqU002OTdqTFJKeWpCcTZqOENqb1FfYnhVay1sMmlUdnl1MjBFdEZvalpncmY3SUQwdDhaRWZweEZGSWZvOUxzazhIUmdraENZd1F3WG02QdIBowFBVV95cUxOc3M5UzJYS2tweVEyYXhwWnV2RUJLSXdzbXJ1ZWFNNjFrMnI0T092bTBUV3pKakVsTTZYc3BSbXpEX04tdGt6Z3ZxM3Z5Y3liV0dPUzM3YWFLcldtVURsVmNKczhVUldYamltZEY2NXlscjA3X1lhRGF2cUJQSEh5anlCak93WlFsMUtBZlB0a09pdmxncDJKRWVMV2lRTEFsaHk0?oc=5",
+"source": "Breaking News, Latest News and Videos",
+"published": 1793477025.0,
 "stocks": [
 "Nvidia (NVDA)"
 ],
@@ -273,6 +345,18 @@
 "published": 1793469960.0,
 "stocks": [
 "Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "fc98687c01893910",
+"title": "Microsoft's DirectX update could slash ray tracing memory by up to 90 percent",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbFduQkd2bGdpc0M2YUNzYjBQaDFuTVpfTWxVVUlxWVg1WncxZXdtNFJUa1k1UlRoUzlSdVlHblNtOTl3U05pS2QyR3lmM3JRWDBRQjMxR0dzdUFfMldpeDFZWlBIVlBDLUIyZ1hrWlZJZlpWb2RFZkVfUmlEeHZTMXBxZWlHc2tJU18yMU1yUmFvVUdIeHNQWkpTZGx1QQ?oc=5",
+"source": "TechSpot",
+"published": 1793468700.0,
+"stocks": [
+"Microsoft (MSFT)"
 ],
 "keywords": []
 },
@@ -682,6 +766,19 @@
 "published": 1793461558.0,
 "stocks": [
 "Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "cb66d4883cbbcd33",
+"title": "Tight reservoirs: Equinor and Aker BP sign agreement",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYMVBPQWJVY056SGZZMkVSRTlvdFZLLU5mMGttSHNXMG83R09TWFN5a0pPSFFVa0hBdTE3MklfNGI3aUF2ejRkVm5VM2lsOWQ1WmdYaGRUT21RVUZLMkNYNTFWemdLWUpTd01aYg?oc=5",
+"source": "Inspenet",
+"published": 1793461500.0,
+"stocks": [
+"Equinor (EQNR)",
+"Aker BP (AKRBP)"
 ],
 "keywords": []
 },
@@ -4789,102 +4886,6 @@
 "published": 1793379050.0,
 "stocks": [
 "Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "5059229222abe304",
-"title": "Microsoft Touts New Accounting Capabilities for Copilot",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbGd3bC04QWtHN3UzZnpOdnE3ZjhZdWl3MVVmQXVmTDV4bkpkVUJCU3cwektFczdEenoteklwaFJ1alFuaGhnWnZGOGNZNjBnT3paZ1I1RVQtSDZ1cmlreEpHRGtDSlBWSHNVNi1MVEtac2FEZWYzbkV0Ul9QUEVvQnFTYlVSMGRaRGVkX0t2bkRfSUE3b2tfX00yWlpDaTBacTVXU2FYYndKVkh3?oc=5",
-"source": "CPA Practice Advisor",
-"published": 1793379016.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "815f73a7591f6507",
-"title": "A sell-off in A.I. stocks accelerated on Friday, as investors fretted about whether the industry’s debt-fueled spending spree still justified such high share prices. But the broader market showed resilience. Read more: https://nyti.ms/4ioPMrD",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaHV0YWZyekhSN3BUUWtfbkl3cThWZ3NJS0M4OWc1emRKVW5kcHlXaC0wX1FvTDdMUExzSTE1SkQ1d0VCY0JBWlIxellmRFNnNW9hSkxWb21aVEFPUEoxWU5EaUw5UTBYRXNXanhUeGJ1SnpLVmF2eE9iMi1pTVJudDZxMS1PdXV6aVdJQ1p0Rk5JQUdhQ0xnQVUzNkw4UklTRUFGR0ZHaDdfbUl4ei1MQ1dJbUl0ZElGcTVRb2w4V1dPNUtjSGNjbkQ0Y25MeTZneEdJ?oc=5",
-"source": "Facebook",
-"published": 1793379006.0,
-"stocks": [],
-"keywords": [
-"sell-off"
-]
-},
-{
-"key": "7ea5efb5fd1739e8",
-"title": "Why are Oracle (NYSE:ORCL), Meta Platforms (NASDAQ:META), Amazon (NASDAQ:AMZN) and Alphabet (NASDAQ:GOOGL) outspending what their cash flow covers?",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNdEZ3VEJsNFBHc3VsLWtONXhBb255MHZvblNKSFZ1bG9SNkU3d2dKbVNWeENPWGVEUHJWRHZMRHl3S3RIb3JqLXNXYXI1dk5ydHM0QlV2Y1JTek5LQ1YtSXNHeEY5SWlDSy1MdTFfTWtwYlZ0b1Z6aExDNEVQNHNuV3hYM0Y3QWhaWGQyYWY3c1lkOFY5bkU5d212Y1Bqb3p4azZIS1JaN2ttbGcwV0tVV2NLVGxJanpVSzBYSGhlQmRVaENZTDgyVHZFaVBSRG5DVHVDdEtncl9Bb0xvaEo0RXNJWjB0TXlVem9Dbm9NVS1fNkFIUXA1VmZBYVJDZw?oc=5",
-"source": "kalkine.ca",
-"published": 1793378760.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "6a82c5251ee7d0a1",
-"title": "It’s Time to Revisit The Nvidia Vs. AMD Debate",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMFBhZFlXZnVGTnVRSkk4YU9FNXJDQkRXNloyckp3ODhuWGtRVE5WUzJnQ1lfMGZUb1lLN05ITHVKMTgtUDVxLUxJU2ZORTQzX1FjQkpkSWVDWmpVSkMtQTZvQ2NOWkQ4QXZiQ2lENlNrZGJkdlMyT09kR19nTFpiQ0laWGI0c215c3FNcXNJTHNQeDZ5QXc?oc=5",
-"source": "Yahoo Finance",
-"published": 1793378733.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "3b4d8c2ef218cf14",
-"title": "SpaceX-Tesla Deal Faces Major China Problem",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbnZlTWhQaUZpeDd6ekpYdjdMTFQ3blFMckZ0b3VLSmQ3TXMxekpYeXpwbUtraXAzYnp3Wk1nREhNVU1WMjFaVVR5WDdzLWRPOUFBMGxmSTh5aERKQmt2bnJfcU9PVWNGSGlFdm5WRGNTTXJqaXFRTFpwRVNQZUJMSGtlMWlPTXA4?oc=5",
-"source": "GuruFocus",
-"published": 1793378729.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "92184d9f49de76dc",
-"title": "A Good Friend's Tesla Model S Lease is Ending. Here's What I Told Him to Get as a Replacement",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTmdENng1YnpEZGNseElVQ09qNXpkZURYTEtvc254dktfVGtEY2plcUozcVVTTjF0X3YybFVIa21NRXJSanlSTEpoWHdyVlhKSkhsWUdYZm1XRllaakFSMmlwOG53QmlTTjZWeGRvZ001MkFSazZITXhJOE5GbU13NkpxeXdQaGc3X2xrMnhZX2ozblBkeVhuWHVmY2hJa3hJYTZYN1hqWEJKOUFOcDhSMVNXcUJRejljdkVCNHpXRDhOZw?oc=5",
-"source": "Autoblog",
-"published": 1793378700.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "f802f4ff782fc54c",
-"title": "Tesla Stock Could Rebound as These 3 Growth Drivers Take Center Stage",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeENQeHVIQ3pOZDdFZEtlSkV3S2gtcHphNW5iMVdZci1uSEViZU5sYk1tOVhCRU1JeGFNMnpMeWxvQ3NDUFFuUDVhVFBBZ0dXRlRPZ2lFcTVlaEVXRUJDeVFUMHJoR2M0ZnNuT0NDVVpUZkJzQjdZSHJYUnpYR0ZSTnF1MGxmNThGc2RuZ2ZkNHdab2V4M09XcUhFSENjVGNWZjNVVFFvUEFmYjBOcnJQNVdzdw?oc=5",
-"source": "24/7 Wall St.",
-"published": 1793378295.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "182388d4e2e68ec7",
-"title": "Nvidia: Time To Lock In The Profits (NASDAQ:NVDA)",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYXFJb1p4X09jV3Y5R3V5bU9XZFpRVXI2c3VyanpBaHVvcHpfbHpyd1VYSzctdU5NSFJFdHk0Tk1kVWpfbGYzeFFibTV3T2hKcC03Rjh1SXJXSEtlZVU2cDkxeHU2emZZUE1KRHpDMWxZbk1PUkxBTDROVzh3OU1KeA?oc=5",
-"source": "Seeking Alpha",
-"published": 1793378020.0,
-"stocks": [
-"Nvidia (NVDA)"
 ],
 "keywords": []
 }

@@ -1,5 +1,5 @@
 {
-"updated": 1793488990.9690669,
+"updated": 1793490982.4427893,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -72,6 +72,18 @@
 "Yahoo Finance: HTTPError"
 ],
 "items": [
+{
+"key": "dc58ca597246060e",
+"title": "Form 4 NVIDIA Corporation For: 31 October By Investing.com",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWFNaeGlCVEdCUG1aYlJxRWdwYTlYaE5LcE9EUEZVc2dkOHBnc0FIRkNpeFctNWVEQXJiNmJJNUQ3UGk4Mm4yVF9vaHd0V2Y3RTR0YklnbklqYmQ5ZEFtSlJFM05XZ3dyeUFnWDJoZ2hLQ2NzVHVBSVJrUnJsSkhlenZKVnNrMkYybDVSeVlDWFh4VFA1Ulh1YWlLNFhkM0hxS2pJ?oc=5",
+"source": "Investing.com South Africa",
+"published": 1793487466.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
 {
 "key": "5c4c1afca2447e2e",
 "title": "4 Important Features You Should Know If You Use Microsoft Teams",
@@ -205,6 +217,18 @@
 "keywords": []
 },
 {
+"key": "2854b964ffc24dc5",
+"title": "Tesla’s Optimus needs a brain, a battery and a whole lot of aluminium",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNT2VoT3NaMTRfQ3FhUlBUVmdSZnRQeExvQXdqVUNPVExjdkJGZ0VLYk9MOTh1TnUzUDJPajM1eEd6S1Jzd3NjYkIyQURXNzRiMVl6RVZSX0o3MlRPbHkydHROZkRlV0NmMmkwaUQyS3JJaW9rdW9IdmFEZXNxVDFsZVJ6YkZTNW9TMkFITHRfb2pLbnJIdHBfSmVhWWN2VEJQcEJ3OG9yYw?oc=5",
+"source": "AL Circle",
+"published": 1793479500.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
 "key": "f380ce5dedba0817",
 "title": "Nvidia forced to dial back key bandwidth targets on Vera Rubin hardware — tweaks will affect target specifications for memory and interconnect fabric",
 "summary": "",
@@ -213,6 +237,18 @@
 "published": 1793478900.0,
 "stocks": [
 "Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "609cbe5124118c64",
+"title": "Woman Gets Her Brand-New Tesla Delivered. Then She Realizes It’s Damaged",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5GV2VBbjJtVF9oRGdtN25tcWgweEVhcS1PNmxrUURpbkdBWF9fT00wNzc2amJmRk45cGZob1E0Y3RsbnJtRk94OFF0LW5VRmRkZUp1QnFHWi1lV0VBWnRna1AwcGlMSGlMV0tR?oc=5",
+"source": "Motor1.com",
+"published": 1793478791.0,
+"stocks": [
+"Tesla (TSLA)"
 ],
 "keywords": []
 },
@@ -337,6 +373,18 @@
 "keywords": []
 },
 {
+"key": "d8069ed10f377c80",
+"title": "Nvidia RTX 5090 Could Be Discontinued as Micro Center Marks GPUs as ‘Not Carried’",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcmJQZDJvVW5mXzk0d1J5QmwyRUI5M2c5NGYxaXN6Qk9XcnR4TEtVNVRFaDhhWDVFQXhmZWljUEExZDRWbi1TdXpNdU1sT3hNdzZiLU9qYXlNZEVZZUp3YjFKeS00MVU2UVhESlVHNW8zbXlkWjZtajllUzBOVUlNdXhqeTU4Mk10Z3FKZU02OG9nanZnOXN4VVhuT2N3MnJsSzdMRklNMA?oc=5",
+"source": "eTeknix",
+"published": 1793476922.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
 "key": "41ca851250d1a08e",
 "title": "What Happens If You Use Tesla's Emergency Drive Away Feature",
 "summary": "",
@@ -369,6 +417,18 @@
 "published": 1793476780.0,
 "stocks": [
 "Aker BP (AKRBP)"
+],
+"keywords": []
+},
+{
+"key": "95ab3c063fe3d7e8",
+"title": "Apple Inc Single Stock futures (SAAPL=F) stock price, news, quote and history",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE53V1FmdGF2NWRMa0xOOU1oVldoVnhacW9nVFlLLVBIQnN4eC1sbTg1dHd3MVR0MmZCV3NSelBrTkp3ZDdkemlnZ3NXQU94OFJuYjhfRWpkR3M?oc=5",
+"source": "Yahoo Finance Australia",
+"published": 1793476696.0,
+"stocks": [
+"Apple (AAPL)"
 ],
 "keywords": []
 },
@@ -4828,66 +4888,6 @@
 "Nvidia (NVDA)"
 ],
 "keywords": []
-},
-{
-"key": "7bb793e2102416f8",
-"title": "Nvidia denies report that its CEO was allegedly targeted in Chinese spy plot",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUVhuUjVBR3o1ZzZkcmtId0hvVTR0OEdIR3docGdWMW9FNGNCZVlLNzduTDFYdkxnUGJ1d0xDV1NjX3FrblVHRWU0b0R2ZGJpSVlBd3ZsMU5xdGpLNl9pOHFHZXh0bDU5dUp4UDFmU0ZDQUROX3dNWlFEUEhDRmotaWlSdkdmZjlnZ2RpZTFzMGFjWDUyZW9XOElGOVlFZw?oc=5",
-"source": "WBAL News Radio",
-"published": 1793381299.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "0decfebf34834766",
-"title": "Microsoft rolls back a Windows 11 design change with latest build but says it's temporary",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNTNOX1ZPUVptemNvVlZTVU5velRXMjByWklwUEtiRXdBNVdyaTZDWjRIWkt1YzVIcGJNSVRiNXA3SlRhOXlRa3NldWo2cFJxeVRfMFNrTUxHUkFtYkw5azl1ak01WTFWeENoWXFRR2JOcmJmVER3VmZ4QjBydkhSSDZTek1UOWJXbmVvNXkxMzQ1U0liRlFBWk41TGUtY3kwdW1lYnlhcHRUZ2ZqNHZ5NHp4RFJFSGVK?oc=5",
-"source": "Neowin",
-"published": 1793381215.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "eeda32d8245bb3a7",
-"title": "Wall Street drops to its worst day since June after sell-off for tech stocks deepens",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNT1RkeV9ZZmRFbHhvOEozdGxFYW1CQ09xN0laUTdyNWhKano0eWpwLUZuWDFzS0pWTVpnX244ZFFsUFB1UlZ5bWc4SHhaMG14X2lTdm1jWFJsMG5lZWZmSGZTdHluOWVQbDBydll1V2k4bGljZUxMY0l6RGJ6TWR1dFlZaUM3M2hWc1lsVzRrdGw0Q29DbWRSOHRaWmLSAaQBQVVfeXFMTnZHc2lkd0RCR1ZVR2Z4Yl9zYkNjcXRCanhvRnRzUEJacmE5YWs2Mlg4QndCQmZrTjNoc29SenVTMUpWSTBidERtalpCSjF3RWZnWWxTbmdWVm5mVVlUTTBEYU9YZ3NsZHlPU3dIbmlEZlk4bUxQNVVLb3otTTBzS2Z6cnhJdlRLb2N1NjVmbFhkTXpQNVA1ZkRQalVXcEFKZi1uMEU?oc=5",
-"source": "NBC Bay Area",
-"published": 1793381089.0,
-"stocks": [],
-"keywords": [
-"sell-off"
-]
-},
-{
-"key": "349c2549290cada5",
-"title": "NVIDIA Corp., Goldman Sachs Share Losses Contribute To Dow's 500-Point Drop",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNX3phdVRZUnJpSnN1RXExbUI3WVQ0cDkxazIyMjJFQjM1cFJYZU5kWHQ3NXdPMnhlSURPSVZNSFhMQTNNT3Z0dlh0R3M3Y2doaDJBR0dIdTcwV2pHQjVXVXcxVVRkaXpHZjB1b2pjek45T1hnOWpJVVl4MWZ0eVB2WkVZejFXc3g1OVkzUm5KQ3JWWHdvU0dwdk12bWtBc2QyclBxaw?oc=5",
-"source": "Moomoo",
-"published": 1793380920.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "79f778829a146992",
-"title": "Tankers defy sharp escalation of Iranian attacks to keep crude oil flowing through Strait of Hormuz",
-"summary": "Soaring freight rates are giving tankers a big financial incentive to run the gauntlet through the Strait of Hormuz.",
-"link": "https://www.cnbc.com/2026/10/30/tanker-attack-strait-hormuz-iran-war-oil.html",
-"source": "CNBC Top News",
-"published": 1793380907.0,
-"stocks": [],
-"keywords": [
-"Hormuz"
-]
 }
 ]
 }

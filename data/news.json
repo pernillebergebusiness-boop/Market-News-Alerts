@@ -1,5 +1,5 @@
 {
-"updated": 1793407716.0191467,
+"updated": 1793411162.6889,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,6 +73,56 @@
 ],
 "items": [
 {
+"key": "eecfa8c52a304fce",
+"title": "NVIDIA RTX 5080 24GB model is rumored to replace the 16GB model in China by January 2027",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQOEVhQmVjSHhqOE5pXzBsSlAxSW9peFduSTRIRzVvUU9uMGRkT1paVEk0NXZLWDRJcTRwaG5KRm1WQTlSbVBCc3hkeGRDeE5qZW1KWFBMZWRBeVB2ODNMdTJUekdoMnpwaUw3ejhnM1ZPLW9nMGttbHZuQ1ZBQzFmY0xEa2VtdkpYd1BtYi1qaWd6VDNpZE9DT2x1bmQ3R05wTENHNy1vNmhZNUx6S1RKakZmOXRraWR6SVd3SXBsbHBjMUJHalVJd2pkUUwxRVRqeDluSVVfUHpXVkpPdFNRZE5kaHF2VUVKcGhWVWVtT1FQd3hKVVJwdVQ2YlFjbHVrWjFIU3ZVYWtlaFdpTGc2aGp3VU1iRlE5?oc=5",
+"source": "TweakTown",
+"published": 1793410873.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "1d9530f1851ebe6c",
+"title": "Nvidia Eyes Cosigning Nscale's West Virginia AI Data Center Loan",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYmZ4TGNIeWxBYUxVSzB0XzZhaC1WYkg5ckF2Q0I1SnR1cDBMczkzZ3F1LXJ0eHVaUDBGTXR1Q2FDNi1TdUJsNWM4djN4WFpxMlJSbmFnTC1ibUNoYXRiZmthUkNEVk1YNHREdUM1RnZqOVNIYzBSNlZMSkdLQWZqX1ZMaFc0YTJDc2c0U3kzTzVXTDc4cktuZWo2MnBNZw?oc=5",
+"source": "The Tech Buzz",
+"published": 1793410080.0,
+"stocks": [
+"Aker (AKER)",
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "16b783139a831dbe",
+"title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZGNhWVNJR0JZTnVKVlM5RUZFeGdQZDdMMk9yODB0ZTlGSXRnYzNZU2hVbXBLdVdWbGstX3RPYkphd190d0R5N0VKN0RabTd3aW5OSUI1cHVsME9vVno4Nm1LY0lTV25qZE5EejNqNm91c1dvbVk5YnctUUowaUJoYTJwSEhCY3BIYV9kbVZ1U1RKNTk5Y3NqVDR3YTlrdXZDOWd5ekVvaDdGSzV0aVA5OUFxcw?oc=5",
+"source": "TechCrunch",
+"published": 1793409605.0,
+"stocks": [
+"Aker (AKER)",
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "d39dad4bd6c9e176",
+"title": "Tesla is ready for Halloween 😂 Writer: Sol",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jb0VzeVlFZ2t6c1JsX3lpVU1ua1NWSnNUeURURENGNVJVcEVGQnpSUUNNaWdEaU1HbXV4amJPYTdoaFE0RGdoRlFNVUpWd20zcG5tWEVOMTVqQ0J0ZElaXzRGZExNSDZyRmwyeQ?oc=5",
+"source": "X",
+"published": 1793409300.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
 "key": "733d6a214fe08cde",
 "title": "Washington governor rips Microsoft over TV ad in leaked audio",
 "summary": "",
@@ -85,12 +135,36 @@
 "keywords": []
 },
 {
+"key": "05d63955fa708214",
+"title": "Kongsberg Gruppen ASA (KOG.OL) Seasonal returns chart",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE55cWo5YXFaVXc5Qjd6YzZpUnNfS0xTa0w1UURNbjhOQWRLUXVFa3QxV3dfRlVVSEVRa2NablFkc3pncDM3czhJMlh6YW5tMzBMRDkzZ2Q5TEhtYlFYWUljcExHSUE?oc=5",
+"source": "Yahoo Finance UK",
+"published": 1793406151.0,
+"stocks": [
+"Kongsberg Gruppen (KOG)"
+],
+"keywords": []
+},
+{
 "key": "5916c05cbe185dfd",
 "title": "The Quantum Race Needs Tesla’s Engineering, Not Tesla’s Myths – OpEd",
 "summary": "",
 "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMkxhRDBtaVJFaVlQVFNGUXdidEF0NlVWOHA5XzhRcGgzZ1dBR0N4dXhvS3dvOHlQLU9QVDAzSF9vUmtUM0traEtqM3FodTE3QjQyVEJrNXp1N3ZCNm9QTnlOWkFTeHdwQWRHaWlZVmNFTlU5eFF2cGRqSkt5NVQ0aEJoSlJ4ZzV5Mm9ERFRCcWdraG5QLTk2bTh3MWFabmZ4bHJGc2pn?oc=5",
 "source": "Eurasia Review",
 "published": 1793405770.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "c947cbd518ac3c8a",
+"title": "Stocktwits Zero To Sixty: Rivian Raises Delivery Guidance On R2 Demand, Tesla Expands Robotaxi Fleet, And Ford Advances Low-Cost EV Plans",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPLXhSVXdhZ1RNRVdGbWFtSFN4dWtMWTFHS1FqYlRGZFVVSDFpc3lYTFRXZy1WV0Z3MzdockdxVi1ndDJTLXpoZjlSMXI5Yl9vRkl5blp0cDVuUF9kWmx2RkVBWDVreXo5UnhNUGR0T0NLWHo0UmNvV2hXQmh5WjI1SG5LSEwwbzNZZnlocTh6YV9uTGpYY3ctb0RrRktWTjJoQWc?oc=5",
+"source": "Yahoo Finance",
+"published": 1793405400.0,
 "stocks": [
 "Tesla (TSLA)"
 ],
@@ -157,6 +231,30 @@
 "keywords": []
 },
 {
+"key": "32ecab1e20095e26",
+"title": "Cyber Resilience for NVIDIA DGX Station | Absolute",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE10cUQ5S3NmRXpyaWtUcDc4YWZma1VtdmhwSTg4eFNSR0NXbUQyRWhacG9nS0kwQXQzTGZ2V1QyMW9YX0Vjb3JvdHZScW9NVHg3b2RpRGt2dzROV3FIMXdlajNLenRJTGY4bDczWHA3ak5TX0k?oc=5",
+"source": "Absolute Security",
+"published": 1793401875.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "77cf8b6505d56089",
+"title": "Aker BP ASA: Third quarter 2026 results",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeWFsYXprZWdnd1c0Z1VhUDlFWnJBNzhDb3ZRQmlZbnFhNl82dnhFUDFCZU5VUGV3S0M5Rm1IOHNteUF6SkYtS3NZSDkxUGhMbXg1dWxkd2R5SEhzWDNFSHhRN1JRNmRGQzJ0Zl9BQVBEUHZKaVJNZV90ajh0MjRoUDdFUGRrOTg2X3RzUnhaaHNuaVROMmpMUTR0LV9yQVBqaDQ2bGVGai0xWDQ0UVMzaHpfb05NM2V6LW0yNWppV3FSV0h4TmJ3?oc=5",
+"source": "Finansavisen",
+"published": 1793401842.0,
+"stocks": [
+"Aker BP (AKRBP)"
+],
+"keywords": []
+},
+{
 "key": "1ddf33964c7b5c39",
 "title": "Tesla vs. Rivian: Which EV wins the Halloween mode showdown?",
 "summary": "",
@@ -165,6 +263,18 @@
 "published": 1793400876.0,
 "stocks": [
 "Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "2aad84dd624d3bd1",
+"title": "Technical Analysis of Aker BP ASA (HAM:ARC)",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE45ZG5DVURZLTRfMUExcTRmamtXRDJqS3FqcDYyQXh3RExYektWZDF3QXdnbmRyZVVzRGlZMUV0b1kxTG42MGFzWHVta1o5cVppa0NldWN3NjNGSW85Tm5LVl9iSExTUQ?oc=5",
+"source": "TradingView",
+"published": 1793400800.0,
+"stocks": [
+"Aker BP (AKRBP)"
 ],
 "keywords": []
 },
@@ -313,6 +423,20 @@
 "keywords": []
 },
 {
+"key": "7255f5f75fbef554",
+"title": "Apple overtakes Nvidia to become world’s most valuable company amid tech selloff",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUUo1UnZMdW0xT3RnTUhWWlpJMU9IendfMVpXcGttWTEwNHVCa2xFQVRzLWhvOXUwTTRLZkI4dUpfb2cyclVNQzhBODFwbENRRzFPcjB2MnRISWhrbkVNV2VLc2IwWVRoRFNub3FzX0JWclBiTml5VmRSa3FOMHVYaFE2bXU5d1hubjN5Zg?oc=5",
+"source": "Yahoo! Finance Canada",
+"published": 1793397009.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": [
+"selloff"
+]
+},
+{
 "key": "4c93b6ae84804676",
 "title": "Apple overtakes Nvidia to become world’s most valuable company amid tech selloff",
 "summary": "",
@@ -409,6 +533,18 @@
 "published": 1793395620.0,
 "stocks": [
 "Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "273041f73b019fd0",
+"title": "Leaders from Wolters Kluwer, Microsoft, Salesforce, and McKinsey",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOV0ZuWVAxSXQ3NU1WWGJxNGNINlJCdEV3UUpxR183d21JTzVoQjdveVJwdTFPbmY1MUJuS3A0OGRhVUxhZWduUWE1b3pVNWgxVTgwV2o1MHpiQWZmd2FTdENvZWIxLTdSa0Y0cW9PelBqRkoxbUFxeXl5ak1FeDlVUEd5VzRCN0lDSzV3dWRZWnNKVzJpRk9nVDY4NmprWlZQMlB6X1BXcWlUUQ?oc=5",
+"source": "The National Law Review",
+"published": 1793395508.0,
+"stocks": [
+"Microsoft (MSFT)"
 ],
 "keywords": []
 },
@@ -616,6 +752,18 @@
 "stocks": [],
 "keywords": [
 "sell-off"
+]
+},
+{
+"key": "7ed3cd76465a388f",
+"title": "Wall Street closes sharply lower as AI cash burn fears spark tech selloff",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUTZNOWZiRzFmQUxta25VWEhIT0dYTFVnZ2VLUWlNTDlleE9hTmF6ODNaeXRCSnRXMEdOVENiTVQtNndFUUNWZDdmY0M0UUVaUVR6c0tMdktWcmxJMDItT3dPbl8tcGhSSm0wZ2lRa0RjLW81Ri1RTUlRX0tOUDRHakNwUDdIVFZIc1hMUVBrVi1CY0RRNU9xZmZVU202QQ?oc=5",
+"source": "Yahoo Finance",
+"published": 1793391825.0,
+"stocks": [],
+"keywords": [
+"selloff"
 ]
 },
 {
@@ -4742,150 +4890,6 @@
 "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOeGUtMk44NzRSR2E5VXZKZWdCejBpejNNMkRlYUpjN2g4bEMwTFJpTTByM1g4Q1d4QndSaXM0YTlGSEtUbjA2ZWRmQ3Q5YnJkY0kzZWFiMjI3bkFubXJ3RG1lNFk1aUF2aC1vbno0MmJmT3JDSkZwZWV1RmlxWkVra1dOeG03aFppRXBReU5TOE1ZYTVPTDZkMlZ3ODVBaHlyMTdieGVuRGJrekk1MFhmWkhWM0pId0FhYUE0ZzQ5Rnk1ZTZCOVVUNHJ1T0xsbm5HVVZwQnk2WS1yQjNzUTNfWlFlZzdQdw?oc=5",
 "source": "marketscreener.com",
 "published": 1793353485.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "443a016cbd12022a",
-"title": "HSBC Adjusts Price Target on Microsoft to $628 From $595",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQT1R3N0p1VW01RnZ2bl9OaGRVY1g4blJ0QkZqa1lCVWNMNlN5M0hNaGYySWpYYlFRZnBaLVhYUHFqRHlFc2R6VEJ2ODA4Nklqc2tkVWZsM0E5Z3NaRnd0R0dUMG5MelVWNVY5R3J1N2FvZFNsblVJVW90YkZ4UVNnZXA1TUNPZTIxR3lPbVdYT1ROOWN2RW5CVXgyellIbUpVM1M5UDdyZEJQRGs?oc=5",
-"source": "marketscreener.com",
-"published": 1793353468.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "0a60db0f0e2a56f3",
-"title": "How to Export Advanced Hunting Results from Microsoft Defender XDR",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQa0Jmc1NRQ09xMEQtQWYtTDIwODhzWUZOT0RJTld2Smc2SVI1aWRueFB1MU5KVENRRXdQQnVwT2NRNWR0SFlIb01uTHB2cUhxdEJhWXBfaWQ5V0g5aG1NdkdRS085dHJYWU9FRHQ0SEZsaHVsY0RaYTVFemFuS2ExbmRleVlHQjdNbnJJVGxCNElDX25pcDZhZA?oc=5",
-"source": "SOC Prime",
-"published": 1793353063.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "a96e780e33390fcd",
-"title": "Microsoft Sentinel Logs: How to Export and Analyze",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1WOWJYRDJUS05oMUU5QkJyT2oteW1KUTJ6Wmt1bS10SEFmZDlOR09YektGZzVtSUI4ZnpMRGJGMjFpMWlKZUlFN1BvNXJCSUl5YTFzMklkVmgyS09yM1BwYzZSaVg1eEYtZU11MV9DdTRLeFd2SW5sUQ?oc=5",
-"source": "SOC Prime",
-"published": 1793353063.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "dbd8bf929098e1a0",
-"title": "Abridge: NVIDIA, Lilly and the Clinician Intelligence Push",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZXZHXzZkaENGMllzR2lTejQ1eW5tX1dmYU5IdlJlTUNvT0xma1BPMEFNYmtZY2w5U3Q0ZjlSZkc1RlZ1bUc3Qlk4UFdBLWdtbWFyR1l6alJpQWlVdXEtOFI0SXZHRnQyUmY0UWN5cE9xLV9LVnFnWWh6emplTE9DTHFWdmJ2N0hRTmhYNg?oc=5",
-"source": "AI Magazine",
-"published": 1793352874.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "dc1465c2c1e5aecb",
-"title": "Naver founder dilutes stake in $1 bn Nvidia deal to drive global AI push",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1uNDdScTFZVzR1RDVLRC1QRnpiUlk2cm11NjJMQUd3SmdDeXl0REp0dVYxZTExY1ppVnNWV185V3l3TVdFNDdnVzJRWWpkdHh4SDlGY1I1QUN5VkZqRzBiRnJTZ3ptMzhsZ2VsUE95N2p5cjFTRDNBVEYwclFtc0E?oc=5",
-"source": "KED Global",
-"published": 1793352840.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "0c6d1f7bda6d5cf9",
-"title": "Nvidia CEO Chinese spy link raises new US concerns",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5XU212S2lvaDB3WWhoZ1dzbG5uZllvMC1sczFZYlktRHFfVTRyT3ZXTGpSb1Z1TmV6WUN6eEtUUWViTW1nODBnQUFpNUEzQWhSMHlJWmo4YS03b0EyV3ZKcHFZUDV3dFJKa2lfcVhENA?oc=5",
-"source": "Cybernews",
-"published": 1793352758.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "09a03a12b981f6d6",
-"title": "Nvidia Chip Buyer AM Intelligence Plans Up to $3 Billion Capital Raise",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQa2k1QWIwVDRReU1QaWcxN1dOY2lfZXNTbGNMRFdwcW4zQlpuMEpJZTBqUENzamRmeHlBQjZPTGpfUVpNQTNsS19PcHVkcGVCcExqWDJSQU42RVFyVENqWko5UGFNREVqREd1d0RwcEhqa2tWU05Dc2I0U2ppb3d3YjBEczRDX1ltQVVvbXkzWHRBa3Bqb0txT3NXOFhLTjBaR1U0UG5YS2QtWF9nNFl0cld6QnNzMjgzakZieTk0QQ?oc=5",
-"source": "www.marketscreener.com",
-"published": 1793352505.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "9f6b794673ed86af",
-"title": "Market Chatter: Nvidia Chip Buyer AM Intelligence Plans Up to $3 Billion Capital Raise",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPakNfT05JMkZEMTR1c2FKcGNIMnBDeVJoWGlGSGNPbG0xS2RGM0RYaE9PeXhwbUZyYWVaU0dESDNNdkl0WlBIanFORy1SNjlzazJVd0dIYkVfN2ZBdzlGNWVXSUlPWHhRZVBOZHZJSl9NNXg2TWlBaEh2bFNPQU5pZm54OURLN1VVXzJ1dGRqWnpHaGxPdGk4RkZ6dHR0QQ?oc=5",
-"source": "Yahoo Finance",
-"published": 1793352191.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "8833627f0a1ff928",
-"title": "Meta Platforms Inc (META) Earnings, Actual EPS, EPS Estimates & Results",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxbDdMRXhvaDVlMXd6WVdpVUVQUFlZTC1FRFBfQ084ZzB0Skd1OE85TGFrbHlQSkJfTkU1QnkyaXJwYlJoeXI2TDR6LXdoQ2ZHUlFRWGdn?oc=5",
-"source": "Stocktwits",
-"published": 1793351851.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "ca9826f58cdb6a56",
-"title": "Kongsberg Gruppen løftes etter tallslipp",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVGdpRll2TXE4Wko0V2JNdzdrRnV1NWI0V2xSTEhUS3hQNjhYNGt2SldNRDdCNFRTT09aXzZ2enB2QVNUei1rUjhVX01OM3IxZmFuVS1odkNZMmRrcFotUFJ5bFlHZHVWWWpFX0FUcHllbmdKU0NGUHZjREtCSklscQ?oc=5",
-"source": "E24",
-"published": 1793351703.0,
-"stocks": [
-"Kongsberg Gruppen (KOG)"
-],
-"keywords": []
-},
-{
-"key": "ea0fb9cdf7effb49",
-"title": "Norges Bank holder kronesalget uendret",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQXzZySUZBQ2dpUktGTGJpWS1FYW9rOWI2RDBvUk02Nm4wM3RlbzY4MDA2clFpNEZiTHJibVp3TnU1MjVUQ0hEZ0toaWkwUUNEYnJDbHZaX25USmNoZUM4OHhOajBJWWFFcXpjdmhFSE1WWVZ6bGRUMThsWkpCbWxKa2ROcFl0RzJmMGhjY0JWdGJGTGxOdlJvOTRDVXMxajBQR3k1Ynk3LTZ4Zmd3dFlXaXRtUE1TRGpCWkQ3aw?oc=5",
-"source": "E24",
-"published": 1793351488.0,
-"stocks": [],
-"keywords": [
-"Norges Bank"
-]
-},
-{
-"key": "bf12edae1047b21b",
-"title": "Walmart, Microsoft and JPMorgan block NYSE-backed venture from tokenizing their shares",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdmxTUGphRDNWcEh6TEtwOXk4SkhZWUQ0Zkp2Yjg2emRRTDVGVWR4LURSZ0NOOU9uaUVPcmVWZk5iTFBDMDVMdUw3MzdQN093c0dDZWJ5bmRZRWZXaHpTNy15NnpVYWFEODZza2RJX3pyZzhJWEVBSS1rNnpJVElqWm9Ua3dBRFpsSFFRWmRjek9SNzhSekx1Ui13UE1hN0dkWmZwdW9JMWpEcXNNWE9n?oc=5",
-"source": "CryptoSlate",
-"published": 1793351406.0,
 "stocks": [
 "Microsoft (MSFT)"
 ],

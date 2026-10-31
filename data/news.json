@@ -1,5 +1,5 @@
 {
-"updated": 1793411162.6889,
+"updated": 1793414214.3566127,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,6 +73,30 @@
 ],
 "items": [
 {
+"key": "4b461562496c4087",
+"title": "NVIDIA's RTX 5080 follows the RTX 5090 out of its US Marketplace as a 24GB model looms",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOeUk1Q2NPak9PRGNHSW9pUHIyalBBdG1pcS1Bcl9SY1lNR2NEclNKSUM3azNHQ2I0bzhrY2ZuOG13NFVuU3RpYnJJODlEYW9IenpqT2FFZm9ab3RIZ1N2Q1Y2a0pOb2U4WFIyZEEwWDI4eWppTmk3NmNmRmlUSUtNRlJ6VkdXZmpIbEVheV9GM2xCcEIwUXkySWlfbTJBcFpNNFFWTWZfcTg0T1YzdnVNcUhqUWg2dlpnMHFDa3ZyMXBrbXNMQjVvZjN2emhtX3M?oc=5",
+"source": "TweakTown",
+"published": 1793412911.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "52d72500e3090597",
+"title": "OpenAI, Microsoft Copyright Feud Spurs Wave Of Amici Briefs",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLS1jOWxYZmJBQVdhekthVG93NXpDLUpZdXRBM3MyajJnbVBoT3B0Rjc3dG4wcy10bWF3MVBvNDA1Tm80M01FTmJadHlwcVFKakFSYmxfOWstR1VEZnNVb1I4b1p1bEI3TzUxQVIwZUZMbnpsRVhQTlFxUHNqTDFWSDNYMEMyVVpGZjQ1NWNYUDJHZzZqZXU2Zmt0MVhuZU3SAVZBVV95cUxQSXV0YmIxQUxneHBqSTdJMlZ2Skk2Z1g5RVN4UHhjUFViSEd2WmJuN1VjdG9BM2lRT2lNbmhEYkllLUg4QWUyckpTd2FDd1ozVWUzeTgydw?oc=5",
+"source": "Law360",
+"published": 1793412732.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
 "key": "eecfa8c52a304fce",
 "title": "NVIDIA RTX 5080 24GB model is rumored to replace the 16GB model in China by January 2027",
 "summary": "",
@@ -106,6 +130,18 @@
 "published": 1793409605.0,
 "stocks": [
 "Aker (AKER)",
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "44af1e8ba1c08c4e",
+"title": "Apple overtakes Nvidia to become world’s most valuable company",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RUTdrcThQdFhLSkRjT1BIV1N6Q00yS25iRmRmenMtLW1pRHN3WTBKTlJobHZWWjhiRFNaQ1JxV0JJOUN2SEJCS08tUTlvYXVqMTFB?oc=5",
+"source": "The Edge Malaysia",
+"published": 1793409308.0,
+"stocks": [
 "Nvidia (NVDA)"
 ],
 "keywords": []
@@ -183,6 +219,18 @@
 "keywords": []
 },
 {
+"key": "023462a3ba314d6e",
+"title": "The Tesla Roadster through the years",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNT0E1OEdzdlRMTUdTQ2xmVFNpQ1lFRnJNTzhfdl9qVkUtdXhuTlFVOEZBSXRjMXliYU9LcE9jbml0bFBjLUZnRnFqU1NVMTZBX29VWm11N3lId3ZHNVRMRGJqMDJGRFNyX2ROTDRvZkpZdmo0OThqNkxzSUdTWTh6VXpwRHlDeHpEM05iRTcwTXdmcjRJTEM0dVlXRHllWFdEVl85VQ?oc=5",
+"source": "USA Today",
+"published": 1793405306.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
 "key": "2eed2c635400047a",
 "title": "Stock Market Crash: Why US Stocks Now Swing Like Meme Tokens",
 "summary": "",
@@ -227,6 +275,18 @@
 "published": 1793403069.0,
 "stocks": [
 "Apple (AAPL)"
+],
+"keywords": []
+},
+{
+"key": "4e60e06e9655c747",
+"title": "The Tesla Roadster through the years",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBablUxMzZxamMtanZJTXZKUWJUZ3E0aEUwbVZGTmlTczhTQjZTNlhBbGlSMTZqZ3JEM1p6YVpURS1lN1pwemQ1Q3pfWkhLSzBlR2ljdGc3WjVwNVprb1c0Q1pzRmVhTnpjbWNORk95VWExaEpkTmNuSHNRSG9PQQ?oc=5",
+"source": "Yahoo",
+"published": 1793402058.0,
+"stocks": [
+"Tesla (TSLA)"
 ],
 "keywords": []
 },
@@ -509,6 +569,18 @@
 "published": 1793396146.0,
 "stocks": [
 "Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "5ba66a4d021b3006",
+"title": "Nvidia supplier picks Fort Worth for $1.3B plant, more than 600 jobs",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQ0h6dlB5QS1QLTMzQ1U3REVGRWx0TGtOVHg1UVE4Tmx2eEhndEt2YjhKaTFNLVBIR0lnNHdZdGJHUVhPSExUMFZTWmtHQUdCZ3lhWV9TVWt4Z1E4M1RfWkdpelNGV2pXblhTc0t2UUp5b0xURVV1NTNNYXlsQjlVVnprRDdnN3pieDg0?oc=5",
+"source": "Yahoo",
+"published": 1793396086.0,
+"stocks": [
+"Nvidia (NVDA)"
 ],
 "keywords": []
 },
@@ -4820,78 +4892,6 @@
 "published": 1793354779.0,
 "stocks": [
 "Equinor (EQNR)"
-],
-"keywords": []
-},
-{
-"key": "646c28fb41545472",
-"title": "Microsoft Corporation Planning to Raise About $25 Billion and Intends to Use the Net Proceeds for General Corporate Purposes, Which May Include Acquisitions",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNMlpTbFVaNU1TWHl1M0hwclROTUJzT0JRdXJSdzdXMV85VXhYQnNtbl8yMm56N3lQaU02eENXUW1hUlVldWxWNzMzbVRYc0xfbnFwa0JNRnkxT2tkbHVtRkZkSjJnOGFlMThVaUVsRGtDNGhjMHg4UG1tZXdySTF3M1lWbzRiQkJCN0VYRjRNbDk5cHRVN2oxOFBOVDZqZmNnd05aNV9rMVRzYUJZSmI2MW5KTFZ4VWlqbkh3UTZPLXZZSVVKeTJ5TWpRWS1nU0Q0NVBDTFd2dGVjYmxlRk9JcWE5ajU0dm8?oc=5",
-"source": "marketscreener.com",
-"published": 1793354760.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "415c448f9c6e04bf",
-"title": "Skydance rolls out RTO and buyouts in memo; Microsoft announces buyout offers to give employees ‘choice’ and ‘support’",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBTcDcyM2RtUV9qZHJ0cU1iNThRRXJrSVA5aW9USzhFSXE3aExJU1l4UXhUd1d0YW1DZUhPRFpqVUY2SS1scHYtSU9PN2xkc1RJelV1VjIzSGlJRXNOSXR0QTBQQVhaUmhwM0w0WGRpaVh2aEF4?oc=5",
-"source": "Ragan Communications",
-"published": 1793354420.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "337c6dcceb1f66aa",
-"title": "'I Always Move Forward' — John Romero's Next Shooter Survived the Microsoft Purge, Now He's Taking Inspiration From The Legend of Zelda: Breath of the Wild",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQTDg1QVFHaEhlcWVubU42OVN0dXRtb2FnUk5MQ3UyZHpkTVltU21Pa2c5VkwtVDFrdW9tcUh5QXV2Y3Nwa0NuRmRjTWVKaHdPMmtoRHNKWkJmX1BzcnF2SHZOdnpONGZCYWFlUWpzNDZZVUhZNXNIRzRWcHNzdk1Mb2dLWnFBM1h5VnJ6aVNwSWJtSFJQdmY4djFISWcwbWpFYmtuOTQ4dVFrSU91dzJSTzEwNkVXYmMwdU8tUVB0UXJiWEhQbEY0dkNMSmRUUllTXy04MzFwOTkzYlVtTnZjZklTdTlPUDA0WGc?oc=5",
-"source": "IGN",
-"published": 1793353737.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "52d7b09db7fc6485",
-"title": "AI Selloff Deepens, Oil Jumps and Crypto Falls",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOd0dCXzNIVWRZZmZVTWM2U25pX18zb0RtZlIwYjd0RUpuYzdpRUJBdl9pT3pjQkVpa29KU043MjhLOWhaLTBkUGxFZHVIcFNzWkFKQXkyMUVUakJIVlo5X3lPTlJWMGgtNFc2WDd4OE5BNkY4UzNOdjRVTDU0ZjBHZUkybEd2RkVVbHB4c2RrSl92OW8?oc=5",
-"source": "WSJ",
-"published": 1793353680.0,
-"stocks": [],
-"keywords": [
-"selloff"
-]
-},
-{
-"key": "849dc6843b817764",
-"title": "Tech Stock Selloff Deepens on Earnings, Oil Rises: Markets Wrap",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNLWZRMVRrOG1xQ1NBUE55MXNIWTFyTFBfUDBwVnUwbDRHOHNibGNUazhpRVVJamItaGc5UndhUngwMTFOLUE1M3dscmdtSDBvWUJrNmoyWnFGZ2tBcm9VZjZ5MXcyQXFuSDZmWmE4WVlheXZBeTVTci1CXzFQMUxnMkpFRXBVTjh0SlI0N0hobUZzOHh3?oc=5",
-"source": "Bloomberg.com",
-"published": 1793353653.0,
-"stocks": [],
-"keywords": [
-"selloff"
-]
-},
-{
-"key": "f942d5e165792794",
-"title": "President Capital Management Downgrades Microsoft to Neutral From Buy, Raises Price Target to $570 From $520",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOeGUtMk44NzRSR2E5VXZKZWdCejBpejNNMkRlYUpjN2g4bEMwTFJpTTByM1g4Q1d4QndSaXM0YTlGSEtUbjA2ZWRmQ3Q5YnJkY0kzZWFiMjI3bkFubXJ3RG1lNFk1aUF2aC1vbno0MmJmT3JDSkZwZWV1RmlxWkVra1dOeG03aFppRXBReU5TOE1ZYTVPTDZkMlZ3ODVBaHlyMTdieGVuRGJrekk1MFhmWkhWM0pId0FhYUE0ZzQ5Rnk1ZTZCOVVUNHJ1T0xsbm5HVVZwQnk2WS1yQjNzUTNfWlFlZzdQdw?oc=5",
-"source": "marketscreener.com",
-"published": 1793353485.0,
-"stocks": [
-"Microsoft (MSFT)"
 ],
 "keywords": []
 }

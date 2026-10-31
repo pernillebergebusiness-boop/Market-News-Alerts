@@ -1,5 +1,5 @@
 {
-"updated": 1793414214.3566127,
+"updated": 1793417074.5290735,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,6 +73,18 @@
 ],
 "items": [
 {
+"key": "434192d713285785",
+"title": "Estée Lauder Strikes Long-Term Partnership With Microsoft, Deploying Copilot to More Than 14,000 Employees",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1fdGttLTBTd2tOYVl1RWF1dGk0a2Fhbk5VOUZ0aHVodWZEeml2N0RLTURqMFR1WGZOeE1zb2xMalF3WGlEejNxVjV0ZXNSbm9HNktQRzR6YlpnM3piTjZBZHNVY1cwY0lCbDNtMkw2U2twdHVjc0E?oc=5",
+"source": "BigGo Finance",
+"published": 1793413500.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
 "key": "4b461562496c4087",
 "title": "NVIDIA's RTX 5080 follows the RTX 5090 out of its US Marketplace as a 24GB model looms",
 "summary": "",
@@ -91,6 +103,18 @@
 "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLS1jOWxYZmJBQVdhekthVG93NXpDLUpZdXRBM3MyajJnbVBoT3B0Rjc3dG4wcy10bWF3MVBvNDA1Tm80M01FTmJadHlwcVFKakFSYmxfOWstR1VEZnNVb1I4b1p1bEI3TzUxQVIwZUZMbnpsRVhQTlFxUHNqTDFWSDNYMEMyVVpGZjQ1NWNYUDJHZzZqZXU2Zmt0MVhuZU3SAVZBVV95cUxQSXV0YmIxQUxneHBqSTdJMlZ2Skk2Z1g5RVN4UHhjUFViSEd2WmJuN1VjdG9BM2lRT2lNbmhEYkllLUg4QWUyckpTd2FDd1ozVWUzeTgydw?oc=5",
 "source": "Law360",
 "published": 1793412732.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "33709caec29d8e62",
+"title": "Effective change management smooths Microsoft 365 move for Co-operative Bank of Kenya",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdnRUU2RZT0s1ZlpXRVFpZVNWZUpqd2JuUEtEYTJrM0xjNDBEcURJLVhCbldvQkcta3puaHpEY056b1pTdFpyMjdEdXpmemxINUpCX1hwa21adGlkX1Y0ZmYwSVlaVjIxTE5CZktySDRwMENPVlN2SUE1TnI4Q1ZZZVZ3bjc?oc=5",
+"source": "NTT Data",
+"published": 1793411437.0,
 "stocks": [
 "Microsoft (MSFT)"
 ],
@@ -4868,30 +4892,6 @@
 "published": 1793354977.0,
 "stocks": [
 "Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "3453d6cb5d7d83c7",
-"title": "US Stock Futures Fall As AMZN, INTC Earnings Trigger Tech Sell-Off: NVDA, RDDT, RIVN, SFM In Focus",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQ1ctcnhsa2NJNTBEZHkyTTZqa041WWh1MGYwRUdNXzVTZXBnX2xrRjRFVGMxWG5ERFZxNDlIRlF3NjRZN29QNDhCZ0g1SUVTQlhLRnJhWFhPeEI3UWdKQWNIUGxLWHhhOUJlZnVWSS03X0dmOGQxbUJSUmJ4VGxSSk1obHhkSHhBclN6TGlKN0laVFVQVkE?oc=5",
-"source": "Yahoo Finance",
-"published": 1793354858.0,
-"stocks": [],
-"keywords": [
-"sell-off"
-]
-},
-{
-"key": "da2ec81fc3fbab88",
-"title": "Equinor Doubles Estimate for Afrodite Gas Discovery",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVDhmRUROTzJSTTgtOVhpX2RzNzVuV294dTBQSU13WXN4SnlQeHZVb2xvTW5qdGQ4dVZKZHc5YmF3V0RwRjJYX25TeEgxb2dGS0VNa01rdmE2VmpyemFiazlQYTFZM2ZBZGxIQzhERTNRX292T19FREZWbHM1Q2dPRExTZ0pnbGtDbEExX3ZCZnVmcW50TkN6WWpMWDlFcWVPWXhyaHN3OWhDX3lG?oc=5",
-"source": "Rigzone",
-"published": 1793354779.0,
-"stocks": [
-"Equinor (EQNR)"
 ],
 "keywords": []
 }

@@ -1,5 +1,5 @@
 {
-"updated": 1793442295.1901827,
+"updated": 1793444375.639052,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -72,6 +72,66 @@
 "Yahoo Finance: HTTPError"
 ],
 "items": [
+{
+"key": "1f819fb22f0c3ae7",
+"title": "American chip billionaire Jensen Huang's Nvidia defends his meetings with suspected Chinese spy",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWlZxWS1EZk5DRURiNkhXbUxfd0VVVzR0NXBlVmszVjlUTC04YXN5QXdKelN2VDNMMVR4d3Rqd0l4R3A1ZGFNaVlvUzdfQTZPMzlCZVZoUU9OeXdLYnRENUJYVTFVYTVpbW9ZTklsWlJEY2dmTVpnUFprTUtJVTNrNU5YNHFkVk9HY1dYNHRpZHI2OE5zczM3bU1kZlNZWTg3WVlkblJWZVBOTXlXcXo4UFY1TUtfeE9tdF91Q2dKSENYN0hYblU1eXp3NFZEekJ3akx2aw?oc=5",
+"source": "Billionaires.Africa",
+"published": 1793444088.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "c7b1164946f7c186",
+"title": "Stock market this week: Alphabet sinks 12.6% as Tesla rises",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB2ZVp3QVZKVmtBQmUzRzZ2QkVZNF9MTGRWSkZCOTNZVW93VGhoTG5UUXdxWW02dVVSaVQycHRIaF9tTEQ4eEZqRHNMODJ2dmM2Z3BQVFB3WjI1R1VtRzBRanZZUDdVeGV6ZUlTZ3pteHRlTVNMdXZmbGF5RnFWQQ?oc=5",
+"source": "Opening Bell Daily",
+"published": 1793443998.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "6dfee788d1196d2e",
+"title": "Phantom Blade Zero gets unofficial NVIDIA DLSS 5 mod less than 24 hours after launch",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQkNZQ21ldGI5WmdxTHYxMGJaal8xZlV2MHFiNFY2eVRyNnQyN1l2cEpzM0tPbzRlNktfUFRNaUVrUDdlb3daUExUTjBTaFNQa3UtREJqNmNfd0laenV3VHVKOFdodUxNQ3RJbkdFNkhlQW12eTFMZ3BsLTFuY1FrZDFhaERwWVlGY3BNZUs1T2ZwRGlUak9rR3dXelExNERUUEtHeEVSSVJySmhUS19CU1hn?oc=5",
+"source": "VideoCardz.com",
+"published": 1793443148.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "b12bf59da4c46b95",
+"title": "BofA Securities Maintains Microsoft(MSFT.US) With Buy Rating, Maintains Target Price $630",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZ0NVRXF4OEItR1EtRmdKX3lRbGp2UFZyOTI2akpYYk5EWEJnZWlYRDBQTUkxWkIwMFhXSXEtMUpjNFpHNlJiVGJiWHNsUjhKZTB6Q3BQNFFpYW1zMi1iN3NoY2p0XzZrTWtlMW1aWC1tVjdjM2xkY2Q2QlF3azdwXzl6TXRZWFRyVHN4Zmx6SGtxYkZWS1ZqaG16ZTU5NWZlQllQdTJNYnY1TFY2LVNnVS1sTlB1T2xwMXJZ?oc=5",
+"source": "Moomoo",
+"published": 1793442660.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "26ae669c8e85ff65",
+"title": "Nvidia loses its $5 trillion crown as Apple takes the top spot",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPODVTMFdMZU9jU2NYLWF5WGZMTWN0TEZITHdxYjFaQ0tTVEtNN3A2R0FnRlVqRTlWVURNRlo5blBkejlzSVNlWnF4LVA4emFwS2RwZkZ2UV9kZkZ1Y2ZYRldGYUw5T2Z1VTdlOHBTLThHU0VWelVUdXVBbXp5ckYwd1lHbVJLOHZuQi16dmxUOWNwNkJjQlRMbVJNOXAwcExWNjlpcW5iZlZGZw?oc=5",
+"source": "Notebookcheck",
+"published": 1793442180.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
 {
 "key": "be1cc2f0dcf584f1",
 "title": "Tesla’s flying Roadster is a 'sideshow,' says longtime EV journalist",
@@ -543,6 +603,18 @@
 "keywords": []
 },
 {
+"key": "74e1c8cadc42f535",
+"title": "Replace Microsoft 365 with a $27.97 lifetime Office license for Windows",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWlBfT21fV2dkRE56VE44d1ZmV1ZrUWprOWpzXzE5bi1mTXFES0IyZ0hzNmEtb1NFNllMeFN6WnFFN3c3TUYyTnBqYTBNbVI3bklHZGEtbzlGRjZ5aGZpSWZvY2NCcmlETllvcnFnODNnNXdYMmc4WnU1ZFhoZHZWZFhyYVZfQWEyRUV0VWxHOVF2U1B3eGpPeEtUN1dfY2FrdjRMRzQ4dVpYV3AxdHpPT3czV21Ndw?oc=5",
+"source": "PCWorld",
+"published": 1793433897.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
 "key": "7cdbe9c6e6507077",
 "title": "Google, Microsoft, OpenAI and Anthropic back one AI training opt-out",
 "summary": "",
@@ -910,6 +982,18 @@
 "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxONlpQZ0FRRXFhTnBZUjJOTWk3dkF6VHpQNVFJTFZUV0xNbC1KZDhDbWtmSmtZTnVmTElZOHBSVzZsSFNWdnUyS3BldS1ZYVNiT0F4TkRhQl9HR2FqdmRic0pZZEwtVEZPZ3Z2WHcyMThTUi1INlhnNHpoV3ZMcDRaSTlDOGNDczQ2SjI4UE5oZU1ZRlh5N0w4SmF1OXhlT2cwZE40ZkczZ0VfaGJ4b1RHekNtOW42c2Z1OHJYMGpaT1RyMXRxS3hvRXh5TmhRaHJ0MmM4OVExeFJFTHdOT2ZYeEs5VHIwNVg4WVE?oc=5",
 "source": "Escudo Digital",
 "published": 1793423701.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "1fc8dd1cfc4f601f",
+"title": "Hackers Impersonate IT Help Desk on Microsoft Teams to Hijack Active Directory Accounts and Steal Data",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9maFlWUnR4T3o3VTRXbVk5elZlSHZnV0E3SW1QODRHcnpKWFJiZG1pdkJxZy1uZnduMVhVa08wNHNySXNldUpsUVhIRGRlVFR3MlJld1hudUFmQjNzTXQ2V0lkc1NSZHVlR2dPb21FNm1HLVZPanduaEgzbmPSAXxBVV95cUxPZmhZVlJ0eE96N1U0V21ZOXpWZUh2Z1dBN0ltUDg0R3J6SlhSYmRtaXZCcWctbmZ3bjFYVWtPMDRzcklzZXVKbFFYSERkZVRUdzJSZXdYbnVBZkIzc010NldJZHNTUmR1ZUdnT29tRTZtRy1WT2p3bmhIM25j?oc=5",
+"source": "Cyber Press",
+"published": 1793423622.0,
 "stocks": [
 "Microsoft (MSFT)"
 ],
@@ -4805,90 +4889,6 @@
 "published": 1793363400.0,
 "stocks": [
 "Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "c4557e548765e17d",
-"title": "Microsoft Is Borrowing $25 Billion for AI, Its First Bond Sale Since 2017",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaHNySEhEZE5mZC1mQzBTUDhZZnktU0ZtR0RFd01xdjQ5ZV9oVWdMb2ZSNW5seDFVUWI0LTVFZXMyemRSMllpUnEwUGxmNjNNSFlmZ2p3M20wWlplLVE5V24zdFFzbVVnVi1hVkF1Zy1CVGtEMG5RdHZuSUR4dDBESjlzYm1abTV1MmJXWjUxS1ktSGttTjRpbU9kWWtIb2NVV3pWdTlqMTZtQkprNE9FWFRpQjNLdw?oc=5",
-"source": "24/7 Wall St.",
-"published": 1793363368.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "bba20fecae7e383e",
-"title": "Are Wall Street Analysts Bullish on Tesla Stock?",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcXA4VWpFOU1BTWQySlRnMU5WT1dWaUVjTktVeGRJU2FrWk1EeHd6aDFUTjBaUHc2cFp4WkpYRFRrX0pCZ2JlUzAwOHQxcjJ6TnBaLW9FckhOQkROZkh3SkpLZXdwVWduUldZV2drRThXRTJOcDQ0dVY3LWg5WnNDNjFHbllUTFVfZHNjNTFETl9VUWlZY3c?oc=5",
-"source": "Barchart.com",
-"published": 1793363150.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "0bf5cc25e9306005",
-"title": "Why Beijing could block the SpaceX-Tesla merger",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQS0xMU0JFek1iWFlwN0NtZ0wzQ19tV01LTlpKM3dSVjRIdF9BMnRDTGxTMWJIZ3Z0MW5Xb2M0MHVIeFhqY0pMOFZRNUF0dHNibm84c3BwX0dHaW5WZm1nakJFRlJPTUozMG9uMjFfTnE2NTl1bFZOaDgwSjNTeGVjeTdFX0tLYkowMUhINEV0YVF1REczQ1NzOVBHNU8wODdHUl9HOVNn?oc=5",
-"source": "Investing.com",
-"published": 1793363127.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "0276950a8b9de42d",
-"title": "Tesla Model Y's Halloween Mode In India Brings Ghost-Themed Avatar, Spooky Lights",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPLW01bGtNT25rcWE2dTNmdWZib1RZVWhQSjJ2NUREYk8xN3hrWE9ZaUIxZ28wWVVod1lIeVJrcnpaWERCT0dxZEFnSnRiMXc3WTRUdWR5bDUyaC1ORTVwVk11ZzJOLW0yTWJLZXNlV1g1alljeFZkTTBWVkRURDZieklaUDRVQlRyZjc1RUZvcGM5VVFqbnREMEc1VUlvam96YkFSbERqUVVoV1lQUVlNU1JJWmvSAbwBQVVfeXFMTXRBbkNlTjJqeFBhaVdLeW1vWEp6MXl4bGMtUnhqQWMxRV9UZnJJaVh0ZmxjTmlFVHJ2U0Nfa1JfRXB3Y3kteVhrUl9COU00a3UwSm1ybEFiR0NQRVkwVjhGQlEwNmdkbHkxQ1NZaU5SM0dOOHIwRUwwMC1zSGxfNm54c1JNRVRpaGl1dlVHTU1MbU5fNGlqY3NvS0VIOVp5LVd6Z2IwSkZEdERRLTJLbnZ1bWk5U0gzb0dYT2w?oc=5",
-"source": "NDTV",
-"published": 1793363101.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "4d0ef4f18eb43465",
-"title": "But What If AI Isn’t A Busted Flush? Microsoft Q1 FY6/27 Earnings Review (NASDAQ:MSFT)",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdEJHUjFYSG9EY1h4T1YySlo3X3plYkdLMHN0Rzlsb01xQ0hOSGVLUktjcnVqeV9KcTVmZ21jT25sU29FamNRbDVjLU5HNDMtUFRjVUxOSERCZWFGeS1HUnQyNU1zSHlIcUY2NVY4YXlFSDJMaEswVTBhbWVENlF6ZGRTUU9pTEVEWTkwU29WdUxRbk1udkZvbFFlQnZqcmt3amV4SQ?oc=5",
-"source": "Seeking Alpha",
-"published": 1793363091.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "1660b9f6a1853aa4",
-"title": "Buy This Incredible Artificial Intelligence (AI) Stock Before It Soars 144% (Hint: It Will Outpace Nvidia’s Growth)",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSEhOWDBSZkJ3R3VuSjZycG5ZQUZZemdOeWthWE4tR1R1Sjc4bnNQY1g4U2g0YnkwMndaQTNHYlZhVEFWZHRPQ0tTVmo0aV9ucHVwby15MnN4U1FQZVBBVk9QZXNhakJxMWZ6Y2pNTXR2bFpOY1ZKTWtTUFRlNnpRR003b3RYMU5SUDBkVmMwclc3dllhako5ZlNNSGVIdkJjb3VIeG0wNEk?oc=5",
-"source": "Yahoo Finance",
-"published": 1793363042.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "e2c1aadaba59d17b",
-"title": "Why Is Nvidia Stock Down Today? AI Spending Fears And China Probe Headlines",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRnpuVWNBZFNNOE1EaEF2NkpQMFVNTmlGaTlBYjgtV3pCa3pZc0FZbU96R1g1Z3BXbWk2bGdMaXhhSHlkXy1GbFBzbUF0WF9Xb1BydGdEdVRWaGMzQ3FFMXhvTWFLeldoNmtoS3YzTV8wQ2tJSVg0amdsNXItcGt4N1gzN2ZmOXBtbGNlMEY3SWJCN3ozbm5TdGRSYmg3TnlHQS1pcGQ0VjRfa0NZT2FndU9BNlDSAboBQVVfeXFMTm5FVE5SMm94WVV0NnZ4VmFHTngtVVpDS0VaLWswVU9adkM4NFJUMi1PRC1ib2twNWJRQWx5dDVaU3BIVC04cURLMFZyODl6UURzUkJFeV9sRWZUXzhwWm9XY2hnVUtMUlNGb0VtX1ZyRTlKalZabzNBaU5HVjJPeEItRXVId3JTLWg0NGFBY29nTUFQa2tqLU9IUHNlZjBYczB5UUtsVjVKUF9jaVJKc1JwZTItX0V5aHBR?oc=5",
-"source": "Coinpedia",
-"published": 1793362916.0,
-"stocks": [
-"Nvidia (NVDA)"
 ],
 "keywords": []
 }

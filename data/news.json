@@ -1,5 +1,5 @@
 {
-"updated": 1793451222.8781652,
+"updated": 1793453843.895638,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,6 +73,66 @@
 ],
 "items": [
 {
+"key": "8200e8449a48a815",
+"title": "Microsoft Offers Voluntary Exits to 60,000 Workers. After 37 Years, He Risks Losing a 401(k) Tax Break With One IRA Rollover",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOWk9vdi1aYXpwOS00WUV2MzZORzA3Q2pIZmRDZEszeTRyWHc1MVY4RHNYRlVZV0dPSTlNaDB6T2M0ZmgzakhIdzZrZjMwdHNMQnlCUnN3ZnZMbXJqQ0VtaURtZ1NLMVZTMHFtQmJUZm5wNFdvRi1nMzhfdXhWTWYxamw0LVdRZzh4cFluN0t6SnVvUTJRYjJ5aS05Qlp0d2lQMkVueEJURGFXNGI0M3ZNcmhJRjJTcEkyN1VsTXFsT0VaWm1LYWc4WXhnWXhmNm80YUtOUmxVS0U4cjNORDF1aWhHblFLSmRjUVRfbWw2aEFjVzVRSFBkR3hjWE1QQnc?oc=5",
+"source": "24/7 Wall St.",
+"published": 1793453799.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "375b9786825b0d48",
+"title": "Zuckerberg Says Meta’s “Core Business Is Strong.” S&P Still Cut Its Outlook to Negative",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVEc2cWUxZ1EwYWltR005NEdiRUs0SVZEY2lYRDBEVk9lOS1aLXpaMThWbW92UDJ4RTRIbjJ3SmR3dEJ2UDI5NTlWLXNHdWoyQk1tSjdHSU1IRFpnR25wVm5mZGJ3bm0tSGJFTWJISXprUkZfRlNTUUF4Z3lOeExSbmVvUktvdDAyV20zNmYzbllxSXd3SWVyMUtNY3ExYkFmcC1XcUlYdGdGNjFOQmc?oc=5",
+"source": "TIKR.com",
+"published": 1793453665.0,
+"stocks": [
+"Meta (META)"
+],
+"keywords": []
+},
+{
+"key": "b35a9ff047a5ce03",
+"title": "Microsoft’s AI Boom Has A Cost (NASDAQ:MSFT)",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4yeC0wbFJjNlN5eTFRNks4dGtwUlBBcUZlczVGV25xbHFFTk9qSnFfYnRGQ0I2dm1TeE15dHE2TmFJRFZoeTc1RHhLWjFyNTN4Y25Wc1l5aXpacXVMcF9uS2YtZU1kVXZNLUxjMlpJSkpQQk1MUFNSMQ?oc=5",
+"source": "Seeking Alpha",
+"published": 1793453400.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "267342cacd640a3f",
+"title": "Alef Flying Car [2026]: $300K, 11 Years Ahead of Tesla",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbi1OSzRNSzQ2UTVhblczN1B4V285RVV5LS1PRl85ZDNEOUNyNXR4amhwX3c2UWk2M1NwSEF1bzR0WDZHWkQzLVZYYjlsek5HdnZmNnFyWG5JV1ZLQU16d0F3N0tNY2txTDQ3V2dsQlFIYnhpVXVZWGNOOTBiamNRVHF6alEtMlFjUWRkWkFkbEQ?oc=5",
+"source": "shattered.io",
+"published": 1793453172.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "a892702cd9736755",
+"title": "Jensen Huang Just Announced Fantastic News for Nvidia Stock Investors",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNSVZkTktDd1FubDMyUmJuSjcxOU5pLWlHX1MyZG5OQ3lFc2NBV1doRUtlX3pjdXlTNTRVYWVPMFdCRWNvZW1zN05TLXJRYVliUjd4MWdWRUh6TzQ1YTV0UzBtbXg1QnpuWHFGQkk5N1pkenRFRG1Mc2lPQ1dsT2FBTFZUSkpmYS1aQjFkcXZyZ2x2Y29NZUhPRnlPM25mR2p6SGRuSmdnMUsyOWE5Rm9yYTlibzFZM2hhOEFuQ2ttMHhqVGxpaHRKV2hRRzQ1RW9GdUR4QUNIQnZPZWowQ2xDaXN3?oc=5",
+"source": "The Globe and Mail",
+"published": 1793452797.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
 "key": "97d61fd29be92b8e",
 "title": "Jensen Huang Just Announced Fantastic News for Nvidia Stock Investors",
 "summary": "",
@@ -133,12 +193,37 @@
 "keywords": []
 },
 {
+"key": "0f558911356f1ed3",
+"title": "Nvidia in talks to back Nscale's $45bn Anthropic deal",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOa1NITm5hS1AtUmFYUDNyemVuemt2OFd1MTBteFJIZGp0VzJCRlExUFdpb2tVYklmQlg4QVdOb1BtcDVTTlpISjlXNkpJSkdlY3UtbFhQVGFpa3lnTG9iVWg2QTYyTWF4V1AwRGYwUXNKNG1GTElDZlZUM2lYdjAwUFh1WGlZQW5fTWNIZjJKU2o0Yl9Ia1R0U9IBlAFBVV95cUxOY3Q0UlBqVUw5elFwOFc4SnBmWEY0SFFibzBDZHNIR3JyaExiVkNVTGdZSDYwdkwxV0I3dF9HYW81ZkgyN3lrdGZNYWtpSy1DZm1rWXpac3pMRUVidzFiRXo2MzlRcjZuWXAxcUQ1MHFncTBReEcyMkFxcjhuSFVJMFE1ejRZbzdFOGNPQ3RUZno1LXFx?oc=5",
+"source": "The News International",
+"published": 1793449647.0,
+"stocks": [
+"Aker (AKER)",
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
 "key": "ce8ca661f2cf44ea",
 "title": "This Microsoft 365 Family Plan Cloud Storage Change May Leave You Frustrated",
 "summary": "",
 "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOHVQeXN5dkZKVHM4LWtQZ19XWEt6a0NUTnFnbm11dG9PbGZseFk2bFozRThVWTVhTENIaHRKanlHd0FSWmVkZ1l1eHZvWkZMRTBoOG5HNmg1SC11NHNDS1p0S21zWEdQN2hjLTFpV0VyOUxQMjBTTlh5NTRTUDY3SXJnbm44aEttcHpNWDJGT1g5ZnNDR1VPOEJXck9qLUh4aVYyNDN2U1pkUVo3MTJ3?oc=5",
 "source": "Engadget",
 "published": 1793448900.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "229a1076e212ce1d",
+"title": "Microsoft releases Windows 11 preview builds with enhanced search features",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPb1ZXLXZHZnkzUFIyX0xpSEhYRThCeDZyUEwycVVrZzU5bjJveGxNRjhuME5lcHZVcnVrb1hkeFkxZjR1OE9DR2xiRy1Ba200d2NpV0tfdnpzU3dsXzZwaG95OGNaNXlaTzluaXdPcTBvTXF5WW1aZmhWNFR4c1czVDhyLWhJUDBXcUVvQ29qSGZEakYzazFUeXUxNVR0RmJxRFlqdmFoTGNUeUxZ?oc=5",
+"source": "KuCoin",
+"published": 1793448845.0,
 "stocks": [
 "Microsoft (MSFT)"
 ],
@@ -403,6 +488,18 @@
 "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYnJkSFJzdVJmeHNZY3JkTVVrbWJ1MzUxUEVnZVF5X2RNY3ZIbnV4SGtYZkV1QW1nN2FDMjNRampTdmZIYWVxWGRyQURNeDJKMmlwQXFJYUZRZktwQlRsV3duU2ZNSVVKMlRraVM2dmZ3VlpMWml1a3pZbmJpa1BvWi0zVGdaSUppWkdXeFlib1NkUFdXWF9YRDVYRVBHR3BEMVNVV09QS21SUDNtOUthY1JhZUEzNlpsQUxGT0xSeTIwWWRWV1RPeg?oc=5",
 "source": "Detroit Free Press",
 "published": 1793441806.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "472bddeec8a80567",
+"title": "Tesla's flying Roadster is a 'sideshow,' says longtime EV journalist",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9IUVRlanpmZ2R6S2RWa2RVeGFhQkFySFhqbWRhWTIwdHlWYUpHZTgzaWd0cHZRRFdWMEpvN1dSQlRvWmhBbV91QVcxSGhRdzZYRi1vcTFYVk8wdkd0TVE5U0Y1WkJzTzFEQm1rc0ZGZUhJa1RScUhj?oc=5",
+"source": "Belleville News-Democrat",
+"published": 1793441280.0,
 "stocks": [
 "Tesla (TSLA)"
 ],
@@ -4790,103 +4887,6 @@
 "published": 1793366608.0,
 "stocks": [
 "Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "20bdec5780d8d22c",
-"title": "The Estée Lauder Companies and Microsoft Announce a New Strategic Partnership to Power Enterprise Efficiency and Consumer-Centric Growth",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeWlFdW1QdzlIcGZwR0Z1VTd3d2Y5cEh5cXp2WDV3OTYyUmRWejQyNTA5bkJYUzVVLTMyMlR3OVY3azZjcFA1OHFFTVhQVFhnd2NMeFE3ZEdVNVIzVW5DUnVWMEd4U1ZZRTVnMHRrZ29WUFlsTzBEMnkzVTQ2MVU3bTJ3SjNMeUpI?oc=5",
-"source": "Yahoo! Finance Canada",
-"published": 1793366520.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "b1f66ea336660552",
-"title": "The Estée Lauder Companies and Microsoft Announce a New Strategic Partnership to Power Enterprise Efficiency and Consumer-Centric Growth",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMlRJTXg1Vk96WGdNZzFlS2k1dzhxZnIwbDFiWVozelZ3dmJTTWZXQ1hKRjBBWG5BSERCcWZNQ1ZjcnY4MUpwSUJEUW5tWTA4X25jdW1Qbm5ZZVNfUjlqb2pZQkJuaDRFRUE0b0hXYm1KTk9vLVZvNndvMTVqN3N2bWhNZUZ6X205SGp1eVpNRmswc2c3STFzRmxxWWY?oc=5",
-"source": "Yahoo Finance",
-"published": 1793366520.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "52629a9728b3c978",
-"title": "ASC Honors Sainsbury’s, MOWI and Seafood Suppliers at 2026 UK Awards",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcTl4c2JVb2t1SjdwSk16ZXNmWW4zcF9Qai1KdFJWT1UwWmktZHlSbzc4czZKM2RaVmMycU80ZFktb1NrRWYxdS1FV3hGTDZYUmE5eS1uSGtxNEttRzViMzFpcG5obUlJdXpyS3JyenRzOVpvNXhxcVU5ZEVrclBTZFptUzNsNnRLR3dSN2pfX0tGNGJlbnZCYkpTNmxlcVhCeGZYLXpNZ0NDZ2RU?oc=5",
-"source": "Seafoodnews",
-"published": 1793366442.0,
-"stocks": [
-"Mowi (MOWI)"
-],
-"keywords": []
-},
-{
-"key": "b4ecf94255e16d95",
-"title": "Wall Street Futures Slide as Technology Sell-Off Deepens and Oil Prices Surge: Dow Jones, S&P, Nasdaq",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQV3RkTkhHZnN4b2xpeFYtWk9ZMEJINWZzVzdCZlVpNGhJai1hRE9SZlZLSFJQcG54WmNueEdSYTUyVGxQbmhzdWJ1djVUN1J5TXl2d2JrYm9QNDQtZWhGTjMzdlg1cURLMmotcFZhRlZBdW9GdDN2Yms2UEUtUFgyZFh5S2Nzc1dydHJIYmUxaWxUM0cybUFTV1R3ZXFEUkx6U3dF?oc=5",
-"source": "Yahoo Finance",
-"published": 1793366349.0,
-"stocks": [],
-"keywords": [
-"oil prices",
-"sell-off"
-]
-},
-{
-"key": "8468577cbfaebe9b",
-"title": "Schneider, NVIDIA & HPE Take Physical AI to Process Plants",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdktuOUlGdHRaclhHLTF5M0tYdVhiS3E2bFVVNTRmdjBpbGpPREJwQzRJNkdXeW5MREl3M2h4OE9mSjRqLUZVcEFITnJpYXZOTk1oVnVCb3FhNnJXcUxvelFBeDduVkEwTmI0UDhUMmV0clhnd3hUOVBCLS1IUWxRUFlHN21SWHNfMHdtOXFobw?oc=5",
-"source": "Energy Digital Magazine",
-"published": 1793366141.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "b193d5f96bab7888",
-"title": "Intel Plunges 25% as Weak Outlook and PC Slump Overshadow Earnings Beat; Dell Tumbles 13%, AMD Sinks 10%, NVIDIA Falls 3%",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQUWgxdFFydHpwM0hLSVhENjBFTm5jZGVQT1lmejFZM1RqVEs1Wm5rU0k0TmpFTWE3Qk54RkI2QWEtRzctdkpHa1k1X2I2ZjQ1MUhCdmpnTE9jTE9rYTIxUFI0Q0h6VFA0bWxMVkY0dF8wemJWc3dCUjFmMnB0RjItSkU3MGpFcU83S0Fra01DOGFKX0czelpGV0lEajNFbkluTi1iVkEzNk9uSFFXVVhieHdzczdyVi1OTFozWDNNYV9wU0ptQVN4eTQ0NFFMVmdWTWd3VEtMV0tnQW5TY2UyR1RjN2xzWDVpSzg3UmNCcw?oc=5",
-"source": "24/7 Wall St.",
-"published": 1793366132.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "911c2a07ac60bea1",
-"title": "Tesla Robotaxi Now Operates 20 Hours Per Day",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSFEyX2cyV0xrNU9kU1MtNEpEOVh4QWtUV0E4cFpJMGZNeHV1QkJIRkRoTWZvZ2dheS1OWkd2NmZ5MEhJU2o0aFlNMkprWGZZMlRkLTNTdVFTSWl6czVyRXNFb2dhNkM0ZkdpNzJycnpJR0xmdUhzMVBLOXNxSUdzOGFLQWR2TE4t?oc=5",
-"source": "Drive Tesla Canada",
-"published": 1793366060.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "9d778dc1ed1a1b46",
-"title": "71 pc iPhone users in India face contact search issues after iOS 27 upgrade: Survey",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQVFYRnd6RFFMNHo5aTRDZlJMUkU2R3FyWm0zd1Z4RzBMZm0yU0pBck94SjFidEtaQXJpa0FNQjVsZU9pUXdxdk9KZFJGOWQ5aFFVNG95R3M5QmFLbUs1RC0zZFpFaTBndk5vWUFYelRiTHpmNUc2bF9wWkxQU1FfRWI0aHpsYnpDM3FqUFdwb3g5SzZEbFhfUlIySE5ZXzVmQTFXYkhJdVRDSURGVnc?oc=5",
-"source": "Telangana Today",
-"published": 1793366002.0,
-"stocks": [
-"Apple (AAPL)"
 ],
 "keywords": []
 }

@@ -1,5 +1,5 @@
 {
-"updated": 1793446195.2113273,
+"updated": 1793448280.292477,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,6 +73,54 @@
 ],
 "items": [
 {
+"key": "caf5bc43e273a129",
+"title": "Microsoft links ConnectWise supply chain attack to AI agents ...",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rZWRYT1FyU0dmWi1WWHU0VUpYWkoyMkJHUlZYdXB6dDk3UTlRVl9PTWlxbXhiSXdUYVRJVjFFb09ETFNOWlV2eDBfanc3ekNnam4ta3ZIWm9hS2Voejl2TWdGQnhhdWxHQ0ExcmJvZ3dQRXNrVUdIenQ1TktIbXM?oc=5",
+"source": "eeNews Europe",
+"published": 1793448010.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "376d765346d2e785",
+"title": "Veteran Microsoft engineer makes his own RAM from scratch using AI — custom FPGA board dodges extreme 1970s PDP-11 memory prices",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOX0RNZHlpczFfVk53ajhaMlp3RktOUjBBVFJwaE1VS25oTkxvSWM5Y0VWdE5NTm0xTGc1ajg4cXA1LUd2dG90MHBDWTlCX0JKUmlCWjNvUlNjcUpkeUZvS2RzLS1XbGhpSEZXSzJtd2hVN2FfTzRBajIzZmItMVlzNXFPb3FuSUNpU2N6WDdUeW96WmZZTm81dFIzc2NoY0JqMzM3TWJrQXc1RHNHWU1jMG9LLW9MZEpIa3hQaUdZZVRpQkZYSEtGbmRvQzdWaWZXc3hvc2RYUkhvT05jT0pNNDg2Q3l1TjlnQnBUTjhPUERFeDlwQ3V4cVBpYjU?oc=5",
+"source": "Tom's Hardware",
+"published": 1793446800.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "e8b5a46f361d2336",
+"title": "A Tesla Cybertruck Owner Says He Had To Sell His Plasma Hundreds Of Times To Afford a Cybertruck – He Adds, “Now My Dad Wants To Get Rid Of His Chevy Silverado 1500 and Get a Cybertruck.”",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNHJocC1yS2NJS29hUlBwOXp4R2hwaDNLRjhZcjJ3d3g1V1JZVlVZaW8xODJjQ2tYMjU4eXRoc08zdW5GWENmWVRlajMxcGhIVUtBQ016NVA1djVhd3l2VnJPYk1yU2lUV25vQS1NaV91eF9scVJFUzY5ejNlMGtwLVB3MFIwek0yRW9GRUZlTEprLVAxaXA4a1NsQUlhZ0dudEhQOXUzV0s1bk40TnpXUW5nazFhUVVhZDIwNXBFVGZNUQ?oc=5",
+"source": "Torque News",
+"published": 1793445871.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "393ad566d4322900",
+"title": "TGS Prediktor expands data gateway agreement with Aker BP to cover full company operations",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4wVGFiX2JXcFZ0SUxDdFdSTHNkbmVOY0ZJdERKdS1OaTBqMDFmQndIdWF3VEMtUmIzdkdUWXFzM2t2RjBlS3hSU1pxRGQzR0dhdEFzdm12QVc2QlRmTEllNGwxR29KRmM?oc=5",
+"source": "Energies Media",
+"published": 1793445806.0,
+"stocks": [
+"Aker BP (AKRBP)"
+],
+"keywords": []
+},
+{
 "key": "75f8b6f1f7ec6b1a",
 "title": "Meet the Brilliant AI Stock Obliterating Nvidia in 2026 With a Return of 44%",
 "summary": "",
@@ -105,6 +153,18 @@
 "published": 1793445180.0,
 "stocks": [
 "Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "ad46cc8982810fe3",
+"title": "Make Microsoft Office Pro Plus 2024 Yours Forever for Just $50",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONzczTFNTOXdPdk9vd3hWTjZodU04ZGc0UUFhbkR5MW9UM0t3cXpLdUlGSmtiRkdvNlhoZmhjcm5laUM0dm5uYTdEUkF3RG9CdllCdmtOekZYTGhoUFNjcEtqX2NKc0N4bGQwdnFPTXdlZFZRREktczd0RE55OGI0a2REZFhkdVBNalNJVm5ZMDZjMm8?oc=5",
+"source": "PCMag",
+"published": 1793444410.0,
+"stocks": [
+"Microsoft (MSFT)"
 ],
 "keywords": []
 },
@@ -4829,66 +4889,6 @@
 "published": 1793365179.0,
 "stocks": [
 "Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "579cbd122d9b0917",
-"title": "Qualcomm bets its AI inference chips can chip away at Nvidia before 2029",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPN1p6aW1CMGloSF9KbkJmTmh1aWtsNU9ZVWRKWHlKd0RnbXFvLWFEQS1lUTM5c1J3LXVBMGRfNFNpZWxzNWwxZGdYbmJJRUkteEUzd05BTkdjOGpCSGpxdjUwSGhtdlZXU0dwQmYzR3BwaHVyZnFzRWRhN1F2cm44d2lOR2tBeGVRNzc3N0NVWHFsUDBxM1BVNFM1al9qLTFVTXc?oc=5",
-"source": "Startup Fortune",
-"published": 1793364658.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "12e4047905f8082d",
-"title": "Why Beijing could block the SpaceX-Tesla merger",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZXRSU0FmMzVDSGxmaHExRDh1bDhfU3NnWDBoZzR5UTVzdFk0V1JiOXRnSHl4SDRMOGo2YzhHNG1MaE5FSWRVQ2UxTzNYeGFLTl9kd3pvV05EckxoX3k1cVhqUGpRNHlhbU9zYS12WDZaUW1rVk9xZTNkZDlrYXloU2tUaHUweWF4VG9IYVJlSldRdjJtdi1ydHNwTQ?oc=5",
-"source": "Yahoo Finance",
-"published": 1793364625.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "db4ecbadf6cbd24b",
-"title": "Microsoft Raises $25 Billion as AI Spending Expands",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeUtBRnhIUmNIYnRoei12OWExREhyaWttMjNiYklUZThQRVV5RHRFc29TZDl5T0twbjdIdHMzM3dac2toMjA0ZXJYMkxDclNoaWZ5R0xQUGM2UzJBckRkd1BkMnZ0WmJKWVFFNEo5VndpT3B5RmZycnNjcXB6cnBxWm5Hc2UwV2VhcXpBbGhhRlVldjNXeEJCdUd3?oc=5",
-"source": "Yahoo Finance",
-"published": 1793364350.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "fc9e7380945137bf",
-"title": "Microsoft Raises $25 Billion as AI Spending Expands",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUl9PVEdxRVJrU010dFdFQ0NfeG54VG5rYWQzbXhxR2RHZnNfZzBUVzFHd2lCZTZTeUMwRzEzbnZaODVMaHhrRlB4dlp0VWZIR2tOTXBvQWQ3X1hhTFNwcjA4VVZraG50eHdOQVNOdU1CUzBHdElhLWxtd0VTanNjN0tSb0R3cTFmazJqanFCVnN6UTZNZGRWNjVObFJXWHZobkNhSkp4NTBNWUxzcWd3?oc=5",
-"source": "TradingView",
-"published": 1793364350.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "24d2f3c658c440a8",
-"title": "Nvidia's Older-Gen H100 GPU Rental Rates Stay Strong Despite Spo",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUEt4dlcxVnhuQmdhTk53TE9SYzY2VmJCSnRIVHktYUVMdFZhSmx5UlhYVVJhT1hmMERQeTRLYjJTOUZ6QTZOU01WZTlBQUE0ME5DTkVKWV85M3JScmFZWEFkNUl6UWpzUGZycHZEU3N2Y2p3SkFidDhaVlYyOVBDeGRJVGFSSFQ1MGIzTm0tZ2VOMTctRFIxZDEtT1VPMmtIRTNpaEFSRWQtN3RUcUEySG9TOVI4Q0JodkN6OEg5NA?oc=5",
-"source": "GuruFocus",
-"published": 1793364295.0,
-"stocks": [
-"Nvidia (NVDA)"
 ],
 "keywords": []
 }

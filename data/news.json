@@ -1,5 +1,5 @@
 {
-"updated": 1793432597.3995056,
+"updated": 1793435212.7877994,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,6 +73,115 @@
 ],
 "items": [
 {
+"key": "0c5e7b3d15ddd30f",
+"title": "Nvidia Drew DOJ Questions and Weighed Backing Debt for an Anthropic Data Center in One Week. Here’s Why Its Cash Flow Matters More",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQemhOV01pTGRfMU9Dc1JmRFJ5b2o4dFlpSzVoakY2VFUzTlNvZGhudG5yY19obUF5eWdqVngxSDNlMnlZTHJ6SFZvNUl0Y0dBYktRWHdyMU16Q1NGWk5yeVdCcm1ka2VoNFhta21BWHpndnFxZ3k1T0xYeDNOQ2h4c1Q5WUVKTkFpam5vSDRxSmRfOV8tNVZ5SEVnaFNUVGFnaFBjSmE3amZTRWYzdFBiVDA2Vk1LYW9NOU5NQlNhdlBudlFVczVCc29fV0FMeGMxNmtLYVhwSjVZSWtIOFNKZlRLV3hqLVlGdnc?oc=5",
+"source": "TIKR.com",
+"published": 1793434500.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "e0faf40b447ee62a",
+"title": "Nvidia Weighs Cosigning Debt For Nscale's West Virginia AI Data Center",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMXFXczdfZHg2eTNWNGVfeDRCM045b25jLWlvNmVDcURJNzQ5eEZZcy1CQ1F3RlN0bkRhV1dGR2h6Rmh3YXA0b2tWVWhNQ1dtdk8zMDg1clJqa2tvU2pHZTFJdk9Hb2RIay1OX0V1X1M0dVhQZHVGTVB1VWNxbmE3VWRwNmRXWmxDTjFIT2xpbjlUU2FMSDVWV3lvSlY4Zw?oc=5",
+"source": "Startup Fortune",
+"published": 1793434444.0,
+"stocks": [
+"Aker (AKER)",
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "292d4c42cb6a71f3",
+"title": "Tesla: All-Time Great Growth Stock. More Growth Ahead?",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOamp4NndzMVhHZjFhSmZ2MEp6MmFwLVV4Z0dvSDdaS1p0b1VoaGYwQWJoRG9CRG9sdlEtbGZBVDhEdXlzUE1leWZDZUpRZTN6djV3eDh6a2dTcFFabGMtZkJMN3NVMEVOcW1GUllrenY3M1VBWkp4WEZxUzc4SXgwSkJCN2FCMGZ6ZHQyRWtPdmxPY1J3bENRY0paN0hWRlJ3ekJYNFhka0tubzdw?oc=5",
+"source": "RealClearMarkets",
+"published": 1793434205.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "24cefab8408f73e9",
+"title": "Nvidia Introduces New 4-Month GeForce Now Performance and Ultimate Plans in India",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTmduSjc4aV9EeFFoTnNZUUNFTGFGbVJJWVRiWS1VdFl0NUx3OUhLeWNOdTlja1JYX3hyVmxIZFdJcGtIaDFVbzY4WUVhd01keE5KbnU1Zk9hd25LdGFrSTh0amFWdE5LcV9VX0NMWmFOcUs2UmtRbW5MeFg4bzA3Z1JHYU1jWlFnaEx6cENCU2J2cFpycG9YbHU5LUZnZjNXdTI1Mk5BLTR6T3hSRmJ6RjN6V0MwVldyTXp2VmRGWWdHM2gy?oc=5",
+"source": "IGN India",
+"published": 1793434147.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "7cdbe9c6e6507077",
+"title": "Google, Microsoft, OpenAI and Anthropic back one AI training opt-out",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNN2ZKQ1Iyd1N3OGZ6eElDOUIzS2RzZUptb2Vjb290OFh3QlIyalluVi0yTE95UE81aHlBVzhURTRxRGRZUUx3WkxMY1BzQU9fTVZ5R0pMZFlLb3NTQkpucmFrOUJEd053S213ekxoa3lncXdLTkJJdE56MldYaEtyaHlSOUx2d0V0dXhSYw?oc=5",
+"source": "PPC Land",
+"published": 1793433782.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "d244ba22ea3f581f",
+"title": "Backbone of a beast – charting Nvidia's rise to networking titan",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQXzhaNDJQcG1sTmx0MWFrLW9xUExoSUJnXzJaS3hiUHc5MFBYN2JiNVl3WjNOektwT1BWa2h6bFR3TlNwYmw4bENEengzVUNvTEp3SFRUNGdBRzRoQlJVSUE5ZTQ4ei1oQmV6UjNjWXRxUUhURHhuV3J3a1BsS2MzY0VMdzRER2lybW9OOVBVYXE1WGFHZ3gtRjQ1RG82UFUwUFhpcXFXTzNCZmNDazVBNElvT1RQdVZW?oc=5",
+"source": "The Register",
+"published": 1793433780.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "e312785058e01744",
+"title": "Forza Motorsport Creator Dan Greenawalt Retires After 27 Years at Microsoft",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9aSEk5QXg0bzJCelVvUVE0TzdRaTAxQXZOUEpCUGctNVhvRXNncTJicWhPNjN3NWQ2YUtTMEp3LWR4ekx1aTM4VTI0SU9xaUpaaXQ3N1NPLTllcWRoX1JaSEhOVU9hYzhwT2lBN202M2tjOXJlYXROZWNjOTFhUQ?oc=5",
+"source": "BoxThisLap",
+"published": 1793433460.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "ef4aba1a82bff0dc",
+"title": "Form 4 Meta Platforms Inc For: 31 October By Investing.com",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQM1gzZ2JOTXRfQXhQU0tSU09oUEhidThkRVIwOG5PNVV0amdVWVdMVE1kZHdpUDFHVUxIYVN1MVp0VWFpOHJraE9iSEM5cjBsLWk1Q2UwVVhSSF9tOTIzRVFaclppTHdsbHpRVkNxSDlNSU54eW9ZMUIyTVFCbDRSRUt0MEE1bnQ0SEdWcHZUMmppbFY0WTh2NlNXS2hHMFltdjZr?oc=5",
+"source": "Investing.com Australia",
+"published": 1793433404.0,
+"stocks": [
+"Meta (META)"
+],
+"keywords": []
+},
+{
+"key": "f17f9874b3c91d5f",
+"title": "Apple's market cap surpasses NVIDIA again, regaining the top spot",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcjRmVkJMRktXbXpWYjE0NjhaUnRGd3p3MFlqV3VjWm91cXJCbTlrWVU1UVpSaXpfMDVCNVZjNHczTDV1blRQbDRGZTZTTS1IeUtJVlJKZWdhX1doMVNObXJ5ZmQxVFp1cnlzTmdUS1MzUzBzckRoVm9vVTFVSVlNdzNGY1F0Uy0yUFU2a2otbkdjN3JGWkZB?oc=5",
+"source": "KuCoin",
+"published": 1793433254.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
 "key": "e249cc09838cac7a",
 "title": "Tesla-SpaceX Merger Hinges on 50% of All Shares [2026]",
 "summary": "",
@@ -129,6 +238,18 @@
 "published": 1793431519.0,
 "stocks": [
 "Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "545270ec377e958d",
+"title": "Here are all the new features Microsoft added to Intune in October 2026",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUHA5OHZrQ3RiWmI5Q216c1c0YlVGclp4Sm15QXVkN1ZvTFZmeE9iRnExMXRwM0lZaTBvQmk4eFUyNHFDa3BpVnI0X0VYSDZjdXp4UFdEN0FhZkZHUlZLNHdWdm9DenFMWXBTMmozN2NVaHJoZ1ZZZUh3NHZsakJwWUtIZzh6V3kzNkFaaGZ2WGcxRmU4Q0NmQUFIMFp5cldyMGc?oc=5",
+"source": "Neowin",
+"published": 1793431321.0,
+"stocks": [
+"Microsoft (MSFT)"
 ],
 "keywords": []
 },
@@ -356,6 +477,30 @@
 "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5GQTdQUExoeVNIWHVDdjByc1hCeGVrZ0tWWWs2VGtGbFFmd2RGanR1eFZha05LTGYzUkNDYXFFZ094LTl6X0ZOaDRDT0dqTXFwNDRpYnZhdkRzcGVKVmNNcVlrSlljQ09tOXdoaFphVWRYSGV5?oc=5",
 "source": "shattered.io",
 "published": 1793423079.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "e27368c9c06c76d5",
+"title": "2026 Honda Civic Sedan vs 2026 Tesla Model 3",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcHFaRWpodHZPRmF0QTFoRDhCeWp3SEZHa3JiYURjdzBWZVFseGVRdzF2NnZ4WHA3R09JSlhKTmNISkdkUDRscVVqNDczZXFsUVZ2OFYzaDVJcFctRUo0UzJHaVZramhFaVo2M1IwZTdwb1NZc210YWN6VTF4aG4wQ0tyR0d0YW8?oc=5",
+"source": "driving.ca",
+"published": 1793422494.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "f7dd7c49afdf2b24",
+"title": "2026 Tesla Model Y vs 2026 Toyota bZ Woodland",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNb29WODFKTndLMWl5NjNIalNaV1RadUNhNDQtd2hRWnRhVVA4VnpRSnZVWnRXTTlTMEktR0ZyNE1xLU5kYmdiSzMzUWpMNEdibVFoWjk1QWRoNUQyTmcwRlQ0RzkyOWVBZFBQLVR5c3lBZmlXUmQ2SFUyRlZuZ1NzZDJfbWVRdDZa?oc=5",
+"source": "Driving",
+"published": 1793421212.0,
 "stocks": [
 "Tesla (TSLA)"
 ],
@@ -4744,150 +4889,6 @@
 "published": 1793359244.0,
 "stocks": [
 "Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "97a72bb89da145d0",
-"title": "Microsoft finally fixes VPN issues caused by September updates",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPa052djVUZG5Gek9RTVU5SWZsdFpqY09seGZHS3FoZ2FZeXNVNVFxZTVEV1d1RnBFLWU3M0FWMEJSOHM2a043QzFLR1pUdkJoUktwR2U0SDJySkRJd0UwcjdEVGpjcVpWaGhmRXF3WERWbjVxUVF2c1hiMlZ6M2FlNkFBekVQYzVoX0ZJaEk3UEhTa2JiSWwzTmpQRHRYVURlR0xUUmgyQTE0RkotM2l5M9IBtgFBVV95cUxNSjc4RVpMUnZYTHdFMWU3cDlLdUh6Qm1MSGpTQktLcGpHNmt6cGdaMlRvR2ZWWGphbVVSSks0eUEyR3JaTmphREljaGN5b1dIcHpRelA5WlpXcmxvOGtlR0ZVOElIMklKbzRJZk5qSXNlQzExcDJuaGNRZUFEd09rUUxjRnhNT3g2aW5LZnlMUjhBblNNbHJxYmNUSzZ2TVRQR1NlT2s4clkwM0VuQnQtQ3ZfLUh4Zw?oc=5",
-"source": "BleepingComputer",
-"published": 1793359226.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "8f841487a8bdd5d0",
-"title": "Chevron Expects to Keep Microsoft Data Center Power Timeline",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBTLXFCT3M0VzFoMFU2ZFJQMXhKQmRrQmdyT2tWT1hvdmtIYS16QndoTm94NmxnOHUwTy1hLWFYeC1pMFpWb083a3pwSHdLdW5WQXhaNkxsc2c?oc=5",
-"source": "www.tokenpost.com",
-"published": 1793359140.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "551eecc2a413a5f9",
-"title": "Microsoft Showed Me What I Needed to Know to Do What I Was Going to Do Anyway",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRGJFN0Q5Zk5WSl9ySjB6MzFSa3dDVC1rdFZfbEV4bVoxaGNwWWFGYWNpaEx1OHhtNGh5RWM2aU1mRG85b1JWZHhZbng3N2tBQzlfYjZvVEVnVk5NY1EwS09WRWdSNjFPX1N0N0N0QWVxb2FkZUthNGwzS0VNWmx2ZE0wMTg2REU1d3JkUGJZTkZRNDIzRElaajNlNUVBLW82?oc=5",
-"source": "Yahoo Finance",
-"published": 1793358919.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "8d1d2d3c034fe0cc",
-"title": "Chevron Keeps Microsoft Data Center Timeline Despite Texas Pause",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZ04wZW9VRUZUWXJLZ19LZzVaX3haajZLWnlVdWs3SXVnMjhXb2RLZEVScmFXbGtTNFFxRnZ0SGlzczE5ZElINWxyYjV3RWhXenlFU0d1c1ZoXzIzLUU4QWxtU01DMTU0LVFnX1NKVjNmREZfVXp1QndiajBaUmZ3OU40TlphRmpLUnVqTHY3emFiVkw5LWJEUWUxbENwbm1lYnZfN0RIRDBQalZvR1dzNTlRZlNRakFEOUY5cVpJZw?oc=5",
-"source": "Energy Connects",
-"published": 1793358896.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "894f4c20c4b46dce",
-"title": "HOTU Win Tesla Cup, Eternal Fire Eliminate Astralis",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRzdQeFNENVlDa2JFMHNtTkRLaXdZLUlWa2JnLUNTUkczZm9iWTltNVQ3QzROdlFmeVhpeTlTaktVVGJHZnlxLXItZ216dWk1NllkSmx6aGhhY1FLX2R0RXJBaHZOOWx3Z24zbl9WMUg4MlpwMzlrWGZ2YXZPVXNfNlBTSE1HRDNtLVI1ZDJqd3BtMC1LdGQyS3RyYmJBSTBtZlBvYg?oc=5",
-"source": "RG.org",
-"published": 1793358818.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "e42a1c0e9a236853",
-"title": "Marvell in advanced talks to buy Nvidia-backed Lumentum – report",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNckU4ZmVGY25nSXZsdUJ1MnNwb2lyVzE4eWVpQVYxb3NlaUlJNi1wd0RzUWVYcHJleTdDUTdCekxISkFhSUZqUUR2dmhNbllQZWhQVjUwOWlxU1ZjQzhqMkNXLWVwck9wZmxTX2Nzb1RPUFRyOFNWdDd2SEZLN1EtRDBYOWNwQQ?oc=5",
-"source": "Yahoo Finance",
-"published": 1793358722.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "e08636356b659dd2",
-"title": "Equinor (NYSE:EQNR): A Decent Value Stock With a Clear Valuation Discount",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNWl4cTF3VFhfREcwZ2dxLXN2bkFKRnA4OUZpVmFNNXhrT1lVSG8yTE1sSkdvU1FrNlNRZXpQVlhNcWg0UmNhZi1pUTl2cWZUSTc3bG11X3BBbDBtMTdraXFsZUNwYndmb0o5WldVbnJQMUxoRmRNQWVYajM4OVJLWGQ0VHMtUEZfM0p5OFJaRkRTTjJwVjNrTE1ReldZWkRkaTRVQ0VSX3Q1aWdDQWZLbS1MQ1FyRDlMd1RmWVFB?oc=5",
-"source": "ChartMill",
-"published": 1793358673.0,
-"stocks": [
-"Equinor (EQNR)"
-],
-"keywords": []
-},
-{
-"key": "a3b8ffbfe3435f2e",
-"title": "Street Color: Meta Platforms Facing UK Probe Into Its Commercial Terms",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUVRyQ2tLNlViX054Unc3Z3N1UDBiMTJNV3NmUlpzOFVJazEzb3h0ZVRMZ29WcjRmM0x3Q2tpdkFUVlZwMjBMZVRvMC1XaGJadFZCLXhFeXVoamlLNTZzTmpCY3FJbnU5c1JXSW4weGdUeHJFaUVTeld0VE5USkNBQXh6MFpuckgwUWQ4dnZZOURxZEFRWEpEVWFWNFdvN08zMU1RSGFidWlJcU0?oc=5",
-"source": "Moomoo",
-"published": 1793358514.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "ad423b4f5a50906d",
-"title": "What State Street Technology SPDR (XLK) Bought: NVIDIA Leads on Wednesday",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaTQ2cXZQdHN0cUxHX2EyU3FpWmVkNjY3eFNuRURwanhQMkxoYW12V2RlcjM1dWcydTBoYmZVc2NwX3U4NzN6Slc5MVNGTlM3akR6c21GcUhnNl8yQ1pSZmdzaHJIRWcxMXduQUJ6SmU2c3VyR0w5azJGRlYxX1hMRVkydnlnaDV6OTlKRWZkOHRoYi1fZkFmY2RHcjlXQQ?oc=5",
-"source": "Yahoo Finance",
-"published": 1793358376.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "f852fbd30f1eb4f4",
-"title": "Nvidia GeForce RTX 5080 24GB could arrive in time for Christmas, as 16GB inventory reportedly runs dry",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBtRmlGUGhWVlNKY09wZ1ZfdVBkZ3hIcXhKQnBwc2FPZGVwR2VEYmRxVGFlQ3dZNzdaWGU0aEF0OUkzUlNoMmtIdnc1UGRmeDRKMjhWbDNTNTNfWHNJTFZJWWhSZ1RLWEhxTXd6Wl9ESllMcFBDbnc?oc=5",
-"source": "Club386",
-"published": 1793358348.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "67db4d38518e5c85",
-"title": "What JPMorgan Active Growth ETF (JGRO) Bought: Tesla Leads on Oct. 28",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMUh2d2NLSmctM2lxd2FBdXFmcS04d3hZTFhONDdVZDVkd1phb2ppbnRZdWRLeHVLN2h6R2duWFZOeUNkZDRlTkJtNklOR2lZZjA0eGFwUmhYazYyV0pST1dRYVRIQ1hwMHg5Tl9RMDhwQ1Y3eUpTUkJ4Yklpa2s5RHJfWjFaeDdYRGhENzAxNk5fVENBb3Fqb2Q4dW4?oc=5",
-"source": "Yahoo Finance",
-"published": 1793358329.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "c8af5833c7cafad0",
-"title": "What ProShares Ultra QQQ (QLD) Sold: NVIDIA Leads on Oct. 28",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWXI4Z2NjU1FQX1I0SjBPY2luVUNhWi03amZoQS1WY2tZcENvR0VwMHd0MWNwOE9vc0ZkMml5dXk5dnFhVGtvaFBPeXZBYWx0Q1YzTTMyQmpKcG50Mk9CYnZGdXV3ZDRxTy05eW92bnJ1SGpJTEhvMnhaZjJLdDNQWml5Y19zSDZGYS1iN2NvWnFCQWtwbkxYSQ?oc=5",
-"source": "Yahoo Finance",
-"published": 1793358313.0,
-"stocks": [
-"Nvidia (NVDA)"
 ],
 "keywords": []
 }

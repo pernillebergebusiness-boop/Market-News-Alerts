@@ -1,5 +1,5 @@
 {
-"updated": 1793448280.292477,
+"updated": 1793451222.8781652,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,12 +73,132 @@
 ],
 "items": [
 {
+"key": "97d61fd29be92b8e",
+"title": "Jensen Huang Just Announced Fantastic News for Nvidia Stock Investors",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPc2t0SVNZZWpDekdCMTZ0a25Ddl80R09pdjhYV21rYmJmOF9LbnAwX3BtRFlCaHBNR0RNVm41RHpFZkx2MFJmVTJoRGRFUnRPT011QWN4dW8wSy1sWkVIeDl6U0lRWHppanhXLWhFWmUxSWxRN0Z3VEE1OHFoVGhjVzNLOXF3VjRkMG94b21VWlFtVDJ3WDJ4LWNldlI2U2RQMU9raXgyemtGT1c1cjI4ZGpB?oc=5",
+"source": "The Motley Fool",
+"published": 1793451047.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "26375a51120dc0d6",
+"title": "In 1993, 3 Friends Met At Denny's To Talk About Making A Chip That Would Allow Computers To Create Realistic 3D Graphics. By The Mid-1990s, The Company Was Weeks From Running Out Of Cash. Today Nvidia Is Worth Nearly $5 Trillion",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxOUUJ0ZFctVDBibm1yTXN3YlBGU0x4SEp2YkJ5Y0dMRS1MdjgtU2RkQ3pLUS16MDRDMC16MWJCZWd1LW1jWlNxWDdVUExISXAwMjVseXYwM3VlaDZnNnVBa0pPUXpOXzdUSy0xOEdNUzg2dnY4VFNNZ1VzVkw4bWtMMDV0VUVrZ0FLLUFGdXdMTG0tN2JZenhtNWRrMXlraXBHRWU1WVVVeVRZY1gzMmNlTEVQY29HSGpTUmtkODNLalBmaDV6Wl9pUkZBVElhQnczdU10Yk1SeDNsNUMydTRNQUI1R095OENOQWZkUFl1Y19xeGFQV21zTGgydDktcXliWktzSGg0anhWQWlOOE1IZnpHYVBHbjJQQkl4QTNYZExFWTZvdF80YXRtNnRibk83LXZ1N3pLY0g2WlZwSTVhNk5VQWlJajBSM3FmZnBkRTlHRTVwY3dFNzdn?oc=5",
+"source": "24/7 Wall St.",
+"published": 1793450350.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "79545589b7a6f986",
+"title": "Nvidia’s Megaspeed ties show potential blind spots in the U.S. effort to block China from accessing advanced chips",
+"summary": "Nvidia CEO Jensen Huang’s business meetings are routine practice and existing U.S. export controls largely miss the cloud, experts say.",
+"link": "https://www.marketwatch.com/story/nvidias-megaspeed-ties-show-potential-blind-spots-in-the-u-s-effort-to-block-china-from-accessing-advanced-chips-e75d541a?mod=mw_rss_topstories",
+"source": "MarketWatch",
+"published": 1793449800.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "08b7fb696e9c6948",
+"title": "Nvidia’s Megaspeed ties show potential blind spots in the U.S. effort to block China from accessing advanced chips",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOclh4d1VCTjRJSHVjZFZQbU8tX3c5Mi1uVmNMaWJ6WFo4VUI4aERWaG8zLU0ydWxVeFVqOFEtZmxKR0diWWp4dEZzcWE0a2lrdjBZeWR3R0FDbU9zbU9rd1pjTGd3aVQxdGszeWZBOWxkUXJEZkZwczV5blNrU2MwZ1NxMGtSYndyRVAwSWxZQWtjZnNzRGVJOV9DdnFKYjRob1VLalVwSDFVS09pWjZhQTRMdEtMcnFVd0VKdlNrcFpwSnFiUWtqOENtaE4tVWVBZE9IeUM2R1N3OGtfRDNndFhTTUVOR1FuUlZB?oc=5",
+"source": "MarketWatch",
+"published": 1793449800.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "6ec1592ac5ff6530",
+"title": "Microsoft’s Server-Parts Receivables Rise 28% to $35.7B",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeFJxYXY4SXpxeGJMaWZIT2doZE82NzFyMHJzQ2dTa3ZFNkpvaWxyYnFTX3RkRnQ1NjJ0aVdJek01WFdpell0ZDhkX0hOSDROdjRKSE81U3h6NkpBdFgyTmF6aVNJcjR0ZTJYdzdFU053YW9MZHE1QTVCMXE5ZDMzd3VoRndHYXc?oc=5",
+"source": "FourWeekMBA",
+"published": 1793449742.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "ce8ca661f2cf44ea",
+"title": "This Microsoft 365 Family Plan Cloud Storage Change May Leave You Frustrated",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOHVQeXN5dkZKVHM4LWtQZ19XWEt6a0NUTnFnbm11dG9PbGZseFk2bFozRThVWTVhTENIaHRKanlHd0FSWmVkZ1l1eHZvWkZMRTBoOG5HNmg1SC11NHNDS1p0S21zWEdQN2hjLTFpV0VyOUxQMjBTTlh5NTRTUDY3SXJnbm44aEttcHpNWDJGT1g5ZnNDR1VPOEJXck9qLUh4aVYyNDN2U1pkUVo3MTJ3?oc=5",
+"source": "Engadget",
+"published": 1793448900.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "201e07a54fb61d02",
+"title": "Xbox Continues to Struggle: Microsoft Reports Declines in Content and Game Pass, While Its First-Party Lineup Sees Only Modest Growth",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOYUxYZk95ZXpud29aU3ozMl9YTHRvUHo0MUloMXBoOEF1cGNPRUlldUtsWXVsZFZoSDNPQmdHbnllQ3VYaWNBUVJma2xiM2lXMVI1Yi1TaW9qcEpSN1JXdkxPX0ZRa0dOM3VXaGo3b1kwT1VvNG9naHg5VU9ONGhfUUpRRjBYQmJlcFZFZTdVbHlmUTBPVllUU3d4b2tzWE5CM29DM0xhMGg2RVM3bE9acHVPTm9qNzVDZFJ1Xy02cXplYnpQLVVMZWRQUDhNSm5ydUo5UVZyV0Z3MW1rNjRlb2xwRDF5SWdyZnNFSXFPdzh1NFh3bzU0?oc=5",
+"source": "www.levelup.com",
+"published": 1793448466.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
 "key": "caf5bc43e273a129",
 "title": "Microsoft links ConnectWise supply chain attack to AI agents ...",
 "summary": "",
 "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rZWRYT1FyU0dmWi1WWHU0VUpYWkoyMkJHUlZYdXB6dDk3UTlRVl9PTWlxbXhiSXdUYVRJVjFFb09ETFNOWlV2eDBfanc3ekNnam4ta3ZIWm9hS2Voejl2TWdGQnhhdWxHQ0ExcmJvZ3dQRXNrVUdIenQ1TktIbXM?oc=5",
 "source": "eeNews Europe",
 "published": 1793448010.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "020161c3c712b613",
+"title": "Pilot Opens First Tesla Megacharger Site in Georgia",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50VERUbzdlbTc5ZThxZklYeXluVER0SGtoN1BvcG81VkphRkJhUG9XcFdhc2REMGlmWUhCMm5leUxsT1dnUlhJWUxwdVRJQ0pEZ19TalFiRHJCS1hKQ3dkckxKNTVGOHVuMEFTZUI0NA?oc=5",
+"source": "www.thebuzzevnews.com",
+"published": 1793448000.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "83d2067691d19673",
+"title": "Microsoft Stock: Cash Is King - Rich AI SaaS/Cloud Monetization Prospects (NASDAQ:MSFT)",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcjVSUzVsSWhkcmU5XzlRU3ZEZ0pHVy00N3Rna3NCdEgyN2Nrd09vSzVWa1hCSGJMNFpLVGVncVQtODdTSUJBVFY3S01rckFHOU5nYmhSTHVRa1E0OVB2Y0dCckNhS3V4aTZxTDVDWjlUYzZPb0xIeXFaNWNQMzhfeGx3QzJ4V3NTMlFUeklDQldHUDhwX1hfVGExZzNhY1F6WDVyY3JldUs?oc=5",
+"source": "Seeking Alpha",
+"published": 1793448000.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "edd909a468eaf09f",
+"title": "Holding the power button doesn't just force your PC off, Windows 11 quietly saves a crash dump for Microsoft first",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQMTl6a05EOWhGcVVlR19OUTF0bXFGVVRUWnBNMlU0Zkd3VWpSSGNLYlJicmpNRk1IaHpkbFA4VS1HVkNub1ZMZHFoekpOcFVXUkFVRG5Mb0k2NnB4eXpUVjN6clhhQV8tMW5Ga3VGS0FQcDAySVpySGpXTmN5TlMwWTRhbXlnYm1Wa1lsVV9MSllYQnBacnktNUp2OEJpbktvZU13a1JMY2dfZ1RWeEtHVi0wcUFnd0p4UVZmSEc0VXhfSHNwVERnQUtqM3dBMm1KUXFBZmF1U041NklFWVV4Z08xVks3MlhyMkE?oc=5",
+"source": "Windows Latest",
+"published": 1793447662.0,
 "stocks": [
 "Microsoft (MSFT)"
 ],
@@ -319,6 +439,18 @@
 "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxOMkRJa2JmYlM3MGhGS3huOHhNR2pNcEFyY043bWg4Ujh2WUZxcEZDY2xSdkVFQ051cDNCbzFXSmtVZHVZS2FRcW1vUWNKM2tuNWkwdW5UV2djRXdLUWMtRGlsTGNJOFlfMVM0bTVYaktpdmJ4Zjdzd0pHbXNTR0IweGRGUWx0QzBvZlJ3QTE2Ti0xMGI1a0cyS3NMcFpRRGtZUDM0U1FFSThsOGo1SWZXNEI1UlZ6Mk42UFg1aTF4eWZCaU9Oa3FVVnF5ZmJiRHRrSWpKZ05ybE0zYVdfRk9tNGw4czBWNGZ5dE1hVFVtdDdQeWk0VjRnaGFYd3N2TEs2ZWZCaWFKYVhyU0xkRFpNVExRVWF2c1RzdzZEejU3U1hkUDFidEZGbTBuRFR0WjVOcmtad2VwLXMxMWY5RnlRUzlxVHItNnJKWlBRai1QTlhIWG1FakVvZUF2NHBWdUFUWDhTR1hMNFlURm030gHyAkFVX3lxTE45VjkwV0tKeXhpZ19haDRfVHJfd3FPSjlTeXk3RWZFR2NzNXU1N0ExekxkekFkR0hyMkxQam9mUzZNNjNwQXJteFI0UEE1S01wTjZYcGJya0hMek01SXpSeWw1UnRVNHh2UW4tOUpaTjZUel80TmJEUGh2QkRxZHhLcWpPRi03MU1za2JoVklsd0x4QktOVzdzQTdrekY5UEtwckZHem9vX2dXcHg2allQNERsVVJ2QnN1X1lJQ19oRTBSZ3dGanZIQWZlVHBxNG9JWllPSTVMQTlEWkZXc1NnMUN3WWlnQ3ZkRWJ6Mmw2SHVvUnE4UkVsSTYzT0lvSzJFakw5VWpVUFFyOHlzTTk3dzVJOHkzdUM0UWdEbzVqWUFYejU4UTFGRlVPX0prNzRnemFJRUZPTkplUmYtaWs3OFo4aXgwVVJiUWxsNXhrT2tnTFlBdjZFaWQzdm9hNzZ3Mm5HUTh1SjhPQ2NuR1J0RVE?oc=5",
 "source": "The Times of India",
 "published": 1793440860.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "d3a2fe40887c280e",
+"title": "After using Nvidia RTX Spark for a week, Apple's new MacBook 'PROLED' has my attention",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVUZRVnRTOVZZb09QNDJXUkw0N19RRE9XYUcwVFNTZDFJZUJtYmNseDJNMExIZ2RUdWhrQjZuTVRna2VKTjB3NXg5ZmNsaGViN1pQT0V4XzlVSHhFY0djYlFZS0trLTlIaDBXc2tGZkRuZFg0WmY4d1haNkRWSWl4bDJ2QUVTQ05fUmNxTA?oc=5",
+"source": "Yahoo Tech",
+"published": 1793440800.0,
 "stocks": [
 "Nvidia (NVDA)"
 ],
@@ -4755,140 +4887,6 @@
 "published": 1793366002.0,
 "stocks": [
 "Apple (AAPL)"
-],
-"keywords": []
-},
-{
-"key": "a2a7af49d348244d",
-"title": "Microsoft Is a Stock Wall Street Remains Comfortable With Even as AI Trade Skids",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQm83cDFsbEdqcE1sQUN1TmJjbW50dVp3UUlJZ3QyRzE5U3FBVzNtZGpmMkFRTVlNa0VvYVpnSFNheGp4bGNRakY3ZHZfSnViNmU1VHd4TTRuOU5qd3pOSVYzWlhQZU1qSVFJSGFvWnAxSHZ6MnJ5b1Ztd3ppb1l3M2RodUFNdw?oc=5",
-"source": "Barron's",
-"published": 1793365680.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "8d416973f236f505",
-"title": "‘Game over for America’: Tesla CEO Elon Musk warns of democratic sweep in 2028",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVHFyYk9DZ2hKVnEyeWEwbHhPVF9wNEdyOG5seWxpWFpLbjJMWm1UYzhQcUNMX2EtSEpDYlBkalMxTzZkblFsdzVuU1BFYUhVM2MzOHZ6T2M1OHVDUVpYRzd5VVVOQWotWjVBdkYwU0RyVWZ5WFR5eGxTd2k5WlpLWndqWEQ2bTVONEdYWGFydFQ0WXJCdEhMODhNZDFCSzB1NkF1U1VIdnE?oc=5",
-"source": "The American Bazaar",
-"published": 1793365595.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "023e05cbe7b71a7b",
-"title": "From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQODgxQXV3eVFWRHZ1NXA5SWNIVmcyUjZGYjZEWmI3QmxLRVhKMzNsVHVIc3FMUG1rR2tJNHdUd0dMVDJscVZsMWtyajhkMi1CNVdfYUsyVWFBR1NROTczcVVBQTU0WXFnWWlIVjJ5WUNoZjNSZzdNOG5xOS11S25PSlpkVTBuVkY1QmZuNXkyOTNzaFZIMG5NRmJoNXBIWjdGNnBRbDc1QS1YRTRmSmZTZjYwUUgzX2dMdlJaeHJzcHNHc0R3UFZXQg?oc=5",
-"source": "Microsoft",
-"published": 1793365528.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "ea665af9a2a29eef",
-"title": "Microsoft in spotlight as Freedom ups price target after strong results, guidance",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQV2w4T0FCdW5rNWRBanF1WldUV2RDaGdjUjNqNmt3S09jWWE0Z2c3bmhkMFFEZWVIdUo3eVNid1JXa0lMNmlBRlREUFN6ZkJRT1A5SkFhYmVCeEsxVnRMZWRfUk5icHVuLVF0Rkt4b0o5dGw3V21VeE9CbjBnYTBscGtfdVMydFhPR2cwbXY5NmJLNjJ0VmZjNE1BamVpZV9nYWU0MGJzM19vSHc2OGFKeElFTzRrWlJmRjlmU2FhazdGUEpVRE5MaTRYRGo1OXVGMTk1WnpfTUl6TG8?oc=5",
-"source": "TradingView",
-"published": 1793365288.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "b9fbbf6101007caf",
-"title": "Microsoft in spotlight as Freedom ups price target after strong results, guidance (MSFT:NASDAQ)",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcUNnYklSTGNwWlFUVHZibG8xYUdfRjBKR3Q0YTVucEJ4QUM4aXJEelNqUzEzYmo4Smp4TFBSNlQwUUZhVGljaEtaaXJ4UTR2N1NDS0VEUHZqWGVIeVZIdl82RW5HTFhFNm0tMGJOZFlYVmw0WlAxTnVqOTB1bXhpYVhhczdxeG84dWVkREVOT19GWVN4MDZrWkJiZG1nclcxamFlUHE5b0RJMmwzRzFKd2k1ZkUyM2w0Qnc?oc=5",
-"source": "Seeking Alpha",
-"published": 1793365288.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "d95c340d07f6b7da",
-"title": "Nvidia Weighs Billions in Guarantees for Nscale AI Project",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQU9KNXVWWnF6cXdXUkdtNzc4ZUIzSDZvX0FNbTh3UEY2RGxUbUEyWVVRVDFCNGE2M2NIQUhFUE0tbEI1dHhaTllrMFRNRHlndFhqZ09DeHpiZ2lNNW5ZamNaTFNCSDFYam9OMTRDVUx2MXRmS2ZMYlc2YjdhWjJqODVWTnpkcWVucThPM1FxZUlYenlwc3R0bU1SM2tqQXlaN25Ra2hkdw?oc=5",
-"source": "Yahoo Finance",
-"published": 1793365218.0,
-"stocks": [
-"Aker (AKER)",
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "50f654ab70f621c5",
-"title": "Nvidia Weighs Billions in Guarantees for Nscale AI Project",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZFVWWXVFZDRxdEY4alJRQW5ONzFfYXYxWnJWcXlneWN1VFNVSWNWYzRWVm9aLTVPSG8wTUNMeDA2dFRoU0ptLU5nVTVIRFFrZXFLQW5IMTlRWWVrOU1HT0U2ZVRxbktyd2owRUM3VldaNHpmYUR2cE5fdEJVUEdQZWwweEU4eDRkc0JRcmpTWGh6a2dYZTVkT2p4N1dlZmRtLXNJTUlCaXo4QVhRMW91Z3ZSMDJPNXU4WWc?oc=5",
-"source": "TradingView",
-"published": 1793365218.0,
-"stocks": [
-"Aker (AKER)",
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "d12f9719d4abef29",
-"title": "Pay $28 Just Once for the Microsoft Desktop Office Apps You Know and Love",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRU0zMkNxb2pKdGwzRXowM296bkF1OUpwdGx4UWsxTm5LUFNuSTlKd25KdHdLbUN3dWNPaml1SFU4MEwtdnVTeER3enh4WnpvLVNVSTE2LUJvdTdFckxXMERFdi1zaHlsV3p2cENFU2FUanBVSS0tLXZLSEs2Mlg3djJ6Z0RoNjFnY3pLNUxtVDYtOW9heGpzS2ZIOHE4ZXVBYWc?oc=5",
-"source": "PCMag",
-"published": 1793365213.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "244cfbcd4a34db58",
-"title": "Anthropic is more reliant on Google, Amazon, Microsoft",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWlJ2TlZzZkdpeEh6SkxndllkZzFEZm9IOC12c3lRZnpUUmg4a09VVkp5WmlBTVdCbnNHSU8yVW9DVk9mOHZxM3JrZFQxNXVnMEt4a1NwZVAxS21wMEQ1SWJvNFRaZ05JWkFNemx4aGdJbkhIUVVKZ1dyb0Frd1dtZ0E4RUhJV1VSOXlaOS1URDdua1dMZlE?oc=5",
-"source": "The Seattle Times",
-"published": 1793365205.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "7775ca5c7f788bda",
-"title": "Microsoft Sold $25 Billion in Bonds a Day After Its Azure Beat. Here’s Where the Stock Could Go by 2031",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQVpENW1ySjhnZW1zQkp0WkQ4RXVHUmZrdzNHWUhBdFAzYnYxem0xZ1Bvd0F1dXhPVXFpWjZYUVVCdUJfbDBYWDVXSHcyUlY3QVp5QUZkTWxuS1dBaFRfaTBUTGRxcTVIQ1BvaHJIWVhCWWUwbDg4amItNXI2ajRITUxVLTZ1clBwWjN1eTBvdlpHUkhFd0xKQW1GdW8?oc=5",
-"source": "Yahoo Finance",
-"published": 1793365188.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "390b289fa8fe6b03",
-"title": "Meta Platforms Faces UK Competition Probe Over Commercial Terms for Publishers",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORDdnVXJHbHlCUGlPbFdPSVJpWk0tWDAyYnlDbElhWEs5RVJBaE93SFVZbHI4U2NxeWFGdUpaZ0g3ZTV0SEdtRkgzdFM1RFJHMVZUbmdzd2ZtcS1iV0liaXNTVHd5WFhNb1pCNDZ1WTZsSVFLbm9fR2x5WTBDOTQ2WEpHdXQyRVk1TWVXdm9wS3E2OU1Kam9XeWtfekl5RWdha1hQQ2c3OXBxWE5YWGxZbjNVdV9FcmNCZDZydGxvcHBKV2UycTNlakpIbw?oc=5",
-"source": "marketscreener.com",
-"published": 1793365179.0,
-"stocks": [
-"Meta (META)"
 ],
 "keywords": []
 }

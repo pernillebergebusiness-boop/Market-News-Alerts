@@ -1,5 +1,5 @@
 {
-"updated": 1793464978.3632066,
+"updated": 1793466866.072867,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,6 +73,66 @@
 ],
 "items": [
 {
+"key": "0fd55626d618a313",
+"title": "Jensen Huang Lifts Nvidia’s $18 Billion SpaceX Bet — Spacex Nvda Portfolio Return 2030",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KbWFVd0Rhc3dsVVZ0QWczOUhzclRvajVrS1ZKRnlnOURDSHVVajFsQTJjRkhudGVDOFRVeDU3Ymcta01RX0Q4R2tVeWV4YjdvN0Rj?oc=5",
+"source": "شبكة تواصل الإخبارية",
+"published": 1793466268.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "3e8fa2c0423d46a5",
+"title": "Tony Pollard 3 TD Day | Film Review powered by Microsoft Surface",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQblZHYnBabG1NMWZyakc0aG0wc0lhZXNvNjFRVTFsaWRveVM2dHFubGU1UEVEVWRvVW5sc3JkZlJsWUZ5Z1dXVTNHSkFoQ0RhdHliYXFINHNaenVpZmlqSUw4Y013cU1Ia1ItT0RlSFI0M3hnNmlDQUlPQTltVGZsY1BZczlDWTJCQ0FtcnBCWDVNUGFNWkRTY0lfVVVVbUtZVlE?oc=5",
+"source": "Tennessee Titans",
+"published": 1793466177.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "8cf9fbe4a46e7f70",
+"title": "Could Rivian's Model 3 Moment Be Coming? Tesla Stock Climbed 1,364% in 3 Years.",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONzNYXzBobzBrdjNzNDdNNVkzT0FoZl8tel8yZ01KcGdwUjY0em9wQ0hHWkJzWkpDMlhGM256dXZFdno1SWlwTEwyNzY3azE4TFctUVVfNFYxZXNYa2pWTXB0a3JtZFljdTZwQjJIaU9GUFVIRXY3bVJzUDFwTlJya09iTGJPZUc3T1pCaUZVRmlYMlBnS1NxZw?oc=5",
+"source": "The Motley Fool",
+"published": 1793465877.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "d27a15234b9259fd",
+"title": "Microsoft's ex-lawyer, and now Washington Governor, is angry with the company; says: I love the company,",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQVU9jLVRMdGRQNjVYeFJiV0c5R3hBdXBqVVZOUS12SzhiSkFoVXRGMEgzbkx5dDdPa205bDRLRFJtU2pWUzB3bXd2d25fajd4cFpkYlMzRmhNdjBYLU1jaTAyVTNtcUdlMERGWGdiTndzUzRvcV9MTDRSdWUtcldQWmlramRZcl8xdWlUclRHX1BONWtTeFI0VTNNZXFHYVF1bi1nLXlKQm1SQnptbzM3MWZqb3NvZGYtY3V0VFg0X1F2N0g4NDJpZjhfTmhKbW1yb0p1YVNjSlRockVZbGhocWhneWgxaDFKaG9UeFB4Q2Q0TkoyQkw2TWQ5UUR0NkxYOWNFdWJWbjJQZGdNYVhFVUI5QkxkQnhLTFRWei1OMnZ2d3M1amk00gGsAkFVX3lxTE9HTlYyb1JzMkVyZXMyajhlOHYwN2cxWGNNdG9HTU56TVFjVE5jdVBNVWs1UEM4bFZqLUxtWXVFWXctRThDNmZEOXNJRkF3c0xiU2NDR01iaEFUcnp4RllyOXVlN3lQVV9aZnhReVg2M3N0S2NlcVJjRkNpcnNJNHNtM0J3S19mVl9MMnZEQXR4Wk9BQUhUSm5uSEJoUlExTGd6UTAzN0ZGRVB5RWRKSEhMR3Vid2p6MHVYQ1lvbHJLWTFuMFNPcDQtdFZISUtLRThXNVdRMXdGOW1reEJ3azJuX3hBUVQ4SHRDZ2NuWlVVNUdNS1d5bmlhNGRqTVJITVNvbkZRa3Vxcm9aak50MEpoN2JWVFM2TUluR0pWN3BZNzVseGNNZVlQdkY0ag?oc=5",
+"source": "The Times of India",
+"published": 1793465460.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "d193981749045360",
+"title": "The Nvidia Shield TV Pro doesn't make sense when a mini PC can do more at half the price",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTFZ2UVFMbnAxS1d4RlRQVXJ3Y09EYzgzc1VmMi02MFZrbGFwamFpaVVEaC0zaDdpVHlKOGRXY0gwQjhfOGFxLWNlUHEyVERud1dQTGV5a3ZsVG5iV2I4ZldHVlVGMy01ZnN5ZlRrRXV5Rm9JVEFmVlZBd2FFeFNnY2pNM1lmQ2ZUcDY5Q1BuRTV4MUUwWVZJSTljVEpwVUR4RDlGeF85b3d6M2FuZlI4RHdRcE8?oc=5",
+"source": "How-To Geek",
+"published": 1793465115.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
 "key": "79a7566b0b807157",
 "title": "NVIDIA RTX 5070 gaming PC with 32GB of RAM is just $1,799.99 in this phenomenal Newegg deal",
 "summary": "",
@@ -81,6 +141,18 @@
 "published": 1793464885.0,
 "stocks": [
 "Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "62f1b563d0a465d7",
+"title": "Loudest Tesla Ever Built: Driver Adds a Train Horn and $1,000 Fake Exhaust to His Model 3",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPV214Vk54Q2xXOTFieVlFRFZjNGZNdkV2SWlJeDdneEVmQUVaTjlaOXppSHpLX3RvbkFTZElXeFpvZ0dZdmNzQUlURzlaMGJBQXA3ektlTUxGXzZUNmdyRExqb09UaUtJQVBMNE1ldlpQaTlscnA1TEtjZ2pBb0h0X19CajZsUGd3ZXRvUUU2VzZjNllYN1hIUW1ORF81U00?oc=5",
+"source": "Yahoo Autos",
+"published": 1793464793.0,
+"stocks": [
+"Tesla (TSLA)"
 ],
 "keywords": []
 },
@@ -166,6 +238,18 @@
 "published": 1793462509.0,
 "stocks": [
 "Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "4f022634a37c512d",
+"title": "Car Connections: Mazda, Tesla, and Land Rover",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQVo3ZWhtcTVHWkY4Vl9BRnJtQTJQa3lNby1ldDlyelRsWjBKVXhiV2k2TEZZZjM5WVBiUVljVkVqaDZHc1VTSXNLVWg3VXdaTGFfclVkaUs4VEQ2Z1hiUm5YXzFBOGo3Ym5qLWJtTkhFTG1weXpBbG9sNGFLOWVSaG03X01UdkhIQ2xQRElRcw?oc=5",
+"source": "The ClassicCars.com Journal",
+"published": 1793462400.0,
+"stocks": [
+"Tesla (TSLA)"
 ],
 "keywords": []
 },
@@ -446,6 +530,18 @@
 "keywords": []
 },
 {
+"key": "85fa48bdc4f89aa7",
+"title": "A Florida man faced up to 5 years in prison for fleeing police — until his Tesla's camera acquitted him two years later",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWEFZeEQ1SmZjTHNuSHNhSEgybU9id2JNckhMaVBhQ21ENkdJOGNzQmE2amF5akxjd2JUSFJSWVhfZU5laHgzRklCVWstLU8yWXZWcGZSZmgwRkx6cGpORU5CbDNCWlpiNW5BXzNQVUFncHNqOGxvRjJCOGtZeUptZU5jTXM5UmJIaVVlTnRIWEI1LXMx?oc=5",
+"source": "Yahoo Finance",
+"published": 1793455200.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
 "key": "1c5c237fd5c555a0",
 "title": "Microsoft Really Wants You To Sell That Xbox You're Not Using",
 "summary": "",
@@ -488,6 +584,18 @@
 "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVG92VjMzZXNWWXRXdmdncVI5U2M4UFhaTHJmUmNUTGx4MnJ3UklsWno2TXhHYndqZ2Y0NXJCME0yaEZJSFJwM0w4ZjFJR1VrcWpuVFVxOV9GeWRDWlBTUmN3M2xSZVVGQlUzemk3NkszakNpMnI1RFFFTWM3VUFXU3M5ZEw2UFdnX0d0dFNBNTlCUFVqaVM4bVJsd2xfeFhyaE02b2gtWHhWdHdxMjdlMWZQY3Y3TEswSkJrdmNkeTBDLW1lTUtZN3BUMjh1VnRQRUlibEhBaFYyQTQ?oc=5",
 "source": "autoevolution",
 "published": 1793454391.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "b1368c6d41fe1083",
+"title": "Tesla FSD’s New Safety Trick: It Can Grab Control To Dodge A Crash",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5NZS13elFhalRlUkZjYm1KYXl3QjBPcXZIN1h4YnJ6NThtOWFDZTZydGR4QUstV3VrT1NMSXJhck1vMnFwYldzank4OXZVSkZrRlVmNEJPaGM0dHdJVUd1MDVGb1dwaHdQYWhKWFZwbDQ1eG4zTDZyZmliTnN4UQ?oc=5",
+"source": "Motor1.com",
+"published": 1793454089.0,
 "stocks": [
 "Tesla (TSLA)"
 ],
@@ -610,6 +718,18 @@
 "published": 1793452504.0,
 "stocks": [
 "Equinor (EQNR)"
+],
+"keywords": []
+},
+{
+"key": "f0865309c8dea864",
+"title": "Jensen Huang Just Announced Fantastic News for Nvidia Stock Investors",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdHhTVFYtQ3l2eEZlSV9jRHFJX05VUjRoUEFJVkZLV0t2R2V4T05meU9kT2dxWU92VWl5U3p4Ty01bTBud0pZclRGS2hMYUVHbF9WdzRTUXZoMEFyM055aFh5UmxTZ093UFl0SVN1Vl9zTWJwUE5RN0Rxb1JWTVloWEVJMEhacy02VElrZUNySi1od3Z1bUlyY25MNk0xQWpISmFwQQ?oc=5",
+"source": "Yahoo Finance",
+"published": 1793451901.0,
+"stocks": [
+"Nvidia (NVDA)"
 ],
 "keywords": []
 },
@@ -741,6 +861,18 @@
 "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPS0NwNUJGQ0phMWRHdkhna3lPc2VfWUFZYjE2Q2E0ZVdqLWw0RFJKWldEOUh6TWlzcHN5Z2g2NGJwWlpHckI4dXpqamh1ajFuSjI5MWE1RlNCdEVqc2xmdVF0TnZxZVl5enpEYkRDdGx0RUNBdFZlM1FRYjJyYlZibXJsZnNXalAzb2xrNjF4aWVzRmFoQ0lhUk9yc0xXb3pMRVZJ?oc=5",
 "source": "Small Business Trends",
 "published": 1793448660.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "e95315ae968ca709",
+"title": "Xbox Continues to Struggle: Microsoft Reports Declines in Content and Game Pass, While Its First-Party Lineup Sees Only Modest Growth",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOYUxYZk95ZXpud29aU3ozMl9YTHRvUHo0MUloMXBoOEF1cGNPRUlldUtsWXVsZFZoSDNPQmdHbnllQ3VYaWNBUVJma2xiM2lXMVI1Yi1TaW9qcEpSN1JXdkxPX0ZRa0dOM3VXaGo3b1kwT1VvNG9naHg5VU9ONGhfUUpRRjBYQmJlcFZFZTdVbHlmUTBPVllUU3d4b2tzWE5CM29DM0xhMGg2RVM3bE9acHVPTm9qNzVDZFJ1Xy02cXplYnpQLVVMZWRQUDhNSm5ydUo5UVZyV0Z3MW1rNjRlb2xwRDF5SWdyZnNFSXFPdzh1NFh3bzU0?oc=5",
+"source": "levelup.com",
+"published": 1793448466.0,
 "stocks": [
 "Microsoft (MSFT)"
 ],
@@ -4753,139 +4885,6 @@
 "published": 1793375233.0,
 "stocks": [
 "Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "4ef49e1145990c6a",
-"title": "NVIDIA Stock: Analyst Estimates & Ratings",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUmtaX09vY0lvNDRSS196b0l5UFNXbEx0eVp4RmhQT2E0UTVrT2x0MWJQZ1ZLSTMzTk9PbEF1cmNub3laQ1JkaUxnMEJFY0luc0IxUDZvS1V0V21WRnU0RmZpZmtlUDdZUGs0MjdQeVRGMG1kcDkyTmhVOEVtNUlpZ2F6RUFURG5iQkE?oc=5",
-"source": "Barchart.com",
-"published": 1793374950.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "4af8828b02e32cb2",
-"title": "Dow Falls 375 Points On Losses For NVIDIA Corp., Cisco Shares",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPalJyOTVRdGZ2M2ExMm1VWEo4anczX1ZoTUxVWjZBVFd2Y040RVRiUlRyNENZRnljYm5BSjdPdFpEZk13N0phMW52dzFHbEZuWllDNVJLNzcyVWdMODlOUzJlX0RzQ3dSX1N3MUluemdnZUFycDlCRTkybTJyVk95SFhCTzdCTlhVVTdBS08ybkJ5Q2lHMjJPQkV5Zmk?oc=5",
-"source": "Moomoo",
-"published": 1793374920.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "e688beef83f2c394",
-"title": "Nvidia Quietly Removes RTX 5080 Graphics Card From Its Online Store",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOR1Nfc3A1bkV0eDdCUUtJT29vZlMxYlVmeG1mMzJ5dE5nNUtna3pjbVJLODMzRndPb3duajNfX0FaWV9rclU3T3NFWWl0eWpyZnU1VlBVd3JjRTBLMXJxWDVDNWZXd1daTGhzeWVMblFTX25vVDFMV2dpY09ZVHdrcGFrRGFUSE9XMjk5czNJYmpnbFlfMm5qV2dn?oc=5",
-"source": "PCMag",
-"published": 1793374723.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "2385037bdf8cbea8",
-"title": "Rivian’s R2 Could Fill A ‘Relatively Unique Position And Product Void’ Between Tesla And Ford, Says Jefferies – Sees 45% Upside Potential",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMzhHbGRhXzEyQ21PcTNadTJfQzZSYVJzUmtfNW1jRGpYNER0TDNDMTJyWDJzT2xIRXFpZVYxVVF1RjFYNThobkI1dE1RMnlXRlFrWXdtTkM4bGxkbHpnXzJxZy1tb0x6Z2g5LTlRRjdTdFlUWFNENlhGWXpyS1hCU1h4TTNMaTU1ZkxRWjhxZGhVdkhWQU1pZFhQN2s?oc=5",
-"source": "Yahoo Finance",
-"published": 1793374494.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "f2742a9a288377e1",
-"title": "Rivian’s R2 Could Fill A ‘Relatively Unique Position And Product Void’ Between Tesla And Ford, Says Jefferies – Sees 45% Upside Potential",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOTWozNXY3bVZscWk2SnM4RlRTLUpENXE0YUc2MDRSaHFkdGZFX0hSUEVDS1d1cTN1LUhCTzZjUVcxVlZzZU41QjdheU81WDk3bDd3N0xTNWw4T3dFRG9SVjA1b3J0UlhhYWk2NWdvcEp4V19JTzdkSllRaTd4SVl6VkowbVNDOExZZU1NeTA5SkJaQTh1WnZtcFJpSml5QmxHNV80QzkxUl9QdmJyNnJpUEpOcDJEeVhzZmc2ejdERkFDTFNQRVNwM3N2QV9pOVlkZ2F3OWt3bXpNdkg1SGRwTHlUTmZhOUxiaVFLckg4TDZ3WUZSV3Q1YndiUS0yRWV5ZGpWWEtWWjVhRzNXTGZ5bXhzZldyaVY3VHJEQw?oc=5",
-"source": "TradingView",
-"published": 1793374494.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "d4891e30a313f975",
-"title": "Nvidia to prop up British AI giant as data centre boom unwinds",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcHVIRnNWSzlod0RXWU5tNG1mTGhnYklINVBBVGpLcG8xQVZvcFQzdGdYc0h5ZFV4Z0puajlrMWYzVTNhYnVPcE9ucTBJTFA1NDV6bDJtVFN0REFJUTQtNmlkcmxCdFEzazlPazFOOTgyNHl4cTAtdDZXdm1JZXkwRWhEQl9pMlMtZE9QUktrTExPLWZjemtV?oc=5",
-"source": "Yahoo Finance",
-"published": 1793374474.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "439e6825168fdb2a",
-"title": "Global markets live: Alphabet, ExxonMobil, Chevron, Microsoft, Nvidia…",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdEpVd2pLdFV5SDZQYW53cHBNTlZsRzVGZGpFODZhVmppUlRrTjRrN2l3SE9IMzdwVFdTZk1EYmM4Rkw1R3ptRmhsMEdLMG5jY2o5dDh1cUVQNTFHQjJiZDJmREpQT0ExUTloaWZ0OWhhaFg2NVBvclFNakdVdU95OGw3TWFKQlRZdm1uUmRDTDNGMlJHX0s1cWNBbzROMVFkei14RndBejgyYWJlR3Nxc0x0R21GY2daakZ3?oc=5",
-"source": "marketscreener.com",
-"published": 1793374439.0,
-"stocks": [
-"Nvidia (NVDA)",
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "9f975a769b4aadd4",
-"title": "NVIDIA Reportedly Moves Up RTX 5080 24 GB Launch",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPM1YtZXZvd19SV3BsQW8zTksxQjI4UFhsUW9IWWUwbGJJdXpjSFFWVTVVdVU1VzNlUmkyUmZuem1HMjg3THlVWm9zMmJNT1ZSSG11NC1fQk5hcDlWVW00MHVvLUN0N0Zzd1BNUDNPYi15MXJfMWFuN242OXIya29wS25vdVZmdnh4SDJR0gGQAUFVX3lxTE9DSE0tblRpajh1Z3g3anZrX3FVM3Vyb2d5TkhSTHFfN3hqU2tsTEIwdlVtWXluYnhJSWpGLXo2THhyd0VmeVVXeFRwaE1fcTktRU1uaS1VSzhUVGE1d1ZZTHRRRUYxa0ZaWU1RN0dVSExXaUFrQWc3VDVPS1pMT3c0NjdxLTNYb0xPRWM5UlVSWg?oc=5",
-"source": "TechPowerUp",
-"published": 1793374122.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "c74f3cf0e97f7ee5",
-"title": "Rivian stock: Jefferies upgrades to Buy, sees recent sell-off as an entry point",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQzV5U0tFbUlMVENFdHhTR3NTOXhvMGNpMWhzNEFobU5zUU9EVW9QR0FEdURHV1kzNnRwZXhtMXloQlB1SHo4UFJtdXZzZW94VzhsTHZiTTZpZXZobUZwTEdKSkQwZU5XX09ZZEE5M0FkVWZITTFDVFpiM2Jwbm5vUi16N3ZXekwyLTMzUkV3VnRVVkZibWs3VExRTmJVVDFFVVE?oc=5",
-"source": "Yahoo Finance",
-"published": 1793373865.0,
-"stocks": [],
-"keywords": [
-"sell-off"
-]
-},
-{
-"key": "648e91999e29c4d7",
-"title": "This Little-Known ETF Owns QQQ’s Stocks Without the Big Bet on Nvidia",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQkdFcktmWkNRamNtczNWU3Vad2JISXYxUVd6VFE5aFpMWnY0akJGejk5ZnJDOGdKdVFfX000am8xRU84NDd0UjIxQ3lhTDItSWpMemppVHN0WFNRdUR1b1Y5OW1ZRFZzY0hGc2xZYXRRZWlsV2ZaeFdfQXVmejExY2J6QlRRQTY0NU1IX1FBY3lTMDdORWZpQlV0WU5tU0NVNTIxREpPOExKQ3pQeVNaaTAxQ1A2YWM?oc=5",
-"source": "24/7 Wall St.",
-"published": 1793373597.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "bd3e94ec68ee5926",
-"title": "How to Check and Configure NVIDIA GPUDirect Storage for Your Platform | NVIDIA Technical Blog",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUFFnMmJqOW9JN3hlZVRVUDVPdncwRU1zcktZMW5yc0tXcDB4S09CdDhlU0QzOS1zQmZDNl9Oc1VpNC0zODBubzE1T19WbkgzOHRSTDZFVi1XYkRLQ2h0d1ptUGdqTnVxV2hia0JKZTlfZld6aGFyejlLVVhOWkhHdmRfSlBsQzNsNkNkby1ycU5QYUR2UlkxZFhFcWNTTlhSR2hncGpFbw?oc=5",
-"source": "NVIDIA Developer",
-"published": 1793373548.0,
-"stocks": [
-"Nvidia (NVDA)"
 ],
 "keywords": []
 }

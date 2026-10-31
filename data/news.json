@@ -1,5 +1,5 @@
 {
-"updated": 1793419756.6465557,
+"updated": 1793422218.4738376,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,6 +73,30 @@
 ],
 "items": [
 {
+"key": "ec6f9419b4d13fad",
+"title": "Tesla Roadster Evolution: 2 Gens, $200K Price [2026]",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOM1lpR0R0TFk0ZWlrN2docWtCSkFrUVhpWVNIQ0xaOXVoSXAxcUx2NFZ4RTNmdmtOMDg1UW4xWk83ZXpMWW90WFB1YjQzdWNmYnJfa0kzNGpUNk5GT04tdFhGaWhuOUt0emhTbnkwZ1o4eVg1dnphZG44LTV6YTRyYl9KMEU?oc=5",
+"source": "shattered.io",
+"published": 1793421072.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "22f024ac8e4f4be8",
+"title": "Tesla Roadster Through the Years: 2008 to 2028 [2026]",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPazNCdDdsZ194VFZwaExjZlZScjNMTVJIcHo0ZnhVaWdITEFYTUNiUjJJc1Y2TUhkRHdyYm5mTkZTOWdyUTBDVm5CcndzOElrTkVWb3UzQ3hPUVRaTjNNWDBYcThWdmk1SDAwQmswellLMHFfTFlDOUh2aW5Ubm5WRFZQQ0VIM2JL?oc=5",
+"source": "https://tech-insider.org/",
+"published": 1793419577.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
 "key": "4ed230212198c6c8",
 "title": "Nvidia Quietly Removes RTX 5080 Graphics Card From Its Online Store",
 "summary": "",
@@ -109,6 +133,42 @@
 "keywords": []
 },
 {
+"key": "6491ada07f510802",
+"title": "Microsoft Surface 44W charger.",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE56ZS1RejZhS0JTc0Q0OTZMNEVqNTNMWXh0Vmh2R2F5N1F4SVhsZk9QTERrYzE3WjJBNWluUloxQlZlVkVYRnJ3Y19pUDJGVlhMbW9oc3FzVFdXWENjN1BZTVk0OUhZRDRpSWNWTm1sSE9DeUVKR2FsS1A3QXIwQQ?oc=5",
+"source": "khorasantimes.com",
+"published": 1793418328.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "abb9df607e94978a",
+"title": "Why Did the US Stock Market Crash? $2 Trillion Wiped Out",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0yU0djYnFTdjdtS0NfcS1TZXQxT1pPcHJNdUlGMHdjMkZ0RUZGTzc2SUFwa1VaU3dSendOZFFraGJZTEhSMksxRDVfNVZjUnZTZXZ2YV8tcDNQUzBaa0E2dmJKNE95cnlpYjNpRXR6Zm5pQQ?oc=5",
+"source": "BeInCrypto",
+"published": 1793418240.0,
+"stocks": [],
+"keywords": [
+"stock market crash"
+]
+},
+{
+"key": "6764baaaee4b56ea",
+"title": "Apple overtakes Nvidia to become world's most valuable company at $5.03 trn",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNOVlfRExWdGdMQTBBSWJHXzNhQ3o4MXU2clRuY2hMVWdObTA4Q2lLN0RKbnVjUkNNeWZXV1R0XzRaN0c3OS1iRmNEZ1p0TXd2WXRleDQwVnM5TDdFRmNQSlJpQjFSbzU2RTQ4eWpiVGM2QnFLcDd4TVN3MnJ2Yk5uYXU1azZVR0g3RWhRX1BJemtjVDVXUHRMWkR0TXhabjA1ckY3WkNSRXMySnFiTU1mT0dFZklENFNxcUJhWEpyUHh6d2NqcHFZM2FuQXFNWmhxaHhMN2RRV2dtM2PSAdsBQVVfeXFMTTlZX0RMVnRnTEEwQUliR18zYUN6ODF1NnJUbmNoTFVnTm0wOENpSzdESm51Y1JDTXlmV1dUdF80WjdHNzktYkZjRGdadE13dll0ZXg0MFZzOUw3RUZjUEpSaUIxUm81NkU0OHlqYlRjNkJxS3A3eE1TdzJydmJObmF1NWs2VUdIN0VoUV9QSXprY1Q1V1B0TFpEdE14Wm4wNXJGN1pDUkVzMkpxYk1NZk9HRWZJRDRTcXFCYVhKclB4endjanBxWTNhbkFxTVpocWh4TDdkUVdnbTNj?oc=5",
+"source": "Business Standard",
+"published": 1793417181.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
 "key": "d2013175b07b1a58",
 "title": "NVIDIA (NVDA) May Provide Billion-Dollar Credit Support for AI D",
 "summary": "",
@@ -129,6 +189,18 @@
 "published": 1793416110.0,
 "stocks": [
 "Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "00c90299ca525990",
+"title": "NVIDIA SETI AI Brings Agents to Telescope Operations, With Verification Still in Human Hands",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVC0tQkhNcWdhZXE2TlRIZkw3YW1IUnB3RW05TkYwaWs5QUVMTE1FUnk5RFdzSWFHRVRWbGtOR2F1WWpmaXFRakhXVk1HbHVNLTRWNTZQeksxSl9BSExSblJyZTd1QmtfeVBsSXpDRmdoVUt0VC1wenU3cWRqUXc1YTctTk0wcnNrZnRiVWo5WHFGTU1xNzM1LUhJVFRmb3YweU0wbFl6QUY?oc=5",
+"source": "remio",
+"published": 1793415862.0,
+"stocks": [
+"Nvidia (NVDA)"
 ],
 "keywords": []
 },
@@ -237,6 +309,18 @@
 "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jb0VzeVlFZ2t6c1JsX3lpVU1ua1NWSnNUeURURENGNVJVcEVGQnpSUUNNaWdEaU1HbXV4amJPYTdoaFE0RGdoRlFNVUpWd20zcG5tWEVOMTVqQ0J0ZElaXzRGZExNSDZyRmwyeQ?oc=5",
 "source": "X",
 "published": 1793409300.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "46eb9e7a438dacfd",
+"title": "Tesla Robotaxi Have Over 4 Million Unsupervised Miles",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeVhiOVF1eWhMdGZLMjdaOGRsNkc4TGtGUnlfU1RKbkVFODhhemFBR3FJUEdTaWpuWnZuNXl2N2tUZXNVR2FqR0JTZW1oUXktb0o4Y2xFbGdXRUsxMmU0SUpVemtLcHN4TkswRkZmNXlBOHN2Vi1wZ0JkaWZPbjNuTVdTQUJBNk1QUkphS0d4MUd6cUMxaDFGbFk2UVE?oc=5",
+"source": "NextBigFuture.com",
+"published": 1793406794.0,
 "stocks": [
 "Tesla (TSLA)"
 ],
@@ -373,6 +457,18 @@
 "Apple (AAPL)"
 ],
 "keywords": []
+},
+{
+"key": "8a9843673b73cbf4",
+"title": "3 Dividend-Paying Value Stocks That Let You Rest Easy Even if the Stock Market Sell-Off Worsens in November.",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQU21jYWFYTDc0MDhPd1JtU045Y1dlUjhMZnhfelNpRlF4VDQ5YjhHd2t5alRqb09xYXdvNElRQm1nenFCS2hwTE45RnJtbmZsQ3h2Y2NhSURhTTgtajNzUHZNSmZiTFlKTkVWNVNPUHh2amhicHRjVWNPNUJTQjlDV0dVZlVVYmU1UVlJYzlvQ0UyUEFNX2xnNg?oc=5",
+"source": "The Motley Fool",
+"published": 1793403000.0,
+"stocks": [],
+"keywords": [
+"sell-off"
+]
 },
 {
 "key": "4e60e06e9655c747",
@@ -4793,105 +4889,6 @@
 "published": 1793356207.0,
 "stocks": [
 "Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "a6267dd466902ab9",
-"title": "The Zacks Analyst Blog Highlights Lam Research, Lockheed Martin, Equinor and Regis",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOb3ZGOTdFR1BaaEJOTEczVFhONnNmRnN4akNNbmpXWHhPS24xeTlPU25OUXVCM0NJTVhmTFI4SThoQ04wYXkxa08ta3BiQVFQWGRCS3NaLWpLZ2ZKZXpaXzFKM3RYNlE0SXBZUjF2Z0RPRlU5bmVBLVdPenJGLThZRXRQUTNoRVJUUFF3TXYzWHlyMS1ZS0IwbUJyeGtuRDA?oc=5",
-"source": "Yahoo Finance",
-"published": 1793356020.0,
-"stocks": [
-"Equinor (EQNR)"
-],
-"keywords": []
-},
-{
-"key": "5bf96b7ee5cff35b",
-"title": "Microsoft Just Announced Incredible News for Nvidia Shareholders",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVFhkbjBQSFoyMVhLa3pMSlQzbjRHcWx1MU9pN2NaX0RFTllQNUFLdGRydlBBRHQtTGdnZ2U4RUplYkVxWWZyVzRfWFM1NXNjZi1CcWlMemNiSlduVzR4ZVhSTTlSeWl3NV9oeW1SX05KaEQzdm1TNDRLMXJZM01FZWN1ZjNhZUpVWFRSaENWLTROWnpjVlhOWGQzV2RaY2hzRnJ3cHA1TkFTV0NUYVlxLW9MSkZ0VmpWYjlmeExkOG1Ld1h1UWZMa0JHYWs3TXcwc3hsRzA0Q0JhNS0wVWptd1dUSQ?oc=5",
-"source": "The Globe and Mail",
-"published": 1793355959.0,
-"stocks": [
-"Nvidia (NVDA)",
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "50c7966e65084d26",
-"title": "Microsoft Just Announced Incredible News for Nvidia Shareholders",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNc2p0OGdQM0dSRm5QcU82WjBtYXlfVllhMDJoZF9ZZkgzWGxwUjFrV1oyZXRoVndWMXBSMEtTeDZacTRKRzdFTU9UTVB5dFBJUTN1Qk5ZdVRncnlWczBoN3NjTTlXbmVVN3cxaVptZWdpRmJ2d1FBVTYySzlYVlpVZHdydHR3d1d1ajFmZ3R6MG9iM1VxdlFHR2ZjZ2NBS2ltaE4zdTFqYXA?oc=5",
-"source": "Yahoo Finance",
-"published": 1793355902.0,
-"stocks": [
-"Nvidia (NVDA)",
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "96fa4ce6234d5c43",
-"title": "South Korea clamps down on Tesla drivers for unlocking restricted full self-driving feature, $15,000 fines and prison possible sentences — suspects imported hardware from Europe and China, then traded tips on concealing activation logs",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxNeDZKTHFlamRpQmtlSnhNVERKMTVUTFNNSzhBTEVXeDJZQWtHcWdqUVZuVlpiY0dmdkIxeWJBNWpBX0JuVllmZGNyS0ZYZ1lJeThMWV9HV09jaWJfNVBJcDZZV3JNR0dlTEx2T3dkVDFrQXRLdUFKOGVxUXJXTTQyUDRPbGtBaWtEdXByRDFCc09tcktWakE3S2FISVEtbS1DQ2c5eEdRa0llbGtxRkpObk11Uk9BeXRDZHpOZ3V6dlVrQ0l0bTB5X0ZTMzU1ZUplRHFhc1g1YXpVVmpwRnVqOG1mTndySmV0bTRJMUFmQ2wxNnVKVTdkTU5uT1paYTBrNW1KbnhZSC0wUXNudlZjekVQVUE1MllqV3lVaU1lbVFNRktnRlFRdF9MbTdEUWxQdU1zLW1MWkJfMHFxRTdpMTc1Vi1aNXljbWJacFBZdThsbDQtVXZoOGZnbm5OcmxzUWdsNjhhbnR0T0pqc280eFlOTzNkdDB6MmdNUHZXSXB6VWs?oc=5",
-"source": "Tom's Hardware",
-"published": 1793355600.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "4a56cae114a77673",
-"title": "Microsoft's new Surface Laptop 13 is a very good everyday laptop",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPS0F0d3cyQ0YzNHNCWENzOXluSzktbUtyVlBIS0dFVWI2eUZaV3ppLUVSU0tzdloxZjFBTFFTM3NXRmlBRV94V3FrZWJYUTlvLXdqYU45eU42d2ktbnlQRGVGUjNfUmkyeU85em52YVQ4WVU4NktVSkdVd3lsZDVIaE5pMmJNU19RQ0FQVGwwX3JWQzRCY3RDeGR6d1ZXd1BBOEpzalZncThxRGdpLXc?oc=5",
-"source": "Notebookcheck",
-"published": 1793355480.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "edfee293c0a3dba5",
-"title": "Microsoft Just Announced Incredible News for Nvidia Shareholders",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaHZLYkZRLU1QYmlxTXdmSl83UkFsNE13NXk4ekFMODlfS3ZDLXRtanFUOEJvODlrTkpnVFFyVkgtbU5QSVRwZ2hfVFRPWmRWOGhsbkpxaEFLV0JWaDRjbVZzc2V0NEZNUlRWSFg3eC11NElFNlV2dlBacHh3YzdsTU93cHY5ZTczeFVBZlA3U3ZpcThRb1RBc0Q3bW84WlR6U0ptV3BTV0ZsVGc?oc=5",
-"source": "The Motley Fool",
-"published": 1793355361.0,
-"stocks": [
-"Nvidia (NVDA)",
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "44618a8f9a4327f4",
-"title": "Should You Buy And Hold Microsoft Stock?",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcHRINTdUZlVPQnFtbHd5b3lONVpTemJCdnNndXh4NS13d3FYTGVldGdNVTZsS0NkVHNlTW0zWUlhM1JjZHRxbmdyT3phdXgyckczbjlBSzF3dUpNTGZxZm1TOGVOSVJiM0FRR2h2R1k1d21NZi1jdzJRMEs3YlkwLXpYMkh3VDFjUU9IOVBYWTNDSm94UC1ESVEzMWk1QzNlbWc?oc=5",
-"source": "Trefis",
-"published": 1793355249.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "437c45b854ae7b7b",
-"title": "President Capital Management Downgrades Microsoft to Neutral From Buy, Raises Price Target to $570 From $520",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQa1VxQ294bGlzOWNqX3F5cGNISG1veFFjbVhLQm1hcW0xa1VjY1JJUENEV3NTQndPNjBWY3BGaEJhT21hRDFqNGxpYUFsZHpkVGxabzhjenV1cmZxZTlqVGNkY1lfMEZGaDJEb01OaXRKcEVuLXc4YVZQbXdyMmNUZzRWTXNYRDRTTnhuNHNVdHR1SXZaeFdlYkY1Ty1ibHlpZTNYa3B6Qmp6bmxJODU5bFlqOFJjREZNMzN3aQ?oc=5",
-"source": "Moomoo",
-"published": 1793355184.0,
-"stocks": [
-"Microsoft (MSFT)"
 ],
 "keywords": []
 }

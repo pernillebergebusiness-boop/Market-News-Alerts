@@ -1,5 +1,5 @@
 {
-"updated": 1793473960.8831024,
+"updated": 1793476025.9708674,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -72,6 +72,30 @@
 "Yahoo Finance: HTTPError"
 ],
 "items": [
+{
+"key": "1e22d549ebb535db",
+"title": "Nvidia RTX Spark Review: The Little Engine That Couldn’t ⭐",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeXlZUTdxTmpxczVCUWdBWktVRVNIcjR0QUg2TGU0bkVLU1JFQ3JQZ1MzZTNRYzBBLWVjYm8zNEdQMWoxQzM0bFdEaERuZDl6SlJsYVFpbmhvOXhhZWduZzZTeHNCVF91RnZpTGo0YlFRMmw1UXBMRjlObTRnOEZCcDZrQTItOUFtV24tVEQ2SHVvMUZUaWE5bEhSRQ?oc=5",
+"source": "Thurrott.com",
+"published": 1793475147.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "fbc67926e2a456c0",
+"title": "3 Numbers to Watch to Know if Meta Platforms' AI Spending Is Paying Off",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQ2MyTF9BYXViaDQ1SDYxY2d0aEk2ZW9GNE5haFdPSEZkNmN6Z0ZkZVlHZy0wMV9qZWxDRk1mN2U2VUNtdU9kVkdPS2tvTEp0aWptbExlM0syS0lyWDlMclE2OWNyN1ltbkR2MDVfSnNjYWpMZTBUQVZPdHczVkM1Y2g4TWpsSlVpc1VPTTZ4aV9nWTA?oc=5",
+"source": "Yahoo Finance",
+"published": 1793474460.0,
+"stocks": [
+"Meta (META)"
+],
+"keywords": []
+},
 {
 "key": "c28185f7c1f8a96e",
 "title": "3 Numbers to Watch to Know if Meta Platforms' AI Spending Is Paying Off",
@@ -229,6 +253,30 @@
 "keywords": []
 },
 {
+"key": "6cdb22fade100383",
+"title": "Google, OpenAI, Anthropic and Microsoft back one AI opt-out",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRnFhODFORkxsakt5TW5NR0hxMHZiVnJwa2JPSkt2V0tQdFlqYzFoaHB0MFljd0tVc3UtMTUyNF9vdi1HT2NXUjNmbVVaT1JTQnRpbFlRY215YkVoczdSd3VNU3BJTGhkU1VFdHd1cF90d1dzbjYxeHRhYldmZ1pHUmdXREtKaW41R2FzODVQYzhNUnfSAZgBQVVfeXFMT0xJWjJHTTQzOVB6SlljbndWa2hsU0VPd3JmWW9TTkdlYzZ3dmVUN2huYWR1QV8xUUNmZG9LZEV1VFVTNXZ6cGdjcnFVbnA3VnVQNVdXSmw5cnpfaUtGd1V4S1ZYblBJUE9HejdkdElxeVR0QWV6Z3IxMUJvemVnekY1Q1lxd3VCSTdVNXJfcm9QTElJZUFqWWs?oc=5",
+"source": "Gagadget.com",
+"published": 1793467149.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "fbe78a347af510f5",
+"title": "Elon Musk highlights how Tesla and SpaceX created wealth for employees",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcXVfdUxkQlk2eFJwMHhHNGc0NkZ5cmpadnMxSTAyRi12ZW1iMlJQS0NyamdodmNuZHFlTTRqcjM4OHVRVi1FSkQyYmU3SVR1QU5yaGlJSUdjLXRsc3NvTElmcldZbS0xa2k2OTdqWjhTblhNOFY3cTJXZVNfS282STVrSGpyenliSGxCQU9UTmNnVUNXOExSOFdwWUJUN0JlcnppVWdzTG9NcW1kR01EckF30gGuAUFVX3lxTE13NkRWczJjdm1oWkxnbGRXUFRtdmwySjZqc1dmNHROa2cxTWZPV0tnRzhBR2hDdXU4R3VmRkdVX3E0bTI0SXQtT2JFVFpyN2JNV2hzN2xxU1kxdkx6aFllRnFkcDBkaWstNW5JeEtDTXFzbGNYa1dIQzdZVkRld0VNcnh0emRUX28xMWJ0Ql9fODNnMTJsZzZFQm9Xd3A1cEtJYTM2TVpqTEdwZVpidw?oc=5",
+"source": "The News International",
+"published": 1793466500.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
 "key": "0fd55626d618a313",
 "title": "Jensen Huang Lifts Nvidia’s $18 Billion SpaceX Bet — Spacex Nvda Portfolio Return 2030",
 "summary": "",
@@ -333,6 +381,18 @@
 "published": 1793464885.0,
 "stocks": [
 "Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "c0f7f98020c79d3f",
+"title": "Xbox Continues to Struggle: Microsoft Reports Declines in Content and Game Pass, While Its First-Party Lineup Sees Only Modest Growth",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOYUxYZk95ZXpud29aU3ozMl9YTHRvUHo0MUloMXBoOEF1cGNPRUlldUtsWXVsZFZoSDNPQmdHbnllQ3VYaWNBUVJma2xiM2lXMVI1Yi1TaW9qcEpSN1JXdkxPX0ZRa0dOM3VXaGo3b1kwT1VvNG9naHg5VU9ONGhfUUpRRjBYQmJlcFZFZTdVbHlmUTBPVllUU3d4b2tzWE5CM29DM0xhMGg2RVM3bE9acHVPTm9qNzVDZFJ1Xy02cXplYnpQLVVMZWRQUDhNSm5ydUo5UVZyV0Z3MW1rNjRlb2xwRDF5SWdyZnNFSXFPdzh1NFh3bzU0?oc=5",
+"source": "LevelUp",
+"published": 1793464875.0,
+"stocks": [
+"Microsoft (MSFT)"
 ],
 "keywords": []
 },
@@ -4825,66 +4885,6 @@
 "published": 1793377039.0,
 "stocks": [
 "Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "679ca930fd6b9fa5",
-"title": "Build Specialized Agents on a Stack You Control with NVIDIA NemoClaw",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNV2dVWll1WVY4NUd3ZnZLRnprWVIzSS1CNGxhakp0cnZzYldYR29LbTNEQ2xrdmNycmdoRy1CWW14QURLeFhUdEVPNjJKOFl4dDRjMFFWZHVIdy1xRHU1UlRGY1VtengxTE9pT3lmd3hHajFkMGxrSVAza0tJMWI1MGhMSjFQQVpRSTFORW1iTXB5RC0xYVFTUTM3NnNENkRHM2tYcTFn?oc=5",
-"source": "NVIDIA Developer",
-"published": 1793377039.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "810104d4e7534ba7",
-"title": "Nvidia’s $13 Billion AI Takeover Reportedly Has the Justice Department Asking Questions",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdmR3dC1EdlExeTBnc3Nub3hYajdoMUhCQmlIUWk3YUttdGlnV0wwQUpHVUM0UmxBUnlBejVjdTZzTC05QnNBNEljRDNreUtpVTFMTWx5dDJIN29FdHFXdWE4al9ycnU3OEljakV1OU90UDZXNXVHSXZDSDZ2TFFsWldITnprR0ItS0RKRGhZMnctVzBCMEN1MTVjVGtncHR5ckNHZWRVSjdDek8yTk11eWVaaEU?oc=5",
-"source": "Gadget Review",
-"published": 1793377016.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "dcfc52db92b7f8f5",
-"title": "Microsoft Bing New AI New Controls With AI Training From AI Search Grounding",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kc201ZlZWSi0ydkplYV91UWZJYzB0d2luQjBmWUFvV0NhLXJBTnlxcnBLeHlKYkd0SkpOMWdFYkdKWFVFRzZ6cVJqbDhLNjJSMHcxWkw0TThyUFNOR0swdXZOTTcwNUVIRFdHVVl3Vl85WUR6?oc=5",
-"source": "Search Engine Roundtable",
-"published": 1793376900.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "bf9de5de44ea6fbb",
-"title": "Estée Lauder Expands Microsoft AI Partnership As It Targets Productivity, Personalized Experiences",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPY2NwWmZURzZQelVpS0ZqTDFyYzZZVGhHTmNNYndhcld0NXA1WWdyQ0E5NExPUXFXcFFsSVg2VkVybWVhR3FnLTVLdzItUndXUnVSckJQU0JZbmNXOFZBTF9VeHpjS0VOUzk4RElxS3BaeWhGaGxaemQyWmt4OW1heFhwbGVjTXBsV3V0TFQzQk5GVFNRSFRJUXpZRjdWQ1hlbzJRYVotOW1rei03WkRVUDlybEFfZmpETnpJeVNscndVc1JMYUpRQm90SXNIR1VUZ0loUkpGS01QaTlaSnJxSTkyeDM0SUdSZFYycEEzNk8wZjg?oc=5",
-"source": "Stocktwits",
-"published": 1793376888.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "98a51eeba2c95e7a",
-"title": "Estée Lauder Expands Microsoft AI Partnership As It Targets Productivity, Personalized Experiences",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPa2dNaUd2VzZjeHJMcmtpdzA2d29xeU9LQ0tXMUlaU28tWXhtQlBYM0RyQmd3VVowNFJGalZpOFlnUGZrU0wxcElsNkpvY21hdWY2cUxLUGxmMERhLWk1TE1ycF9qWWJqMGhIdjBNdm5zYXo4ZzNaNkxGbkd2X0hPa3lEejBzNUhaWTh2VGpMeTBqTGJCaDFMeUIwN0FQbVkxZHZzNkx1czB1VHBOMjAwS0JJemRXQm5ZZWpkX3BRNlRmUkdGTTBsbkJDbktKWnhKMm9Sb251b0JKeUNLQmxaTHJvaDdULU1sb3QzSW96cw?oc=5",
-"source": "TradingView",
-"published": 1793376765.0,
-"stocks": [
-"Microsoft (MSFT)"
 ],
 "keywords": []
 }

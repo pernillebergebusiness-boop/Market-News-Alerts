@@ -1,5 +1,5 @@
 {
-"updated": 1793528846.6107476,
+"updated": 1793531158.082762,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -72,6 +72,54 @@
 "Yahoo Finance: HTTPError"
 ],
 "items": [
+{
+"key": "37fe7fd01b369782",
+"title": "A big sell-off collides with more Big Tech earnings and a midterm election: What to watch this week",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWmhmUzRia1E3UTZOLUQ1YlQxdkdqYkk0dUJINVh5WWtpQ2xhZ0tsakhDbHF5OFlXTzFtTlFrOE5QVzZFbUJjNDRyUDY3RHRNdmhtS3JoQVhkb0RqdEctbjhPV0VPMXRVTDFvOHBXZXdoRmtMY3J5NmNJQU02ZE16RkkxVThKV3BiQVFoTnFtRjc5d2RPLXBQd1VUZ25BSEhJTHB5bkxoOFVFU3R4MHB6UGljUTJNYU92eGZSb29rbFhsT293OFJURldyREpGOWZ0Y0ZTQ1hsMEFxWkdMTE9kU25IZkNSampjeC04?oc=5",
+"source": "Yahoo Finance",
+"published": 1793530800.0,
+"stocks": [],
+"keywords": [
+"sell-off"
+]
+},
+{
+"key": "0124cbb26ab883f7",
+"title": "Nvidia Q3 FY2027 Preview: The Fabless Model Just Got A $279 Billion Footnote (NASDAQ:NVDA)",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbUEzRnZyNUFrdTRLY0s1TGJVdG9yMV9CSUpyWHlScGhiMm9haGc0MXN4MldRUUF5SHA3SUpkejkzdHhYVy1UcmFvSGNlQkRrbS1XWFRnVmhNNVpBa3ZrVXJvVHpxQ1N6RXJodjlfOFhFOEFYMnI3UlJyenEtcWVHeE5HZERyTmR5YkY3WGIwT3d4VUZYSVE5dFlpaWhmd2VoSHhYMTNhYk1DclBrVDN3cUdtVTNxUQ?oc=5",
+"source": "Seeking Alpha",
+"published": 1793530167.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "b76044ecf384a05b",
+"title": "Hackers Hijack Microsoft 365 Without Passwords",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPODhCcXNobnVNakFnUVE3U2x2OHdhSjdDeEg5dFlWX0pqSWxVVV9GWmJ6OHdmVDBCMGItQ19aYnNobmxINUhzMWNwTWhOTFJ4QXludjFndG1hVWUxRGp4SElLd21SYlc1VHBEZ2tuVGVpUmdtVnNTUzZqR2pVQlY4MzNR?oc=5",
+"source": "varindia",
+"published": 1793530072.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "3e260a8a72249287",
+"title": "Godfather of AI Geoffrey Hinton says Google will win the AI race; those less likely to win are Microsoft",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNbTlCTy05dDNOM1pYZVlFY2QwZ1lZaUZXMlJKZ2pDWFFEaEtxd2RnVmk2RkU3ZlIxck9jMGREYUtmOWRtYkJzdXA4NG9VZWFqWHVLeXZ1X1o4N2swMEt5MnhKQUs2aDI3RldtUm8xU1VSUkRpa2ZvbFh6ZnRBOHNtRkR3SkV3ZGhJX3FYc2ZpYkpKNDhfZVFZN1JiMkZReTdRNDZTY0hoUkhfLVRkbUVVd2dyMXdkS2JMeGRSMmdSLWZlODJFYjhXdzluc3FYclZVRW9Vb1FUeUlLNEJFOW1Rd3dKc2tiRlRTNFRmcU1nZkZGeEM1b09CU2RGOXVmMjI5ai1jUE1Ocjd6QUljc21BV21xdkJGaWhQcFdr0gGgAkFVX3lxTE9VWXdSTjQ0MFpoaDBjTTN6el9FS0RkTGtSZUp5YUhaTGZ6X1pDX0c1R29RdXl4TUh3MzJXalB2dG0yWTVYTkRKam1nOUhZWmF3dUVMUHVXQlA4WVZvenAzcm5TOXVhSkltVEZ6dWMydjZ6c2hmaUgyUS1IX2xIYTZlSmI4RjJfWF9vTDVodGJ5X2Rtb2dhZW53TDcwM1Y1aDVEdXRTRlZEQ2ZZZ1MzaFJCN25tZXBJQl9DRWsxbXhxTGtWQXpKQWYzclVyeUJKSmdfQ21yS015eUJSNXFxbTZHdUtSQ2JGRklhc1pwdFVTbWlBRzBwR1pZZjU3eW5TNHNTOEs1SlJ4ZjBuQkNDNl8tX05COWtybXdISEQ2VkQyNg?oc=5",
+"source": "The Times of India",
+"published": 1793529420.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
 {
 "key": "9aa6a77e8ef08aa1",
 "title": "Microsoft CEO Satya Nadella says that when Dario Amodei, Ilya Sutskever, Sam Altman, Greg Brockman and El",
@@ -153,6 +201,18 @@
 "published": 1793527469.0,
 "stocks": [
 "Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "0499042c139205ed",
+"title": "AMEX, Pfizer, Microsoft: See big names funding Malliotakis and grassroots backing DeCillis",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdEZ0aVFnNzZxWDhTUFdpeXduWTRzZGJaU0xoWlA4ZnZTUk02VW51SGJScGNoQ1lOUEw0ekdLR2kwZHcyR1Fmc2kyT05qNU5SS040c0hpdFptTENnRmxkZlk3bTdQYjJWSkpVTkxJMkV6T3Q1UzRoaW9aaUJpeFZyQWxFYnpwU2t0ZkliRFFXRzZYdjRRVGhJZ3E1RzJjNEloZnJoZUdtSkU1VElJeVFwS0VHbGIxbVBSVURjYjJ0blBSUXdQTlBTSWt1VzU?oc=5",
+"source": "SILive.com",
+"published": 1793526600.0,
+"stocks": [
+"Microsoft (MSFT)"
 ],
 "keywords": []
 },
@@ -703,6 +763,18 @@
 "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbGJNX1djREg2OUd1QVVpdVlXNTItc3NPbzhMZ3pVYVZ3WlZheDZ6WDloaHRvMmlHa0R5YmlzNXRYSG1wdWcycHRXdTJHQnFYX1p5cjZrQ0U3am5OY2NHdFdOVEkwWGsxM2pUSVNqY21vblhiZGQ2eHA2c1BvNHhmMmxmUmp6blhJcUFXa29LT08?oc=5",
 "source": "https://tech-insider.org/",
 "published": 1793519424.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "069c92497330952c",
+"title": "Tesla Cybercab Dallas Launch: Nevada OKs 5,000 [2026]",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUWRTa09QRFJuTlBVMHViYkZrRGlHWE11S0t6OG1rRE5tamRPdDJfNVlrcmpEcWdpU1RXZFFKemdLLXJJRlBqYjJYVFJNeUdNUEtsZzZaVklybnU0X1JaQ2ZSUXR3NVRpRDNTc3I1TzdrSXo0bU1oWVJkR1BMdnZuZmMtZkQyX19XYzdPTURhcW1nWW1odVgtM2FKd3VtZw?oc=5",
+"source": "shattered.io",
+"published": 1793519213.0,
 "stocks": [
 "Tesla (TSLA)"
 ],
@@ -4807,78 +4879,6 @@
 "Aker BP (AKRBP)"
 ],
 "keywords": []
-},
-{
-"key": "5916c05cbe185dfd",
-"title": "The Quantum Race Needs Tesla’s Engineering, Not Tesla’s Myths – OpEd",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMkxhRDBtaVJFaVlQVFNGUXdidEF0NlVWOHA5XzhRcGgzZ1dBR0N4dXhvS3dvOHlQLU9QVDAzSF9vUmtUM0traEtqM3FodTE3QjQyVEJrNXp1N3ZCNm9QTnlOWkFTeHdwQWRHaWlZVmNFTlU5eFF2cGRqSkt5NVQ0aEJoSlJ4ZzV5Mm9ERFRCcWdraG5QLTk2bTh3MWFabmZ4bHJGc2pn?oc=5",
-"source": "Eurasia Review",
-"published": 1793405770.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "c947cbd518ac3c8a",
-"title": "Stocktwits Zero To Sixty: Rivian Raises Delivery Guidance On R2 Demand, Tesla Expands Robotaxi Fleet, And Ford Advances Low-Cost EV Plans",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPLXhSVXdhZ1RNRVdGbWFtSFN4dWtMWTFHS1FqYlRGZFVVSDFpc3lYTFRXZy1WV0Z3MzdockdxVi1ndDJTLXpoZjlSMXI5Yl9vRkl5blp0cDVuUF9kWmx2RkVBWDVreXo5UnhNUGR0T0NLWHo0UmNvV2hXQmh5WjI1SG5LSEwwbzNZZnlocTh6YV9uTGpYY3ctb0RrRktWTjJoQWc?oc=5",
-"source": "Yahoo Finance",
-"published": 1793405400.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "ceee62f4a9c49d5f",
-"title": "Stocktwits Zero To Sixty: Rivian Raises Delivery Guidance On R2 Demand, Tesla Expands Robotaxi Fleet, And Ford Advances Low-Cost EV Plans",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQXzUxaWJXeWN4MlZkSkdfYkQtSG1waHhMOUdDTDY0ZVVIeWJzWVFuZ2FXSjhIYWhZNGpnR1NVS0NzQ2JacURoX1IxUFQwR0J5RUJTZEQ1bXFyellidXl3Z256ZEJFX19oa3VIUkp5WUxEVUxFWFBvYzRMV2N2YVhLUHAzM3ltaURBZTc0MG45bkM4M0NPTXdOcXBPbXVMaExGWnpoUElEcy0xNER1MlZVY2RRVnA1ZHNXM0xDS2dSbWY3cGxzcEQzZmFwTnVWR04zb2FKOTN2OGV1T1lCQmZqMjd0dkU2VC1uUWliaDJ4TmRsLWRUc000UHVMdktQaC1NLVhuWE5HRmVheWE0YTFnTjRoNlo1UGgtNFBzRWdCZFM?oc=5",
-"source": "TradingView",
-"published": 1793405400.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "023462a3ba314d6e",
-"title": "The Tesla Roadster through the years",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNT0E1OEdzdlRMTUdTQ2xmVFNpQ1lFRnJNTzhfdl9qVkUtdXhuTlFVOEZBSXRjMXliYU9LcE9jbml0bFBjLUZnRnFqU1NVMTZBX29VWm11N3lId3ZHNVRMRGJqMDJGRFNyX2ROTDRvZkpZdmo0OThqNkxzSUdTWTh6VXpwRHlDeHpEM05iRTcwTXdmcjRJTEM0dVlXRHllWFdEVl85VQ?oc=5",
-"source": "USA Today",
-"published": 1793405306.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "6163829a313d2743",
-"title": "Chinese Spy Linked to Nvidia CEO Jensen Huang Alarms White House",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNTNXdWI5eDJVZUJ1LTl0bV9kd2llUGlxVEY3V2NtOVFTQnRVdFdRZUE1WmRJTVp1bDZvYzFCSF9OdmdHTVRxdnVfN3JRVTY5RnlrTzdHdkJ1SWRHdnM2cXAySTlzaDR5amN4R1NDSG1WVE1qNFZaeEJlcjB0SUFSOWZJRmg?oc=5",
-"source": "조선일보",
-"published": 1793405100.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "2eed2c635400047a",
-"title": "Stock Market Crash: Why US Stocks Now Swing Like Meme Tokens",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9IUFBQUFVsSG5qZUtMTDZXdTJBRkFoa2VRZlE5YnRGTVZOY05NV2FYczQ2TkxiSWFVa0xvY1NSeHhTbGMzVDMwTFVLejVDd2hnMnRrSW1nNmtJRlpzX0UwUzV2UUlZaWxrbVduNjd4ZkZvWUViNGdv?oc=5",
-"source": "CryptoTicker.io",
-"published": 1793404973.0,
-"stocks": [],
-"keywords": [
-"stock market crash"
-]
 }
 ]
 }

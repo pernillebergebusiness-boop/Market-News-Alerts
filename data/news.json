@@ -1,5 +1,5 @@
 {
-"updated": 1793512564.0013041,
+"updated": 1793515258.2331407,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,12 +73,96 @@
 ],
 "items": [
 {
+"key": "7aa0712d89a15521",
+"title": "Tesla drivers used plug-in devices to unlock Full Self-Driving and face up to two years in prison",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWmxwVDVCM3pTRHJDWHRBMm10WF9HMEFuelRVTDlTcFhrd2xjQW5TZDMyMkZEdWwzRzNoLWpXZmJwTExFR2NLYkUwenFQVFpaUVFzTHpVeHZhZEFhQVpVVTRrMjdlenF2azdjT1JRcGc5clVLUUZHRnNGbkxqc1VPbEFB?oc=5",
+"source": "The Cool Down",
+"published": 1793514420.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "650d4838664905e0",
+"title": "Trump backs Nvidia CEO Jensen Huang amid reported Chinese spy plot",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZmhaOVZlVF9xOHdoNjIyNV9UQWJnYzRUcDJXSDBOd2FPMUNTcHg0Z2dfRFhUZzhFeUdTODBlWDdIRFBmeXpUcmhXeGFqM1IxSU5OZFJPQzg2OXhFX2FXYkRuQXhjZWRtZmVQSE1zTGNuM2drMGxndkhaLW9kNU9zUDhhOFBkTW1fd1ZlZ211a1dMWG80ZDd0VGRGTTNialZoN05zQnhIOWF0STFsMGc?oc=5",
+"source": "TheReport.live",
+"published": 1793513679.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "653b2b17bdcd2591",
+"title": "Tesla Model S Line Torn Down in 46 Days for Optimus [2026]",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYllwUFNGc2FzWGN3V3lPNXlsTzMyUnhGTWRMdURnSmM5b3ZDVE4taXBPZ1c4RHNITXQ3TEZFWDVmTVBBdkp0ZFJTcmlOQlRnQ2pqbnJhck1IODZ2akJzSzNpa05VbC1qbHBWYWk3Zmg3N1U0MlZSOFJJVTFVdlY4ODA3QjBJMlRp?oc=5",
+"source": "https://tech-insider.org/",
+"published": 1793513237.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "be7b32a5c296cd0f",
+"title": "Microsoft helped Valve improve gamepad support in Steam",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNazl0dWdPSklhTkduc3pXMUozZzFFNHpNTlhKXzVCaktnQkR3WGNveTJSWXdqLXVHSEdCMVVHdmdDRFBHVnlmQlZxWTlWWVp1S01UQzMyelIta3hhVzVKNmY2QzlkZVI0d09Jc2psZDFBbWs0TmY1VFJsdnBXaWdVc3ZYRUg3eDJEenlFLUZUZTAycktMYklZUVNnaXNTZmdzaGMxZ9IBqgFBVV95cUxNd1BmaXd6Wkg0NkpyZ3ZmbmQ0eTFyV1NOMVhFOXBURmZqTDdPVGNSZlQtSjFCWWMtR25ZaUxCRW9DUXRMVzdzUXVMQjRXTkU0b3g4UlpXRmpkaE1oYVBfc0FXNF9ZR3pWSFdEcDBjWGJBRVdhR1l6emZlSk9FWUxib0FmTFg0SHliVXJsZjBnOXg0Vk5hUnVPZXVPSDcyYjhiNFhraVZQdzRLUQ?oc=5",
+"source": "iXBT.games",
+"published": 1793513100.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "4f7584b276fb8202",
+"title": "Could Meta Platforms (NASDAQ:META) Turn AI Spending Into Lasting Growth?",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUWZJTTBNeGM1TXZQdnVjdzRTd1ZEMVNGQ2NzbDBCUWZDRmJLTkFmcl94U2dNMEhFMTVEdE1RVmlSV180QWRnTFhQMzBIcm9BMkxyMU5Rd1B6S0QwOFpQMXdTUk1OVWgwLUhNMzNkUlhZeVZETkc4RHVfSHdURHpaSVhWWkMyNXhNOHl2d0JGdjRnZk5POTFKTTRadmdTVURvd0tfc3VyNnVralJrR2pDNGwyLXlYSWNq?oc=5",
+"source": "Kalkine Media",
+"published": 1793513040.0,
+"stocks": [
+"Meta (META)"
+],
+"keywords": []
+},
+{
+"key": "fa21759f02712823",
+"title": "Tesla Model S Factory Teardown: 46 Days for Optimus [2026]",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYjhjeWkyVWtTUm5TSTVleDQwWG5neWlfcGxMS0ZxM1hoTlVQQVEyeGtnZXJjbVFjbGJmeGYxNUVtVGEwaG42QjJwVkxyTlYtU1paOGhBLXktRTd6ZDBTNTJaVWlISjl2OXBLYi1taEtNbWlaRnh0UWRDQy1KcllBUklzWS0?oc=5",
+"source": "shattered.io",
+"published": 1793512737.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
 "key": "02997941e3557ebb",
 "title": "Tesla Roadster's Rocket Thrusters Aren't New - These Guys Did It Nearly 100 Years Ago",
 "summary": "",
 "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5yVnpqTkRicEpnYlBCaDktMkZSSGl1cTkyS0h5UmxncnBuSUo1ZDJsWERkVkVZZUNLbEhRTGNkdnNOUy1ZaFBtVWhGRm45eWxhWlVkQm5Rd1VBZWNOWUl5UDFtVGNFNDN4dTZwWUdXS0JqTXRlMC1UMTBCa01JQQ?oc=5",
 "source": "CarBuzz",
 "published": 1793511191.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "94a863ba7909505a",
+"title": "Tesla owner fled fire through a window — federal rules don't require door-release labels",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaU94Z2lYc2g3WHdzelZfeHkyQ2dtV2NLZ2V1Q1VMTEdWc2JaQ250bmhBRG5MRmdqdUhEa24zSkRnYlZQemh6VGZ4RTZBWGVRVGlmN3ZsZDY3R1ZaeWhsUHBjVjhqeDhCaGdtazRzbjU4YUNZdEEzVGZ4bUM1YW9uUnltZ2ZXdGhXS0FQbU0tU3gyWWdUSjdTZERmaw?oc=5",
+"source": "Yahoo Autos",
+"published": 1793511060.0,
 "stocks": [
 "Tesla (TSLA)"
 ],
@@ -165,6 +249,18 @@
 "published": 1793506138.0,
 "stocks": [
 "Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "048bae020e35a0fd",
+"title": "If SpaceX and Tesla merge, Tesla shareholders could become minority stakeholders.",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUmFTbzJ3OFFhdllBaWctRklyeF9XWEktc1RiT1hQaU5RQ1ZiYVQtZ01kRnA3dnBRdzlPTVZ3TkhsMVE1VGtPRFVId3o3NEVYZlczM3hobUs0eEl5M2c4azY3S1NyU0t1RjYtcjJUNktaSkRqbEFIV3JYWk02dDgtMGxTRC1ZcU1MdkJYTXlfUlU4S2tLQ1RfanpZcmpDc0t5S012NFpHUlgwM1BoZklr?oc=5",
+"source": "Moomoo",
+"published": 1793505942.0,
+"stocks": [
+"Tesla (TSLA)"
 ],
 "keywords": []
 },
@@ -4790,102 +4886,6 @@
 "published": 1793387901.0,
 "stocks": [
 "Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "9abc8a4399ed68c8",
-"title": "Tesla Plans Manteca Showroom and Service Center on Atherton",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUkNUTS0xdDBKNzNHdkxnV1BxQjFZbXIwLWNDN1FPQlBJSEN4ZlNiWjVjVm1KNTFpcVRpMFZ1Z2ItWDE2Ukxrc29NVFlRLUgzcGs3MXVTS0FHYVM1TThGd0lZSXJQdFZJT2dGdEFQYXhpSUwwWUhPS3Jkank4dHhNYzd0dVN6aHRrQktLclRQcmNfV3dQZmloV1R5dzhBNFFHZ0lLWWFCVQ?oc=5",
-"source": "Hoodline",
-"published": 1793387526.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "e69b3b69db72ae55",
-"title": "Microsoft says customers shouldn't worry if attackers are probing their OneDrive URLs",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUE10dkRIRWU3ZVBKZmZjRjdmcHlHN1dTcGJMa2FWYWNOOURKenlWc2FiX1psUGljSWRaRGRjRHg3VlR5MkJ4c0xRVzZxZXpiYU9hZmZkQ0pEX2tvNVU3TmhrcnQ2SUhSaC0waFFRSFUtZkJZUGt1UVFmZURsVmZyMERlR0l0OW5DV2szZE8wOFgwMmk4bnJwdzZ1eUdlclVVQXNRY21LUG5vM0tNb1ZtOTl6cw?oc=5",
-"source": "Neowin",
-"published": 1793387520.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "55562dface28c718",
-"title": "Next-gen Tesla Roadster’s jet-inspired futuristic UI is built around the pilot",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORTVpamo4cWRid3ZBNU5TZWROcS1QZVktZlYxa3liWDJkdGl5VzBxeGNWOEZmZXFqM1JpTnk0c2t2MTctaW4yc09FT3hXaERaSGU4bzBoSmdkNGtMcy1RTktDQXQtXzZmcDF3UWpZd1czYUlvNmRfUllkUEl4WlViU3dXUGhCaDVIMlR6V0NEXzM1dmNYZEd0TmxleXpPNXMwSDdjQXpuQVgtZ0NrSHFSaHBHQjQtcjN4?oc=5",
-"source": "Tesla Oracle",
-"published": 1793387510.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "1a03ca8679ff4e9e",
-"title": "Microsoft Earnings Expose a Growing Divide in the Magnificent 7 AI Trade",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNa1JtQ3NWa2xFaXA4Uy02UTRoVmY4VHY5Z1RWX2pmeWk5MHhZMXN4enY0NVlZN2F2d3dvcDF5VGs0R0NXTmdON1RaQldmY2dNRDdCM3dEQzlxeVRPR1pDcUtfWjhqSDBpREc5Q0JHUU5pLU90amZwb1NaWUpaRUY5MmNUSG5ESGc0ODJ2bE1CYXVodWoyMDBma0xHNEE3S3NQWEhvLXhnT2YtbUtQNW1qVGdLVURFUmMw?oc=5",
-"source": "Investing.com",
-"published": 1793387472.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "003d30e41ae40275",
-"title": "2027 Tesla Model 3: Cheapest Lease Now Costs $554/mo",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaUlncmhob1NhNVh5VUJxWE1ZaUJLQkxqNVVXWTNiTnlhV3JTWjJFUVQwNjFMLXhXY3JwVVA3eklMUEo3Y2lmR0JmZTA2eGRnREdQaUtYLXdsT0RoSVd2Rk1GQzhMMnR3d3Y4S2hqbkIwNDk5X2pIVER0cGx4MHE4dGxmek1QZmhTSkw0c28zbVB2VUt4XzVV?oc=5",
-"source": "CarsDirect",
-"published": 1793387362.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "c0ab2610047f5f1e",
-"title": "Tesla's $99-a-Month Lesson: Why the Internet Killed Radio's Zero-Sum Game",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YRWZFZDZIMjFuSHY2aUE1NDA2c3lvSkVncU9Ndl9kaHZWd0FXLWxHcVZKTU5zajkzZ3drcG8xV0dBWTZyMDJoQjJ6d1BtajZuLVUwSDh3SHd6VVE?oc=5",
-"source": "BigGo Finance",
-"published": 1793387280.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "90debf31b8347b82",
-"title": "Microsoft offers buyouts to 60,000 employees as it makes a major workforce move",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPa2lmN21sVjRRYWczMU5rTm9oVU5VdkRuS0Y5d2ZjVWF0VmlLVW11UUJFWWJtSHpvV3F1VkNCNEE1R2tBMFBJdENjbmRDZDQtSm10NXFiVlVZYjBzUERxLUJPLTB5NHRxaC1WNWdsNlNJUEo2alFsbVVsemM1R1UyS2FNX1BDRWRSZ2I4a0otTlpEZFRTbFNRYWFFbWVsZFhxVzFDT2ZxeXVuWm1vYXh3ZTlNY2xCd1FFUXI5Ujkyd9IB0wFBVV95cUxPdEpfakU4UlYyWGdOYS1rMEc4MmtSSGl6TVJBYmcxaG9DcDNqekRkQmI1NldiQkdlY1pXZTlWaFhRTWdoVGdnaGppUXhoQVNUdElCQ0V3Mk1ZTGZDN0pzb2VrdzJJUmVVeFVLc1p0TXQ4cmhUTkhWVHFRRWVrZnlEY3k4bm5fVm9UV0lnQjdwWHFDQlc3V3hXdThqXzVndUtCWnVvc3g2OW43NUFLcnBuTTNLZHRHTFpBVmxocXFOWWFCTXlxcUNQZVEtbkFfcWNGR0dR?oc=5",
-"source": "Cleveland.com",
-"published": 1793387280.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "195b3e8b84e02259",
-"title": "Tesla Stocks Move Lower With Cybercab Certification Response Due Today",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWTg3d2xFc3ZQLXVBdVM4eHdmY1NidDBrREFGMjJ3eUd6dlhUSi1OLXRtWWZOVUNOc2ROTmdQaEg0eHE2eDZwUmF4eVFLR1pZWWNSa0x2eVB1MWlfbjJITEowRU9KaWpCTWphdmFMNEVyLWtaelpRRU1Ta3RGZ2FMTDhkeUdwVlRsd19NNmRGWDNWb1JDS2V0SWNubnBWZw?oc=5",
-"source": "Yahoo Finance",
-"published": 1793387212.0,
-"stocks": [
-"Tesla (TSLA)"
 ],
 "keywords": []
 }

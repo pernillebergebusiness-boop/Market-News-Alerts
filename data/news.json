@@ -1,5 +1,5 @@
 {
-"updated": 1793490982.4427893,
+"updated": 1793493515.0303588,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,6 +73,30 @@
 ],
 "items": [
 {
+"key": "15bf49a2869bef55",
+"title": "Amazon, Google, Microsoft Backlog Hits $1.83T, Up 2.4x",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYnpjTllYdmVfbHBERDhxbFhEeTE5WE9KeFRhZmU2dVp0ZnJkRUVpQURwVm1PWUlGQndSekc3YWVHanpWZk5lMUdubFpjbUVMYlU3NF9sUW9nWUtuMXJ3c0Z1OXZiQmNaZ2Y2US1FSGtfa3A3N3pRS1phemxudmpsSzF6WHU?oc=5",
+"source": "FourWeekMBA",
+"published": 1793491932.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "46efbf6f885d3c60",
+"title": "DOJ Scrutinizes Nvidia’s $12.9B Hugging Face Deal [2026]",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNV2ZXRy1DbDVTZ2w4MC1mejlmckRuUU9ZeHFTcEd6aWFxLTN3WndjOWRVcDlydUxzMmRvY0FnOVdLVnVxWmVlVXpTMTRRajJvd0tVU1FTOG1NQi15Z0xmQjg3ZXNFTFljSFY0WlpPTmRlU0R1TzFqU2ZmUUtvSGxyM2JKMA?oc=5",
+"source": "https://tech-insider.org/",
+"published": 1793491522.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
 "key": "dc58ca597246060e",
 "title": "Form 4 NVIDIA Corporation For: 31 October By Investing.com",
 "summary": "",
@@ -109,6 +133,30 @@
 "keywords": []
 },
 {
+"key": "8becd12c8c42fe05",
+"title": "Form 4 NVIDIA Corporation For: 31 October By Investing.com",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWVEzdUhXSFdESmJ6MXVWM1Bfb1BxQWV4eWFXelVUM29RdzVlTUVxdXVkWkNCVXppcVJ5Qm9OSjFIVGZaU3pUelh2VGJTdnZubTZrTlFWdFJPdTR1Z3ZKakdjNEI2U0VjZUYtVjF2QnBCR2xDWE56UVJ1VmltWlhfS1VJSlFaUnJBZ0FidU9HV0dQSjAzQTlJdXJtQ0ZNZTRTNzlF?oc=5",
+"source": "Investing.com Canada",
+"published": 1793485107.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "d939c68085183d15",
+"title": "Microsoft says Windows 11 won’t let users drag the taskbar to reposition it",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUEw5bUZHV2ZaaHVQYVZfZmx3VzUtdUFtVmREUDZKVzRZbGQ2SXNibml4Q3UwdVQ4RmhGYlQ2b2dqVGJyY1h3bmZ3LXVoUjVvUFNXRUMtUW5lejRZNWlzVFV4NXZmNXNmb3VwaXFFYldqVzM0dlVzSVlKb1pHX1Y4SVNyZ2RkMXpu?oc=5",
+"source": "Mezha.net",
+"published": 1793484885.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
 "key": "9e566e2e6710110b",
 "title": "Nvidia (NVDA) CEO Jensen Huang Reportedly Targeted In Chinese Espionage Plot",
 "summary": "",
@@ -117,6 +165,18 @@
 "published": 1793484498.0,
 "stocks": [
 "Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "4020d31aae4f551b",
+"title": "Microsoft explains why Windows 11 users cannot drag the taskbar to reposition it",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWm13LTd0TWtLUXk3Vlo3ZHJkbUdlQzk1U3ZnU1dIQ3RYOTlMTzA0czNjQzdXaVZEenJJdGo1QlB1bWJubzVTeldPamcxamJRR1hyc18wcERiZ3gwMGdVaUtCLUZtdTE3STFwU3ZoeG9uaDlKV1BkN0lMbVhQa3pEZXJaWmNIQ0NKT2tJZW81NlNSdGN1?oc=5",
+"source": "Yahoo Tech",
+"published": 1793484001.0,
+"stocks": [
+"Microsoft (MSFT)"
 ],
 "keywords": []
 },
@@ -4826,66 +4886,6 @@
 "published": 1793383139.0,
 "stocks": [
 "Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "41abb3d624b7673d",
-"title": "Google outspends Microsoft in race to expand cloud capacity",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRl8zQVNGcDIyejlTQXNJOUF6MTJJX181aHR2SmVKdjRnQUJ4U0dwbXY4dzMwc1o4US0weHR4cC04eWtjcnhFQmFEU2d2N0o4aU90Q2l1eExuYWRSanl3ZU1uRC1qdFFaeTlzVVNTUHVGQy1FbjgwWVdCaG51VnNlNUdWU1VIY2VSdWFnazBPVnhUWVhvT3VBell3U3dqR0tLcVE?oc=5",
-"source": "Channel Dive",
-"published": 1793381629.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "5f2a3d9171b41464",
-"title": "Tesla’s rocket-shaped Houston service map: The Good, Bad, and Ugly of the week",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOejZoZmduc2kwUUpqWHRVUmxaeGczMzlUVG9sNjc2TnV2WXJzaGRiWlYyNU01eFFhQ0Fab01PNUwxOFZaQ0VTMVNzb0hsdGprQUc1ZmNXVmVsSlFHdk1WU0hHR19vVUZITUpVamZ0OVBEdjVwektIbDh0SHgzMVdldi1ZV1c0V1pwcnZSWFkzQWJVN3IzNWtHR294TGdBYVRZSnJjTGZzQ3dxTGx5eGU5SW15QzkxX2F6U2FOQ0tyNVBJSlI3OU5HNnJUVGRLeHNZT19zRFhXQXd3QXR4MGhUZUZWcWJ6ZG5odkpha1psMnHSAfgBQVVfeXFMTWFBR0pMZGluanF4dE95eVd1N213N1RVLTdBcExDOGhyUnplc1RWb01IczZMcXpWd2lacHZHMy1IWUktYkhQOExqNVlGVUNYSXJmT19qUGFTeFRVNjZSaVJaQmJuZEFFVFYzZ2l2SFJmSV9TaW9IR24yZnJRTWp4YTFqOXlKOUpKVk5NTmpvM3YxblZWQ0VMRDUtbF9PaGdJWGY4SVN3bUxCMGxvVDdpZ0pYV2Z4eGh3UVJrYTF0T3NTVTlTaks5aFhWc2pLZlRqNktMN20yT24zYWpWeUwyYzNianRaWXdTNi1KblMyTDBDU0lsTEhJUnY?oc=5",
-"source": "Houston Public Media",
-"published": 1793381608.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "fd0bca9f81d70152",
-"title": "Nvidia denies report that its CEO was allegedly targeted in Chinese spy plot",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPb0V3SzhRT3Y2NEQ0YXBfWW1pY1RHTVAyakpxNnF2Y1liaDQxazZEbGJmU1V3QzljcjlNOGpNSG5GMmEwcjVCcS1jQW0tN200NlBZVllHMi1UdHVtTHJlQzJpVG5fVXVXenNNNHNjMHVYNm9DQTJ3bGNtXzF4eDZKcllwajhHd0g3b2pnbnFGZUdYX3o1T2FwcWVPSTAzU1NNUFVGWF9MbjdaMTZUWFN4d3hxSzBabWE3YjdvQm9RdHU1Q1BETDBwc2tkN2VLUQ?oc=5",
-"source": "Sandhills Express",
-"published": 1793381602.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "bbb20f5121e766da",
-"title": "Inklings: Big Tech Stock Rollercoaster • SpaceX + Tesla • AI Spotify • Apple's Bad Memory • Alien: David 3",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcE96U3FRZUxseDhYOXFsSXp1OWl4el9fVXZuZ1FyVG9KeGRGNUw0R0J3RndCTXVIc3UtUERUbnplRHNtQnlNRWdzOVlrZGdlcHhGMlJ0aWJST1laeXlnZjFKcENPSno2UGFnVHhmSC1TZG4xMllOR3pYakJoMW0tVW5aT29wdjNBYXVPWGdSZnNKMWFUMDVqVWJBR3NWOW9TZUlYWWlxbWhFZjlldkkzdm0tYmJoZw?oc=5",
-"source": "Spyglass",
-"published": 1793381516.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "b7ff1520689b56f0",
-"title": "NVIDIA takes strategic stake in Riverlane within $250M UK push",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZ1BYODNNT29zeDFLNXBvTm4xQlhZWFZUc09Qd1BUNmpBeXpSanhsWnJOWEo5Q2IwZzJnSUhPYzVzTnVsaWtLaW8yYzJQOWhyeHNpbXdna09tTUQxZ0cwN3ktd3lNQjJIU21Td0dVNmd6bDh3ZFBDYktuelZrUkR6aTdIdVZnaEVsaXZXRzktVTR3MXo1OXg3cTdyMA?oc=5",
-"source": "Dealroom",
-"published": 1793381451.0,
-"stocks": [
-"Nvidia (NVDA)"
 ],
 "keywords": []
 }

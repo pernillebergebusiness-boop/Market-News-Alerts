@@ -1,5 +1,5 @@
 {
-"updated": 1793500696.8078341,
+"updated": 1793503642.283445,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -72,6 +72,42 @@
 "Yahoo Finance: HTTPError"
 ],
 "items": [
+{
+"key": "48963c50ffb235b5",
+"title": "Focused Investors Llc Cuts Microsoft Stake by 69,800 Shares",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQmFZMkpiWHFFTVdyOWljMlQ2aktJQXRHLTNET0lUVU9OOE1lMWtvRUlQcGE1SWdOalMtNkVWYjJPbXlkeDB5anIzVXBneHYzUnZSSzgtQk4xdGlrdjJrcWd5WFFjMUNacFZaN3hwOFgyU3d3MFR2Y2dDMm5FYkF6UnhVVXF0cmxZdzlNQktOYjJvNnMtQV9NS2drM0pGaGowTkZZVVlTV2NLOXZKTmFGSHBSSDBEOWNmNXEyRWViRmF0OW13Ny1jWGRXSVZmR2JjNHd6eFhLYw?oc=5",
+"source": "The Globe and Mail",
+"published": 1793502629.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "c8fa89258d4f2c8f",
+"title": "NVIDIA Updates Rubin GPU Specs as First Production Hardware Arrives",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNS1dTUWE5QmQtaG56WUdQaEhsbmRNcFVpX1lhOWs4VjQzeWVUUzZ4ZEtUWmRsQ2ZBSkNkU1pqdVRkRkVMQ0xMOThnN29tb0tmZzVkT0lYN0R4MWR2cjZGN2V4ZkJJVExZM3J4TEw3ZXVJMjhIbktta0phYlExYWNhU3UtSExRZG5JUEUtUFBXeXk3a0FOT1lJbkxFaGNNQQ?oc=5",
+"source": "ServeTheHome",
+"published": 1793502028.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "a003eef8c1081623",
+"title": "QUICK TAKE | Nvidia’s China Spy Row: Seven Things to Know About Jensen Huang’s Tightrope",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVVVuQXNOTnBveXA0VEwtZUF5WWdLNThmX3RqaHBTZDViZ2R2VUNNRks5WG5NS3hobUdYV2tJQW5lZW9ZS1R1TUJ6cUVXUmVaREtQalk2SDFaY3pkTlA0bTBCNTQ3QkYzb2c5U3dvY2xWRWFSN09GRFQtMm5qYjNuVkNsUzliZHdJbHU4RXFoWl90X0oxbGFSQ05NSWFDOWZkc0Vaa2hzSzJGb3FaX0xQUkJoa3p2c0JtMnNudg?oc=5",
+"source": "Open Magazine",
+"published": 1793500887.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
 {
 "key": "a8ff6c2a9eda1620",
 "title": "EXPLAINED | Nvidia’s China Tightrope: Can Jensen Huang Keep Trump and Beijing on Side?",
@@ -4852,42 +4888,6 @@
 "keywords": [
 "selloff"
 ]
-},
-{
-"key": "54b047ef045afc1a",
-"title": "Microsoft Outpaces Cloud Rivals with Strong Azure Growth and Positive Free Cash Flow",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOclhseWdqbURod0c3RUozWnhCWjB3ZDhsYjZXUFFnQ2dISHNlUzlrSl92NXpGQndzcHVSSm1wa3l0Q2JLbHRyLXlkalpDSnMtSFE3eEk0US16bk4tZ2E2SVB3QTNTY0tNWHlyZEpQTDNtb21nOWdXSUtMcnJBVXNYTE4wWEdHMVZvOVp0UUZXXzhWbjI4TVRiZmlwTXRsX01KOTI0R1NfSjRfcDh6WG5PYlBGZXRxU2FiOEE?oc=5",
-"source": "KuCoin",
-"published": 1793384717.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "b559a67faded6d80",
-"title": "South Korea Refers 80 Tesla Drivers to Prosecutors Over FSD Unlocking",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWkU5b1Rid3cySnRZeGdFTGFqcEx2S2t4ZmlnNEd5QzVKN0JKTC02bVctYUlHZ0JXUDNrdmJQZURnS0w1MFFFLU5MZWtJN3VnNG85akh1RkFrUE5pYmo4RXAxNklNWXlDSkpIQXRzRXRsVFVYeGZWMUJPV2V1WDFsNFZzbXEwWFBTaTZ3WDF6M2Q5bzE2S3llZDZpQkQtaXM?oc=5",
-"source": "Yahoo Autos",
-"published": 1793384693.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "3c7accf93bcd15c8",
-"title": "South Korea Refers 80 Tesla Drivers to Prosecutors Over FSD Unlocking",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdHEwa3hBYXRvajN1bVBMUjZxWlV6N3E3TlRFNVl5T0RSMEp4d0hUOHp1NUhEdlp6ay1VOF93MHRTZzkycEtub3M3QnpLTzRqQ3dzSmt2bGpwMGdBNVphXzduOUZuZVladFNxOVNsOHRwT1JSTnZDek1weFJ5WUhPQzEzQXY0aVptbUMzWDV6WlJvRGE4eEVlNGhCYTlhejQ?oc=5",
-"source": "Gadget Review",
-"published": 1793384693.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
 }
 ]
 }

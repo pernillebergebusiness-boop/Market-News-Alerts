@@ -1,5 +1,5 @@
 {
-"updated": 1793561340.9045112,
+"updated": 1793563346.703868,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -69,10 +69,21 @@
 }
 ],
 "feed_problems": [
-"Yahoo Finance: HTTPError",
-"Federal Reserve: HTTPError"
+"Yahoo Finance: HTTPError"
 ],
 "items": [
+{
+"key": "701c4cb99b5e770f",
+"title": "Microsoft AI chief says AI is not conscious and we should keep it that way",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOV1ZmRWdLNVRnWVZxX0w4dXVwU2ZfajVlN0hFOTBiNjNJQ0ZjbUlMSjlvWkw0MVBzeHhmV21mRTV1SExTcUdzOS1NSTB6UzFkSmo4eUNCMzFiWUUxVU5DekZXbDFlaEM5eXNFTHY1LWZ2SXRTYW1CQ1NqWkxMUnctSTFCbHg0d0xTbFFv?oc=5",
+"source": "Business Insider",
+"published": 1793562300.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
 {
 "key": "056ca595a3f150a0",
 "title": "Microsoft techie shares reality of his job in viral video: ‘0% lifestyle, 100%...'",
@@ -106,6 +117,18 @@
 "published": 1793558023.0,
 "stocks": [
 "Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "44cc0074cdcf0135",
+"title": "Man Summons His Tesla In The Parking Lot. The Move Backfires: ‘DON’T TRUST TESLA SUMMON’",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9jNTZtSHYwdlBpYTJ6UjdpNUEyNlVndnN0bUs4RVJNdnZSNVVMN3NvaXZXelY3LXpjVVc5YWN5ODZsOFhpM3M4ekVoaTgyODJQek5zUUlVQXRwQVl3SHlmNzk5UHBUa1Bv?oc=5",
+"source": "Motor1.com",
+"published": 1793557933.0,
+"stocks": [
+"Tesla (TSLA)"
 ],
 "keywords": []
 },
@@ -634,6 +657,18 @@
 "published": 1793544102.0,
 "stocks": [
 "Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "736097ada9abdec5",
+"title": "Nvidia, Nike Among 50 Issuers Objecting to OKXICE Stock Tokens",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kR1d4bVFTUWd5RUxRTFNqSHBZMk1HRjFtV09sT3VsMW1jb0RlTTE5VDJpMTVPcFo2eWZXNy1Wal9TSGRZemtKTkZXa2o5U2pjLXVZLVdrQzVkSFU?oc=5",
+"source": "www.tokenpost.com",
+"published": 1793544098.0,
+"stocks": [
+"Nvidia (NVDA)"
 ],
 "keywords": []
 },
@@ -4839,42 +4874,6 @@
 "published": 1793439478.0,
 "stocks": [
 "Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "2ba375a89da092f6",
-"title": "Here's What $10,000 Invested Equally in SpaceX and Nvidia Could Be Worth in 2030",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNQ3o4bVpvUmY4NXJXQnB2VDlfbzVQdlJRTTdjaGJVQ2hKUlBsRURlZzhWeEx3cDZ4dzZfRFJqT1BsblBEcUFLcWU1STJjQ3NUT21YcFZDWnVjMG1DUEVROEpTSUdjXzR2ak9fOWh1M1RNOTg0VlltVEVOdGVCVzcxVzJzdzZxLUxad3dPUkttRDdsSndPWHFGYTUzbTJ5MEJqMzY5bzhodEhYaTF0TTcyeWRRZ3I2S2ItZjVUQXV4Q0RXMmdidzE3QkFERE9JNEFMcGluWXloZWwweVNsTFFPZ2Z6c24zQUxpbjh4eEtDQVZSdzJSR09XM2JB?oc=5",
-"source": "The Globe and Mail",
-"published": 1793439344.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "612b52daaedcdbd1",
-"title": "Equinor (OB:EQNR) Rebounded In Q3 And Lifted Guidance, Is The Turnaround Fully Priced?",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObVpwWW5lN0tQUmFpS29oMEJNLUtsMkVUU1Z5bUY4QndvZWl5c3FrMngwNmZ6RWxDUlB6Xzg5ZmdjVkxPb2VLWG5RWElzRUNfanBzMnRWcFhzS2lpVHEySU56ZTVYeWx4N0pLc0l6TWF0c1haSXI2VEpaVURnSk9UMDd2WlpOSEJibmctZkIwWWJCNVRoNi1BekFrRGRESVJreFlvRURqdGhYakRBOG44OTJxUWlKenlqeXhwcGdtb2U1YUJoOXfSAcsBQVVfeXFMTWV1bXEwbVlzejg2R0h4aU5aTG52c0dEcjJSSHBIR0RpdG9RSU5wcDd3Nm13aTV2TlM1WkU1b19ydVBod1RnY3RzemZGdmtNcnRNa1ctLTFHeG9XVjN3VWpyVDhXQ2dPQ0pYbHJIdWItTWVxZjZvaGw5WmttdE51SjJRZ3dKUl81aFUzWHRrMU5DS2hCaVQxRkJ6NXFSd1VTUGtnUEZEUk9TdWx2WTZGQlNaOUNaMU1XYW1nbWI3R2d0TTBwV0VUSG5URXM?oc=5",
-"source": "Simply Wall St",
-"published": 1793439234.0,
-"stocks": [
-"Equinor (EQNR)"
-],
-"keywords": []
-},
-{
-"key": "08214976ff2df1a6",
-"title": "SpaceX Is Considering a Merger With Tesla. Here's Why That Would Be a Bad Move.",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQRjdIZk1oeDlnZ2ZNM3dpdzRYQ0ktT2otWXVwQmo4OTVNcDR0VEdjSG9mSHQzXzJHaEZ6eVpFSTRMUHFsc3JZYXd2NVIzRXdpSGJVUHB0bEt5d2FVcFFXNWg4Ym9qbnBlYzkyZjM5STFFQ1pQNTJoSUtFVTl4U1lRVFk0VlFLaDZMbFROV0ttXzR1Z3BsdkZ6RU4yRHZaVnE5RkNXd21Fa2MyUkx0ODJONkFKakhFbVh1a0hXbkJDXzNCOW5MNXpaUUtEckFURzVGR3hRMmFyTmxDTWpMVUZnamxZamdEeXliNFBVcQ?oc=5",
-"source": "The Globe and Mail",
-"published": 1793439161.0,
-"stocks": [
-"Tesla (TSLA)"
 ],
 "keywords": []
 }

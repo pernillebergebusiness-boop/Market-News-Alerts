@@ -1,5 +1,5 @@
 {
-"updated": 1793546313.862321,
+"updated": 1793548686.5211918,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -72,6 +72,78 @@
 "Yahoo Finance: HTTPError"
 ],
 "items": [
+{
+"key": "f2b5097cb46ce16a",
+"title": "Microsoft Delivered a Beat on Both Earnings and Revenue. Here’s How to Think About MSFT Stock Now.",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQT1lkOTk4d0ZMa1ZYOTRrOHhNV0ZmNVJhZ0lOTGVnVTk5S2tYYkw0Y0wyX1lkRWtnVjREZ1pGVmM4bGRjZ292dGNjdzlYNEtEcVBzUGU5X2l2WFF3N2JEZFItZzdxVW9Bc0sycDcyY2swcHVkZ1M1cTBac2R6Nm5LdFpMUXFQYW5KQTduM1NMYkkyLW8yaUwwWWpKT3JUM21DZjYyZUh4X28xWjJCak1EdmJqMFFEQ0dzN2ZDN3hWZTZ3aXF0YmVBRjc2dmZTUVNEa3hiWlN3?oc=5",
+"source": "Barchart.com",
+"published": 1793547003.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "48f6a0bff6316be5",
+"title": "Tesla to Update App To Better Handle Android Foldables",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUFE0Nmt1WnlPWmlKZmtVN3g5MDNIMFR6NTdibDZ6N2gzMjVsVWhZaGd4dzN6RTd0cU14TEFBcFN1T19Xd2ZxT053cV9ncFZINVVMQnl4NzVZYTdkdlFNcUZaYW9OVEhxUkRlMEhPcDdRYWRyMU9pMFBMSUZBNDZrM1VqRXl3Yjl4QUxxX2IyRG80QVBiRndIRw?oc=5",
+"source": "Not a Tesla App",
+"published": 1793547000.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "64acc39674cbe4bf",
+"title": "Tesla Robotaxi Fleet Surges to 1,204 Vehicles in Texas, Closing in on Waymo",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRnlOTElxdGF4RXgxQjdDYzdYUURHbzg2ejN1eGpzOXdsTWxYY1VYMWozb2xqYU1PZnZSRjFXZzI3ZHpxNEgzQ0NVOG9ITVk3eTM2a1FSX2NHVGVGTjFKRnRFSEtSblBPbUNxRVZrQnVCdXNBcGFGS3dfcGFKOEJZWHJ5eHBnNG1MQWM5ZWZHRlVaT0tSOTJ5Z21iWTJNd0Z3dldJdEYxUHk0MHc?oc=5",
+"source": "Drive Tesla Canada",
+"published": 1793546399.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "4948424812fb7b14",
+"title": "Rivian Has An R2 Master Plan To Close The Gap With Tesla",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOek1ERGc0TDhYeGhCVzhqbGRFWkZxQVdhVlFjR1dXRFljWmEtaUNrdkxzUGpkeGZpaklLYzdFejBONTRKcFZKeVRsQ1dJTkpESXVBSkZFSUYtdzd0T0Z0SFgwcHVpdnRVREdMM0Z2djhONDUtOVRCMnVlQVJ1RW9YV0xqR2NfTjVDRVZ2MjFBUkVDR3VvVU12NGFB?oc=5",
+"source": "Yahoo Autos",
+"published": 1793546285.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "eaeba70dfab2eeb0",
+"title": "Musk: SpaceX's Colossus 2 adds 'Gun Range' and 'Spam' clusters on the way to about 1.2M Nvidia Blackwells by year-end",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSGh0ZS1Yd3ktUFdRSlJ4QzJubEpFeTRNVjVSQ0pONDlvRFlqMFBJcEpTYVdiZFJqcFFxWHNFclNYd1BiRUM5NDVRQy1kVTlIZzlDT3NIU0YwN3ItWFN1QmtLVUhIMzhKX0pHWVNXUHo1cUdlQ0YwdmY2YUdSWEEzSU1BbF93NGhlaHIybVdjWjBCdF9Pa05xb2hrY1MzaTRtX09mczVHbzJXSXVtWjlBSy16UFFQVWZndENTUG1FN3pDSmxmM28tSDhBdTFPTExqSnNXM0tQMHZhZEtQSlJj?oc=5",
+"source": "Dealroom",
+"published": 1793546277.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "f571d49db4b5a11e",
+"title": "Give Teams enough RAM or look worse in meetings, Microsoft warns, as it still won’t swap its WebView code for a native Windows app written in WinUI",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOMlJObUk4b2R4NzFIX3FfRzBaNzg1b2poV3hWaGNsLWM4clpmR25WUmZGQXlDNEhqa0hBd3lRTWxGX3p1REJPNnNqREt6ZjJYOWs3TWpKZlVmQ3hOSXI3ZDNpeEpGX3c1WHBUZjRETUFjVmZUVEVXcUZtR0U0QU5ORUdWYVdSRHlUWko4STlpSUU3QlRoa2VMLWE1a2pjYy1iUHB2NFZBRE9fcHJ4WWpUajdZaWFKa1VGLUM0Nk5KQTA1SEFlNkF4V3EzS1pZVUMzUXdxSkdkVGlBQ2pIazVOa1ZyYWkzeWtndS1FUTNna2NZVTk2dlUxdlVETEJrcFM3Vm1lS1lFdC1qeEdaanQxRWlMYks?oc=5",
+"source": "Windows Latest",
+"published": 1793546204.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
 {
 "key": "b53215fd742062cd",
 "title": "Microsoft Stock Has One Thing Left To Prove",
@@ -251,6 +323,18 @@
 "keywords": [
 "selloff"
 ]
+},
+{
+"key": "0b26e193a2bcaf22",
+"title": "Man Works On Wrecked Tesla. Then Plugs It In: 'I Wouldn't Do That'",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4wRjh2Njd0enNkZGVZTHlnTGVsZEZiM0RvVXo2Rm5oMUxNZVVObkduaWZCME5Pdl9sTVY5SEc5NVQwb0d2ZHpzWUh4cXRlWlpZa1B3a3VRMHBxRUhLTzlHWVJtVUs5TkNLTjFvb1Nn?oc=5",
+"source": "Motor1.com",
+"published": 1793539535.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
 },
 {
 "key": "a47111ec38c773ac",
@@ -4792,90 +4876,6 @@
 "published": 1793431544.0,
 "stocks": [
 "Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "936bcb411a5583aa",
-"title": "Alice Huang: Nvidia CEO's aide and 'spy' accused of smuggling microchips to China",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdTgtMDNUQ0Rkakc1NmE0bl8tNEJMdlNfRWNqVXFWb05NMzBxZC1qYk1obWVpc0kxQVA0S0JGTGxraC1ieWc5dVJJQ0I0RnJfVEtHdUhYUWcxTkU3b29yOW5kbmJvZXlYRFRfM1NMaUl5aUlTUU5DNU9zb0loUFduOXhfeDNxN3BYb3FHM1lXWndLYWk3VjJRaWVERzNvYkNURHV2anFVQUJtVEE1VzZIWUhCTdIBuAFBVV95cUxNOFladFJrdjg0LXNOTkVuSUQ0SWlIWHlDNUVETF9ieHRURHZzTlhHM0RFX3ZqTVVlMXpRcVA3Vlk5ejg2WWFhZG9GWGNqSGR0Mzk2eDFrcnJRdE5LNUNkNFowTGRtcTlZUUQ3VER2RllYV1p3M2ZnelFYTmx1Y1lFZjBQNUF4clNOc0ZOa21VS0pFSl9lQmRFY1FPWUlrX2dUMFowQ1dITjRTaVJjcHBncURxRnFXczBS?oc=5",
-"source": "India Today",
-"published": 1793431519.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "545270ec377e958d",
-"title": "Here are all the new features Microsoft added to Intune in October 2026",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUHA5OHZrQ3RiWmI5Q216c1c0YlVGclp4Sm15QXVkN1ZvTFZmeE9iRnExMXRwM0lZaTBvQmk4eFUyNHFDa3BpVnI0X0VYSDZjdXp4UFdEN0FhZkZHUlZLNHdWdm9DenFMWXBTMmozN2NVaHJoZ1ZZZUh3NHZsakJwWUtIZzh6V3kzNkFaaGZ2WGcxRmU4Q0NmQUFIMFp5cldyMGc?oc=5",
-"source": "Neowin",
-"published": 1793431321.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "8353d2da0cafdd6a",
-"title": "Microsoft will soon allow organizations to auto-launch Edge on Windows startup",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVjR4cWZBUm9uaWRpSnFRd3hRU1lybUF4Y19ncXpfdDc3eVp5d3BaYnpnbFFIWHpkbDJiYWF4eXgxWkVwdjFIMFR2ajVlNE95WVFuVGZBV1lIUzBMU0Z5XzZUMEJXc3lQN1B3TGlHVjFVWWpPNGp4b3BjeXdqVGx3YUYyVVpkN0drdE96Mkc5c0FFeUpnMHdfbjZXZDZQY3NMeXloNEN5Yy1tVWc?oc=5",
-"source": "Neowin",
-"published": 1793431320.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "cca1ed52081f3b81",
-"title": "Microsoft leads takedown of Necurs botnet",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQXhUYkNqWTcxUk5aT2VUYmNRU0JqQzJ1V2ZaZmtmdDhqREluWlRRR0tNNHRERnhHNE16QWlwRzlKdmxKRHZFS0tYTm8xbVBFbjZxRGQyTVdwWmhZamdxRlVUejhVajlLbXRPRS04SVlKUUF2Q3NVOVlaNkVYTUFKdkVsZnZLT2kz?oc=5",
-"source": "TechTarget",
-"published": 1793431023.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "1106af950fa0b5c2",
-"title": "Micron Stock Price Forecast: Nvidia's Planned Rubin Ultra HBM Layer Cut and Declining Per-Unit Memory Usage May Drag on Revenue Growth",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSWtCZ3hRMG0tZW45YmNoZ2tMYTZHQy1nc1VOMl80dUZFUlVGQmZqaVJIOVZFUW5xalRvRVhlRkh4bDF5Tk0wUF9scEtRZVgxV0pQMVg4dktmaVg0NllBc19FV21lcUpKVVhfTmdzczNZekNuNlhHVkU4WkFkT2hhZDJpemYwX1daMUxGekhLYktyTnJjYnR4RklLOHVmZGdFSkQyMDg4eGlCdV9vV3IyM3FfTUV2SUdHM3F5QmM1NmpBdl9pVWlPbkNlSU84TU5ZXzdmbA?oc=5",
-"source": "TradingKey",
-"published": 1793430590.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "6c8d38cd54f14a92",
-"title": "Key facts: Microsoft (MSFT) Q1 revenue $92.28B; $25B debt sale to fund capex",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPN0cwQ2JVLUdTVU5mYWVoeUtSQ080NzRwQ0NDOVByVDlJVkNvT3Q3M2JEX2tPQzk0MkRlMFZsZk95TDU3bG9OQ214UGVSaVU2QU1wMjVoSENMRGQ2N1hpNGRXbUd2UGhYTm9sa3cxa2FUZ05iZXNGLXRRNkdZYXVhWnczcjhkSnB4eGZNOTBQRHJZX1dKZWZ5SG9vUl91MHZtXzFXRmo2cnpTNUlCWU1iNHRuMjg3Y2V2Snh6YlhGblFUbFdDZGVkNVAyd3E?oc=5",
-"source": "TradingView",
-"published": 1793430000.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "75b9dea08c29d329",
-"title": "A SpaceX and Tesla Merger Will Only Be Successful If This One Thing Happens",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOS21aQUp4Ni1KUWNoVE10V1czTnhIZEE5ZXhfc2JIQk9paDBtTTdmYThMdTZvUlFBM1l4VDZJN3lwR0lRTTFQeDBxRVdpN0lxTHZvVjhqNVFZb3RFcUMySWI3VWp2VXcxV1ltelZ0TnUtekxidXNCbEVVRm5SWkFFWjFISDBYR3FwWW5qdV9BRnVVUjlGdDFmS2ozLU9GOFlJSUE?oc=5",
-"source": "Yahoo Finance",
-"published": 1793429400.0,
-"stocks": [
-"Tesla (TSLA)"
 ],
 "keywords": []
 }

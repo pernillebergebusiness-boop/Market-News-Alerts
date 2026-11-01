@@ -1,5 +1,5 @@
 {
-"updated": 1793556727.2247074,
+"updated": 1793561340.9045112,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -69,9 +69,94 @@
 }
 ],
 "feed_problems": [
-"Yahoo Finance: HTTPError"
+"Yahoo Finance: HTTPError",
+"Federal Reserve: HTTPError"
 ],
 "items": [
+{
+"key": "056ca595a3f150a0",
+"title": "Microsoft techie shares reality of his job in viral video: ‘0% lifestyle, 100%...'",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPN1k5ZS1QUDZ6STdSNldXLXRUeFJIdTlfUmFuU3pWVXFFdXBteUJXUUFrMmlNYzJEZUFUUThZRVUyVE5xTEpBRGNwN0VLWW11dVF3QUxfNzNtZzdMcHA3dnhkaG1TSmc2Z1RweFJ0VFZOS1V0bUtaSVVTYWp0UVpMNHNCYWMteFY5YkV0Sks2SFdpRnhLZXhEM2pSYnI2a2ZIYl9faUdfSmVQWTFER1p5clRXQXdLNkY5b0s0aUlOd2YwN2s3dEI1TG95dkNKRGFWeFN1MHM4RVVnTVhObkdN0gHkAUFVX3lxTE96NVBfWjlwYk1kaUY4RWtFTDA4TTR1UzdZdm9zUnptWklkZnZXN3VmOGozM3ZTNGNWQjdfVUktcmtvclZhZXpmMnQ2aUpKNHptTDY2NG5iUnN0QjJ0dWRoSldXTnJjUU5ZUWNvZ0p3NUNURk43aS1ZQ2lKSWhpU2lzWGNiOXg2enNWTXJSS2J0ODhLV0Z5UWNkS3U3TWx6MzF0dTBOSkx5YXNWaFF2c21uU0JadUZyWHFTenE2WmtPRzFyTWJkRnhsSFB2V2pmdTZhQjhUVzBDbEVGY0p5X2pWWWp0Rg?oc=5",
+"source": "The Economic Times",
+"published": 1793559970.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "ae6d8e9b90167c56",
+"title": "Microsoft Surface Laptop 13 - Good for everyday use, but currently too expensive compared with the Surface Laptop 13.8",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPdTJPa0hKS0tJUzRZdUNqc1loTU90R2szMDlWei1Db2FfcXdQcVJYS2djaENFNlluLWN5OEZ6dTU4dlF3aHlHZHNVX1ZnOUxFTGcyTERGNDJDa2JpS0Rla2JkakllcExBOTF4SGtJclVYbXNoaXdWSFBnVUlfYXh6UzdnT0pwRkJDRTB1aHc0Q1l3ZUFaaXBzRU9wdmlJOVJ4eGN6ZHAzRkVFQWZyNldzQ3hObjFqR1lPOFNLVnBWVkFYT01iTkg1aFl1ZEJkdmVGbWoydXVaeHAwR1JlSDk0WTFhRHdCanBrazZrTVMxQThtZw?oc=5",
+"source": "Notebookcheck",
+"published": 1793559600.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "4348e587e4494ae3",
+"title": "Apple Trailed Nvidia 204 of 209 Days Before a $98B Lead",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcWpFYVBLZEkwZmh6Nk52VkREWWFjR3RCdmdWSWZ6b2Z5ZHpsMDVKVldPU2NIS3FHdzN0aGVQWXhnenNySVBsOVdyakRUZFg4WklaZzM4bHIxUEFrMFBYR2pZZGxiVDF5NWVwNE5RUkVTVDc5SzMwTUxDX2VUNVJkOTVWUm9Fdm1LRHc?oc=5",
+"source": "FourWeekMBA",
+"published": 1793558023.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "cea57f9d90751069",
+"title": "Tesla Model Y Cross Country Trip: FSD V14 Test [2026]",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcEpIWHpBc1BiR0Q2NEVSbVBwb25fUFhScjRYNUoweXNBOE5lT1plUVZZY2xsOGQtTlJJMHdqQ1FvZzVPcC1tMjlVbHZCMDBPWktxMDh2S0dWRzRiQ0E1dEo3RXU0M3hjdlZTc0pmUHZDLVdra3JrQzVrblFkSVMwY3NMaks?oc=5",
+"source": "shattered.io",
+"published": 1793557919.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "0904e8129ed70143",
+"title": "Google, Nvidia Led $3.17T AI Stock Slide; Only Four Rose",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTkRhLUdjRzlWMGNkbGhTNmI0enA1MUFnbEpfWGZGQVFtM204bFpfTlRoSW1ZWWlRT3VFa01uc290UEJFVVpBbTZycVdabll6OWMwR0xTRWxsOFk5SHdYaE91cFBaVnF6Ulh6Nlh5c2ZqWmZUejE0SkdWZjJqdFBLMVVPQ1Z1NU1t?oc=5",
+"source": "FourWeekMBA",
+"published": 1793557154.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "8de072d59bc474e2",
+"title": "1 Reason to Buy Microsoft Stock for 10 Years",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSFhiLW1MMmNkYjJQMHlzd09CSWNGUDNpS1ZsaU5Dck5xaFJtUFR6cWxuWklhZ3Voamg3akMzT21UVzNPWDdQYUMwR0FzNkVvODZEblQ3a2ZVVWRLSHVqUGlZQjZ3UF9DcGxuTWFfbHVTU1ZRWnEyOGhZekVSVy1kVFhtbmkzVk53RERfeEJXaVNkTk16Tmd1Rg?oc=5",
+"source": "Yahoo Finance",
+"published": 1793556180.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "fffe15b414a748e7",
+"title": "A $105B Nvidia Guarantee Splits Two $4T Off-Book AI Counts",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUEtQUno2YnhUakphUVhvcC1NZDhTTE9OY24wcWhiWGpvN2FvWUZWeVBxV2o5OVhlUkNqdTItaXFzTjJMX0k1TnhfZUtUNWNnY1Z5ckJHbnRydVpjS1NLV200T21hWEl5bDJEMzNqaVFia2Q3ckNHR2lubEVHMGxqeVphNVF2ZlpMYXpWRw?oc=5",
+"source": "FourWeekMBA",
+"published": 1793555917.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
 {
 "key": "f3f812751da0f1b2",
 "title": "A shortage of NVIDIA and AMD graphics cards has led to a price increase of up to 45% in a month.",
@@ -133,6 +218,18 @@
 "keywords": []
 },
 {
+"key": "1e470f89450a32f9",
+"title": "Man Turns On Full Self-Driving In His Tesla. Then He Pulls A Ferris Bueller To Fool It: 'So Here's The Secret...'",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBFV3pjZVdIdGdYem9rNlZpMUdzWnZ5SloySUIxLUt4SmNVQVJrcllyOXhOQ0xNWkwtM090WW5BME1pUTNZTERSQ052eU82ZVU4b2dUNDV6ZXJ6UWZWM1NFYTNNSGpRYkV2OUJR?oc=5",
+"source": "Motor1.com",
+"published": 1793554497.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
 "key": "fbb8bb8919f5d2ce",
 "title": "Windows 11 says you have a choice, but Microsoft is quietly removing it",
 "summary": "",
@@ -153,6 +250,18 @@
 "published": 1793553908.0,
 "stocks": [
 "Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "6ebb2197bba8fa87",
+"title": "Drive Tesla Download: Top Stories for October 26-November 1",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaUhnS2JxRG5EZnVqODRvMF9aUXlhZHR2V3JmU24ybmhaRWM2cVpud29kVmIwZ3Izd0xCV3FfNF91cEs2SUxPLXF0VVJqSnJ5T25QSVNYelJuTVZXVXVyN2NsUXk1T2FwWXpxMTUzdEZ6VVVUS3U0NjlwSGE1ajR0OU40dk5LeWthUTZycFowc2pqWWFUbHF3?oc=5",
+"source": "Drive Tesla Canada",
+"published": 1793553899.0,
+"stocks": [
+"Tesla (TSLA)"
 ],
 "keywords": []
 },
@@ -187,6 +296,18 @@
 "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOemttd01pUWk5eEU4NHJCSHlxUTBmeVNaWFdDam5WR1dkWnpSVTR4SUc2NHJaczhYRzJTNkYxRy1VRWY2VnJ1UHp0dlY3b1htcnYyQTVHcnlVdFVTWG1QSG9ZTGhTeWlFSkNrYnNnY2NDVjVNMUd3Y19lSXQ5eHBXM1JXOWJEanprUnE5OGVsc0dDRjltTUtoV0lzTHVtTzl3Q0x2dUQ4WTNJNFh5VXREN3BJTWlXazFKNjVrdGRBX1RTMEZHdzZJ?oc=5",
 "source": "CleanTechnica",
 "published": 1793552555.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "46b7a259b8105724",
+"title": "Tesla Plans App Update to Improve Android Foldable Experience",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMldfdjBpZkZhcThHUGROb1E0UlRLcnBzbkFaV2lGS0FXWk8yRjBfc24zeU8zNDVNOElTMUxpRk5uX2JwVHZOeWNPQXNyUDJoNHhHN3BJUExkTWhNTlFGbTk3SUpZMHVEenZNMFoyN2x0WkFVSGpxMnB3ajZ6UEM2bmdOM0lZVTZlZlZ4X2ZWS2Q5N3ZPaUwtelFR?oc=5",
+"source": "teslahubs.com",
+"published": 1793552471.0,
 "stocks": [
 "Tesla (TSLA)"
 ],
@@ -247,6 +368,18 @@
 "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0wN2xHMGxTUUhpYUZLZURyT0x5c3JFV01qclBqNUZvS014bkRpT19yLW9yRGFGY1BWQzVNbWFxTTdpTDgyYmJpQ0dfeno4dWhXbVdWSlAyaThaNURicUFEMjlQdW5RdWJOdEdQOGdpeU4tSVRiMHEyZU84MjVhUQ?oc=5",
 "source": "Autoblog",
 "published": 1793551500.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "e1f2e2dc2a85dbe8",
+"title": "FIFA World Cup playbook; USPTO anti-fraud efforts; TESLA bad-faith win; and more",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUS03RkdiT0xQS0M3YlFWUVZZcWpQQ19QRUZnbkFBS1dBenFBVjk0YUl0WFFqYXhmMmxJdHNWZzNCdEFjQUpUMy1yX1AxejVpTUNsd3hXOWJxeHl1UUNJMEl0TmN0UTZtVnNRTmdBcXVaeXlNcndCdml4TjVRSzEtaEpUV0lSZmR2SWQ3azRWaXc4ZWxCdjVyRGZLUHBzQ2J4T24tY1ZIeEhfYjlhbndSYmJlLUhNREg4RG91eF9aaw?oc=5",
+"source": "World Trademark Review",
+"published": 1793551339.0,
 "stocks": [
 "Tesla (TSLA)"
 ],
@@ -559,6 +692,18 @@
 "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTVBtUjZWa180MUt0YThBSDRBS1ptcVlrU3BDNHhBcGFGZ2FRZDFBXy1OOWZYNmFBdWhjb3RNcGYwWXFkTDF5aVVFVjhtOE5xMlg5dTNzT0xnNWtadlhlbzJ1bkNRcE50cmt4SUMxeHFRUFJyYm1RdFNfTmo3enUzMG92SzFHSWRHZHJKUmZfenp5bGJqTHh2MnluNDdMVExsQnpNY1BrT01XOVg3cmFtYlZ3WVdLMUxEOV9TWnRwZC1HN1RESHg2c2dR?oc=5",
 "source": "Windows Central",
 "published": 1793543589.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "a38361fc32efceda",
+"title": "Microsoft expects few employees to accept voluntary exit offer",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE93WWR0Uzhjd3pRWm5LZm5UTDhtdWFzVmlBZXhCYmVkYm1mYTJTUjctckRhd2tOQ2RqNnlZUWZ0NA?oc=5",
+"source": "jawlah.co",
+"published": 1793543333.0,
 "stocks": [
 "Microsoft (MSFT)"
 ],
@@ -4728,150 +4873,6 @@
 "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQRjdIZk1oeDlnZ2ZNM3dpdzRYQ0ktT2otWXVwQmo4OTVNcDR0VEdjSG9mSHQzXzJHaEZ6eVpFSTRMUHFsc3JZYXd2NVIzRXdpSGJVUHB0bEt5d2FVcFFXNWg4Ym9qbnBlYzkyZjM5STFFQ1pQNTJoSUtFVTl4U1lRVFk0VlFLaDZMbFROV0ttXzR1Z3BsdkZ6RU4yRHZaVnE5RkNXd21Fa2MyUkx0ODJONkFKakhFbVh1a0hXbkJDXzNCOW5MNXpaUUtEckFURzVGR3hRMmFyTmxDTWpMVUZnamxZamdEeXliNFBVcQ?oc=5",
 "source": "The Globe and Mail",
 "published": 1793439161.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "e7da6b02414a982f",
-"title": "Contract Wins And Strong Earnings Might Change The Case For Investing In Kongsberg Gruppen (OB:KOG)",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWDJ1WUNjYWJNbm1yeDladzk4MW5nV3pqbGJPSTlpNXBoZjdyeWtzU0dRQzQwbDZfcUFDWHUtaXR1MV9uc0YydmJqdVJrTTNNZ0pDeUl5Q1ZGV3BMYWI3WTAtQXRKY19fS2ltUEVRSUo0RFd3V0dBMTVEOGNwRHVJVFR4S3RjQ2E1Zm51clNadVQyaG9DUHVxV3RRdktua2lralBEejJfZVB0bzd0TDZBeThuS0dRSkFUWklHSC1mbXlSYWduNkpTNGdNNEt2MmtEOXpSODR4VzJMUdIB3wFBVV95cUxQLUZ3X1FJaWEtU3VVUmp5TWNJbVJqZmZfRmZTT1VJNTdmeVhNNWJuc3VHWWN1Ymd5aURMOGV4ZFFHb1pnWEY2UzBvV0EwRnEzWUlmMFVXd2RYV0JxV2U3dTdnYURkanoyZmkwanc1VkpzaHhfNkJfdUpzcXJrWVB3M2JZTGR5NE0xZnNQd2pmd1pQTVV0b1p4UDVhSklWVWtDUm01a3IyWHp0WGxrTnEtSVN5d3JpZ3RKT3dTMEk3TXMtcVFnQ3hKYURDeEcydDNMZUd2VnpGNDFYYjRSaGhZ?oc=5",
-"source": "Simply Wall St",
-"published": 1793439114.0,
-"stocks": [
-"Kongsberg Gruppen (KOG)"
-],
-"keywords": []
-},
-{
-"key": "3c54f9caa901aced",
-"title": "Norris Perne & French LLP MI Purchases 6,151 Shares of Meta Platforms, Inc. $META",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPM0tzUU5qYURWNTZaSlExdEs4RlI0S244a2NpUmtHOF9WNWt2SGx1aF9BQXVGSzZaRHE5VnBtYUpVRU1jZHJaVXowbFpiN296MEctdWNHWUFsamVCS3NScjR0OHltZnR1SWI5dThRdXZkcnRYNU4wYmw2VC0yY3hXWDIyeHBwZzU0VGQzOGV6ZV9OZktYWjh2MWlIMGhjWElmWFZacS1xdGNJbWxHckt3MWFJcWVGTlNHMFVKVExVdEZoRE1TSk5GOEJHOE9lbWk4d2c?oc=5",
-"source": "MarketBeat",
-"published": 1793438498.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "274eef9439ec35f4",
-"title": "Apple, Oracle, IBM and Microsoft: Top Tech News",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPajZyajBBUkp1MjF3cFBsdFhudzNNRUlUQXRWUjRQM2IyU0E0MVVCYjY5R1pMb2tSMTFxUk9xSldmTzl6UTZObHFwN3llalI2QWwtb19wRE1NTThBRldlcTlvZ21TSTZnWE1tR3dxLWp5eWxaWk11bXNEWWFvd25uc0dYdFlGNmM?oc=5",
-"source": "Technology Magazine",
-"published": 1793438434.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "3e9abf29cfe0a992",
-"title": "Paladin Wealth LLC Sells 1,117 Shares of Meta Platforms, Inc. $META",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUlg5WWdOV3JSNm5TSUtET1VtVVBfMHJ0UDh0WFp3NXI3S3pReG9XdGQ5SVFxM1UtVVM2ZEY4QnAxd2xKVjFlYUFab1FNNVRNMEkzNl8tem1Kak9ITFU1TjQ3WDR5el9YRGdoc0lBeDFWd1c2SzFCUVpoUFFLbTRwLXVxZ0JtODNYRW9qbEFoMGswZUZ3eVRNMmFJY1F3Y1Fma0MzY1pkZTZlZmlsRkdxSnFQY3lRcE1IclVXbENKanE5QQ?oc=5",
-"source": "MarketBeat",
-"published": 1793438419.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "e45e1c07a3af8944",
-"title": "Provident Investment Management Inc. Sells 3,215 Shares of Meta Platforms, Inc. $META",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMzRDTE9DMC1PTmpYTUdoOVFvQ3BPbmYzWDJSdlNjR0FfVDVxWHZBZmZXckRwTkhGV3J4Y0ZoX19fMjU5YWoyWEpoVXVFc3pSSk9pZ2VoSmZXZ2VDV0M2Rl94QXNlUzFjMUtXcG9GRjdWUWNKWjFQR1k1ZVlpZjNKU1RjLTN3NHFUYWxyblhyZDVMSXE3WkU5UERFaEZSdmpOaXhocndQXzlHQ28xWmx5eFIwa2JCNHpJdEdRWnVpVUVpczdhWlVlYlBHbEpXdW9hRmNzd2pzeVQ?oc=5",
-"source": "MarketBeat",
-"published": 1793438418.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "750f892c8cf57c84",
-"title": "Meta Platforms, Inc. $META Stock Sold by Revolve Wealth Partners LLC",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQU21YS0RnYkF4enZIV2ZzSmxEeUdCV2UyaUxVUFV6cG52Ri04MGpidWp1YTNnVTFYSzMwdzBfNEZiOERQWTNsRWN4cHBZaXNVd1dMdGVRTC14b01vMFRqVldWNFlMcHU4X0Z2VmhYS1hsZmE2TWQ4aktNWTNUa1lnaWNmdXBWOU9YU21xV3NWcy05VDVmSUNrTGdzNlJZcG82Wld0RXpMZy1IVG1xajRxQnFhZVQ1VGRnRVdCck1RTHBrX0xX?oc=5",
-"source": "MarketBeat",
-"published": 1793438416.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "e8829edd8aa5e8d6",
-"title": "Meta Platforms, Inc. $META Stock Position Increased by Orange Investment Advisors Inc.",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPV3E0LTZfTmRKVzZZWFd4NGVIT0kzQ0dzV3RfS0xTeUx0RXBzSkFyMnVFT3ZCUEp3dXgtbTB6U3RyeDVfdHlFSjdOcXphVko5YXNWaHdPQWdWSzlZMEdxbERUME4zU29kTGk3STFQOVNMQVAyR3hleW1DN1hoNlFfQnphVUVsekxUcWJLaEJrSHUwcXg1N0szNURvTHdRdm1FOWZwNkM2Tml4WHgwdk5VSE05TS10V2xraXhRMkQxOUZSRnRleTJMVnMwVVdlMVVJRUtfd1N5SG5BQ2M?oc=5",
-"source": "MarketBeat",
-"published": 1793438415.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "5a173c2c471cb29f",
-"title": "SpaceX Is Considering a Merger With Tesla. Here's Why That Would Be a Bad Move.",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOM2RnWDNPWWNiM212YTNVb0Jrc21ZejlvbmhtREhNc0tqcm5YdGpMSnhIV0ZqVE9GaTV1UVpld05YNnJoYXhJR3A0WTJrLWxPOGVURDBkcmlSWS1UbVNzX2YzeG9jcmJvdXJVNWI0Wkw2ajh6Z044czNaYlZ1andfWWhEQ3V1bnB1?oc=5",
-"source": "AOL.com",
-"published": 1793438400.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "082feaeacf4b36f9",
-"title": "2,970 Meta Platforms, Inc. $META Shares Sold by Samalin Investment Counsel LLC",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOejZFVEJTcWxmbFhId0FlVEtNY1lMVnZta2lRb2ZoSVRqN1kwSWJoclcyNnpCZ2d6bS1idTVUXzJsVlRPb2htTDhkSWxvM2dFaDBsUDBsMTc5S0o5SndURUNoWVJpVnFxYlBTWUwxdGtxbFJ4emJNaHV1MS14S21yeG5fU2dUZTJqWUNBZS0yU0RRejJNUU5jY2xkeTFYeE9hMEotaFg5QTFRay1rV1JwOUFHQXA2aUJNaTBrRGl4MzVKSENOMDFkTUxLN2RRVG1X?oc=5",
-"source": "MarketBeat",
-"published": 1793438212.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "15027682b326bce3",
-"title": "3,870 Meta Platforms, Inc. $META Shares Sold by Valley National Advisers Inc.",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPM0Z2NjR4S2U1cDcwaTlRcFg1OFlXMDBXNm5EWkpIMzlNdk5mZnNQbTh0aWl2YVpIQUFyaG9pZ3VWZldCdXRSQkVGRlhjQVVrWHlJTDlyZndNYWN1R0lCcGF0Qk00aE93N2gzS3lsdTlldmRRRm9LY0pfaEdnT1JqNEdDcERWRTlIOVJUdkkxSmZab3BBVzZMUEpHUXB2amVqX2JWYk9GeEVWZUQwb2MzVTAtT29RemtRNmUwYXMzS19EZ0NOZ3VjeFNERU16QQ?oc=5",
-"source": "MarketBeat",
-"published": 1793438210.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "0ea841b7a62cda6b",
-"title": "Meta Platforms stock taps equity markets to fund AI expansion",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZDcwdEQ1bzBGd0duOE9hNEthN0tmRTJmU2dhX29zeG9GeVpPbjE3VkIzcFg2czBQcnRTNWRfdTNEYUNQTGplLXNxMG9rS1lTc0JLUlBPYlpfNTIzOVN4ZWprektVWVNIQ19UUnE4cklMS2lxTEU5SVVsU2xnMEV6ZjBDNElYTVFRdVp2MFBza2x6cjJOSzItcF9oWGphbm1pOGtBelJCX3BWYW8zWWFyYTFwNVRvRTRVUGZCdl94Z0g2Zw?oc=5",
-"source": "ad-hoc-news.de",
-"published": 1793437550.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "cf5db5c44e0f4208",
-"title": "SpaceX Is Considering a Merger With Tesla. Here's Why That Would Be a Bad Move.",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSndpR0dBcEI5WFNmRnB4V3Rkd2FFc0V5V1ZmLXNEY0dwdmM0X2Rzbld3aG1pNEtTTERoWFQzaUhfbUxHYjBVb19yVTJ1RExvZEYyUXB6clNUbmM2X3dMSlowWHk4MDZrTzNJX0JXb0lwODdHam1kUFFGQnBQSjYwU2RQZVZUTk5wYnRRY0ZCc3FLSEJuOXJMbw?oc=5",
-"source": "The Motley Fool",
-"published": 1793437450.0,
 "stocks": [
 "Tesla (TSLA)"
 ],

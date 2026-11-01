@@ -1,5 +1,5 @@
 {
-"updated": 1793506840.0161278,
+"updated": 1793510049.140076,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,6 +73,30 @@
 ],
 "items": [
 {
+"key": "865e257b56430ce1",
+"title": "Trump says US probing report Nvidia CEO Jensen Huang was targeted in China spy plot",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQem4tZTNCR2RWcFphaUhlX1g0WUtXdDVKZUEzLWFGMFozQjBNSFF1dEFEUnVycFUycHJ4UThrLUh3Q0RXZklxNlRrRTltMFBMYzFYMFVVS3pndE5lSk5LNHc2ZXVOSDlwdXRaS1ZlSGZaR2U4eHNnQm9XMTFFZ3pmcW5vYnFQTk9EWm9BemFCQUh0WFo5SEtSOG5ITnItSGNYaEI1Wk1Rdzg3Ml9xM3FFdDhiaHhtdXl3N2pnT0Q1dmViVHFrMlHSAdYBQVVfeXFMTVdXT3MtemtIeDAyQXQ2d3QzR01QUXJBcWVmMnpfdkhROW5MQkxqSGxna1ZDeE1FdlJ1M0MyYXFJcGh0UUpXN3JPNmFGZ3l4MnlpNlJNNEljZXFuQUlqRHlHbTlacldIc2VYU05GcEJEQ3NwUjZXREl3amV0eC1uRW5WVW13SEIyRFUyX21pbVUyN1NOY20wZi1NYWtPX0Nmd0pERkpsNzF4c2xQNk91NlVZQUJHclprNmg4aWN6bEtrRlotRnpTV1hnZGZWWk1BNk9RU0g4dw?oc=5",
+"source": "Gulf News",
+"published": 1793508226.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "64a20412694b3c16",
+"title": "Tesla's Driverless Cybercab Now Outnumbers the Model Y in Texas",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONXFOeVFtU1dvc0stekpKSGdGUHRBVm0wY212LXNBcEFsZlkxT2ZWZFFsdFdUMjhqRG9XS1lPZmx3Y3hPWGR3Q1VFLTJ0M1IybXRXalozYVEwRWZhS195c0xCZVlYVDF2S2ZmaUFDMDlFdDA5Sm1rcnVTLTl5eDdkOElEZXZ0VTJkRzQzeGVvNU9YdXBG?oc=5",
+"source": "Startup Fortune",
+"published": 1793506768.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
 "key": "cc10dd480b17586a",
 "title": "Trump says US looking ‘closely’ at report Nvidia CEO target of China spy plot",
 "summary": "",
@@ -105,6 +129,18 @@
 "published": 1793505244.0,
 "stocks": [
 "Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "663717f09cabe7ba",
+"title": "BT TO PIONEER LIVE AI-RAN DEPLOYMENT IN THE UK WITH NVIDIA AND NOKIA",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZWlMbmNvdXhMaE5Xb3BnWXNYdDFmQmRiVERjRkljX2dDdnA4dDkzM1VtZGFiM2J5QzFRalZCeUtZYWRfcHFLY0NKdk9VanZvR1BreFlyY1RPT1l2YU1qUENSbzl5U3FQdVpnNk82eW1kRmlOUlhpMV9HaWdfY1NOZ0RUaDVLTGF5dHhWZkJ4RW9VNFFkMUQ2QmpYQVk2cTE5?oc=5",
+"source": "BT Group",
+"published": 1793505052.0,
+"stocks": [
+"Nvidia (NVDA)"
 ],
 "keywords": []
 },
@@ -4850,42 +4886,6 @@
 "published": 1793386431.0,
 "stocks": [
 "Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "560296ce54b01e54",
-"title": "Wall Street slides as AI cash burn worries spark tech selloff",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPblVtZktXRjdPbHJBWDM4WWJsV2RyMlhnOVFYRTZPc01udjZNZTVjeHdIN1dVY0w1M1NHbHpxNjV6Vm9jQ3FOUjBIaElyZEdSWWxycmNZdnJwNnBfdTJDc1FBMWVJZ19vR0s3Y1h2Uml2LThWc2NzQ2sxN3NnVzFEeGhvNnpPSElHSFRIQnJreHpCR2c3dnRQbEVYTDlJVjhzVVk3b1gxaFczMFhkb2NDSw?oc=5",
-"source": "Reuters",
-"published": 1793385927.0,
-"stocks": [],
-"keywords": [
-"selloff"
-]
-},
-{
-"key": "b2ae7ff44fb42ffe",
-"title": "Aker BP (OB:AKRBP) Stock Price Stalls After Q3 Earnings Surge",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObWh6eS1TRGpwR3FpREd5Q2dUbkoxS2Jpbi03UkNvWC1nWUxCVFloSm8yR29VbHJGM0dDZTN2Z2NLYWJUQjN1NTVZRFhySmotWWtXVnlyQjhRWkFBQzJHNFVCSHFFVkcwaW50czFyeHJGekpMMUJ6b0o4OThGajIxQmE5Tmh4TmlyTUh4MVdlMlRUdFV4Z29Zc294aDdZYlQ4ZVJZNnVsVFJuVkM3TGdocTJ3d1dNcFNveUk5WTQ1T1BkMlpr0gHKAUFVX3lxTE9oMmdXSXhYZHB1aDIxdG1zU1A0dlg2dG4yNDU0Qmgzd1EwcjZzUU00c3o3SjNVUGxCVHVzVVZMeEc4c0t5ZjNVY3ZXUXgyYUdlSjJRdmd2YWE4c0kxUXcyc3c1Sl91ajYyWXJTSDdraEFfeFJaQjM3bm9yME9pQUJEeGJmOEstbUVDXzBDMlRMM2NVdHAyQWgxVlB2cWNaQ2tYQ1BpWmJXeWRkZTNRcVFDZlBMNkY0eVdTdkw1YWVHNVlsVThpSGFoZ1E?oc=5",
-"source": "Simply Wall St",
-"published": 1793385889.0,
-"stocks": [
-"Aker BP (AKRBP)"
-],
-"keywords": []
-},
-{
-"key": "c351ffc441f94f04",
-"title": "Patient Zero in Redlands - Tracking a Zombie Outbreak with ArcGIS for Microsoft Fabric",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPekhVeEtYYUE5Y285YmpfQk9GTVNyS0t0UG1mUXpfRVhXYTlyTDE1cHZLLUY1R0REQUJOODFiMTk0bEJnTzRJTk0tME9GUE95blpuRHJSWU9WMzhHbnlCVk9IQ3ZwdC1xMkhraTJJNmIxWlNkamN3MzZyUkxiWGpqblNuWWpLZVdmdFVZN2JEWmFXdENCZTdzVkpfMFN0dzVuamxqeEk3cXRCYzFLNm01Vw?oc=5",
-"source": "Esri",
-"published": 1793385650.0,
-"stocks": [
-"Microsoft (MSFT)"
 ],
 "keywords": []
 }

@@ -1,5 +1,5 @@
 {
-"updated": 1793531158.082762,
+"updated": 1793533316.9662979,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -72,6 +72,42 @@
 "Yahoo Finance: HTTPError"
 ],
 "items": [
+{
+"key": "b96d6c08a9fb0a96",
+"title": "Josh Brown: Meta Could Become “a Cash Spigot” That Makes Nvidia Look Expensive",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbGNqYXBiMG12WEdRTEtnNlczdlJPRFNuMlVtNDNJSm0wUUJELXFqdzhHMEQwUXFOaXhSQTcyZ1MzQTlJRm1qSVM0eFVsRnBoZGNrR2RxLTNmaEJybEpEZTVMQW1fY1VjcUF5VHRFdFVDZWMyZEZ4WkxURXJzRUhaZlljVWYteEhZZTZJcGdXVmMyVVk0YXdWQ3NqX1Mwd2lXT1VRbw?oc=5",
+"source": "TIKR.com",
+"published": 1793532970.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "8038f1e23f712d26",
+"title": "Obscure neocloud lenders, not Nvidia, are where the AI bubble could burst first",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUkVSYTZKODBMUGwyQnl0Nk9RaE1zYXYwQy00OVhDanNlU1laWm9BdU41YlZJeFRwX0VSX2xNc0RlOG8zbkJ2dkpRWi1pRzI1c2ZYV2I0T0piWkFVTVBxYUVLNmszRHp1eFh1MHRQQ2loeGVldll0TnM3WmIwbG4xejlVMEhqWVNUSVRfQVN3UHpyVGJ0QkdsUmItcXdxYUtTTVhPVEROeV8?oc=5",
+"source": "Startup Fortune",
+"published": 1793532874.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "1847218be29315b3",
+"title": "Microsoft Tests New AI Memory as Recall Alternative",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE12ZnlQY0FFeXdCdmVBYmg1ZDJVbU5zeEtEeUNMdmRTLUNocWdsNktOUlhxRkJDLWc3eUxfRUZWb1BlVk13LVY4c2E5dDJkMUlUZkZOZ2dxdlIxcWlkelFFOUhmR0hsTDk2LUlyVzk4OFhXYUlDQm5xVmJqQU9JZw?oc=5",
+"source": "Yahoo News UK",
+"published": 1793531280.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
 {
 "key": "37fe7fd01b369782",
 "title": "A big sell-off collides with more Big Tech earnings and a midterm election: What to watch this week",
@@ -813,6 +849,30 @@
 "published": 1793518500.0,
 "stocks": [
 "Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "98bc80717234748a",
+"title": "Teleconferencia de resultados de Microsoft (MSFT) del Q1 del FY2027: el crecimiento de Azure alcanza el 48 %",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qeFNsd0NvZ3otcEJjVWxLaVVhbG9Gd1NLTkwtczlSNkp6M1huYU83QjhwdlFGMzdHUk5ycDFNVmpRTGwtLUV3d3p0dHZucUtveTNVeXVxVTZzU3paRENTOGhCMXJmTU1XOEcyMUR0WEZSMmdkYVE?oc=5",
+"source": "TradingKey",
+"published": 1793517860.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "89c268bdb0b2105f",
+"title": "Microsoft’s Malaga data center expansion raises questions over water, power",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQMTBGaWotMmx0YVY5WWVXTjA3QzlLZjZON1BPeHNGaUptejdiZUxYeWMyaUEyeHFHandzQThfM2ZmUFZlU1o5a1hzUW9MdFBaenhKRm1VREZoSHgxTkxSRmNvMzlZcW9pSE5PZGRwVktRSVY3NEMxMHdRYnFBeENKWUU0cUtTMmxXV092RmJPVnkydXdVZW1iVHctVnlVQ3BsM0owTXhlS0hjNE1udDZwT3ZWcjJuMWtfVTV0LXZaTHp5a2NNV1hUYWlWWlVIWFE0cTVON0dzdkNSNVBlc3pCSlRUdk1NeHkzUmM4dndOOHBqbmRYQXBjQnlR?oc=5",
+"source": "The Wenatchee World",
+"published": 1793516400.0,
+"stocks": [
+"Microsoft (MSFT)"
 ],
 "keywords": []
 },
@@ -4817,66 +4877,6 @@
 "published": 1793409308.0,
 "stocks": [
 "Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "d39dad4bd6c9e176",
-"title": "Tesla is ready for Halloween 😂 Writer: Sol",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jb0VzeVlFZ2t6c1JsX3lpVU1ua1NWSnNUeURURENGNVJVcEVGQnpSUUNNaWdEaU1HbXV4amJPYTdoaFE0RGdoRlFNVUpWd20zcG5tWEVOMTVqQ0J0ZElaXzRGZExNSDZyRmwyeQ?oc=5",
-"source": "X",
-"published": 1793409300.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "46eb9e7a438dacfd",
-"title": "Tesla Robotaxi Have Over 4 Million Unsupervised Miles",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeVhiOVF1eWhMdGZLMjdaOGRsNkc4TGtGUnlfU1RKbkVFODhhemFBR3FJUEdTaWpuWnZuNXl2N2tUZXNVR2FqR0JTZW1oUXktb0o4Y2xFbGdXRUsxMmU0SUpVemtLcHN4TkswRkZmNXlBOHN2Vi1wZ0JkaWZPbjNuTVdTQUJBNk1QUkphS0d4MUd6cUMxaDFGbFk2UVE?oc=5",
-"source": "NextBigFuture.com",
-"published": 1793406794.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "733d6a214fe08cde",
-"title": "Washington governor rips Microsoft over TV ad in leaked audio",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOY2dNV0I1WDJRTVhqV1lONFp3RE5tSm1qWllZMExZQi10TTRwOW10bmwza0RHSWFvNzdtT3p3UFhGWFBhNnp4Z3JQc0lVT1BrWmFQME16bDBaa2V1OGllS203Tk9TNkRlR29BRXdqTWl4R0ZSOXBVRldENmdWUE9KMlNlSkV3RGcxZWV6VW9MYlgxcWhhSUN3?oc=5",
-"source": "GeekWire",
-"published": 1793406170.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "05d63955fa708214",
-"title": "Kongsberg Gruppen ASA (KOG.OL) Seasonal returns chart",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE55cWo5YXFaVXc5Qjd6YzZpUnNfS0xTa0w1UURNbjhOQWRLUXVFa3QxV3dfRlVVSEVRa2NablFkc3pncDM3czhJMlh6YW5tMzBMRDkzZ2Q5TEhtYlFYWUljcExHSUE?oc=5",
-"source": "Yahoo Finance UK",
-"published": 1793406151.0,
-"stocks": [
-"Kongsberg Gruppen (KOG)"
-],
-"keywords": []
-},
-{
-"key": "6d137f80f1c2e3ea",
-"title": "Aker BP ASA (AKRBP.OL) Seasonal returns chart",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE53V2h2OEpnazJuc2lhNVFzOF9TU1BhdFNWNFFXU2ZjT3dEU2dhLTdLbXRFWkNqMml2LTVRZVd0Z2d5TTNyUE16WkNjSUlCamtOVDQ2U2tLZ2FvSExwZ29HSDhfdF9xZlk?oc=5",
-"source": "Yahoo Finance UK",
-"published": 1793405930.0,
-"stocks": [
-"Aker BP (AKRBP)"
 ],
 "keywords": []
 }

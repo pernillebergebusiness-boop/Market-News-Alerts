@@ -1,5 +1,5 @@
 {
-"updated": 1793503642.283445,
+"updated": 1793506840.0161278,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -72,6 +72,66 @@
 "Yahoo Finance: HTTPError"
 ],
 "items": [
+{
+"key": "cc10dd480b17586a",
+"title": "Trump says US looking ‘closely’ at report Nvidia CEO target of China spy plot",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVXBYT05XUWlGeHBrdEdzeThRQkJwbklYa0tsNWU0VTJ2YlZmekhhVjY1RmFSN29qUnBlcldubENzUjRoR3hqdzJPSDNsU3ItbVlLR2tJWG1mMDJRbV9VUXg2anFuU3BuQVRhQzZfdkRMUGQwRTZuWVo5VUpCUmtHZmxVZ2hmUnlDbUR6QmlxenlJSEJYRzJNZGhqRUtPcDJZWlpwQVhzUnVVX0JJclVuajdETlhMRTc4ZlJrc0dxMDJ1QQ?oc=5",
+"source": "The Straits Times",
+"published": 1793506200.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "0826abc6dd731af0",
+"title": "Forza co-creator Dan Greenawalt is reportedly leaving Microsoft",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaXhCY05zY0ptZW1EeFRjeUVCcG5lcDJHbnRWYVBXWTFmcHZqYTlyR0ctSFQtWEVDUl8zS0k3ZU1JNG9BTTBvdHdrcDNaLVB0YVppRWVxUmhVSF9oY2ZocmwtR3RIM0hZbURqTXBfSFpzbHdHU3RlYkNzZUdWTUEyYWJnSE8wUm5OdmdMZU82d3M0Z0VfcHAxaVlYV1pBMUNES2Zz?oc=5",
+"source": "PC Gamer",
+"published": 1793506138.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "c860e579261a376b",
+"title": "Voluntary Buyouts Let Employees Decide Who Leaves Microsoft",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOLThGeVRRd29HMXVPd2FWQV95aWlZbnl1V3puUC12Z2F5dE5PSXR1bnM0VC1VWVlSRWhtNDc4Njg5RWJoTm9VVi1aQkFNb2szc3Y2QkF1dF8xN3J4NTlNUkpIckxZVXVNYXZDNlpaYmhNUGw1N2F0eC14bjAyZmNIbzhsR0o3SWJNWlFvWFdtbUEtVm5aN2wybXE5QTlkSHZnTHc2VnUtV0pfbFl2eXg3THktM1dCMi1hTGQ5cFpmOVdKUQ?oc=5",
+"source": "Forbes",
+"published": 1793505244.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "20e59720e4258ca6",
+"title": "Apple reclaims world's most valuable company title as Nvidia slips amid AI investment concerns",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPai02aDk3MjYwcDZ5d0p6QXhISWV3aGhnUE5jV1RSMjNrSE1QNjBNR1VzNFVNa05pM29aU2N6aFV1SzBwWFJ2SGlRekZtaDFBV1U0Z2RSdGNWemozTGVBTUlDUm9tTklxbjJjQTNvMDA1UnA2MnI3YmJsTjVwa3d4TXBNVGdTa2xCb0FOTDZaWlNzR2hoakZMaW9mSHhSZVFCcWlJUUxYTVBISF91S1J3eFJ2MDBQZFVhS0dZWlBRZ3NxVzhPZ1BNNkRzYzUtdThjWENTc0JHamJvakpySWdVYzA1Z0NKMXBkRmZvbWNNTXlfUzc3emdzV1NjUE9pcWYyM3RUb05BWUFWVlpSWGxfc09DNk9YQdIBmwJBVV95cUxNaUFTRW5sMU1Pa2VGOHZTTWVPUFY0Q0piMm94c2s3NUtuR0t5cDRWeDQtZlVhUVJyR0p6S2ZYVjloTDRfS0Z3bmd6ejNJTW9MY01DRkNoMjhCNkM1TlFKLWUxVEl0ektzWXljRk5NRFRDeUJLX1FrYnpoOXJadDgxbU9DYW1FVEVlTUFaS3dGT0pMV2VlMl9kcGFKUnlqYVlmb1VQLXd5UTAzQlRCUmE5ajlRelQwSm9Bd044UENxTV91akVxZWRCd3R5OHRwcmIxV3o5VDdqU1BkT01CV0pHdXJscS1ZUS1BYlZrZmM0Tm5WVnFGRldxZl9iMGZuRzZXdnhtaS1UYVBpTUd5OE91YzR3VHczOC1mQzVZ?oc=5",
+"source": "The Times of India",
+"published": 1793503860.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "dad21f9a10441c0c",
+"title": "Nvidia Cuts Vera Rubin HBM4 Bandwidth 13% [2026]",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeVZsUmtIcW13R3VxOVJOT2s1Qm9fRUgzcF9VNGFIUjdpc3JYbXZjRmVWUmtPcXJCVTZ2TDVTS3RKbGlyWjNhYktOOHprazZ0TXBiZ2I0Z3ZCeHpCRGVfMG9CSFc3WWxyN1RfZC1oMll3QjVaeXpCc2VCdlA1TTlNNTItSFJ3UQ?oc=5",
+"source": "shattered.io",
+"published": 1793503013.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
 {
 "key": "48963c50ffb235b5",
 "title": "Focused Investors Llc Cuts Microsoft Stake by 69,800 Shares",
@@ -321,6 +381,18 @@
 "published": 1793487466.0,
 "stocks": [
 "Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "7b9c0246b174800f",
+"title": "Microsoft pulls Copilot as AI on Smart TVs fails to take off",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8temVIWmoyeXhGWTBGbE54WW4wOVMxaVZxcEJfTS1wN0dBMjJyTk1OclhHM3pfS3paOTNjVFhHV3ZKdV9WZFlkQW1qU3RIamc4anBnck96UTVQYlBGSUZ0ZVB1bHVablpaTmZyaFc3WjlUdTZSbi1vRi1B?oc=5",
+"source": "FlatpanelsHD",
+"published": 1793487431.0,
+"stocks": [
+"Microsoft (MSFT)"
 ],
 "keywords": []
 },
@@ -4816,78 +4888,6 @@
 "Microsoft (MSFT)"
 ],
 "keywords": []
-},
-{
-"key": "ca197d4bed80dcae",
-"title": "You Can Now “Drive” the Tesla Roadster in Your Browser – Without Buying a $250,000 Car",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTXU4OTJoU09nUHhfaVcwbjA0UnJEVVRQYmw5X0xlOGlZb1NnUHNqZk1HOEtZc3VEX1djMFhEZnhoT0FOdWF0ajZNOXZjeWl1TjQxZ3NfYTkzaWpialUyNHhIZ0diUF9KODlBdWRhOWpSVE9hSkp0TVR3dEwyZmhOU3I3UWZ3anQxbmd2eWNCUUxtQ1lra1JzcFNWZEZvNFBKbWNocE8xVXdLYUxvMWc?oc=5",
-"source": "Gadget Review",
-"published": 1793385516.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "adc7c43eac5de321",
-"title": "Tesla CEO Musk Says Gates Still Holds ‘Massive’ Short, Funds His Critics",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcE5VSnNoQWp3RGFIRldfemJfenlJaXRnQ3dlMVpaMFJlSVZjV2VDcUhuTVhxRE80T0ROdmFVWXZxRlF4Z2gxajk2d2N4eUd4TDFpbjRtMzhLYjZtYWFPNGs4MTFUNUt3Q2ViSWMtbkV1S3NEbVd6LVhCMWJXdThqTjB4VTlaUXJERkNBZWVydlVtNWtubEp4TVNScXJfaTM1Ry1EMl90bEc?oc=5",
-"source": "Electric Vehicles",
-"published": 1793385148.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "f05db5508f219ce1",
-"title": "Tesla Update in a Drive-Thru: 1 Hour Stuck [2026]",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQkh4ZXZXeWMyQ2tDYkxjQ0REdXd2Ql9IZWp3UUxKZlFuX2c5SHdIbzJhVWxBRmwyYm9Gcm9Ybk1kMVRHX2VGLWlqdHpESlRjT01GTmZSczRzanN1QnNJMGFLOTM5MXRXeFVKeW5CODJEc3RSWmpGUWdtVWM2NTdTMQ?oc=5",
-"source": "shattered.io",
-"published": 1793385066.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "52c98978bebfa8a2",
-"title": "The sell-off for tech stocks deepens and drags Wall Street toward its worst day since June",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOd0NzZS1PMzlOVF9Hc0hrbW5sOGZ0bWhjTzNiTC1LWkZ5R1FFNDNBMGNxblJfWTBxaklaSjhwM1FXX1JSVFFGd0I4TXYta3RvczdQeTlUUjJMLXZ1bmY3TW15NU14UVAyMlRhcHlsTTZkUFdVM21yQXZpWThuN3Z5cVd4UEU4VTNnNDRvT1Jwc2E5QXM?oc=5",
-"source": "AP News",
-"published": 1793385000.0,
-"stocks": [],
-"keywords": [
-"sell-off"
-]
-},
-{
-"key": "75e25799bab5e570",
-"title": "Tech sell-off drives US markets down by nearly $1tn after subpar earnings reports",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNV0lZbXhSZjlKZXRPOHVOUjcxUmctdlM2ZDc4V1FLTG1uNzlJNV9QMnpBYXZPSGt3QXlJSWs3d1hrb3BZWVI0ZEpnekhBX3NSWGxYd1ljdm5EcmdkMldET19ITWJPcC1zQ3lFLVhHT2hPeGU2VmlYYlVFd2FNT0xpNlFxdnNtRzNXamxB?oc=5",
-"source": "The Guardian",
-"published": 1793384926.0,
-"stocks": [],
-"keywords": [
-"sell-off"
-]
-},
-{
-"key": "05aa4df55413ca59",
-"title": "BofA Spots Rare Opportunity Hidden in Stock Market Selloff",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMTRaa25HeTBTZHBKVmpEU0k5SXJiQ2JUOGRzbC1aeE00Qm1vZHRsY041eUhPQWdxSlhkcXNRY1RONlQ0TXlfNmRPV0wwTzdvb3FWQVROdDhWRkpBSTdPSWduTndHTEhFU0lha0FISnZTQ3lZclhmQ2lxUHM4RlFTbHRXUWVyUUFOX0FIT1RRUl9vZlRVT05KSUxZNkhtU3R0WTZTTTFjODhtaXVQM29UaFRORGRuN3lXeFE?oc=5",
-"source": "TradingView",
-"published": 1793384923.0,
-"stocks": [],
-"keywords": [
-"selloff"
-]
 }
 ]
 }

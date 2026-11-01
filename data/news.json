@@ -1,5 +1,5 @@
 {
-"updated": 1793548686.5211918,
+"updated": 1793550596.4142992,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -72,6 +72,66 @@
 "Yahoo Finance: HTTPError"
 ],
 "items": [
+{
+"key": "261d98e6929da320",
+"title": "Technology Sector Slump Hits Nvidia (NVDA) Hard in October Amid AI Spending Concerns",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOX2JTaGNoaC1ZS1hkVnJuX19lOVZudTZ0VUFobm1DUUZoY0R0Yzd5QXJidHVfTkFJaWE2elBKS2xKdThsNXRFMUl2dnBHQ09IS2FmZkJrcWp1RXgwZlNXRDZacWdRcE5lQWV0SG5memFvRG1iT1BwOUg5Wm1rNnpIWkhqVVZrSzhDdlBBclFDdm5JdUVYV2xRVFoxbkxqTk5lN1ZzZlpPRVZucHFZRmlNRWJzbzV0MF9qamhqNTNB?oc=5",
+"source": "GuruFocus",
+"published": 1793550529.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "50d8142d0c1488f4",
+"title": "Meta Platforms stock outlook: AI hackathon keeps developers in focus",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMWQ5cjJhY0ozR3E0MXhTY000OUNUQ2hnTEVWSUkwc0lhMVQ4TVp2NUJ5ZlBzdFc5NnNyLTJNSHpyaFRGNk9YRmRPblpKRmhjODF1bGZ0VDROTEpxcVJqX3BNNWZqUy1XcU4ycWpENUdHaXlUdF90eXBVdGg2emZpeGpkd25BN3Zsd2xic2c0b1YzX2YtdUhTQXh5SVZ2c29GcmVkRmx0Q1dQdG5wMTNGN2VPN1QyWlMwcmtGSnd2WnVpMWdIQmRKR2Rn?oc=5",
+"source": "ad-hoc-news.de",
+"published": 1793549787.0,
+"stocks": [
+"Meta (META)"
+],
+"keywords": []
+},
+{
+"key": "d0ad39225a010872",
+"title": "History Says Now Is the Perfect Time to Buy Nvidia Stock",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWWMyN3BWNjUydjN3Z0tDM2ZTQVhqOHhKLUp4eE1PRlJEWE9zaFRzQ1hNbUdodV84UWoyaGo1LXRMcmltNV9jYkFIMnVCVFlxMDVUdzBBNW1yaWpjcDFWTWdna3lmTk5FZmU0SE1SLThOLW1ZWlgyeUZtV0VQb0RvM2lSaHByeXhWMlVRcTRUbmR6dWFkbzZBYg?oc=5",
+"source": "The Motley Fool",
+"published": 1793549700.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "fa12398e084ff78a",
+"title": "Microsoft dangles financial compensation as voluntary exit offer to 60,000 workers worldwide",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZUVtNXpZckNfTmw5NURxclgxQzVWUjdSOWctS3lrWUVwZDZ2N2JmbmI3czV4UzI1U1pKSnJQcl95R0MwZ1U3X25kOW03SWVaYnB1bjNDS3R0S2FISzZSd2ZLVWx2VUNXTlgtVmxQOGQwOWw0ZUJNZVVhb3o0emI2MEVhNEtFd0hFOU15SDZETndOc3IxclN1MXFqNmVjNXU3bEFNaVFsVzlFRlVQNGdrTkNJLU5ZSk1KWEs4Z2FpZVE5WGhLSU9YQtIBzgFBVV95cUxOQnh5TVQ1SGctNHV2Q0o2Wlo1cDhhLW02cFVtQXpoSG5oS0dPYUt0WjFKcTgyWmx4bmZHUllOUGVRNXA5eDdtN0drM3YzbHRnSXlGWC12Q0l4cnNMNWx0UXNLVkVMWGZvaS1uMzNvMWx5UkRBWjlEMGo3U081aWYzNnBkenVDN29iWW16ZUFMQ0paMFhqZlJjLV80TXJiQUJnNnNGSTZyRG8wYUdSZndhRHhzWUNiYmZUUTYzOGJGMjUzOW80aFZfSVhHS1JuZw?oc=5",
+"source": "Businessday NG",
+"published": 1793549169.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "b7f407096a155733",
+"title": "Microsoft, take a cue from the XMG NEO 16: This is how to implement Mini-LED properly",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbVdONEVFRGQzel82cDVRLUMxLWhTWDV6eDdFU3hBeHh0VW9iRzhycDF6Z1FUdjI1SzFmay14enJKTlI5MDdjRFhsMFNBTmJERVlRU25FZmo1S3l6bndXS190ZjFuU3BkbTVzMUJmcEFMUUlXbVlaQWJyMHM0QnlxdThySWVaaS12N25ORWtlYUdqaktTdVVSS1hjeFhuVFdlR2FGaVl5bDE3SmxuM05JQVVpaWN0QkVHNFRQMm4zZEFKSDBPTmZR?oc=5",
+"source": "Notebookcheck",
+"published": 1793548560.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
 {
 "key": "f2b5097cb46ce16a",
 "title": "Microsoft Delivered a Beat on Both Earnings and Revenue. Here’s How to Think About MSFT Stock Now.",
@@ -453,6 +513,18 @@
 "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUUVlUWNTbWtFTjNROU1naEtCaDFGd2NsMUQ0TnNMS28wVGZjVzhwaWQ0VHdGeGdKZTZNeW85MThXdjRjc01ackt1SUItb3YtQk1wbWJ0Q3hpTjRYNlZ2ejBJVGtvdlNLVDluLS12TzlKOGdQT3ZZalJsRHlZWlRadm5YR3REMVZfTmxUMw?oc=5",
 "source": "Yahoo",
 "published": 1793536382.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "d3dd2fb5e2c6af81",
+"title": "Watch: TESLA's FRANK HANNON Performs Two Songs With Y&T In Rocklin, California",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNXzdCdlRKWXBMbHZXcXV3T3F1UUhqVU1HNV90V2RLeDdjVllrUGVEQXpDOFpTRFpQLWNoRmdVUWdBcy1fTHNxNmw1R0NOdE1vUnJSX3RwQ24yVVMyX1ozVkJmVGtoR2JSUGJUUWlDano3Y0hqNTVmN25XT19qQlFOaVRWMndsTERxWlNJSGFDbUJXZFlqaE4yQXNUbG5aQUJiRlNJa3p5QQ?oc=5",
+"source": "BLABBERMOUTH.NET",
+"published": 1793536373.0,
 "stocks": [
 "Tesla (TSLA)"
 ],
@@ -4804,78 +4876,6 @@
 "published": 1793433253.0,
 "stocks": [
 "Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "48b93b141c0b9ab7",
-"title": "2026 Tesla Model Y vs 2026 Toyota RAV4 Plug-in Hybrid",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNTRBZHVOR1JUYm0tZmgyTTNtbWo0T2JsS1RRSVRwSXVLUlI5UDVkNnI3OXlJRy1qTl9OTm5uNnZiNmNyZUlQUUFfd2lkWXhKdHlSLUZzRngteDNDX1ZZRVRfdnN5aXJ1T3JIbmprTTBELWdZR0ZNc1h2aTRlSjZ2VGZ0elk5c0NLOGEzQ2ZLYXpRYVk?oc=5",
-"source": "driving.ca",
-"published": 1793432917.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "f80234643f0817a5",
-"title": "Form 4 Meta Platforms Inc For: 31 October By Investing.com",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUXBwUndkZzBjOEEtUUJXTTVwU24yeW8zOVFOcXN2X1RGVXZKam5MaUtaMlZVczhmdVE3QjZhdndoemhYWXlpWGtkT1h6c0lKbzlJMjRQMk4wVnhDZXRLaFpuUFlob0tJUXFnWlRmbjJNS01WYUVVaGhMNmNEUFVILVJXaEZsU0lCelhsVDk4X2VZclZLcGtfS2lTU1FpajI2LU5B?oc=5",
-"source": "Investing.com UK",
-"published": 1793432760.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "e249cc09838cac7a",
-"title": "Tesla-SpaceX Merger Hinges on 50% of All Shares [2026]",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWEpkQXVYYU1fVmoyekpDNmVVSkx2YXdfeDFwMzNqSFN0bzlVRE40Rm43SnItaE1DdGJNWER2bE5SVE9qSzV0M0NjYTItTEJwZWZXZXM4dmRRbnYwdTlpM0pPQWxCNHp2RklweWJhVVdxM2YtQUF3NDdHQ04xbjF3R0pEWVpHWmp3ZTJyWXk1NA?oc=5",
-"source": "shattered.io",
-"published": 1793431872.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "a478d2aa40ea17c7",
-"title": "12,023 Apple Inc. $AAPL Shares Acquired by ARS Wealth Advisors Group LLC",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQnNxdFBFQkkzaUQ0VVlaSkxOSWtiMmthOGtaVE9TWXJjS3NRYmp6SG9pR211SUdVbFhkOEFmRV9IZ3hmejJ0WXR2VWNoaFdBMmRfWFgwQzJNVVgtNGFKeE1PU18ydVJFQm41RE9kdDZaaW1CVTZnUk5CR21MMzlYbmJmS2xKMm1kU2JZdUswSWU0LVRKZjZLUU5Nay1fQVp5SWljakVPY2NubHNWdGVSWXZORzJqWjE1Xy1md2JVWFhtLTJHN3ZZMzhn?oc=5",
-"source": "MarketBeat",
-"published": 1793431546.0,
-"stocks": [
-"Apple (AAPL)"
-],
-"keywords": []
-},
-{
-"key": "25f6043578109783",
-"title": "Cyndeo Wealth Partners LLC Purchases 2,417 Shares of Apple Inc. $AAPL",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOX2FielA1YklBOXVNNjVjVVVNRXFySXhDeGM5MW9PLU9qZnl0TXlhTzZ4QTZ1MnpPbWk1YUJfOTNSMFpPdFRGay1sSmNxUWFUVkFhMmRxY3E1ZjRoZ1BMZUszOERxYzlQcEI3M1RmRWdzMDRsOUIzX1NhSUVhaDNmSUlBRGUzWWFHblRIbnA5RmhITmJTRmgtN3F5cVZkM1VWZU5ROENOZXVleDRZLUZCUldBS2Q0dlA2czlkMUhNbkQtRGZnSnc?oc=5",
-"source": "MarketBeat",
-"published": 1793431545.0,
-"stocks": [
-"Apple (AAPL)"
-],
-"keywords": []
-},
-{
-"key": "b8188acdba3a1e6e",
-"title": "Meta Platforms, Inc. $META Stake Raised by Bernardo Wealth Planning LLC",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRkhGeEh4Y19YQjVTY3FxXzBzdlk1OGNab2dBUDNTZ0c4NWNfVElmOWJUODBfU2JyX1cxdXFmTnF6SjZ2YVhJZHFKd3dGLUZQYW9wLVlCbnlaeHBLM01ONkFoMzFkTUo2RnhacGpIQ3AyVlh2X0FKejFtSnlBdlJDV2o2LVBueXl4OGtsM0dVQ1ROSWJYRzY5RVNlOGc4X0d6VEM1aUxweXM5aU9DSlhIWVo1QUE3aEdFMmdMS2VDb0NieTNSMm9zRg?oc=5",
-"source": "MarketBeat",
-"published": 1793431544.0,
-"stocks": [
-"Meta (META)"
 ],
 "keywords": []
 }

@@ -1,5 +1,5 @@
 {
-"updated": 1793539179.7924507,
+"updated": 1793541989.5178938,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -72,6 +72,78 @@
 "Yahoo Finance: HTTPError"
 ],
 "items": [
+{
+"key": "b62dc1ee5363865d",
+"title": "Microsoft, Alphabet, Amazon and Intel Earnings Shake Up Big Tech, Verizon Forecasts Face Cuts and More: T",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNV2lFd0VwVTl3cFVxWW1zN25lWC00MVp6S1dNdE4xakY5d3I3MXNMTGdKZDEwLXhwTUZsb0NTcm84Wm8wMUxFQmlZRHgzTWFvSzZ1OHJNa0lQOGJraU55TXdhUWFCbGczMEhneDBSMEVtU2ZWUkU2VXF1NmwycUJVQlV2a2s2LU1vVzN6UjI1Rzg?oc=5",
+"source": "Benzinga",
+"published": 1793541608.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "98275cdcd133422a",
+"title": "Open-source USB tool unlocks Nvidia's half-speed GPU AI limiter on Windows — lifts GPU's FP16 math performance up to 65%, UEFI unlocker covers RTX 20, 30, and 40-series desktops and laptops",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxPVUtXVThBWVBJbnBvZk1QVUZvQ0l3aEVQd1FETFlLdGZocmtJaGp5VmI5N0JnLTlUSWV3cTdoR1FYLXpzcjN1TjBzR0JEU0RubUpUbUlPd21YaHpldFI0dTJxTXM2ak9SRnV0ZVI5UWxFSVhCQUFzcnd5TTYzNlB1amRFdERkYmpFQmQxMlBndFVoV0JIZmRkbnhCUHJPb2l0djNyQ3BOejR6d3ZEYWtURW1ua0c3YzN0N3BTUEJNRzQwTndnVFNjdTRQcWQySXc4SVc1UEFWY0ZxdzJjTV9sTXdKeWluRlBFc0Vydnpldzk4OUh3dVpzTFRnQmdjTE01MWtYRmZLNFc5aVVuQkNudWZjdFNUclBJS3BULWNUVGZMQ2dfYVhKNHpSYUhUN3BJWThlQWIyZmFfUGhtUzRtMHkxbjVvbFRib1paN25JdTZ1amtvdDlYLQ?oc=5",
+"source": "Tom's Hardware",
+"published": 1793541600.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "07f61a0be232456f",
+"title": "China is Tesla’s greatest asset, not a liability",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWC1IQlI1TGhBbkw4X0tEcVM5a0RlTzZKb0lQWGFyazItMHBYQjBQOVZCZG5SUHlIcWlDTTZoRkdNUUVqeGhJdTRZWnoyTDVLVjdfMmdVMENrTkkza1JoWUppcWZXMm54V0dwV19RcW45X0Y5SmRGNDhseTlPbXllTk5YOEVVS3Y2VVpBMw?oc=5",
+"source": "Pearls and Irritations",
+"published": 1793540646.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "830e3a7223ae250b",
+"title": "Tesla Is Ditching Its Solar Roof Tiles For A Good Reason",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQV2xVYmZfVzhadG5TMFRZRGduZDdkbFBDNVZhaDBlRGlNVVNIa0phdnBacEJDRkJLZjhVbWdBRHFEU0pIQWhrTmxLSDFUbi0yNWI0SUtBSVY4VVZrdUlad1NXdkdQWVpsaGJQc0tJUWN4dEJCaEtEZE1XY2dMYVl2MUhHSjhQS2JXV3BvdE5fSVRlRnkt?oc=5",
+"source": "Engadget",
+"published": 1793539800.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "7a4013a23e0a3b65",
+"title": "Stock market forecast: Goldman Sachs, JPMorgan, Morgan Stanley predict what's next after tech selloff",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZHNGdmc1ckFLM21oaWlWLXdQQmdaUEVmUWViOWtSR05hajMtUzc4UzVsR1pRUmYzSzU2ZnVMaEw0X1hyOVJnWXZyYjU4ZG9lYkdWQkw5WGhVckptcEEwSkdJZ3pIZVJJTnZUbXVQMjhYc0R2cXc4ZW5GQUtTb1FtTlZOaEtWc09pQ05qcGI0M3Z4NlRqVlgtOE5MMTV3UGR6YWdkWUltc0R6OVJDMlJUaFg2X2pzYWhIZ08zRVo0YWNadw?oc=5",
+"source": "Beinsure",
+"published": 1793539775.0,
+"stocks": [],
+"keywords": [
+"selloff"
+]
+},
+{
+"key": "a47111ec38c773ac",
+"title": "Tesla China EV Rivals BYD, Xiaomi, XPeng Report Strong Sales As Year-End Push Begins",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPb0Ewc1VvNHo3YXZzNWh0RExCWm9VUUlMTEFGWkpDSEU0VTFpU3dQcWsyNkg2RXEtbDJJNXhkam9rNFgzZ0NsV3Ayakt2MVNhLTlyZHRKVGNGTXRZTk9FUzNibGJ0dGJaRm55c0VnRTYtd09VQzVJbWZoeXhyUWx0OWFQTWhCb0VEaG5HQ3pqVjl4ZlVJaE0xa2pjWW5CZw?oc=5",
+"source": "Investor's Business Daily",
+"published": 1793539500.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
 {
 "key": "e5f489e526a1c99d",
 "title": "Microsoft Offers 60,000 Employees an Exit. The 200-Year-Old Corporation Could Be Next.",
@@ -157,6 +229,42 @@
 "Tesla (TSLA)"
 ],
 "keywords": []
+},
+{
+"key": "4dd923899e1acd52",
+"title": "Nvidia Hugging Face DOJ probe: key questions on AI",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPb1pwVEJ5bzhxSm03NXcwYmlSOHZqYTIyUVp5Tmp3aDdRck9UWVVjMjRUNjBMR05fMFVkQmhXQ1hVa2lfNFRiTWpHRl9JR2l1SHpsZnNVN3djYlBLTjAwdFdGMDNfdDEtTGtZMFIzb3JXODdJd2taTFlmc29pYXBOTktfZUhjWkR2MnRMN3l3?oc=5",
+"source": "NeoTeo",
+"published": 1793536115.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "1bb56066cb3709bc",
+"title": "Swiss study estimates Microsoft 365 migration could take 4–8 years",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOX185amI1WTVnT0ZiUGF2NVJ1aFF1WWk0M0s5bUY1a2x2aVluckVvSmxjcGI1QS05a3NqTndjOFdTQ3o0bEQ1bDVuYVp4QkNuY284YWs5Sm1qTmR5aDZSUG03ZzhlNlJuckoxcUhkV0xMUHU1b1VmbktKQnphX05mNDZ6WkxzZ0htWHhjSzgtZ0dyNlZ6Wm9B?oc=5",
+"source": "NeoTeo",
+"published": 1793536113.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "a6c143630ba8c402",
+"title": "Dow Jones Futures Loom After Market Sell-Off; How Midterm Elections May Swing Stocks",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZEoyQk15NGhJR0FQZEg4aC1VS3RmOG9MdkZvSUR6a2tpQ0NYcW9XYWFralZwcmVZTnlRSG5CRENJXzQtNF9OVUotNFNLMW5HeTdPSjMxUlhKdGN5SUtIbWxmUXh4NDFSc2FJQVNzd0JXYlZ3OTdDWVd2X3pXT09WQWZ5MnN3OWtMN1hSS1pfLW9JYWdKanlnTTE0bU5ocHo1S2lXR0NMekZCRk1zdUdIODktNUJfckRUbUt4X2FUcGo2SXFNTWkzeWNMWWQ?oc=5",
+"source": "Investor's Business Daily",
+"published": 1793535840.0,
+"stocks": [],
+"keywords": [
+"sell-off"
+]
 },
 {
 "key": "75cadcaded4f6acf",
@@ -4769,114 +4877,6 @@
 "published": 1793423561.0,
 "stocks": [
 "Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "07694405e6c2e50a",
-"title": "BTC news: Bitcoin stolen from Binance tops Tesla’s holdings and is over twice El Salvador’s reserve",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSXpTTENaaWs4VGtuVWdtbUxHWWlWdEQ2LXkwZ0R6c2hmRE5UYUVSX0RCXzhtUklINlpJMWdBd0hzX05XRk1MQ01fQ3BZejkwVW84LWxDUnFzUTZUWWRUbmcxQ0c0Z1ZwNXFLWTJENE5ycVlsRjhMdXhzd1hDdUg4QWhjbUdzU1U5M1ZQdWItRWRMZlNuNEF1NWdwS3dxS21CQUhBaFdESUZqYUk2bzI3T21OY2JDdVBSb3pXdUlMX3JLbU53T2xpd213WEwyUQ?oc=5",
-"source": "CoinDesk",
-"published": 1793423182.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "0fc740e33d5e2ddb",
-"title": "Tesla Roadster Release Date: 2028 Target Draws Doubt [2026]",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5GQTdQUExoeVNIWHVDdjByc1hCeGVrZ0tWWWs2VGtGbFFmd2RGanR1eFZha05LTGYzUkNDYXFFZ094LTl6X0ZOaDRDT0dqTXFwNDRpYnZhdkRzcGVKVmNNcVlrSlljQ09tOXdoaFphVWRYSGV5?oc=5",
-"source": "shattered.io",
-"published": 1793423079.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "e27368c9c06c76d5",
-"title": "2026 Honda Civic Sedan vs 2026 Tesla Model 3",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcHFaRWpodHZPRmF0QTFoRDhCeWp3SEZHa3JiYURjdzBWZVFseGVRdzF2NnZ4WHA3R09JSlhKTmNISkdkUDRscVVqNDczZXFsUVZ2OFYzaDVJcFctRUo0UzJHaVZramhFaVo2M1IwZTdwb1NZc210YWN6VTF4aG4wQ0tyR0d0YW8?oc=5",
-"source": "driving.ca",
-"published": 1793422494.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "831c248fc2b92f98",
-"title": "How Many Tesla Superchargers Are There In The US (And Who Can Use Them)?",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE95b0N6bkNleGpmd19ONTZhUDlnUnN0NXRybUVfVk84ZmNCMHlQVWJON1JOS3doU0dUeExDSWdualp1bFY5R3NrOVR4SUlseFhNcndTR3VXV1phZXZTRVlKY0hXUC1VMXRZNXVkY1NCNGE1QTdkcHlKckRHVFFOQQ?oc=5",
-"source": "BGR",
-"published": 1793422020.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "f7dd7c49afdf2b24",
-"title": "2026 Tesla Model Y vs 2026 Toyota bZ Woodland",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNb29WODFKTndLMWl5NjNIalNaV1RadUNhNDQtd2hRWnRhVVA4VnpRSnZVWnRXTTlTMEktR0ZyNE1xLU5kYmdiSzMzUWpMNEdibVFoWjk1QWRoNUQyTmcwRlQ0RzkyOWVBZFBQLVR5c3lBZmlXUmQ2SFUyRlZuZ1NzZDJfbWVRdDZa?oc=5",
-"source": "Driving",
-"published": 1793421212.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "ec6f9419b4d13fad",
-"title": "Tesla Roadster Evolution: 2 Gens, $200K Price [2026]",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOM1lpR0R0TFk0ZWlrN2docWtCSkFrUVhpWVNIQ0xaOXVoSXAxcUx2NFZ4RTNmdmtOMDg1UW4xWk83ZXpMWW90WFB1YjQzdWNmYnJfa0kzNGpUNk5GT04tdFhGaWhuOUt0emhTbnkwZ1o4eVg1dnphZG44LTV6YTRyYl9KMEU?oc=5",
-"source": "shattered.io",
-"published": 1793421072.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "22f024ac8e4f4be8",
-"title": "Tesla Roadster Through the Years: 2008 to 2028 [2026]",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPazNCdDdsZ194VFZwaExjZlZScjNMTVJIcHo0ZnhVaWdITEFYTUNiUjJJc1Y2TUhkRHdyYm5mTkZTOWdyUTBDVm5CcndzOElrTkVWb3UzQ3hPUVRaTjNNWDBYcThWdmk1SDAwQmswellLMHFfTFlDOUh2aW5Ubm5WRFZQQ0VIM2JL?oc=5",
-"source": "https://tech-insider.org/",
-"published": 1793419577.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "4ed230212198c6c8",
-"title": "Nvidia Quietly Removes RTX 5080 Graphics Card From Its Online Store",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSzcxTldqLTFabnk2aUlmTmRqSlFHRjJtNmkxbXRHTy1SODZ6MGRsYjZTcFJPc2pHeDlVQ0ZkRGtrM1RIN2pXWTJKQWVkZ29WZkRhM01zcUM2QVFTZFNNWDNjZmx2VDU1OXVFeElKQzd6c2ZibC1ZNEV2LXBpMTY5WndyNUFydWtZaDJ5bWgya2oyZU92MWJtdFl2VkFYY1gwbG1LdkNJSG9TR3hVRE5ZN1lR?oc=5",
-"source": "PCMag Middle East",
-"published": 1793419234.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "f78abb3357637e4b",
-"title": "US Tech Sector Faces Correction as Conservative Strategy Helps Apple Overtake Nvidia",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTXh2c2FDUERMN1dRYnJzMm5GU3pCb013OWdTMXJjTmxJZEd3cm9JdFZ4ZVBNM0hGSFdhWS0wNHJTdTZlRGFDbnU1MnhUZ2d4WlNVUjVYXzM4dDh3eS1oRGdBZ1o4MTgxYkliREprNGFGVUQ0aFRDSE9RZDF0bDJISmxfTElSbjZrN084STExNkRQN2JyRWt1OURHSmx1SjhEUEhGQmxvaVBaY1BwWGtPWWt4ZjBWQmpL?oc=5",
-"source": "NAI500",
-"published": 1793418781.0,
-"stocks": [
-"Nvidia (NVDA)"
 ],
 "keywords": []
 }

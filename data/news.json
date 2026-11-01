@@ -1,5 +1,5 @@
 {
-"updated": 1793563346.703868,
+"updated": 1793565817.0713723,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -72,6 +72,66 @@
 "Yahoo Finance: HTTPError"
 ],
 "items": [
+{
+"key": "01db47985c2676b2",
+"title": "AI investors hedge against losses amid tech stock selloff",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUHV1YV9iTlhJU1IzNmJPU1JOb2hiZUVlWWxWa3QtMGVLUDJORS11eUlkZ2VYSkg4dnB0dDdPYXpsNUJTRkZCS0o3SkZhOGM4NkdBek1QcFUwNFBwZlVPZUpTaUg0azI1TjdSUG9TNzdnTFRsZkRkVVgxSEFwdUl6RFY4Z1Y2Zms?oc=5",
+"source": "The Jerusalem Post",
+"published": 1793565491.0,
+"stocks": [],
+"keywords": [
+"selloff"
+]
+},
+{
+"key": "4815e8f4f4737b5e",
+"title": "Apple, Palantir On Deck Monday As AI Demand, iPhone Growth Face Test",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQzE3cVN4bGdJU2QxZ3ZFUWlJN29pM2ZJUWNRNExGNklTVktzRlFkVzcxRHpmR19vRzRvRmh0MnpabnFWdTNfMTI1d0R3NFFuN1hNUEY2Zm95NE5zS1E2MXZQdWpFbDBtUHNhZFZFUkx2c2VaekQ3S1hmU2w1ZFNvQVhLbG1GR18tcmIwOWlDS1lBUHJKcXBmT0c5dkVBOXVQUHVOcTc2VmRHOTFVSjFUYQ?oc=5",
+"source": "Benzinga",
+"published": 1793565059.0,
+"stocks": [
+"Apple (AAPL)"
+],
+"keywords": []
+},
+{
+"key": "e515762dc11c6f13",
+"title": "Prediction: Nvidia Stock Is Going to Soar After Nov. 17",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSmU2bkhYVFltS0RkTnJINU9jaWF0Q253aWoyQnloT0ZDVTdfd2d2aEFlakwxcXdOSjE2NldxcEV4b0hTSXFwUzM5VGtwYVNQQ0pqVGg0a3p0SXhrUDRCM3V2Vm0xSk5KNWlpdjhnMGZsTFNOdU51NkExV3BQSjk3ZkJmRl9SbDAtT2toSlF3bFJRNXhFbHpSaA?oc=5",
+"source": "The Motley Fool",
+"published": 1793564940.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "50f606a49caecf18",
+"title": "Admins absolutely furious with Microsoft due to Canada time zone changes",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdlZDOWRNaGE3dXRQVXVvNEExZUpaSUxPQ1VCcUlNV1FiTllOcGZyWkVPZVFnNGVmTFl6Ul85ZFR5dlp0dzZIUkt6eU5tT3JpRFIwVVV6VjZIRTZGVGw3czU5QVROTzRRZ0hmb1l1Q05wUWo1TnBnMWJxNFIxRVFHTEpZQUNaWHRmQzRzbFY3NmtLQmIyYnhpLWhWcklGRnFScUNr?oc=5",
+"source": "Neowin",
+"published": 1793564160.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "e25325c03ddafbf5",
+"title": "Microsoft Adds Cloud Rebuild Recovery to Windows 11 in Latest Preview Update",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQemhzdHYzR3JPWG9lUVFoZEVJcW01WGhGa3NvMnNDWFJfaVNsQkdTMkNRM3BMY3hnb1ZhcHJyVmMyWE5XemtBM1lybFVNNHNWN2wtNkVzS0p0RHBKTW13NmREZ2xuejVTZE9leUVjeHU0V1ZFbG9OMHlNclRvZ2VBUlpvTlBkdXBzUGo5VExTX2R0OHVrZjlxQ0lCazdGY2w1NUh2dWhWdzhuaDFzR0VsZNIBtgFBVV95cUxOQVJ1Qm1ETXk3QVZNTHpKM292V2IzdEdZZmpmYzRDWGRHaGRja1V5VUtoUi1rZkRxUEQ2RjA2YzVsQmRCQkhCRFVZRkxESjBhMHhsQjcydnQ3LV9NazF6a1lRSy1TZ3NuWkhpZ1MzUVJLOHVPZC1COWNOdWRudnRyS240TVhNbTBHQ2t5RV9rSFc0OXFuSGxJanRCN1J6OUtJV3RSTV8tcDI1SDdZajgxclE0RU82dw?oc=5",
+"source": "TechPowerUp",
+"published": 1793564018.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
 {
 "key": "701c4cb99b5e770f",
 "title": "Microsoft AI chief says AI is not conscious and we should keep it that way",
@@ -239,6 +299,18 @@
 "Nvidia (NVDA)"
 ],
 "keywords": []
+},
+{
+"key": "0a9ed2ebcf86f9db",
+"title": "Stock Selloff Continues as Oil Surges",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ1IwcUcycG5DdFhjWFBwM001cEZYd29Tb2E1aldUMlhrNDZkazhTQnViZDVXT0otMUdWRS1rclAwWDlxUmtmUHJmeVFZZUhDWmtxRkl0SDBZb2I4NFJEYnQ5LVVlMkxhdVFXQTZHWmxMcTlKV2RKbjZ3dnRqWjRNQ1lnZUZSVGc1?oc=5",
+"source": "WSJ",
+"published": 1793554843.0,
+"stocks": [],
+"keywords": [
+"selloff"
+]
 },
 {
 "key": "1e470f89450a32f9",
@@ -643,6 +715,30 @@
 "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOMlJObUk4b2R4NzFIX3FfRzBaNzg1b2poV3hWaGNsLWM4clpmR25WUmZGQXlDNEhqa0hBd3lRTWxGX3p1REJPNnNqREt6ZjJYOWs3TWpKZlVmQ3hOSXI3ZDNpeEpGX3c1WHBUZjRETUFjVmZUVEVXcUZtR0U0QU5ORUdWYVdSRHlUWko4STlpSUU3QlRoa2VMLWE1a2pjYy1iUHB2NFZBRE9fcHJ4WWpUajdZaWFKa1VGLUM0Nk5KQTA1SEFlNkF4V3EzS1pZVUMzUXdxSkdkVGlBQ2pIazVOa1ZyYWkzeWtndS1FUTNna2NZVTk2dlUxdlVETEJrcFM3Vm1lS1lFdC1qeEdaanQxRWlMYks?oc=5",
 "source": "Windows Latest",
 "published": 1793546204.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "c0b82aa63a8f04b2",
+"title": "Microsoft AI Spending and Big Tech’s Shrinking Shareholder Payouts",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeFV1dnMwVTFSemVWZkNBVmY2bF94NV9IRndSNUp2V3gyOWxtUnIzdGxzMkNMOTZsRTNiclVSU0RYZFpZd0FEV0pVZ3V6a3M1Y2tjNWlvZDZtVUFvbXdEcEI1UTVsV1pnNHg0U0g3Nzhma2NzdkFjNFFrMFFOeVJ2aVBzN0lxb01nMm9lZDQ3bnVsNGc4LXc?oc=5",
+"source": "remio",
+"published": 1793544514.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "582435c3fb1db322",
+"title": "Microsoft Copilot Memory Retention Exposes the Gap Between Saved Data and Usable Evidence",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUmJIMEFHVXFDXzNJLXVpMl8yYzJqc09GLW5TYl8tc294UHNhSWcxU1dfYWotZXh3c3BQY0U2UjBVZjJDSWZIalh1SEZrSDJVNHo3dUFOdmZhaTRranRHQU9tRDRJZ29KYmhwZk9UT1h3bk9FV1l6eGNRY0RtQUtlY3REbXhiZVZhQmdlLWJfbU5TRkFDeWhlczlILUVCc3FqTXA2VEt0dGNmUQ?oc=5",
+"source": "remio",
+"published": 1793544402.0,
 "stocks": [
 "Microsoft (MSFT)"
 ],
@@ -4776,102 +4872,6 @@
 "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxOMkRJa2JmYlM3MGhGS3huOHhNR2pNcEFyY043bWg4Ujh2WUZxcEZDY2xSdkVFQ051cDNCbzFXSmtVZHVZS2FRcW1vUWNKM2tuNWkwdW5UV2djRXdLUWMtRGlsTGNJOFlfMVM0bTVYaktpdmJ4Zjdzd0pHbXNTR0IweGRGUWx0QzBvZlJ3QTE2Ti0xMGI1a0cyS3NMcFpRRGtZUDM0U1FFSThsOGo1SWZXNEI1UlZ6Mk42UFg1aTF4eWZCaU9Oa3FVVnF5ZmJiRHRrSWpKZ05ybE0zYVdfRk9tNGw4czBWNGZ5dE1hVFVtdDdQeWk0VjRnaGFYd3N2TEs2ZWZCaWFKYVhyU0xkRFpNVExRVWF2c1RzdzZEejU3U1hkUDFidEZGbTBuRFR0WjVOcmtad2VwLXMxMWY5RnlRUzlxVHItNnJKWlBRai1QTlhIWG1FakVvZUF2NHBWdUFUWDhTR1hMNFlURm030gHyAkFVX3lxTE45VjkwV0tKeXhpZ19haDRfVHJfd3FPSjlTeXk3RWZFR2NzNXU1N0ExekxkekFkR0hyMkxQam9mUzZNNjNwQXJteFI0UEE1S01wTjZYcGJya0hMek01SXpSeWw1UnRVNHh2UW4tOUpaTjZUel80TmJEUGh2QkRxZHhLcWpPRi03MU1za2JoVklsd0x4QktOVzdzQTdrekY5UEtwckZHem9vX2dXcHg2allQNERsVVJ2QnN1X1lJQ19oRTBSZ3dGanZIQWZlVHBxNG9JWllPSTVMQTlEWkZXc1NnMUN3WWlnQ3ZkRWJ6Mmw2SHVvUnE4UkVsSTYzT0lvSzJFakw5VWpVUFFyOHlzTTk3dzVJOHkzdUM0UWdEbzVqWUFYejU4UTFGRlVPX0prNzRnemFJRUZPTkplUmYtaWs3OFo4aXgwVVJiUWxsNXhrT2tnTFlBdjZFaWQzdm9hNzZ3Mm5HUTh1SjhPQ2NuR1J0RVE?oc=5",
 "source": "The Times of India",
 "published": 1793440860.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "d3a2fe40887c280e",
-"title": "After using Nvidia RTX Spark for a week, Apple's new MacBook 'PROLED' has my attention",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVUZRVnRTOVZZb09QNDJXUkw0N19RRE9XYUcwVFNTZDFJZUJtYmNseDJNMExIZ2RUdWhrQjZuTVRna2VKTjB3NXg5ZmNsaGViN1pQT0V4XzlVSHhFY0djYlFZS0trLTlIaDBXc2tGZkRuZFg0WmY4d1haNkRWSWl4bDJ2QUVTQ05fUmNxTA?oc=5",
-"source": "Yahoo Tech",
-"published": 1793440800.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "e5ab57916cfe7cbb",
-"title": "DXVK-NVAPI 0.9.3 Brings Nice Improvements For Linux Gamers On Latest NVIDIA Drivers",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JZXdrS3JQTGljVVhYSnAwcXhwZmJTZHdnQnhZSXQ5cjFzM3ZLNm94TXBUWDh5cVQ5bWhubXRocWQ1TlViMjRpVXV6Nk4zY09ZQ2FEZHI3TkdUUQ?oc=5",
-"source": "Phoronix",
-"published": 1793440800.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "41944f2d997c9ca5",
-"title": "NVIDIA Optics-on-Interposer [2026]: 3.5x Less Power",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcTMxa0tKTkp6RV9ZZ05EVnh5WHh3RlV5WlZ1ZmdSeGIwSk5hNmNiWmFvZGc0QTBRNGNPRjcxalQtQ0RWSlZ3VlFNSWt4R3YzNVZnTG0xZlpfWGhVdUZCbEtPc1pnWUJXVzQzRUdKM21lZDY2dlp5SlZsWWJxNjd5VlFhUGszLURkZ3lqOVgzZUo0aEda?oc=5",
-"source": "shattered.io",
-"published": 1793440794.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "70e30101c7124214",
-"title": "Tesla Marks Halloween With Cybercab Taking Skeletons For A Ride",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRGNSQnlFbTJ3Y2xyck5adnhhZkl0V0RhQ1dPZVJpczl6czkxSUtIOEs1elRiN0dkZlBXMURnZ245TlhvT3djamxPZ2JnMUFQbEZBR3hReFR1c1M2a1dJVERYM1lQYk9kN3NHS1RaLU40Vmk3YXZwbTdXVk1QQ0I4NEZUd3dNWUstNmpLaDhZaUEyVWNRTmx6WC1rSUF3WklMMTJ30gGrAUFVX3lxTE52OXJHWFlERFVxSDFRbGhlVG1JNFNGYWc2N19ZY2xSYnZIazV0dWNaWHdBaUw4YmhGMk14TGxnZEVpWjlSeFlwNFVKY2NoT2ZaZ2hDSWFXOW85NmVEbTQwZE1UcnF6ZnZUaWxkWmhkSHRjdTAzeU1PRjljb2RBN3RhNlpYaUpJcHRHMUp5ZUNVS2xDR2tiWG56TzYxSGNTSWxPVkQwVjY5YWllOA?oc=5",
-"source": "NDTV",
-"published": 1793440729.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "173173d5c2d02806",
-"title": "A flying-car startup says Tesla just joined a race it has been running for years",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcjZReV9WdU90TTVZWDZiWldPUXFjZUx4dDRZWlI3UHJ6QVBsQWV1ZjZ1MFFtb3k2MDByZnNNOUZ0Nzl2RDFoVUF4TGVjTW5lbWRuNTFBNG9MYkNhVHdOVnZDWVVVbXdTU0l2NmlxMmdUdmpaa2kzRjI2NVRZWVRUbmlNT3RPOUJYZWN2TjB5MlIyOUdZdVhYRUNGallvQQ?oc=5",
-"source": "Business Insider",
-"published": 1793440435.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "3a5d5664f8e9f402",
-"title": "Here's What $10,000 Invested Equally in SpaceX and Nvidia Could Be Worth in 2030",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQN0JxdzJ0dXJFQ0lzYzlrRk10NEM1YzFVcktpOXl1NU1rZm41RXctbW1OQkRucnFqT2Y3ZWJQc3owSGY3QVdNcEU3OU9NeFdZMzRuS01uSUgtYWpJbjZhUC01U0NGV0o3Z3pUbV9yT1BqTF9TcWltQnBsYW9UczJTcmVaMGpETEgxdXB4Xzl0aWFqQQ?oc=5",
-"source": "The Motley Fool",
-"published": 1793439736.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "18dcec5e90a59d84",
-"title": "Equinor stock: Q3 results raise output outlook, Afrodite expands",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOanFKa0Q5dTFfWENMY3JhSEJBLVFTWmFHeUUteDA2cGJFelBNRTctVXRoLXl5ek41U2V2cS11WlZUY2d5LWxfeHV1cVNkdnlabmo1TlV2VHZ1TlV4cl8wRk1RZFJtQ01jUkdPcWdyRXBlZHJndElRZGNSZFlrZVpDSlpYZjN2dHpqWjVHMU9VejNTeFZMc1BnVDVxaEZWaGU4QnY0MFQ5WnE5enhTODZHYmktZEkwY2plUnI2c0VuWTQtbWM?oc=5",
-"source": "ad-hoc-news.de",
-"published": 1793439703.0,
-"stocks": [
-"Equinor (EQNR)"
-],
-"keywords": []
-},
-{
-"key": "69145827687b03dc",
-"title": "NVIDIA CPO Prototype: 256 Gb/s Optics on Interposer [2026]",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMzhhalQ5aV9RUUlBTzBaSUFOcDVzd1BhdXNMZXFzaGE0NHpGVURpYWJMMjcxWXdVWTlDb28tRHFFeWR4VTREYzdwNkhPajFVVTVGT0JMVVlubldNR3pzWXNUTTBkdE04RnhBQWw5aGtYV0N0cFktQ0c3QU00SXhfZzE5SkI5OVk?oc=5",
-"source": "https://tech-insider.org/",
-"published": 1793439478.0,
 "stocks": [
 "Nvidia (NVDA)"
 ],

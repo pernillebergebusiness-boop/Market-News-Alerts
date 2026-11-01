@@ -1,5 +1,5 @@
 {
-"updated": 1793535393.4247146,
+"updated": 1793539179.7924507,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,6 +73,104 @@
 ],
 "items": [
 {
+"key": "e5f489e526a1c99d",
+"title": "Microsoft Offers 60,000 Employees an Exit. The 200-Year-Old Corporation Could Be Next.",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1uaUZPYl9Ec1JsZjF1VEI3d1V4YjZMQWg0ZHFmTTZzRUw3WVpXZERvdjYxSWJacXBqRm55ZVFUbmhLeERDUEZHX3ZmN2ctbkloVW8zMHJvd2JHQm8wQ2pDUUR3R1l6ZnB2ZGx1OGFHdXlwNmotd3pEVVlQVQ?oc=5",
+"source": "Sebastian Barros Newsletter",
+"published": 1793538809.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "fe300a82d77aafcd",
+"title": "RTX 5080 Canada: Pulled From Nvidia Store, US$1,979 [2026]",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1zMko3T1F4UDVVaHZ2T2JwSWhRRk9VcGVWMDFqeWNlY2lkSHJmZTZuNXNXWmEtZU9jNGZfeEtIeElnMUhCMlFUZ0xTcTlnS2pTUUlHdHJteUx5LU9pUlRpOGlyVF94Y2tyNFMzUXJiU3pjR2pwM3MtbTZR?oc=5",
+"source": "tech-insider.org",
+"published": 1793537954.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "426119cbbb2755a0",
+"title": "Nvidia Stock Selloff Puts AI Hardware Leaders Back On Watch",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbEVwQ1dwOWppeU1LN1dvWjhEOTh2blhZWjVVeE9OM0F4M1d1ZmhzRks1OTBXMkdHc1l5Y2dNclh2c1JLemE4NF9SbDdySXVKa0Ywc3NiaW9DUjdCMTc4a0pOenFkTGxnWDczMTN3UU1Nd0toSVE5VkV6bGczd21ZSHVDa3BoQjJ4UzRUb0tkY0s2VVJ2Qm9ZUzBpa29vSjhfVFJSSy1NUmJZc1A5dWNScUg5RHoxSHk2VzliR2xvZVU2eE16MzdFM2hOMzZSZV9qOUdtUFVzTdIB3AFBVV95cUxPOTd5Yjk2Vl9oWnAwZEJfck50QnV4N1h0cHY2MzlKSnBadWNXZmJBTDdBN0s4TmRDUWRuWHFhY0FwR2FjRFdKVkxOWmc4cEJ1eDRnUTdqN2YyaktmNDR2WnhxLXFHeDZvUFh5VXFMZXdXN1RaZUFJZl83MHpuaDhPY0pRMzRJaTNvTHp5QnVuWlk2WTBGbnAydXpIQm5wbjlyMnhFZ1JPd3R3MEs3eTVOeUVERlVUeURXdHV5NFQ0aFJnRGY0ZTk3NzU2MENUeUg0dUdpTm9qTkppRUlM?oc=5",
+"source": "Simply Wall St",
+"published": 1793537675.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": [
+"selloff"
+]
+},
+{
+"key": "5702d63f47bf599f",
+"title": "Beyond Nvidia And Hyperscalers: Beth Kindig Sees A $1 Trillion AI Infrastructure Opportunity For These Stocks",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSEkzbjcwUmE0dXJwX0VKbnhIV3dFdnhwYy1zQWlCVkh6dktWQkVfc3dta3JXX3NWb1RtX3hYQTJ4bUJCNmthNnNMaW5RTTJ0TGppQWhiSTZYZkQwdEhUNS1QNmZIa3lETHg2eUUzRUtJaWxwUjgybFJidF9GZThpbnZIOF9IOHJTWVFEMnBQVHFVYjdnU05IYW0xRlV5ZmRBM2J3MA?oc=5",
+"source": "Yahoo Finance",
+"published": 1793537523.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "e7fe2eaf6ed3db41",
+"title": "5 Companies You Might Not Know Are Owned By Nvidia",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE43YTNEOUtUNEEtU0wyZDNqZTRDTi1NZ2YxbmFDeS1wMVdPM3FNdWp3RGd1MEhrWTFaV0twbFViOUtuaTJTeW91V1A2SEhQSzljanE1ajdNWHFUZFZvcHdLelQ4enpZWEY3R0RvcFJ4WDlDZDA?oc=5",
+"source": "SlashGear",
+"published": 1793537100.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "a15680ccb60dd549",
+"title": "Microsoft AI beats doctors in simulated diagnosis test",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQLWp2OF9UQnVEVEZvcm01N09RZXkxVzFsZ3NoZVdFRElaeHo4azE2dlF0LUtCejU1UnB0eE1VS1hVSHRsT1dDdktWSWNWdndKSU0xeUt0NGZuNy1nMUZRckk5UzREYmtJRUY1N09xUEk0aWJ3SXU3MFpLOXlSeGdDV284ZlNEYUnSAYwBQVVfeXFMTklsUk5LcXJHMGNLenQ0aDR2X0tJMXg5MG10UThHcGpXV1NuS2dNWDBBbWI1eEpRbGpRYjN6OTV0ZzBEN0VPY1M0LVhQTDZJY2F2MkVRUWVrSEpZaUY4OVo3VHFGQTJjMS1SZWVGVGNiLV9LeWRjazRXNFlTcXA4eHB3amUtR2ltR0VnMmo?oc=5",
+"source": "Fox News",
+"published": 1793536450.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "84ec7d1f53a19a7f",
+"title": "Driver killed after crashing Tesla into tree in Morgan Park, Chicago police say",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUUVlUWNTbWtFTjNROU1naEtCaDFGd2NsMUQ0TnNMS28wVGZjVzhwaWQ0VHdGeGdKZTZNeW85MThXdjRjc01ackt1SUItb3YtQk1wbWJ0Q3hpTjRYNlZ2ejBJVGtvdlNLVDluLS12TzlKOGdQT3ZZalJsRHlZWlRadm5YR3REMVZfTmxUMw?oc=5",
+"source": "Yahoo",
+"published": 1793536382.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "75cadcaded4f6acf",
+"title": "Apple (AAPL) Q4 Earnings Preview: Strong iPhone Demand Meets Rising Costs",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNDFZaHpfLU5wQW5MbHBsOUdXZF84RWg0aG9SeVBoWWsxXzhRd2UxWUtNUVFHcXljMmEwYjBlak50VzNCdUdkQlBlbDlUaHdDaHhic21RRFVBTWxYUUY1cTBCNzJGd1pXWWNSNHBXWTdVWlZHYVViWGVwdlA5YVBHTU1RWDBTbEk2SUh1SC1ORWxidlg0NEZXXzdOd3FxWVJnVFE?oc=5",
+"source": "TipRanks",
+"published": 1793535342.0,
+"stocks": [
+"Apple (AAPL)"
+],
+"keywords": []
+},
+{
 "key": "c501467d29a1e846",
 "title": "Tesla’s Cybercab Costs “About $25,000” to Build. Waymo Has a Big Problem: It’s Cost Is Nearly 4X That",
 "summary": "",
@@ -81,6 +179,18 @@
 "published": 1793535021.0,
 "stocks": [
 "Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "779313129834d011",
+"title": "Windows vs Linux - Gaming Benchmark (DX11 and DX9) - Nvidia 1050ti #benchmark #gaming #linux",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5GTWtSUlNBX0l2VGZtRXJkR3pHXzR4QjRJZjh0dUtxXzQyWWFzMXVMcVBpX0tndEFHakZlTnlTRXd6MnZtWVZCeXVDcE1GOE5VdzNqT1RlZWg4MXZ3?oc=5",
+"source": "YouTube",
+"published": 1793533972.0,
+"stocks": [
+"Nvidia (NVDA)"
 ],
 "keywords": []
 },
@@ -105,6 +215,18 @@
 "published": 1793533500.0,
 "stocks": [
 "Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "c90464b610aeb043",
+"title": "Key Tesla Model Y rival gets more power, same price for 2027: Zeekr 7X upgraded with 500kW flagship and up to 627km range",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSUZrN3hYd0xPQ2wyVmNVVGluY1hZN2R2X0NvV1ZjWUdUVXNzNTJseHBibzhoQVZQUEhvUnpDeTVtSmQtVFk4QVRVRl9ZRnJuaEliVFkyNEU1QWJtZGU4T1dOclVNRElKeFJCOXN3eXVyZl9Pc2FGRnlINFpMUHdnQ1lPZFJGM2FuLTFycTU1Sk9WN3dfQnpOeUwwUzBKVmxfaEY1Y3RqZUFBOC1ZRmx2cnhyVjZocnNmSlkwUUVGcHpoMzZKS25hbEF6bUhjTmpNR0t1Z1pzcmpuZ214d0E?oc=5",
+"source": "EV Central",
+"published": 1793533219.0,
+"stocks": [
+"Tesla (TSLA)"
 ],
 "keywords": []
 },
@@ -187,6 +309,18 @@
 "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPODhCcXNobnVNakFnUVE3U2x2OHdhSjdDeEg5dFlWX0pqSWxVVV9GWmJ6OHdmVDBCMGItQ19aYnNobmxINUhzMWNwTWhOTFJ4QXludjFndG1hVWUxRGp4SElLd21SYlc1VHBEZ2tuVGVpUmdtVnNTUzZqR2pVQlY4MzNR?oc=5",
 "source": "varindia",
 "published": 1793530072.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "30e91e66decc65c6",
+"title": "Microsoft offers voluntary exits to staff in India, US as AI spending bites",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQlJtNzhOUXprZ1p6OUpxdWlHbzJKQkhoclZteXp1elp1YnZTX2FJZDNwVVptNE1JQnNLOFgzd2w3cTdkNUtjS3h6YnFsNkNsSXRkZmJvRUg3WVpWVl9fTW1fRnAwbkdvQjhLU0pkUlNVenFKOWxtb2wtcGU3eDlxaXc5SlFDNGRiTjE4c1duQ3Q0UnN3TExVdklnSUotcGp6LUNKX0pMV2pOTzJ1VTdlSHN6dkpWWWg0Zmh5a2xLaXpkUQ?oc=5",
+"source": "New India Abroad",
+"published": 1793529978.0,
 "stocks": [
 "Microsoft (MSFT)"
 ],
@@ -4743,138 +4877,6 @@
 "published": 1793418781.0,
 "stocks": [
 "Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "2d750e65cfa12bd4",
-"title": "How Many Tesla Superchargers Are There In The US (And Who Can Use Them)?",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE95b0N6bkNleGpmd19ONTZhUDlnUnN0NXRybUVfVk84ZmNCMHlQVWJON1JOS3doU0dUeExDSWdualp1bFY5R3NrOVR4SUlseFhNcndTR3VXV1phZXZTRVlKY0hXUC1VMXRZNXVkY1NCNGE1QTdkcHlKckRHVFFOQQ?oc=5",
-"source": "www.bgr.com",
-"published": 1793418611.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "6491ada07f510802",
-"title": "Microsoft Surface 44W charger.",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE56ZS1RejZhS0JTc0Q0OTZMNEVqNTNMWXh0Vmh2R2F5N1F4SVhsZk9QTERrYzE3WjJBNWluUloxQlZlVkVYRnJ3Y19pUDJGVlhMbW9oc3FzVFdXWENjN1BZTVk0OUhZRDRpSWNWTm1sSE9DeUVKR2FsS1A3QXIwQQ?oc=5",
-"source": "khorasantimes.com",
-"published": 1793418328.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "abb9df607e94978a",
-"title": "Why Did the US Stock Market Crash? $2 Trillion Wiped Out",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0yU0djYnFTdjdtS0NfcS1TZXQxT1pPcHJNdUlGMHdjMkZ0RUZGTzc2SUFwa1VaU3dSendOZFFraGJZTEhSMksxRDVfNVZjUnZTZXZ2YV8tcDNQUzBaa0E2dmJKNE95cnlpYjNpRXR6Zm5pQQ?oc=5",
-"source": "BeInCrypto",
-"published": 1793418240.0,
-"stocks": [],
-"keywords": [
-"stock market crash"
-]
-},
-{
-"key": "6764baaaee4b56ea",
-"title": "Apple overtakes Nvidia to become world's most valuable company at $5.03 trn",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNOVlfRExWdGdMQTBBSWJHXzNhQ3o4MXU2clRuY2hMVWdObTA4Q2lLN0RKbnVjUkNNeWZXV1R0XzRaN0c3OS1iRmNEZ1p0TXd2WXRleDQwVnM5TDdFRmNQSlJpQjFSbzU2RTQ4eWpiVGM2QnFLcDd4TVN3MnJ2Yk5uYXU1azZVR0g3RWhRX1BJemtjVDVXUHRMWkR0TXhabjA1ckY3WkNSRXMySnFiTU1mT0dFZklENFNxcUJhWEpyUHh6d2NqcHFZM2FuQXFNWmhxaHhMN2RRV2dtM2PSAdsBQVVfeXFMTTlZX0RMVnRnTEEwQUliR18zYUN6ODF1NnJUbmNoTFVnTm0wOENpSzdESm51Y1JDTXlmV1dUdF80WjdHNzktYkZjRGdadE13dll0ZXg0MFZzOUw3RUZjUEpSaUIxUm81NkU0OHlqYlRjNkJxS3A3eE1TdzJydmJObmF1NWs2VUdIN0VoUV9QSXprY1Q1V1B0TFpEdE14Wm4wNXJGN1pDUkVzMkpxYk1NZk9HRWZJRDRTcXFCYVhKclB4endjanBxWTNhbkFxTVpocWh4TDdkUVdnbTNj?oc=5",
-"source": "Business Standard",
-"published": 1793417181.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "d2013175b07b1a58",
-"title": "NVIDIA (NVDA) May Provide Billion-Dollar Credit Support for AI D",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZWZaVW9tckphUU9mN0xpWFl5TURfZzNqNnZXTkR6NnJQeGI4QzdyWkFsS0Q5ZXBpNU1tc0tDYU5EOFA3V3M4bWFQMlFUVnluRUdKVERmd0ZNQjhGY2lkSEs3TG1OcGxBWl94SUV3dml1TXdYR2VYUElIMHZib2dxanQ4bFpGb1BSMXg1b0M3UG9RdE5GMWtjZ05fOEFCTTRtY29lVFB3dzZBVk96SWNF?oc=5",
-"source": "GuruFocus",
-"published": 1793416950.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "301dfd60864df0e2",
-"title": "Microsoft Copilot Synthetic Data Targets Enterprise Evaluation’s Privacy Gap",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTXRiLXprdVpCX3FXaElpenBMYmdFekJIaEg4R1BkZ3pRckE5U1hIX3h4V0NOVUh3WWdvbDBRb2tsVXB4R25wZ0I2TnJPVXN4aktfRUE1ZV96NXRPZnloU1RuUGF3SFFGYjJkSmpmbFpkN2dzU3BYa0hwbWxtR2kxSGFJcHhrSkstZVlIRlBubnZadXBWdDl3V1VMYkoya3htZXh3?oc=5",
-"source": "remio",
-"published": 1793416110.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "00c90299ca525990",
-"title": "NVIDIA SETI AI Brings Agents to Telescope Operations, With Verification Still in Human Hands",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVC0tQkhNcWdhZXE2TlRIZkw3YW1IUnB3RW05TkYwaWs5QUVMTE1FUnk5RFdzSWFHRVRWbGtOR2F1WWpmaXFRakhXVk1HbHVNLTRWNTZQeksxSl9BSExSblJyZTd1QmtfeVBsSXpDRmdoVUt0VC1wenU3cWRqUXc1YTctTk0wcnNrZnRiVWo5WHFGTU1xNzM1LUhJVFRmb3YweU0wbFl6QUY?oc=5",
-"source": "remio",
-"published": 1793415862.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "434192d713285785",
-"title": "Estée Lauder Strikes Long-Term Partnership With Microsoft, Deploying Copilot to More Than 14,000 Employees",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1fdGttLTBTd2tOYVl1RWF1dGk0a2Fhbk5VOUZ0aHVodWZEeml2N0RLTURqMFR1WGZOeE1zb2xMalF3WGlEejNxVjV0ZXNSbm9HNktQRzR6YlpnM3piTjZBZHNVY1cwY0lCbDNtMkw2U2twdHVjc0E?oc=5",
-"source": "BigGo Finance",
-"published": 1793413500.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "4b461562496c4087",
-"title": "NVIDIA's RTX 5080 follows the RTX 5090 out of its US Marketplace as a 24GB model looms",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOeUk1Q2NPak9PRGNHSW9pUHIyalBBdG1pcS1Bcl9SY1lNR2NEclNKSUM3azNHQ2I0bzhrY2ZuOG13NFVuU3RpYnJJODlEYW9IenpqT2FFZm9ab3RIZ1N2Q1Y2a0pOb2U4WFIyZEEwWDI4eWppTmk3NmNmRmlUSUtNRlJ6VkdXZmpIbEVheV9GM2xCcEIwUXkySWlfbTJBcFpNNFFWTWZfcTg0T1YzdnVNcUhqUWg2dlpnMHFDa3ZyMXBrbXNMQjVvZjN2emhtX3M?oc=5",
-"source": "TweakTown",
-"published": 1793412911.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "52d72500e3090597",
-"title": "OpenAI, Microsoft Copyright Feud Spurs Wave Of Amici Briefs",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLS1jOWxYZmJBQVdhekthVG93NXpDLUpZdXRBM3MyajJnbVBoT3B0Rjc3dG4wcy10bWF3MVBvNDA1Tm80M01FTmJadHlwcVFKakFSYmxfOWstR1VEZnNVb1I4b1p1bEI3TzUxQVIwZUZMbnpsRVhQTlFxUHNqTDFWSDNYMEMyVVpGZjQ1NWNYUDJHZzZqZXU2Zmt0MVhuZU3SAVZBVV95cUxQSXV0YmIxQUxneHBqSTdJMlZ2Skk2Z1g5RVN4UHhjUFViSEd2WmJuN1VjdG9BM2lRT2lNbmhEYkllLUg4QWUyckpTd2FDd1ozVWUzeTgydw?oc=5",
-"source": "Law360",
-"published": 1793412732.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "33709caec29d8e62",
-"title": "Effective change management smooths Microsoft 365 move for Co-operative Bank of Kenya",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdnRUU2RZT0s1ZlpXRVFpZVNWZUpqd2JuUEtEYTJrM0xjNDBEcURJLVhCbldvQkcta3puaHpEY056b1pTdFpyMjdEdXpmemxINUpCX1hwa21adGlkX1Y0ZmYwSVlaVjIxTE5CZktySDRwMENPVlN2SUE1TnI4Q1ZZZVZ3bjc?oc=5",
-"source": "NTT Data",
-"published": 1793411437.0,
-"stocks": [
-"Microsoft (MSFT)"
 ],
 "keywords": []
 }

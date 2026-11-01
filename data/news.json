@@ -1,5 +1,5 @@
 {
-"updated": 1793567874.9302177,
+"updated": 1793570338.9796333,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,6 +73,43 @@
 ],
 "items": [
 {
+"key": "eca461c2a6e084df",
+"title": "Nvidia In Talks To Back Nscale’s $45 Bn Anthropic Data Centre Deal",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUldQeFFXTzRfUW1FYTk3UVJ4U1FNOEljMnFZdFZhUGpxNHJWUEU1UmI2by1zQ29Bc20xbF9DenRtemd5V00wTHBOY1pXU2JtWEI5QnotMmtoNjRoeVgxck5lZ1hJeC1nVGJReU5WY3ZzUHF2X1VvRFdVOGZaR2ZnU2JUbzlZVXFhUFg2Z09NRjctOWhSOWxCMzRYa2UzbzQ5WXloWGhIRVpPZHBoZXc?oc=5",
+"source": "BW Businessworld",
+"published": 1793570221.0,
+"stocks": [
+"Aker (AKER)",
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "cbc4ba3d983ce415",
+"title": "Microsoft released Windows 11 KB5128977, KB5130881 setup & recovery updates",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONHFHbDNnTGNVNmVMcW55S0hQSVd2VHlKRVpMcnYzNTlLQ1QxMG5LSzJkd1kwYWw0c2E1czZteDIzZlExZGFqNXZHVFJBWURsbXd4cnkxV0xjTmtTeHBfWEFCbWt1ZFc4UFJMaVlZWHZtbUpDXzhIaGUyUVZMc1lwOXVxRGZrOUc3RTNSRWNuejFvX0lfMHUzak5SSExRUDI1cFgtQQ?oc=5",
+"source": "Neowin",
+"published": 1793567778.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "13ced36595459a1f",
+"title": "Australian Stock Market Today: ASX Futures Dip On US Tech Selloff And RBA Decision",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNU85eUw0RnhYc3VEV3d5YmxpbUo3bGFueGRuejc5UUZJd3REMDB4TkZRSTUwaXQ4WlR1V2NvUVBqRUtfMXhjN1U0dFA2Tm56MTEyT21JY1NCZWJRbUhfVFk5LXpjdDA2TnNWdUJVSlY3UTB1RHh3SmJQQjBlTzNTS3dHbG1KV0JZNHZvMUFTMXdaM01kVUlRNXF5YlVUMVU?oc=5",
+"source": "Yahoo Finance",
+"published": 1793567515.0,
+"stocks": [],
+"keywords": [
+"selloff"
+]
+},
+{
 "key": "f731cb63d6fbc762",
 "title": "Barclays Says a SpaceX Merger Is Now \"a Key Part\" of the Tesla Bull Case. Here's Who Actually Wins if It Happens -- and Who Pays.",
 "summary": "",
@@ -83,6 +120,18 @@
 "Tesla (TSLA)"
 ],
 "keywords": []
+},
+{
+"key": "1dba18408f605f3b",
+"title": "Futures Due After Market Sell-Off; Elections On Deck",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZEoyQk15NGhJR0FQZEg4aC1VS3RmOG9MdkZvSUR6a2tpQ0NYcW9XYWFralZwcmVZTnlRSG5CRENJXzQtNF9OVUotNFNLMW5HeTdPSjMxUlhKdGN5SUtIbWxmUXh4NDFSc2FJQVNzd0JXYlZ3OTdDWVd2X3pXT09WQWZ5MnN3OWtMN1hSS1pfLW9JYWdKanlnTTE0bU5ocHo1S2lXR0NMekZCRk1zdUdIODktNUJfckRUbUt4X2FUcGo2SXFNTWkzeWNMWWQ?oc=5",
+"source": "Investor's Business Daily",
+"published": 1793566860.0,
+"stocks": [],
+"keywords": [
+"sell-off"
+]
 },
 {
 "key": "42e2e5b2c1ce9a27",
@@ -4826,54 +4875,6 @@
 "published": 1793443148.0,
 "stocks": [
 "Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "b12bf59da4c46b95",
-"title": "BofA Securities Maintains Microsoft(MSFT.US) With Buy Rating, Maintains Target Price $630",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZ0NVRXF4OEItR1EtRmdKX3lRbGp2UFZyOTI2akpYYk5EWEJnZWlYRDBQTUkxWkIwMFhXSXEtMUpjNFpHNlJiVGJiWHNsUjhKZTB6Q3BQNFFpYW1zMi1iN3NoY2p0XzZrTWtlMW1aWC1tVjdjM2xkY2Q2QlF3azdwXzl6TXRZWFRyVHN4Zmx6SGtxYkZWS1ZqaG16ZTU5NWZlQllQdTJNYnY1TFY2LVNnVS1sTlB1T2xwMXJZ?oc=5",
-"source": "Moomoo",
-"published": 1793442660.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "60d82ad103261902",
-"title": "SpaceX's Nvidia-Only Bet: $10,000 Split Between the Two Could Top $52,000 by 2030",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGVkxJTVpPanJHSG9hWjVLQUNOVTFDcnQ2Nk5VWlpTU3gxR2FCZlJSWWplUERqcUdDeEFwNlljZEJOMExpSGZsdWN0N0VRTGtBQ2k1Rnlmb29CM1JlckYyZHJ3SlNZT3VLdHM4anNpakd6TDZub3c?oc=5",
-"source": "BigGo Finance",
-"published": 1793442300.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "26ae669c8e85ff65",
-"title": "Nvidia loses its $5 trillion crown as Apple takes the top spot",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPODVTMFdMZU9jU2NYLWF5WGZMTWN0TEZITHdxYjFaQ0tTVEtNN3A2R0FnRlVqRTlWVURNRlo5blBkejlzSVNlWnF4LVA4emFwS2RwZkZ2UV9kZkZ1Y2ZYRldGYUw5T2Z1VTdlOHBTLThHU0VWelVUdXVBbXp5ckYwd1lHbVJLOHZuQi16dmxUOWNwNkJjQlRMbVJNOXAwcExWNjlpcW5iZlZGZw?oc=5",
-"source": "Notebookcheck",
-"published": 1793442180.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "be1cc2f0dcf584f1",
-"title": "Tesla’s flying Roadster is a 'sideshow,' says longtime EV journalist",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYnJkSFJzdVJmeHNZY3JkTVVrbWJ1MzUxUEVnZVF5X2RNY3ZIbnV4SGtYZkV1QW1nN2FDMjNRampTdmZIYWVxWGRyQURNeDJKMmlwQXFJYUZRZktwQlRsV3duU2ZNSVVKMlRraVM2dmZ3VlpMWml1a3pZbmJpa1BvWi0zVGdaSUppWkdXeFlib1NkUFdXWF9YRDVYRVBHR3BEMVNVV09QS21SUDNtOUthY1JhZUEzNlpsQUxGT0xSeTIwWWRWV1RPeg?oc=5",
-"source": "Detroit Free Press",
-"published": 1793441806.0,
-"stocks": [
-"Tesla (TSLA)"
 ],
 "keywords": []
 }

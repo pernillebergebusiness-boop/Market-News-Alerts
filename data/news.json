@@ -1,5 +1,5 @@
 {
-"updated": 1793585795.2076228,
+"updated": 1793589394.7745705,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -72,6 +72,138 @@
 "Yahoo Finance: HTTPError"
 ],
 "items": [
+{
+"key": "c9e6d49d89c5dd98",
+"title": "Nvidia to become Naver’s third-largest shareholder",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQTJ3VTlSaV9jMFVGU3pVNzFmdkFKTXhmS3dwVENQWGdhX2xGYlFCSE1RaFRuQzFoWnBqT09WZWs5azlmaFVNTlItVGtCUDdGckdscFl5WmE2QnNfSWFkeEVfanRMTkQtSDlEZ0VvYnJvMG1faEJGZWh6dmsySmNSeE0xYk5mVzlkU2QzbUJIN3IzUlVWWUpvRGpMc0cxdnpzSmc?oc=5",
+"source": "digitimes",
+"published": 1793588414.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "a32aef15298c5f6f",
+"title": "Tesla, Samsung Push Back as Washington Weighs Tariffs on Vietnam Over IP",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5YN2U1ZmhvMHdLMEIxQlFDa2hManZGMS1JMXlTOHVkUHhsYUd2SENHZ1BLcVF2QkdDZ0Jqd0JkVFNFaEZ0ZndXejNWZ3J0ai1BNjNWcHpyVWxMRjBjUGRfaEsxMUUzUjFvdjZ2akpvenJCYWZLdVE?oc=5",
+"source": "BigGo Finance",
+"published": 1793588100.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "b6fe8af657ad8af9",
+"title": "Siemens extends NVIDIA AI collaboration for automated 3D IC electrothermal design workflows",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdnY1cUJ5aG9QSDNfcWVmZG9NN1JYVzZRc2ZfTzc4VWVaUnNicU0tNVlkcEFWWHJLbmhQWW9nT3ZkNFRrN2tkMTlZUTRpN2ZVZGFISC1RQnlSR095UExXRHQ5bERFbjNOdWtHVGRfSS1KcFM4bDdGb1RSUzRKRmF1eU15OXpyQW1fdEFmVmFKVUYyR3FGRFpVVUphb0JRUlllQmhMY3l6RDVlVFpILVlTX2RtWVRrQmc?oc=5",
+"source": "EE Times Asia",
+"published": 1793588057.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "7eefb60a8cfa281a",
+"title": "Asian stocks mixed as tech sector struggles to rebound from selloff",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbFlPTmRfa2Njb0JKYmxWbXEzSk9ieF8waWxmOGkxQnZNSDh1czNVTVFiVjJCUHZYazVmWFh2Z28wbWZ5MFAzSDJDWDRqcjVIZkQ0dzlmWWtrNXAybFJRekNtVnR3dTA2RHhQQm5VUjdULU05M3Jqa0U2Zm5jX2dqRTJTWTk3TUE5TEJIZnd2NUVScWQ1TnBjX3ZVRlQ4OC1lS3dpTA?oc=5",
+"source": "Yahoo Finance",
+"published": 1793587746.0,
+"stocks": [],
+"keywords": [
+"selloff"
+]
+},
+{
+"key": "0b829b1ab0f46684",
+"title": "FuriosaAI raises US$620 million, quadruples valuation to challenge Nvidia",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQV0RnT2tvLUpQUW45Y1hRWG5naXkwZUhFT193UV96MXJVaTQzd2QxSF9uMWdJWWM1M0p0a0kzTVUwTkV1NVRSTXBJSTFETXpVMFBMaU9PcmtqWVFOMVFUakM0T29ncjRaRmNOSVZTT0hwUl9uQU5XVG9xT21adW0yV1hUS0FUZ2R4UXlXWGZJZFNHU2xWMVFxaEdTcFE?oc=5",
+"source": "digitimes",
+"published": 1793587444.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "c60ca158786820de",
+"title": "Microsoft quietly fixes Windows troubleshooter privesc vulnerability",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPT2FtYzhFNHJ3a0QyLTg1WUFDLXFqMHkxUms1VXB4Snp1MUZ3RXBveG9FRlh4VDNtSm1QUXkxTUxTOXBIdWQ4eGJ1bmUtXzV5czBvM3NYLVFsaG5fYU85STh6QU5sOHFUeFQzY21YYzFScm9NV2NOd3ZrQTl3X2hlR1BRdkoyLWw5LTlYTXpTdjBxWl9GRWhuMFpaNGd6aUpIQmFzZ0oxN1hadw?oc=5",
+"source": "iTnews",
+"published": 1793587380.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "7a6ef4c59e61b0b6",
+"title": "Tesla-SpaceX merger math just shifted in Tesla’s favor",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQai03TUNwUjMwbjlsVUdGWXRwMUFjS2Nma3Y1blNMdF9wc3FRZjU1TDdOaFR3VUhJaElEN1VRZXlpOVdVN25tV25GZkQyZWpNVkROUWR1N1JyVzZLOEZIRkpfM3FFLVhVTWw2OWZyOUstSXY1UC1IUmVJS19CSHFaYVVpOTBmbjZwaktKY2VGV2M?oc=5",
+"source": "TheStreet",
+"published": 1793587020.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "809925404a47663f",
+"title": "India Large Caps Gain Favor Amid Global AI Selloff, Small-Cap Slump",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSURxZDYtaFZrWVZzYmtkc1J3UVZITGR3NEluUWtzbEJPZzFfeGMtMEhoUlpucGVsUjJmUGdvdnhHS3hOUW43RnZVSkNnSUYzZ3JVUkY4NEVGYlVsYVVLakFoZldPa3M0a2xVRUp6dlQyenJoWl9FMTZEOV9sSkdFSnRFSUtVQUcyRnNLcTJsR0xKY3BJQjhXRGhjX2ozb0FYTjJReWhkTEJPS25sU05oZVZlZXVOU2wtSEExRHV4ZUVFRU0?oc=5",
+"source": "Bloomberg.com",
+"published": 1793586772.0,
+"stocks": [],
+"keywords": [
+"selloff"
+]
+},
+{
+"key": "495039545f4e2366",
+"title": "Why Tesla and Samsung are resisting Trump's latest tariff push against Vietnam",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQV2pEdTh2bURCZmt0cy1iZVNBYkFzYzRva3JVbzZhSFF6Z3NNam9MVUFOTndxNkx3RkROOERyQ05PMjRRRlhWYlRRQmJiMTR1RHhfdnRVbHFKckhhUVA1WUh6bmZIM2N6Uk43NTlsVm05dTFoT0RkNUM4T3VnbHkzM2ZPblpjZVozWDQxaTNhd3J6clRtUDBRa2YxTm5VMW1EYkl0SUZneTRmVjlUM3d1NHN6ZGY1SFZjVEVRNXBEOVVYWkxY0gHKAUFVX3lxTE5XekZ6MTFMbEFJUnFCVDA3WnZrNko5cGdSNV9EWVk3d05SSFJveHNIS3hNLU10YlZHZ21HY2E2RkZVXzgwOGRna1NibGdYNWF2Y2EzVDVFbEFRakY2YkRFb1h2VVZubGxKM241SldRTVdmeWZSUUpjWlFhUkhMX3NHd0dPUzlLRlFWeFFWcFF2dTFyZ1dCM0lnUWhYN3l1ajVVdE1YR0ZYRkFmUk9YQXRxRS1ZRU9CcVd0NnpVRVJ0V0hOZk9uamd2WlE?oc=5",
+"source": "Firstpost",
+"published": 1793586039.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "7bbf18ec7e67402c",
+"title": "If we say AI deserves rights, it could start to believe it, Microsoft AI CEO says",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWTk3Q3dma3N6UGxMcFQtX0YwalZoUXlyYkM0Qmlvb3BJU284YTMyeU01V2lDTGtZdHVvMndxRTVZT0Jocl9KM2gxbUdoU21STWxVRWlSaUVzTXNBbjMxT25mQk9MWm1UMXZUTUVmbGo3cVRHSXhacUlIaEVQdHF0SjlZUDBoaVFYSm1OQ0s4YzZuRmh0b0FDNFA5S21pMmtoU3lhcVRickx5b1FvSUp5ajFxZWtsclprV0ZUUVJMRjM4dkJJ?oc=5",
+"source": "Los Angeles Times",
+"published": 1793585856.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "aa05a521f60d0cd2",
+"title": "Commentary: China's Nvidia H200 challengers look beyond GPU power, with Huawei and T-Head targeting system-scale AI",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZ0lvUjNZbzNBb0lBcmR3S2xFM1VjaEZxTFJmRWx4a3VTbWk4SlJGZFphZ3BMczQ0eTYwNWJKeEhEM1VYd1JMUEJkSU5iTU1BaDk4bmxVbkxIRUNlRTZWZGl2YWYxLWdWSFE5Y2NIYzVENmVPc3AwVVpFN3ZiN0lVbQ?oc=5",
+"source": "digitimes",
+"published": 1793585302.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
 {
 "key": "bd0101e133f020e5",
 "title": "Man finds 55 of the 'world's best' modified Tesla Cybertrucks at Texas event and there's some very wild custom jobs",
@@ -229,6 +361,18 @@
 "keywords": []
 },
 {
+"key": "61e4ffccd6761cbd",
+"title": "Futures Rise After Sell-Off; Elections Could Swing Markets",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZEoyQk15NGhJR0FQZEg4aC1VS3RmOG9MdkZvSUR6a2tpQ0NYcW9XYWFralZwcmVZTnlRSG5CRENJXzQtNF9OVUotNFNLMW5HeTdPSjMxUlhKdGN5SUtIbWxmUXh4NDFSc2FJQVNzd0JXYlZ3OTdDWVd2X3pXT09WQWZ5MnN3OWtMN1hSS1pfLW9JYWdKanlnTTE0bU5ocHo1S2lXR0NMekZCRk1zdUdIODktNUJfckRUbUt4X2FUcGo2SXFNTWkzeWNMWWQ?oc=5",
+"source": "Investor's Business Daily",
+"published": 1793579700.0,
+"stocks": [],
+"keywords": [
+"sell-off"
+]
+},
+{
 "key": "2eb1aa47a84630f4",
 "title": "Dow Jones Futures Rise After Market Sell-Off; How Midterm Elections May Swing Stocks",
 "summary": "",
@@ -273,6 +417,18 @@
 "published": 1793578036.0,
 "stocks": [
 "Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "9e13aa5b5dde3bd6",
+"title": "Lombard Odier’s Frédéric Rochat: ‘Our ambition is not to transform ourselves into the Microsoft of wealth management’",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPTGxCNjQtOUFNWmlJSlFtekNhZkFqbFhFc2JDUzZibkVVMjUtVmZzS0xNMGxTSG9HelJyMGtkRnlLcDdDUUdXbGJ6dkZpdGdYaDNrNVRLRjU3ZGx1RGlSUzhPYUkzcFhNTEN2c0pieFNxTEpKOTduQVRwSUVJS2EtNWpPUEM5R2ZKaHMwWVVJdGtDOWtDVjgxdkF2X2YtSVpyclBkSFRNT1ZwRXVzZWliMEwyZDhuSElkeGRuc3JmaWdOLWhQdUxpaDJDVlFfSE4zRlo2dFVwNjVSblhVMlROd2xBMU9NQVdQZDRxZg?oc=5",
+"source": "Financial News London",
+"published": 1793577892.0,
+"stocks": [
+"Microsoft (MSFT)"
 ],
 "keywords": []
 },
@@ -4718,162 +4874,6 @@
 "published": 1793455514.0,
 "stocks": [
 "Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "b17ee395547d050d",
-"title": "Man has turned his Tesla Cybertruck into one big Pikachu Pokémon wrap with entire truck covered in yellow",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB1Qkx0VWwxYllwa25ldGJNNlNZQ3kxc21qRk94aWN1RzdFSDFpbGdvd0NkX0c2WXU5cEE5OHdOTVg0XzVHVWtENTBpQ3NUZFVjQzJzclpKMnBYaGRtcTRtTmV5ZkVNbC1jTnpFdUhkY0Q4THpx?oc=5",
-"source": "supercarblondie.com",
-"published": 1793455440.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "5aba534ff14d1650",
-"title": "📊 PRO: Microsoft Azure Hits 48%",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5UcDlST3FGMnBNRExEV0kxc180ZGFJRHBBTGZQTVY0WERoWXFjLWs2RGFIZEFBd25tODRWczNyTjNiMGdvUU8zUGxxNUtuSzhORXprTl8wNldGSmdndURnUGVsNmdYUHROOGNYaHIwdmRmdw?oc=5",
-"source": "App Economy Insights",
-"published": 1793455353.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "776ba026f6f36323",
-"title": "Microsoft Really Wants You To Sell That Xbox You're Not Using",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNDd3Z2gzb3JKU0ZhcGhGSXpyQmJsZEVNZi1UVzRvODg2TXVJUVdmZElacnBlTi1rem1pNU90anlfVzN6bHFNR2hqd3FpVnk3b0NYQzRYQ2pjeUdHUWRpUzVSRzhQQ0RVNTZNMFdLMVpfNkczYmRfSmlqeHh6VXFSYlR3?oc=5",
-"source": "AOL.com",
-"published": 1793455200.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "85fa48bdc4f89aa7",
-"title": "A Florida man faced up to 5 years in prison for fleeing police — until his Tesla's camera acquitted him two years later",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWEFZeEQ1SmZjTHNuSHNhSEgybU9id2JNckhMaVBhQ21ENkdJOGNzQmE2amF5akxjd2JUSFJSWVhfZU5laHgzRklCVWstLU8yWXZWcGZSZmgwRkx6cGpORU5CbDNCWlpiNW5BXzNQVUFncHNqOGxvRjJCOGtZeUptZU5jTXM5UmJIaVVlTnRIWEI1LXMx?oc=5",
-"source": "Yahoo Finance",
-"published": 1793455200.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "1c5c237fd5c555a0",
-"title": "Microsoft Really Wants You To Sell That Xbox You're Not Using",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNanFsazZSbFV1R25nZTc0ZGtkUk84R1hxZGZuZUhyaTFLbUpZNGxVa3VJRUI5X1ViNF9lT2ZYS1pxSnh5VWtqUGd6eWZsQ192cXpWM1NKYUFFa2dQWlFkX1o0eGVlSjdtNmtCVzNTOGUzdTZYRXhhMlA3dy1TY3F4NDVRVy11UVJWUlp6YjFxVUNSTVNDTjBMRkxn?oc=5",
-"source": "Engadget",
-"published": 1793455200.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "c05b302c3141c037",
-"title": "Runtime: GitHub's internal harness comes to Microsoft Foundry",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOendadzJtdnVMazZ5TktITWpJand0SUJvVmFjN1NTTk9EcnR4d09JcnVIV3RIR0RwLTNna3V3T3dac05XS25OVlZwNDA4MG5qMDhucUJLX2VzZzRYeTdvNk91cXJ1UTJKNTVib2VLa1hxLXM2SjRkUncyZ005Rm9EUVN1R0FrQ1JLYXZ0dUlGX0tobFE0NTc0?oc=5",
-"source": "www.thestack.technology",
-"published": 1793455199.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "7023fee8a189799e",
-"title": "Billionaires are fighting a tax hike in California that Nvidia CEO Jensen Huang says he is good with as h",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQVEhTOElacEltbXRObEJoUlZiZHZVSkYxeDIzalg0c3pJcEJWMWdLSWZuQmMzdFBkZUVWSm9icTloQjhyVWtyNHZGN3NlVWRCa3IxTktlZzFCUnREYXg2elNlcE4tRm1VV25Xc2NTS0dpb1NPVlhUdjNMX1ZxMFdFQ3Y3TlJXQ25Ja1p1eG8xV0lKaVFfUXFhRnVmeVdhM21KeXlKMWhFOC1uX1lPRUVwUTVKZkFOVTZCbzJua1FGUUE5ZzM4UnNwVVExcnF5SFM3eDdDdFFCMXpBcWV5TE52S3lVVjVnWGFTWHBYN2tfcjdVVzVQaDk1TXk0TFMwU3hBRDd2NTluekRwdUswNHVlelJXczRFM002UWs2YWI2XzZVSDJVQ1M0cjZsWdIBsAJBVV95cUxOaUxlMGt5c0Q4NTZhUE1qRWtpOFB2eUtldkllSGFjS1BtNE9CemFiakxKSmZMOVk1U1owRkhzeTJFeGVZS0FEa0hOVENQc2RfUERRaVRZdjBCSENxY0w2VTItZGNVN3ZtcEUzWmI4TWhPTlZ5ZmI2dUhra3U5RVd1S3N6NWRMVE91OS1WOVRwdEcwLUd5RWR0NWN3UWladkVMSWU1dFdVblNJZG5DVkJ0XzVRQWlKSUJESHdJb28tU2hDMF9KSDc0YW5nb3RMOGdNQjdUTFBadDQ4RW9wQlJNVXduU3FRN3ZIVEJ0Q2lUQnhUUGoxRVRsSV9CcmdURFV0ekUxWTZrdVZrSjVpRk1id1RpOHFYbnhZUmc1cUtCQ1Riam1OTHNlbE9DWWEyZnU2?oc=5",
-"source": "The Times of India",
-"published": 1793455140.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "07afc4cedf5dc5f6",
-"title": "The R2 Is Rivian's Key to Profitability, but It Won't Be Easy To Replace Tesla As the EV Champion",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVG92VjMzZXNWWXRXdmdncVI5U2M4UFhaTHJmUmNUTGx4MnJ3UklsWno2TXhHYndqZ2Y0NXJCME0yaEZJSFJwM0w4ZjFJR1VrcWpuVFVxOV9GeWRDWlBTUmN3M2xSZVVGQlUzemk3NkszakNpMnI1RFFFTWM3VUFXU3M5ZEw2UFdnX0d0dFNBNTlCUFVqaVM4bVJsd2xfeFhyaE02b2gtWHhWdHdxMjdlMWZQY3Y3TEswSkJrdmNkeTBDLW1lTUtZN3BUMjh1VnRQRUlibEhBaFYyQTQ?oc=5",
-"source": "autoevolution",
-"published": 1793454391.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "b1368c6d41fe1083",
-"title": "Tesla FSD’s New Safety Trick: It Can Grab Control To Dodge A Crash",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5NZS13elFhalRlUkZjYm1KYXl3QjBPcXZIN1h4YnJ6NThtOWFDZTZydGR4QUstV3VrT1NMSXJhck1vMnFwYldzank4OXZVSkZrRlVmNEJPaGM0dHdJVUd1MDVGb1dwaHdQYWhKWFZwbDQ1eG4zTDZyZmliTnN4UQ?oc=5",
-"source": "Motor1.com",
-"published": 1793454089.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "5d123f19b88b1002",
-"title": "Futures: What To Do After Sell-Off; How Election May Swing Markets",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZEoyQk15NGhJR0FQZEg4aC1VS3RmOG9MdkZvSUR6a2tpQ0NYcW9XYWFralZwcmVZTnlRSG5CRENJXzQtNF9OVUotNFNLMW5HeTdPSjMxUlhKdGN5SUtIbWxmUXh4NDFSc2FJQVNzd0JXYlZ3OTdDWVd2X3pXT09WQWZ5MnN3OWtMN1hSS1pfLW9JYWdKanlnTTE0bU5ocHo1S2lXR0NMekZCRk1zdUdIODktNUJfckRUbUt4X2FUcGo2SXFNTWkzeWNMWWQ?oc=5",
-"source": "Investor's Business Daily",
-"published": 1793454060.0,
-"stocks": [],
-"keywords": [
-"sell-off"
-]
-},
-{
-"key": "8200e8449a48a815",
-"title": "Microsoft Offers Voluntary Exits to 60,000 Workers. After 37 Years, He Risks Losing a 401(k) Tax Break With One IRA Rollover",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOWk9vdi1aYXpwOS00WUV2MzZORzA3Q2pIZmRDZEszeTRyWHc1MVY4RHNYRlVZV0dPSTlNaDB6T2M0ZmgzakhIdzZrZjMwdHNMQnlCUnN3ZnZMbXJqQ0VtaURtZ1NLMVZTMHFtQmJUZm5wNFdvRi1nMzhfdXhWTWYxamw0LVdRZzh4cFluN0t6SnVvUTJRYjJ5aS05Qlp0d2lQMkVueEJURGFXNGI0M3ZNcmhJRjJTcEkyN1VsTXFsT0VaWm1LYWc4WXhnWXhmNm80YUtOUmxVS0U4cjNORDF1aWhHblFLSmRjUVRfbWw2aEFjVzVRSFBkR3hjWE1QQnc?oc=5",
-"source": "24/7 Wall St.",
-"published": 1793453799.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "375b9786825b0d48",
-"title": "Zuckerberg Says Meta’s “Core Business Is Strong.” S&P Still Cut Its Outlook to Negative",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVEc2cWUxZ1EwYWltR005NEdiRUs0SVZEY2lYRDBEVk9lOS1aLXpaMThWbW92UDJ4RTRIbjJ3SmR3dEJ2UDI5NTlWLXNHdWoyQk1tSjdHSU1IRFpnR25wVm5mZGJ3bm0tSGJFTWJISXprUkZfRlNTUUF4Z3lOeExSbmVvUktvdDAyV20zNmYzbllxSXd3SWVyMUtNY3ExYkFmcC1XcUlYdGdGNjFOQmc?oc=5",
-"source": "TIKR.com",
-"published": 1793453665.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "f007b1fc9cf0d14d",
-"title": "Tesla video clears Florida man of felony charges",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdnZYekZMd2l5bXR0Z0YzeDk0cUpKUlN1NGJOeDYxdFVDbjRXS1NpdlluY0tuNDFseWNxdHZJUXpKZHM0aHdBd1lBN29fdmdpU1JuQ0FIRUdwU01JektHaVlCUnpSNGV1SHpJWWlNaVNVSF9GNnFuTUxTRnkzMEZOOF8wUGhqZw?oc=5",
-"source": "MoneyWise.com",
-"published": 1793453470.0,
-"stocks": [
-"Tesla (TSLA)"
 ],
 "keywords": []
 }

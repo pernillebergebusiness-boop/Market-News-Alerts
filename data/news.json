@@ -1,5 +1,5 @@
 {
-"updated": 1793653655.2764924,
+"updated": 1793656101.301162,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,12 +73,120 @@
 ],
 "items": [
 {
+"key": "7274f773665ae150",
+"title": "Apple Q4 revenue rises 12% to $114.5bn as iPhone sales grow",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSEVSVkhIMjEtNnAzZkM0NWNkMV9lQVpuT2NvOGxXSEs0aFUtTUtsTlNTVFFETjJiNlFrUC1HMHE1X09lai1ieEVkNXhfZDNmLW96R05sVFJDRWNCc3Nka0oyZm1zQ3JneVFFQ2hMWmpvYnB5ckFST1hCdDNvZkpZTzR4YnhpenVKMmYzYVZGcXFPb1FmOVdwNEFlRQ?oc=5",
+"source": "grafa.com",
+"published": 1793655799.0,
+"stocks": [
+"Apple (AAPL)"
+],
+"keywords": []
+},
+{
+"key": "fa5fa06cdf272c2d",
+"title": "News | Nvidia supplier nabs Texas site for $1.3 billion manufacturing hub",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUkFwTWEtd25yMHZGQXd6MWZwZlBZZmZNdVNtODlYak9UMkRFSDIydnA5MlAwdUtGdHNPTkd1LWd0bmo2dVJUN2N3dC1EZzRYZzdZVGJVbE52eExLQVVTOEVlZUZFbDFYRWZ6U1liQlk1ZlBYSXdWSzBzN2QzQmJXckFDYWFtZEVGX1R2QURudnRrUjY4XzZhb1RWTWszOFRtTXBVdXVLb0lTNTQ?oc=5",
+"source": "CoStar",
+"published": 1793655428.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "0953b7fd23a7ea5f",
+"title": "Apple slips as Q4 results top estimates on iPhone strength (AAPL:NASDAQ)",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWUtsRTlqS3NvM2NITnJMVTY0MjZTVkFzdng4dnRoMjd1RVBIU3RaeVV0TGIxUmYyd2tKNnNsOTZQT3k2cVJHUDYwQ3FnRVNaMkVKbC1MS2dvYlgzY0RUWm4tb05aanpTc044OXJGcGdYZ3JzT0p5dVlJdnhXN0FrTkxUNF9oVXhOZk9EUTRPeHFLZmo0NDJqaEtUaDk?oc=5",
+"source": "Seeking Alpha",
+"published": 1793655342.0,
+"stocks": [
+"Apple (AAPL)"
+],
+"keywords": []
+},
+{
+"key": "6fede3a5c9e38617",
+"title": "Kimberly-Clark closes its acquisition of Tylenol maker Kenvue. What to expect next",
+"summary": "Kimberly-Clark has a plan improve growth and earnings following its acquisition of Kenvue",
+"link": "https://www.cnbc.com/investingclub/2026/11/02/kimberly-clark-closes-its-acquisition-of-tylenol-maker-kenvue-what-to-expect-next.html",
+"source": "CNBC Top News",
+"published": 1793655306.0,
+"stocks": [],
+"keywords": [
+"acquisition"
+]
+},
+{
+"key": "c598834796a796c3",
+"title": "Bank of America Analysts Maintain Bullish View on Nvidia (NVDA) Amid AI Demand and Election Uncertainty",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSXJQaVRhR3ZkZEpFWWlYX3N4OWZwQV9EMVhTdkFVWUhSMVdkdlRWZXRRMVNhZjBPQTBwYWcweks0dGJVRzZmUFhhVEg4ckRsSTQ2aE15QUdpZVJzS1ExYVBEU3F1OVNGQUxKNjNHMjg4X1hLcUJJNndFUEo0VDdUZTZyOGJ6Uml3VHd3MWgzX3VMTUhvemxJSkI2bDNnaFlSbGJ5R0hKLXY2dGozOUtVZ3puX2RDQ3BvWUtrOEh3emlhamN2ZVp1VHlja3hSQXBxUWRKV0FGRQ?oc=5",
+"source": "GuruFocus",
+"published": 1793654595.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "f98717a61dcfaf99",
+"title": "Tesla adds Fort Worth to its growing Texas robotaxi network",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOF9lOGE1TjlvcjVFRDU5a1k1YWtlZUpFR05JX3JrQURjSTJMRE9PS3JMOVJJaFo0YllQZWktdXYxQ0xSNmdTalJyZlhUaF9sZGl5NHNuM0RoM3BTRUE1RW05ZnVsaHhZbmZ3TmZRMmFNOFhveDBRZFR1LUpKb2o1VUJVbGM2ZHZhUzVCcTIxM2Y1djA0cUVIRkkxc3U?oc=5",
+"source": "Yahoo Autos",
+"published": 1793654122.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "fec1bb58548e51f1",
+"title": "North Korean hackers steal more Bitcoin than Tesla holds",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNk10amhPVTNRNVZQRFpTV0N3dm1CX3U3RWdjTUxIaHlzaUFraTdmUGY2QXRiQUI3dk1OZndxOUJnNEhUUXN2MU8xUlhVam9XSlZSUjB0WTl0RHAxaXE0ZWRWYmxUS1FKWkpQMkZXRFBfWDR6YnVSS0tlNFV6cVM5MXZYTzhkYmxzcWhja25LMDMtY1hzYm9VY0JIT2JobGZSdUEtRHlBYy1WTFRXVU8zY9IBtgFBVV95cUxOWm9WZWRoV0lLdk53UUJRR1R0ajg3TXMxaVp3MGd4bnFjZ3diSlViak82VnVxTWhHRFNxWkt2UHBfZktVYVNJclM1cHpJbkFTZjlvWFZMRFR2RUtiYWFLUTEtNmhMaVp4WkJINWFmUC0zdzJEOEoyNWlDM1lYU2dOWUh4LXpfUUJoZjBrTDEySG1nX290c01NcUdIbVByamRfSDNPX016MDNGSFRxZi1VbGdidlAtdw?oc=5",
+"source": "upi",
+"published": 1793654007.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "15fc45cf2e82b8ea",
+"title": "Tesla’s Next Earnings Call Will Have Video, Musk Says",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcmFkT2JtVFQzQjZrZDNrR25qZnBMM3REYnVtcHFhcjRlTDFNMmprVjVPcUZ2Z3AwYVREbG1fSEVVNzJ3ZlZhQzd0bDZhaTVBbGN5QlBfR1RiRFJNTzVfLWdzVktldlpSb2pkXzVJeFJSOEd3cnZ0MExWUnV0NW43LXlVc0VRX2VlRzJrQzYzaEluX1ZM?oc=5",
+"source": "Not a Tesla App",
+"published": 1793653740.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
 "key": "12d3c29f90b7fb12",
 "title": "Make Microsoft Project Professional 2024 Part of Your Tech Stack for Just $40",
 "summary": "",
 "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZmNUNjBCZllyTC13VlRkRjcweExmbmVGVWg2U2h4Z3NzbGVIUGhpNzEySjVGT1Z0Umx5dWZoWW52SmJiNTdJbV90ZHk1WGRWTERIQW42VnRkakx3OTVJajZoR2J6eC1zd3RONWtpY2Y0TnhpRjFiVWowSUVfaTl6cFFZUE9HVmFjSGJWakVQMFBndVEwXzF0Rjk4VUNMaHltMEtV?oc=5",
 "source": "PCMag",
 "published": 1793653226.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "7647df195934705f",
+"title": "Microsoft Copilot AI Predicts a Pudgy Penguins (PENGU) Explosion",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUlZxZURLQ2x6OXVoeENEZjY4MHFCNEFBM3pNT1NuLXRnZzZ2Z2dKREZFams2YXBKVXVsM0g2UnZwTkxVTkM5cV9aMGZhbTVVYzRGeERMQlJOV2xCYTl3U1M2T1RGX29CX1A3OTIwZm9ZbFZsVzhackVTWkFuUEQxQzNWZzZPaE9kUnFwNkp5ZGdDSE16dTlEYnhNSGZyRllBR1E?oc=5",
+"source": "99Bitcoins",
+"published": 1793652562.0,
 "stocks": [
 "Microsoft (MSFT)"
 ],
@@ -194,6 +302,18 @@
 "keywords": []
 },
 {
+"key": "6083280b63fb7c20",
+"title": "US stocks erase a morning rally as tech stocks swing following last week’s sell-off",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUXRSM0p6eG5hLWpVRE8yRjhkbl8yYlQ1WEhTSDhUR1UzazIxY2RCbmtydlNUQ2llaGdtRm50cS1UM3g3LUtBcklSaGV3c0VsS0Z1eDUyVjZ1NUliR09HbWhVeHJPRHhzWDNkZlVjV0ZsU1VXUHMzRi1mdDg0TC01NjZGckxYdTF2bkQwQWl3ZkxTRGlhMEtQWnJzSDhUTzVmSmRjeGl2OVVseHJJQ0JjVkdHaW4yUQ?oc=5",
+"source": "KOB 4",
+"published": 1793651167.0,
+"stocks": [],
+"keywords": [
+"sell-off"
+]
+},
+{
 "key": "674c9ecd3cd09831",
 "title": "Here's What The Original Tesla Roadster Cost In 2008 Vs. What It's Worth Today",
 "summary": "",
@@ -288,6 +408,18 @@
 "keywords": [
 "sell-off"
 ]
+},
+{
+"key": "39cbc467eec5d035",
+"title": "Own Microsoft’s project-planning software for just $39.97 through 11/8",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONjVZdGNuQVdidzN5TXY2T0ZFUFRXaGNuREQ5WUdsaEdJNkxaV0FFalNFRkVUOHo4My1GLUl0TjBIWGcxYlBkU0piS1BtRmVkcFF1ZlZNZU4zcDZXYnAxYXByR1VBdGZwTklZYi1PX2JwSFJEWEZ6VUFtb0lkSElsM2QySW9pc0lfdExoZHdhSFoxdGR2UU9ZOGxIVQ?oc=5",
+"source": "Chron",
+"published": 1793649974.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
 },
 {
 "key": "cdb397a0b39b0674",
@@ -720,6 +852,18 @@
 "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSm9sT3U3a3RBZXl2ajhpa0ZVbmJ3cVZwUDdNNjVsc0xVc01VN05vajcxaXJmUjJFNTV5cF9tWi1xbkxLY2ZwdzdrX1UxeXJvSjRjbEgzU1ppMGZrYllHb3hMMVI3TVR2X0FuWk80VHZHM3YzVTJiM1U5TTQwbEM5aEJqUlVqMWNQV3FETmdOYmZLWTRpcUExd01R?oc=5",
 "source": "NVIDIA Developer",
 "published": 1793643634.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "4cdbeaccc4728648",
+"title": "Nvidia Stocks Rise 1.7% With Rubin Specification Gap Shifting Focus to Workload Tests",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWm1JbDhCV2NXcW5VcmNYU3ZIUHJUN1NKbEM0RDdJZUxRRzlLWVIzdUxBNVJDd3gwZUhjYU0wcmdoRS1DcERUX21wRV9xSERuTlpuVHdaN0EzeFZWUWdvZ1dZQlRENWxDS3dnSG5HanRmSGoyTWRYa2QyUE5fMkY4ZGVkcjgySlI0ODhpY0tFS1E?oc=5",
+"source": "Yahoo Finance",
+"published": 1793643390.0,
 "stocks": [
 "Nvidia (NVDA)"
 ],
@@ -4748,152 +4892,6 @@
 "published": 1793615649.0,
 "stocks": [
 "Apple (AAPL)"
-],
-"keywords": []
-},
-{
-"key": "3e970e0dea8f1ca6",
-"title": "Apple Inc. $AAPL Shares Purchased by FIDELIS iM LLC",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQLS1vY2tURzNMVmJaZEM4a3dwdGFmYkJVZnk1bmhnZmRSMlNmNDlDMWJ2WTlQWFRrUUdrWTJYLXJ0dHJIQUY2alVXYzZfZE9BQ0pGR2VmbXV4OGxxeEFSLVNORHctdVdMLVRNMzZWNkt4cTQ5eGtXeVF2LVNBYnZGSWpyVFdMcnhjN3FQOWY0TXRiMktLWk1LLTVVLThUUWJLeDUxdlpCejJQV0tMV2Ew?oc=5",
-"source": "MarketBeat",
-"published": 1793615648.0,
-"stocks": [
-"Apple (AAPL)"
-],
-"keywords": []
-},
-{
-"key": "697c9e530adf2538",
-"title": "Man Shares His Secret To How He Got His Tesla Model 3 To Last 359,999 Miles: ‘My Corolla Didn’t Last 300k Miles’",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE51OGxwUUlyZHNSMHkya3ZvVGNRSEtpbTFDN2tRUFZuZm04eDNJVXNqUl9sQm5XOWtENVktd3dZZ29FNG5LWHptQUI5NmlnQmVieDY4TmtnRkF5TTBzVEl0UmhxVm52M2gwSWJjUFRn?oc=5",
-"source": "Motor1.com",
-"published": 1793615635.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "6796459d4f1a9084",
-"title": "Aker BP Fails to Find Additional Oil and Gas at North Sea Discovery",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaURybTRuWUNtMjk4dVVybzFGeW1mUUpGOGxsYUVyNzRpV0RzZ0k1MS1HY2dxbmp3NUNxbnlKLXB0dUZ4RV9JekhyX2VFQWZoVl9xcHRta3I5QWpTcV9Ha2RPX3BEMnJOYVNGcF9RVWo3Y01tNzdrNmoxSzZQelFfcGhmYU8teVZHMmg4bWVOZmFlejE0SFpGaVJSeWhaRmlaQkF4aFRXMDY?oc=5",
-"source": "Offshore Engineer Magazine",
-"published": 1793615492.0,
-"stocks": [
-"Aker BP (AKRBP)"
-],
-"keywords": []
-},
-{
-"key": "17f680b6488bbc59",
-"title": "2,610 Apple Inc. $AAPL Shares Purchased by Center For Asset Management LLC",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUVNJdHR2ZXBaTFdxMWNTbG5EcW9BMmNmTWxVd0Ryc0toeC0wbE5TYXpzcDNzWnpBcnVDTWw1N0ZKR3RDZ3lRVVNzWnBMeGJteFh5dS1CMnlqMGlOZFpiSkNaTmRyQVNxRUV4R0RZQ1lMWGJEbDQ1OTZDazRxRGdHSFB1LW5ZNXhZazRrU015V20xaXFXV0dPeHpUSW1aOWx6akZpSG83Y24zak11a1NPamM2VWFqbzBTWWpjamNadm5UbHpmcXRiUVpobUk?oc=5",
-"source": "MarketBeat",
-"published": 1793615382.0,
-"stocks": [
-"Apple (AAPL)"
-],
-"keywords": []
-},
-{
-"key": "1f0c81d4065147bd",
-"title": "Apple Inc. $AAPL Stock Holdings Boosted by Ardent Capital Management Inc.",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQU0FjSmEta1Zaa3FaTmdMb3hrM2Y5alFha2FWcEJNRmhmWGxDdUxVakxha0ltWjdQaF8tTjBubi1qNFFPSlp1X3lVNXZTbXB6TlVUSEUzY240VHk1Z3ZrU2lKaGxBdVpWUFhSM2JfaUxKRElWUnpDV1QwMDJ3dlNyVk1hTlZNdzVXcHpBUVRnUThMd0tDeXRiRXVMSlA2X1paVzhYS2VKMWVhYWNZbkM2aFpBOTJGYmowU1JoVjlQbENONTl1OVdhRmNMNA?oc=5",
-"source": "MarketBeat",
-"published": 1793615299.0,
-"stocks": [
-"Apple (AAPL)"
-],
-"keywords": []
-},
-{
-"key": "8f97ab7eee47be2a",
-"title": "Microsoft, Nvidia, JPMorgan Among 50 US Giants Blocking Tokenized Shares on OKXICE",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQ0tSSnNzajVVMUlQTjFQckJueXFmNGlfZ3AwVVBEUVJrZXRmYVhOQk13a0FzWUZqYWQxNDlraEFwTV9JRzBIZ1piTU84dk1TVXhPbk1mV3JPSy1ZQ3ktaF9mVkR2V0w5a19SZUtPYXdrQ0dEZjhueEF6UXNMeDBFdnpB?oc=5",
-"source": "CCN.com",
-"published": 1793615244.0,
-"stocks": [
-"Nvidia (NVDA)",
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "0a524f78f31c6751",
-"title": "Microsoft, Nvidia, JPMorgan Among 50 US Giants Blocking Tokenized Shares on OKXICE",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYnotZk14UElzQkgtMktXRmRyUldweC1WYUNuYktVaUFoelU4MW5wMUhoTEpRN19vMzR6Uk9VcFhORFFvWEpuY1N6ajFnVzVObzRCRXhBd0pSUWVkUXNjTGtvMUdUd2JhTTA5MlpYWFJjcm1zZTdmMUZfNWFTOHVaQXAtbGs3QTJ6endyUktuNTBRekczSWU2VzBZRXBYTkFl?oc=5",
-"source": "Yahoo Finance",
-"published": 1793615136.0,
-"stocks": [
-"Nvidia (NVDA)",
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "8212f8ee2cba0928",
-"title": "Tesla's October Registrations Surge in Northern Europe, Sweden Jumps 248%",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBYNkFVYlVWdDRxazdDLUZzakY1SVRKSjJ6WXd1MVRUWjBDbXdQMmVqRDJFb19rY0RyWmVkeFJWRUQ5Mi1yb0FpbVV5MGJRMlprRWhDMHdfSmRpeFBxVHB5ZGJnZDRodDJ1YmVNRkd0WllQeTJRRmc?oc=5",
-"source": "BigGo Finance",
-"published": 1793615100.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "a066cf1e08a697ad",
-"title": "Nvidia reportedly misses key GeForce RTX 5080 24GB deadline, jeopardising expected launch plan",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQa1k0ZThBZV8tT1JYRXVlcUpFMzJKYVl5Zm5iaW4zZHBval8yUC1NNFdjcEJRU2N3cjJDVVgtZTBJc2xTV3BkWUpnRHVaMWFGLTlOazdCT0wteXZQcXkxM1hHVlVscGNtLWRCN3l5RDNxQkdwb2Z1czFDSXRXald0LXlUWXY?oc=5",
-"source": "Club386",
-"published": 1793615092.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "7c62a6c2e6186a09",
-"title": "US Stock Futures Rise Ahead of Apple Earnings as Binance Hack, Oil Prices and Midterm Elections Take Focus: Dow Jones, S&P, Nasdaq, Wall Street",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZTFkbzFjTC16VjBnNUo3N2YxRU41dWtzRU56THg5dkFmWkxxaHpjb0hOWmdZWmdSODIzU2hiTjFLVXVsVXR4VUlPR3ZnUEdKRkpiRTJnV09ROEswVEJ6RDhpQ3VKNU9IRjZyT3NkZjMyM0w2UkpUemlSVmpyalRFa0dUczV6a2JBMmdreXE3QWM0T296alIw?oc=5",
-"source": "Yahoo Finance",
-"published": 1793615004.0,
-"stocks": [],
-"keywords": [
-"oil prices"
-]
-},
-{
-"key": "ebb2d99491eb0064",
-"title": "Trump Says He’ll ‘Check Closely’ on Nvidia’s Jensen Huang After China Spy Report",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQS3N0bk5tckZCejQ3X2NZM0lWQnBOTE1IaTZNTXRmYXRKcmg2N1F3VFpEM2tMOTNxNzhINHhUY1E4eG5Mb3JZUXVuVmp4WGJ4UHFTaWx6Z09IMUd2aGRpX2haVDVPQlVzQmtWQkJqN1dNTzlTbEJKMGFpYTV3ZDlnSFVWMVpFbmNpQlFXZjU3UDFEYWNXTTZJaFkyWjM2MTE3X2xCYkhCMVpGNzM4Xy0w?oc=5",
-"source": "Open Magazine",
-"published": 1793614929.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "33732d7cc1e52372",
-"title": "Microsoft's moolah mountain is more massive than ever. It just doesn't want the people who built it",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUXhVd0tOYlF1VXl5Wk91YUR4b1hkdjd6TWRodDFBbm5ZaDdhS1RyYlBSbWFINm11ZG9GWmxuTmVNakNnZU9zMFdFSzYzdzdsMVhMQzM1U3RkTE1HNHBRM2h3Y19EU242UVRXQVZZcHZMcF9OaTRSNm1abFY5bUhUaUpsdmlkd0tDOFRFX0VmNUJNcFdyS185V2tUMlVHX0JySmIzNGRkNy1QZkYxVVliSHlaTllJTXE0LXF4R1BGT3E5NjBsb3VmWUF2d3dXUGlEaEVOd2xnczF4UTJkMzliODEtTGpiY1k?oc=5",
-"source": "The Register",
-"published": 1793614500.0,
-"stocks": [
-"Microsoft (MSFT)"
 ],
 "keywords": []
 }

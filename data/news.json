@@ -1,5 +1,5 @@
 {
-"updated": 1793576416.7168553,
+"updated": 1793578301.3561883,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -72,6 +72,42 @@
 "Yahoo Finance: HTTPError"
 ],
 "items": [
+{
+"key": "708981ec197493b4",
+"title": "School IB economics: SpaceX and Tesla boards explore potential merger",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBOdXlWZy1pUTBmRUdJaVNBVHB1WGlNZUVoNXJfTXVHVGZScy14cmhJZ21rdDdFTFNsVnhDNmhRSTZvSGtEd1hmYXN2dTVfU2pzRFNvQU16ZmR4S0RJbjFraWozQ2R4bC1aWXNzWjdYT3A?oc=5",
+"source": "Financial Times",
+"published": 1793577501.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "d4cf85c97b77a8a8",
+"title": "Eclypsium, NVIDIA Collaborate to Address AI Infrastructure Security Risks",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRzZ6UkVtMnhacFhIQWtsRzdOSF82QlY3cnIyU3FDRGR4SkhpWHQ5U3I2eXFVcmN6ZDdxbXdHdVAySVJDbGdSY25rWHFvcHI3V0tXUkZuOW45czVxOHhyejVhVXQtRkFuSTFhenVUOEpVVUdoeElKN0xhWXBBWmNpZE1oY0x1U29MTml6NXF2QUhHT2ZzZzBXUW1nV0NkSF8xLXJ6YXRUT1ZKX0tyLXVzeHBoNUNnS21PY19wMzRtakx4cF9JbVE?oc=5",
+"source": "The Fast Mode",
+"published": 1793577281.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "587f4a7198f70b53",
+"title": "Microsoft AI Chief Mustafa Suleyman: Models Have No Consciousness, and We Shouldn't Build It Into Them",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBXRVpGRFYyUTZZcU9STWMtTHBIYVJVM1FqS3JZTDBLVVUwYzA3RERwblRJcDl2MEtDQWp1bFZzUkNLem8tZlpYb2xDaGpVVFdzZ2pES2pvZ1hyNmtjaGNLdWVMd241RDR5MlJ1ZEZQNGJZaDY0MVE?oc=5",
+"source": "BigGo Finance",
+"published": 1793576499.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
 {
 "key": "77ca8e9173ee5011",
 "title": "$400 off: this liquid-cooled gaming PC packs an AMD Ryzen 7 9850X3D, NVIDIA GeForce RTX 5070 Ti and 2TB SSD for $2,899.99",
@@ -454,6 +490,18 @@
 "published": 1793559970.0,
 "stocks": [
 "Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "6d7160992086eb44",
+"title": "Apple to report Q4 earnings Monday, with iPhone 18 sales in the spotlight",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPM0xOOWdDN2pXdGpnZnlHTzliX1ZST05ITXdYZXZ5WVN2WFI1eGYxYlcwVnZvWGFkMWNhcklYaXJYQkN1dlR2OHA4RzZSNDRQNjd2ejd2N0k5UW1QeGk1dVdQbHpjVmZaMWhoamc0Ml83bkZWRTBPc1B6aUVLRUUwVTJpM0JxYWpLYnhkc3Q1SXpwdnZpSkFuWEJrWVlyNzZjOXNOZG5CdHgwaEhReWM3SE9Dd09tT2h4SzFzQk0zTFcxR1BNT2oyRF9NMjU?oc=5",
+"source": "Yahoo Finance",
+"published": 1793559698.0,
+"stocks": [
+"Apple (AAPL)"
 ],
 "keywords": []
 },
@@ -4825,54 +4873,6 @@
 "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rZWRYT1FyU0dmWi1WWHU0VUpYWkoyMkJHUlZYdXB6dDk3UTlRVl9PTWlxbXhiSXdUYVRJVjFFb09ETFNOWlV2eDBfanc3ekNnam4ta3ZIWm9hS2Voejl2TWdGQnhhdWxHQ0ExcmJvZ3dQRXNrVUdIenQ1TktIbXM?oc=5",
 "source": "eeNews Europe",
 "published": 1793448010.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "21bcecc35d7718ba",
-"title": "Microsoft: Cash Is King - Rich AI SaaS/Cloud Monetization Prospects",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcjVSUzVsSWhkcmU5XzlRU3ZEZ0pHVy00N3Rna3NCdEgyN2Nrd09vSzVWa1hCSGJMNFpLVGVncVQtODdTSUJBVFY3S01rckFHOU5nYmhSTHVRa1E0OVB2Y0dCckNhS3V4aTZxTDVDWjlUYzZPb0xIeXFaNWNQMzhfeGx3QzJ4V3NTMlFUeklDQldHUDhwX1hfVGExZzNhY1F6WDVyY3JldUs?oc=5",
-"source": "Seeking Alpha",
-"published": 1793448000.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "020161c3c712b613",
-"title": "Pilot Opens First Tesla Megacharger Site in Georgia",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50VERUbzdlbTc5ZThxZklYeXluVER0SGtoN1BvcG81VkphRkJhUG9XcFdhc2REMGlmWUhCMm5leUxsT1dnUlhJWUxwdVRJQ0pEZ19TalFiRHJCS1hKQ3dkckxKNTVGOHVuMEFTZUI0NA?oc=5",
-"source": "www.thebuzzevnews.com",
-"published": 1793448000.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "83d2067691d19673",
-"title": "Microsoft Stock: Cash Is King - Rich AI SaaS/Cloud Monetization Prospects (NASDAQ:MSFT)",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcjVSUzVsSWhkcmU5XzlRU3ZEZ0pHVy00N3Rna3NCdEgyN2Nrd09vSzVWa1hCSGJMNFpLVGVncVQtODdTSUJBVFY3S01rckFHOU5nYmhSTHVRa1E0OVB2Y0dCckNhS3V4aTZxTDVDWjlUYzZPb0xIeXFaNWNQMzhfeGx3QzJ4V3NTMlFUeklDQldHUDhwX1hfVGExZzNhY1F6WDVyY3JldUs?oc=5",
-"source": "Seeking Alpha",
-"published": 1793448000.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "edd909a468eaf09f",
-"title": "Holding the power button doesn't just force your PC off, Windows 11 quietly saves a crash dump for Microsoft first",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQMTl6a05EOWhGcVVlR19OUTF0bXFGVVRUWnBNMlU0Zkd3VWpSSGNLYlJicmpNRk1IaHpkbFA4VS1HVkNub1ZMZHFoekpOcFVXUkFVRG5Mb0k2NnB4eXpUVjN6clhhQV8tMW5Ga3VGS0FQcDAySVpySGpXTmN5TlMwWTRhbXlnYm1Wa1lsVV9MSllYQnBacnktNUp2OEJpbktvZU13a1JMY2dfZ1RWeEtHVi0wcUFnd0p4UVZmSEc0VXhfSHNwVERnQUtqM3dBMm1KUXFBZmF1U041NklFWVV4Z08xVks3MlhyMkE?oc=5",
-"source": "Windows Latest",
-"published": 1793447662.0,
 "stocks": [
 "Microsoft (MSFT)"
 ],

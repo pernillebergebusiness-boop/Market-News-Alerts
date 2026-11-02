@@ -1,5 +1,5 @@
 {
-"updated": 1793661236.3359268,
+"updated": 1793663341.3277316,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -72,6 +72,90 @@
 "Yahoo Finance: HTTPError"
 ],
 "items": [
+{
+"key": "b3c726187cf45d54",
+"title": "Jim Cramer says lower oil prices are giving stocks a boost. Can it last?",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nUGpvOWR2TXg1V3hBZGg3NVlXYW56a2pCeDJLam9vY1h1LVVNRkp6VWl3NEgyaTVreXNZNF9kT3FUOFU0MC1IektvLVJtUlZQVVRmU1RtYVhjRlJVdm9ROVlWdWtYQmJTckVqWTlLeXo0SzhLb1d3THQwalZ2V0XSAYQBQVVfeXFMT2xKU3JDcERNeGdhbGNqanY5UmluTGdOMTVCLXlyQURvZmdpSW93ekNSTERMeTJQaTJvckU0bVI0TG5PRV9ibDY3V1lPM3dWRHlJQnZEX21yMjhKNTlNaUs1UkxJcE43bGd3YkItTy1iSDMzU3RpVVktLVJxalNSOXhOZ2t0?oc=5",
+"source": "CNBC",
+"published": 1793662613.0,
+"stocks": [],
+"keywords": [
+"oil prices"
+]
+},
+{
+"key": "585714394cd18ec8",
+"title": "Nvidia Reports Nov. 17. History Says What Its Stock Usually Does Next.",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbGJJZXFlWmhxcWo4RHFDWXFyN1JkcER6LW11MkZNaUpqb09hLS1ycVEzcjFVUkdwbjFxdzRQaEVrdTlUa1NVNlZ4ZDJVMUpfVHQzdlVHdE1zRVptbm9CSVh1R2hqSHBUYy1HMGQyencySVZnWV82VVBlNlJ4eC1HYTZmMzBaX0JXSGw0NEpWNkt6eUY5ZkRfOTZmTUxuakxscGZuRU5nVVZLLXl3X3Bv?oc=5",
+"source": "The Motley Fool",
+"published": 1793661420.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "3fa5c759a1468dd9",
+"title": "Meta Platforms (NASDAQ:META) Stock Price Down 1.3% - Time to Sell?",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWE5WeDdlOTg3QUJtSVAzcGc3WGNid25GejJiVkUzbFo5X3BRazhlSERKRGxyWmd2MDBuVEozUU1ObzFmOTZLRmM3azdSdEFYTFBzT3V0aW1NUUpwOUJhSTVrbVZMc3VjLWZvR2NyUDJYcE5zQ0xsQ3lJX2Rwcy1YZ0NSOFM5QWhtYUYzNFJGSFQ3cDdaTXJDRndnUFpJX0tZalpWczBRdVJkUDE1Zkl2TFhYVDgtVzQtSlE4?oc=5",
+"source": "MarketBeat",
+"published": 1793661400.0,
+"stocks": [
+"Meta (META)"
+],
+"keywords": []
+},
+{
+"key": "eb6243e4cacf4b7d",
+"title": "Microsoft Corporation 2027 Q1 - Results - Earnings Call Presentation (NASDAQ:MSFT) 2026-11-02",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcEZ4YWUyZ21rbVRQVW1nbXFWMTBRclBXUzdlNFdTMi1zN3BNaEkydmpTMnlyc1VJdFkwTnlIMEhBOXpaSko5cmFWVlB3bThZWGYyUXNTcDBPU0U4cjJKNTJJZjVsT1R5dXd3cWtWQVZxRkNjQVFzTG9BWWg3dVV3U25pdWVtZHBYNVQ5QjhDZk5JM1pkMzFobTJodWJCNVlLekdRX21BcXpVYVZCNVZQTTFnekk4cS1RbDk3cE5kY3pXUQ?oc=5",
+"source": "Seeking Alpha",
+"published": 1793661110.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "6532fccaee2a344c",
+"title": "Robotaxis roll into Fort Worth as Tesla expands service",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZGNYb0NvQ3czN25SZy11SGJ6aC1HakEtV1lyVjJFbTlrTnZlYzRkbllqMEhrS3NMa3RtbTJHR3RBS0pRbFRYRlg0Q19fbEVNcTN6b2pIdTNVUTZ1bG5paGx4cG1DVm9RY0tMdWtjRmh6R0ZXTXQwZmRFZEJDMEgxUTVWYXlKanY4ZXI1SDl2NEpiaEhZVTd2OE5MRQ?oc=5",
+"source": "Fort Worth Report",
+"published": 1793660836.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "202665dde2e266fe",
+"title": "The Microsoft Surface Laptop Ultra releases a patch to fix 'reliability and performance' issues found by reviewers — so should you save your money for now?",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPVElHLVY5Zkx0N2R1WlpsbTZ4ZmcxSm9jUE9GQ0VJa1BvME55bURVSS11azJvLWJMVUlfcXgyclV6azVMTXZUSUQyZUc0RkhvcUVJdzM1d0VVNVlyNVdodEpNRm1YRG5FSE42YWpXZ2JMNDc4a1ZSd1oyZEpuR1pBbTVvOXhFZVVwR1lOanpNVFN2MXpGMVcteGV0c1hSRU9NcGE3dHFlS2JUV1hkVzRkZHBNSmkyTFdCUzhzT0ZnQVBBazhYbVdXR1VvdzRxZ1hmOGwzX1ppaGlDSm9XWlBqTm9Zeko3dTYyNlAyT045MGJjZHdfclR5ZmJlMGlMLWV3SHMtcTZZZnFxS3FK?oc=5",
+"source": "TechRadar",
+"published": 1793660700.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "a854d3c9acdcc236",
+"title": "CNBC's The China Connection newsletter: Nvidia's humanoid push relies on China-made robot hands",
+"summary": "The U.S. chipmaker's humanoid robot systems feature mechanical hands from China-linked startups.",
+"link": "https://www.cnbc.com/2026/11/02/cnbcs-the-china-connection-newsletter-nvidias-humanoid-push-relies-on-china-made-robot-hands.html",
+"source": "CNBC Top News",
+"published": 1793660401.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
 {
 "key": "c4a178a19a4a805b",
 "title": "CNBC's The China Connection newsletter: Nvidia's humanoid push relies on China-made robot hands",
@@ -405,6 +489,18 @@
 "published": 1793655264.0,
 "stocks": [
 "Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "150d01fda45355e2",
+"title": "Wright State Instagram Posts Campus Photos Edited with New Flying Tesla",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdEtrUDBGdXk3WGc4bk9jMV9pN2pCX3RFMm1MRnAzNkZwYUJ1dVAyX29NUVdtOG5HNHpuNEpIX2tVZXQ5V09KdlkzUTJYUV9VYnVOWlJ4LUZ3czlyNkRsc0FxUzRoSlFIS3ktLVhYRmJHNmItMXd6Y0lLWlJ1ODMyUW9iUFA1YXhjNFlyMmVQT2xqb0JyVnVNZHlFZFVncE0?oc=5",
+"source": "Wright State Guardian",
+"published": 1793655059.0,
+"stocks": [
+"Tesla (TSLA)"
 ],
 "keywords": []
 },
@@ -1043,6 +1139,18 @@
 "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOcHk5YWRLeWE2d3VDd2dlbmt5QUViTHVDNEJvLTJMQzlaUEpVUHozemRMZ0R3bXhKZkI1TlJhaDBNREtwZTRid0hRd3hLdFY0OUdsOWp4VWFFYS1xSzc1ajJWVDFmOVhoNDdpTWExLTJLcHZyV0Z4YXNMS3otakw5Zm5kODRWQUZ4R1ZjRkxVaVhfb19PUVBCaEJ6WTV0RnlTclVmck16MzktdzZoTjlXVzN1ZVBzTlpoZ1hfREVkSmN0U3I3QkRRTFprWk5tVGhjcWp2NGhNQWkwQmEz?oc=5",
 "source": "Investing.com",
 "published": 1793645265.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "bf5a36081f7fc41c",
+"title": "Tesla Crash Injures 1, Slows 57 Freeway Through OC",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPc1gxeUpSekdLOWlhMC1JaXBWUGhwZzE1MjlfVWo2aGg0ZWtWVlQwcktjVl9jenMxUTA5bUZVS0JkazJXTUxMSE1uWEl4LUt3cTYzZW5jUHNUakpfWHZidExOMGtJUnhXZk05aHJqN2lYOHBXa1htMU1WZGhnUjhyRmRkcEExRU5Xend4OVM0a3gzV21aTGlvNDB3WWdweFnSAbABQVVfeXFMUFhBZW9iTHk3dWRVaVdjTFBYTl9lOG9PYkFVUXlUb2NQMlRNWUVmQVlGZEtqUjBmUHE4ZFcycmxvT1I4R09wTTlBbDdDRENrWkJxR3hCV0l6UVhTOHNNa0k1OFlRTkxYdjZJSUQxemZ3eG1mUlZrTzViR0FDXzdub0xYRUsta3AyMGF0LVVnaFE2bG5KOUEtNFRzaE40QmhXb0JITHctZW5tMy1iMHBjckk?oc=5",
+"source": "Patch",
+"published": 1793645092.0,
 "stocks": [
 "Tesla (TSLA)"
 ],
@@ -4783,114 +4891,6 @@
 "published": 1793617538.0,
 "stocks": [
 "Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "3d1d30978a250cc1",
-"title": "What ProShares Ultra QQQ (QLD) Bought: No Buys as NVIDIA Leads Sells on Oct. 29",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNa3loT2lWVWdfMzQyTTdBVjJ3UTZlVEFoSnZBUkdmcUNEZFVWMUgtOEltTjVLc0M2SnQ0X0dkOVVSVWp2RnNWdG85VDliYmJnbTVSVWhJZHp0bHN6b1RLN1g0MTlGUDhxb21KbTA3ZWpjcGhBMnpYNXJjWmJwMW41RExoRW1FY0h1VG55V2JlN3kyanFkN1V0MU5Zcw?oc=5",
-"source": "Yahoo Finance",
-"published": 1793617479.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "621728fbae2fac0e",
-"title": "Direxion Daily Tech Bull 3X (TECL) Sells $146.3 Million More NVIDIA on Thursday",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM2pLU0ppcXUxWHJDV3ZfQTBXNFBudW00T1RnTmg2U3YxeGxKTzMtSHFfTERraDRBTmpJeG00OV9TNTdlWFYzUzRkUzlNaW81cHpoN25melNyeUtZNElRYWJZYmt0Szd5a3ZHS1JDSDJqRjlaZmdfbGpHMHJGZmtyeHI5cEhNeDVrSTBSLXEwbXREZ280a2NB?oc=5",
-"source": "Yahoo Finance",
-"published": 1793617459.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "0dafd88e79016b4c",
-"title": "INVESCO QQQ (QQQ) Sells NVIDIA and Apple on Oct. 29",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbVdEN09Vek04REhiM2I4N1M1a1M4UnphYWdPSlhwUmFSZ0Q2SXNFVFN2V0tEaDNHTG0taU01RV9FX0FEbmphb3NWZGFSN05ocERjaWRFMWtJUXZ2ZFgyU3BWWjZvT19lZWlreURTcGJYZHlQdGFJWUt2R0huZkllYVI4MA?oc=5",
-"source": "Yahoo! Finance Canada",
-"published": 1793617448.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "aade37bc04fd1173",
-"title": "INVESCO QQQ (QQQ) Sells NVIDIA and Apple on Oct. 29",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNN25PX2Ric3J0TTk4elhSYnQxZks0WXNyUXc5TllYc0ludjNCVzZLQW93Z0NNYk1zUV9RYjVHRHNUVVJKcGt2OXdwX0F5cEU3R2dUUDZ3WHp0aHdEdWJ1UUJMXzBwLS0tRGI4elNiTVIxZ215WDBCRGhBYnFPVnRBVDJTSENDMmZ0UXNRZkVWVUFwRFZsejJmQw?oc=5",
-"source": "Yahoo Finance",
-"published": 1793617448.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "0955ac7ffa784ad1",
-"title": "ETFs Are Net Sellers of Tesla (TSLA) on Oct. 29",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcm1jeWd1eldqcUtXbHE3eUFnZEZxZG4xXzRoVi1xYjZYbDc0Rld0dngzYzFJQnN5U0JZdVlUYVByN3Z4MVZHdlJBMk1IYTFsQWExOVVXdkZ2T292TEw4aEo0LTkyNmNmN0NLSks5QjA2OTh4dk5NUFBsN2lQTERVZW56MzhjWHRtN29nblpKQkx4YlBvZFJr?oc=5",
-"source": "Yahoo Finance",
-"published": 1793617388.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "9ae3daf088941e2c",
-"title": "Tesla Registrations Rise Across Northern Europe in October",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWGZyUjNtMGtLelNRaHZtcGtpb2l1WDcyYlR6c0tVdkl6Y2J4cWlsdkNPSzd6TnA1RHdacGdNMUhSTi1SakJXby05MlBTdmVMNkY4TUI4VU1kdm9vdXE0Q1h5R1p0bWRaejA3eDNrWnR5SWc2UFFDQzVxYTlaZ2diYTUyZzlRMm01eFZIa2lUb1NYMVZtOHJGdzZLdnNqZUJyUmdZdHUtS3BsOUJnaVAzeQ?oc=5",
-"source": "marketscreener.com",
-"published": 1793617382.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "1edb9b39552cdfac",
-"title": "Tesla Registrations Rise Across Northern Europe in October",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWGZyUjNtMGtLelNRaHZtcGtpb2l1WDcyYlR6c0tVdkl6Y2J4cWlsdkNPSzd6TnA1RHdacGdNMUhSTi1SakJXby05MlBTdmVMNkY4TUI4VU1kdm9vdXE0Q1h5R1p0bWRaejA3eDNrWnR5SWc2UFFDQzVxYTlaZ2diYTUyZzlRMm01eFZIa2lUb1NYMVZtOHJGdzZLdnNqZUJyUmdZdHUtS3BsOUJnaVAzeQ?oc=5",
-"source": "www.marketscreener.com",
-"published": 1793617382.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "a4cfd4fcc606f471",
-"title": "ETFs Are Net Sellers of Meta Platforms (META) on Thursday",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZ2ItaERBamlLbk94ZjhjQy1BcnBCcGd6UTEyaU9XQXVEREdtNE8tYnZhYWxMc1k0a3pEMnI5VE0yR1dFeHByVGNmSGNlcXNQUVFRSTFTa05HeC1LZHdTdHlIei1oVFpBc1JzMGZWVF9HSXp0M243OEFqREpBMlhLVzh2YlRqcVp1WHJJU3BkMms4ZG9QZUN4dGtpNDQ?oc=5",
-"source": "Yahoo Finance",
-"published": 1793617378.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "8f2a2139ae7e85bf",
-"title": "Meta Platforms, Inc. $META Stock Bought by Abundance Wealth Counselors",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPczY0QmlESmN3bk9qbUtzbHN4WFJqR1RHa0lmWVBLV1lYQ2htbER2MnRpbUpYcTFwSTZiT2Uzc3hiY3IydWFadmN3a0R5MlNDeFg5VVhLeHJCTzFsSHJDVUlHUUlCOVZHcGxuTGtyRHdHMFdPMUROd2ctVnNZM1B1TDJxZm5VUmh6Rk5aN2k3RXhqc2xUeXdKM3E0SHJmS3puMFdweWdrLXM5SnlTYnVnRGhpY09pZU9IZVphZndlRnBGSUpSeDU0?oc=5",
-"source": "MarketBeat",
-"published": 1793617370.0,
-"stocks": [
-"Meta (META)"
 ],
 "keywords": []
 }

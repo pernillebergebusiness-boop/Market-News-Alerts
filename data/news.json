@@ -1,5 +1,5 @@
 {
-"updated": 1793666111.7330148,
+"updated": 1793670282.0904753,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,6 +73,78 @@
 ],
 "items": [
 {
+"key": "6a4a475361ba7f06",
+"title": "Naria Santa Lucia leaves Microsoft after seven years leading digital and AI skills initiatives",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcmZfZ2RvM3YwOXdrWUVOVUlDZXo1aUdCY1JoelhHaFlPSWFCTTdOUnNraWp6TTlNVzhsZ2F3VldxaVJZek1vdTN4aUZueFVmWllNS3lERmVPUW92T2c4dzdySFZLMGdRTVd4WHpseE9ibXZmR1prT0h4eV93T3RCUkhILWZpOGtyTnlMdGk5QVZmbGtQRmJWX2J5bnBiX2o5VEdrTmdTZzlsUDRxZERHYkdFZFVHZ1JPUmhEdHhMZ0JOWkZLMHdJc3dKREFsNnR3?oc=5",
+"source": "EdTech Innovation Hub",
+"published": 1793667830.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "9466d0d38ef74979",
+"title": "Apple’s iPhone business is booming. Here’s why the stock is falling anyway.",
+"summary": "Although iPhone demand remains strong, Apple faces a worsening memory crunch and a slowing services business.",
+"link": "https://www.marketwatch.com/story/apples-iphone-business-is-booming-heres-why-the-stock-is-falling-anyway-07de9fff?mod=mw_rss_topstories",
+"source": "MarketWatch",
+"published": 1793667120.0,
+"stocks": [
+"Apple (AAPL)"
+],
+"keywords": []
+},
+{
+"key": "f854e8282b2f1272",
+"title": "Form 144 Meta Platforms For: 2 November By Investing.com",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY0QtYURFWFplajA0VE5KZ3M1RktmME9nMVdIRkQ2WTFHWGxJN0NjUFZEaEhiaDQwblp5RUZkcWNnYWExdGlxMVpMdDE0dzRxYXp1RTVGQzhmTGFBZ1o2V1R1eHdJSnBlUUctaGNrMl9rU3o0U1VTcVFTbVhKQ2M2X1BRczZvTGRwMGNFLXpVcllXanRsb0pLNFdkY1p4YUdp?oc=5",
+"source": "Investing.com Canada",
+"published": 1793666358.0,
+"stocks": [
+"Meta (META)"
+],
+"keywords": []
+},
+{
+"key": "80c5fc24b9681834",
+"title": "CrowdStrike, Dell integrate security into NVIDIA AI Factory",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZkdNVUJUbElXbjA1WjRHeWFtcThITVBEdGdTbzlOcGh1cFBuSWNENkdqNldEQ2VIb3hITkJkcFZwdDRzOVlJbmRxcWpseURvWGw4M0Q2MXpOX2FaaEhMamlnVzM4N2N2RWhrMFlRdW44bzNSOC1WcTRuOXFLeUNnY3ZWWHdTWDJkT1M3UHpqQ3dPN2FkMmVPd25tUnlOemtxQ3F5ang5NVl6YmJTcFhJOFdlVm1ycmpq?oc=5",
+"source": "Cyber Daily",
+"published": 1793666354.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "85ba05bd54929b32",
+"title": "Apple unsure when more foldable iPhones will be available after selling out",
+"summary": "Apple’s foldable iPhone Duo was a hit with people willing to spend $2,000 on a new mobile.",
+"link": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss",
+"source": "BBC Business",
+"published": 1793665740.0,
+"stocks": [
+"Apple (AAPL)"
+],
+"keywords": []
+},
+{
+"key": "1fff2cb2aee92b36",
+"title": "NVIDIA vs. Intel over 5 years: a 668% gap that reshaped chip investing",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUllQZFI4VU5CdkMweS15WDdyV05oQmlMLTVPbGxkTV9KUTBUYmVFUF8xSmh6SG5sNWx4V2luMDVWZWE4ZUNtSHhLSjN5WUI2WW9rODZTR3JSNGVSblFjNUY5NlJLZXo2NVNiVE9kUjJ3c05CRDdIcDFQMmhSR0pjUFNKSGV3a000cmlzLWRBbS1fWHV4Q2xVd2xlRy1HSl80dXdUT1hLOXB0VWkyOVZnUGtGdFR0dEhOcktjWVJReXpOYk9ZRGt6QnBB?oc=5",
+"source": "24/7 Wall St.",
+"published": 1793665738.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
 "key": "1ea687964ca79374",
 "title": "Apple Q4 Revenue Jumps on Strong iPhone Sales; Results Beat Estimates",
 "summary": "",
@@ -81,6 +153,18 @@
 "published": 1793665635.0,
 "stocks": [
 "Apple (AAPL)"
+],
+"keywords": []
+},
+{
+"key": "0d394e6339cc1259",
+"title": "Microsoft warns of help desk impersonation and certificate abuse",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNUJiVTZEQzRGOUhuMjZkbTlFUFVDOEJzRno5VFJjd3pFZWtfUlJJZEJWS2x1V0JZZEY0Y21KNGV4c2txSzdkN1VqZDQ0Ujd6MHVtVEtZd0Nfc3pHX0RSX3psVUctQlk1amdKejA0N09wUmw5MjNDcThHaHZQQUcxdXEybDdMSUt4eWg2M2dKUEpaR2tPMEJtd05R?oc=5",
+"source": "SC Media",
+"published": 1793665301.0,
+"stocks": [
+"Microsoft (MSFT)"
 ],
 "keywords": []
 },
@@ -133,6 +217,19 @@
 "keywords": []
 },
 {
+"key": "26454dbf92f22989",
+"title": "SpaceX could mirror Nvidia’s revenue boom, Sequoia partner says — Tesla influencer runs hypothetical merger math",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQVGV1UHN6Y2FxTVNsMUFXZkxXaTd2OENBTFNSYmhSMUQ4bkJXSTktcGdKdFZQWTk3azVuZzRyNU9hWkVsZUQ1S2ZjaFo1NWpEY28zLU85ZlFtX2E0UHkzYW9aSWZpZzhEZW9CcnZCYnB5NUh5a0M4akZJQUFQclZMYldDSmcxZTN3cUFjaGROZmpwbjlOMW90VWJuMnZ4SFR0S3NZbDJFcm9WOWdaTjhTQzdBQU5vV21jVy1mRDVZZWc4QmJDRGRnOHVndjFBcGxSb2ZFbW5zT0ZtSWIzSHhCRWktdktCMW9hQXJ5c2sxZw?oc=5",
+"source": "MSN",
+"published": 1793663589.0,
+"stocks": [
+"Nvidia (NVDA)",
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
 "key": "92c02de3427d93cd",
 "title": "Groundwater from Microsoft data center site approved for discharge into local creeks",
 "summary": "",
@@ -141,6 +238,18 @@
 "published": 1793663340.0,
 "stocks": [
 "Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "6ae4eb34277f9a95",
+"title": "Nvidia Reports Nov. 17. History Says What Its Stock Usually Does Next.",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPNmMtYTY0blFtX21GelY5TUNNV2JwWTU0c0wyMVhpV1N3aGphLWU3eHNTZWhBamtaQlJzckJVWWk5WWxwMlF3dW95X215UVBhcExJeG9TbjhWYmQyS0g2VGtkRjBfNndkMF9BckZVM01xYVBuLWJkNGhrLUIyY2hjWW1lTk10MmxHLUxWQVNVSG1fWnVQRk14dXo2OG03VUJaaGM3S1ZXaHZDUHFwZ3h2NWNsMXBMRGE4by1DY0tBdHdiZng2WUM2NWRKUVFkTThpVjVDa2xGRUJZRXpsYlVLMEF0cjRiMUdPSUE?oc=5",
+"source": "The Globe and Mail",
+"published": 1793663162.0,
+"stocks": [
+"Nvidia (NVDA)"
 ],
 "keywords": []
 },
@@ -237,6 +346,18 @@
 "published": 1793660700.0,
 "stocks": [
 "Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "ac7efbd1f630e6c7",
+"title": "Tesla Robotaxi Launches in Fort Worth, Texas",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSWY1Vzg0cHFqZV9ocl9UZUc1d19QZV96Qm1hLXlkNVhrWHZiQjhKZUtHVlljelFQMlJ2N3g1UVYwcUpsZHM3M085NVItZzRkYmNWTjJqZHlQZ3VFZHMzVE50dVVZUEhuQmVHelJCRkpZQ0FENVJtdy16dTVmQlZkdk5DcUFyM1VpLU5nN1ZlV2tjQnpBOUdyZFZQLXV3UC1QU3Fjcg?oc=5",
+"source": "Hoodline",
+"published": 1793660663.0,
+"stocks": [
+"Tesla (TSLA)"
 ],
 "keywords": []
 },
@@ -637,6 +758,18 @@
 "keywords": []
 },
 {
+"key": "3a283365d8eca55d",
+"title": "Form 8-K Apple Inc. For: Nov 02",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pM0Rwa3VwWTdrX2p5ekRZeXp5eDNELWdyVDNQN1ZXVDUwVFIwVFB1ZE9Ga0cwUDVHRzVqZTlHZk1jYXRVS1ZNUU5xWmlLR2NybWpQU28zaXlaQ3FwMFFpTkRKTmpNSkZBOTZLWg?oc=5",
+"source": "StreetInsider",
+"published": 1793655060.0,
+"stocks": [
+"Apple (AAPL)"
+],
+"keywords": []
+},
+{
 "key": "150d01fda45355e2",
 "title": "Wright State Instagram Posts Campus Photos Edited with New Flying Tesla",
 "summary": "",
@@ -645,6 +778,18 @@
 "published": 1793655059.0,
 "stocks": [
 "Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "644c4225a3365cc4",
+"title": "Apple Inc. Reports Earnings Results for the Fourth Quarter and Full Year Ended September 26, 2026",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPaU5aU1U2RWhJaTVPSHozQlJITFp1TzVfUVFSeXEwdWtYX0ZLWEMwREdaUFpoQk9QdTgtYmNfcmlVRDltTVgyNGxISGZrOGZveEJBQ3l3cWRXU0kxeDZTcUM4ekYyRkhlZmtZY3ltWi1JT091ZzFQbUhUQUJ0aU1WVlg1WXZROExtVGZCUEl2WFg1OTl5LXJtc2thMm0wSmNmNEFrVmVqUnYzeU9PRV9PNWFxRndsTjNwVDd1QUJmbHJlZzlBdm9LaUNuc0hXMnFfTGVvM1ZQSGM2bnZValFuQmRB?oc=5",
+"source": "www.marketscreener.com",
+"published": 1793655000.0,
+"stocks": [
+"Apple (AAPL)"
 ],
 "keywords": []
 },
@@ -4747,150 +4892,6 @@
 "published": 1793619753.0,
 "stocks": [
 "Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "ddf04dbf0cdc0dcb",
-"title": "Apple Inc. $AAPL Holdings Raised by Strata Wealth Advisors LLC",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRVVfTjBhR19tQmVVeTN5TEtFOUdMQ1RMb0NJd0tYZkFGdlVMbUYyVnpsV3ZJbk01ZFh4YXFiM1d1WWdIR2x0ckt3RTdIQnpvaU1iZ2pGNjhUanlWMWNMT3I2R0NkdGZQTHQ1eGZEOG9oam5fdTNuV1FqUVBuVEJUOVVKYnBEZzBHb3hXaVIyb2pjMTZuTFhBV21MV1Q0Y0g4RlprYll5WUI3Vy00cUNhOUU3Z09yN1hTLVN6SGZn?oc=5",
-"source": "MarketBeat",
-"published": 1793619578.0,
-"stocks": [
-"Apple (AAPL)"
-],
-"keywords": []
-},
-{
-"key": "f9851374faa09b17",
-"title": "8,957 Apple Inc. $AAPL Shares Sold by Robertson Stephens Wealth Management LLC",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQkdFOHk3UGc0YkRIa3ZQLUZ2ek1hQlUzZzFRTldKV3JhT0pqSEdNSXZyZDRSck5IOWZVUGxvWUVLU2lGbUhzbGp0T1R1Y05pOFU3aWtEWG1qYUowWDZTMDZIbW44dTR6T2FQdFRza3ItSURzanBTMWx2TzVDTkZKVl9WNHltVzJzbEZaRDN0ZXJoTlZkaG9vY2lveDcxa2JBQU80UXVoSXdUNU13Y2VqZmhYcTRGYWxrd0VnVjhBUElzbU9kNDJPUGU4MXFTaTF0VVE?oc=5",
-"source": "MarketBeat",
-"published": 1793619578.0,
-"stocks": [
-"Apple (AAPL)"
-],
-"keywords": []
-},
-{
-"key": "f9850b517bc98c9c",
-"title": "Tesla Has Best Norway October as Chinese Brands Hit Record",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQV3lOcUI2RWhUUzNSeldVSXdkRGhJN3pQZG1JNk5tMVkzRXAwVUZxVTJ6NmFwdzhKaHl4T2NIOU5EVUxuWlRsNXRzZ0doUEVtbjVrNk8wMFg2di1lbW5kTUJ4bTdvbGlrSEhjS185bWtwZ29SaThwZkxjbi14YUJJOGZHY2pVaG80RFVXcUVneHk1U1RTZUN0akpmdEJ2bzg?oc=5",
-"source": "Yahoo Finance",
-"published": 1793619481.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "24d326dd10c1aed2",
-"title": "Tesla Has Best Norway October as Chinese Brands Hit Record",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNU9MeGpYd0dJZVJOWWJzT3hRdTNXbFhqakU5WW8tQnVrdUN6UkpLeXEwTnN2empaa2t0QlB0SUxreWNEUm9CVmVURnlHbnBXRDFRRjZiUThrbHhuTGtuUUZTWjIwZGNHT1cyUG5BNzZSRlhMQXRKOF9iLWJ6OWdZT1Q3c3JKZnhuZWo3Y3lwdmNvS3hVeVdEVlA5bVN3WHpMNWdnNTJuU2tfTW10eEdmSzNmQ2N4dkstcEE?oc=5",
-"source": "TradingView",
-"published": 1793619481.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "fdc29826f1745f5f",
-"title": "Tesla Registrations Northern Europe: Sweden +248% [2026]",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTWlSSkE4V1JfQ1ZrblozM1BmejhhcDB0QmJfZ0pFaTBCSlJ4U1JnakU3R18wRGx6b2c1NVNmMTFZSjZpVHJqUmNWa3ZlbU5va0dZME1vQkxQTi1RZS0tanVoU3lBMTV2MUdoejFMdk91OHd6WjVSWE9nYVgxamVub09XSTFZUGcxMFJkSUVOeTBzWGJvX2NCeUVsbXZTdw?oc=5",
-"source": "https://tech-insider.org/",
-"published": 1793619435.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "b1093a3143263de6",
-"title": "Tesla Registrations Northern Europe: Sweden +248% [2026]",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTWlSSkE4V1JfQ1ZrblozM1BmejhhcDB0QmJfZ0pFaTBCSlJ4U1JnakU3R18wRGx6b2c1NVNmMTFZSjZpVHJqUmNWa3ZlbU5va0dZME1vQkxQTi1RZS0tanVoU3lBMTV2MUdoejFMdk91OHd6WjVSWE9nYVgxamVub09XSTFZUGcxMFJkSUVOeTBzWGJvX2NCeUVsbXZTdw?oc=5",
-"source": "tech-insider.org",
-"published": 1793619435.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "efdab57a6766c105",
-"title": "Toyota lost 20% of its value, while Tesla plunged 38%: how the ranking of the most valuable automotive brands changed",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNeGpWNk9NQ0oyTU5qOU8wNHBucTVOM21zTTBkNTByWkR4VnRSWVZqSmQ0bC1henMwRXlXY21LNXpzNllpdUlmaWY2LWlNVS1zQXlsOWJOZ1ZzcFBCdUplNnpYRjByZWRIZERZNlI4eVNkaG5BMXBnQjcwTDBnOENxUXRxa2pqZUxLUEx3aTZXT1g4MzZ3cDI1NWQ5WG02dkJlVDlrbFFvYVJsV0FvREE5QVA1TWx1eXc2bDAxWFBPbUhIek1hN0FCUW5qcVRacTZybnJCU2tPS1lrSlhOeG5vLVo1RlPSAeMBQVVfeXFMTnF4MzNfTVJvR1BoQ3hOZ1RaRU9WVkt2aTdXT0pDdV9KWUcyb045cWhWeFdISU5IX091Y2NRajhwOXZSak5zcExUQ2dDSWlvWnlUaGNCVXh6VDlETzlNUXlZRTN1S1dtb0VwZDYwZEtTTkgwYWFFeS0zQ2pjV1V3YTRmb1lnMFFkejF0S2h3VWZ6M0phUTRnVEZtcXc1djVDWld6V1VmR1Q1akpuUHZrS21sOFQ4WVFuOF9ZVzlvelI2UXVON0QwWkFOLVlKNXhLR1psVUdHaWZNTDhhNUtjNXF2UHM?oc=5",
-"source": "Українські Національні Новини (УНН)",
-"published": 1793619423.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "653118fce3be7728",
-"title": "Tesla’s monthly registrations surge in Northern Europe even as Chinese competition rises",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeUNsRHRfY05sdEhDU19EMFp1OW5ZX1JjWm9HanNjUVFPSWNzbkxONjVkN05ERFFPUU11dEViUEdIQi1mS3JwQzVyQUo5QmhnczdHLXBfLXEybkV4SElEazdNWWFIRHZXdV95dGlQaVh1d2FSdHQ1OXNyUkl0Rm5LVk4yaldoOHU3RjNhSjdNOGt4Y0ZCVkttRkR3dVhBeFpNb3piVF9IY3VLdUhNUWo3TjZHd3FMSjh3SFhfNjZmNDByMXdTYU5hRTJrdl8?oc=5",
-"source": "The Business Times",
-"published": 1793619120.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "1d9127c40309a382",
-"title": "Telecom AI ROI below 3% with Nvidia the 'sun' of the AI-ecosystem: GSMA",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeXl6b0NBaGVSbzB2bzVSNzl1NEdBRHF5QWZzWFhBU1h0RnhhcWpwNTVDTHg1Szk5a3UxMS1TQkstUVgzQzN2UHhOWmJkNUt4b1pqQ3BvT3ZPMHNleHp0WEVFYXJSQk5zSHpCcGN2YWdtWUdCQW4wTENaOUJVNmtiTXBQLUVwUFNNMTUtNWRhLUw0YVBPRFh6RzY2WU9sT3dGb3c?oc=5",
-"source": "SDxCentral",
-"published": 1793619004.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "5051f03b35004f79",
-"title": "Why JPMorgan, Microsoft And 30 Other Blue Chips Are Against The Latest Stock Tokenization Effort",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdDdkVzNzUFQ5aFUyNHdKMVhHMjFDZGUzUmwyQlZ4dkMxQjFwQTZVVWVsbnpKaEl4UXcwX3Zlb09hQkxJcElRVWFxaVJidHVmY0gtYnpBYWZPcGxZcC1zWFhCQ095V3VabDJvT3NOTzZERFI2TVRENjlZTmlobkE2RkRZT010MGdzQ0lWdGxDT29TSWZNZXJtc3JYSGNZNm5MNGJSWmFIcFBrbTVFaEllUk5WdzBjTTVQS2JsXzRSbzk0N2M?oc=5",
-"source": "Forbes",
-"published": 1793619000.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "3e3deba46bb2a0bb",
-"title": "Tesla’s Northern Europe Bounce Met A Chinese Reality Check",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMEUzRGhubzVHUy1rcmhKNjRLODFsUHU2cFg2Z3BJWXVBY3loQndDdjhUaTh5SG81VGNxUURkOElnRHN5ZXNTZ2hSMUl1cU5OWnZXVUVhQTFaN2ltT2pmYXdacVZFWHdxaG5KUmFJTE1lRENMTElIZngteHFoMzQ5dllKVlhyOWo3VE8zcmdzZw?oc=5",
-"source": "Finimize",
-"published": 1793618715.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "75916573f08dda1b",
-"title": "New Tesla sales in Spain rise 271% year-on-year in October",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQS3ptcDlKWmJRX284YlB3ZTVTMmw0UlZ4WTU0NzBubEg2N2R0aGlYRVlqZ2ViS3J6UTE2aUFjcUFPMkhJdDRVSkNZU202VVVjLU12NW9jZ1Etekc5U29DQkQtcEhtTko2dFRiczBFZEdOdDJaVjlfY3k4VnJxcDNZWlhsVnFNYm1MZ3Nob1ZSWTFieE9vQ0xwbENHZzctczZYMW1VOFZwV0tQbUtxWTF3?oc=5",
-"source": "marketscreener.com",
-"published": 1793618602.0,
-"stocks": [
-"Tesla (TSLA)"
 ],
 "keywords": []
 }

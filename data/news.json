@@ -1,5 +1,5 @@
 {
-"updated": 1793702112.1318438,
+"updated": 1793705592.9152834,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -69,9 +69,35 @@
 }
 ],
 "feed_problems": [
-"Yahoo Finance: HTTPError"
+"Yahoo Finance: HTTPError",
+"Oslo Børs (Google News): HTTPError",
+"Norges Bank (Google News): HTTPError",
+"Markets (Google News): HTTPError",
+"Equinor (Google News): HTTPError",
+"Aker BP (Google News): HTTPError",
+"Aker (Google News): HTTPError",
+"Kongsberg Gruppen (Google News): HTTPError",
+"DNB (Google News): HTTPError",
+"Mowi (Google News): HTTPError",
+"Nvidia (Google News): HTTPError",
+"Meta (Google News): HTTPError",
+"Tesla (Google News): HTTPError",
+"Apple (Google News): HTTPError",
+"Microsoft (Google News): HTTPError"
 ],
 "items": [
+{
+"key": "391f93ef00ce4981",
+"title": "Apple unsure when it will get more foldable iPhones ahead of Christmas",
+"summary": "The tech giant reports strong sales but admits \"constraints\" are affecting supplies of the iPhone Duo.",
+"link": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss",
+"source": "BBC Business",
+"published": 1793704237.0,
+"stocks": [
+"Apple (AAPL)"
+],
+"keywords": []
+},
 {
 "key": "02452285ec5eaef7",
 "title": "Apple shares slide after weak margin outlook; Palantir slumps 8% after earnings",
@@ -4869,18 +4895,6 @@
 "published": 1793633700.0,
 "stocks": [
 "Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "1537aa0b942b5cfb",
-"title": "What Is Going On With Meta Platforms Stock on Monday?",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUUlGTndQQkwzdkcwX2F5Yk5RdWYzNDFOaW1ZUFppQ3BDLUdzQ194VmN0QjVHOTN3OXlLR2ZDZUVZNHg3VTJnemZVTUNKU0xwNFhZVE9KajVJeGVLYlpZMWZhUm9PTEJYdG9yYU1JaWN2bUp1bU1ERG43dlUyME5TVlFrQmRkZXZFeWRBd2NwcGlDSHpHWExudFF4V18zeV9ISGVOT2NuR28tYm1ETmx4Yw?oc=5",
-"source": "TradingView",
-"published": 1793633698.0,
-"stocks": [
-"Meta (META)"
 ],
 "keywords": []
 }

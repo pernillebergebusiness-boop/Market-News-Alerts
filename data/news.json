@@ -1,5 +1,5 @@
 {
-"updated": 1793748572.727303,
+"updated": 1793750847.7190042,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,6 +73,30 @@
 ],
 "items": [
 {
+"key": "8e7b9538a8dc9f20",
+"title": "80 Tesla Owners Arrested For Allegedly 'Jailbreaking' Full Self-Driving Mode",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWkxEbkJKamkxWXRNVHpZMTZXaHNHOU5tVkZqMjhlVWYtUjF0a3hmNXBKbWl2TnN4Ukx2cVF5d19hQ1YyYnFCOHNmcWJQTjVTQzhYX0E4bE1aTWt0blh6RE9BZkNxblpneGZBbWhaSzBFTjlEVFdnWGlNcGhrbXBfTUN1OGZHalNDMVVUczFMSGItRFJtRWkxcl8tTFQ?oc=5",
+"source": "SlashGear",
+"published": 1793749500.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "53b9ba39cd02e06c",
+"title": "Tesla expands robotaxi service to Fort Worth and surrounding cities",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWXFCNGV6ckJhbExrSkpyMi1ZYkhpWXVZYzc2NUpjUDJ6RUdrOGJrdExSNVVIN0g0b3ZQNldoOHpPcjl2NXY5NlRGVnVBWDlneGdYc0lQUVdsS2pWeWdjaHJXd0NsS21PUDFrNVNpb3UwWVplY1ZDNU9kVlZHQWhTQXByYnVDUUZXbHgxeFhQTjJnU1FrV2dtWEJwaWR0REhMOE9YY1NCRQ?oc=5",
+"source": "CBS News",
+"published": 1793749440.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
 "key": "6dbf19af190077e2",
 "title": "NVIDIA adds DLSS 5 to RTX Remix to update older games — Engadget",
 "summary": "",
@@ -81,6 +105,30 @@
 "published": 1793748438.0,
 "stocks": [
 "Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "50cbcad8fe915926",
+"title": "What Is Nvidia (NVDA) Asking Cloud Clients To Change Under New China Rules?",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORHMwU0xmOXo5U29lbUJIbVJmdDhjVHdqcTMwcm8xUnMtTEw1X285b0VCS25NaWtuX19obHcyLTBLdUxCT2ptUTRlSklnS2c0RTJMLXp3NUJkOEZlbFdFUkNEUTQwcEQ3d3Z1d3BsMmFFUy1rVmJweGE5ZHp2UW0xdzlYX3dWQUtwdkQ3SFBnQ0JGYWNhY2FwNXlYU1A?oc=5",
+"source": "Yahoo Finance",
+"published": 1793748062.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "d24a2001172dd93d",
+"title": "American billionaire Elon Musk could get 56% voting control in SpaceX-Tesla merger",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNT2xVLXVHM05nMXpUSDBQVm9XdWVlejJnbXBESzlyOEF0c2p0SF80R3ExNnp3MFlITzhQclZTWTFnQmxpOHVCeHRIalpqaXJQcFBZZU40eG9qNjROVEhfWi1XMUFZRkNtUnEwdjVrX1dreWl3NmlqOUQ0ZW8xTEY2MmVGMWwyUE14ZzRqVC11U1N1MWhzcFAtV0hYcTYzeFJKOWdNd053MS1oZ3VSUmZDNkFCTkljaTF5RnFqXzJPSjdDSHc?oc=5",
+"source": "Billionaires.Africa",
+"published": 1793748026.0,
+"stocks": [
+"Tesla (TSLA)"
 ],
 "keywords": []
 },
@@ -103,6 +151,18 @@
 "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdmxlV2xOZFc4UlptSllDSkRtYlFJNkZvNUwyM0tYMXNTYjhjbk43Um9KRzkyWjBtOGdqcnZSOXBVbGh1Sk1oa1h0TnRFU1pSSHd3cTJxbTBPd0VyRnkwUjBXSUR3eWhUSEN0WGhTVUxtaEFncjBlbkpUNG8tSVJnTHhOMG1RUnNYc0Y2RTFXNHdjS0tsaElDTE5JX2VaYXpDWDhvalFiSWNDVThJLWFQelRMbFlSU2tlNmV2QUdxRWNGVHBBWnBPVk9XOEo?oc=5",
 "source": "FXLeaders",
 "published": 1793747195.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "a76036b8ddccfec4",
+"title": "NVIDIA's Controversial DLSS 5 Is Coming To RTX Remix To 'Enhance' Older Games",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQb3B1SGowUGR6RkhONDBmNXZPQzJHbWtubktkNGZGNm9MUmlLUzBlTXNaZDNHTXl1cDNhWkgtN2ZJVUwxbEVQOTJHNHpWSUNhRy1XUk1CYUtBNmxreVFodFZYRzdDN251NHFsT2t1eDNVXzh3R2JKN05mQUFtUllTdXlwM3p2YlFUM3IzTw?oc=5",
+"source": "Engadget",
+"published": 1793746821.0,
 "stocks": [
 "Nvidia (NVDA)"
 ],
@@ -205,6 +265,18 @@
 "keywords": []
 },
 {
+"key": "09fca72be4204dc4",
+"title": "Xbox’s ‘reset’: all the news about Microsoft’s layoffs and studio changes",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5WaWZ3RGptTTQ4anVUQjMwQjY2cUQ2a09jUmhiT01TQ0FGaWRfS3FEY0dNOE5PcjNlb3ctTGNmNFhzTG5YM2tLdlR3eXY4QTdrLWNURzdXOUMwYU1scS1yd005NElRQjYycC14N0s1dEpieENxM0wxRzVjRFQ?oc=5",
+"source": "The Verge",
+"published": 1793744019.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
 "key": "bce5ea2d6b737e3b",
 "title": "Microsoft Copilot Harness Preview Keeps Tool Approval Policy With Microsoft",
 "summary": "",
@@ -225,6 +297,18 @@
 "published": 1793743740.0,
 "stocks": [
 "Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "633491dd8f76be64",
+"title": "Ubisoft reportedly among the studios offering to buy Arkane from Microsoft as it tries to finish Blade",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOURrYjJIeE5NajB1Zk5KeEtnN1VqMlRXd3RhdF9lZUUtaTJ5N2pSY0plMEQ2d3RPX29la0dPSmtKZjB1OGw5andhQ0pTbUVRSXJsLS1KYjdaRnNfLVVtM19LZF9ILThjYXhhU2JDWUFEOGhTMUx1dmRuNVZrRllla19QcURXMmNtOHRvZ0FZMlBIZkhiR2tKMzJ2OUVHazJlM0o1bGYzcFd4RXFSd0NTX1NHd3BrSC1ldmRCRGt1TmtJYWxTMUJ3aUdLMEdvcHJIVXc?oc=5",
+"source": "GamesRadar+",
+"published": 1793743645.0,
+"stocks": [
+"Microsoft (MSFT)"
 ],
 "keywords": []
 },
@@ -301,6 +385,18 @@
 "keywords": []
 },
 {
+"key": "ae4760d6706d3bed",
+"title": "Audi Announces Its First U.S. Factory; Nvidia, Micron Drive Earnings Boom",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQmNYbU14T29fbUlGcmZXY1FYaE9vZEVSaWpRU3NvT25oSDBuS2NKMEg2Ykk2ZEVDWHlOVXV5MUNJb3V3M19vVlBfNlVSWGwtZmdtTlRoMURzRzNmTWZZd3E2cFk3UnpLZllLcW9seTlBdnA4N1dpS01zYnpzSHRhWEJ5VXF2OGFWVU55UDFQTlpIWGJrYnNDVFhtaDhoWDI3M3dlSnc5dDlvN2lxbFhGRg?oc=5",
+"source": "WSJ",
+"published": 1793743184.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
 "key": "798bd21adee8aa1e",
 "title": "Amazon, Tesla and SpaceX Lead 56 Firms Opposing OKX Tokenized Stocks Plan",
 "summary": "",
@@ -349,6 +445,18 @@
 "keywords": []
 },
 {
+"key": "007dd002d1bffc78",
+"title": "Nvidia and other Big Tech stocks lift Wall Street and make up for a drop by Apple",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQTHkxanRlTC13cVczVnRPbHo4VFBiSVhMQURGb1FhOXBlc2c3SGt3cTZJZVJiZUN5S1F4UGV6RjcxaDBxTUhYUG5HV0JsMVc3SVBZVEJUaE9KMzRudEJKWDZLbUp6NWtNN1VkT0tSLWg2dTZSNjdueXNoMkNvWjZyVXR3SHFubkpzajF3SlB6bkRTVkJZWkhOd2gzY2FEZlZOZTBGRnNtazVIa1B6aUdsUGlTOTZsTFhpMWNTOGxoeFNHaHdoZmdna2R5TURaLXFNelh3bEZVMEtBM1hQeTU2NG5WVWg3OVBHZGk2dWpxbDUzNGJIRTNSV1YxRQ?oc=5",
+"source": "News-Press NOW",
+"published": 1793741623.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
 "key": "d54c4e26346c43e9",
 "title": "AMD, Nvidia, and AI rework rendering",
 "summary": "",
@@ -367,6 +475,30 @@
 "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNY2ZfUjZ5T1Npdk13c0FQd0tpNGNHOEh1eDFXVEJVS2JuMjQ3T0RTakJKbUF6djg5eFZMY2xpYVdRNHdrd1dENFpESXFLeHdzX195SFd3ek5acEc3Umw4cHpxcjAzU0pKN3RKWU1QdUduWXMyTEJqTHNSeVFqVE96eWdhRGk4aEhlS2pIN3VnUGNjZE9DaXFkMGhqUWdHMHdLZVNrb2M3Uy10aHdZeENBazVPaFp1RFRLUGcydzBMTVhqT1pCUWVxWmhTak5ORjJOWEE4?oc=5",
 "source": "Los Angeles Times",
 "published": 1793741529.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "e8eac259a50ff1e4",
+"title": "Nvidia and other Big Tech stocks lift the US market despite drops for Apple and much of Wall Street",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNM2FTS3VsZzJIeF9JcDNPSU9hU3lFMUdrQnlZS2hVdlc1M25lQ2pIZHBjc2ZiZ094dDYzWU9naVRMdEFWVDRHWVB1bjA2UVlyaElmYWdpcEhkRnc3RkhyQ3BsWlN2LXZJenZmWjVhMXIzU2lUVG13TnY0S01MR0pRbEZ3ZGVwcWNVT0tqUkZNcUFCX2VLenpuR3RtV29jWUI1MUYxOXRqNWRDd0tibVJObHdOYXdkUHJ4YWhRdlU0U1FybVpPWlJRZHpfYzdzeXhsaGJrMFdXMklhaTlSamN4LUY4NkwxSVcwdEVrckhabFBxdjZKMnc?oc=5",
+"source": "KTVN",
+"published": 1793740963.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "7116b1990c9a5509",
+"title": "Nvidia and other Big Tech stocks lift the US market despite drops for Apple and much of Wall Street",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNNW42UHB2Nk80Z0pCT1ZKVVBRd2FVUUJydEc3ZVJsaHR5bmZJenYtUjc2a09waWYxdElRaFBScFJIT0hyMnV4LUxoc21NQjNsUTFVZ1ZrdU1SbWpkaGtOYzlKeE5MUUlFc25zT2pKaVJxRmw1ZmtKZkJHSFAwNy12VktZQWJpWThyU00ya05TeTNUVXBMX3BHU1ZMWkVJeGlGdG91NzBYaG9UOWtVdzY5Z0UtRndjRDI2WVlFcm1WZ1NsZFV4TkVFaEJjNW41c1hOZjZ6aFB6OWlsZnd4aENoZnRoSjJ0SmxxRGRHMkRLajFvNER3TW1taTJ0WjhGQQ?oc=5",
+"source": "Marietta Daily Journal",
+"published": 1793740963.0,
 "stocks": [
 "Nvidia (NVDA)"
 ],
@@ -937,6 +1069,18 @@
 "keywords": []
 },
 {
+"key": "a6700961f6ee9c09",
+"title": "Nvidia and other Big Tech stocks lift Wall Street and make up for a drop by Apple",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaTV1ckpLMzFJaW1NNDhyQ0RHWlJiU216dXEtSHpEQlVvM055OG9uZ3B2TWdhOGJNT3ZMQXN3X1dERVFZd1Z5bTNIaE1fdXFTNFdWSjhNSDd5WWl2dm9WQnlqd0U2UWd3Ump0MURCUEZ6N3kyWUdYQW1WQkdDOTBGTkhVVHZ0eGhDTVNZTUJZV1RnQkxGYWkyX2pnXzM0SDBlcmMyWE9HRW9ENVRmRENKdzRXWHllakNZWWxIWU9Ibmk?oc=5",
+"source": "WCCB Charlotte",
+"published": 1793732907.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
 "key": "497c121c78f3e61a",
 "title": "Microsoft CEO defends ‘superintelligence’ term, warns of AI security risks",
 "summary": "",
@@ -1089,6 +1233,18 @@
 "published": 1793730884.0,
 "stocks": [
 "Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "8d354d24cfed7f64",
+"title": "Tesla Announces Expanded 2027 Tour Dates",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1xTURVVzJ4NnpwemVwSWpfREZsdHl1cFRrTlhjVXpjNjIzYzY3RnZfUEpiNzlVaXR0Z3lBbjFGd2Nha3FlNjROcUx5UnZsWVZuTGhfNEtzUkRELWd2RFV1eXVR?oc=5",
+"source": "i95 ROCK",
+"published": 1793730677.0,
+"stocks": [
+"Tesla (TSLA)"
 ],
 "keywords": []
 },
@@ -4727,162 +4883,6 @@
 "published": 1793699908.0,
 "stocks": [
 "Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "b0b9925e73e3cee1",
-"title": "Meta Platforms And 2 More Founder Led Stocks To Own",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPV0Nwb0U0X0xOcWJscHdOa21aTjRFaVF2S3JvRk1QZXREVVJaeHp2UVowSVRVcnJlQ3Q5U3lJdThxRkp1bGY2NzlMVzdiOFVTSXdOcFlEV0pXMzRvcEJHUEZZXy1LTTMwaGJmZWdZT3c1bmg5b05RdTNBcTRKSVlfSGtkQzdPaEc1cDRicEx3M21kSy1sWFNOTHhTeUdWdERrVEZjNHBMV2d3OFRLMzJaOTZEUDNOYklkVzZZcnFn0gHDAUFVX3lxTE1fZzVmdzNFVVJpXzRYYW9yQUoyX1E5Unpwa1JHVXFtUm1sT2tQSUVpZWUyc0QtUXpIS1JBTWhTYURUb3RESTYtOUJUSjExVkZhUktraEpZdlhicnlyNVNQdTVER0tIZGNLUTdBU0NNN1NyM3VtWWRrbTAwY2ZsNjZGcXBhSzA4a0xLc0p6VUZ4X0JOSE1aWFJGQWtTN0dKSXRrbzdJS1JMcjgydkZCMGN6Qmh6dUtDV25OeHVvNjQyb0RzMA?oc=5",
-"source": "Simply Wall St",
-"published": 1793699846.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "9eb8aaa21983b161",
-"title": "Tesla China October wholesale sales total 67,829, lowest since February",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5iTnZqOE0xbmFsenRsUmxzbUhuQVBjaHRRZFVDdHFwVlRldkRRQUVpVHlrbDR4eFY5c3pKdGt3ME1xVk9IenZhZHZiV0VYUzYyYTRPaUR6Y1I3YWxRc1ZmRjVZOVo2OUJ6aWFBWlBMeEQ?oc=5",
-"source": "CnEVPost",
-"published": 1793699537.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "040cde57e3b2ea6b",
-"title": "Apple Inc. $AAPL Stock: Washburn Capital Management Inc. Increases Stake",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTDFEVTRENVU1QWlhSG9TbF9yd3FoUHR1eHR3aEFfYk0yQ3VZSkZTOW1kUGZKVFRQcVRLLTd0aFI3SVY5N0x6Znh2eVdET09mc1M0ZHh5RTJEVFF3b05uc3lscElBdURjdEtaR1h2UHJJREg0bGZfSF9Kc2tDdkxZWkxyYWs5eXNaYldJQ0c0VUFsc2lhX0FPaHNwV2d3UVVxRVh0YUQ5WDBpYnVYN2taUGFFT2hsazRtaUtfUlpWQjlQMkdxalVqdg?oc=5",
-"source": "MarketBeat",
-"published": 1793698730.0,
-"stocks": [
-"Apple (AAPL)"
-],
-"keywords": []
-},
-{
-"key": "73aeb02b5c863462",
-"title": "Sonata Capital Group Inc. Sells 2,899 Shares of Apple Inc. $AAPL",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSGN5X1FlcE52SkUzbVVYLVJxeHRKaHhlelpRWTVCa3d2WTJEUjJsbVFFX2FuSWRDbXhIUUdJbkFvTGotMGdqNEgwSmNUVGgwV2NxWmJLd0FHTFN0cnhoYXFUcG82LWlzanU3aGs1TG9Pc0w3SVFybHRHMWNWMTdKLXBmcnR1SzJIaXBMRG5FUXNtUlRqamNjODY2cDR4LWNnTnN3TVFpX003U2NrQ1VLZkY5VlB5dGxfekd3eHBB?oc=5",
-"source": "MarketBeat",
-"published": 1793698730.0,
-"stocks": [
-"Apple (AAPL)"
-],
-"keywords": []
-},
-{
-"key": "92c5e2f93f3381b0",
-"title": "OceanIQ Capital LLC Acquires 7,770 Shares of Apple Inc. $AAPL",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPN016OFFWamt4TE4yVkY1bjJ1UEM4dUJ2NjktVlphZ2hyVGh3MDVpaG8zSFNxNnRrcFVCamU1cU1HUlpVWlpyNngzTFlYVGVhVjd6QmlEQjczaWp1U1BqWktKZV9RVUotNXE0VWdzakFRcHA4ZjFSZUZ2YmFNUDFWWmZQVjdtakhfc2ZwSDJoT2dVYTRCMTBIbmtsTlE1bjRnS09qR1pha2l0YXNUaWVFRHFjTm53OE9VWnlJ?oc=5",
-"source": "MarketBeat",
-"published": 1793698730.0,
-"stocks": [
-"Apple (AAPL)"
-],
-"keywords": []
-},
-{
-"key": "513ef25dc8f07bf4",
-"title": "Apple Inc. $AAPL Stock: Quantum Financial Partners LLC Increases Holdings",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNLVFxMEMzTU5PLXhmdGExUy1yRk5vQS1KaWZaZUhnRFM2SzlySm13RWNBbkhHX1hraDM2Q2NvV0pzWVhSelFNRVEwXzlnbTlobUhnSkJlQkJkdWpxRW5wbFdDNkJrTXh1VVBHakhuejctTktBSmVHM1NhM3llT3R1ZVRaa0NieTRfM3NlRFhkVktYSzJiSFY1UzRUdE1obDAzaUxfZG15NGRtME9aNFZqUDRON0xXWGlJRmhWS0xnUF9icHJGaFJZNEJzUQ?oc=5",
-"source": "MarketBeat",
-"published": 1793698730.0,
-"stocks": [
-"Apple (AAPL)"
-],
-"keywords": []
-},
-{
-"key": "a019d9e931ca1100",
-"title": "Apple Inc. $AAPL Stock: LexAurum Advisors LLC Decreases Stake",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN2ttNjZXczg2cFdPYXpUWFVqM1ZyQWw2VnBFMV8xbEdEejRkSklWLXF5cWFBYmNGWXFVejNVckI2ZXJuS0Vqem5qY1pseXVrQ1EtSVdiV2JLREpHNlRsaXVudWdNRzhNLVhHMHBVRHl0UEQ5eTFYYlNmMDVRYVZmX1RvY0wxYmtLbGc0TkFYaTQxUkIxQ3BuSnNYNU1BSDF3R21NN3VfTGtKXzEwaURuMUViNUQ3aGhNSnJv?oc=5",
-"source": "MarketBeat",
-"published": 1793698730.0,
-"stocks": [
-"Apple (AAPL)"
-],
-"keywords": []
-},
-{
-"key": "8b5f22f509db1722",
-"title": "Apple Inc. $AAPL Shares Sold by New Wave Wealth Advisors LLC",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQnVjLU1RcWFralVWLUF2MzBud0ZpUUJuSC1PY2lXQ0t1OWRZbTlyR25QNDRMbVZKa0VlbE9MaEZDV25qUkN0eW1uT0tCTlppbzZ2RHVwSzFUbnVOdzdxNE14ZjdObTdQOEdGcUN5NWhzcU5FdTk4dnhFZ2JVLUpoT0g4YVhzZDRoaWkwd1BVbzFQTmdFQi1uQzNPdlhra3UwUU9rYVdVYkYtSEIzU1Q3MGFWMVZYREFPOHBF?oc=5",
-"source": "MarketBeat",
-"published": 1793698729.0,
-"stocks": [
-"Apple (AAPL)"
-],
-"keywords": []
-},
-{
-"key": "366d5fb757ac201d",
-"title": "BMW Prepares Tesla FSD Rival With Assisted Driving on City Streets",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMzk2RGhoRUJneXpXMmMwU05NYndtMTBYeUx0Y21tWTl4TGdpWE1SbENrRFFvQVVnaVhSOFdtQUhhZWFFUHZrMkUtcDBKdERhU3hieTJyMmFzSE5jWkhUek1Sc1JyS0F5WU51UjRneHc5a1g4QTN5NWFnUVQ3dzgtWUd3b0JyRjdnZkJoazBldGhCV1hmeHZjWW5vd1hjd9IBowFBVV95cUxOOHNtTjNEUVJmaExEZXFHbU9YT0VZTDRJTzhuM1NtTFl3bmZjSGZjTVk3V2tTdC10QkMzeGU3ajdIWm1IYVVQcjBfU2NjTkZDdlprT19pNXItR3k4MEtPZ1cxZ1RxUDdXeGVSVU0yekhtNlRueGhzMC13SDRvT2FpWXlzMXhKYzJUOWpaRDRiaHJfejhUUHBvZG05ZExjWU4wQWVJ?oc=5",
-"source": "Mezha",
-"published": 1793698620.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "c405850c3465acc2",
-"title": "Nvidia tells cloud partners to cap China business below half",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUGxVcmVxNVk1QTMxenlKdVM3QTFhRTdBM081eXRibXhfOHZQR21iVTRQT3dPZHBOZm8wQkxKbDhUY1loN2ZZMjBvMlAzenBiRnotSzRId2NrUnV1TnhnTUppY0FCOE5KRWkyM1JTQ1J3TTB3dWF4dUdXWktIcVgzRms5dUt1aDdyemIzQmxOaHh0ajB0X1RLdFV3?oc=5",
-"source": "Dealroom",
-"published": 1793698500.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "fe1c801a1421c691",
-"title": "Tesla's China-made EV sales rise 10.3% y/y in October",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQVBRV2p0UEJVQ0dWYldUZUFzSEsyM1Z0bExxTHpBRGd3aThzWGNCeWN3c0toVi1iRFdmbzZnSjdKV1RxMFNnV2ZGNERZMXdmZ3RjUTdXa3Vqb1U3cmNfUlpWTk5XN2VhMV9Ic2ZqQ3pVbXMxcEJoV3NHXzZnTHJJX2k3cmF4S05XanpoTGJ1NTlPRTg3Zlg2YnM4dmRCMW5QcEVCa1RsZnM1UHA1VWprdENic1lpZ0YxSjY0RjEwYw?oc=5",
-"source": "TradingView",
-"published": 1793698464.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "9dd33a1cea7b29c6",
-"title": "Nvidia tells data centre clients to scale back Chinese relations",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBNVmZibUZMNWNJODhFdUplZ1hqVHAwNGFCZGIzS2F3dkZDSXdIVzY1YlNXSTZGOFh3THhJZjA3YWJBeVJ2NlRjbUMyNFNPSDg0aERtYzJ4aFpDSjAxX1pQSHdTMDctaUEtUlVfUUk2SDl3cmhMRFJvbEc4WWY?oc=5",
-"source": "Digital Watch Observatory",
-"published": 1793698437.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "7ba190ce4470b932",
-"title": "Tesla Bulls Are Betting on a SpaceX Merger — Top Analyst Says Marvell's $115 Billion Lumentum Deal Shows",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNcnJWcTZEUHdQZEt2clc2SFJ0ajROVUZTSEZjREl3SS1RejVOdE1fQXV4Q0htV05od3FrTUJGYlVQOF9Wa0lDMGNGd1ZMM0EyOVgzNFY2NmItV2IyZ1hmZlI0Unl4VkhqRjAwUElUV0pvSW9jejRZdzZjTmlsS2hUekJjelJRd3VackowNVF3bmxpTU1iSElranZvRWIxN3J3UGYwX0k1aFlaNk53WDlPRzNCZTlwODhyakJxS3cxS203NWdHTGlLYk5vMmhtTU9PRENRSUNjQk9XVlpSUnQxckxyUzVmLTdSVjV2OXZIaFhac0tiN1h0SlJqZzRTOXp2LVN3?oc=5",
-"source": "Benzinga",
-"published": 1793698205.0,
-"stocks": [
-"Tesla (TSLA)"
 ],
 "keywords": []
 }

@@ -1,5 +1,5 @@
 {
-"updated": 1793830383.9919257,
+"updated": 1793833036.8766594,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,6 +73,114 @@
 ],
 "items": [
 {
+"key": "a2d58894e99d7e59",
+"title": "Apple Closes at $5.08T to Nvidia’s $4.82T in a $414B Swing",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRGhXMlZSRDhoWHlPQXNvNDlnd04xZ0p6QVkzRnM3MXVJdlEtVWIzRFZhYkx5bm85YXdUa1RCUFVwNkFEa2tzNW81RDNZNFY4R0pvdFlpZDl5bUdtQ3Q5WU11RmhGeUEzOWJCVkFGX2p3dklVaDNvbXNXazh4R0NTZDQ1OGtOeEhFa0E?oc=5",
+"source": "FourWeekMBA",
+"published": 1793832321.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "99b38a871fe9cda7",
+"title": "Stanford: Nvidia B200 Nets 4.3x AMD MI350X’s Value per Joule",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZTZCQzNZU1NwZkRfcUxxTHBNcjZmRDkwcC01MXBYZXU5TlhvX3VUdUNxUTVNRlVqdnZUVHRzZFVGdS1oWlpWTGpMVHdDclkwTVV6WHN3RzV5VC1QWWpvWFJmc2NlU0NvRUNackJ2cjV0czhSdDMyckRsTExfamxlYXhwcXR2SDJoVXdCaS10QQ?oc=5",
+"source": "FourWeekMBA",
+"published": 1793831743.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "f4a7b06366adc5fb",
+"title": "Tesla Sold FSD To Tens Of Thousands Of Koreans Who Still Can't Use It: Report",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBROTNyRUFmMVhHd1lxbTlsMEJweVNpM2UwWGdSaTQ1NlgwVHl5M1BTV0VabkdXT2VKdy1TRFhIM3lMTTlUcFU1bEpwbzZjeTFTX29lc1Q2cVhYMWZQQmRiWXFXbkZMYkZtUXljSktiR08?oc=5",
+"source": "InsideEVs",
+"published": 1793831700.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "aa8cca674d61a6b0",
+"title": "Nvidia stock tokens show price spreads, but slippage crushes the arbitrage",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOFZPanJfempRcmo5VlM2YzJnSkQ2MzFENVk5NFh6SlJ2SzcyLUNlRVpIVWRqWnJ4Q0wwRzJVMENtUmlyNGYtU3Znc3JyaEYzUy0wRkF0SDhnNkZMZ1lpWW5mUGpsRHR2SEpLc3VXSEUyS2lpN3pTZjc0c0gxbHpRNGh2ZkI5UXotRTVrTDVGTnk5LXJSME1MYlJOVE9iTHc?oc=5",
+"source": "CryptoSlate",
+"published": 1793831448.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "6c333871f274a7bf",
+"title": "Tesla: The Merger Premium Is Doing All The Work (NASDAQ:TSLA)",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONkRGNjdNRVRWcnE1dy1NWHJudEMtaXF6Z1pHRUdnVFdxZEpZUEppU1VpZ0syOUhEOVVxU0tiT0hnb0F2ekJrbmZNMUR4LVFac0RfWkZDeW5lU2VjamxKLXV2M0EtalJQOW5reUlLYkx6YUlIaFVkUlFfVWlNU1JxSWpobmtNY005NjI5Smx0LWc?oc=5",
+"source": "Seeking Alpha",
+"published": 1793831369.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "6e860bd83d00533d",
+"title": "Meta Platforms (NASDAQ:META) Shares Climb 1.4% - Still a Buy?",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWjA3M1loSVctWGVFQ2o4cEtHbDZuWllINGhsdTFqLUdTeXpYSDFXZGltNUsxV25RckpCMTllVEtiTkwzZHhnb2d1bDQwWjZaQjd1M3RVbWxCbEJHVHBla1V0NGNSZGRfN2tzVGR1UHQxS2lDUHNtbWhuSDFOeDJTTzhwMDhHWWNUSmszUEVTMmw3NllqZzVVUk1OZ2ZBY3RwLXVmUU56UGpnaEZ5Vm16b2JLNVo?oc=5",
+"source": "MarketBeat",
+"published": 1793831242.0,
+"stocks": [
+"Meta (META)"
+],
+"keywords": []
+},
+{
+"key": "6e35522852ef5459",
+"title": "Microsoft Intros New Protections and Controls for Sovereign Cloud",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOV0JQV19keUphc0NBNUhSa0Fib2w2dG4xZ1g2UnhSU3dOa3I2MlY3cU9YMEpYMlRqZDZjazJuVzFsSWx1OUVzcXBhYzcwbWVDR3VxMjVrNXFIT21ic1VEUEhCeGJrSjNacGMwMjRfenBpWXFVeE9nTUkyRlVvcG1HT1V1ZjRmOXFXRHVzei1PUS1xaml5M2pDWTFfb01ZbGhFZG9kbkM1bGZ2cVItdzhMcGFzVllSZDlkX01mdg?oc=5",
+"source": "Campus Technology",
+"published": 1793831177.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "1837f191218be761",
+"title": "Wheels: Tesla Roadster",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVjVzbWlwTHRUOFFDeFM3OGkzWVJ2dGMzUmRfcDV2cGl4UnhVcEhCbWlmUV9hd1B3MDdIOG1kcWhHbTJjbU5GYk5FWjNYU0EwRXBSc2diZzdyOWVrVWd2WndMYzVyUHp0eHJEVl94R3lFbTl4VGFZQU9Db3M4bVhSX3RJV0VZVHdfTEtoYTJlTm96THk5TVlfMlhNckQtOWFnSDRtbTVIamFsWmhTSko3dEljSzkxT2J0?oc=5",
+"source": "The Conway Daily Sun",
+"published": 1793831160.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "f48b7e2ae64ff2d0",
+"title": "Can Elon Musk’s Tesla and SpaceX merger still leave the launchpad?",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaXBLZTVuOVVSbEMzS1Z2WkNBc1dJVVphV2k5NUNwSWxkXzNoZnhtVVlRTUR0NnFMRkVNZl95bFdPTlcyWkpHblAycThRSXB5M2Q0aDlaYXh0ZkR3b1YtcDZ5QXloRlFZaHBrZ3JLU2FYSkIxeE5VMHhFUDZ6MWxDOFpTaGpKTk5FZkdYazlhVmstUUg4dkw1dTFucDA1anRvWXhSellKOXdsQS0zMUE3V0NSY1RsZw?oc=5",
+"source": "The Times",
+"published": 1793830800.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
 "key": "45b865b5fa811fd6",
 "title": "SpaceX to Prepay $7B in $47.3B Nvidia Chip Deal, Sources Say",
 "summary": "",
@@ -109,12 +217,48 @@
 "keywords": []
 },
 {
+"key": "88bd95f0f09cb05d",
+"title": "Driver, Passenger Extricated After Tesla Crashes At Paramus Dealership",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQX0ViVk02SnVnTTdoamNlTGdTQm1uUU85YlV3NloxcmVKbTZzV1VWZm14Z2ZYUENZQkFTbUxHYWo2Wkt0TlVnbGpfQVd2clpKQ3l3X2VZVTlMUE53T0g0TVpTazR1cTY5dmxmNXhCVkx3R0taWDJnV2h3UWN3anNpd1FaaFM5dDlfQ0dKaFo3OFBoa1ozVWNyZHlUYjlUYmI2bXpEODlHN0lhbm54OHpZbGJLZU1rNTJmemNydjZveE9faW02UHFWa3l4OGI?oc=5",
+"source": "TAPinto",
+"published": 1793829759.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "23453c940cdc6f8e",
+"title": "Fermaca Becomes First NVIDIA Cloud Partner in Mexico",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWC1NTklBYjFrRmVLR1ZPS1pVNEdZZEtHX2QwcnpRWlNzbTN6UXMzcHNQOUwtRFoxNmpMaGY3OVJkeXRQWlFPY1BMOHo5MmxFWmZFaE40VVB5REl4RzF6RTN4SEp5UkZOM1Y1R2hkRXBrSHh5TkpkTmJZaFJuWVN1dTNONTZ6emV1c1FhSXE4UFN2d3NnSkJNM0ZUaw?oc=5",
+"source": "Mexico Business News",
+"published": 1793829701.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
 "key": "3e5d349520a90c99",
 "title": "Asana lets AI teammates act across Google, Microsoft and Slack",
 "summary": "",
 "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeHp2TFlXZ1ZqY1F3THVRcDJCb3pRaEIzOHFBbFFpY0tWRE4xU2txRDYxdGFwa3UwUHVPaVhOemlESktkclNTZk5DXzFGWURVcGU3RVMzZ1FlaDFZSzM3NF9QaG1SZ3NtbmhybUpFanYtSkdsd0hVTlBMMnc1R1Z4SEszTTNSS1NBOUxBTnV2aw?oc=5",
 "source": "Quasa.io",
 "published": 1793829540.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "cdaf57192f5af4f3",
+"title": "Futures: Amazon, Apple, Microsoft Are Buys After Post-Election Rally",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQmliVFRWX3pISnI2UzBXQlE0bUhCVExKXzhqZkNWTXY0emxpN2RHYWpqTklDR0x2Mk4talloWE5vSmtZcE9VTlUzVmFhS3ZYZUlpN2psY2lOWGNRV1huaUx5VWtpa29lVGt1ZWFiWU12VzIxamE4cHItM3E4SVAxb2QyZE4wTm8xV0k1RGZDdmhVU0VaLTVsQk9Sd3dnczlpa1JRV2dScVNwOGZpOENqdWRuZi15XzRYaWEyNFFndmFZRHJpNWZYazdMb05PdjJuMEJINS1PRlhESl82VGJFUQ?oc=5",
+"source": "Investor's Business Daily",
+"published": 1793829480.0,
 "stocks": [
 "Microsoft (MSFT)"
 ],
@@ -295,6 +439,21 @@
 "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQaDlCSUszSEFfaWZrNDBMXzBGeC1vbkVXbXhlNXVETVU4eGZGV0gzb2JHcGV6Ni1tNDJ5b2t3Z2FZU3ptNk5VSlVNX09keUdwbXRDdWIxTjlhTFRLdGJIVVQxZ2tFUVh4REtqZm9xTzJ6YmxqbllJSFI4UnBqV2pKQXZDdmN6VFBhdEF6aXZtVGFBYWdFZlFFZzAyQS1jSG4zWEdtbHgyd1pXTWd6WlpJSThZRm81WmlReldWaC04M0R0cjB3SFRXZHdoX1RyZ2VUV2lCVHBlTmpGU1pNZ1RmZ0c2aWUxZjkxZUNEZjVCQnBmN0k4dG5FQV9TRlVCMjFCc2QxZTZrc2hzM3M5TEwtMEU2al9CbldBUTNVR3N4MzM2MW1wbDVXVXZWMWNpVEpJUGtobkg0MG9XaF9mbHBrb0NPd29IVHRxMzVGY3hRdVc?oc=5",
 "source": "The Globe and Mail",
 "published": 1793826302.0,
+"stocks": [
+"Nvidia (NVDA)",
+"Meta (META)",
+"Tesla (TSLA)",
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "151a68f99b1459b0",
+"title": "The Nasdaq-100 Is Outperforming Nvidia, Microsoft, Amazon, Meta Platforms, Alphabet, and Tesla This Year. Here's My Favorite Low-Cost ETF to Buy the Dip.",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbEMwNVF1SjlHbVZEMjFCSnZ3QWI1VjlCTE1nMTltWjltTFYwSEhzNHVYbmpLdTNIbmxzeFZFZFFLSXY4anpYS1U3QXppdFJtZGVQWTVrTUx4Q09YeGxZaGxZR2tlQTBQbFlYRmRLUXpEZENIc1Y5ZHhGc0JhV21vRXBnbHhpVDVsejJsbHB3?oc=5",
+"source": "AOL.com",
+"published": 1793826300.0,
 "stocks": [
 "Nvidia (NVDA)",
 "Meta (META)",
@@ -4737,164 +4896,6 @@
 "published": 1793789209.0,
 "stocks": [
 "Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "0f9f1311f8f80854",
-"title": "Microsoft ends Copilot support on smart TVs",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONEl2eURlaXF2SktLa19hZENuWFlxZ056UmNSbk4zQzZBTHdEVTFPWjlsUUNldjNuUkdZU19oU3M3WGtJcDY2NUtLZWZtSkVMbm5wSGVNelpBTXJjd0VCV2E1bkp6eVoxb1JYU1ZwQ2xFakI0a1JzYnhMcE5NMzN3eGJseXV0S2VHR2c1RlhKc1dzWHZwR1l4eDl4Z21kY1k?oc=5",
-"source": "IBC.org",
-"published": 1793788847.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "0f1d2e1be57787cf",
-"title": "Nvidia to ship 1% of $70B RTX chips ordered by Alibaba, Tencent: report",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRFRGNjNkWVo4SUVQdFpyUkpwbkZUYVFQWjdFVVN0THBqRzZPWk91MkdxZ3dYeG55SFAyS0l6akFyUmhPWWhaUGNyWHlNa3N6cnlSS1ZZU25EM2otOTRuTXoxS1VoU05aSFdrQXpVMF9KU1VlTk1ub0d0VGZ3X0ZlNkhrdHZ0R2toS19LNk00QUxTelplMFRtdGs4LXJ5cHNjamtueFZ0b3htU3FTQm1XQjhmVFpwS01qaUZ5SFlqZlpZUmwzNl9qTzVR?oc=5",
-"source": "TradingView",
-"published": 1793788788.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "9a391564a28a1f1c",
-"title": "South El Monte, CA - Tesla in Self-Driving Mode Loses Control and Hits Fire Hydrant, No Injuries Reported",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONlpxRE9YT3VVQVdMY2VGcENhb2FZNWxuQ09jLVZRMkJQTGZkSnpOMmdpSV9Jb2lPU2p1WElwMFZybVFNVUZ6YUNqdVVCNG96ME14Y0oxczZ1ai1SeHBpTkV1azFoNkp0TU9TOFVwRmhvTXdrUjV2cE01Q3BnTlc4dzgwUHNmdVdzMEh1V2VDZ29QT08ycGtsUnJxSTNGcTlUTFBJRGtRU0tmQQ?oc=5",
-"source": "The Christian Contreras Firm, PLC",
-"published": 1793788545.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "2dd497643d95d680",
-"title": "Jim Cramer Sees Tech Leadership Shifting Beyond Nvidia and Microsoft",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92b0Z6NlRFdjdocWxEYk10bXNtUnFmSjh1QmtRTE5wcUhnSHJWM2dOYmdySE1jMDh0WnlCX0ZkV1gtMGVxNzNsbnBWd3MzMmVNVDJuR2R3LUdNZw?oc=5",
-"source": "www.tokenpost.com",
-"published": 1793788528.0,
-"stocks": [
-"Nvidia (NVDA)",
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "486f14f2fd5b2d88",
-"title": "Shares in Elon Musk’s SpaceX, Tesla Fall Premarket After Democrats Sweep Midterms",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTnBEUW41TWNTbkhWaldTVkdWYXIzWUJXSU1LUWU3REtScmJHSGYwZXVxelZuSlhUeFJsaHZudGp0OWlURDV2UDVlZW9XczdpX1JjU01INk91RzMyblp0aGIya2d1QjFkUHJpczJkbzk2ak4tVWd6UXJBYUpMeXJfZW5pTUQtMU9YUUs4T1Jjb3FWc1JKbDd1RmkzcGQ3d2JoNE9uY2lpUTk5WURHUUJGVFBrazRHZWho?oc=5",
-"source": "WSJ",
-"published": 1793788500.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "d2eb53ed4087071e",
-"title": "Shares in Elon Musk's SpaceX, Tesla Fall Premarket After Democrats Sweep Midterms",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWWYtMzljN2NwR2lMTkFBVEVRMmJnb201djgtQ1ZXX0RPUWR5QUplSWtGc3ZkUGx6SDVBSU0yc0FGeFFzd0lIVXJOVzlyQWZvYlRNMWl0ZmliOHdOSTZlYnVkM2VZM0YzN3JWeENHc2pScFJOQmtsc2hiSmJodmdBRUxwWlRjUk5DQm1wRmlXQXh2UldRZ3pJSS1IaF9HXzZ0UE9sNGRuMGZsM2FEXzRoVFhVZlRySzhGQ1E3SjdsZ0l5b3FibTRHb09oZDBNUQ?oc=5",
-"source": "marketscreener.com",
-"published": 1793788476.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "0c611881eb95eb85",
-"title": "What Could Surprise Tesla Stock Investors On The Upside?",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPS1NXNmNPcEdrTVJBdXhsSDVjQ0lqXzl5N2pfTWFpbTlxdGtRWGVUQlh4LU8xNXJNT2YxeUluZnlDdU1CaXBaZUxRd3p6UklPNkpQYjBsYjFldWdVWi1acXBhRzRnc2lfckQzdWhqdms4cW55UTlXdU50SGFWY2pYbHBOaGZ6UV9OeHA1YW9sSzBZZGVXelAxYWt0VlotYU9ZTG4yZHcyMHJpSFhXMkp4Xzk4Ym1MbTQ?oc=5",
-"source": "Trefis",
-"published": 1793788449.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "3c0ff776457f23c1",
-"title": "Where Could NVIDIA's Next Growth Come From?",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVlo0UW5teERtRmZVTEYtanRRZzNyMjlwTkNhdXJVbVVEWDB1dVBlbG9pdlhmenVCRVFHTktYZURVVk5UQk5Yc3BETXVOWkZJeGJyVENULS00VjROWjBVejRwc2hCM05QbU1hVmJPSmc4OUQxY1NUb3RoNDRmbWtnT0Uxb2xzUkhIMFNXb0V2R0NTcWl0R0VseHFmeTY?oc=5",
-"source": "Yahoo Finance",
-"published": 1793788296.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "c7e4f7d45331e166",
-"title": "SpaceX, Tesla fall around 4% on Democrats' big win; AI stocks mixed",
-"summary": "AI fortunes were mixed as premarket trading opened on Wednesday.",
-"link": "https://www.cnbc.com/2026/11/04/ai-stocks-texas-governor-data-centers.html",
-"source": "CNBC Top News",
-"published": 1793788292.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "b7850abe06735c2b",
-"title": "Where Could NVIDIA’s Next Growth Come From?",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOa2p5dHpTdklvTXVFOHMtdU1PVGlsTTd3RzdrVjBPUDBEMFhwbXRGcXdrYkZTU3B3VE51Skh5Ull2N1BqTU9qMlJCNUdJcTdvUXMwRWU0Wjg4OUZLVFVhQnREc0NBVVBmSWxPOTM5RTRqeGlacW5qOEczOWRsY2hZSFRaWmRxcXA0dU5ETnBrRllWN194OVg4b1lPN3dwZnBzNWU5Vw?oc=5",
-"source": "Trefis",
-"published": 1793788276.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "374ed685b7617736",
-"title": "Microsoft’s Buyouts Imperil Its AI Ambitions",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOalpzaVYyaTNUb3M2RktlY3FKazREN3ZCXzN1LXpGeWtoY29WVVR2ZmdqWThjTTNUZ1dvWmtCNVI4NFdzbDc4QTlPSzd1cV9FVnU5Ui1fbmxfWW14UjFaQ3AxaTFoZFJvMzRFeTlVY2JpM3JSZUN0STNyb1VmOEI4X0ZDcVVfSkw5aGRaV0F5T0dSSnRXUk1adTFtcVkxandDRWJYMTU3MF8?oc=5",
-"source": "Bloomberg.com",
-"published": 1793788201.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "2b8f6f14bd200e42",
-"title": "Microsoft’s Humane Buyouts Imperil Its AI Ambitions",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOalpzaVYyaTNUb3M2RktlY3FKazREN3ZCXzN1LXpGeWtoY29WVVR2ZmdqWThjTTNUZ1dvWmtCNVI4NFdzbDc4QTlPSzd1cV9FVnU5Ui1fbmxfWW14UjFaQ3AxaTFoZFJvMzRFeTlVY2JpM3JSZUN0STNyb1VmOEI4X0ZDcVVfSkw5aGRaV0F5T0dSSnRXUk1adTFtcVkxandDRWJYMTU3MF8?oc=5",
-"source": "Bloomberg.com",
-"published": 1793788201.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "844d933b74c2ebbc",
-"title": "Jim Cramer Sees These 'Non-Magnificent' Tech Stocks Emerging as Market Leaders While Nvidia, Microsoft St",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOOVNCaXlXS09ra2swNWJ4NmdUSWNEcURQalg1WFNlRkRxejNPamlvZW9sNl9JUnowMkJWcl9FS3FXbTR5WmNwanY1MFBIU2xQVDZBaVN6dkE1SGRyaXFuVUVZRG9uZkxnR0FYcHJKNXpQLTViNHFpR0Q1a0c0dGtrNzkzZ2NibkhQdlhxZ2tSb0czaWRoZWx4SElJRzRPNnZSc2YyMi1tQlFXajBRY1FTX1BCakNSZ05SR05CeFAyTE9acmkwNnlPR2ZPT3BBNS1pMUUwMDJnc2wwNUpJZHN5RXJ1WXBlVU8zM0VaTjl1VDdOcVp3eEx4Y2NwZm5nenktdWxEUWFoellUYzlkdng2azV3YkprYm5oc3ZLTURsNy1JUQ?oc=5",
-"source": "Benzinga",
-"published": 1793788063.0,
-"stocks": [
-"Nvidia (NVDA)",
-"Microsoft (MSFT)"
 ],
 "keywords": []
 }

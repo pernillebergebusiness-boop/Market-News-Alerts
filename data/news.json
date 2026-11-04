@@ -1,5 +1,5 @@
 {
-"updated": 1793770665.7250996,
+"updated": 1793774432.5403981,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,6 +73,90 @@
 ],
 "items": [
 {
+"key": "21b4c69bdec5164c",
+"title": "Mowi Q3 profit more than doubles on higher salmon prices",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQLWVyTGk1dklocW5wSVM1MHZZQ2pBeEx2TVlYMFZtTjNobUg4SUFMSUpjTUw2SlNEblpkbnBBTXNlUnJkVi0wZXFvZzFVNmN6QjQ3RTBOQktINGRLMlIxMEtDMkZralNSWW9LRUIzU3JLeUVsMl9wREhIV2xnVmJsN293?oc=5",
+"source": "Yahoo Finance Singapore",
+"published": 1793772885.0,
+"stocks": [
+"Mowi (MOWI)"
+],
+"keywords": []
+},
+{
+"key": "52b45e1da87764fa",
+"title": "Tesla, SpaceX Shares Slip as Democrats' Midterm Gains Raise Political Risks",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOUNsRHJic1QzODdiR1lya1RaVGZSWF9WSVBTc2RUdy1OLTlpNmh1cnA5WUdXeUdKc3J2V1hVRENPQ0VVXy1vWF9KN0ZsNkFEXzVUZGoyN2JiTG9QSVR4QVl4VTAzM3BjbS1UdXIzMWhsQnNiY25Ia0lwbGZBZW5leGdzcUV6dDlVOHU3Wnp5R2NlNWNvT1ljYkxnOURPOE9xd0xrWms3X2oybXpK?oc=5",
+"source": "Firstpost",
+"published": 1793772710.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "558ca8a22e348c5d",
+"title": "Inside 'Rs 100 Crore Stockal Scam': Apple, Nvidia Shares Swapped With Chinese Stocks Without Investors' Consent?",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPeEJFd1JmV2JfWEFTT1pYQ1FnM1NpaGNNdGxsWWhIdjJQSnV0dk43blpFb1lvbnFhN2Y0VWJOTWZSSUJ0ZWx3b3d5Rkk3WFgtNG9DaVRpcGItb3Iyd3VEa3dlOVlKWXBvWUlHQVczTGRjRkVkVkJ3aVFEcVRHR3hYTElKNmtYRUlVN0h1RmpNTV9tU2lGaF81LVVKWktmYjRXSWJtbHFhd3dSX3dxalJCd3JQTGxmempZZlhPTV81VWR4eklDLU1FSnUxX0dGSGI4QnJxVHhLbHNHUmhmQ3RmRFduNlTSAewBQVVfeXFMUDJRM0xKd3BBU1lJREdFekhMbnBIc21FbTlNTWxfSTgzSERwSUJFTHFPR0lfNGFUa2tPWHAyekFsQXA3SDQ4V1A3WHJMal8zY1lwSURtM041Z3UzTmpFOXRVN1VTYnlGUUx0eHpSbDRSVGc5NzBZa29RNEw3cjVWNGlwTnVRTEtTV2k3eFJtdjgwZ3UyMHh5XzBpVlNMZFVWN3o1Q1dhM2tjWE83cU5tSFJ0aXJxZTZ3N3ZOSEVzbVZsQ0F1eU82WEd1dW1rSXpuZkxCdmpoSGdES1VDTjhZdU1Jc2Z3ekRQQVdQdzM?oc=5",
+"source": "NDTV",
+"published": 1793771965.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "361e00c713e5a886",
+"title": "Seafood producer Mowi Q3 EBIT hits record highs on strong salmon volumes",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRm96VWlKeDk1M0NnZDN6YkNPejNlRGpBam5OVlprX01odmdUblgyVkJSRC1WNWdMNHBEZlRlb3UtOXBfb25sTlBSLXowN3RPQTVZVzRENTdVcnhpai1NRUVxNU9jY3pBRmRNVWR3MTNROE44eDNNTWZwNHFTRnM4eDd3bVhfQldqZWUtOXZXZWJFS0xpcEFWY1V0ZmRmb19tOE5fdkg2ZGF6Wm5aZDV0M2dFblFFTzMybDRYbkZ6RHRzeVhzZjlxcWFYTGY1ZWM2T3h1dENiTlRxQQ?oc=5",
+"source": "TradingView",
+"published": 1793770860.0,
+"stocks": [
+"Mowi (MOWI)"
+],
+"keywords": []
+},
+{
+"key": "3d49a1c98bc58cfa",
+"title": "Record-high profits, revenues and volumes for Mowi",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONDVmajFRWjB5MUpsQVZJWWZUSjBTdjc1UzY4b2FQaVpXaTNBZHVESzVWOFdSaWdiQTgtMy1XZUo4aDZjaFNtQ2R1bW54WmtwaHZkU29fbUxmRXY0MHo0Y0NUa0JZTHl4enVubkZjb09Ca1dtVHlwNjJFUzhZTzVUbUN0NzY5bUtNeUxKZEtaOGxiRGdJSnlSalUxVTAtcE9TRWQzMGFfNXVzUC1hbEdJRU1hYVZDZ2VGQmhTVlN0c1rSAcYBQVVfeXFMUFZ1SHdieGdLcWE1QURiTUMwVUpZRDcydDZ5eUp2SE5aZzJRNllwcFJ4TmpXdERob3lJcGEzZGZnVGhTNmR4R1N0S0V5UlpVVW5QdVZoaTl6a0lLemt6OHgtbHFoREpZMy1Tem9vNFUwcmQwRGtDS0dRc1ZpTkFabERtYjRxczRyZTZCdTBqam5ORUk5RjdBcmlMcUU1ZzhvYXVza2JudGhSY3BWM21qTkdVdWhoVEdrZkFKMVN5Mm5STEE3RzVB?oc=5",
+"source": "The Manila Times",
+"published": 1793770542.0,
+"stocks": [
+"Mowi (MOWI)"
+],
+"keywords": []
+},
+{
+"key": "f896d3c48aeb6c5f",
+"title": "Mowi ASA (OSE: MOWI): Quarterly dividend",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPT1dlOXhSQlhnYThzUjB5Y3gwcmdtUHo2T3dacEZobkNhT0NOVHFZOXBEbnRxelliZXNCdVZ3NmNGVXlxSE9rRm1vWU9XdGNVSlNiTk8tNERfY0k1QWFSdWpwMXgzbUM5bC0yZXlqXzZya3pjeGdaSllidUJINXJNNVZQLTg0T3BfOElJcThzTVpwRmNuWGJudmdGeXRIR3ZMbHRDQ3pudUpnUkx3WDdj0gG0AUFVX3lxTE5GOWpzXzBHeTBCNDY2U1k4U21lS1pjTWpfYUp3blQ2bndrR2Y0UDJrSW5velMxWnE0LVI5Q3BseW9RMmc4aEVGcU5LemkxNGp3YTlDTTZtaUozYTUzVTNyakpZLXUyWWlqZndtOTlhUjhOdTNxYlZVVGU0UXd3a09ibjdtNVY2cWtMaV9yODNfNHNLOUR5cWx2d3NUWHBCRTNXNkZEcV9JWjIybHUzLThfYmZBTQ?oc=5",
+"source": "The Manila Times",
+"published": 1793770539.0,
+"stocks": [
+"Mowi (MOWI)"
+],
+"keywords": []
+},
+{
+"key": "bb1a677a4c1827c5",
+"title": "NVIDIA App update version 11.0.9.585 introduces a feature for distributing video card resources between programs.",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQOUMyQlV1b3FjY09GZnQ4SmVyZjZ5M3l6RC00UGRvUWRWeTZmZmFOdXRjb2ZLNUtOck5TSGNHRloxMUhsWnE3TTROWTFPMF9zTDdWaDd0SUVXdERGQXVDVEtQT3l1VENMTC1YcXFsR1hFS0hNSldJejlwTVA4NzVfeF9pOEJOd254NTY0LVFZTUItSHVIVVJnV2gyaWQ5eGRfd0hUR2c4bGhSR2ZNV1F2TEJOME0xdFUzQnhEdV9pc3VHenB3bWFqV0dFYnZ0QmliSHBpSFEzLTVfVGNudlJfX2tZcU40dw?oc=5",
+"source": "GameGPU",
+"published": 1793770529.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
 "key": "e696bc5cc7785ba3",
 "title": "Mowi ASA (OSE: MOWI): Quarterly dividend",
 "summary": "",
@@ -81,6 +165,42 @@
 "published": 1793770395.0,
 "stocks": [
 "Mowi (MOWI)"
+],
+"keywords": []
+},
+{
+"key": "bd4d8dee3dffb575",
+"title": "MOWI: Record Q3 earnings and higher harvest guidance amid salmon-market recovery",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPOFZ4M0YtelZESDF3cWdXT3J3NFY0Zl81a2VHaXJtT211R0FYUFF3T1hING9BdVp0TjJhSGpmSFhCRXlzNS1WZEJJZ08wTjQ1RElraktON09DdTNab3BtS2V4b3pmQzZQRXpiVmgydnF2Z2QzOXllUHVKbTVEemFMNzlaZHd5R3Jsc2pTdEp6LVZYVHRkSFBNZU4wRFlpTUFVX05OaHpNS0t0UnhtelJNdVNHNUxkUXZCYkhaXzJMUFUwamNmcWNqRWlDcVgzWXdsZE5rOTlHNVBMN2dnT2g4SFJCaVpIRnR4bWZKRmprcFB4bDV1?oc=5",
+"source": "TradingView",
+"published": 1793770320.0,
+"stocks": [
+"Mowi (MOWI)"
+],
+"keywords": []
+},
+{
+"key": "d385e4ba1480c084",
+"title": "Mowi ASA (OSE: MOWI): Quarterly dividend",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN1pmVzFVQlJzcEdOakN1c2tCR3NxQ19nb0F3X2c0U0E5ZjEzMWdmdDZlNkpEWXVXMlVraVRoaVdEaVZ3eUZ5bXFOUndrTl9XaENIXzItLTdTeXNjX1JYakphQzdZNzhGZ0ItdURTMkhjRVhKa19QcEtHMEtRTWFrVFNNOUtfSG9MeE54SkRWenRQQlBvYnI1T0NtMm9TTEZNazhtbDVxWFNCODRN?oc=5",
+"source": "GlobeNewswire",
+"published": 1793770260.0,
+"stocks": [
+"Mowi (MOWI)"
+],
+"keywords": []
+},
+{
+"key": "79b5328106d9a68f",
+"title": "Nvidia China clients to get 1% of $70 bln RTX chips ordered- Bloomberg",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Tc0QxUC0tdktLMGdMSk9KZFliWF9aQ1ZQNVJkT05aZXdZazFFT25pcDNpYm9Tb1dUR0daeWFqNTB5bWFRZkFtNk9WZjZja08zX1pGdnVaRDhERkkyYWxzTzRNN0phWEpUVXdUY1NERVBpVGRHN1hMMHhSWjBXVE0?oc=5",
+"source": "Yahoo Finance Singapore",
+"published": 1793770260.0,
+"stocks": [
+"Nvidia (NVDA)"
 ],
 "keywords": []
 },
@@ -141,6 +261,18 @@
 "published": 1793769000.0,
 "stocks": [
 "Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "677759d4272ee5d8",
+"title": "Behind Musk and Zuckerberg’s decade-long efforts to repel investor lawsuits",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSjY5bWVXVk51NmNsZ1ZVNHVpdk9Vci1odEl3WlRCaXZoMm5NODVocXB0ZEZtVXlwZHNFWlVQMXZndk9ycG84dmpJanhpNldJRnJXOHpNRElZM05oN0llbHFsSkFjQmpBVnhNQW1GakV1R3BfaExrc3dja0tISTFIUG9Nc3o?oc=5",
+"source": "Financial Times",
+"published": 1793768852.0,
+"stocks": [
+"Meta (META)"
 ],
 "keywords": []
 },
@@ -253,6 +385,42 @@
 "keywords": []
 },
 {
+"key": "4b6e49fe7ca4236a",
+"title": "Total equity of Ericsson Nikola Tesla d.d. – FWB:H63",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOczVycDV4VUJ1bDh4ZWtSdnVyQ2N1cFpDc1BXR1B5NnQ3c0duQXJDQVBkeThILU9Xd01ScWJuRzNaUnkweWk3eHJxNmxkVjREdzJQM0RqOElBai1NMHk0bVZjV1ZSX3ZQbW5Ncjd5d2tUTHRYM1hfQi12c1lJaE84bFVnUGZZMHk1eVE?oc=5",
+"source": "TradingView",
+"published": 1793764371.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "3bfa30ba16471e5f",
+"title": "Net debt of Ericsson Nikola Tesla d.d. – FWB:H63",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdm1pTTNKMGFQUGxnTjMtdGt6cHJKbng4dlh6S085TzYzSkJPbGtkQmJrU2dYMjByTUJhUWZ1TFl6OTJFMWVFbHprN0ZxSlJhTFF6bFdNZlU0M0NnU21yOGVMRlhCamZBT0JCak85dUYxQXNyZmVCWm1zLUdNQVcxNnZabFM?oc=5",
+"source": "TradingView",
+"published": 1793764186.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "ea062790a0d8acc0",
+"title": "Total liabilities & shareholders' equities of Ericsson Nikola Tesla d.d. – FWB:H63",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbTk0NmNWM21ha0VMMVRac0dHa3pCTDdLMkZIWGtpN0RrYkp1eFJVckhhcTZ0bC1RY1VjUlJiV3ZtRjZjREVISHFKdjNDdWZpTGZHc2xEVTlzR1A3U0JocloxeW9hMHdydUh4aldtSm9FNmh6R3lzTS1IblhNMV9PX05WRVk2YkxQU0g5cXROUy13dDJjdVBHeGMxM0hzOVdkaUZ1X2p3?oc=5",
+"source": "TradingView",
+"published": 1793763933.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
 "key": "79470efedaaa0fa2",
 "title": "Ubisoft among bidders for Microsoft's Arkane Studios as Xbox weighs options",
 "summary": "",
@@ -297,6 +465,30 @@
 "published": 1793763060.0,
 "stocks": [
 "Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "77941df379cf40df",
+"title": "Treasury yields fall as investors crowd into bonds for safety amid election stock sell-off",
+"summary": "Treasury yields fell on Tuesday night, as investors sought shelter from a sell-off in equity futures sparked by big victories from Democrats in the U.S. midterm elections.",
+"link": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html",
+"source": "CNBC Top News",
+"published": 1793762643.0,
+"stocks": [],
+"keywords": [
+"sell-off"
+]
+},
+{
+"key": "15fe4cfd6b5e38ef",
+"title": "Current ratio of Ericsson Nikola Tesla d.d. – FWB:H63",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOclZ1M3FaRWRPSHJqa0RPb3AtT1hHWjZEQ3dWY3NacjhZdEt6bzJZa2RHeWNuVmlHaUJUX3lWZjJkd1lxU2sySG9xTDlCelM3WEl1djhMM2hfaW84R2F3TXhwTnh1MlZYSUI0c2tPWUxhaThwYmNldjRkSFBPN1JqYW0tYTg2RnZFcHZvaEtzaTJvaGFkWFE?oc=5",
+"source": "TradingView",
+"published": 1793762521.0,
+"stocks": [
+"Tesla (TSLA)"
 ],
 "keywords": []
 },
@@ -369,6 +561,18 @@
 "published": 1793761061.0,
 "stocks": [
 "Aker BP (AKRBP)"
+],
+"keywords": []
+},
+{
+"key": "a4b4aef5ab8a29fa",
+"title": "Long term debt to total assets ratio of Ericsson Nikola Tesla d.d. – FWB:H63",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQU0o5ZGM0RDJiT1lrSDV2LWNXek83THFlTDgzcS1RcjVEdmlxczdXUzhpa0lYRUxKdmlnX205SldVVkhMNmZEMno2X3RVUDJYUkM0LWZFZmtQdjNSb0g4czRPLV9CVTc0TlJaMTRfRXpoYVF1YjV5NTcwaHFSRGVqQ1BidnhER01RSGtCbzM4N0JVeGFaX3N0QVNuRl9ndHZ4LU1HRg?oc=5",
+"source": "TradingView",
+"published": 1793760998.0,
+"stocks": [
+"Tesla (TSLA)"
 ],
 "keywords": []
 },
@@ -4672,212 +4876,6 @@
 "published": 1793709705.0,
 "stocks": [
 "Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "43e4582ca5206e35",
-"title": "How Big Could NVIDIA Stock's Next Fall Be?",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQTZFdUFZNnBzYS1uRXFpTHhOLWl1OFo0MW1PZEo1YVJWNDRTMVdqRXhBX0Nvb0M0ZFo2SFY3QVk3OXFZQVd5QU1tSlFTb0FXbFpYWGRKc2ZyTFBJZnFvdmF3c3E1Smc5VDRMaW01WElIdE9LSVpHTDIzN0pYOHZ5dmtrXzJvWEdWNzItajBRR2FReXZjM0JTZg?oc=5",
-"source": "Yahoo Finance",
-"published": 1793709693.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "81ac03bac45d06a9",
-"title": "How Big Could NVIDIA Stock’s Next Fall Be?",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUWFIWFBZRXhsVjdaeUNoY0FtWVMxRnAwZVJreVUxcVVud3FyRTRhZ2x0dVRlOTN4WnRtRnJMdnVUa1lQOWNsTkRBRnpNMzNTeGhPOWxRbklRTmxkeG5HTldQdFBEQ3l4T1doZUd0ZW1tUnlBTkhGc0hQZURrM3FPT2VFakRtbzJBUnNOTXo2ejFPaVBWdGhaR2ozS1htMEVjbkdn?oc=5",
-"source": "Trefis",
-"published": 1793709551.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "947aa0da9c81c7c9",
-"title": "Samsung 2nd Texas Fab Tapped for AMD, Nvidia HBM Supply",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPR2VyZUdYeDZmMlV2SU4zd3FuUFhhY2dtRUFZRUxnU2plMTl6dUhkcXJUN05LMF9JQ2QzNWpJV2psRWVuNjBFYkd1WHVVQWFRazhsZzZYSUVSc3dlZkJpVGV3S0xyQk5zVE9DTS0xM0RTRTdmRU9uUURxVXh5Q2RyM0RSTzZvRS16QVNkU0U5MFJVeUFwdHZjLVFQWQ?oc=5",
-"source": "TradingPedia",
-"published": 1793709495.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "161f549670502d81",
-"title": "Apple Inc. (NASDAQ:AAPL) Shareholders Set to Receive $0.27 Quarterly Dividend",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNc3V3Skhqd053TWlyMXhXMmU5c3JFb1VrRjdCNEFGQmNYLWRfVlpZSktFMHFocnF6V0lTU21Rel92Z28zOFZWaDItVlpDRTI3UHhjUkVPOGNUQWRRYnpOZTBWbGtocmRDem12SWdxdC0yVUZSOVlNTzVMLS1EZTFQT0hEN2N3d3FFazVnMTl6UGhxaWpZdWhoVjFOd1A1T19RSlQ0MGFYVldMOW9IMXRXRTVLaWh5cjJHU2hkRXFVTUY0NHlsbFpncGh5c2ppWXBh?oc=5",
-"source": "MarketBeat",
-"published": 1793709250.0,
-"stocks": [
-"Apple (AAPL)"
-],
-"keywords": []
-},
-{
-"key": "61f2b1c6dc9c2616",
-"title": "Is NVIDIA's Cheap Valuation an Opportunity to Invest in the Stock?",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeUhDeWpCU3FqUXJxOEExek1nVmZwU1N6NC0yaHp3bWpHU25oTFRyY2tRaFFpcHZISUZkc3RzX0tuZnVaN3FDUTkxODIwNUtwVTJnZW5zNXBrd244VG5IbEV5WktMWmJRdWRXSUN0ZkFIZzhqVlpJVHRpTkE4Z0hadDcxS3BmS1MtX1poTWtpUW9qNjhLQjByVWkwUm1ZMlpjNVNKQjlGTXNDY1A4YzBsNTJVUk9HTm4tSkVBeXp3?oc=5",
-"source": "TradingView",
-"published": 1793709120.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "0c7bdaf7ca9e995b",
-"title": "Meta Platforms stock faces $825 billion AI funding test",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTlBuWXJnN3JJelR6cnBXZFJHcXZXeVhnOWdDaVVfbzBGT21nTUtmOEw1akduQkRDOWFLODRxQmNjUlZDZm5DSF9VQURYMzlvNjg5b1dTcDVjZlFQMWVOQUZZM0lsamtsT0w5TEY1VDJCUGpaVFJHWTlYWFEza24yWVF1alNXanVKaVpoR2VEQVU3N1BuUkZRbk1QRzBHNE5VX205emRVM2VFeHBDRGdrWjRYTEFDazFC?oc=5",
-"source": "ad-hoc-news.de",
-"published": 1793708989.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "9684084ad6af9ff6",
-"title": "Nvidia pushes cloud customers to cut back on China business",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY2RRRzJkbDdUYU9tTDdEN1Z4aW1xeFNVSTBBYTB1eTZXbTVWSWFnaWI4SklYYjRXemlwX1U0OXNLdnJXOHlBaE45alhRY29QUGFQOFFjcUlxM3RRRVM2dzRPZGJ0eE5ZRHR1Z3FIQXJzYUkyRjBldnZjUXN6NUtQeG5LSTQyNWdZSVFNUQ?oc=5",
-"source": "the-decoder.com",
-"published": 1793708847.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "68ac9d5cc2bd704f",
-"title": "Mark Zuckerberg’s Meta AI Predicts a Huge Tesla (TSLA) Move",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE00WXF1RHFLRDVnc1lBWldoU1ZoZmdDWTlNcXZlaG9tOUllT245eUJOYUpMM214Y0dHMG5PV2wwcDFja2NpRGViSDFLWXFlZFRURXdja0hvbDZtOFRGRzJKd0VTYXZsa0p1TWRRenF6QXRGMTgwSWoyT0NR?oc=5",
-"source": "Tokenist",
-"published": 1793708774.0,
-"stocks": [
-"Meta (META)",
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "a72881541c94aaef",
-"title": "Nvidia’s Dismal Run Might Be Coming to an End. Grab NVDA Stock While It’s Still Around $200.",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaS1sOHNjaEtZdEY0aG9yTEZuRDVNU3M2a0EwckVaZG9HaE9MUVRNNkE0b1BlWlk2eEdVWkdzX0FGZHB5dGlpQ1kxU2ZoUkQxVHY5amFVNEdEaGRfTUpIMnhadHp0NXo2RDNLTFJ4aVVfZTVDc3I4RUpXdnpva1Nnc1J3TEJRUHQtUDhwUVA4N1N6bzQ0b3ZmUU91azFrSVp1ajcwZUM3X1BoM0JlQWpER1NnZzhRdWlaUWRLUG04UU9LSTJGQmdEc1Awdw?oc=5",
-"source": "Barchart.com",
-"published": 1793708665.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "de68a571c8b4ff11",
-"title": "Microsoft AI Chief Says AI Development Should Stop If Artificial Intelligence Begins Showing Signs Of Consciousness",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSkhPbUZZN19BZWNLaWdlODZyeTdwQUIxNDZ5RzBtSWh1c3pLNV9yR3l2eXVVNG0zZkgyUmJ4aXdfM1NFUGdvY3pGakc4Q0hQdnNjTk5ZRHBsUldDZHZXUXUyUTJOLUhnRGthMlFyaWIyQ0hHeXhyMmFzTmNFdzZQWnNDazluVHRNNTM3c29HWFJDT1lYZktOVWRBcTJETWFiS203Xy16QUFVTm1IOHU2VktDd0pzNTgwTFRLRFpNWWtIMG5iQlBnYm9DN1g0Wi1fZ2Jr0gHYAUFVX3lxTE1QSWFheXZZbjVLdGNEOHJsei1XMG5jVm1HQTkteGd6a09kUy1NSlA0ZGZhSjJFYnVOZG55dVdjcGtPMzYyc3JURy16bU1XR0JoT1hleHNHUngyajhGWVNkS016cGVXV3dzMS05Wm1hWFpwM1gwVHY4YUZBOTh5aXFEeklXYXNBVDRoOXJvSzZ6T0Z3enpsYzNGYk1KMFh1TWMzZTZJOVBXUzU0RlRkRU85cDJ5VExIUS1VUy1JVlFnRDVwUEpHNjNTenhQZ1VmYVp1a1ZYUDhSXw?oc=5",
-"source": "Wccftech",
-"published": 1793708438.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "fddc769eee429e67",
-"title": "AMD, Nvidia Could Gain Another US Source For HBM Parts, Says Report",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUTJjbmMydnlvRUtOQUxUUUVWdjNiT2l2dDBFR04zODhlZ2xpbHBOazJsYk1PbDh6OWhma1owN1Y5UW9vTWhXQ29BeWRSdkZCU3gwSmMwNFZ3a3oyVXN3eFFIOFhBX2hLQnctdV9LczNGd2V2VmtZYTRiRE1wTHFOWWkyc3B2SFZGdXBNOVE5bGt5TUZyenRMMy1VbXlFcUJIdTVYQ3ZXbTkxVUVOaUUxbHp2ell3R05EdHlKXzlfM0loNzVhNVk5V3JpcFJicWtJWmlNWmZyREpFdw?oc=5",
-"source": "Stocktwits",
-"published": 1793708282.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "71b5e64cc150f8b1",
-"title": "AMD, Nvidia Could Join Tesla On Samsung’s Texas Chip Plant Customer List: Report",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTGJrN3BUaWVieUJzNzFzSVU1YXRObG5xS0NHUWV3RkJsTTFGZkJlVDBSS1BGUFhvS1JWZkJzMDI5MXBCXzVrbFZ4VUlGN3M1T2ZTaGlFOFRaRTl0UElyekx4MV9ISTJsbUowT05CSkFDeFBPZ3ZkZ3FEVXhybzN3Z0VsSlJFNDJDanV4emhRLWNSVkd6LUE?oc=5",
-"source": "Yahoo Finance",
-"published": 1793708083.0,
-"stocks": [
-"Nvidia (NVDA)",
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "a0d0b63a17a9cefc",
-"title": "Samsung to make AMD, Nvidia chip parts at second Texas plant, Maeil Business reports",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWUp5UFEwelhZMkZRdnYwcmtxWUhTM05qSC1UTlREdVIzczcyR3lDRlE0LUlSalFYVERlN3BWY0Iwb1Z3SVpnd3I0OUZrcnJ2cy1Rbk9Fa1N0UUxwV1dZbUhHWlduWGVtUTRBQ09RX1Ryd1k5QTB4SjZ1ZGh4ZlNNd1FubUtEWGZGSXJnNURsYkZ4WHNUWkhwYkxPaXNSZ2pZQWhvUFd1NmhELUNkQTJ6RA?oc=5",
-"source": "WDEZ",
-"published": 1793707737.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "e615c72d77d0075c",
-"title": "Nvidia Is Pulling Back From China. Wall Street Still Sees 60% Up",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQN1R0bTFVSkxOcndJMVA5bElhQXZzWERpQjJhS3RaV3h5Z0luMlBvYV9BX3pSbWM0ZzhiSjU5Ujl1ek9DRlAwUm9nSzNZZndFSTFhNUFhRmJZNnRYeXkyMGNJd3dMcUpSRFNoWUE5UGhvbFc1eEZOeTkwNlJLakdnVk9jcWwzV0FCd1dnSmhzVGFBSDhpYm1pTHcxb09sMzZzZW9qMHp3bzM?oc=5",
-"source": "GuruFocus",
-"published": 1793707334.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "93036fd88e507684",
-"title": "The Next Googlebooks Could Look a Lot Like Microsoft's Surface Pro",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbmZON1JILXl3SlhULWJkNmdrYm5taUtGWUdlM2FSZndKaEE4c0w0YldGajdKclc1MmtNd0ViQVRYZkctaTI2YlBsM3QyQ1Y3dmlaNktTN01qVG51YzdLZXVzeDAxWFpjVDNWZzZWWFBzU0Yya0E1SV9qWDVCWm9WYnczUUxiUXBkRGxydVhiaTJ1allTM2lpajFvV21Vd2VkaWE1WEV3?oc=5",
-"source": "ExtremeTech",
-"published": 1793707300.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "a33cb97774cd00a4",
-"title": "Nvidia Tells Cloud Clients to Cap Chinese Business at 49%",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVTdIUFVyY3MwZ3R3cXgyQXFQUHh3V1dHYVhCSUlPMF9ualgyVWtsc1A5U09nYy1fYk5QcW9CV3RTN2lqOEJEdmktd19zZ0ozMmx4YjloWWRiMnIxWHR0VXpPdzgxdXd2SlBHUXlLV0otb3RKM1NmdjQxWUUyb0RRelQzaGlTOENOcy1CcWR6NDA1OEVpbWt0OGhTS2xUVFV1ajBJVkM1VTNOeFp3NWwxZERieHAwS0E?oc=5",
-"source": "TradingView",
-"published": 1793707296.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "ff7df16e5504549c",
-"title": "Nvidia Tells Cloud Clients to Cap Chinese Business at 49%",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQk5DWW5ZSi1tYTlLb05JRFFmMnZSY0tzeUlWeWhLdUM0UWw1ZlZTb2lDdnpUNjJ4Q0VZUlFETDB3UmVya0tjRjVWR09vMUlZaGZ6NTR4T0htUExYRi1HdTdPM2lJbVZOdEVMVDlVQlFkVF9qSEJneGtjMUdPY1dLaENSbjVSSUlmTHJQSU1lM1lOb3dsWkNGOGpn?oc=5",
-"source": "Yahoo Finance",
-"published": 1793707296.0,
-"stocks": [
-"Nvidia (NVDA)"
 ],
 "keywords": []
 }

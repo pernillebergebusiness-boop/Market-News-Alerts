@@ -1,5 +1,5 @@
 {
-"updated": 1793846138.6936944,
+"updated": 1793849414.2939997,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -72,6 +72,30 @@
 "Yahoo Finance: HTTPError"
 ],
 "items": [
+{
+"key": "05d1fa0b216d50e1",
+"title": "Meta Platforms Draws Record €53 Billion in Demand for First Euro Bond Sale",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9KYndtaURvWFBmVV91ZjZlV1FNU2t4MVdlLXRXLV9RazFSRWpBRV9jQmY1bmtEelhDTGRrY0ZpWXZGVUpzdzhneWNkNzliWks1NTJrbUVXZ0g?oc=5",
+"source": "www.tokenpost.com",
+"published": 1793848200.0,
+"stocks": [
+"Meta (META)"
+],
+"keywords": []
+},
+{
+"key": "5fba194b01b2aee7",
+"title": "How To Set Up Gmail In Microsoft Outlook For Seamless Email Access",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBJVm1WRlp2QW9sSTN3Q1FLU1dlQ0J2cnQxV1FIdEFUZ1gzdnFvaXJPUVEtTFVYUlV5T3FmbkdTMmhNZmJSbjBLVTlnUHZRd2hMWm84YmJEU0NrRk1nM3dHbjlHNnZUVnFH?oc=5",
+"source": "Dataconomy",
+"published": 1793847980.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
 {
 "key": "060f7af1a5386dbc",
 "title": "Nvidia Vera CPU: 1.8x Claim vs AMD’s 2.24x Rebuttal [2026]",
@@ -169,6 +193,18 @@
 "keywords": []
 },
 {
+"key": "9942a3dfde139f86",
+"title": "Apple Iphone Watch Series 4 Price - Apple Store sales in neutral ahead of new Apple Inc. AAPL product releases",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9SSjcwUzdWYlBpcUh3WTZxakZrTkRwcUdnQ0w5dVpob0t6ZWtYMktIVXBGazYtaG53bDVUcDdPWXJodXdWLUZjQ3VkaEM3ajZsYkE?oc=5",
+"source": "www.auroradesio.it",
+"published": 1793841233.0,
+"stocks": [
+"Apple (AAPL)"
+],
+"keywords": []
+},
+{
 "key": "832afeef01541000",
 "title": "Fremont parents score a win in Tesla's bid to increase emissions near a school",
 "summary": "",
@@ -237,6 +273,18 @@
 "published": 1793839740.0,
 "stocks": [
 "Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "58ba02959d277da5",
+"title": "Form 4 Meta Platforms Inc: Javier Olivan (COO) For: 2 November By Investing.com",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN2ZmU3JNb2VIMFotLWhmS1o3MXFWMGtaTG85d3BZUHk0Y3pNOXBFTDhUX0JySzBlbnVMWV95WHRBeHZNVjBTRXdaLVZ4OG55bmtkVzhuRjhjM0hIUU1rM0dyZmhKdW9Ya2Z0NEVyRkdFZDN4UXBLVGh2bmluVTBIeVBmcUhZUUhOdmJaOGJrWEdXMVJtd0JHNEh5YzM1SjJpc3hPY1VITXpSb0hMN2h4Mm1rX2swUFFXaHdN?oc=5",
+"source": "Investing.com India",
+"published": 1793839255.0,
+"stocks": [
+"Meta (META)"
 ],
 "keywords": []
 },
@@ -523,6 +571,18 @@
 "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVjVzbWlwTHRUOFFDeFM3OGkzWVJ2dGMzUmRfcDV2cGl4UnhVcEhCbWlmUV9hd1B3MDdIOG1kcWhHbTJjbU5GYk5FWjNYU0EwRXBSc2diZzdyOWVrVWd2WndMYzVyUHp0eHJEVl94R3lFbTl4VGFZQU9Db3M4bVhSX3RJV0VZVHdfTEtoYTJlTm96THk5TVlfMlhNckQtOWFnSDRtbTVIamFsWmhTSko3dEljSzkxT2J0?oc=5",
 "source": "The Conway Daily Sun",
 "published": 1793831160.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "6441252db9198cce",
+"title": "Tesla and SpaceX Stocks Fall as Investors Worry About Elon Musk’s Political Risk",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ReERCU3BFNVhMYVgwdldtdFUwdUllT3lkNHp3SzRSTDNkV2VaQlAwQkdobEdyemNDQXZTV28wWXR6OU16bWt6bGozcWNodWNsckhXbnBrTVVwNXJLWG5xcVFWQl84VUlkWDVGeA?oc=5",
+"source": "BeInCrypto",
+"published": 1793830980.0,
 "stocks": [
 "Tesla (TSLA)"
 ],
@@ -4838,66 +4898,6 @@
 "published": 1793793629.0,
 "stocks": [
 "Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "926a60d43696ad58",
-"title": "Crypto’s biggest heist ever, the spy who loved Nvidia and Hacktober’s unsolved mysteries : Machine Gods",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMDM3TFhZY3A4bzF4eEN5SXdvNXJ5Y056T1pESzRSWkhhc0VBZHZYMGVHWFVMVnZ6QXg1cWNEbHFFNEpGRlZoWkM1ZUVIaFFMTEh1LWJEaWc4cFo5TXQ4TmtrYmdGb0NtUXAwem13bktVSTZOV3BpLVBuZXN1YlBoWjNveGFXRG54V0g4d19UQzhtb3F0ZjhrMDBRNUR6bmo0M1oxeGdlcGpQUGlSbHFxUWVILVBpRjdf?oc=5",
-"source": "NPR",
-"published": 1793793600.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "a2b6c2f423be0039",
-"title": "Crypto’s Biggest Heist Ever + The Spy Who Loved Nvidia + Hacktober’s Mysteries : Machine Gods",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMDM3TFhZY3A4bzF4eEN5SXdvNXJ5Y056T1pESzRSWkhhc0VBZHZYMGVHWFVMVnZ6QXg1cWNEbHFFNEpGRlZoWkM1ZUVIaFFMTEh1LWJEaWc4cFo5TXQ4TmtrYmdGb0NtUXAwem13bktVSTZOV3BpLVBuZXN1YlBoWjNveGFXRG54V0g4d19UQzhtb3F0ZjhrMDBRNUR6bmo0M1oxeGdlcGpQUGlSbHFxUWVILVBpRjdf?oc=5",
-"source": "NPR",
-"published": 1793793600.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "9c228467580ab29d",
-"title": "Reliable leaker clarifies Nvidia's new GeForce RTX 50 GPU plan for CES 2027",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQc0pRaDNLcDZvMjZJTEZNeURTVHFnbWljUzZ3N05sNnBtMkQtdVdhMW0xOVdWSXpnVXpReUFnRDJvSng3RUtaMFFCRHVHTk5YSWpfRHlVZnRqZ2xxYXZqTkcyZHYxMFRVV1dZbW1CWVYzWV9ld1pybWhaZW5fLXk1cWxlR3d6ZXlqQU9Wejh5dnBEekRwbFVjbk9kSUxEbUZfVlNPd1plUnQ5U0h1LTVRY0h5ZTNVTmxFLUxRaQ?oc=5",
-"source": "Notebookcheck",
-"published": 1793793600.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "0b45c61a1889ecc9",
-"title": "If a Stock Market Crash Is Coming, History Says SCHD’s Dividend Grew Through the Last Two Bear Markets. But Here’s the Catch I'm Watching.",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOZEVFRzBVZnhXTGhuNjJRMGk5Z0ZuSmRyVEJsZWJDZ3pKRWlMdUtsbG9MOEpsZ2FFOVNVcmlod3JRdXFCMXRfSVd4MmlNblpSbmU5X2xXbjNDQ09WaHBLcFBrUUV0ZGJWZkx3ZlBpWjM1TEZLSWVrS0s3Q3RqVHJLVHNlSVBUMTNraE5ZZGQzeGpMZUNzX0h0TTZ1V21lWGFRaUN3eWZzQ3FYdkdXMVpzM19jN0NHNEtUZ2lFRHlocHFOQnZaZTJhazI2QmJXNTQxaXlkS2swQmxxVFoyZlUxRXZ5UnFfOFBNUzJxRnJfRU94cVZpMS1zRg?oc=5",
-"source": "The Motley Fool",
-"published": 1793793600.0,
-"stocks": [],
-"keywords": [
-"stock market crash"
-]
-},
-{
-"key": "d46100f0c9bb5e64",
-"title": "Tesla Shares Fall 4.5% as Democratic Midterm Victory Raises Regulatory and Merger Concerns",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZkdvRV9IeXZkckJIbEdWY3ZOOWdTVmduVDNrbUYxN2hBZmxkeHd0U1lEbm1aTEtJMjd3X3MydFc0Vm1TVGdqS1d3dHBMQjBsRHBrTXRJS2VEU0pVZmtlUHJnWnF6enR2dzRhLWxsVkNuc3ZQQTcxeEJyMVJaQVk4VkhEME9lU2pSTDJoQjg3NA?oc=5",
-"source": "Yahoo Finance",
-"published": 1793793579.0,
-"stocks": [
-"Tesla (TSLA)"
 ],
 "keywords": []
 }

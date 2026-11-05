@@ -1,5 +1,5 @@
 {
-"updated": 1793901932.4962342,
+"updated": 1793905205.8227215,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,12 +73,281 @@
 ],
 "items": [
 {
+"key": "d2e2f319f408d23c",
+"title": "Nvidia repeating Cisco’s fatal dot-com playbook, George Noble warns (NVDA:NASDAQ)",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOV2JuV1hwc0t2djYzNzBCX3VEOGVUdmMwQk5QXzQ5ME1rejRvWGZIc1JuZXEyOTNpRmxicTdSZ193OXQ2VkNieF9kVkE0WGhuOGdDb3kxZkd0cnhaOEJUUXVsdi1tdHBoWFhDZFpmVjFSOHhGdUt4djZjRk5VWkc5cDVrTnQ2RkRXUTdDcmhNLWl3aGpSUzFKajB1MmpQajBKZXI0bnBsVQ?oc=5",
+"source": "Seeking Alpha",
+"published": 1793904602.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "cbaba14e675c53a0",
+"title": "Tesla and SpaceX brace for political scrutiny as Elon Musk is targeted",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15Q2lNdXJ6NHA3ek40TkptNlFkWnF0dlNSa1h3UDRLTzlZUTRiNXVRVHlManZJN1RiMU5sMWtfZVp4dmt4VGhIWW9BQjRWd3dWRnZHSUcybFl3Vnc?oc=5",
+"source": "Fox Business",
+"published": 1793904299.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "5de1bd615cc4f781",
+"title": "Key Republicans seek briefing from Nvidia CEO over Chinese spy allegations-document",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQjhHVnVoZHd0TWRJbEgtQU45M3Fac3U1ZFBza1Nwa3F5Q3lUcHFFVnNBVVBZMGxvUWstSTBCRW1BeEstVlNjVDNDVzY2TWZTMjJRUzZDRVRBbTV3VFRCb3F0Si1zOGpxWl8zaUk3bjMtN3V3eGhlejM4WmNELWNnVXVkZFdscnJhT21ybi1RSFNmTGRnMUlpLWZ3Z0pNeVNpd1p5LTVlZzMyd2VTcXdaYTVXTnJHNnNNUnV2cHZhRmM0clBaZVJidmJwMGNPUGMwb0E?oc=5",
+"source": "marketscreener.com",
+"published": 1793904151.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "7b6111035ae1b61f",
+"title": "Jim Cramer Says Nvidia Should Buy Shares on Thursday’s 8% Drop: ‘If the Cheapest Asset is Your Stock, You",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQWkRuMV9oblB1b3REbi14WWxUeXFPN1ZXUFQ1VkJVQ2FMRHhpQV95QXBYMEhId1VvZ20zVWh4WmZNOWkwbGd4YXphbGVfdW4zcExXSGY3eWZYanI3Q2FJRXNzT2pRdThVUk45dUlTUUR4RkdBbEs4ZjU0QUFRb09nRnZRQVN6STkzOTZXbExza0hEdW1jMDJObkx3RlpaZVRwN2JRWllyMWt6Z2dtS2NtS3BTVXBaTWZUV0dvYkU0RnV4Rl9jem04NTFGMUxGMDY5NVVzT0R5TVlPTE16NDRCRmFLTDZsaE1qZHQ3M3BQUXpHbjNweExHVDRmY0RJZF9meW9uTDh3?oc=5",
+"source": "Benzinga",
+"published": 1793904128.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "c4f6b02052cdf28d",
+"title": "NVIDIA will quadruple the speed of DLSS 5 and add RTX 40 support by the end of 2026.",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdFJMdFRTNExoQmYzamdZZ29XYXhwU09teFdoN0JJQ1NmNFZ6ZFRFQ2dpZVplY04zSXFueGV6elVLeTFIckctakdQMWxadWJOVUJnZjF3cVJvLWpqOTNwbG9fT3VVUjU2MS13VmhZT1JHSHdwbUFWdU9fV1YwT1NycnduOXhZVE9sX2VTZmZhWGtoVU5MQk8yMzJtZkFUcHlPNkdnajczVXotMlVPRXk1NXpNeU1pVFI0T3NB?oc=5",
+"source": "GameGPU",
+"published": 1793904075.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "ba5544152f3dc6ff",
+"title": "Tesla's Kickflipping Roadster Looks Like A Great Way To Lose Your Lunch",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMickFVX3lxTE95OTRCeHlEOGx6TUc0SHBaVGlTcVZRTjlNVU1LT1l1ckpNLW9FTjJIQ3ZiVnp0dlBGeFBDdS1MY2xZa2ltRXJ5RUxWX3BZcmhKRVVjclZERFFrbEstclRZQVZGaTlpRU9mLWhnUkZMcndJdw?oc=5",
+"source": "InsideEVs",
+"published": 1793903820.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "51b40685ef49ce7a",
+"title": "Nvidia Open Models Help Developers Accelerate Science And Engineering",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPU2N2Szl2OWJIUEdCYUc1TGhPUkkwVkJ0d3RyNkdGcUhrWEFOTGVzTkEwSnUtOXU0VmdBS0ZMZlU2QlNZSHgyM3NIaUxjYkxQcVpjMDVsRjF0VzAxZktXZ2dld1BHWE43elRlZ3p4cWN1S3pZTW9PUU5LVzdacm1VOC0xanI4SG9nUmJPS2pkT0pSVWk1bV9iSlZ6c3NBNlNzelNMbldvRlN2WmRVZHFwRzdoVHJCVTdWQ041eUp3?oc=5",
+"source": "Forbes",
+"published": 1793903590.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "d20b8e5c50dee207",
+"title": "Nvidia Open Models Help Developers Accelerate Science And Engineering",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSWNCNFJacXp1UmVqR2cxWUhSZW13TFFyQkgyYXluaTFZT1JUQVdtcHppQnpBczM4MHlMRHJpZ2locGNlNVp3X21PMnRua0JHM21HLWk5bEJocTJ4Ymk3bEloV0xZcDVvbzZhZHFSTXlNNDVEM05wZVVtdnRxcDJ5aDNEMDFvbV90OGdJT0Zla216QkR5bVJN?oc=5",
+"source": "Yahoo Tech",
+"published": 1793903590.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "64441aaf1711a47a",
+"title": "Tesla wants its sworn Cybercab answers to NHTSA kept entirely secret",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZ3dxT1laZVpiN0MxSzNRM196aFJ1c1NMRlNia2pGTS1xTzZ3YUwxbjJTU0lSVjUtVTZjMWdJbW1vcHhWQkd3WVE5azlmbUM1MEhzQ01UcHdnYktYcDhpa19FYnNXVlN2d0NOcmJBSjY0QlRab0JSZHZmQVh3ZGV4YlYtQll6dw?oc=5",
+"source": "Electrek",
+"published": 1793903520.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "4b87d6532b71bf5f",
+"title": "We're dipping into our large cash pile to buy this bank on Thursday's sell-off",
+"summary": "In times of market volatility, we like to fall back on companies that offer consistent capital returns to shareholders.",
+"link": "https://www.cnbc.com/investingclub/2026/11/05/were-dipping-into-our-cash-to-buy-this-bank-on-thursdays-sell-off.html",
+"source": "CNBC Top News",
+"published": 1793903361.0,
+"stocks": [],
+"keywords": [
+"sell-off"
+]
+},
+{
+"key": "2da865d6b8a4df65",
+"title": "Tesla sinks 12% in post-election sell-off",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcGtGSGlnWmlZRVRfZkJnc2x6TkZwcUlLVU9mRkhYMDdoM2RFUHBpT1hIdTBSbXNadm0zWFc3czBFVjlrY0ttaXpKaWFydFRTM21rME5qSUxqWVZiRnNXVkgtOU5RNFFjcEtKUERKZlFBdU1Bdk1EcFpjSDVQTGZUWkRPdnV0YndoZWliR2xB?oc=5",
+"source": "Breakingthenews.net",
+"published": 1793903280.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": [
+"sell-off"
+]
+},
+{
+"key": "d7fd424da6104d1c",
+"title": "Don’t Rush to Buy the Dip in Neocloud Stocks. Microsoft’s Cold Feet Could Be a Bigger Problem Than the Blue Wave.",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQczVpYWczRTB2c1pvbEY3bjNXd20zRGFJWWx3OVBROU45c1Zpd2ZiMjBoM2prNndDSlkxajV5UjhqS1ZyQUtXQVNYWDN3YkJFcWZEUk9UMmtYNXZBVE16Vk5tejJfNjJLX2QtOFRyMkF5ZFo1WGFzNnJUMFI4ejRYZUZyQUNFMHE3Vnk5bENXUFVOQTU2a1ZNQUdtckpiQy14Sl9LWFJRaTVEM3oyUjNlYnNHWGt6aVdpM2o5TE53VnZHTGh0NDJ2VXZaT0xVeHFJd25xN3VXRnhJc0hnNTMtdndic3VXaVc1?oc=5",
+"source": "Barchart.com",
+"published": 1793902776.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "e3313dde3f681ef0",
+"title": "Prediction: A Stock Market Crash Is Coming. Here Are 3 Safe Stocks to Buy Now That Could Help You Protect and Grow Your Wealth.",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdFJ4SGtsRC1rVm9qeFFMX0tMOWoyRVNsQXlVbGxXSVhkVmhGeHlfZjdQT1FBZW9pU29ZUFlmN2d3amlYNHp0dWpKU292V3FtSlI4Ym5PamdFUmQxcHA3T0F3Qjh4WDU0RkxMWmFaUUhoWU1oNkszZGpWejRBQ1Utb1dHTTFzSDhFTHUzLTJPQVNjLVl1a2c?oc=5",
+"source": "The Motley Fool",
+"published": 1793902440.0,
+"stocks": [],
+"keywords": [
+"stock market crash"
+]
+},
+{
+"key": "f9d35514c3577180",
+"title": "Not Nvidia. Not AMD. 2 Chip Stocks I'd Buy Before the End of the Year.",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbk04S2hZZmNzbEVxTWY5ZXh5ay1DX0RNRExSN1l2ZXJYMHNoTy1qcU5oc01OSWpvY0kxLVdrTjkyQVphUnZZdTZ4dFdmRThicUZBUHhhd0FpUEhERTNPYnplSk9meC1Gd0lMcHVlQ0ZpQVNlaUEyNHpJd3pBUk5lanZUWjM1LXVQLUI1M3RqY2d2SGZx?oc=5",
+"source": "The Motley Fool",
+"published": 1793902380.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "a3f77408ad85b300",
+"title": "Tesla, SpaceX Continue Postelection Plunge. Dems Pledge Investigations Into Trump.",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPempFSk00M1pWQWxDelBNV18yczluNDlpX3lMM3RiXzhJU0hlLTZ1bE81WE5ES1dPcGphbi1oXzF0MExNNThuemZXSW9HaDJPVTBzb0VwQkNRTENnQmpzTUxkLTVBQVR0TWsxaF9NWmwyWjB0aWVzbmpjVG1IOHRNeXFzcw?oc=5",
+"source": "Investor's Business Daily",
+"published": 1793902200.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "829a6927b376eaef",
+"title": "Trending Industry Today: Tesla Leads Losses In Intelligent Driving Concept Stocks",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQS25pS29JUmF2WVZfRThMM3RWa193Qy1GYnRuaTBVakpJaHBGNld4S2VleHlaRGYtV3FESWxRc09mXy1PRVk1alVsQWtyLXlRQWFMUXd5bENfTXpuenpHVjhRelMyTVNrU05iaHdOd0J5RV9UaXhWcnNobWJYXzFTcG5QYmliSWFiXzQ1WDJzZ2lxLTFQMmdwdHk0MFB0REpGSnBfaDJsa2hieEVoYmZHXy1pVTdNanhB?oc=5",
+"source": "Moomoo",
+"published": 1793902200.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "24b81d05a991ba4a",
+"title": "Stocks making the biggest moves midday: Micron, Tesla, Tripadvisor, AppLovin, Nvidia & more",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQ3FKb0tTczRZcVFtbklBaFp2WWFCSU5zR1h3UEdPSERONW9PYUFhMmZ6aFV1U0Eta0ViYV9mM1B4NWVBTU9ELXByNm9aNVVYaDBhQXJtN1dDTzRzVUMycTUxaFA1aUw4aFE0Z1RrRDhtT0NLbDN3R0I3ZVY1OW1qaG9BUF9QLUFCampwdVp0U1RHUzRIZ0R3eFB1d2Z3Zw?oc=5",
+"source": "CNBC",
+"published": 1793901989.0,
+"stocks": [
+"Nvidia (NVDA)",
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "d11da8a92252fd21",
+"title": "Nvidia, Micron, Intel, Sandisk, Palantir, AppLovin, Qualcomm, and More Stocks That Explain Today’s Market",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB2RFIzSjN6TkxHa19nekswVTh5TDlSRGJQYU41TUJGcEVFT0p3V1hMblppRDZFNUxqMWl6RzByOFRXRHNZX21EajJPMDR5Yi11T1o5eGRRdlJkMk1wNW0zTWl3YVM?oc=5",
+"source": "Barron's",
+"published": 1793901960.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "91fd6b4aa7e0d651",
+"title": "Microsoft Reportedly Steps Back From Renewing Data Center Contract With Nvidia-Backed Nscale",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTWNPVjRQUkY3M1RtSzc1aDZZbFQ0Sm5Eb2RQVFJEQzhhcTd0NEM1Wmwwa3IwSXB2TWVPTVdlYWJaWFNVWTRkdDFSVmhlaGRLRTJ5MkkwdGs2SUUzTllUV1Y1WGVrc2FqMnNNS092Wm1TWWlsZXhqcy1mSTkzN2tsSjZMSnVFWHU1anhLQXB2QjBBT2NwS21VMXlDYzQxM3pWSmhoTjRvQQ?oc=5",
+"source": "Yahoo Finance",
+"published": 1793901898.0,
+"stocks": [
+"Aker (AKER)",
+"Nvidia (NVDA)",
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "589e9b3a6ffa0c61",
+"title": "Introducing Our Tesla Feature Requests Feature, Where Owners Can Submit and Vote on Ideas",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOV1FPRHBDck5ERjlzWFlJRlRvTDRpZnJ4RUNFWnZLX3ozMkxpSUYtelk5bUEwaDJNMjMxcmd6LVIxUmxYWmJ3MHluRzdOdXV5ajU3U2szaXM2QUY2MjlkRkdXV0VyZlJmVXF2cVhRZkZEdktMekVBVmJzdWFqdTNCeHQwNVhfZjhacXVzMUNfajdUcWdJMlhxODFHSU9nSmdCYnZfdDNOazRUM243d2JWcWJuQ2pieHhjazk2VkNUQWJvUW8yZGc?oc=5",
+"source": "Not a Tesla App",
+"published": 1793901780.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "984898923366f89b",
+"title": "Why Is Everyone Talking About Microsoft Stock Stock?",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTi1jNlNWS1RmTUJ2T0RkU2NnTjdLeXpidVBPaGRjRHBmZ01VX3R4d3dNaXNLZzNRelU3MTM3NTRPbmVWWVpsSmVwVHdyV1VvTE54a09YSkZKT04wT2xxTm9WMDExTHhLTUp5Z05SMmZ5UXBlUGFoRDdkVEx5OXN2S3pGS2dtTGJTSzU0c19YSjlldjFCa1dmN2pR?oc=5",
+"source": "The Motley Fool",
+"published": 1793901720.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
 "key": "0517e27346a7b2bd",
 "title": "Windows 11, Microsoft Edge Get a New Discover Feed Experience",
 "summary": "",
 "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTnl5bzVtTnpfOVF3RGIyS01kNG5qNGpCWjdENVg3ZWQ1RVM0b3B3bkh6cWFiLUp2c2xuSno5WjZpLWQxbzh4UHVVcnRYUUFsRUFYS0Itek1fNU9XQkNzaFVQQVphMTFGZW1nVTNENk1ZaE96REJRYTJpZjBDelZvcFQ2Yl93OF9GVDhWNXpMenNVOElTUGwzM0pSLXBJTW5uMnlKdnkxV0M3d01mc2dreA?oc=5",
 "source": "Thurrott.com",
 "published": 1793901600.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "54a505f954e360e5",
+"title": "Why Microsoft Stock is Down Today",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMDZzTENpVTlMbVJ5WVp6clJ4d2dmcU41U2VXTDJfREk4TEFjUHhTQ2NnU1dYbzBpWFBLRmMzd0JJSE51NnE5UFlaYlY1RjJVMHZETkhISDFjeEltc2RnMktKWDhtTm1fVnJCb0k0eUJfMHp6dE5ua0ZUYWhuUlY5NFVBcEx3X05SXzFIYkhzcHFUY2xvTE9BUw?oc=5",
+"source": "TradingView",
+"published": 1793901553.0,
 "stocks": [
 "Microsoft (MSFT)"
 ],
@@ -97,6 +366,30 @@
 "keywords": []
 },
 {
+"key": "dd6a1d3deabcc59e",
+"title": "Not Nvidia. Not Micron. This Dutch Company Controls a Key Bottleneck of AI Chip Production.",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQX2tUY2drclV4cndQOVJyMll2UGYzSFd6TjJHLXlJblF2bnlGR09jQXdyaEgwV2FHQTEtY25MMVA1WVNEZE1RSjhJSXd0OTljY085eWJvMWNUXzh1MktHMGRPdS1YMXVoS2NkV0NpQmRjUlJpcWlsa3R4S2JwQkdOS0VBVWNWc0VaLWJvaVVKV2QtQm45UWc?oc=5",
+"source": "Yahoo Finance",
+"published": 1793901420.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "6369af9362505db5",
+"title": "Not Nvidia. Not Micron. This Dutch Company Controls a Key Bottleneck of AI Chip Production.",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9GemlhU3hESUZZZ0tGaExjbFBZak1SbjNDQURSejBkOURYLVpIOXA2eDR0cWJNZkJMcC1pTmpleG1BRUk3OVZpMnE2UnlpZHpUaWJHc3c1SVQ0Qk05cFl0eFQ1UGY3UEdzdnU4YXJRbVZKNlBrN0o4b1FSSQ?oc=5",
+"source": "AOL.com",
+"published": 1793901420.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
 "key": "2335c35bdea710ba",
 "title": "Nvidia, Micron, Intel Plunge In Worsening Chipmaker Selloff",
 "summary": "",
@@ -109,6 +402,18 @@
 "keywords": [
 "selloff"
 ]
+},
+{
+"key": "d9e181f19e064b01",
+"title": "Microsoft unveils redesigned Xbox PC app, already 60% faster when launching",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNT2pnMk5taDEyeTZ1SWlRb1lGOHZ1c2tfNkF6NkF4dFJGZXpzaE9vdG1LWFNkSUE4VGlBVjV0dEtCaFhSNXZHSzJqTzZiNHlrblF5U0VjbFRPbDRvbjNLYzlXTUx2cExOUTB6TkpxYzNHa2l4WWFrQTBDMjJVaFlxNUtYYjdhQThfV1dNVFZmT01EMU9rWE1BZTZBc3kyb3VLX0NyUg?oc=5",
+"source": "Neowin",
+"published": 1793901120.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
 },
 {
 "key": "042c54bfe97b07be",
@@ -137,6 +442,42 @@
 ]
 },
 {
+"key": "9862c47a519aa090",
+"title": "Why Nvidia Stock Is Getting Punished Today",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbFB5TmFOS1JyNlQ5UVA1OE1uaEpkY0tfZUlVX3J0NnN0MFA3SUxJSlM1SU9LOXl1NjFSaXRLZ1JicjJudEQ0dHMwcGY3cjd1Z0pfekg0WHhxSkFUazhkcEZvTFFiVm1pMjBvZzgtZmFDVFFhLW4wZFY3QTQzSzJCMHJJMXhHU2NRQjYyQTBkN25rcXRLZDlhYlBOYWlKX3M?oc=5",
+"source": "Yahoo Finance",
+"published": 1793900837.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "b85abf0bf3e637d6",
+"title": "Why Nvidia Stock Is Getting Punished Today",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWE1rcnVHRHZ3c1NJdGh0eVptTnlPcjdoY1ZQSjNlemkxR1p6NmlYbGhMYTFMa3BHRTZkckxGcnBHUG5JVW5jM0hHUjR1eURrWS11Z19ZU0RRd0Vhb3doNU9wUkNMdGZpbEpGRUVUSklOc3dIRDJmVXc4Zzl1Q2lhQWs5RQ?oc=5",
+"source": "AOL.com",
+"published": 1793900837.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "20332e4e81bc529b",
+"title": "Box Expands Partnership With Nvidia on Enterprise AI",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaUJuQVZXMzExSkFkdlQ3b1ZjV0lrd3ktQ3pKYllQUXdlSVlEVXpiQ2wweWxYWVJnNXdPc2JhZ0VkQjZWVXVMb2ZCcWJObU40c3RUZ1Vxak1ucEgzRnI0MnNHWXJsYWN4T2RUOWJHVFpENFhWS01RdS1NMUtIZjQ0eWVqeW5LVmxlQUZZVXlmWklXZmc3c2NpRURPLUt6ZHlCOEtYM1BzdWc?oc=5",
+"source": "marketscreener.com",
+"published": 1793900790.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
 "key": "89c0ca58ef3f906e",
 "title": "BP-salg sendte Aker BP kraftig ned på Oslo Børs",
 "summary": "",
@@ -145,6 +486,19 @@
 "published": 1793900736.0,
 "stocks": [
 "Aker BP (AKRBP)"
+],
+"keywords": []
+},
+{
+"key": "a6f533d8c9eb07e6",
+"title": "Microsoft Declines Texas Data Center Contract Extension With Nscale, Tightening Data Center Oversight",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxORGhkX2M2LXN4cnZEMnRJUWViRlVsUXRjNjNiN2E2bmE1QmlOdFN4Rm9RazU5WE5sdmpjLU43QzRReUtiV1FtMk1OandPU1RXT2c3UTdsckZRdzRZYWhGamNyMlN3d2xUXzhjUk45TWo3TEVpNk5teksyYkJaMFFFOExqc0lYRXRJUGJhVU14MS0xX280Y1VOUmhfN2dmZzJDYy1yTFFfcVlMSUl3cUxGU05oRXdBejRVZ1F4OXloS1hLVDNid29rV0JMZ3RVeVUzelRkc0pWVC1NT1h3Uk42QnVHVjhyMWs?oc=5",
+"source": "marketscreener.com",
+"published": 1793900733.0,
+"stocks": [
+"Aker (AKER)",
+"Microsoft (MSFT)"
 ],
 "keywords": []
 },
@@ -245,6 +599,18 @@
 "keywords": []
 },
 {
+"key": "00a341f30c11714d",
+"title": "Microsoft tightens oversight of neocloud data center projects, Bloomberg News reports",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNN3JEaDIyQWdtUjE4WnR4dlJyejJ6SnBVMHE3ejFuWlRmdkdBeFBTUWNURmpFdjVERzNmd3BlNnZ0eHJPYzNmTVhUS2JvX3NXcjhJamRnSXg1aHhZdU8yczEyb1ByWUhUQ3M0MHFzUjUxQ3BLYS1yVUlfb2dfbGVoRVVkT0owSXB2RXEyTWZ1aGQ1UnV3Z1hITldobTc3dDhaRVdnSm80Si1yeFlDdnlWdFNOdFhGMjRxc29fdDF3bFFkbFM3SW9GZW1iU2dLT0ItN245WXAxRW5WUS04V3BPTFU2Z0tuU2QyRkE?oc=5",
+"source": "TradingView",
+"published": 1793899634.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
 "key": "7a62e285919979b7",
 "title": "Why Nvidia Stock Is Getting Punished Today",
 "summary": "",
@@ -315,6 +681,18 @@
 "published": 1793898840.0,
 "stocks": [
 "Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "c3c43de1ef750cf8",
+"title": "Microsoft Just Walked Away From a Huge AI Deal",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZXI0T21wcGxFQ2Q5c0VGcE1laWxiQjQxMGFpQkJRX2oyQ0VmUnRNd050TThCNXJNd2hkamNIekRiZmxvNy1SNkNkMGZ2RDFicFVONDE5SnBVWEZybjRpejVMM19QdXAwTDVUbGJPZzREQ2RqSEZ0TWREMnBoZk5US2VpSFZpU2RraTNSRXVhaXk5Nk00R3podnhxcGFOamFaWVdQdmYxcjktUQ?oc=5",
+"source": "TradingView",
+"published": 1793898821.0,
+"stocks": [
+"Microsoft (MSFT)"
 ],
 "keywords": []
 },
@@ -791,6 +1169,18 @@
 "keywords": []
 },
 {
+"key": "34179955c1a36d1c",
+"title": "Traders watch S&P 500 circuit-breaker levels as selloff deepens",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSWdaak5OUk9Sa3ZNdlpJMjI3RkkxaUNGdkJ3d1pYRDE5YWstUVNzbGRRMHJlX0xPYkY1VXVpMkZpMGdlVWpZLWF3amlsaGFMTmpOTjRGd3dLLWZ2OEpGSXA4Y0huSHlvZ0hiMmFUNVpQVVlvaW5wRjJPZU9QMlNxN1h5amJVb3pPT1lOU2hfOXpZemNVdEtr?oc=5",
+"source": "Yahoo Finance",
+"published": 1793896092.0,
+"stocks": [],
+"keywords": [
+"selloff"
+]
+},
+{
 "key": "4a76ec966daa2b81",
 "title": "Microsoft Stock Has Gained More Than 50% in About 4 Months. Here's What It Has Usually Done Next.",
 "summary": "",
@@ -902,6 +1292,18 @@
 "keywords": []
 },
 {
+"key": "f52d69cb5fbcd08f",
+"title": "Nvidia, Municipal Leaders Frame AI as Critical Urban Infrastructure",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPT2JRUTdENHBabzQxd0xVNzhuN0hJNHRrU19WRXBvTU5abkpyMTcwUFJsZnlTX2hDWlZLTE95a2tGbmR4UTkzX2VPVXo2R2lwM0NjTF9iQmRCTTRUSVFvOXRNTE1KSjdncDVYQ1BSeVM5aHgydk1FTndJazVES01VNjR5Z0hSYVdIc2RCX3B3cEthQTJTSXc?oc=5",
+"source": "EE Times",
+"published": 1793895076.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
 "key": "2968c9b089abd71a",
 "title": "SpaceX and Tesla Sink 9% as Texas Election Fallout Threatens Musk's Data Center Plans; Rocket Lab and AST SpaceMobile Tumble 13%",
 "summary": "",
@@ -998,6 +1400,18 @@
 "keywords": []
 },
 {
+"key": "7ed8baef58de50b9",
+"title": "$Tesla (TSLA.US)$ hahaha I had told you guys to sell yesterday 😂",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPM243RmpEX2wtdWJXemVZdjJjaWZoRllUcFVVM21XdkIzLTR3OVNRWWlRZFNsZVhpTjBrUElYVEd0VXEzekp0VmdNZ3Y0QXB0cERIWElKdjdoN0FZWGFTZFZLcTFHREdxRV85SXFkWlNmbVhxOUkySzYySGZVdHpyQy1RZ2lzYU9kS1hyZTB4OUtEeFlxTVFlUHhCaDZ5UQ?oc=5",
+"source": "Moomoo",
+"published": 1793894458.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
 "key": "deae7d6cce873d58",
 "title": "Runware expands engineering leadership with senior hires from NVIDIA, OpenAI and NetApp",
 "summary": "",
@@ -1016,6 +1430,18 @@
 "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUTR2cGs0cFlMMmd0Zmx6SjMxblBNUWJVajQtQ2tWaGVyeEswUkZvbE5NeEwtSzQxVlNodHFjalBvQU95TW5UcG9Ja3FTMWRHZEplcEFCTFZNcEhiVFlUNHVVaTlJQnpsajNUQzFIRmhJa1BsQzItMkNfZndsdHZBenV3U3lIcGtsVllpZEp1NDkxREJsd25qd3kwV05IekQ4bmVlNkxZNzc2VnRjYTBIWWJ1Rm8?oc=5",
 "source": "Bloomberg.com",
 "published": 1793894416.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "1e547e9c60938601",
+"title": "Microsoft Hammered by Google Cloud, AWS, Oracle on Key Growth Metrics",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTXZsVHYyVFQ1M1hTWU43T2g4UHNBWmxUcEJHOEdOYXM2eG9XQ05MUmVIN05YTW1ESUJRQWE5bE1odnQ2ZTlPWVlVTFcxOGRUUFA5NkJwUEFhd2lzaHNVakpTZ1JmQ2F0WUV0UmktczVJeThRRTFrOE5JNUhqWlRNMjAta25FZ3QycDMzMENCLW5yVXFKdml0QQ?oc=5",
+"source": "Cloud Wars",
+"published": 1793894400.0,
 "stocks": [
 "Microsoft (MSFT)"
 ],
@@ -1659,6 +2085,18 @@
 "Tesla (TSLA)"
 ],
 "keywords": []
+},
+{
+"key": "3f09a548b6076a94",
+"title": "Stock markets diverge, oil prices rebound tracking Trump and AI",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQm1kWHpYVkZ5XzJpMDB6MUZ4X0l1OU5xLW96RXBmVE9lZHd5N1ZjSXhvcHNSZU1hZm5ZZFZFNlk5cWVSeWZMYUpoNGhaYV9KVkpfQlJLOW5LbTFmUEpQaHF1YmVSTDZYWk9ESnJnVnRqLTlLejhOMGR2R0c1ZWRoN1hCMmZ3NWlIa0YwZVg4N24wOFQ1MnNJ?oc=5",
+"source": "Yahoo Finance",
+"published": 1793890318.0,
+"stocks": [],
+"keywords": [
+"oil prices"
+]
 },
 {
 "key": "fbba960206116a7e",
@@ -4477,440 +4915,6 @@
 "published": 1793868205.0,
 "stocks": [
 "Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "da5ed4ba163c6e95",
-"title": "Microsoft releases major Intelligent Terminal update to improve multitasking",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdEU5cURRUGkyNW9LZVpRUlhEVGFuZUR6Y0pOc1ZrTmdTbk53WXBVVkJnZVk1MmFSXzZEMmRGU1JFWkphS3BTODVFNVJFSWlmUUFsOEY4ZHIta01CNHlueWp0Yk5veDc1MUpzTUpudHR6T3B3NHlLVWlkZS1rRTk2OGwtVnFPTFF6QlZSOElrM0dXZGJraG4weFNpLXNaYUlmQlhaVnl4cHE?oc=5",
-"source": "Neowin",
-"published": 1793868000.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "a67fea6d6ada8e56",
-"title": "BP raises £785m to pay off debt after selling down Aker BP stake",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOanVPLTJac21UYTcwN3FjTFN0NkliWlJ6VWVYOWV6T3hHcTd5R3QtaWpVVlNsU3NHanZmUHpuLV9tSmxYd095bFRpYUt3N3RVejZiWXFkbm1sRl9vVTNpbFVmaUs5UVlGYnhhVUtUbFlvU01XMXNSbVBiWGM5V3prT2RDc1hHUUZQMWxsVC1rZlk?oc=5",
-"source": "City AM",
-"published": 1793867580.0,
-"stocks": [
-"Aker BP (AKRBP)"
-],
-"keywords": []
-},
-{
-"key": "4b749edf6cacce65",
-"title": "BP sells minority stake in Norway's Aker BP at discount",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa01fVnVtXzdpeEdmNm9Oc29ldHdXVGRLVlF1RkcxZFpPTWlackw0ZUFXLUF0UHdLTkJubjZ5blJzUkxaSy0td2RDMG5NSExXZGdPMkRCMEhmeTNIZ0xuSXNwMnJQTFh3clJSaUdDZjZtNkM3US1rMVdmQTRrd0V1MU43ek5VN0ViLTg3REZCRTFFVFZyYTBPME9zM0RObzlVdXpnQ0VZQVo?oc=5",
-"source": "Upstream Online",
-"published": 1793867434.0,
-"stocks": [
-"Aker BP (AKRBP)"
-],
-"keywords": []
-},
-{
-"key": "9314fe14dc27bb9a",
-"title": "BP sells stake in Aker BP for $1.06 bln to cut debt By Investing.com",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQREw2UXhSbkRpdWJwSXdNUWV3TzF2R1FiQVdKeVltYlRodEkxdHgyZklwZ29tTWtEWUIxMUVlSUdxYi1naHpWYzZWckd0bl83b3NfRXRIVFBuRWdBVVVTRllpNS12YWx0MlNFQ3d4ZXVDY04xQW5weXdEZVFwSWRUN0dTN2VmV0w0MkRvMWJnV3JsSkxNcTQxN21VZFJQUXdHZEhPWkQzWWo?oc=5",
-"source": "Investing.com South Africa",
-"published": 1793867276.0,
-"stocks": [
-"Aker BP (AKRBP)"
-],
-"keywords": []
-},
-{
-"key": "fb6c45bc86c449d2",
-"title": "BP raises roughly US$1 bil from Aker BP stake sale",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAxYWRSREpPQVRNbTBjY21ORzZjMUdTblJtbkdxU1VJdnp3V0ZCb01UUTB4LWl1M1B1YTdCZ2FwNkNSM1N3dWtDY3RYQk5fRW5B?oc=5",
-"source": "The Edge Malaysia",
-"published": 1793867085.0,
-"stocks": [
-"Aker BP (AKRBP)"
-],
-"keywords": []
-},
-{
-"key": "3115e1c4aacdd824",
-"title": "BP sells stake in Aker BP for $1.06 bln to cut debt",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSS1Uc2VsRUFhNGhQb09sb0FDZkM4RkQwZ2Rma2phX0xDWS1FNnFramR6UzhMNjBTT0xFdjVtMGNxS0QtR2F5bERycldPY3YycllrSy1vSEZqQmh1SVRIOWZOYjlPMkZDQmRwWllneTRlOUx1bWd6U2VMNzNuN0RySVZFVm1Jbk8yNEJXNFhfSXRvMEVEbV9YY1hZUEg1R0lJU1gybVMwZngtdw?oc=5",
-"source": "Investing.com",
-"published": 1793866917.0,
-"stocks": [
-"Aker BP (AKRBP)"
-],
-"keywords": []
-},
-{
-"key": "c977e65bb93d195d",
-"title": "BP Sells 5% Stake in Aker BP for $1 Billion as Balance Sheet Repair Continues",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWlZRQlotVm1qbGJ4WjR6M3ltMk9IYUF5X0NKSVJ1TEZxa3hEWjBVdGtfWXEtMk5tUktyakxoc2pkemFjQUdkTEZ6dXMwaTBUT3dSQTY5WVlEZGVxc3cxTktQU2xRWUpUZ3RNZVBfZndlS1NjVnZYV2hiaEtVaUltMnpMazBGakpSaEgzTlR5WWUzOEhQeXNtaVhsbTRpTGpRWTl4eEpRQjJldzN5QndGa3VNd2Y5RVFLcU11SDAxTl9ndw?oc=5",
-"source": "WSJ",
-"published": 1793866868.0,
-"stocks": [
-"Aker BP (AKRBP)"
-],
-"keywords": []
-},
-{
-"key": "98f71c4bcecbdae1",
-"title": "BP Raises $1.06 Billion From Aker BP Stake Sale",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNd0doUWh2U3A3S1EyeVNMVnlnVldQYmxTMk5HXzVWWi14SXN2TVZtVGE2M0RhVXlUZ0Q2b0ZPUy1pQ1QzM0g4SUFYOF95UHlZeE5SSHJBcDhuMVhiUVhDVEtJVHA4QUdYU3NJUVpUUUtGUHg5R2xJd3kybWx3dnF6dUxncEFTQQ?oc=5",
-"source": "Yahoo Finance",
-"published": 1793866839.0,
-"stocks": [
-"Aker BP (AKRBP)"
-],
-"keywords": []
-},
-{
-"key": "064bfdc9659a1314",
-"title": "BP Raises $1.06 Billion From Aker BP Stake Sale",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNk5hWUdBSFFVU1oxQ19JQ21BVzZEbGRHYm9DZHlqTkhKZm1Za1RPaXNCZUcyTHZFQkVNOGJRVTFaNW9wcXlISkMyaHlTVjZPUTltbWthdks1NFZpWVh0c1pPSXFUcmM3OGlZR040MXlwdWQzMUJVekdnNjFZS2hYUkZOZXM0MFVDVC1PONIBkgFBVV95cUxQdkNVSDhjaVhRQVlGV1ZYT1VxV0tjN0lpd3JmbS1yQUJidXcyTXBuR3JjOXJrWTN2MzhpMXJpVTFRdVVJTTRsLXRuNEFGMXdiWFBWdEtTREU4SHRoNzJITnhMMVFrUHN3ZndfZWMtNDlLaUFqcFY1bVBRekNfOVBQazRBY2hQdWMwaFoyVnVXV3hhUQ?oc=5",
-"source": "Crude Oil Prices Today | OilPrice.com",
-"published": 1793866839.0,
-"stocks": [
-"Aker BP (AKRBP)"
-],
-"keywords": []
-},
-{
-"key": "f1667d41978123b8",
-"title": "BP sells stake in Aker BP for $1.06 bln to cut debt",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORzRMdlBLaVBjSDFrMmdtQ2VpcUVSSXdHejhsNXgtNThQVXpDTmxROVYzdURrN1RfSmxmUklCcGRIYUpjWGJnV1ZPWVMzLTExSnF2QnJfMkhjZ0Rrb3F5OHFHUkk4aVpzWm41NUNqS3pPb1pVQkZKZjh4UzB1enNFejNTYmFSdVdyY3B3dVpxSFVxMjROakFrZUF4cG8xZHMwcjBmTXpKREo?oc=5",
-"source": "Investing.com UK",
-"published": 1793866800.0,
-"stocks": [
-"Aker BP (AKRBP)"
-],
-"keywords": []
-},
-{
-"key": "2c128d46e9983cd2",
-"title": "Aker BP plunges after BP's major sale (update)",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbGxLS3VqUkVhLTVfOXV4c2w0ZXFMbUd0QUhfYUwwZ1NXZl9SUHpmemp6bURkNVI1dHZyVUFpcXp6cEZVTHl2UU5pNVZZZ2htV3pnMkF0V0RPc2o3STJ6S1FNVGRud2lldGp2UjM1eEdUQ25kR0s2NWJUYURzYURMMmJXbHNoX0FOZWNzLXFKV19Ib3VydWtqUzNFdHlvdw?oc=5",
-"source": "www.marketscreener.com",
-"published": 1793866766.0,
-"stocks": [
-"Aker BP (AKRBP)"
-],
-"keywords": []
-},
-{
-"key": "a52a270138026b1d",
-"title": "Elon Musk’s $Trillion Empire: Is Tesla Losing Its Way as China Takes Over the Electric Car Market?",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Kb1F3STRsTmwza2dneGZ0d2tTaDhaNG5YVmJVc3FnS2Rtdy1sTnBhWmlwOVNqSW9PdEtnYzl6dXY5VzBTX1VJdWoyS3lNSnB2cUNJX0NlODV2NU44MXJ5NFphRFB1TnduT3NzMEtqRFVOQQ?oc=5",
-"source": "European Business Magazine",
-"published": 1793866736.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "51661db93d8a9a5f",
-"title": "Kommentar: Brent-oljen opp USD 0,2/fat siden stengetid på Oslo Børs",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPb0U4QzNaQU5fQm5nYnZsbV9DMXEyRnp6bFJyanRKRzY4Q3FQVHJXb3l4M3ZDUnhMbFN3dmRab3B5TkRiQ3hLNW5mVGNRT09xc2ZJb0N0OTRfMDZIUGlKX1JkV2o0YzllZE5pQ0ZRVWJKNlkwUkZiYzFCbkZmM1JZbXpORmtQRWhjR01jRnU4OUpUTTRrb3JqLVZrbXpMN1NZbnk5RXZRdXdHQkl4LVJrUWtmWGtPd004UUE?oc=5",
-"source": "Finansavisen",
-"published": 1793866640.0,
-"stocks": [],
-"keywords": [
-"Brent"
-]
-},
-{
-"key": "d210308663c52fef",
-"title": "Tesla Flying Roadster Demo vs the $25K EV [2026]",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5GOG9qd19DWUkzaV85c0tWYmF5cURUUnFpZldQUzlGZ1VxaUZYejI4bzhhQWgyek9INHFPU21OYXN5TU9rdWhMZGRFRHU2TmdzVU9PZkdXY1h2LW0xaWl0OWFfVUNaVU1GRmRxMnlqQlNTQ3ExY3c?oc=5",
-"source": "shattered.io",
-"published": 1793866620.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "c1281aeb83485eec",
-"title": "The merger between Tesla and SpaceX is expected to proceed in the so-called 'reverse triangular merg..",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBRRFRxSzgxVkp1WGF1ZVMwNHNoUURNaDNaRC03U0ZFM0lBY1FXazlSWktxbjBsRFhZVVB3WF9MRVQyWTgxZlFZc21vN2pzTFk?oc=5",
-"source": "매일경제",
-"published": 1793866577.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "9c70232f32f757b2",
-"title": "UK Stocks Look Upbeat As BP Cashes In On Aker BP",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRGgxcGdlcEJfeDF1d1VoSFpZWUZ3OHdIanpFbjV1TC1kczJOV3VMWFNzSi05MWEybjJXeDhndzlZRTM0WXA5am4tM2xnZWZqYWZ1Qm5qUHNoZE4wR1g0SXhfNVFXUURIV3NBekhOcHdZcHhNYkxSRGV2aEEzU1hmNTFWUQ?oc=5",
-"source": "Finimize",
-"published": 1793866524.0,
-"stocks": [
-"Aker BP (AKRBP)"
-],
-"keywords": []
-},
-{
-"key": "875a4a221041c0b5",
-"title": "Apple Inc. $AAPL Stock Sold by Cordatus Wealth Management LLC",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWkVVaTdBVG56b3NSRjBlLUpIdklzWFd2enh5OGhOWnh0bVRhQ1pYRzZqTElyLTNWVG5tSXhJSkJHSWZVNnZTcmFWbnZmc0tESUxGbGtQWnFqQnF6eVUyQUtVMzlMbDRiZGpSVHJxVDYzaXd6dWJzZVdQeUw0alk5MG5sNVZoaXVEVmpaMEM3QWUyTV90U0M2U3Z2NDZ1WjNtRG5sMnRiT1FncmlXSVB2cHBsdDNHT2J3eTFfaA?oc=5",
-"source": "MarketBeat",
-"published": 1793866478.0,
-"stocks": [
-"Apple (AAPL)"
-],
-"keywords": []
-},
-{
-"key": "29540eee3967d203",
-"title": "8,072 Shares in Apple Inc. $AAPL Purchased by Altium Investment Strategies LLC",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYl9MX2JpcWhtNTJIb3JPWFRhQTlRczgxVG9kUnBMdGJuNnk5UEVUS3lfYVRoWTRNdUtkUmwya1I0a09QejVTa01KWHdnTFJGMHVlRjB6Z1pRSjZVT2hfZFlxNy00aThyRjRUNzdHd0xfejJnUEFFcVBUX01aQUk3V1UtV0JRRk81WGFSOFJVMC05azdlZTlXeVNhMGhBVm9YejVsbldaMTZURGJvaEJVU2g4NVpydGN0dGFvVmFWaEJyVmtmTW5reUxSNDFBR1lpcUE?oc=5",
-"source": "MarketBeat",
-"published": 1793866478.0,
-"stocks": [
-"Apple (AAPL)"
-],
-"keywords": []
-},
-{
-"key": "554680532f9f8133",
-"title": "Oljeselskapa rasar nedover børsen",
-"summary": "Prisen på eitt fat olje kom ned til 95 dollar torsdag formiddag. I skrivande stund er det fleire større fall. Equnior går ned 3,4 prosent. Vår Energi fell 5,7 prosent, tankreiarlaget Frontline er 3,7 prosent i minus. I tillegg går Kongsberg",
-"link": "https://www.nrk.no/nyheter/oljeselskapa-rasar-nedover-borsen-1.18074278",
-"source": "NRK siste",
-"published": 1793866380.0,
-"stocks": [
-"Aker BP (AKRBP)",
-"Kongsberg Gruppen (KOG)"
-],
-"keywords": []
-},
-{
-"key": "bcf5489a519257ba",
-"title": "BP sells stake in Aker BP to “strengthen balance sheet”",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQX1FYaEI2YjlJdlRjUjdxNjlSOW5ya0hCMjBac3VMUHp4QkkwSy1JbzVoSDlDNzJ3ZFgtRVhVWFlxYTl1bkdEV3owbjlWRmpHem5HNXJIdlBCcE55UUV5Q2JfOUd0YkxqUHM2T0tHWWtXdGtpY3dzc2lBSld0cjhCNkVyRHlqOFAzd2h5Sk5Kd2FkcXFnMjQwWXdsQ0ttZTVUY3poMkF2MWE0Uzg?oc=5",
-"source": "Insider Media Ltd",
-"published": 1793866341.0,
-"stocks": [
-"Aker BP (AKRBP)"
-],
-"keywords": []
-},
-{
-"key": "60ebc67b6f84e969",
-"title": "Delhi Police registers FIR over alleged circulation of child sexual abuse material on Meta platforms",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOckFZQmZFbnFvNGJhYWVQNTVCYzNmX1BBREN2NXhBbnFOU2hFZkNnbXZTakpBTzFoVm96eEVPcVh6bkc3WlBUVHdJNTY5RF9IRjF1QnZLTXFYelF4cWZPX0RtZ1hXRjhVWG5XeE9BdGdrekw3SUVXalR5ZGcwWjgtUDlYdzN6Y2xRTEZ0UHdXb21NdmFMemZVci1oeE45cGItM1h2WUZOSWJvTDdJMnh1U0Raa0pkanlzNVNOQUdCZzgxLTI1elg4Q2VLZnVRRmc1N3o5a3hWUWJYaVZHd1k3VzFwbw?oc=5",
-"source": "Deccan Herald",
-"published": 1793866334.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "88b36cbe4f53df86",
-"title": "Microsoft Project Professional 2024 drops to $40 for a lifetime license",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVjA0NmRsTEpsWWM3S1JqVThxMGZlclNQNmpwVjU3YWxxVjVhblFabnZLUVFiRS1PUm5DVHE3WkN6Z0tvSE9aeFBoVDI3d2pvSkJjaTd1ME1ZTFR2N3lWN25UVlhLZnNQZlhZQmFyMDdxaGViRlRiNzVNVVdtSDh5UzhycFUzUFhPMlY4Qk43RG9DM3ZaTjZNSG1fOVJWRVZTRm1WSEZqT294MXk0OFVaaWRCbFo2UQ?oc=5",
-"source": "PCWorld",
-"published": 1793866280.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "12737421d67c7491",
-"title": "Meta Platforms, Inc. $META Stock Purchased by Choreo LLC",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdXA3YzFSYUo1bUd0SEVUZnpWb2M1WlJXTURaYVk3anNZaFFJakYzZW51YWIxbGExS0tLTXhzTUJiR0NsZ0lJTEdoazRCc0NWWmhzYnIyZThZc0FuTWFJUmk5bWFoT3VGNmFqUkxCaFNZTmMwYnNibERNTi1IUm1LMXRYZEFDS0g3bDBqTV9tR1EyNmZFem5HWmJVTnVUXzNUSHZ4eTBfUlZSTGpiYzh1S1JVNXo?oc=5",
-"source": "MarketBeat",
-"published": 1793866246.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "c707293107ccfab6",
-"title": "Meta Platforms, Inc. $META Stock: Founders Financial Securities LLC Raises Position",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVlk0XzhNdHJsX2lET1dFWGw5eDF6cWxlb3FOdmdBUlQwbzhRX0FwVnEtbnZ4bWg3NlBXaFcwUEZJdzlSalR4Q0FJRDZDODg3WjlHQW5iMkFzLVZtOHMwT2QwNVFIUmJkUVBhVmttYWszMk94OXpnSTF3eV9aNi1CYTBTRTZ3eF9WU3VTVGlrLXRNVzIzeFlfUlBicFdpOFZkZ3JFRDVXbVNNVGFCNzBoQWRxUExvckcwQ2VjVDVuenAwS3VrMUpZVnpJSFhrMEN5WFcxRlViOA?oc=5",
-"source": "MarketBeat",
-"published": 1793866245.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "aa55934aecfc68a1",
-"title": "Microsoft Passed On Expanding Nscale’s Texas AI Contract",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObGxJRTBKUVRHeEZ0N01haVBvOW1DSXAyeE81ZXBodk83Wk81dnZSWkFVVW9RM2ljaUp3M0x6cllvbHBOUDVaRnAzYXZFM0ZpMFQxeExVUU1UUFlTdEJCbGcxVzNXalpFZ2twZllhMzNWNlc0b041RU9wMXFWVFo5OTEybmhnZHNNMWd4UQ?oc=5",
-"source": "Finimize",
-"published": 1793865904.0,
-"stocks": [
-"Aker (AKER)",
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "07755f3b8a81765c",
-"title": "Aker BP og Aker faller tungt etter storsalg",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9nbk90RnFYal9TYVVVRHVWUXk3NlhkWnJubmxTaHM0N0JQblI1Y2xWWkJmQTBfMTdIZ2RsQ05GeUhTM0w5SDZDRWpvMmN1dzJKNEJISy15UTYwZElUMjhQUFFWZlRWT2NDWVZHd0NLNA?oc=5",
-"source": "E24",
-"published": 1793865665.0,
-"stocks": [
-"Aker BP (AKRBP)"
-],
-"keywords": []
-},
-{
-"key": "9c78aa9e732cfe38",
-"title": "Key facts: BP Sees $9B in 2026 Proceeds; Agrees Aker BP Share Lock-Up",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTVFWSnFzZVNfb1hzeTdqdW5maHRkeTJjRkluSmkxMWNSVHlVaXUwaVNtY0pqemFUM3BsaENKQ1V5YnJfLV9HREMwWWF3eHNRYklENkFwVXJWX1NJUVpxdXV2MFowUV8tTmZ6RzdKR3V4clVDdmV5QlAtc284bm5iQUlNVzktUDBHV3pIR01QSm5SRmRjdGhqeDBYZGJLcmpDVllLWFlzZGJMSGM5Z3FDUzFRRHR0d25CNHlwWmtNU3EtUXV5dm1V?oc=5",
-"source": "TradingView",
-"published": 1793865600.0,
-"stocks": [
-"Aker BP (AKRBP)"
-],
-"keywords": []
-},
-{
-"key": "4481642dbeeb007f",
-"title": "BP sells down Aker BP stake for over $1bn",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNMnRqQjJXSWlWQ21XZG83YzEzbVhFcG92Y1ZxOWl0UnFWbnFMSFRhVGo4ZlVNUmE5Zk5FWnd0cHBTRDY3cWNnOHFMMWZEUkt3c0NuZ2tSSlFGcWdQR3Faam9xUVhjVVVwRmFDUGNQdkJ1aXMyQUxsOThTYUlfSjROc1JBOW80Y2NwVVlFaUFUWVZCVGdPYVVOYjJyYXJFWmxyOTFQMU5zUXJzWUVwMXF6RUdlVFJtd3cxNE1DS0JjMVNkeFlTTUl2cWhiYWFoSUFuWkhSOXYyb2lPU1VIZXJ1V3F0SDZnVVk?oc=5",
-"source": "Sharecast.com",
-"published": 1793865405.0,
-"stocks": [
-"Aker BP (AKRBP)"
-],
-"keywords": []
-},
-{
-"key": "7c5bc0f9ccfb0d9f",
-"title": "bp Sells Aker BP Stake, Raises $1.06bn",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1LWnQ4VTR2X0dVVnFkNzRRXzRaOXVuQ3dGSGFiSFNHSXRrNDZkX09aZEZSSGNjX1RUZUY0WmpseUs1TFFBMTQwaXJubGlUNXVpeGtyYkJuMC03MnVlZXoyTjFWeFlVOVExdi00amNreEFzWXBuazZFTGhWeVd2QQ?oc=5",
-"source": "AskTraders.com",
-"published": 1793865321.0,
-"stocks": [
-"Aker BP (AKRBP)"
-],
-"keywords": []
-},
-{
-"key": "6569d1b200c15403",
-"title": "BP raises $1bn with Aker BP stake sale",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1jc1dETThYa3lEcmZsZ0hTVDZaWHhpTDgtd3ZndDM2RXdoUlZFdkkxODBfZXhMZEdOcktyVTBuUGxBaDBiZ3ZyZDdMODBGbzg5cFZLMm9BSmh2MzA3SC16eDB4TGkyUXdxcVU0eVRCZzBYQktCeWZjZUtGRQ?oc=5",
-"source": "Energy Voice",
-"published": 1793865166.0,
-"stocks": [
-"Aker BP (AKRBP)"
-],
-"keywords": []
-},
-{
-"key": "a6c6526c38cd89af",
-"title": "BP sells stake in Norway's Aker BP at 12% discount",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSmg3WmE2UWpNamgtN0w4cFo3VHFjRnphUjFheWlnelZ0U3FXNWJMYWpnOEpUTWVrd1BVdmE3MmZ4Q19tbnBjM0gyakNackxBSU9lOTNUckxTNVJweG00QURscFc2NEZEWVA0V1VnTmU5ZkNTRmNKTVZFcEFWTmdUSFdqRUlTbVF4alpLa2NrVElRRFUydlp3ZHNMeFlrTkE?oc=5",
-"source": "Reuters",
-"published": 1793865060.0,
-"stocks": [
-"Aker BP (AKRBP)"
-],
-"keywords": []
-},
-{
-"key": "3abdde2589dfa3a2",
-"title": "BP raises roughly $1 billion from Aker BP stake sale",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNHdmZEU5LUpBRXdjWVZ4Mk1wLWFNVHNJREhadC1GMmh0UWRxazJ4WlN0MVV3YW10RXZHRmxQemNueVR1VE9wZHhINDFrLTRCVzNhTUJwbGtrSzJuNndQQzQxMDJvWU1JQlp2QWoySnh6MWJwelgwZW9mdTltZktPakdFbVhGV3g2b1dpZVowLW1WVkQy?oc=5",
-"source": "Euronext Markets: Real-time Stock Market Data | live",
-"published": 1793864903.0,
-"stocks": [
-"Aker BP (AKRBP)"
-],
-"keywords": []
-},
-{
-"key": "40f6f44693532bd0",
-"title": "Nvidia Stock Price Forecast: Shares Hit Nearly Three-Month Low Amid Seven-Day Losing Streak, Risking Drop Toward $165",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeE15RjZPaGJYbVkycWczUU15MjFxV1FoYV9xclI1RVpOVGlHb1lESHlyYVV6LV9mRWpwdUJ3S1J5OFBLZ1NGS0JHanhoOEpzcG5PcW5ONGtZb25nVjNqaUtMQWVBYUtLTDZBaGpPT3BZVVFHYlFsaU9fYnFWX2tydGdVZ2E1RUtHdUFNYzU5OEx3TzlRSS1oLTd1T3VNMVl0WGlfeU5IbjZCaW5sc0laTFFoT0xfMVl2RlJHa083TXhBdw?oc=5",
-"source": "TradingKey",
-"published": 1793864896.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "172e6820a850633d",
-"title": "Musk Spent $474M; Tesla Fell 5%, SpaceX 7% [2026]",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPY2JiNlRzeU5sMGR5RFlldTBCSXRJRklEVExoQ29vZVEwTUh1NUU0RWFadVB1MGxINkZidkVhN043ckR4QUZlM3R4Si1MblQ5b0NaNUpKX3luZ0NrN3pzUUZGSTBmdkFmMEY2RlFkQ0VjQVlqMGg2RU1aTkxiVDFhODlQMVk2bmFVYlQxVXc0aw?oc=5",
-"source": "shattered.io",
-"published": 1793864800.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "50f000d4b1f08963",
-"title": "Next Q3 sales beat expectations, BP sells 5pc stake in Aker BP",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOFZzakV5VjJ0MmRQYUZkTUFaZThnSjZNa2FfblRnZGVsUTRlczd5WFV6Qkd3NUJBUlJrZ1owWEs1SU84SHBxUXBCQkhXZVhQT0ZOQk5ncGdDYWhMd2dSY3lpRXhGWmtRWWMxNUFnNlE2TjkzZ1dpYmFzazh1RzZsUQ?oc=5",
-"source": "Sharecast.com",
-"published": 1793864652.0,
-"stocks": [
-"Aker BP (AKRBP)"
-],
-"keywords": []
-},
-{
-"key": "cdb0534e3cef1879",
-"title": "BP sells stake in Norway's Aker BP at 12% discount",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeUp5WXczODJySjBiTnZRa29peWNmZDZ2bWR3YzF4YjFrOHNRV2RWYkotamhMdGR1UmNKT09IVjkzOEVHQ01US2FLUExndldHRXZhbnRvcVAwRzBFMTRYNnJ1VkJLTlFUUUZUWHhEcUl6N0JLckRUTHlxRmNjUm1pdWpvMjVRdWZMSjAtcXMyLXlIaUtRS3BuSGNWdHF4RDkwYTB1RGpybVdhajgxb0VtMmExUzVPYWp3a0pF?oc=5",
-"source": "TradingView",
-"published": 1793864606.0,
-"stocks": [
-"Aker BP (AKRBP)"
 ],
 "keywords": []
 }

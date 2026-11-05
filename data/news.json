@@ -1,5 +1,5 @@
 {
-"updated": 1793908285.4173114,
+"updated": 1793911102.1064885,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,6 +73,78 @@
 ],
 "items": [
 {
+"key": "f9ea84f89e94e57e",
+"title": "SLB OneSubsea To Deliver Subsea Tieback Systems For Aker BP's Lyra Field",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYzMwVlJYRWZlVDhnSlRYTXRLd2doSkNFY2pjWmNROFJNd1N3S2kybGFkNVNJZkc2Y3k3alFTWHNfVER5dUFZQWEzSm1pbk9QVFpXcWJlQTBvcVFVbkIwZ1VtUlctbnhaNjFBMjRiQVJzbXF0M0taNmhMRWFYc3BkTnluZktvTnY0WFEwWVdwY1BHSHo4UUlmVFJEeUc1NTgzaV9MOS00NkJNNUpKbDRwOTJ6VnpvdG1B?oc=5",
+"source": "Ocean News & Technology",
+"published": 1793910539.0,
+"stocks": [
+"Aker BP (AKRBP)"
+],
+"keywords": []
+},
+{
+"key": "a52f4fdf90322996",
+"title": "Dow Jones Top Decliners: NVIDIA and Cisco Post Steepest Losses in Today's Session",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSGJndXo1T1VMRWNpazVOcUhaTXJzQjFjT3NqbzlEOVJ5ZThLbHJWSzBGUmZVdkgtRnlSWk9iTE1TNnFYd1RSVTBrdG1JV1A2YWdfdzcwaDlMSzd0aUhmb2VkOEtmWGJBMkZ5OUxXN2lWNHhQN1I5UGVZb0hHM01sbngySnZva2xzWU95Nnc0bF9hNDBQUVoyNUxiM1dCZjhHbHg2YVRGWmNDMElLMTd6SktpNnBrOWN2S3c5aEJCVmc0M3NFaWhNcg?oc=5",
+"source": "ChartMill",
+"published": 1793909467.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "f9571d0404d16f65",
+"title": "NVIDIA AI Day Puts Mexico’s AI Infrastructure in Focus",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMVFSb2NmTnJFQzhUZHQ2OFpoSy1fSkFkMS1OSUxtdlBidUR4N2lsb2xVbTFSVExITkd1Z1lWT1NiY2Y4ZlJfQlA5dW9XUWZVdmdsdE15emtXWER0Si11N1VSUHZKc3RGd0ZsNDU4S2N1MzJxN0FYYmdPdTlXUXp1UUZwZnVIcUNvbkdhQ3JTRTBmLTVBWXh5Sm9meGI?oc=5",
+"source": "Mexico Business News",
+"published": 1793909150.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "8d23ee4ceeca10bf",
+"title": "Why Tesla and SpaceX shares are falling after US midterms",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdExPdWFWWXpTbmVnV3ZBVy1ja3dzLTFjTU1PVmVkN19RSUc3M0lqdE5KVkRSX0d3VXBFMFFCR0p0Z3BoUkMzaG5oZjFQMDZkZl9IU3RVempfQ2p1SXZQTEVaaWE4eTRtdlVtX2VCWHZfcUliRFBjWHBSUjIzb29ONDRWdEw?oc=5",
+"source": "Latest news from Azerbaijan",
+"published": 1793908726.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "6219ff67e9bdbf9d",
+"title": "Tesla's Robotaxi Geofences Are Smaller Than Advertised: Their Actual Sizes",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcTdmX2ZLNkpYUlFrWmJTQk93akhrMFNFMk82N01uTUI4d2Uwdm5TN1ZfR1lXRlI5QjRmbW5zX2h0VWZ6SG5JQm5FdmlUQ3R6RlotbGxvOHBGaTJRQVZKUWl4OTZ4QjQzREQ1dG1pel91WHpQd0t1bVh6MlBwNXVvQm5DbzdnVlRzSFZJSkRBc3FYUEwxbTdFOGoyVjFfTHdVS3ZkeWRuS0JlY0QydERUbA?oc=5",
+"source": "Not a Tesla App",
+"published": 1793908680.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "250e070a4e865fbc",
+"title": "Nvidia explores retrofitting old telecom buildings for AI data centers - Information",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWElkd1JUSXA5YTViRnFuN1NGMjExaEMyZ2prQmw4RWk1RksyZTZuUWcxUEtPeDh5SkNmMWp4NFFYSmdzVlAtUFlqRGpfcldDYmZzbmpsOEpFTnlET1dBeFZpYXYtSmRKVGI1MXZ4by1fUXZCUTU3cjNsb3JvbG9sNS10eUdONThiLWRSMVpmUkltWExmM1ZCOXNqTGV6aHg4bDZsWUhVbkFJTEZXR1hRaVJIYzBZN0FONlpHQlFVWS1WYVdjMzJtaVh3d1FGaVhicTJIYmlvSmZFSTlwQ3c?oc=5",
+"source": "Investing.com",
+"published": 1793908665.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
 "key": "c8f59f1b9f360693",
 "title": "More Than $11 Million In Nvidia Hardware Stolen From Truck That Left Oakland",
 "summary": "",
@@ -94,6 +166,30 @@
 "stocks": [
 "Aker (AKER)",
 "Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "c090133bc6f8e0c8",
+"title": "Nvidia’s Workaround For Data Center Backlash: Retrofitting Old Telephone Buildings",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdk42anJHNXZZdl9CY3ZJRGRNODcxR2x5V2tleWNwVkNvSWZaaWN4cW9RUEM3OVo1U0RTWTFoUjV2a3lGZXFHRkpjOGR2OVF2enNVYWpEMTloMVFEMDNLOW00Ul82THNXaTBua3U4c0VKV0lSWEVRZk9IVWVZblRtd3V6TjJUVG1DaUF3WEtfSU9oTE4wODdEN3UtT2dGc3RFMTFyWGpqSTM5UHdTdF84R1R4MmR0NHc?oc=5",
+"source": "The Information",
+"published": 1793908020.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "68613fa657e8c6f5",
+"title": "Prediction: These Will Be Nvidia's and Palantir's Stock Prices by 2027 (Hint: Only 1 Is a Buy)",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ1hVT2xnRk1odmZCakQ1U3NxSnlFdVhLM0h5dTV4R29TVGF4WmtaVFJFMnhnck80ZkhPbnNpVGVIY3VsZUFnNjRJdFczQmJOcmNsUGZZOFZlZWJjSUlkU2lWZnZablVVMkRKM29KejVMakUtUU1oZXMxd0FxWHdVZ3dweGlBUGVqd0xBM0s0TkFrSGpNdmxCczBDQ0JEbFZyTlpLZDNacUh5QQ?oc=5",
+"source": "Yahoo Finance",
+"published": 1793907960.0,
+"stocks": [
+"Nvidia (NVDA)"
 ],
 "keywords": []
 },
@@ -134,6 +230,32 @@
 "keywords": []
 },
 {
+"key": "a14bc9e244994173",
+"title": "Nvidia and Microsoft Get a New Spotlight From Bank of America",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTXg2M3Q0bHZkUTRLcXdnRFBfanNuWG51cHU1LTVrOXE0V0N0SEwydncxVEs2MWJKd0ZVYmtvV0lheUduM0NaM2NnYV9xS2U0bHhVWnFrX05pdDQzSWFHYldyMkVxMkUxRzZmdlk5UlBlTlhkNGhNbHlFYzFrRC1GdEtGSnVsTk5TVnBYS0ZMaTA4UQ?oc=5",
+"source": "Yahoo Finance Singapore",
+"published": 1793907291.0,
+"stocks": [
+"Nvidia (NVDA)",
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "a6da1f949d48f516",
+"title": "Nvidia and Microsoft Get a New Spotlight From Bank of America",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQ09QX3JSM05rRHdxTTRrYlVqU0lwa1JmZ0l0U3Zidy0wcG1GVXlLNU9oQklYMnAxM18xcS1mbW1RX05MSUJpeUpMV0pkTUI1TnFwZDlEZFp1OGlpTUJ5b050YWJnRm1VMXg1TWx3NjBPV0dvT1hla05qcWIzTktUbWk5UzRxd1c3NGhKbkFPZU9kQUVaX3NrVGZ6NWhTMUh3VEY0NzhNNzh5SlpSVC1fcFpCSHVQSS15N3dnb3dn?oc=5",
+"source": "TradingView",
+"published": 1793907291.0,
+"stocks": [
+"Nvidia (NVDA)",
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
 "key": "07d63f8a566786e2",
 "title": "EVgo opens first station with Tesla Supercharger equipment in Chicago, US — InsideEVs",
 "summary": "",
@@ -158,6 +280,18 @@
 "keywords": [
 "selloff"
 ]
+},
+{
+"key": "3705fa70d51d7156",
+"title": "Nvidia, Micron, and other AI stocks take a dive after elections",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPU0lQTmhkMUo0aVM1MHdKRVRRNDRCWTJibzQ5bW5SekVOQVF4YUgtekp5LVBuQW8zZk5jYlIwU0xBSV91V2FjRm5Tb0w4SG56UHNoVzFrOXU2M1N2d2VpbWZfcEZvb0hSdEsydlczWmw1VG1ObUZjZkVyNktDTGRoX0FHQUt3RVBwQVloWGM1RGZHOUZxS0xqRFNOTnV4WTQ?oc=5",
+"source": "PC Gamer",
+"published": 1793907167.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
 },
 {
 "key": "6932b4c88753816b",
@@ -380,6 +514,18 @@
 "keywords": []
 },
 {
+"key": "10feea9db7cf4323",
+"title": "NVIDIA's GeForce 8800 GTX 20 Years of a Legend Unboxing Simulator Brings 2006 Back to Steam",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMl9VeTZEcTFKMVVWS1ItT3M5ekdmNmRmTnJ5Tk5MNU1WQWJYb3pLc1V3bzZJdjRGYnhYUUpocEVuVDl6Rl9YcUhqUm1UYlpoWHFtMGhiYW81cTVJS05Mb2ljZkVydzh3T3lDN21TNllPaWhwbGgzaUhzODlKNGtKdDdJVnRHUTlERm5pOGRwNnFNWmhGX2xUUGZGa0ppRE5fck13MzNJaDlvWTA?oc=5",
+"source": "TechEBlog -",
+"published": 1793905512.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
 "key": "13201606355d6bfe",
 "title": "Swiss companies aim to make Tesla’s Cybertruck road-legal in Europe",
 "summary": "",
@@ -388,6 +534,18 @@
 "published": 1793905200.0,
 "stocks": [
 "Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "5b0bdb2e2e7e1e5b",
+"title": "Meta Platforms Stocks Fall 6.76% as AI Investment Tests Cash Flow",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObDN6d0FzZ3VzbW83QlVIem9PMkhKSjRoNlUzckx1T3dfWndPTy1nM21EUVJBci0xM3p6Qlc4S2JUaFdpY2tqTUFDZUpIZzFIdXVKR0QxWENXRm0xNzhMRktYTHBkdk9ZMUxYclpBN3pWYWNGNFJfTEx6UGtwVUt3RlFBcGsxNEF6RzRDaE9TRWpwSE50UjF3QQ?oc=5",
+"source": "Yahoo Finance",
+"published": 1793905167.0,
+"stocks": [
+"Meta (META)"
 ],
 "keywords": []
 },
@@ -570,6 +728,18 @@
 "published": 1793903520.0,
 "stocks": [
 "Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "0b6a37f5616b6d31",
+"title": "Union for Arkane Lyon Accuses Microsoft of “Sabotaging” ‘Marvel’s Blade’",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeDJkSXFFYzlfc2dUZUN6ZGpyUndfRFY1ZU4yRks5cW1HMFNjN2ZHVWVtbmxGaEhTLUZkV3hWUmtpejFFbjNtTTk3SDc4dTdGYzRkc2ljeUdOalZkUmgyYmVuNEZrSW9GcTFhT2poNmNOczN1WkcwaGNkQ0JEb1A0OVhiOUl0TGh2S2NNX29LLXhNWFNDenhJeUp6RTZtbnhsQXlGd0NtMmhlWjZJd2hiWUE2LTVxbXVPSGc?oc=5",
+"source": "Bloody Disgusting",
+"published": 1793903403.0,
+"stocks": [
+"Microsoft (MSFT)"
 ],
 "keywords": []
 },
@@ -1011,6 +1181,19 @@
 "source": "Investing.com",
 "published": 1793900156.0,
 "stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "300e6423da8202bb",
+"title": "Nscale's US$35 billion IPO faces fresh uncertainty after Microsoft rejects Texas AI capacity expansion",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdnhBSTRsU1I0UXpSOXVuY2F1ZC00MjdJa1owazJfS3JuSm1FMEFNZC12c1FQX2pLa1FJRWlFdnV1THFhRXNZN25pZ01FZHRXRGpwU3VaTlM0Rm9kZ1Z0STd5eXllUXZZMUVJR2lNMVo3SWFOUm8xemVqd3Y2THRaNWRFX2F0ZWZiOVp1ZVdIQ1ZYeW1OcXc?oc=5",
+"source": "digitimes",
+"published": 1793900100.0,
+"stocks": [
+"Aker (AKER)",
 "Microsoft (MSFT)"
 ],
 "keywords": []
@@ -2114,6 +2297,18 @@
 "published": 1793893879.0,
 "stocks": [
 "Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "de708e2a1dc3e65d",
+"title": "Microsoft stock jumps 6.6% as the rest of the AI trade sinks",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2Q1FNM2EteUExdS13eVhfMGZWWm9ESVVmSkJpM1VSSmN6azNaMjIwQ1lqejZWUGtUbUJ4TjQtVzVSRktpODdMSEpRbkdma19SV3lENW90Q2ZLWHEwN1NBZzlPamxvTU92S0N1WkJ4eGtZR1IzdnNYUzRPUjBxYUE?oc=5",
+"source": "Opening Bell Daily",
+"published": 1793893664.0,
+"stocks": [
+"Microsoft (MSFT)"
 ],
 "keywords": []
 },
@@ -4722,200 +4917,6 @@
 "published": 1793873697.0,
 "stocks": [
 "Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "f8a11f16c7f486f4",
-"title": "Microsoft: Wall Street Is Looking At The Wrong Numbers (NASDAQ:MSFT)",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTWRJSUtIVWlNNzA5NVZXSk9iUWx5VzY2SldfLW1hc0Ntb3N0TWhzT0l5dF95dzBFRm1NVzE1Rk5RRmhFanpzdFNmYXJzUGw3TUs5TlF6STlaSzZRaVZkcS1hTXRIajB0VlN2SHRCaFFZMVpDQ1NjcmNBRWxyU21ZbFRXdjJLVEc4SUQ0MmJRX3FBSG1tcXJ6dXUwRUpYR2VjaFpIWWJPd0xHMkNNVVBV?oc=5",
-"source": "Seeking Alpha",
-"published": 1793873666.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "633e428d32533fef",
-"title": "Tesla opens new “Cybaer” Engineering Center in Berlin",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YVUdURmJTOXVhenQyNXFiS2I0Rlpyb25uZDlfOFVhQ2FqZ0JvbTkxa1dGZ1o4ei1vUGhlSkVMVGlhOEpvSS15dUpYdmVJNXh6YnBwOGVlT0lDdmNfcFBlVUFJS2g5TkhaR3VqNkV1UF8?oc=5",
-"source": "Teslarati",
-"published": 1793873401.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "84d1f932cada49fc",
-"title": "Form 4 Meta Platforms Inc: Marc L. Andreessen (Director) For: 2 November",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORXBWS1NRVjZSa0kwYUNUTU52OE9XUDU4ZGpHTTFSbHhsdVh0TmpXRlRqbTB1MWZUbzhnT0RuYmZiU3k5YUJtOHRkU0w0aFF3NHNQeWFzNjRnck9USEo0ZkFocEJ1Z1dyRERJOW13eXUtSUI0Mzc3ZEJiNk92QzN3Mkl4eEFKb2kzbmJoT2pnNzR2S2RsV2JuYmFnaEgzOEI4c0RvVndDYnpRRzlGdklEdF93YjBfVHRPMmFibkw4WGc4NDZFUmc4?oc=5",
-"source": "Investing.com UK",
-"published": 1793873160.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "dba9fe434aae5327",
-"title": "The midterm AI backlash could strengthen Amazon, Microsoft, and Google while squeezing smaller rivals",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVEItNWZHVjR5M3lydTNEUF9BYkRKckFSQXYzZEVkMldiNXFKc2RzZUxrNzZQV3JxRU4ydy1kY2NHM29CWWljbzdNdnFTcnpHajNONWZWZHJxMXpJNkFKUlpnVTZsTF9Ma2xuSms1eHFtbDJNWFVwZndsYUdzMWprOGhoXzNac191dmFYbEdaVGx4eWdOdUMyWThxSlE?oc=5",
-"source": "Business Insider",
-"published": 1793872800.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "35c8686923556b04",
-"title": "bp - bp sells 5% stake in Aker BP",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1tUDlGZjN6WTEwSnVqN0tVemJYeFJ4cE13SjAxOXVCWHN1LV9oZjN5TE1UZGNTY1V0SWMzd3BPWXdZd1RtVi15c2ttZUE1Zkp6SjdXRXU5YTJKX1NhU3RKak84WlJMWDEwZlEwWlhwV2trVTB3?oc=5",
-"source": "euro petrole",
-"published": 1793872732.0,
-"stocks": [
-"Aker BP (AKRBP)"
-],
-"keywords": []
-},
-{
-"key": "ef5096239dceb217",
-"title": "Microsoft reportedly rejects option to expand Nscale’s Texas AI deal",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5YS2xGVl9NSTB0bHlvMXBIY3QxbnNJR3pCVWZrTWt5UWFBTUxwWldvMG9GYzM0TXhPM25zVUpTRzFRMW9tb2N0TjV4VU5tNDVlSEhyRXlIelhBMFVhdy1qYTNua0hnTmdWbjNQdzkzUU9qTjA?oc=5",
-"source": "The Next Web",
-"published": 1793872661.0,
-"stocks": [
-"Aker (AKER)",
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "2501ac0298733dcb",
-"title": "Is NVIDIA Stock A Buy Right Now?",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNFFnRjNUS0pReENldVc2ZjV1M0Jvd1I2NjJDTmVrMWlDSFJVZGhWN1V4dW1pLVhzVmJqNFNwUkVzZFVGZ0NvU0txZ0F4UFZQblkwQzVBSHB1SjRWOFlhYWJoaUlpcEVfbkVJSWNqQ3FoY1ctamxzWVpreE4zVldQWW9TRWVaR1FNNTJPSFd4djNBMDUwVFpR?oc=5",
-"source": "Trefis",
-"published": 1793872427.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "b27bbf92d4cd928a",
-"title": "Microsoft Won’t Expand Texas Data Center Nscale Pact",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPX2J5dmY0aERHV3RLMUoySkMwZHg1Sk1HQTBKU2JQYlkxZUFlZEdodlZvVmpJWXlLMzdvd1NacXhoekRQT3VLRkloMUlKX3ZQWGpDdHJtMXpiTkp6eGdHZndKRVUtN1AwLV9TS0p1SmNBN0dVSjZLTERTWER2b00tM0N1blBfczNxYWhBdi1WdVJNUndDYTB3?oc=5",
-"source": "TradingPedia",
-"published": 1793872297.0,
-"stocks": [
-"Aker (AKER)",
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "7c0dd167a33cefeb",
-"title": "Germany's DAX hits record high buoyed by US midterms",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUjZpX3pySmxMT3ZCcUlhbmpJb3RuMHVFUmJHOC1qT1VPbnNlVHQ4RGhXS0wtWjlKMl9FMnBnTGhVSUVId0sxSVhjbHBTWC1HeEw3WkV1T0NsYlhVUi1aWHpwQnh1QXNLQXF4WnBJLUowMkNVNVJZNF85LWpmcWM4Rnl1TUcwbWtGYjk1UWcydDA3dTNGeGlpUlo1OHRvLXluNi1V?oc=5",
-"source": "Yahoo Finance",
-"published": 1793872119.0,
-"stocks": [],
-"keywords": [
-"record high"
-]
-},
-{
-"key": "fa6c0603c97beae2",
-"title": "Meta Platforms, Inc. $META Shares Acquired by International Assets Investment Management LLC",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcmNLUXhDNlpsUDE5NkZYaXBLYkp6U1FLNTlUclMwRmRRYjl0Z0hmRlRLYzFYV3U0R1dTMmx3U0lSU1dycndJVjUzS3pnSkNKSTFSWE9oLVNmT0VrRVJDS1IxUnJuaGVUb0VKSWR1X0NSNExIY1h3N3I1OVVXUDN5c1RBRmxlQ1NuNVVvdFBzNjdkWnFuMVZja1RFdmNaSUs3dG40U0Y4cW1UV1VEMS1QcEdYNHR6TEF1UG9wN21WdEZTUjlKb2JpLWx1MmI4Ny1ubjhWVWFNUzA2bEtBMzV3RDQtSHI?oc=5",
-"source": "MarketBeat",
-"published": 1793871915.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "4180823d7fd2e789",
-"title": "Meta Platforms, Inc. $META Stock Purchased by Glenview Trust Co",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNR01TbGVkRE9ZTktaNFdOb2tjMVFmMjFDNkt6QzM0X3BZZzF1N0hrRTlrbkM1T2RZX3VLd1g0UHNEOTc3bV9keVFsRnJadDlnWVYtaEcyR0hzclg5UTJsRE13dHdKVWx3bzV1eW82dzhiVDNNQzYzSHJMaUdkS2tRRkNsU05QMzJvNzctU0hkREpreENHOTlqV2V0Y1g2c2tpa3NzcmJRWmVyU2JES1pGU2hSWWtyWUtPQ1NaUDBn?oc=5",
-"source": "MarketBeat",
-"published": 1793871915.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "7cf718c9214b17a2",
-"title": "Meta Platforms, Inc. $META Stake Decreased by Raleigh Capital Management Inc.",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMnhEVVg1RUVrakViVE9BTF8wODU4Y1g3bFRaTkZXUVNuOFkzdFhpb09lNUlUM0dDYVB0dWo5dTI0clU1czR3MExOVWE4QXBybWlqN0VOMEZGRmVMYUg0UThEeFo2UF9PREJUOTg2OFk3OTNGbTRQOFVRUm5icncwTEtkSnBCX1h4Y1dUNHQzU2JaTXpFdTRZaTBzOWg2TlNYcXk5c3UzUkhZZlhMcXJZa3JnSnVaYjF0aUxkMkpmVHFHSjhhSlZaRklrT3lFU0E?oc=5",
-"source": "MarketBeat",
-"published": 1793871915.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "0e4c298613502acf",
-"title": "1,152 Meta Platforms, Inc. $META Shares Bought by Prosperitas Financial LLC",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRV91OXFhcDdEUUhHeUo5aTl6T0Y3cjhQN1FuTjZsc2s1N0F0cDI2c1hzeW54c2N5LTJFWUd5VGVodzdUeWVTRFMwcDlmeWVLVDFVb3NTOHFlQzFITTNycndUOEs3Q1dqZ3hsb2s2bm40bkRDbUVHckg4QXlKb2hDazBMQXhtaE1oSE5sSTZibFRfU2dmWE9VQ0hXS3FUOE9menBnUjgxTFA1aUlUMDloZXQ0dFJ3MVFIcG1veVJtejl4eUk5UG5ITlhOQXA?oc=5",
-"source": "MarketBeat",
-"published": 1793871915.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "7eb242cd91d6b51d",
-"title": "Meta Platforms, Inc. $META Holdings Increased by Payden & Rygel",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRHhUZG10cm1fMUZyMlgwbnBXaFhJMVJkVFBUWlZsR0J4UWg2NXpSVkRyM2pPMnh2V3d3TnFNX1hNSzdEY0piVjhPMG5tNVM3ZGtYRXE4d2pXenpqZGhaWDludmpzRC1xb0ZxdG4xZzZLR0lQYnMydDY4cE12enlQV3ZlVDdjcGR0cnF6TDIyTFlhRms2MVhzTG53ZENlUXV4UVdGdXJkOGxXWnZXX0Z2N0g4VEY5U2lCVG9J?oc=5",
-"source": "MarketBeat",
-"published": 1793871914.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "1c2d131bbc7c013b",
-"title": "Microsoft retiring M365 Project usage report next month",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZlp6eXJUakh3bnBpM2VnZEtLY1pqdEtJZGZLay1OWHFuMy1JNVZscl8zWXVxejM3bnFaZlIxS21JZGdYYjZsdUtCUUhPd0QwaWNXMVItRFFYelJnVjYxTGlLQTVubExoQUN1REdMQnlDR2k5eHdoMS1VNnpSeE8zR1BLNkpMNi1IaEdNSA?oc=5",
-"source": "Neowin",
-"published": 1793871840.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "09a9f0f41f430022",
-"title": "BP sells off Aker BP stake to raise £785m for debt repayments",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1SbU1hb2x1WVRPbXZ6THlwM1UzVURRbnQyMlJnOUtic3hWd1I3YWEzckU4cUozOGFmYmpMUUlLZTM2Z25xa0EyV04zZUNfQWJtQ2NOWXhjdkdFTjB6a2Mtd0ZTU2NDMkltSXFVd3NETS1ZczMy?oc=5",
-"source": "AOL.com",
-"published": 1793871741.0,
-"stocks": [
-"Aker BP (AKRBP)"
 ],
 "keywords": []
 }

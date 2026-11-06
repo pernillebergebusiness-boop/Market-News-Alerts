@@ -1,5 +1,5 @@
 {
-"updated": 1793929278.4885495,
+"updated": 1793932567.0258882,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -72,6 +72,54 @@
 "Yahoo Finance: HTTPError"
 ],
 "items": [
+{
+"key": "dfc16908e6b0b77c",
+"title": "Should You Buy Nvidia Stock Before Nov. 17?",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcHoxdVI4MTRJRWR4VmQycnkxX01ZeklUYlJlRXJCcDZnTG1FQ1AtZGh3YTBndWZVSWZsZEdYZkxad1ljNkdTMGlmZFp3R0Vrcmt4VTNrcnBzcEtQSlNNejhrNDJvUHdjanBFLXA1YUZYMjNuRlcyVmN6RHBub3JQNXZaaDNrcHpIYlZmWW1kRHhRUQ?oc=5",
+"source": "Yahoo Finance",
+"published": 1793931600.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "75ce0488223155e7",
+"title": "Iren’s Earnings Outperform Expectations Despite Microsoft",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA2V1hjeUc2S1B3dlhERXRGc1ZUQU1MWnFSaVVZWWRGcFA0czVwTVlzOEtmZnZOZWRTUE1PalUwZzJyc3BhMEtqdm55a1RHRWRQN09NdGNwSEw?oc=5",
+"source": "Cryptonews.net",
+"published": 1793931482.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "5e2ba0dadfaa3b38",
+"title": "Should You Buy Nvidia Stock Before Nov. 17?",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUDNJdk9KUDJGQXU1cHkzVUdNdWUwc2Eyb3c3dFFOVkJHeDNhX3AtbEhIWlZMMWpjUmYwd05RMzhsSjFMUTR5UzBzNWw5NHprVW54OEIxbWEwYl9Ga3BiNzZmb3o1Qjl5aW1NVWxBTG9GOFM5UGRKU3MxOWpGOWhob29lU2ctTm9MdUpiag?oc=5",
+"source": "The Motley Fool",
+"published": 1793930400.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "0cc133b8f13a8b23",
+"title": "Special Microsoft Flight Simulator controller for Xbox is 'ready to fly', US sales begin",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMHplY2JCU0U4ZnBDSFpBaHc3WGhYMDdFamlsYm1uYnF5a0d5T3ZLbmZ2ajlCbG9tUmt3ZU9rMWh4OUtZVm5GUm5zaEoxWDUxMk04Y202OXZGZ1N1WTFwSDBUdjNPLTI5MkJEUEdJSURGaFIyaVh6aWotbHRqNDUtblVheUJJZ3U1Q01pTl9RU01vdXZWZ1NlMmJoRmxfSHRRczI0RHBHaUpkNi1qdkc3RXZZNmQ3NTR5Wk5jbml2VGFvZlVyREpfSmRn?oc=5",
+"source": "Notebookcheck",
+"published": 1793929260.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
 {
 "key": "7844ae4f3b01445c",
 "title": "This Nvidia-Backed AI Startup Is Helping Chip Giants Save Time And Money",
@@ -971,6 +1019,18 @@
 ]
 },
 {
+"key": "8c5d3441d7fd8a83",
+"title": "AI data center firm IREN delays Microsoft AI deliveries, plans $15 billion spending push",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSnlxQ1JoQmdtMWZ4UzhHRWJacmNRTGNCeDJmTWRRV2xpdU9xUzY2MzhVSklqMkNxeG93QVNnRUZCYUxvVUNBaHVta2lPS2VxMDlxQnZvandHTXZQVk1LNmVTakZxTzJjcHFGbjBwUHd0ajBwdl9HUERfaEsyWGNicU9yeklKMldtNldLMk5rNWpRNnMyWXY1QUNVa3lLU21tcXEwbXUzMFUzTTZtNnRN?oc=5",
+"source": "Reuters",
+"published": 1793914500.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
 "key": "e32c3642793eedaf",
 "title": "Stock Market Today: Nasdaq Slammed By Big Tech Sell-Off; Nvidia Hits Bear Territory",
 "summary": "",
@@ -983,6 +1043,18 @@
 "keywords": [
 "sell-off"
 ]
+},
+{
+"key": "bd077ab197fae124",
+"title": "Investors have dumped Tesla and SpaceX stock since the blue wave election",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMkJQWjhTMEJJdlBzXzlhWmxMUVFMZUlSR1Q2cXhHNmRTUi04dnJoNTU1ZXU0M2h4b08tTTZKZHNhMWRydU9PVm1sMmJ6Z09oYlVlT09uSHdlNVpsTWhuMkIwU0c2UDRkRGpwZDRJbXdUTmxtSGJsNHdYdklsQnFweHoxNXJ3N3FqYVJnTzd3?oc=5",
+"source": "Yahoo Finance UK",
+"published": 1793914358.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
 },
 {
 "key": "0489bddfdd108822",
@@ -4844,78 +4916,6 @@
 "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPd3g2TTZkRmt3bk9yVDlqSzVJMU4wSENITUFZdnppdEJ5MHBNbEdiaXk3aUdxUzJYUnJ0UlNjS19fY201N1U2aFR6dm1IX0xRQkJaUlhhNnpxRmFtZVozVGk0RXY3MmJMVXIxWTJjNFp5ZGdtUkNWeHZ6d2RLajlibVFKVHZhOFFNUkx1UkN3?oc=5",
 "source": "SDxCentral",
 "published": 1793887316.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "508841fbf69a598e",
-"title": "Nvidia GeForce NOW adds support for WoW: Forever and 23 more games in November",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdU01dVhnMXJNMjMtY2dKQTBMRFpIVXpSV0RhRVZNZDNsRDhBS1JrX0c0dzVhekRydUR3aGdDbGx2QXpHLWhSSEFDb3o5NUtKa2VxYTI1UWoyYUNMQUtBTXkwclN6c3A4MndlaDJZT2k1aHNHQ2lQNzhZZ01fNEJUNFRkQWR5UkI3WmEzaWlQWmdsRFhFRkpLRG9MMXctbGNUS09kRHZlSEJWUQ?oc=5",
-"source": "Neowin",
-"published": 1793887229.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "b447a899d85b5519",
-"title": "Box Partners With NVIDIA to Deliver the Trusted Content Layer for Enterprise AI",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdFgtLXV4RWhQdGJzaTd2MHM2bWlmQjJnZlZNNWd1bHRIc1BpaWIweV9WS0R1ZmlhRER1Rl96ZmZBX3UzWGw4VFFZdnJNcm9fT250Y3R5YnNzYWZZczlFZFNFZU9FNE9lVUVWVFZOYl9zbkJfc2d3THFxMGpZM0lIbTRxOFRRVlZ5U3QycHg5a3pwSEdZRnFRYnJtVUZPd0JC?oc=5",
-"source": "Yahoo Finance",
-"published": 1793887200.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "b1f8e1980c28975e",
-"title": "Box expands Nvidia partnership, unveils AI workflow builder",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOamVIUEo5c3Y3Vi1MRDN3R3lZYWpFS09VQW1OandJZklqUDdOeTBlU1lZcFZZYTRzNFZEQi1Va0h6bzhIbG9zQnc4ajM1RnB5UUtPZURrdFBucHVQbUJCM1d5NW54MWZvTkNSRmJuYzFDT0lGXzZWSXRWemk5cVNUTkZiNDRXV0FoeEhqN3UydW1LZkpVVjVYMlVpZS1BR1puLUI1eDh1Zjd3ZFBtZ3E1VjBjeVZJX3l2SXFLX0h3LTROMENjZ3Jr?oc=5",
-"source": "TradingView",
-"published": 1793887200.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "53e6eac26186ba1f",
-"title": "Nvidia lets you relive GeForce 8800 GTX launch with free demo, and it's good nostalgic fun, complete with Crysis",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE13Q001RnJNLTRnUlZOS2JXTVA5dzhCUnRoWjE2amxSVjdEcGROdkpkdjllbElQOG9vSGt4TXlOTWltNUxCSkszeUk4NjdNM243c204TGdaZnRaMjhHTjhSOW1ERQ?oc=5",
-"source": "Club386",
-"published": 1793887200.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "e44fa3f48c0340df",
-"title": "Microsoft fixed Excel 2016 copy-paste bug. Then reintroduced it. Now it's fixed again",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQU3RrQU9acFN5RnJrQm9Xd29HTTFTa09ZbS1HZ0tueXhuZ284TVNsZWlGc0IzcFZGNTMxVTVoYjN1anloMlFCdnYtYnk3R1V5SkRmYU1GQ1N6bFhFbnZ6czZHTjJzREJCZkZlWmxDd0RxUXVOWFkxMVdMTG1ndHN2SDVWNXZNSE9wNGR2cG50bW1JZ2ladVNaOHJSWTRQaWtFRzRsZXhLRWozVUFYRXhHS1hlcE5xenJLemZZcWd0NWtTV0dHbFNoLTJDb1hDZ2hkMjVwWQ?oc=5",
-"source": "The Register",
-"published": 1793887200.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "2766e53990b1cede",
-"title": "Box taps Nvidia’s AI models to build a rich context layer for autonomous enterprise agents",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeTQxSEh6eC0yQTFWMXA0QkI4TFRDemtydWpFMVEyNmJIc2wtODNObzFYVGlLakFOZC1WU0pUajNta201V0IySmFzUk0ycUc1ekhfM1VlMGphUDBPRWF6WXc1X01BbFJFRTFfeWloRmRUU2stSlN5by1MQUFvOEs3NDBzdEI3OVlsSXB4OVZVQ3F5emEwMkY2NEtJaHdRX012cjZhUmE4bTJlY3p0eVRraHR5ZjJOZXo4MDl4WEJXSlhlbTZl?oc=5",
-"source": "SiliconANGLE",
-"published": 1793887200.0,
 "stocks": [
 "Nvidia (NVDA)"
 ],

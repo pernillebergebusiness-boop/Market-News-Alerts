@@ -1,5 +1,5 @@
 {
-"updated": 1793943510.591927,
+"updated": 1793947261.1277673,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,6 +73,78 @@
 ],
 "items": [
 {
+"key": "8a9329b773c44255",
+"title": "Apple Series 4 Heart Rate Monitor - Apple Store sales in neutral ahead of new Apple Inc. AAPL product releases",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52OXg1MkNoX2JuZEl4THYyd3lyb241N2dQcDRZdnpsejRrV2w5R0pudFhLVU84Vy02OUpDT1JnMUFlYVVrVlZscThiMk5RSEJjS2c?oc=5",
+"source": "auroradesio.it",
+"published": 1793946410.0,
+"stocks": [
+"Apple (AAPL)"
+],
+"keywords": []
+},
+{
+"key": "3eaa7cf2ef075d65",
+"title": "Tesla Hikes Cybertruck Prices, Pauses Dual-Motor AWD Orders - BASENOR",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMWpwUUVrWEtGaklqbnhvTDZ5NWZZbzFNbWUzbnZLa3hnLVlsRFFWUF9aQlB2SHh1TE0zUEdFX3NuUHBKM0NYUzRmUnlJOFppQWFrUlFVVUtKc1BwelNQdGxreTBMWjVzUTRSbVYzMElmS1RFeXpSWkwwSjJ4WFVqdzgyNVBfRFhIRkxCUGRrSmVsWnQxY05LNw?oc=5",
+"source": "Tesla Accessories",
+"published": 1793945058.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "67280b6018aae9c6",
+"title": "An EV owner says Tesla's solar charging tapped the home battery when sunlight dropped",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSnl6Y3FnOEhWcnQ3RjlxSFZGQmQ1d29qTTBPNXl2MjJ5YWZkZkRLNVlJTG5ROU4xUkZDSnN3R0FuSWNMWVRoUDlPR0JQRC1rUTR0VS1scXVFRXFjWWhPWmlGMDl5ZXNFeTEyMGlqTUFiWWMzamtfWHZ1SE9EU1JEcGJ3?oc=5",
+"source": "The Cool Down",
+"published": 1793944560.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "62b2e4db23548429",
+"title": "Microsoft Edge 157.0.4341.42",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rODl6X0lmUG01UWU5VGsyZktmYmJ5ajJoNFlMUXFSdFhzaERJeTNJM3NiR0I5VGFFTDNBY1VMeTNVTjUtZ2xBQ0x6WVVxYzN4Sm5pNmFSNWlBNUNqcnhBck1rNlJWS3JVb2c?oc=5",
+"source": "Neowin",
+"published": 1793943360.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "389c848c9e58a5a4",
+"title": "Microsoft Paint Vulnerability Allows Hackers to Execute Malicious Code Remotely Without User Interaction",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9sX09zZzhlSjJvT0llQ0o2TERvSm91VF9sMkhEOWZ3cFJtYWhScGgzM2dYbEgwNzVZRmdTWTNHZy1QTVpReGhkUnVjNkhNdnFhNV9Gbms4OUFLOGtKVzAzQjh30gFnQVVfeXFMT1ExZzhfTDUtY01XMHVEc3dhOFd0RGNrZjZlNzg2U2lBdzdINFRTVjNycGttRm1BLVpBWDVEMHdZbmc5VDBOcVVQdFZ3RUVUYWJzWHBXTDlBWVdvc2hGaDRVeHI3czJOUQ?oc=5",
+"source": "GBHackers News",
+"published": 1793943218.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "37b4d19a8024465a",
+"title": "Microsoft Patches Windows Paint RCE Flaw That Allows Hackers to Execute Code Remotely",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBxMHNyR202T0NCMXEwaF90ZEo2MHJSYV8wUnVZRE1xc0syWUotLWxGQ18zbk40WGJwWENWcDB2YzdtdlpzVGN6azlxM284NWlWUGRfaFpic1FQSTY0VmllRkZua25pbVXSAWdBVV95cUxQcTBzckdtNk9DQjFxMGhfdGRKNjByUmFfMFJ1WURNcXNLMllKLS1sRkNfM25ONFhicFhDVnAwdmM3bXZac1Rjems5cTNvODVpVlBkX2haYnNRUEk2NFZpZUZGbmtuaW1V?oc=5",
+"source": "Cyber Press",
+"published": 1793942538.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
 "key": "1c8531595fb02a9a",
 "title": "Microsoft Flight Simulator 2024 Update 7.2 Patch Notes",
 "summary": "",
@@ -117,6 +189,18 @@
 "published": 1793941287.0,
 "stocks": [
 "Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "1e4db92b4a47df7b",
+"title": "Microsoft Stock Hits Record $559.15 on AI Infrastructure Bets",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TdmYtZGJlbWc1REtOb1JIb2J3QjgxV2Q4MEdvdTdnWEYtR2NxWFdtTEpHRlpXZjRGbmFHa1lDRzlBbDFHWElod2ctR3kySFgwY0lJaG9oejhsZw?oc=5",
+"source": "www.tokenpost.com",
+"published": 1793940900.0,
+"stocks": [
+"Microsoft (MSFT)"
 ],
 "keywords": []
 },
@@ -4834,90 +4918,6 @@
 "published": 1793890881.0,
 "stocks": [
 "Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "2d53759a5dc013b4",
-"title": "As political bet fails, what happens now to Musk’s Tesla, SpaceX and China ties?",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORFBsbmY1R3RfdmM5cVBTM3cyVlI3UUc5R2RnZzNMVi1UVWo2bnZva01nN3BwMTdUMlppYm03dE8zNmlWQTVfUGZseno5dzJCVGtRV2J1ZEV3OV9jdElGaFZidVdFanN1V2JuNC10WUZwMnVBUGRWOE1QMERlakVaaVBRS1doazNJRzFsNlA4WTVDRU9DcVBmLXYxQkJHVDF2aUtpbmppT2ljbHdXLVpxWjJuazNlUjRJbVp6blMzdS1kMktFSGQ2SUdRMzI?oc=5",
-"source": "South China Morning Post",
-"published": 1793890808.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "dc2189cf95994a91",
-"title": "Mercedes-Benz GLC Electric vs Tesla Model Y vs Kia EV6: Worth the Price?",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeWthdnJpSVhOY1ZiTzRjdFpzdy1WeHhHSmQ2XzVwOC1jeWd0WndlYm9Sd1QtMXEya1l2QVkyNjRpeGQ5eHpzQmZhRXBnUUM5V3ZWV050dWpmOV9vMlp1WDJjUjZtU0ExYkZxMTBuYkhiRFl1UTRrbVRCaHdsV3hDNUVlQ2R1eFBTeDd3WloxM21tdVF6UXdIRXEwNW5kMy1P?oc=5",
-"source": "ACKO Drive",
-"published": 1793890531.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "220f590fcfc1644a",
-"title": "Musk's Waterloo: Tesla and SpaceX Plunge, AI Monetization Becomes Key After Midterm Elections",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZHZSUEhsWHY5TTljdUFiREMteG5paERhWlRvVHRXOVF1VVh2UVprWDdrRlVtYlpPSHZWY0lpZWI1RFkyQTRxb1kxX1NnMUZZdHpmU3JMdnc0QnRYaExDSWpWendnYUhzUzBOOXJHemdxaEpWLTFsRTl0a2FvVkxpNWk1THh5X0ZuTWR3NlJJeXpCS0F0b0NxbmlXdzVVaFg2ZGdQQnpJaGUwZw?oc=5",
-"source": "富途牛牛",
-"published": 1793890320.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "3f09a548b6076a94",
-"title": "Stock markets diverge, oil prices rebound tracking Trump and AI",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQm1kWHpYVkZ5XzJpMDB6MUZ4X0l1OU5xLW96RXBmVE9lZHd5N1ZjSXhvcHNSZU1hZm5ZZFZFNlk5cWVSeWZMYUpoNGhaYV9KVkpfQlJLOW5LbTFmUEpQaHF1YmVSTDZYWk9ESnJnVnRqLTlLejhOMGR2R0c1ZWRoN1hCMmZ3NWlIa0YwZVg4N24wOFQ1MnNJ?oc=5",
-"source": "Yahoo Finance",
-"published": 1793890318.0,
-"stocks": [],
-"keywords": [
-"oil prices"
-]
-},
-{
-"key": "fbba960206116a7e",
-"title": "IREN Sinks 9% After Report Links It to Microsoft’s AI Spending Delay; Nebius Tumbles 11%, CoreWeave Slides 7%",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNLTZxMUFOdFIwbXZKOVBWSldqVWdyYlFwT3VOV0VZNnA1c2QyT0o2QldFWTl4ZHg5dWFTUzI0TXdLc1J0anI2Q0djUWQtUXZMTy1OdG1MOUhjOWFGRzdRMVV0Q05PUWRCWEFPWnRFYlgxdzExTmhwT1RJV2JnUThZV1BYZ3JzQ3IwSGxtbWlHdlczcG8?oc=5",
-"source": "Yahoo Finance",
-"published": 1793890250.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "835849c610d14815",
-"title": "Unusual Options Activity: Tesla Down 8.3%. The Most Active Put Contract Surges 1467%, With 18,359 Contracts Traded.",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNT3JmbFJMLUFIaEVmRk9ESVo0VkZ6ckZrVmszMHpPeVQxTVFIc3BqV01ndm5aYUhJMDh1TUdwZ0ZUMFhaNkpZRThmNnF6eUIzejV5WGpHVlljemlVcDZ1RU4ycFhBeWg2VDZNblYtTnRnZ2hydE11TjJNM1BDYUp1M2owMFlLMUtPSzZNUG1GTXRvLTh4ejJ3LWxDdWh2akt3?oc=5",
-"source": "Moomoo",
-"published": 1793890216.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "85309592a7df8b6e",
-"title": "IREN Sinks 9% After Report Links It to Microsoft's AI Spending Delay; Nebius Tumbles 11%, CoreWeave Slides 7%",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOd0FrcWs0dTJZQkYzaDJoTmJoMjcyRkJMM3o0bmZpOVF2S1dQazF3djhmaVVYNi1YNzliNmt1OENOa3N2c05HblVBU1plVEFBU2lKMk1PQ2RVUjJnaE0wRTdkbG51MjBPZFVTZ2JyQXlDazZ6QlJBNFUyZnNDaHRvVkNsNGw3VVZFb0taZHpxWUVYUE5lQzV6NndVV3AybnlmVWlfVG1WcVZiam9tUFA4U2RDcExCTGxIZ2Y4c0R1czR2cUs3OFEwVFdoaDRyQUQ5R0NQQnJpV3FRZjZVd0J1TA?oc=5",
-"source": "24/7 Wall St.",
-"published": 1793890200.0,
-"stocks": [
-"Microsoft (MSFT)"
 ],
 "keywords": []
 }

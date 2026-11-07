@@ -1,5 +1,5 @@
 {
-"updated": 1794054749.6513247,
+"updated": 1794058414.1104143,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,6 +73,174 @@
 ],
 "items": [
 {
+"key": "9d20aacf081e8d84",
+"title": "tesla-v4-supercharger-evgo",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVkszSEJDTlpyaHVQNV9ieWRMMVV3OXhQdXlWd2lERXBEUUNveUZGWVAwbEtTLWZVTTdGajRWMFo1eHdObnNaY2J3MG5TOFlVV2JhVU5uRnVNai1FZVlRTC1XTFVMWUd2V3JLMWxWTmF0TUEzWlNPT05LN0p1NGVKY3N5bk1OZzBibk1lY3Y1bnBXdVdGUzNWSi1XYWlLMFpZTnUyMFRVencyWFE?oc=5",
+"source": "Teslarati",
+"published": 1794057883.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "54584537b7c93edb",
+"title": "Chinese spy agency reportedly targets Nvidia CEO",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ENzVoalJkMzQ3UkRoNGRjWG9OOFF3TzMxVFkwd3V5a2pDQ0dJT1p3eXlKV2p0UUFPOXpGNjU1azZXLTNZbHpad1d4d2RZQmhWVC1MaTRB?oc=5",
+"source": "Fox News",
+"published": 1794056891.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "f7f3331ccf8ab109",
+"title": "TSMC denies exploring 3D DRAM production at Nvidia’s request",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOWlsUXhhMFlPc2JaNHlnVEJxZWlyM0l0OWVhb0YxV3dCNGtpSklzMVIzcHk3WXNET3dyQ2I4Z3pheHZsRmp0SHlzWldiRjdMcTlFa19PWVdpVkU2Mko2YzZQMHZMRzZWUmdmdzNTaGF1S3cwUC15SXJFLWRreGRTODRHT2hsTDg?oc=5",
+"source": "Mezha.net",
+"published": 1794056821.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "22eb294c524652e7",
+"title": "‘The warning is, get your effing act together, Bob’: Curley criticizes Ferguson's response to Microsoft-backed ad",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1mTkkyM25JaEtHRXRrenhxcmxVZ09HWHQ0MmxJa1huNi1TMUNkSFVKUTlxRVJyanlOb2dqTjBfWFl0dDUxWUMzRE5EUDVLTUc5bWppSW9lWmhXYjJiN3RfX0tjZGxlczhEekR0THdkWWpmU1RpREtFWQ?oc=5",
+"source": "MyNorthwest.com",
+"published": 1794056422.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "6b2f68fc51c14432",
+"title": "TSMC denies exploring 3D DRAM at Nvidia's request — advanced memory tech is still years from market viability",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOWFROTlBzUUtYeE9UX05YbmIwdkhkQldkWm83c2d3aVJ5RmpUaXhGa2x2anh3VThhd29WNG4wQzY1dVZjeDFVYlRuTllrRXZlSDNJc3ZVcXkxdlhTc2RMd1g3cnNOalZ4Y3NPX2tRLW9SeDIwX3E5RDRUQVVfenVNaHBVaXdEMmZGbmppb1ZpTDRxbm9ON0VEUGEtYnNvd2tJQUJIc3JndkQyZldOMDVqSnZoOHZLb2pVRkpFQ2VaWUpNRzhDZFR0b3NVc2VTUHRyZnh6bzNkQnZhUXFxTU1QQWRwZmNiSkltbVE?oc=5",
+"source": "Tom's Hardware",
+"published": 1794056400.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "af0959ebe12801bb",
+"title": "Tesla Cybertruck Discontinued: Turning Points in Its Downfall",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNXlUNm5tOEZuNmdsOVpBWkNTanRmM0JSZ1ZLeThqYVU3X3lIVVMxbV85MzkzUkRMZzJiN1g4WmJBa0V3ckdyVDBUSFN3Z2VSc1ktbXdGSHBsSDJ4TFBJWGhjNEhoY2NqaFFqcXFzUnFRU3pEcWphWFU0anE5bXVUdUNCbXc1UDEwUlE?oc=5",
+"source": "Newsweek",
+"published": 1794056400.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "7554c1150d5309d6",
+"title": "36,341 Apple Inc. $AAPL Shares Purchased by China Universal Asset Management Co. Ltd.",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMTN6ZGFhQnh3RHk4NTQtZ1ZvNHBfTmtCbGdpWElDVWVvUlJzV24zMjAwQ0FBY3pLVjFuaUItRjVKRk56V2lCQXotekxsZ2h0M284dUFFNkRQb3BRWU9kdUdKWUlmSXAtOVI5RFpFdmVEdlZGWXdXZWVpRHlkd0J0MHNhWHZtVFVpUW9tdUttak1fdkI0X2FlSmg1NzE1RTNrUWdpOVVfUl9iUDdrenFZWFZjdGx2cFdoOEtBQUFDRUpWTTFKczdkZ1BpNUlWaGtSQ0didkJmZkw?oc=5",
+"source": "MarketBeat",
+"published": 1794056120.0,
+"stocks": [
+"Apple (AAPL)"
+],
+"keywords": []
+},
+{
+"key": "5741011501272568",
+"title": "Tesla will wind down Cybertruck production at Giga Texas by mid-2027",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSG0zUTlaUmplQ0drSFo5amhPYmdZbEFUNE80Yk5YTEtWYVl5NXlyX1hwRXFOX1VYQURPcUxHOEF5TG80Ylg4RHpJRU12ZFpoel9PLUsyT1JZbkM0VEY2dlJTZDlCaVBfeU9ocVZJcHQ5VzNLRjU1LWZCUHBuNC1OcTBTR1gyRllieFpsSnkycXBwR2g4UV9NZ2g3bU0?oc=5",
+"source": "Startup Fortune",
+"published": 1794055760.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "f8b9002e546b36e9",
+"title": "Tesla Will Wind Down Texas Cybertruck Output Around Mid-2027, Musk Says",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNUZRNVRoaDJmZnpoVGxoRXBYUnRsdTNEM014RmRONTNHT1RaNG80WDY4TVBUeTFzOTB6X0gxVHplc3Awa21oT2s4SmZCdUtNYVZQb3dwMGNsak1zMDlXMk01SG9LYThMaHdwVzVzTzRhRTF2cWI5OGczTkNUcF8xUXI3dkVpTGJWYVMydzBZRVVYX2hnbXfSAZ4BQVVfeXFMTWNTbHN2ZkNoVXFSY1FEX0hJY0V3UGNaOVpEanQzUmt5VjF4UmhlSEtqQ2ZwdDdVTlp6OURQdmE1TmZPNDBXTEZsV080ajVSTUNoUS03U3psTnJKSDZWS3ZzMUc4WkRwTGZnNWZzV2lIeGUzMGNhT1BGcm51VW4xQ3dVamx0NDBmSUhOV1FMdDhxUkdOZTdYQlBKSnNHamc?oc=5",
+"source": "FindArticles",
+"published": 1794055668.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "f5befade215061a4",
+"title": "Protesters slam AI after entering Microsoft data centre site in Amsterdam",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObjYxbEQ5ak5iYVBJVXVRV0lKSEtPZkxLLUN3WEVKZmxwT29Fejg1NXROMWM3cjZpNHBDY1F3a0NBSFVyNzRKZ1JHT09OUUFuRjZaczJ2bjg2SF9RN01HVWZHbW13N3dvX3FLN3k5UHhOejZZUG9udFdXQXVkd0ZLYWF4TllpX09SWjcyVS1wd3VGYld2YkJhVGhpdzJEbjBYamc?oc=5",
+"source": "The Independent",
+"published": 1794055560.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "71e7d11dd8276a12",
+"title": "ON Semiconductor (ON) Is Jeff Brown’s Chip Play on Tesla’s Optimus Robot",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQlhCTVhIbVdDUHh4OFdSWGtYOERCT014Y09KY0tlbldTMHdQMTNsd3FVaFpmTXg4UktfMk55Qjl4ZGN5TjV2UUJ5N21SWFhHNXotNy1ZSFRnd28ybUlzTnk3Wkx2cGxSOEVpRGE5ei1Lek9EVVNScl9LNkhnU2RPMU9ZQ21HN2RJcXd3bEpVdXFETUhXYmhOd1l2WGc0Q3c?oc=5",
+"source": "Yahoo Finance",
+"published": 1794055300.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "689707d378ef265d",
+"title": "Meta Platforms, Inc. $META Stock: Bank Julius Baer & Co. Ltd Zurich Raises Holdings",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNelp5MkduenRpMnJOQ0pSUm1ZckMzX3pWeDRZOWZvMjRPY2JZTmE5b2ZzMDBHVDA0RzlRZk5ZdUlqMFpHR2szazI2blk3bDRhUW9XQlRnUE9jV0NRRXJRRDNzOGVkX0llV3ozV01QN1F5X1gtdVd0WXRrUzdZSE03Y1NpZ19qV2ZfZjRDQ2dLQUNvS0VvempZMXh6RG42ZUgyMkVnN21BdlhvZ1kzUEpKbk5FOWJ6eE82UjVTbUo0YUQzOEhoaURDRGdUUjF0d3FhbjZv?oc=5",
+"source": "MarketBeat",
+"published": 1794055130.0,
+"stocks": [
+"Meta (META)"
+],
+"keywords": []
+},
+{
+"key": "f6f944a63a48521c",
+"title": "Is Tesla Killing the Cybertruck? Mid-2027 Wind-Down [2026]",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYmZkM25JR2w2OUcydkx2eWxBeHdrQ0NhWlllRjJ6ckI1dTZzY3NzeEhfYVlyQUFoTF9YVEpsXy1pMzl5SGJHTlZXNm5Edlk1X1Bkd2tIOUJiZlFibGxmcFZ2V1I4S2lFd0F4dnNhcUtHX0E0Sjc4YlJaNTFBaURENS1Uc3d0VUhMSGdhWHQyZ0FCUQ?oc=5",
+"source": "https://tech-insider.org/",
+"published": 1794055105.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "e68af61a794e14e3",
+"title": "Enthusiast abandons self-hosted Microsoft Exchange after 27 years, moving mailboxes to Microsoft 365 — replaces final on-premises relay with Postfix, STARTTLS and Let's Encrypt certificates",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQVlJhM0diUklVd2xQMEY2Z3RNZlNSUzNURWJOcVpRZG5lSWY4Qm5xcWpXek1aTG1OaDBkaXRIcU9hbDc3a2RXTFd3THhtUGtUUkFOSGZPSEVNbUxReGNWc0wyQ3A0R1BuaG1Dd29ESVpUX0xwVzBCTlFRWVp2aGJGWEhibUstVXFkcThKNkxwQllXSm9mZHd4UFkwbzdRZC05aThEcXo1LUt3Y1RnUG41ZWZJWXFVUm05cUJvcFo0MFBfSzhPYzFWUlVQN21SZDUxdmZtSFh1eHRGNW9JaWVzV2U3X3BfTTJEUjZLaUlINkRta05LZjVwdWgyQnBHYWllY0Vwd0g3Zmh5UDdibVlGMGFDMTF5eEVFVDR3MlRyWDBvelNaYzRBaC1XNVp3dEJoTjg0WjdxZmVDZFlGQklnMmN0SDM?oc=5",
+"source": "Tom's Hardware",
+"published": 1794054600.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
 "key": "33113b7d4b858cfb",
 "title": "Elon Musk to wind down Tesla's Cybertruck production after 48% sales plunge, missing chance to enter Africa's growing EV market as Chinese rivals expand",
 "summary": "",
@@ -93,6 +261,18 @@
 "published": 1794053798.0,
 "stocks": [
 "Meta (META)"
+],
+"keywords": []
+},
+{
+"key": "77faa154d0ee2b8b",
+"title": "US Memo Links Nvidia CEO To Alleged Chinese Spy",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONmt6b2Z1Rmk4V0JDbXVvVHFVZzVUWkgzNGUzYjNHWGVZVlRPSzlZb0o5dktZUmRfWWptUW01M3JlbE00Z19McjVTaUpYa1BjelZGalZUdnR2TU92VlJZaEdOZFVSMzhVZmV1Y3MyMG9YejJJeUxIQVFwWDR3Y0ZNTDBxTjRNaEVWUWZmNThOeXg4YWNVMVE?oc=5",
+"source": "Kurdistan24",
+"published": 1794053624.0,
+"stocks": [
+"Nvidia (NVDA)"
 ],
 "keywords": []
 },
@@ -4708,188 +4888,6 @@
 "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZmttVER5b3VkUE1kWkVGdWtodXB3YXB0cUpXUmNSTDRyT0lDRUoxY2VpVWdxUEpRYWtuSTQ1eHdoLU96Rk9ReWt4YzN2MS1SX0tVN2l5Zk1tTy1mSzQ0YW5YaWx1c2NjRFBtQmlQeFk5NnNJZkVLX2k5cGI5ZG9KRU5scGpIRDF4LUxSQXc0UkFuX0lfMV9XdmU0dnJNRWM1M3F2ag?oc=5",
 "source": "Yahoo Finance",
 "published": 1793980932.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "60741772dd448909",
-"title": "Microsoft Data Center Site in Amsterdam Reportedly Breached by Activists",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbUlWQk94Mi1uQlpHaDk5bGpCanpLd0d3RXB3VVZzVjVXQTBuMjdUSHJlTklWcEU1MGhmbms4M2Y5TGhrdVhVamE4ajg4ajQzQlFHZ1JkWXQ0QWY1R1BJUVZDb2ZfeTBPMzR6a09VVnh4WjRVNmxsQkEzNjZ4aXBEWlNxa28yOGpCWUdFd1NoUkNaaEdxTVhKZ1VpYVFGVnZnRDNYbW9pU2owYU93VnVWaENqeGg2eFVvaWc0QUJjcktoNFE?oc=5",
-"source": "marketscreener.com",
-"published": 1793980924.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "9504f2c97bd6d2a4",
-"title": "Micron, AMD and Nvidia Lead AI Stocks Rebound After Historic Selloff",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRW5FY29TUU1COGktcWtwUlVsa3NzWHdXdFh0c1ZJQ3loa1ZKakNaOXNyajQwRFdzeWwxUl9ySGFpZFZ1YjMtc2x0SGo3Tkp2RzZNeThYNnAwQ0VieVNlWmRYUkw4SlBEWXg5Z1VsYWVkR3BlWThnOUZnejF6bzlVYm9lcUVESGVDc3prdzVjWVRwUkE?oc=5",
-"source": "Yahoo Finance",
-"published": 1793980917.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": [
-"selloff"
-]
-},
-{
-"key": "b61b97efb0881c5c",
-"title": "Backlash Against Data Centers Grows. Protesters Broke Into a Microsoft Construction Site.",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSHlTbk4weENfNGlDdTFHQzFBRDlnTFFBeHBBY2o2aWRCckJadnVBTXhxa3ZDNFRPczBSallvR3A3eklFNTBhWVFiZGI1Q1Uyby1ZZFBQZVVqeUo1Qkt3VE9OOExvYWRjbHhzNUtKQzFIVXlKbmNYZTdLNUhZS1AyZmdrNGotZ1pEdnNFb3NrcXExRDVJdWdmVzFicVZnQkln?oc=5",
-"source": "Yahoo Finance",
-"published": 1793980813.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "d6562e2eaa6f6844",
-"title": "Havtil issues directive to Equinor following fatal accident",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1UUVJUTWtFanp1bkJaSHBXTHhDUlNPWTJaT3BqcG5RMWlQRC1Nbm9mVWVkeGQ4WWE0ZWo1TmpPSUFHdXZzTGlNQW95dVRaR19GOFFjX1dXRkNpTG1mVnlJdml1NG13aTRjc2tWUHJycU1aUQ?oc=5",
-"source": "EnergyWatch",
-"published": 1793980800.0,
-"stocks": [
-"Equinor (EQNR)"
-],
-"keywords": []
-},
-{
-"key": "43d48a50dd23d6c1",
-"title": "Protesters break into Microsoft data center site in Amsterdam as Europe’s backlash spreads",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQMnZGakRyZ0pyb3VFNlpaTGN0VFJ4X3pjQlNGOWxyWFYxQU93N0pTNGpZQjBDXzJUOEZudzR3eHJXWEh6bmQ5ejJrT3VjaEhxN0NVQVNFZDVGdzRzdGVMczZlYTB5bEh5MWRsNWZILUpHUmtrTlVtczl5cXpva0dSU1ZHVU1UbTJFOHlwWkNhZTBHNmJobGFYaTJmVGM1NjJIbXRJbzExajBteUw0NkhvWDdleGpFYVctVTRKYTdUTGFXeGNRaE1fdzh4TWNaREJERVV3eEwtQ0F5MUthbGF1Zmk2T1puWTVZbVY2UTZuTF82VG1wbnVxWlFqX3h1MjcwZ1MwUmJ0VE5xLUZrYVl3?oc=5",
-"source": "Toronto Star",
-"published": 1793980630.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "ce54b1e60be4ead7",
-"title": "Protesters break into Microsoft data center site in Amsterdam as Europe’s backlash spreads",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPRmdEZmpnd2IxYkdRZDNlc3hGOUEyTjRyVkZKU1ZEQ3NjRklZQkVZempaaVROTXFRbkhBUE9SaGwzbHJ5MWxkN2x4MEhSUlVfYno2aU14eWZHWkZOMGVCeXg5V3RyT0FjcTAxeTRqeTRmUEt3VUQ0a3B4VmV3Q0thMGp2Y2JiLVBLREZ6cS1qbU9mdTdKT2Nkb2N2VnQ5b0FtYU1lV1lfeklRaThVLXdaQU5EbWNvMFFwV29vTkFDSjhHSkxjQkYtZktkemVOdzlEME16b2ZFbUxkN3hhU3hiNUNNTkNqR3A1UnBCd2M0SzJCRXc3cmw4TjNiUlZ3U1Rhd2ZncnBmWktnd3o5eFgzQmxlUVU3U3RPVmhOaQ?oc=5",
-"source": "Bozeman Daily Chronicle",
-"published": 1793980563.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "4eae6620979bda54",
-"title": "Protesters break into Microsoft data center site in Amsterdam as Europe’s backlash spreads",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQamtiZzNac0k3YWd1QXBpaHE4Q1hIQnJoUGhmbVpjdkh0MVE2VW1TVmoxN3Y3b0prWEo4OVF3UTBUUzg4QkhBa2ttMGRPeUxjVzFMdkNOclVfVUtoVlFyVGFrMElIc1BsYnpXNlQza3VYeFdFZkp0MlJycU0wZVdMVU53eDdrTHVkRXlGSFJoeHlpSnd1cm1wNXZ3a1lLUFk3aWhZSW50T05LcFJ4WmFjc0ZKLXN6bENPMGNqLUIyTm12OW9UWXo1MU1laFlTNkhzZjBvSW9XY3BzMkZFY29GQU5veGRPaG1IRC0zOW5md2VLOWJJU3VDTFZNaWxDV3lYZFUwWlZGYjY1X2hJV1dJ?oc=5",
-"source": "morning-times.com",
-"published": 1793980563.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "c591fb9507ba692b",
-"title": "Protesters break into Microsoft data center site in Amsterdam as Europe’s backlash spreads",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNblR6TUdCNEpueXlueU44d3NyTWF6czdjQ1V5Q3JBbDZacVQ1SXQzVU9kVFNqNVF1M2Q0cjJncDNSSl9BWXpMMkNoaWhfYnhIQ3RyX3ZjbU10VGdEU0VJbjdSaEUwekQ1RmVyZ2FRMUwzMmdMU1UzLXZtUHByN2M3aFNnRnRwUGNuZmcxNmtNbjIyTU84cWc?oc=5",
-"source": "Temple Daily Telegram",
-"published": 1793980563.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "3cafd3bb327b7e6c",
-"title": "Protesters break into Microsoft data center site in Amsterdam as Europe’s backlash spreads",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOGh2R2Y5eTdhQVBBU0VfeEdoVDQzX1pTMEh3MnVqNzBpQk1rT2VwUDhYUWttNlNVNjlaZWpQWW5BTFRwaDlMUFF1Y0tHalFYc21VcmRSeUR3VjhpazBESVd3dnRJaUkzMTk0c0ZJd3dxX3hhaTU2T0hmaHpGNGhXdk9RMm9sZmREb0lsV1JIWlpVQjkyYy0tdm9DMGxvUXJZZ3FFRFNJRWROcUJCNmtpWktKZ3JxV2ZUV1FWVkw0bE1WWGxHT3dnN1BPZnRyUnZfSDVR?oc=5",
-"source": "News4JAX",
-"published": 1793980562.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "0ad5e8b0b2b5e269",
-"title": "Protesters break into Microsoft data center site in Amsterdam as Europe’s backlash spreads",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMWg1SzZHQUk0WHZnZEZhLXhJaVVsaWFCR0ZEMklGeC1YZmE4UVZWRGs2aXBxNVhYeVBBMFlhU2pRZ0VKRjcyOVVFYzdnTTAyV0dCUWxlamwtU0VDZGI1UkJvbFVwZ3JiM1Bpb2REVENuTzRNSHZweDNIUXVadVR4TnNORjlQWU41ekYzNnlUdTZ0am1QaDlwSGZmUFVlYjY5Z2JtaTlR?oc=5",
-"source": "AP News",
-"published": 1793980560.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "8451a5cfe8536b08",
-"title": "Musk Called It Tesla’s ‘Best Product Ever.’ Now The Cybertruck Is Being Scrapped.",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTHpMa2lsQWt4MmYySXFrVk5TRTBleFg2akdjT0RhN215TkMwVkFnRm9yeHhBQ3NiZkdKQWV1dENHR19vTzVNYWpIS1dGdDU0dGNSanVmT1BROW9lLTIxMy1wVUJmTTFGNGh0d1JCYTI3VGhfT2dNT1RMVkp4cVJGZnY3RERwOVNOcmlrWjlfTVFxZ3dTNlVqMkxjdDhxMGZ0OVduTlplV2loX0xXZklrclVMNVpzOS02MDlQQQ?oc=5",
-"source": "WSJ",
-"published": 1793980560.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "ae09f43f96ab7a64",
-"title": "Anthropic IPO announcement odds drop on Kalshi following midterms and AI sell-off",
-"summary": "Kalshi traders cut the odds of an Anthropic IPO announcement before December as AI stocks sold off after Democrats won control of Congress.",
-"link": "https://www.cnbc.com/2026/11/06/anthropic-ipo-kalshi-post-midterms-ai-sell-off.html",
-"source": "CNBC Top News",
-"published": 1793980532.0,
-"stocks": [],
-"keywords": [
-"sell-off"
-]
-},
-{
-"key": "94eb662080eb5e35",
-"title": "Global Markets Stage Recovery After Thursday’s Tech Selloff",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbFhNLTBWNVFrWF95VmItelpwY0d4eGJ2RVBNUk10T1RTOC1aV0tNUU9aSEVSU0o0XzVTYVg3RW5Hb3hjbkRpUHQxRU93Y0c1WDJnVUJ0M1RCSTJoZGpHZGhqNThFR0IyR09CSTZLOGtocHk1bUVIdmMzbzBPRkU3bVJZdEFPWnlxb0VCUjlvVzBnbnRlWkFYdw?oc=5",
-"source": "Morningstar",
-"published": 1793980392.0,
-"stocks": [],
-"keywords": [
-"selloff"
-]
-},
-{
-"key": "b5b8649259296233",
-"title": "Meta Platforms posts $2.12B negative cash flow in Q3 2026 despite 14% ad price growth",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZ0tmLWJfUGtGdUNtNm5tcDFqVTdkZmNoZHU2VjNYcDlIRlBJRFVYOFdpVDZ0N0lpMjE1cXNQRy10aVJlWWwyWWdRQ21EaVpkTDBhV29KUlRwcUppT19KT0kyVWp0WF9US2NVZGF4LWZmRjQ0cEtVZ3BldGZHbWdrcEtJSTJMckt1cGFQMGNDaDI?oc=5",
-"source": "Pluang",
-"published": 1793980367.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "5ddaf1f87d67649b",
-"title": "Tesla Cybertruck dead: Controversial pickup axed for Cybercab",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xWmQxLWJFU1ZYd05vbXF0LWg4d2hiOWFna1QzNDVkeUtEMENHZWtJQWNOSFBmdm9nZ0UtZGJTOHBVeTRjdlRSTXlVLUFIUWFtRmc4NW1VWjZKdlJxRFpYWWtjT21ic1V6TEVfRVpCbFFoeDNWYkJ2eGtFSklPZkU?oc=5",
-"source": "Pickup Truck +SUV Talk",
-"published": 1793980361.0,
 "stocks": [
 "Tesla (TSLA)"
 ],

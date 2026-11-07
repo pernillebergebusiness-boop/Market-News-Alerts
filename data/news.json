@@ -1,5 +1,5 @@
 {
-"updated": 1794089801.5756478,
+"updated": 1794092381.1199281,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,6 +73,42 @@
 ],
 "items": [
 {
+"key": "be3a45e629e9a1fe",
+"title": "Tesla Cybercab: 40 kWh Pack and Liquid Silver [2026]",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVDlSa3I2M0tJUjVDd0NhekI2d2w3ZDR1dGxlMENBdDF0TlphMDh0VllfOUFlUk5sYllmczFwNWdXRW1YYl9RQ21Jdmx4cU9zSFBQX0lYT1pfeWxDaU1tQmFybzZzZTBoWWx4ZHpvc09kX3VjdS15c2dqYklGX1RMa00xSk4yS3Nra044Qzh3b0xyQ01sREtNQXFIVExiajZVbEE3Qw?oc=5",
+"source": "shattered.io",
+"published": 1794090655.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "f722868723e47751",
+"title": "8GB of RAM is the new 16GB on Windows 11, says Microsoft, in an absurd comparison with five-year-old hardware, as it pushes $429 8GB laptops",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNRGhQOTRwUlRpRzBiX0t5cElpeFZmc2luXzU3ZTNXVnJSZmF6TVpIQ2xGZ1JiYVNOZ2pIb3czRVFwTGpzWE0wcDF3YV9NQ04xTkM2T0NVOHgxbXR5OFAxVVlHU3lyaG1YRV9SM1Zjc3dKeENoQllWOHE1QmF5bkJBVEx4MVNiNmRycVFqOEdNYmpKSzAxT3cwQ1o5NVBpM29Ub3Q4TlhaV1ctYS00SFNOUWtEbnhsMVFtWWhOLWFvd21pcnpNV3A4N054dXZxblFpZDl5Uk9VNXk2WDlHQkhHVVE2TERIZ1NTWHp0bzJLcXNDNTk1X2toWVg5Zk5xMkI3bFRFRGo5eDdZdw?oc=5",
+"source": "Windows Latest",
+"published": 1794090609.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "104d1a0f9f80661d",
+"title": "Tesla Ramps Up Cybertruck Production to Make Room for Cybercab in Texas",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcFkyZ2pobDg2cV92d3NxbDZpdmx1ZHhaN19mempMUS1HTTNaWXp3ZXBlcFU1ZnRaZWVwTXNqNVp6dFFIQkJQRTFFZTFYVTlYeFp6ejVYNnJMV0VVbDNFWW0zTWhRdG9CVGd4elY3UUxEemplUW1QNzUwbHJheGhIRUpQOVd1ZHFKcmQzczVB?oc=5",
+"source": "Complex",
+"published": 1794089105.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
 "key": "eb04a527ff384465",
 "title": "Tesla Cybercab Goes Personal: Liquid Silver, 40 kWh Pack Confirmed - BASENOR",
 "summary": "",
@@ -145,6 +181,18 @@
 "keywords": []
 },
 {
+"key": "0b26e193a2bcaf22",
+"title": "Man Works On Wrecked Tesla. Then Plugs It In: 'I Wouldn't Do That'",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4wRjh2Njd0enNkZGVZTHlnTGVsZEZiM0RvVXo2Rm5oMUxNZVVObkduaWZCME5Pdl9sTVY5SEc5NVQwb0d2ZHpzWUh4cXRlWlpZa1B3a3VRMHBxRUhLTzlHWVJtVUs5TkNLTjFvb1Nn?oc=5",
+"source": "Motor1.com",
+"published": 1794086090.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
 "key": "4693214de54a4cab",
 "title": "Nvidia H200 China Approval Hits an Empty Office [2026]",
 "summary": "",
@@ -189,6 +237,18 @@
 "published": 1794084606.0,
 "stocks": [
 "Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "d8c6974124851aff",
+"title": "AMD vs Nvidia on a Budget: $299 MSRP vs $449.99 [2026]",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbTFxblhCTlNUa1NWTWlVYllRNURFN05rUlVic1doRmZ4dHgtRjhFM05VWGdqZWdwUTFvY0J6THVxbG9kOUVHUW4wd0tmNEpBQWxycUtSd0xGdEFRajZMdnJGeWY2SEFTdUVkOXZsSlJKZFl3TlRUdE5GYkhKNS1PQXFVOXZ4UQ?oc=5",
+"source": "shattered.io",
+"published": 1794084233.0,
+"stocks": [
+"Nvidia (NVDA)"
 ],
 "keywords": []
 },
@@ -445,6 +505,18 @@
 "keywords": []
 },
 {
+"key": "da272539aab4bc8f",
+"title": "Tesla to add Cybertruck shift to clear orders before dismantling line next year",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRUhMT1JwanVVTTN4eGhvcXBNTHo3UV80QXFDU2hMWTRuUGppME9ab3RkNVkwZnFOWXh6VEZ5WUNHaHcwclAtOEZFb09CLWwteW5pN0JMY1lydFVhbzV2OVE4a0FqY1lJRGhIeEN6SVNnSTBfTTBuZm5GeGJFYjdMMUVTVFVFcGNlQ2x0RnF0allhVDV5MlQ4MlV6b1luV21tOVdNQTBzNG1RaHJBU3IxSlBGV25fRm5KTUEza0I4M2xRYnZwZFVIR29vMEY0bXBBaGMtWGJNOEw2Z1VjVXc?oc=5",
+"source": "Reuters",
+"published": 1794078588.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
 "key": "40a7239e28353a72",
 "title": "Tesla to add Cybertruck shift to clear orders before dismantling line next year",
 "summary": "",
@@ -477,6 +549,18 @@
 "published": 1794078350.0,
 "stocks": [
 "Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "4d790ba2f58c1239",
+"title": "Musk says Tesla Cybertruck demand is outpacing production",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSGFpUGpkTUlMeEtMdy1VU1VnYVEzWFZpV1Y2c01BYXUzdVktRFVBQlJ6Wm56anNlS3M4VGxuN29TNDlQSENyLUs4YXdQNE9ESmxaa1N6VUphaUF5U2o0WlZMUjZCVTEtTmNJNXZqVDVRaVh4QVRKZnpLbXJJdmE4ekhVSEEyUlZnWHBHVm1DNkNNZ2IyaGFSQ1hYaUZ3SnA0SWZRWklyNnhVVXZEZTRYbHZtT3FERzFnU3owQw?oc=5",
+"source": "TradingView",
+"published": 1794078343.0,
+"stocks": [
+"Tesla (TSLA)"
 ],
 "keywords": []
 },
@@ -4793,90 +4877,6 @@
 "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdVM5RWx2cGx4U3R0Z3pJMzRzQ1NWaURpbkhvRnRXbzhPU3dVcVRmbVBuT05DOUJ4aXduWGhWYXBzQVZSbVhpU3FHVkQxdnBIWEFLSHBzNGJuc2VWR0Exb3F4dkFSazFNM0ZvQkhrYm1jMzlQcDVGVGQ0RUlYWW5ZVUIzRng1Z3YxZFZmaC1TbWUzSVhoTUJfY3Nn?oc=5",
 "source": "Barron's",
 "published": 1793995020.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "51d9745a6c6f1525",
-"title": "MICROSOFT CORPORATION (MSFT)",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4wWnpDNlZaNkxOLVQzYm5ZUnl2R2ZSWWNZRGlUSEcyampTVG5JN0FQYldQVlpMRkY3WEttUUN2MU81TWlfTEpDdndHMVBleVcxTXdRZXdpR3A4enFpdHNFa1N1V043UXo3R2M3eklCVXluQQ?oc=5",
-"source": "MSN",
-"published": 1793994990.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "7570c64963ae7322",
-"title": "Equinor Shares Fall After Downgrade From Morgan Stanley",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbXpSZ0l6dG5iZnZyTnpNWHItdEhzVHB1clJZVVZPTHhwb1k2YXdrZlFHMG5wVmxkZ2MxSE9iak1NMHpqc1NMQjZNRU1iSDA3MHZ5YlpHNGd4QzYzSkh0bWZ3NEwwZGJMaHdwanBkclM1aGFGaXgyYVRzZ0ZKQ3VKZFNVOV9uc256Q3UxcGY4R2FRMENRalptU2c0dlpLbGtKY2dIS1BkR3F3RWwy?oc=5",
-"source": "marketscreener.com",
-"published": 1793994972.0,
-"stocks": [
-"Equinor (EQNR)"
-],
-"keywords": []
-},
-{
-"key": "3f0d6658a34786a0",
-"title": "Why Nvidia’s founder gave Scripps Research free computing power",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSUU3UjQwQXZQTjJaS0FhUlllNFA4aU15UjAzbWdwa0RDUE01ZHdKZ3hYYk1ZLVZXRnZqMDNFdFdsRE9zT05sRXdaWEJfWFM5OHhpOS1IVXg0eTBvQ0pCSWNqSVFHOEhLakxmWnBWck1Pb3g0TnNhWDJhRUlRQzMyN0ZxQVA3ZzhRcHVPR3VTb2htVkZ6MWY2REZodF9EdUJyZU5qWlp3?oc=5",
-"source": "East Bay Times",
-"published": 1793994668.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "d6a2104febf05128",
-"title": "NVIDIA RTX 5070 Ti Climbs $160 in Eight Days, Now 79% Over MSRP",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNc1duaGJaTWsyTkZVM3RTMjZrQ1VTOXJvSDFmVjJmbGdISnQ5SzBGU1dqX2EyTVVfNHIycy05YV9oUEtycllBWi1tSnhUVUt0X2FDUElkTkxwMTdzRjBnamEyWlBuMzVKNWFoUHVUME5GVnJIMUU2THU3ZHJPN0JtenV6dDU5LTRBMGJVTFZZNWVGa2hjOFdtTE13ZUFYaFdR0gGmAUFVX3lxTFBNQmZkc1ZJWEFZcTJHYlFEUVE4NDNMeHY0WVB1YnJUNHA5ejFNMUZlcy1hTV9aaGN0LW44ckw0WUthU0dzQmVqeThpVjh0TzRZY0FlaExZUzFMczd3RjBWUE5YN0hldVhKTGlxZjNjNWRTY0hoNEtROGVvRk9PaDhEZFlHUWxnaldUT3NjNWZBSENvRExTVjdiNk5JV2FMUWRMVWZ6WXc?oc=5",
-"source": "TechPowerUp",
-"published": 1793994250.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "0987ae197ccd3389",
-"title": "Microsoft Exits Oracle AI Cloud Deal: 3 Key Impacts [2026]",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZnFHYVV1MVR5b1hIUW5WUi03Z2VJQlgyQzV5Z2kyd1ZKdXRwZDhFNlN2aWNXc2dBN0FHVm9MaldzZVYwOVY4UXBocURydHMyTU1EWlV1WXlFRXh3NzlJRnBQSk9HQ0VKNVJ6T2dIbnFYbVpKVDhadHVRVzR0ZkVIVkxIUFNXY3pzbmtv?oc=5",
-"source": "shattered.io",
-"published": 1793994220.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "c749186051d0aace",
-"title": "The Tesla Cybertruck Is Dead, and We Say Good Riddance",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA1WXhCaVprbFl5UG9DaHF2QmppM2g2a0lKUVZOdjJmMGt6dXdrRlcybHI3dTd1UW1rSVpJeV9uWWs5Nk9JOGRXTks3eEk1RFZMQXBsV1djLU95UmR6VXJOdE9uVmV2bjg?oc=5",
-"source": "GearJunkie",
-"published": 1793994188.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "f1ee67a692fdb33d",
-"title": "$11.4 Million in Nvidia GPUs Stolen by a Truck Posing as Food Carrier",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcm53RmxXZ2U2NFlNWTNNVjFoZGViSXBkOWpaeWxJM3dwZzVvZmV3YnhlQkw5ajRHT0U4Y3FUbzJjRWFYYllfYzRWMndlcmttMGJOWjY2TkZCNV85bDJuMWdwREVpcThnWERvNFM2V1pxQ0VwVkNnZzRRT1pwemxDZGF6cDRaRjQyeXJiQ1h6eHk2UGYyMmt1Q1FpMFVFdw?oc=5",
-"source": "Gadget Review",
-"published": 1793994184.0,
 "stocks": [
 "Nvidia (NVDA)"
 ],

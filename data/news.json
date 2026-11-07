@@ -1,5 +1,5 @@
 {
-"updated": 1794092381.1199281,
+"updated": 1794094289.2251668,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -72,6 +72,18 @@
 "Yahoo Finance: HTTPError"
 ],
 "items": [
+{
+"key": "ce033127ec70f748",
+"title": "Microsoft Ended Personalizer 10.2 Years After Langford Paper",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPekZ3TFhweUpHbktXYzFnZHk5bmVLemlZRFRZbGl3NEtGODhGWUxlMkkwcnFHT05ILVA5VTdBR2FjSVpoSzlkYVFqY083UktZOUlMejd2cEVxV2dnV1NraXd2d19LaWo3UVVYb2lQajVYa3ZqNDF2TGNZMlhtNkVYZnY1MjZJSjhpanNCdWxkTTJmdw?oc=5",
+"source": "FourWeekMBA",
+"published": 1794093769.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
 {
 "key": "be3a45e629e9a1fe",
 "title": "Tesla Cybercab: 40 kWh Pack and Liquid Silver [2026]",
@@ -4867,18 +4879,6 @@
 "published": 1793995063.0,
 "stocks": [
 "Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "4ebb3c8042f3c8d8",
-"title": "Stock Market Outlook: Nvidia Earnings, Anthropic’s IPO, and the Fed Rate Decision",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdVM5RWx2cGx4U3R0Z3pJMzRzQ1NWaURpbkhvRnRXbzhPU3dVcVRmbVBuT05DOUJ4aXduWGhWYXBzQVZSbVhpU3FHVkQxdnBIWEFLSHBzNGJuc2VWR0Exb3F4dkFSazFNM0ZvQkhrYm1jMzlQcDVGVGQ0RUlYWW5ZVUIzRng1Z3YxZFZmaC1TbWUzSVhoTUJfY3Nn?oc=5",
-"source": "Barron's",
-"published": 1793995020.0,
-"stocks": [
-"Nvidia (NVDA)"
 ],
 "keywords": []
 }

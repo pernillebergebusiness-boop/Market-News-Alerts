@@ -1,5 +1,5 @@
 {
-"updated": 1794013425.2809048,
+"updated": 1794016891.9223263,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,6 +73,67 @@
 ],
 "items": [
 {
+"key": "c6f07fc512654348",
+"title": "Tesla Optimus: Musk Says Rent, $30K Build Cost [2026]",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQLThCSDVYbWxMY0c3bWtvYldWZEktVmtidC0zZXpHTDlJcmVJd1lYVmpVekNNVUdmTnJSYWhnOUJITFN3SzhPOGlzUmFYaHczaU1lT0x5OTJNU0pwZnBiMkVKdDBoVDJwbUZTX2JmbnBoWlhaOXJGazNMaE5jNE84Y09OeW5peDg?oc=5",
+"source": "tech-insider.org",
+"published": 1794016451.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "a1136f2a58f7d4c5",
+"title": "$11.4 million in Nvidia cargo reportedly stolen in Oakland heist",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTWhwQjlNQUJjUUhQQkgtZ3NGcmtPY2FnaTBoQUtlazVQWHhXblgzVFJSOUdVQ2J3TG5LaWs0Uk1GNWJqV19FRU82ZGo2M05HZjBxT3pxWFh2OVdSdFlNdGI5Ny1MbXpySFdyUjNUeW94LWhnOUwtcnVnTkViZzBHNHBtR3dCN3hxX3dUdE1udFVGam80T0NNUFprSFF3STltTzZhRmYzdTBXcHJiN045UVUtVQ?oc=5",
+"source": "Los Angeles Times",
+"published": 1794015720.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "0139012834d569f2",
+"title": "NVIDIA GeForce RTX 5060 prebuilt gaming PC deal with Ryzen 7 5700X CPU drops price to just $1,159.99 in huge discount",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQLU9zR08waUctR3BsdlRwQkllWU1UOFNGUUZEZTFVOTRfOFd0R0tRUnd1TlFXUFBUOFZtR2w0RjRhanM1ZkR3T3hCck5EaTlpRzNLSFRFclRJZGpvcTE1cnNfajgyTHlKSU01WUVNbWtEbkVkMXdzaDJ1NXViS3ZXSi1XT0dBcmhuX0JPaEgwTnZQbHNFeGJFdWIxZk1pNW1sRzd3WTZQSGVPVVVtMkJFSngyWDhzazlBZk03YnljblQzQTQxa0tQd1h2dm9jdDEtZUpuWm5BWk9nRGs2Q0Fz?oc=5",
+"source": "PC Guide",
+"published": 1794015516.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "1e47d0f7f4811fb2",
+"title": "Stock Market Today : AI Stocks Rebound After Brutal Nasdaq Selloff, Oil prices Fall",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNHY2MlhOMGt6cWtheDNLUHV0blZWVXo0STN2YlFqWkxhNnoyb003R25jTU1na3kybktTczljNVZ6Zl9hQnQtZ0V5elJ3djJXTDVaLVVVRm5kUjlIVXR4UmNEeTdKdERCRHNNWkpwblJqaUxaVTFnYVlBYUxEb2Rqclp4UmpBZTItZi1ENUFPVFpBRFdweDdyVmdzVDNDWmV3dVhXc3RwMGtybXQ3?oc=5",
+"source": "Eurasia Business News",
+"published": 1794014505.0,
+"stocks": [],
+"keywords": [
+"oil prices",
+"selloff"
+]
+},
+{
+"key": "ddf2ba36dd4d6bc0",
+"title": "Nvidia-backed Groq seeks $8 billion valuation in new funding round - Bloomberg",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMk90UkNqalNjcGxVQlVQMFduMV9XYXZ6UkhWNVZQUURqOXVuaE12aEdranN3UzdiZ09lb2dKa0ZPRXdjcF8xOE9XcDk2NTFmLXFSaEIxX1dXbGI3Y21CZzJXN3dVUW9KNnNCbGY1U25YYkItUHdIM0VvcF9YQ2g3N1htR2d0bUlYNHdmVW4zaFpIUWluU0wxRWJOcV9DVXR5dmNsZEpkOXBGdXl3aXRTamxiaXZ0V2pZRHV0STZXdm84b3JtOENHTGZxMHA?oc=5",
+"source": "Investing.com",
+"published": 1794013546.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
 "key": "212d2995deff6086",
 "title": "Thieves Make Off With $11.4 Million in NVIDIA Hardware",
 "summary": "",
@@ -81,6 +142,18 @@
 "published": 1794013327.0,
 "stocks": [
 "Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "33cfcda66026ae99",
+"title": "Microsoft is fixing one of Windows 11's most frustrating sign-in problems with a new Windows Hello update",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbElKWVlKbFRTZU93N24xLUZZX2dkajA5cjdJbHp1Mno0TGhOYmFuU2o1elVUWFRkUmdhM3RXSHRFdG1nVkMwQkJlb0NVS19mR3d4QzFrV21Fek1OOHI5WFMyRDhKcVpfUUdnUlVZajBIb0VaWFVXQkY4c2VHeWlvQWZSVWtkdzdkdk9Hc3o5S3JYaDFON3ctb19fQmFrZWU0RWwxTWdQdENjZE03alBtcXI5dHN6d01ZZ1pwTk5MV2pQNVE1bm5fOEM4cFhvM0FYVXdLQndzWThTRGk3Y21J?oc=5",
+"source": "Windows Latest",
+"published": 1794013226.0,
+"stocks": [
+"Microsoft (MSFT)"
 ],
 "keywords": []
 },
@@ -105,6 +178,18 @@
 "published": 1794010969.0,
 "stocks": [
 "Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "e03216ab778f5327",
+"title": "Washington Post. . Protesters broke into a Microsoft data center site in Amsterdam, hanging anti-AI banners and spray-painting graffiti. Protester Sam van der Beek said the demonstrators were opposed to “this whole AI infrastructure,” saying that data centers a",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPY1ptb0I5Z3BnMXBod1ZYU1VURTJmZVVIbUNZYWg0UFlUemFDNHVDM3ZJQU84SF9tY2ZUUmViZVJDbUZiTHhXNjc3MnZQdTR6emlYc3JfSml3N0xCbTNTbEJtSFZIYm9zNGRYRWdjSlpVYlAyeG9TOXBQVlVZem5ZQjBMdEdUXy1USUtXUUFrZS1vNDBUc2hGQ0NlcF9GWVA0Wi1XOGhvV3E2bkFvSGFJS0k3anhSX3VYeTJwRGpiVnI2SXRJY2twc1JteXREaG1KT0tfQWcwMV9Hc0RzcWc?oc=5",
+"source": "Facebook",
+"published": 1794010502.0,
+"stocks": [
+"Microsoft (MSFT)"
 ],
 "keywords": []
 },
@@ -275,6 +360,18 @@
 "Tesla (TSLA)"
 ],
 "keywords": []
+},
+{
+"key": "7ac859d6177b99a0",
+"title": "Wall Street stocks rally after heavy AI-related selloff",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdkNWMElVN0RDc0RadU5MSnhFNGZrcWgtZ3JYWU91TDd3OFdUWXJKR2xKUlIzWmQxN1RvVHBTYVNHNDFTX3h1b1dqLVVraVRvdER3UG9fZmZtN3l2cjlHSGJZMlBMTTNJSWlMTEtGVURRd3N4QXFndEFRel9yMkVzcnY3SDFEVlhZNlJ5YWlKLUVEUWdyakRCeWRhUXc?oc=5",
+"source": "Yahoo Finance",
+"published": 1794004759.0,
+"stocks": [],
+"keywords": [
+"selloff"
+]
 },
 {
 "key": "8585948a2c4fa634",
@@ -4809,106 +4906,6 @@
 "Microsoft (MSFT)"
 ],
 "keywords": []
-},
-{
-"key": "df4f307fd2647b10",
-"title": "Tesla’s Primary Growth Drivers Just Got Choked Out",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObGdLYlJ0eVN0dGNGTHEzNnpNS29fWnlTQWtZODg5LWhpRUZ4TmY0S09XMVd1VnpwV2tqU2hER082aFJnWG8xSzZGaldmLTRQS005MldnYUpBeEp5VkJIQVN6RlRkUFlNYldSaUdQTTNhMmo2eDhZamNRWVN3VlFNdTItVHJvM1dnbXJfckk4M1hWR0ZCMmlscmMyRkRfeDQ?oc=5",
-"source": "Yahoo Finance",
-"published": 1793972713.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "b5a88b1bef157187",
-"title": "AMD Vs. Nvidia: The Balance of Power Shifts To AMD Now",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTll1NkNKUnd6U2cxWjFKNWEtWUNGUEFGVHkxQ1p0cGM5c05ORm5LVWkxMkRXbjBKYmxvaHl6MWZsOVA3eE1FMWRLQ1laYW1Ncl9hQS04NEpYTTExeHY3S29UZnBXY1VPYl9jNUV3X1E1VkdRSUJiNHhuRVlyUXFZcFFPUlNZSmcwdmVQT243UngxOXpVX2tZdkRmM1A?oc=5",
-"source": "24/7 Wall St.",
-"published": 1793972700.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "ca80be3f81f9f2f4",
-"title": "Tesla’s Primary Growth Drivers Just Got Choked Out",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdERFdU55YVlZZlhvT292d0s5bGhROEFYdFFuWmZ1Q1dRSDByeG5WR0JtRV9SeFBmcG53eDhkbnhlUmQ3X01NQUh1Xzd6ZmtWYmZlV3ZmeTNQTWVDbGxzZW5ZUGNGZEdERGhrQ3Z3Nm9Cd0hVZ1RDb2NfcGFQX0NIT1hwSTRUMGxWWTZnV3JfeGxEb0pER0VKcQ?oc=5",
-"source": "24/7 Wall St.",
-"published": 1793972700.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "5fe3bf61a5443804",
-"title": "Cathie Wood Is Buying The Dip In Nvidia As She Adds $45.9 Million Of NVDA And Sells $119.7 Million Of Broadcom",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVmgwMG1nNDhvejFLdEVSS25ad0V2SjZnOG9HWmRndXhXWnpsUTZ1YXNpVGh1Q3VtbXlWcTdOajFybF9ZUEFNRktBd1FJc0dfd2ZLTnpwdENKeXhmczhMTnRyNkp2WHlfeW8xdzZDNVlxZ280d0k4QVZKZ2l6N1BNX1pFS2NYVnNhNEVJWF9nTzJ1TjVOaDFHenV3?oc=5",
-"source": "Yahoo Finance",
-"published": 1793972619.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "ae178cfe74779145",
-"title": "Nvidia, AMD, and Micron stocks lead chip sector higher following worst sell-off since 2020",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNN3JvM0Zfai1zM2xsdXJKQUdqUHFpTWt6SDJxbW8xVmlrX1FraEVZcUxBTjJiaXhDODNSSlg5M3ZLNmVraVMtYUlOTmtIODRwYkJjVkVZdWwzVmFuSEtHSVhqeDdiRENic1YyMjJMQksxM0IwZHZJemN6SGMyZzRuWDI1cTItRC1DUGRvQVhlRXZYaGtTNFJnOW1ILV9WOGxBUGpwaUQ4UkNqZw?oc=5",
-"source": "Yahoo Finance",
-"published": 1793972616.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": [
-"sell-off"
-]
-},
-{
-"key": "d2db3d11a9d70822",
-"title": "Nvidia, AMD, and Micron stocks lead chip sector higher following worst sell-off since 2020",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMmVsMTJicFU2WTVMc2hlaXplekl1RlRvX0JxRWZ3SFNSM2d0TXVfSXpSV2VsZ3NBRV9SX2g4ZmMtZTZCQV8zcFp1UF96RFc3Q3VaQnk2aGhsVXhfdktMOHZSNzBKUGFyZ20xQ0JFVU05V0NHZ2Z6ekh2a19xbGxjOHJsVFRpcGdJdl9sZHVkWXNNSU5zTjZXRk5xb2t1MFU?oc=5",
-"source": "Yahoo Finance Singapore",
-"published": 1793972616.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": [
-"sell-off"
-]
-},
-{
-"key": "bad347a498421c90",
-"title": "Cathie Wood Is Buying The Dip In Nvidia As She Adds $45.9 Million Of NVDA And Sells $119.7 Million Of Broadcom",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMDBWUTJBTnJyc0tCeHIxVTR2eldGeWtvSUZrT29CX1hvZXZkc013ZTB2Mmo0bUw4dmEzUGRWUTdDTWxmRFR2ZjMyMTFPOUI3X20ydjhnbVRVMzNqYUxabTMtNlJfOFU3NTZDeHcxLUxtbDhuWlZSRmM5NkFLMkJ4VXdCcVY3ejBZZlhaRjRHdTFOMFlhQ1kxZUZpbEh5MVhPbWZRM3MwbEpYUEVyLUpEZ1loS3UyZFlDUFREaW5hdE1oYURRQXEzLUNPbkR5NkQ0THlPZ2w1SUFfb3paY3NfZ3NNc084NDg?oc=5",
-"source": "24/7 Wall St.",
-"published": 1793972580.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "74671ca3cf1cbe56",
-"title": "Massive tech sell-off rattles stock market",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1CZEh0MExGS1JNS29tUnVBSlB3Uk04Y3Y2dE5pT2J1TzFoNEI4QjJJbDFTekdZck5aVThmTm9neDhZTlIwVVhGMVRqQVcwekJmS1RMR1V5cW41X2_SAWBBVV95cUxOQ0JuMTkzUkFtRElyOG5ibUM3YXN4TkItOG4tNGppZVhKMmxpRVliWkoyZ2dFVFJfVmtuV0VMQXdVdEo4Qkpacnh1VjJBUkE4VWZidFpaTTZ6LTREcU1SQ0g?oc=5",
-"source": "FOX 9 Minneapolis-St. Paul",
-"published": 1793972568.0,
-"stocks": [],
-"keywords": [
-"sell-off"
-]
 }
 ]
 }

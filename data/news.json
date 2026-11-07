@@ -1,5 +1,5 @@
 {
-"updated": 1794061448.4012914,
+"updated": 1794063862.8760414,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,6 +73,93 @@
 ],
 "items": [
 {
+"key": "bad3e8702f848fc4",
+"title": "Tesla to wind down production for the Cybertruck",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zZXR3clN2UHBQZlNXTlc0S3JJWnp1VUJFTVBYVkN4aldpRHhMMWxSbEtBWkJHZU1ydDlGVTI3SlVVSlpUdFRHQURhSWxsOXgyWXN3Rkpn?oc=5",
+"source": "Fox News",
+"published": 1794063178.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "dd1cd8aed6440d54",
+"title": "Not Nvidia. Not Micron. After the Chip Sell-Off, I'd Buy This AI Stock and Hold It Forever.",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQSFZBV1JPaml5emhaRnZlVVc2TTRHVUhfTVR2Nm11TmlJN2pKV1J1WXA3MXJfUFFSbXUwSEVrTEZ4OXB2MUNUNm9BQ2JwNW1vVGV5NERfSWx1WF96SDZCOE9sRTdtUzZRVUt4OEJzM2tMcGlsLTItQUNJVUhBLXN1eHA4ek5JcDBUS202eVlqc3dZNGJJQlJmLXUzZ0htQjdRVWEyT1N2LUZJT0V4WE4xdDdrZ3F2aFlIYWlYczNSd3FDRzRyMVUySkIzVEZnMU9Qbno3N2h6ODA5ZENqdXRscW5oSzUxeHBsWEljdlE2dTZDbG9MSlRxekxHNmNvNU1hM1hGTA?oc=5",
+"source": "The Globe and Mail",
+"published": 1794062813.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": [
+"sell-off"
+]
+},
+{
+"key": "f89023ce30f29d1c",
+"title": "NVIDIA CEO's Daughter Cancels South Korea Trip",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZUdHU0tqNjBNQnJ0MkZoUkE0SS1hRDVUV3RxOVR0bVF1Ukh6WXotbmdWY2ZNcGViUGpaMmlIaGdjNFJfdTE4dmprbVNOMVZvV0t3SE82X3lGZWRnUkQ0ZkkwRVVvb2FoQW9lZ3ZRWVlkbnNOLWZoT18xY1h1QlZZZ05KaHphQjQ0RzFZdA?oc=5",
+"source": "GuruFocus",
+"published": 1794062701.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "77d786a52d31e8fb",
+"title": "Outdated Nvidia Chips Prompt Microsoft To End Oracle AI Cloud Deal",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObmhaU3l3RFE1eG9LM2dFcmdzbkpiMk5EVnNDYV96X1A4dTBTVnVhUjg0WDFlN0JuYVJxSVlIblNtNkprZ20xMVl6MWwweVRtWmQyVDc1dE04Rkk5TDdQb2d3ZWFic3VjZkNGa2lsWlQxTUhCSm9WeFVvbXg3MThJQXFMX2xrNVJCQ1FpeWJfQ1dSTElvQnNaSEJSdUdLb29OeG1WTzVOeGFPSXpLbFVSTFFZRjJRUQ?oc=5",
+"source": "Crowdfund Insider",
+"published": 1794062602.0,
+"stocks": [
+"Nvidia (NVDA)",
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "c9f2d627c4194244",
+"title": "Heritage Investors Management Corp Sells 2,131 Shares of Meta Platforms, Inc. $META",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeV9UN2JxTThNX0IwSy1od0hNTWY3ZXVtTENWUy03aGRzNTBQZ3oyQnFtd2dtSWhhWVhUZ1ZHVmRONE1lLXNyT3p4anowcXdScmNYbHJIOEVNbFVBRG5BMF9KUTlaOXJBR0RsWHpSTGF1Qm9OS19Jb0wwb2VoVXBxbXpkam5KZHBrcTZSS3J5LWU3NGdkN2E3SGxFVlp3ek1vWTgtQ3Z5ZWZaMko5aFFQTUxEWFBvRmFQaWdmRVYxTk50TktJdEozbmZBcTZTS05LZnlWSmxEYw?oc=5",
+"source": "MarketBeat",
+"published": 1794062014.0,
+"stocks": [
+"Meta (META)"
+],
+"keywords": []
+},
+{
+"key": "ac3784d64b7d56dd",
+"title": "Tesla’s Giga Shanghai Now Sources 98% of Parts Locally",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPa3BHaTBxWGFPQWc4MGEyMm9HU19DX3VrN182OWVOd1E0bkpGN1BMcjNCM0w0eU5PazVXWFRaTmF6a0xaMUEycEVQcVlhUWYzdEVXRi1zT3RQWjZuQ0g0RG1QSGhUQUFyMi1qNm80dWhjcDhfRy1oaEJlaUpIaTdEUjlfNzJ0MnEwMUd5NW9idk9kVWF1cnc?oc=5",
+"source": "Not a Tesla App",
+"published": 1794061800.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "3c57608aafa830c5",
+"title": "Meta Platforms, Inc. $META Position Lessened by Greenleaf Trust",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWi1iMC0zTVJkOEltbnBFaEMzV3g3YUYtY3dfNXFKZmJLdW93SmJJMWxRaEtwNENMQm9Sdk5MNUYxbzNLaVFENUVXZkc0U2IxWjFMU3lpZXFyWDFlRHNmUEFnOEFZLUlKd3NtWmRibzVhSWxQd0hFVXZLTUFxaUQzbmhEcVcwLTBENk5hNy0zMDhPdnJNNF8xdTlnX05BeldWQ2hsblM2eERUUkdlT3l0cjJTZHIyS0FmeWVWaXZn?oc=5",
+"source": "MarketBeat",
+"published": 1794061626.0,
+"stocks": [
+"Meta (META)"
+],
+"keywords": []
+},
+{
 "key": "ccad176b5fff42b8",
 "title": "Jim Cramer sends a strong signal to Nvidia stock investors",
 "summary": "",
@@ -97,6 +184,18 @@
 "keywords": [
 "sell-off"
 ]
+},
+{
+"key": "a229d199729ea2c7",
+"title": "Nvidia CEO Jensen Huang had a romantic relationship with alleged Chinese spy, Alice? US intelligence memo raises alarm",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQb1hpWVVCSElmTEE0Wm5OZUVqSUxabERTVjZyQWtzTTVBclZBZmQyUWtpWWk4ZkFXLURDYktmSmFqbU42NEhEc1h1Y2Fkd0ZxanlCZkN2bGx2ZlpMZjF1NmJpMFZrUUZmU3llUm54R2NyTkRHZVlPdlIxQVNoSllWbmJFODNNT3VHZVZad05taVlZVnk1MHhLMlg0a2dTUUl6cTRfM2ViVllMYWhWMTVRLThNTk95NXZ0Y0hXeHdnRTkxdVYyd2lkODJkWFpnLWNQZUltUi02ZkFyUWtSSXBJSHdHOUF5UUlKOWw0UVRZSFhlUdIB9wFBVV95cUxPWDJpamx4bkRIWDVwQWxxZ2FhS1ZwRUMtU0I1amwtTnk1dVlnSEg3ZEV6SWkwdjB1Um8wdmtDNmpZTDVWbWFFZnpvQ3cxTDBsTl9weHNJb1VaTVdSZlZBanA2eGhFYUZmdFdpaXcwUC00UkZHMm5MSXJneVppWXZHYWJueGt2YnRWSjZ6VGhWQl9iTDNzcW9ZWUJGLWpuWHEwblNHcF93dnNjM1VhaTZYanJvN1FOY1NudXFGNkhiMjNiRlNmaGVGX3Zia29GcjBpZmNQM3ZuSnRTU1k0cXFtUmhoYnFtTklEU3ZHM2dOdlVEVkRUTUpF?oc=5",
+"source": "WION",
+"published": 1794060720.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
 },
 {
 "key": "4bf7984a14bda0ee",
@@ -231,6 +330,18 @@
 "keywords": []
 },
 {
+"key": "56ba07bf1c7e6de3",
+"title": "The long, strange trip of Tesla's Cybertruck",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZF9NM1NveXNLc1JrWDZmaWMwbzF0ZmtOM1RKZ19kZ0NJQTNQbU9Pc1pVSTd4cHFYYXh1ZUt4ZGRFVVM3em9fYjZGTWVhLTZxdmprRDI4RWVfT2dhZ3BnbEJOX1YzWE1oSVpFNHRlZFNOdno1QmtpTVFSX3E2dWRvVWRqMXdZb0NLbFRMVjRpbllsNVpRQ21SU3V6N2ROMktUYXczYlpsclhrUQ?oc=5",
+"source": "TradingView",
+"published": 1794059367.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
 "key": "fa0b3409436f0048",
 "title": "The long, strange trip of Tesla's Cybertruck (TSLA:NASDAQ)",
 "summary": "",
@@ -241,6 +352,18 @@
 "Tesla (TSLA)"
 ],
 "keywords": []
+},
+{
+"key": "d7bdc791a8ee1f08",
+"title": "Is the much-predicted stock market crash finally here?",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdkdiZHFVX0dSVE0xVVd3ZEM2ck5RalM0RWdGS0hqN1U2M1hxRjFFbV9kb3dacElabXZfSThjQWxVSEVYLXpqc2h0cndyNE1MZ2hNejY1RENsSGpxMmJWck15LV92VEh6QnNJaEhTNmtGODJrRkQ4T3dyTFIzd29Ia1JPMnpKLW15aVE?oc=5",
+"source": "Yahoo Finance UK",
+"published": 1794058980.0,
+"stocks": [],
+"keywords": [
+"stock market crash"
+]
 },
 {
 "key": "8894f580394af52c",
@@ -333,6 +456,18 @@
 "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUkNlOFJhX0lQRHBSSDVnams5RTFEaHJuOERhaTYyb3RSWlFDU3BaMGVTWV8yYnN3ZWNUd3U5OElMUFcyemdQNFhjclJQRjBUamtGWXhjMWxITDJ2dGRFY3o5NWtTR1lHLWtaRzJtei1lcjJHMjJxbkNUZC1FcVBBN3RiTHFONHFrZWhwRWF6NEV0Z1ZkYzBjdnBtMEUzSEp2U2lFbzhIcGFHSG1FV3phWkJxcVVXUQ?oc=5",
 "source": "TradingKey",
 "published": 1794056681.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "410d81e9e066c73d",
+"title": "World's first trillionaire Elon Musk to wind down Tesla's Cybertruck production after 48% sales plunge, missing chance to enter Africa's growing EV market",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaEdFNnc4WDV1TDloVmo0SmlRbFl4VzRoTElrNURKWVdHdWE2eWZtRFRXenZzcVNldmx4ZTlfSzAxenhfWXJfU1dtMkFzUXBpYjNKUFVwU2d3NTllTFZsZXZWVjBVa1o5aEdZS0p0SFVWUzh5WHBYTTRmVWh1VTBQc05ZUEk1dzBwNHBINGdDRmRPY0xIUm9VejhZX1JWWlRKeFhuTDR5ODdVUTRScTdkQS1xVjBsYjZuclp6bVkwcnFFNS1NaW9YT3Z5UXBadUh3UTJaVUFmWQ?oc=5",
+"source": "Business Insider Africa",
+"published": 1794056456.0,
 "stocks": [
 "Tesla (TSLA)"
 ],
@@ -4760,138 +4895,6 @@
 "published": 1793983466.0,
 "stocks": [
 "Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "9d18b182f5818c28",
-"title": "Congress Demands NVIDIA CEO Jensen Huang Brief Lawmakers on China Intelligence Ties",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUFY1dFRGNnBraXFWcHBzWmhZcktPcmptb0xWN3dyLXd2VThJY1NyaFBieW5PTU1scU9YOTItVjlOWHpOX29mb3hmQ1AzOGgwckhuOXhPTmZ4dTZQTURBYnhzd0JfenhPc0NYbG9hU2ZWUVZfM3JhMHhFMW44d3E5TTdRQnN5aWhGeUZ6TXJrdjVLOXhPTGZUQktOUmt3SVBZdGhJaGVBUm03cWU1d2lJaHBR?oc=5",
-"source": "Gadget Review",
-"published": 1793983408.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "da9453b5eaca341c",
-"title": "Tesla is winding down production of Cybertruck at Gigafactory Texas",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTjVXWFpMWjdYaW5PdUtPNkRicXJraHl6NVVXY1ZRRlhlRUVSY2VlSzhIOE9BemxDVXc3NGtSaDJrN2tadF9RVmhpT2IxdDdhdmVybDdWZGZQUUhCMnNoVko3T3ZwRDVkSS1jSTJveWppQUVSMFBzbEoyZ1JtZ1FkSGFTV3FpLTNHa0JWY04tZVVBc3pJS3ZXeGk5bU1mSEtVLWdtbi1MbHg?oc=5",
-"source": "Yahoo Finance",
-"published": 1793983360.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "4323a427988a5094",
-"title": "Protesters Break into Microsoft Data Center Site in Amsterdam as European Backlash Begins",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTFFzNXFUWTY2MlM2cmdDOXNQTU51RWlvdGgyNDd5SFVCMVlZUWR0X0dvcEw4QktMc21Meml1cVF5N0ZRWXlTY1ltUlAzQmwzaUtDeklfZGxoVjNYRHJBMXhaVG9ld01kNTRpZ296LV9seTBhNEdvLVVXSVVhSzRjaUlPX1hCMEZyZmo0TEZyRFVmZFlmTEExTmVlX0JUd3R0SWhrenRxbEMwYUhNdmxUck45RWM5Ry0zS1FZQjF3?oc=5",
-"source": "Broadband Breakfast",
-"published": 1793983354.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "bb0d7a4bc335412a",
-"title": "It's Getting Hard to Recommend Any Nvidia Graphics Cards to Gamers",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVk41VWFLU09CNHktTjMtTGF0aG12SW0weUFFS2gxMGRhWndRTW40eHdqYXZPRExrbHJycDNCSE0ya3REa2F3YVlFODA5MVlGMWtaMUFVbFJWaEo1b2RuX3kzWHFGaEVpaDNmbUwzZFZGaDFtQW5xZlRkdmd4Ykd6Y0hLc3NmX3AyN1FKUmxZUk0xNndtNE1JUURCMngxYnJiSmwtSUZ3?oc=5",
-"source": "ExtremeTech",
-"published": 1793983291.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "991129d4886637f6",
-"title": "Protesters storm Microsoft data centre",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQmRxd1gwd3ZlZlIxbTF6NDJJVHNqX1Rla3Nzel9SNWdJRnZCc1NNdi1wVnl4enJYNDdSLWhKakxTYzNCdFZIYTBnbjZ2VEl5R1pPaGtkVTNCZ1gwMzdnLU9Cbk5rRmhtY0NpMS1aaDN5b0xnVDVja1p6VC1iVk8taHVENnJtMU1ycVRuMVlscTg?oc=5",
-"source": "The Telegraph",
-"published": 1793983260.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "2dea6bf5e413c56d",
-"title": "Nvidia Opens Aerial Wireless Stack to Accelerate 6G Research",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObG8yUGFtWldhS0ExYWc3VGd4NXFsRzRNZnJlUjlEbG9BblQwZkFJV1JYcXRfZUhLTFJza05rb3M3ZlBhZG9NaGtLdzk3M05wdTNxcmc1dDZxTXhyRDN1T1hvYW5lN0RFLVNoS202SkgxVFE2OHZwRk1yUjVFbGJLQ1g3al9DT3NycGJhWFZyZm1tSndVUVA0WA?oc=5",
-"source": "The Tech Buzz",
-"published": 1793983250.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "e7222f1eda04ccc8",
-"title": "Aker BP ASA (ARC.DU) Seasonal returns chart - Yahoo Finance",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE83aTBON1YwRk5Sa2s5QjFCRm1SZ2pwYU1vdFZ1VDJLUjNQcHJuQkd3YXdmRTd1djZQdURnNnN2MU5sUUMxc0J2S3JHeENMLVhBMEw5Uy05X0ZyRHpHZFJRRFM0dXY?oc=5",
-"source": "Yahoo Finance Singapore",
-"published": 1793983025.0,
-"stocks": [
-"Aker BP (AKRBP)"
-],
-"keywords": []
-},
-{
-"key": "a85a43628b1abeed",
-"title": "Microsoft in process of consolidating neocloud relationships, sources say",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORlJqcDR4Tlh6aVJLY1V2aktSR1EtMkx1LUFoVF9fSDJVRHlzWkpwc2hNWXhWRG9vVUZNQWt2YzMxUmdCalZNT25TYjFYemxQSkdiMWdQWVR4djNwQVBMcTZabHF0SWQ0N2xvQno5eEdiMTh3YkxRVHg0cmxTVENUdlVrWHpHNmNzRlpUUURpcVZKZUk5QVgyYUhWVFpIUmpnQ2lLb1VxeHZqQld1bEJtdkd4RHpJQQ?oc=5",
-"source": "CNBC",
-"published": 1793982998.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "8449f52881cae3b3",
-"title": "Microsoft speeds up Xbox PC app with major performance update",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTXNPdkZQNWh1WmZMWjZJZmhYSWV4TEcyS3JoeUFsZzUzcy1UUVdrMERNSHh1WW4tS0VHbWViUUNtc0d5X3R6blBIMmFuWDcxRjhrSGs5aGpYdlNwbC1rSldDTDhKV0tPcWpub3VJSHZGRFgzQVU2MmtZa01RZlFhZUJtYktkam80UlRoQU5aWjgzOHlxVlFTSW9EYzhsQWQwcWwwWmdUbw?oc=5",
-"source": "KitGuru",
-"published": 1793982981.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "e0d1b1c84f06ab84",
-"title": "Fermaca to deploy 60MW of AI capacity in Mexico with Nvidia by 2027",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbW9oWkhnaG4yd243S0tmZ3hWMkNlenFFb2RUM2tjV0p4Y1RNcHVOWEJLVzh0NWlTZUh3bjZzQjJIZWxGMF80WFhYMVQtNlJ0aVAwU1pKX2ZjX0djeUZZMXYtRDRpUlVMNVMtUXdueVR3NUxyazJjSmFnVTQ3TGpkcXQxSVNmeEhzUWNOM2tlRENMN2NtX0FiSm5vYy1NNXNpMGtwTw?oc=5",
-"source": "BNamericas",
-"published": 1793982805.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "d5d1cdd0ed1f7ec1",
-"title": "Police intervene after protesters occupy Microsoft data center site in Amsterdam",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYW9NU0ZabWtrS3p1OU40Z2VFS1BEbkVrRWFiY3VRbTFQakh6WnExMUpjTVE2NkpjakdxOHV1Y2xsdENnaVU5QlFXZGQ0TkdicXlncUU2YTZ2OG05NDE3cGZ5MndBYUpDcUpkZThNMWxXME9TRzlTRHFENVd5LXlWc24zOExINEd2Vm9RRjdYcWd5QkFBVHFUR3NzLTNkYzdleGcxV0JjSWRqM2dkZURzUjZobHJYcTg?oc=5",
-"source": "Anadolu Ajansı",
-"published": 1793982610.0,
-"stocks": [
-"Microsoft (MSFT)"
 ],
 "keywords": []
 }

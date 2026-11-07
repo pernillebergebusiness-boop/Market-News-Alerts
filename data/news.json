@@ -1,5 +1,5 @@
 {
-"updated": 1794041803.73696,
+"updated": 1794044286.2141001,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,6 +73,78 @@
 ],
 "items": [
 {
+"key": "9d533a876dba166e",
+"title": "Analysts Are Bullish on These Technology Stocks: Microsoft (MSFT), SiTime Corporation (SITM)",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPMTNVZmVVeVJXUkhBSkJ0dmhqVTJhNHdKZVVCQ0FFSF9qR3drS1cyR3djMFZBT0hoS0xNdnRLY0Z2d0I3UlY0NXA5cTNrbGF1RnF0WHBJVk9EWDdmTmd2dWxaX20yX2I5QUFMbExaeVM5MmZPUTlLQ3JpT0l6eUpMM3RqVnlfd1lFY3Y4enVjSG44MVBDOXVVQThMSl9SazY2SEk5bTRRWVNnanFUZ1E0alp2bF9YYVRGU1VmeVplanFGZ3RJdUd3MmNkSmt4dGhWbDE1RWhVamhYNEMzV3VSQkRuYzJqZjNwU2RSUXhtbkFEQjJBOFY0RDRaZlNXZ3ZETVg0?oc=5",
+"source": "The Globe and Mail",
+"published": 1794043525.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "f9c7ee5f63b1b1a6",
+"title": "Microsoft compared FSR 4 on Xbox with PlayStation scaling technologies",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOV9XRHZOSzR3RWMxem9Odmg5VzMtaVAtYTNYbUk5d1BCRGJfeG94dkxNN2daYkVITkRrSEQwMi1hTkg5TWhRU18yV0lFTmNMOHdhTU13WUI1NnR0VkJJNVg3S1hQVVhtSjFVVExmeEF3dWtnMk5XMVhyZ3JCWk9YUnR6UFNDeFVaSE5EQ0pzRmEwTjNHVTJXZWFocjV1OHg3OVNhYnZnWUc0WEl3aWJ2R0E4UGlwZw?oc=5",
+"source": "GameGPU",
+"published": 1794043315.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "8b6d257e218d403b",
+"title": "Google Workspace vs. Microsoft 365 vs. Proton Workspace: Which Is Best for Developers and Freelancers?",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaTNyYVZTLXZxUmVJSnJJaGNySW1QSnJVek11T0locnRPSG9FTXpqcEVKSmx5WU9DMnFPSHlQbmdPdEhNU0k1V1NjWXBMZ3VIdEl4cE1DS09saFU4TFQtRWJfVkdvVDV2MlZEYmZYY0VVWTFhejN1b01EN2pid0JfanZVRUE3N3M?oc=5",
+"source": "SitePoint",
+"published": 1794043217.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "41fb5b4a90074f2f",
+"title": "NVIDIA Or Micron: Where Each Leads In The AI Buildout",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWHR2WlhiV3pqcVBjVlZnYnlyREwtd0Q1STlDWUFKTXBaN3BVWm9GVGptLVlCZ3VpdUhzaUk4SnZKaGltRVdieFo0YnVIMXl1UDVfNTFHaUhOSHdaYTlUUE1TQ1dKMEF3b1VDYmFEdmpReE9iQnNrRnNEY0tYQXZ2NlNNa1NtaEo5V2Mtdzl4RWx1ajhFN0VOZFZCTHRKN19NUGJNLWRnODNmdEZSYjBZR0tyNA?oc=5",
+"source": "Trefis",
+"published": 1794042519.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "07045272529f601c",
+"title": "Microsoft could sell Xbox as analyst raises concerns over gaming division's future",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOXhzVlZ3REstUTFjeFdmeTNPT3lDLWxTWkVwTWNLbExFeDI1cnBLNjBqTVhQUnRCb0tsMVZ0OXhvbTZNUk1GZEJLSzNQR2RMNVUwakU1bG1rVlJMZlJYY3V6czRMYl9HQllQcVJHWlpXT1I0aDlBS3RndEhkSUhEY3JHY3dzQ2puWUFIYzlXeW5WdWtNMk5sb0hlVlVva25nbklQNWN5WEpsQnRQRDJFTkl1V0s?oc=5",
+"source": "Sportskeeda Tech",
+"published": 1794042499.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "61c2d05462a27c8d",
+"title": "NYT reports alleged Chinese intelligence operation targeting Nvidia CEO Jensen Huang",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOc0Z4VHJqVG40ZFlERWotQWVfU2M2YXpDU0ZXalAyOXlDLWFOdngwUlpKTUR1ZTlyeGJxX0JJVWpoT29aUFVfNmNKeURDUl9qdE02OEs2SE5Td1J3OVdCSXJxVzFBWnJOdWc3Ykw3QTZrbmE0N2RKblhfdzJibDhpc3AwWGdYaVkzWG9sZDYwYTQ2bTN4WEtib1gzeTItRk5RSHExTHVkM2xqNm1ETTBSN1dMTGhzTGhDanc?oc=5",
+"source": "Dealroom",
+"published": 1794042442.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
 "key": "c4992c2cdc2bdf7a",
 "title": "Nvidia Said to Finance SPIL’s CoWoS Expansion With Billions",
 "summary": "",
@@ -121,6 +193,18 @@
 "keywords": []
 },
 {
+"key": "d80a256879bb6b00",
+"title": "WULF Stock Rebounds From Lowest Close In Over A Year As B. Riley Says Selloff ‘In No Way’ Justified",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZGdsWTBLdy1aMHQ1N1JnbHpldExVX1lUT3U4V2JIM3pBVFl6OXlpUzdxMC1GbnNaQ19ReGM0NUNiazZEQVBvMEJ5bmdWUGJYcDRkTk5jdWdQbVBLY2tEZmF1NndWOWcwUWhjOUNMcG1QaEgyOEp1SDVheTQ3ZG0xU0YtdUZUd1hJYzNjYTdxdnI0NkNRZThBVUZuWUVCdw?oc=5",
+"source": "Yahoo Finance",
+"published": 1794040017.0,
+"stocks": [],
+"keywords": [
+"selloff"
+]
+},
+{
 "key": "132523358d9e7618",
 "title": "Nvidia hardware worth $11.4 million stolen between Oakland and Texas",
 "summary": "",
@@ -129,6 +213,18 @@
 "published": 1794039993.0,
 "stocks": [
 "Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "82f295be55c03cef",
+"title": "Oracle ( ORCL) Faces Pressure Near $100 Following Microsoft AI Contract Non-Renewal",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVkcwRUV5blZLVGZkNHFJbml3eEhmdV95eGdYdFRlMHVVMDJaWnd3cXpPYjduWXo1VmY4dnhkQnkxWWFWdDROMHFNOUFLZHQ1ZTNnMUtrLWZ1UDUxVklZOVBjbWpvOE1GbWY2MGNMYThmUXctRDJ4V1hROXBKNC0ya0x5MkJjT1pRcHZzMEJDX3ljRmU0dU82djhOWDBMODZfWTREdWg0WjZiTEJtSHdDN2F5YmcxeERzVmpXdjNMcw?oc=5",
+"source": "FXLeaders",
+"published": 1794039351.0,
+"stocks": [
+"Microsoft (MSFT)"
 ],
 "keywords": []
 },
@@ -513,6 +609,18 @@
 "published": 1794029100.0,
 "stocks": [
 "Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "91100fc76945b3cb",
+"title": "A Retiree Who Bought 1,000 Tesla Shares at $197 Just Watched Musk Kill the Cybertruck",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KQWFZcU5IQ1Q2Q2RLM0RTQndZUFh5eVJPamZIZW5Mc0hCUVh5YVp6YjRkR2hzREg0Q3RQWHVIQkhObzBEZzEzUzVuM1dMNEV4cUpR?oc=5",
+"source": "شبكة تواصل الإخبارية",
+"published": 1794028913.0,
+"stocks": [
+"Tesla (TSLA)"
 ],
 "keywords": []
 },
@@ -4789,114 +4897,6 @@
 "published": 1793977828.0,
 "stocks": [
 "Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "80e033657023a43b",
-"title": "Production of Tesla’s Cybertruck will wind down soon with allure escaping most potential buyers",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbUZYa0U4TVE3eXRrczZBVktKQ1BjLVlCMFhsQnYweTRfZExtN2JpVXZYeHU5bENDVEdtNmZwZjJNWkN4dlJfeWk5NzRJQjhSaEcwTjdZSGFtUkN5WGhDczZCUzNaeXZ2REJZMGVvNzMxTlF2Z0FXeDRFaWxMNWR1VXRVRUQxekFESGR3Ui1uQ1Y3bmFhZVplX0dpVEYwUE5ZWFU0NjYwZXFlSkxUQ3MzWkY4dXFaU1NvOERxc1VZMnFxeU1JQ2p1YlgxMTFRZFow?oc=5",
-"source": "Boston Herald",
-"published": 1793977827.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "d8306ea2782e6059",
-"title": "Nvidia stock oversold setup: Key levels after a 9% drop",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNjhTc0JFcEFDRDdXX3N3VDROUHZWS25HV0loYWVGV2tYaC05U3Vvc3hxdW91UERlREdKQVIxS2Y0c1M1UmE5LXUtdU9WT0pqVFJBRWZzRU0zS1hPWTByX2QtRUp3SFN2dGRyekZPSV9VdVY2NHBkSEJjdnc4T2JaRU9RdVhiaDdRY1VUR2NYWUI5cnVVMHJVaE1faGE?oc=5",
-"source": "Yahoo Finance",
-"published": 1793977776.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "435ee4eb76a3e865",
-"title": "Chip stocks lead tech rebound as SpaceX, Tesla jump: AlphaCheck",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTU1YMTNYUDVZUGRpVDlva2d5X3VMZGhXYVJUbjlaTTV1bFNQVVZKX0pZTnFkUE9kcl9kSGUxWEFVX1BzcW0zbzBFNjRvS21vWld6eGxoVmZ3aG9TekpObmRXdzhlSlItSy1JTHNYdVp6d2dHcFpSSi14M0lNd0JKdWZnNFR1cWdVOXNxWHROX211TlpUMkdjS0VFdncxVGJJdEc2VDRsVzgxSy04LTZ0V2ROMnVrTjJJQkxjZTkwZGNzZlJHaHhv?oc=5",
-"source": "Yahoo Finance",
-"published": 1793977746.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "2c4d9eb00415f8ce",
-"title": "Tesla to end Cybertruck production in mid-2027",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBUQnJwbmptSnRpRXdKQ2twUTF4UF9yWkc0cDI3QkVROHRjbjE1cFZvM0IxX0dhNmZfMzJqNnlIdTZlQ29uRFNnRndpUkFsd1FUZUJudnpyb1VVbDloUXE2c3RJMkQ0Qzg?oc=5",
-"source": "CBT News",
-"published": 1793977737.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "279ef1ed432a38e4",
-"title": "2027 Tesla Model Y Premium AWD Surfaces in EPA Database: 327 Miles, 123 MPGe - BASENOR",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOEhZUmxNX1ltVFNkdDhPSGQtVTRuZEkxS1JXdU9XSk1YWWhsdU55S2Y1ZkRiOGY3NkNKdEptNXlDZFpTbWk4UUp0c05oWTA1SzBCWmQ5Nk1jclBoY3RCakFhdFdNWXR5MXJFa0VwU3IwWmxCNXhUa0FSM1V0MTByQmNCd2dnS1ZWWVZHMjE1ZWdlMkcxbDZURURQLXJNQmhNNEt5UlhSclY1UTFfYnc?oc=5",
-"source": "Tesla Accessories",
-"published": 1793977703.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "35ce0965e6617b90",
-"title": "ON CAM: Protesters Storm Microsoft Data Centre In Europe As U.S. AI Stocks Suffer Midterm Bloodbath",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQU0pGNF9BNHVfRXZUcHdaVEo2RmdjdUF1Mk1BWlE0MUVQdmlmTFFFdHZ4YUdSME9YQUI5LWNCVWJaN2pNX0pJX25jSVFwdGUycW5GVHByemhBTUlnRWttNGw1SVhKQVdzS0FZY0EtUWEzY0xoRmpZTTRsX3dvWURSY0FiYXN0cEppYTdxMWlxLWdMVW15eEtWcmJzbXRySDBxLXRqR0xQOTUxUDA5cDNvVmpxYUhxMzBvMWpKZWRNX1pIRFl2MzBIZDhnVTdKZExWYm03VWR3c0lsYUhQZG5pX2x2UGZiT1ZjTEVYeFpoQnBwdnVuVmpTd0JrWVA2U3ZoU1Q4bTNKQzBVQdIBjwJBVV95cUxQeFpaQnI5ZnpGQjVobnFoN3lYT1BrNVRpMWhYRWQ2UVI0c2tZR1AtUjAyRllZSjlqTHk2Yjh2ZXREQU1ENzc0aGxKTkQtOU01eXhDakluVlNmZ19Tdmw3X3ZUb2FPa2Z0N1NxNWwteFUwYjZsNkt6cmFXYmZubVNEbUthZHB5LXk2MEUwamVzdEZhUVRSX0N6UjRjS29rUm40eDN4aW9HbHJuNVhUYXhlUklBU1lPOEF2OUhBVDV6MEduQTAya19CNWY5LXJWeUR4MUhLdmJaM3o3dk9SYVM2aUgwdjJVeC1ablloVFZXV1R5cnkzanVXbEEtdjlTZnFUT0t6djd1cjAtTTI0czNv?oc=5",
-"source": "The Times of India",
-"published": 1793977635.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "dbee8d79feee173a",
-"title": "Global Markets Attempt Recovery After Thursday’s Tech Selloff",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMTFXVGxWZlduN2YwWGJBRHdqajRzcHVnRWFXTDRaTGF6SmJBWHB2c0RkbVY3dDNrZHJBeUZhcUE5ZzExa21oaTlpdDExQ3V3TEF4MHk2NFFYZWFYVW0tQ0g0NTBEbXFPYXNyUkxuOU5SRU5lWEQ2cVM2UHRmV0FmbC01V1ZEZGJtUW5ac213cWtEU1B4ZmlHT3IzUUtmNEN3cnBkeUVxUUV2RVJUR0E?oc=5",
-"source": "Morningstar",
-"published": 1793977616.0,
-"stocks": [],
-"keywords": [
-"selloff"
-]
-},
-{
-"key": "fedf558f77511ea7",
-"title": "Musk's Companies Are Under the Spotlight After the Midterms. Tesla is Now Winding Down Cybertruck Production.",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNmdpVDEwYmVLRXNtNmNKOHlTTEdpWm5SVS16UkQwTkF3UFRFRE1sX1IzQ0NUcUR0TFZZanJrbS1OY0EzcG9rQnhoaDFPLU1sbHdheU5TTUJuRkFXOFA4U3V4RFRZY1VKd0FSWUJLTjF1cVNwQkpaMkxNY0UxdUIyb0FJWHlWTDZUMUl4MzlTU29JUHlQR2RqNHFKaEFyOE9IcXNDdHMxaTc?oc=5",
-"source": "Yahoo Finance",
-"published": 1793977560.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "76d54ece7c83d4b1",
-"title": "So Long, Cybertruck: Tesla Announces It Will Wind Down Production of Slow-Selling Pickup",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1CMThSQ3BpeUgwNGhDYnpqalh3M1JCQW8zUERkM2F4c2RkSW1fUExkS0I1anNLM1FiazRNazFwcWI2X0xhODhLU1ZDQ0dlclFMdVZValRCbDFfWnI5N1pxVFZrZ0I0ZFJncFBvYmlEbnphdmhjZkg4?oc=5",
-"source": "MotorTrend",
-"published": 1793977556.0,
-"stocks": [
-"Tesla (TSLA)"
 ],
 "keywords": []
 }

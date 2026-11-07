@@ -1,5 +1,5 @@
 {
-"updated": 1794087765.1268325,
+"updated": 1794089801.5756478,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,6 +73,30 @@
 ],
 "items": [
 {
+"key": "eb04a527ff384465",
+"title": "Tesla Cybercab Goes Personal: Liquid Silver, 40 kWh Pack Confirmed - BASENOR",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMlY1SU93TlZETm9CTTRtWmVSc2plSUdZSzRwQUR2dUVWNGxraUJQVWZmMFkxR2lVRlN0ejRNaXJwR1pJSmpWYlc0RURqblNoOW00UXJhQXcxbEdLSGRzQWRlaWxmdmZ1WGJEWEgtOXhra05adFQzaEMydVBVaHB3c0NZcWZrcVhrdkN0MFNlWkVGWC1oYnFCenNJNDFiaDc1?oc=5",
+"source": "Tesla Accessories",
+"published": 1794089054.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "48cc095792d1b2a1",
+"title": "Tesla Plans Smaller 40kWh Cybercab Pack and Liquid Silver Version, Musk Says",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMURKLWNyT3kzXzFZWEp0UmlxQUNyOFBpeFkwRkRHUlRJa09VaGVTSWJsLXhhUERIcTlVRXpvSDBIdlNCdnItNGZOUDBsS0IzbXRHcDZLdzFlVjNQOG9YcGlVcVNtMmZ1UEN3X0FXVUhScGYzaUF6QnVHMnpVODREcm9UZUZKZVNDel9mUzQtZEJ5ZTNiZGk5U2JrUloxeGJ0alNlZXI3dldGaEptWmMtZQ?oc=5",
+"source": "Electric Vehicles",
+"published": 1794087540.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
 "key": "678edd9a3b7f5e6f",
 "title": "Form 4 Meta Platforms Inc For: 7 November By Investing.com",
 "summary": "",
@@ -139,6 +163,18 @@
 "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBKV2RwaGVtbm1QcXExZkhNUTl4cUM2NmZ6QTVHOFM4RjBBdnRPUXMzLTNENEhhRDBzcnF0TW80Zk5iRW5lMTZlNlgxT0R0V1BOaTh1OEdtdmh3NGxjVzFERXk5TmZmUjZyUUNoRmdYZWZEWjJUMlc5ZUhxSQ?oc=5",
 "source": "Axios",
 "published": 1794085605.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "edb8c3574ea7649b",
+"title": "China stalls Nvidia H200 imports to boost domestic AI chips",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWXVUNFliWUE2Q2NZcFBaNDVJWkRpNzhnT1Z6X1dqUm1UQzlaV1Ytc3Q5clZfVzl3Yk83aENKeDM3c3JLMlRyUVR1QVBoQ0FPMFRQZUktVklnV1hIV1FPT2JiRXRkTFUxVV9QVE91cm0xUUdLT2ZNSTUxU2N6OEdmZm9zaXVmcy1J0gGcAUFVX3lxTE1CaE9OdjlhZW5GN000OC04OGZPMzczeTUwZ3FwaWdKeTFZZE56UThjZWFETG8tYWhaa3hZcVFNYjQ3UmxiZHY4M2hQTEVENGNEV3Q0Tl9VLVpDcDZZMXhVcTJCdHZOR0NDeHRTa0hmZ29GX0JJTUVkWnpIaVFKQVFIc0pYajI0eFJkZ2dDeEMxTlFzTWRHZU9iSlk0Zg?oc=5",
+"source": "Chosunbiz",
+"published": 1794085200.0,
 "stocks": [
 "Nvidia (NVDA)"
 ],
@@ -355,6 +391,18 @@
 "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxON3dQZUFCRmNiQjNJX3licWlIdk9jSm5vbktYNklaNl82TWg0N2lqc1dpeUQzem1nRUJpSFROVWg1b0s4ZWZlb1ppT0x0OGtJWjJVQWxnbDJaZHI5LWlkS3dHUzVNMTFCbDNYTmlQWVU2b0V6aXlBMTkwOXdNczB3STBMeEwwb0hJUkczVUpBM1FmR0k0TFZ0U1pEYWtscVQtQ3ZoODlaMjhLZmRTOS1fVmlOSWtBV0lNcS1kZA?oc=5",
 "source": "Dallas Express",
 "published": 1794079940.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "0c621cb2fbb8df83",
+"title": "Tesla to pull the plug on Cybertruck after years of poor sales",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUUxYQ1BxanBJNG5wZW11TWk1UVJ4Ynl6ck84N3lRd0xDYXVfSTRzcHZ2RnMxYkFqZVRLY01Va01UclExRm90OUhvZkhtc3pKWGxHSTkxSDhyRXdFSU93Yy1RaDdKeHNJd24wdno0c2hvM1Q5cFp3ZU5tUVN6OVBiS19UamE3WGRhbGN4emExMVBEYzJ4WkVwYi1B?oc=5",
+"source": "Colorado Springs Gazette",
+"published": 1794079821.0,
 "stocks": [
 "Tesla (TSLA)"
 ],
@@ -4833,56 +4881,6 @@
 "Nvidia (NVDA)"
 ],
 "keywords": []
-},
-{
-"key": "b4e3e5a2ce82ebdd",
-"title": "Microsoft is winding down a 2023 deal to rent AI cloud capacity from Oracle, Bloomberg reports",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOXzdJdGZ2b0dhVHVibndqeDZOTER6RlpqM2pwUjBtaVp6UWl2NUhSdlRHcWpFelpmTjMzZ0x0bVk5bExVcFZxMjNBd250OEpWcjRSNkxjREZZRHUxVVVBMlZiQ2dhdTYzclM2WXlja2JWNkdycGJVR3puRXljdXRmNGNCVFJpbzVSNXZwZWFLYjRaQVMwN0pOYnpBX0hSdmFEWlk1X2QxbjRKb2p2WlpYTThzRkNYQQ?oc=5",
-"source": "MarketScale",
-"published": 1793994089.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "186b5f4cdbb3f472",
-"title": "Tesla-SpaceX Merger: Ives Sees Tougher 2027 Path [2026]",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcGxpekltYk0xT1NUMTJTR29Eb0ZLcl83YlhpOTRvZ1B4TkFTVnM1OHJPX0V2YTlTNXFDYld5a0FtZXBlWWJZeUNyd1hKN1lWYUFRN04zaDY1OTRwbEg3NG1OTWsxZHlBNTJnbDAtbXJ0Z2psRUZqYUFnVnRnWFh5QnJpMW5vOWxNY1lMbw?oc=5",
-"source": "https://tech-insider.org/",
-"published": 1793993926.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "10a925552914ff5f",
-"title": "Production of Tesla's Cybertruck will wind down soon with its allure escaping most potential buyers",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQjM3LTZVcVJaekhQUEJqQ1JaLV9yMlNOSFFneGN5c1NnNFQ2SU05MnZodnBEWlVzbDFBTGs0RkVyVUk3anRuZ01vbTViOFZHVXpzaEc1ZkM3NUNhaHpOS2dMX3FQbWhpcTNNUEQ1TFN1ZXR1QTZsaWxVMkV2cTZYOTZB?oc=5",
-"source": "WISN",
-"published": 1793993485.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "e46be9459ff40e8f",
-"title": "Dell vs. Nvidia: Chip Stocks Just Suffered Their Worst Sell-Off Since 2020. Which Is the Better Buy for 2027?",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPS2pzbnVEcHRyZ1FGcVNMeWtoR0hnQlFNS0I4aDBQRTB0TjFOa21XMkRHU0dfcGFkQTdDZGUxNVZOaVNEelJ6NFV1TlpUNUhVNFlRejRRaG9UdXZ0bFNac1l6RExpc1RtejU4RTA2OHJCamNjV29mOEtXM1EzVnFPdXFicHQxaUxYNndYRHhhb19IcE5iUU5LcmNzaDV5T21HN3ZWOEc3eXMtT0RHSE1fNUR3OTZteXFWZW5GZ3Rkb0FBcWN2TGJSNDYwdWF6eHpRaXh3aVFYR1poSXcxcElISGRBalB4NWg0bGhyRmhMcw?oc=5",
-"source": "The Motley Fool",
-"published": 1793993400.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": [
-"sell-off"
-]
 }
 ]
 }

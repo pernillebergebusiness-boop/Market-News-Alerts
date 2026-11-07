@@ -1,5 +1,5 @@
 {
-"updated": 1794049664.0195215,
+"updated": 1794051993.2399135,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -72,6 +72,30 @@
 "Yahoo Finance: HTTPError"
 ],
 "items": [
+{
+"key": "e76d5be4cb747b0c",
+"title": "Equity Selloff Trims US Market Cap Gain to $5 Trillion YTD",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbVItTVJPbVU3SGxhQmFOUkNIQzlXQXpPbnZFay1QYW1ObmFKMTVPZmFwbjh4MVFvZDVTYVlGQ2tJQXkxM19kbFVjUmNCSEZzRlFRRzlwOWJYeDNPT3g2ak1oV2dnOEpIUDhjaHhqRktUbFNNaUdHaDRWNUFRM3dfTzB5ZkUxd1pPQ0lMRFVIYldRdzY2cEVDT1plNFlBS1JVbGxqMzNQVFFpcS1zTGFkMmt0SlZ6MVlucFhXY0oybw?oc=5",
+"source": "Apollo Global Management",
+"published": 1794049755.0,
+"stocks": [],
+"keywords": [
+"selloff"
+]
+},
+{
+"key": "629d14f77d34366e",
+"title": "Nvidia CEO Jensen Huang’s Alleged Chinese Spy Connection Was Flagged Before Trump’s Xi Summit: Report",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPU0Rocm50VUxrSjhxUGNkNXQweHVwQkVpMGQwc250S05UakpHcWt0WHJ4V3d0LUQyb1NTdVU2d3dBNzhLWVZza3hlTWlRa19DdXVNWDc4SWZpZTJGUmVHa2JSLWJ5R0hlTFZMaHJRaWRJalU2QzB2SloyM1dYSV9nMlByVFF0ektQdjNncGRabjg3M2FuLWNObjBycTc2ZjdkandwNF95enFVeVBGVXpmZllCb24wTGZwU3JHREIwdUFuUlI1aWhDMlVn?oc=5",
+"source": "Stocktwits",
+"published": 1794048203.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
 {
 "key": "baa0ea51e643128f",
 "title": "Nvidia CEO Jensen Huang’s Alleged Chinese Spy Connection Was Flagged Before Trump’s Xi Summit: Report",
@@ -4872,30 +4896,6 @@
 "published": 1793980017.0,
 "stocks": [
 "Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "68198c7e66577f69",
-"title": "Tesla set to end production of the Cybertruck in 2027",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUHRqSEZuYmJHeTVQMERjZkRmaV9OWVluN2hrclJudlJQTEY0bm5zUjFUZlFMM0tldVBTZmpUWW9zM2RYOXNqUmppRVJob0dLU1RGZ05Ca29XdmZUUDFTV2JQNDJTdFBIUVVDdUZxQXgydjk5RmlGLWZHbTBpY1RWYkRnbUlIXzdzVnVxMFBURlRrQjE0VDhrSjJoRQ?oc=5",
-"source": "Austin American-Statesman",
-"published": 1793979952.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "2c8b0c19faff3b96",
-"title": "Tesla ending Cybertruck production in 2027",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUDB0ZktMM0dXQ2ZBWGg5UVFIYmRmbFZPSERlR2w1M1JJOS1GSml6aW8ydXlfMXZhX3JLcnVBLUJWWFNwMkVtUkJpdS1WQzJFNWx2WmtKWVR1MWxHZlozWmlHRDVCUWFmTnFhZ1hwdVR1d3V0MGFMYmJpMy0tZ3lNZHhRTm1qSU1z?oc=5",
-"source": "CBS News",
-"published": 1793979480.0,
-"stocks": [
-"Tesla (TSLA)"
 ],
 "keywords": []
 }

@@ -1,5 +1,5 @@
 {
-"updated": 1794046968.7647247,
+"updated": 1794049664.0195215,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,6 +73,42 @@
 ],
 "items": [
 {
+"key": "baa0ea51e643128f",
+"title": "Nvidia CEO Jensen Huang’s Alleged Chinese Spy Connection Was Flagged Before Trump’s Xi Summit: Report",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPLU5RZE1hVllRTmxiQnoydGRZV2tSWjZlWHdXRjRVbVlqd01rMDBoSldvbjNSZFlXODJPZXc0UlZEZlZuaUt5NHJLZ1FhaXgxcTVQTGZFdmdHOGxIQm5kdzBXeXNoc3E3cGFHZFRXZWJpZnhWWmxaM1g0MExWQ3dFSzZmbk5kbzdnVjZldmxmVVBBNXdyY2c?oc=5",
+"source": "Yahoo",
+"published": 1794047995.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "cf7a7b04e83a51b0",
+"title": "Tesla Powerwall Permit Fee: Owner Pays $70 [2026]",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOEx1TnEwZGJfZ2FOV2FFNk1RR25jeGZ4STlOUTRYZDJzcWdvZzZjWVRCMFZLcFlVbWJ4dGx2U3g4T3ZTdDEzTVBDcEZsRkVkeW1kUmFFRUQxNDFsUWJlUl8ycE96YTdZRG1kYkRzbDc5WmowUGdRblVhRlBzbURHai1OcVVKUFZrQ25tQlRhOA?oc=5",
+"source": "https://tech-insider.org/",
+"published": 1794047061.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "5bb16432b4e8e09c",
+"title": "Are Any Nvidia GPUs Really Affordable In 2026? It's Complicated",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0xVEpYTlhSdUIyMWdMa2UwNjVzS0tVX3ZRNDBXU3FnMWVMVThKQXZQYjkweTJFbDYwSDdpeFpqNzRfZlRad0pGektGUnktWERXNTI5ZE9wVldNUk1BWi1ZZnQ4NUNfbHdlbVlGNU9oRnZoQQ?oc=5",
+"source": "BGR",
+"published": 1794046620.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
 "key": "7e11e803dbc568a0",
 "title": "Tesla Model 3 Performance 2026: 2.9s 0-60 for $52,990",
 "summary": "",
@@ -85,6 +121,18 @@
 "keywords": []
 },
 {
+"key": "623d9d3b8c1c094b",
+"title": "Apple Inc. $AAPL Shares Sold by Arnold Financial Planning LLC",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeXJNNnh6eDBWV3I1YkNNYWotbFl0VkJ1V21WbkVQR1NEN3dDVE5PZTRlc0pDTXRCZVR4M1RrNnZmcVV0aEdnb0pDczExM21KZkszWlJjdnh2NU45S3NRSXE4RnlyWnlhOUlUOGlrY0ZYcU5meUl1TnVXWjhaNXBiWEg3enZ3TUxFZ2hXYVMzM1NoeWtveEo0VlNFLURqX1BzMHRpSHpfYk5lX28xcUNRc1Z6OHFsVzBTSnJKNw?oc=5",
+"source": "MarketBeat",
+"published": 1794046522.0,
+"stocks": [
+"Apple (AAPL)"
+],
+"keywords": []
+},
+{
 "key": "d3a66cc127725fe7",
 "title": "Apple Inc. $AAPL Shares Sold by AMI Asset Management Corp",
 "summary": "",
@@ -93,6 +141,18 @@
 "published": 1794046080.0,
 "stocks": [
 "Apple (AAPL)"
+],
+"keywords": []
+},
+{
+"key": "42383fcde6d10545",
+"title": "Tesla App v4.62.5 Hides Driver's License Scan, AI Chat Features - BASENOR",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hVmozTEpBQkhHYkJiM3BEOWUxTWhpMjZRVWJUX0wzNzhOQkY1UTF4WWl6SVl6am9oLVlvVmZQeFdyTHZrblZoT1FDay1pWGp2RV85ZHFLRTlLTlJLUjJCbi1mNms?oc=5",
+"source": "Tesla Accessories",
+"published": 1794045805.0,
+"stocks": [
+"Tesla (TSLA)"
 ],
 "keywords": []
 },
@@ -141,6 +201,18 @@
 "published": 1794045600.0,
 "stocks": [
 "Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "8b052f43d7f06438",
+"title": "Gary Marcus Warns OpenAI Could Become ‘WeWork Of AI’ — And Nvidia May Pay The Price",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMGNIQWlqeWNwQWdRRm5CMnJuYzNtWi1Tamo0VEpyQlNEc1FKb0F5SDE5LTN2YjBzeVNIUjNudlpYei03SzAwX0hWNVRDTVdnM20wLXhDU2ZUQTJ4T09PNk9QLXpqSXhlRXprUFNzckduNnRqT21oYXdfdFRvRjBRUGtpMGFuY2VqVDhkV0dfZ25wNnFnSGM0RTByaWt3U1lKT0tlWXRNaTJjREhYckQ1WG1BWW1fVDZXOGFQMjZsOGlEVk9YTGxmNHlCSGttNEFMeWxWYzdzbw?oc=5",
+"source": "TradingView",
+"published": 1794045283.0,
+"stocks": [
+"Nvidia (NVDA)"
 ],
 "keywords": []
 },
@@ -235,6 +307,18 @@
 "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOc0Z4VHJqVG40ZFlERWotQWVfU2M2YXpDU0ZXalAyOXlDLWFOdngwUlpKTUR1ZTlyeGJxX0JJVWpoT29aUFVfNmNKeURDUl9qdE02OEs2SE5Td1J3OVdCSXJxVzFBWnJOdWc3Ykw3QTZrbmE0N2RKblhfdzJibDhpc3AwWGdYaVkzWG9sZDYwYTQ2bTN4WEtib1gzeTItRk5RSHExTHVkM2xqNm1ETTBSN1dMTGhzTGhDanc?oc=5",
 "source": "Dealroom",
 "published": 1794042442.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "a48d183717d68f18",
+"title": "Gary Marcus Warns OpenAI Could Become ‘WeWork Of AI’ — And Nvidia May Pay The Price",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQmNvM2tOUkRWd2NFLU15Rk10VldtT01iNzNjVHA1NEZaM0xiMzR1RkV2XzVmOG9ZX0ZYQ2VVV1NLZTYwaHdPZDI5aEphMHZRU24wQzVMRm12SXZvTjg5MnQ0WjV0aGdiakVZLTNKZ3ozMmN2R1pBQ2pZUkY4QXEySkRYdGZKOHc2Q0xnRHNTZ1dOVnIwYkVSS3VGRE5OZlJqMzJYejJLOFJWVXNwaDBNYkRZdE9sanZzUXNMNmlwOHVRRlE?oc=5",
+"source": "Stocktwits",
+"published": 1794042073.0,
 "stocks": [
 "Nvidia (NVDA)"
 ],
@@ -4810,90 +4894,6 @@
 "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUDB0ZktMM0dXQ2ZBWGg5UVFIYmRmbFZPSERlR2w1M1JJOS1GSml6aW8ydXlfMXZhX3JLcnVBLUJWWFNwMkVtUkJpdS1WQzJFNWx2WmtKWVR1MWxHZlozWmlHRDVCUWFmTnFhZ1hwdVR1d3V0MGFMYmJpMy0tZ3lNZHhRTm1qSU1z?oc=5",
 "source": "CBS News",
 "published": 1793979480.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "2dcfb3298938a49c",
-"title": "Hacker exploits stolen Microsoft Entra ID credentials to target MSPs",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaGp0dlVMXzJZRkJPZXZ0NUlZOXZfNW9BUjV5aEVvUEpDSlBzZDlDUFFfQzJldHVOWTJla1VFU2J3OUdfSWc5bWtLcWs4N0UzOXVXWG11VmN3VE45QW5DSE5rRlR0Mld4dnZqeXM4eklBZlpuMTgzbVF3cnpzX05pXzJTSk9RTS1uQWJvWTBEWFRHRW1FV1dXWlNiUDYxcC1hcmdnQVFxazEyemhWZ281WEpfVE1faWNsei01RA?oc=5",
-"source": "MSSP Alert",
-"published": 1793979447.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "c7e22945eede555f",
-"title": "Tesla Might be Giving Up On The Cybertruck",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYVViSWVyZEhneEVCRDE0UHY2czAzMEtJZlFPMG9tX2ktanB4TlkxLTloZTNOQUNtU3YzeHRGMVdpTGgxeDljOS05UzlGelhuUWJqd2laUGVWcFBwLWZ0TFdLUDlST0RqZ0l2TnljZUNqQ2xfUXVmMDRLOUo4YVR3NVVGQmJkZ05Qc0RWUnozbGRfcmEyX0xyb2l3?oc=5",
-"source": "Yahoo Finance",
-"published": 1793979382.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "9cda586f05e08137",
-"title": "If a Stock Market Crash Is Coming, Warren Buffett Says This Is the Wisest Move You Can Make",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZHVFTXVUM2pMMmxKRHZfbUNhM2RaNjRmbGJDQ0xLT1hKSzJZR2NLVUI2Y0ZRdFdKNzUtZlJjZVJ1dV9UWWFWR3ppcVVSUzE3Tk9FU1gtTW9Dd3dQTmFoR3NqVjBqWndpZkFKMzdCQkJObjdhVk9aOGxudS1oWW1fOENoMTNwYjBCcWQ2czFjVUJWRU9YalE?oc=5",
-"source": "The Motley Fool",
-"published": 1793979000.0,
-"stocks": [],
-"keywords": [
-"stock market crash"
-]
-},
-{
-"key": "757ba45fbea3d0ed",
-"title": "Tesla winding down Cybertruck production",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRlJhMjNhcGp4Z2dnWTkxMlBXQy02LTNELVh3T3NKTGNWR01JZGVXSTdKVUpQRzR2ck0tY083X0xWNkZ4cGI1cWJSRXZfQkdZYnJuaGw5SWJLWEhjOFB5bTlsdGRVZGJmMkxiMXdmYkRuU2dZd2tyX3Rhd0lVNmlmQzc1aTViTjkw0gGOAUFVX3lxTE5zWTVRUmI4bFVyOEtLWUR6NWdxZW9YNHhRUV9fN0E3QzFBNXRTMlNiTkVHampmRTZzNlNLR1FJcko4eERVRGJXVklDNjZlSVFweFZVYWFmek9jRmctcVh4c0tZTzYxMUxaaF9TT1JYYm5jOUhfWGFrcTJvZUdULWd6RTlzc3EzS1JoVGZLaXc?oc=5",
-"source": "The Hill",
-"published": 1793978820.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "ea2d6377ba9aef5b",
-"title": "Tesla To Wind Down Cybertruck Production In 2027",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZ1ZRS245aGFaZEwzSm01OFpRajFqX0djVTFnNV9iMnpsTjZLX3o5OVl1Zi1rWlVaYkNWRDhGcVkzcU9iMDJSX1MySk9PNGRLSTd3Vm1HMi0ybXFhb256U2M2dE9hRnlrVkRNenZZcDRoSFBmTHNGV3B1MnpCeXNVb24xNzBhNU5HVW82MmcycHQ2MWJPajc4?oc=5",
-"source": "KFYR 550 AM / 99.7 FM",
-"published": 1793978820.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "475681ae6d8bc5b8",
-"title": "$11.4M Oakland-based Nvidia shipment stolen en route to Texas",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUklQMFlwSWZBaGVwWmdHZkhWYWtrRFEwRjNPQXFNYVFWODFoSEVISVN1dXhZR2dOcXdnb3BDODZtTGlZcFIzLTBmMkcweGR6OVVITzV2ZEROMGZlY1VVTjN2MTN0VjJ1ZktnNjc1TUxDZU5fdzZvbUVEZUc2Ul95MkRVUFlVR0dyUmM4?oc=5",
-"source": "KTVU",
-"published": 1793978799.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "0b090391e1a2682a",
-"title": "What Cybertruck winddown means for Tesla?",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOWVINW1OQjYyS0djSENPYmpNOFJsdWdUVDRzUmdnaXlucndjZkZoR21feUhPQWJQUkFEdHlPZmJaOFlXeWFDNUdQRXZyd0RDcDIyei1lNE1aUFQ2OXVCN0VtclBFbkZuWFllSW5SY0dJQkQzYVlaamF5SmY3TEl1X3lRRXFRQTBzNVo1NzAzZV8xQTI5c185a2lGMTRRbXZHVkRvTg?oc=5",
-"source": "Investing.com",
-"published": 1793978698.0,
 "stocks": [
 "Tesla (TSLA)"
 ],

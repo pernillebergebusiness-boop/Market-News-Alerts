@@ -1,5 +1,5 @@
 {
-"updated": 1794081189.663034,
+"updated": 1794083081.3829756,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -72,6 +72,66 @@
 "Yahoo Finance: HTTPError"
 ],
 "items": [
+{
+"key": "644a26afcae416f1",
+"title": "Microsoft: AI Agent Took 5 Minutes From GitHub to Key Vault",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPN1A3aFdvSWpqZDE1UkhjYmRBbnFidUk5REZaMURJMXlGbm9lNHR6ZktSWjdIVEJvTlNDa01tWWFZaTh6TW43ZGNnLU1XMXp3REczRTZQNVpGMXlxbUtVR2NxVGhJd3JxYTdFQXhNT0FwOTJ5VkFxZzk1RDlEOFVJS0NYaUlxWnRndWZvTzg0TQ?oc=5",
+"source": "FourWeekMBA",
+"published": 1794082669.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "fca00482979b9f74",
+"title": "U.S. Intelligence Flags Nvidia CEO in Security Probe Amid Chip S",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUGlQbUNMU2NORkduaWJuemR3ZTRSeklTbExsRGRTQkdIRnJBQzdFRWl6YzFua3NDU1RBRXZBUGY3bDhMNnNYdEZVcjEyZ21jNWJpY085dzZrVG05RnJNLWlQdjdLTUw2OGJDQ0w5QTJmQzRza0VQSmpCalYxbHZtbGxjeWdYVWp6Vnk5SHk3d1dZNkJ6YktIdllWTkFqYWZRS01wYk41VEJyODRFX3g5WE9BZFBrMllHVUwyTTAxdEJVck1U?oc=5",
+"source": "GuruFocus",
+"published": 1794082366.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "7286ee3e08643c95",
+"title": "Tesla Held Liable for Fraud in Solar Roof Lawsuit",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1BVzJDQThqbVNKV3h2Zm1WekM1ZnlyTVJDNl9XMXBQYm5udVBZM2hXT2VsX2x0TUo0NjNlWGg3NVVhQVlOVUFaTU41c25YMG9CLUdNamFqY05QellLYVJON29CWXVUVWZrRUQzbWpTZjgtQ2s?oc=5",
+"source": "Grit Daily News",
+"published": 1794081612.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "e8a61dd45b02a266",
+"title": "‘Best vehicle I’ve ever driven’: Cybertruck fans mourn Tesla’s most hated car",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUkVLMzRmbU1WelpUVFFfdml3R2hIaFBfMEVsRGtfRXFTcHFySW5oTGZpcXh1OV93cG82V3BjWDJnbHQ0eHVvaWxOTENGSXNMRlVPRFlHckhuamE5cG1PbmplY2tNYzBiNEZyT1ZRMHdMOUJQQ2MyRFlDVWtnMXNTMDBWc2w2OUk?oc=5",
+"source": "The San Francisco Standard",
+"published": 1794081600.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "48cef7ee4380a991",
+"title": "Musk: Tesla plans to ramp up Cybertruck production",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVnkxTGRHdHJNUGRRWmtIVl9MSV9KNzF2MXBZTVA5TkQ4dFkwZU9iZ1JfLWp3S2pIOUl6ZHM1U3RTeS1nU0V1TDFGUTQ0UHVITEREQWEwMC1xanE2UWZNTlZEcURLV2oxd1l3QU83Mnp3WGhyV1pOR1JfQm1laWxQcERSem5oNG40MGZpS3lPbWlDNzd1aDFQbktxOA?oc=5",
+"source": "Breakingthenews.net",
+"published": 1794081600.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
 {
 "key": "a15da027b882d8f4",
 "title": "Tesla to add shift for Cybertruck before dismantling line — Channel NewsAsia",
@@ -733,6 +793,18 @@
 "published": 1794069593.0,
 "stocks": [
 "Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "0de22497b95d12c3",
+"title": "Apple Inc. (APC.F) Seasonal returns chart",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9rM2NNa2lwczRkZEhpT1Y2OEdJTmRtRGcyRUR6TjlYYWEyeTk3OWNQY1hTUVM1UTItNW4tNF9QN1AzbHJwbDNwcFk5blBzMG9yU3NWZnIySHhYQlYxNV9tLV9yZw?oc=5",
+"source": "Yahoo Finance UK",
+"published": 1794069301.0,
+"stocks": [
+"Apple (AAPL)"
 ],
 "keywords": []
 },
@@ -4811,81 +4883,6 @@
 "published": 1793991420.0,
 "stocks": [
 "Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "6e33214c351ba73e",
-"title": "AI stocks halt their brutal, worldwide sell-off as Wall Street trims its loss for the week",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMUlicGFDcFJmWW5nQnZ3R2wzY25vSzFIczhmanhycWtxaDVsOGhrSW9sUkFoN29MaTJKX1pKbmEwSl8wVVZhX1RpZ0JFTUMycHQwSXo1ejh0YVpSRkJkdkxZTVBUQ2dySDFFYlhBSEhZTFJpeElqZXU5MEJQQURwb0RHZU16YV8tczNyUVo0NF8?oc=5",
-"source": "AP News",
-"published": 1793991360.0,
-"stocks": [],
-"keywords": [
-"sell-off"
-]
-},
-{
-"key": "5e6c8c557493fe8c",
-"title": "How Did the Busiest Names Valued at USD 1.33 Trillion to USD 1.85 Trillion Weather the Election Sell-Off? Tesla (NASDAQ:TSLA), Eli Lilly (NYSE:LLY), Broadcom (NASDAQ:AVGO), SpaceX (NASDAQ:SPCX) and Meta Platforms (NASDAQ:META)?",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxOenNmb0k2eWw4TkhGNUF6eWlPRTRKRzYtQkdHVTgwaUtDcUNENlJxTk5qcmlPaFBtVGg2NVVETEFhMzBtSDMxSHVSWFg2bHpVbVhIekZzRldRRldOVjZZSE9rTkU3ejNnRE40TkdDQ011cFJteGJyN1Z6Z3oyUktxV083anNVeEszbDlrZlpPUmNjTDRwRjFQenVVVUQwR2s2U0FnWVZDcXczWnVKWWh1QmJHQVh1bktFeERRNXVrTEhSOEJUTV9XeTdsODVSeTRFRDdpcXVQRl9zM21UT3pJQ1NiV2p3RFdRLWZ6c0JJSjd1LTlZa3pXTkQ1b2ZZY1NlLS1pOEdYbTdLM05weWlRYVZDVm5Gdkc5QkFCbjlWR1NPMTd0eHVDdHVkWWJ3Ti1XWDlqUmwwc1lveDdOSWVWeUozYUtaTEhBajVYREN4LXdzMWdwa2dVdVpROWdhZGs?oc=5",
-"source": "kalkine.ca",
-"published": 1793991120.0,
-"stocks": [
-"Meta (META)",
-"Tesla (TSLA)"
-],
-"keywords": [
-"sell-off"
-]
-},
-{
-"key": "84e26f870a87eaef",
-"title": "Activists break into building site of Microsoft datacentre in Amsterdam",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTjhvckhKVVg5OFBvdTJtaGNDdU9pdG9pNmh6ZFVNVzhBUWcwWVZ0MEhOYnZGbmhiNTZHck1FRVVPRFZoQS1HbHJISHdlbDJCRUtaa3RHc0lDdFh2MEtEeVJvelltSU16SjNuVmVtT1VZSGxZU3duU2JRb3Y3V2hkenpENTFLT0Fud1FQa3VzRWx0ZmRfU21yQlF1T3lsbzg4eGhXeWtXdzBsY0x4T3NCMkhYVzdQd2Zi?oc=5",
-"source": "The Guardian",
-"published": 1793991060.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "c6920138728c0071",
-"title": "Microsoft is scaling back its AI computing power leasing! It is reportedly phasing out its Oracle cloud agreement, and CoreWeave's \"new cloud\" has plummeted.",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZ1RjeUNURVJqNGZyRHluM1BtOGFiMkZFN1VaOVp4Rklzb0dxWlVXUW94bkRvWEtPbzJBNXF4MjhaWnp1SGdrUGRZYlRXb1lSbzUwVEdETjZTYzI5VjFJVzlBSVJQcDdVVkRmWUxFWkt3ZzhMOVA4M1FsTEM2YUZWMW85d0E3RUUzU0JJLTFrdVdSOEhwNzhqTEgwMURxUnROYXVLTg?oc=5",
-"source": "富途牛牛",
-"published": 1793991000.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "fb0034a93e0c58c0",
-"title": "Microsoft Releases Five Windows Insider Preview Builds",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQelJfOXRDV0duVWluWFM3SGpYUWxFTWRDbnpkcG5IUGRaclFwZHF5RE9BZkRwT1FidTcyRi1DVWNxUUR5RmVXRjRIRWM5OWZyZjRoaUVNeHBESlVYSzZCdWZXbWNPSU1XWGZfLW1sYmJGbWVFa2I5MENtNGk4Vy1MQmxGQ1E4TXJSWTVSaFRJeEIzTldNb1k2OExnSEhXZXprbV82RDF1QzA?oc=5",
-"source": "Thurrott.com",
-"published": 1793990966.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "93b2edbdb65c2b31",
-"title": "SmartSites Named Rising Partner of the Year at the 2026 Microsoft Advertising Partner Awards in North America",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOSkk0MzE4SGRiakgwQy03Z1RLeUhOTHkwMXZ1eFZNeTRQUlNpNDJFWm16RU81NXNUREVaYUlRbW5MdnFUWmhwdzIzTUZjR0luODRNdW9peFdiVHBTUE9VYlRPMVBqb0hqd0ZfMWhFamh6UEI5YlpvVUNkcFRPS3J2RDlSWUZwNzZSUm9Gc3JHVEE2NkxlekZBZmpkNkdmTldaZU5XZG5yQVF0QVFnM1lib18zclVxX3U5NE5FN2pqVDM2UDdKc3FLTWcwRFhjWmNub2dQTHpkVFdCcnBvbjFWckJzWUN6Mzl1YnFnd3dRTVJHcFQ2NWZENA?oc=5",
-"source": "Bergen Record",
-"published": 1793990926.0,
-"stocks": [
-"Microsoft (MSFT)"
 ],
 "keywords": []
 }

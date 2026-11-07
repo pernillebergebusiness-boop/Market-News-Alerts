@@ -1,5 +1,5 @@
 {
-"updated": 1794044286.2141001,
+"updated": 1794046968.7647247,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,6 +73,90 @@
 ],
 "items": [
 {
+"key": "7e11e803dbc568a0",
+"title": "Tesla Model 3 Performance 2026: 2.9s 0-60 for $52,990",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZkptNlhHcDZUS0pmR3pVMmYzNWFYaDB2NFlXZFRCb1J4NGRTRUFIZTJVaGo1Y2Y2Q1RWNFdiR2duVElPUlZEMWJqbkJtMk5GTHVxdEdJd0dVV214SDRYY3A1dFFGZGVCYllpU2pPcXlLUklFRVE0V0Z3WVV1REN1d3hOZw?oc=5",
+"source": "shattered.io",
+"published": 1794046591.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "d3a66cc127725fe7",
+"title": "Apple Inc. $AAPL Shares Sold by AMI Asset Management Corp",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbWJZQ2JDUmc4S2gyZDRwblJzUE9Eak56b0V1dURfaFFweFpsOGllN1Y3NnVVMFc4cTZVcVBPbThid0oxT3RGeklaNDZOT09YbmtjSEVoS01VdGFDLXlZaWs1RGF3cW91OEQwemc0V2RFVnN4M0U0Zmt0NjZlcFAxc0RubDVaVnViZWQxNnpUSWMyenBLemJndldkaGsya3VFLUdYQlB4a2RTZTRfcS1lU1RnSTN2Y1k?oc=5",
+"source": "MarketBeat",
+"published": 1794046080.0,
+"stocks": [
+"Apple (AAPL)"
+],
+"keywords": []
+},
+{
+"key": "c2ca03a9b19fc1db",
+"title": "U.S. Cleared Nvidia Chips to Chinese Firms With Empty Offices and Troubling Ties",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRlJEVDBTejg0VUNTOGFiekp4MFdyWVkxaWg3OFpBR0Q1QW1FTTNkU2t6YzllLTlhM0hxbFUzS3VuUzhOdi1vNURJOXBzZHI4eHZ0WURLcmljcTQ3ZEM4b2c1YVRPd3hoS3phLVVtbE5YcHA5MXExajJCQUl5R2VnOFZlSGNfbUxKNjlF?oc=5",
+"source": "The New York Times",
+"published": 1794045640.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "b102e07a45e7c822",
+"title": "Tesla to wind down production of slow-selling Cybertruck",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMHZDejdKcFBYelFRSUFfdXQ2TWdQYkpSQlRtRUg5bmxEUy1CUEpsWXZ3bVRHSXh4ME9TLVB4b0pUTnlQZnNfWDZXVHJVWFJVWk9Ea3NCWGpsWTJpb1RtSVNBVkhnNExaQzVnV2R4LWNCRmFXajFLUENuX05hMksyUERLX1RkRGRpdndpTE1vdGZ5SFpQRlE?oc=5",
+"source": "Jefferson City News Tribune",
+"published": 1794045600.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "4f150ef06e760257",
+"title": "I loved Tesla's Cybertruck and put down a $100 deposit. Now I'm mourning my beautiful, ridiculous friend.",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRDA0b0hyb1NORy1pYkdRODFndkMwNG5jNVpRUlJOS3JpRl9LRU1QY3YzWnJwZFV4UnB4LXNuU2dfUERmVW5NM0lxODFtb1J5NGM3Sy1INGE0M2VHZVdyaWJsRWlMM1lydENoMGJKcWNYUTgxUjBiRzlMeEtfNlZoeEJBS3pDeDFmaFE?oc=5",
+"source": "Business Insider",
+"published": 1794045600.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "699b18c5558c3b27",
+"title": "Get 7 Microsoft Office apps with this $30 lifetime license",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWlNtd0p3NjRucXpvUHlVOXloOXV6SWFSMGFyYTlZNzZFUmFVcDdXWC1FWF9COUJuZXlKcFdPMUhTTUNfQ2FoYXVHS3hFWXFBUzd2YU5rTXhkVW1iUUhoamplWnpid3RhekNLSWx2MEtfVF9SR0dpVVRRcXNRaE1HY3dKOTY?oc=5",
+"source": "Mashable",
+"published": 1794045600.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "e8a0f7d5234b6f06",
+"title": "Meta Platforms stock sees AI funding and terms pause in focus",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaEhWVVhUbkJVMW5aYzlxYVROanc3TFJjQWdkaUlENDdDYkNjWTUweHd1WFZlVUlhYWU5NDlaZURNMk40N0JYdlg4RUhqVWkweEd4aXRLejBMNFZ3aS1HSk80dUtvM1JGMndYMDRJVzB1Wm9TSGtudTA1ZkVKR1VRZVJYUzdpa19wM09YSUJ4Szd4UVYtRkpCMDVpWTVVSDdhV0lHV1FITzRsVFBJSl9ZdHEwYmhKZ0ZDb3NIcmZneUd1Zw?oc=5",
+"source": "ad-hoc-news.de",
+"published": 1794044920.0,
+"stocks": [
+"Meta (META)"
+],
+"keywords": []
+},
+{
 "key": "9d533a876dba166e",
 "title": "Analysts Are Bullish on These Technology Stocks: Microsoft (MSFT), SiTime Corporation (SITM)",
 "summary": "",
@@ -105,6 +189,18 @@
 "published": 1794043217.0,
 "stocks": [
 "Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "98d9287f0c20ec2f",
+"title": "Krispy Kreme Stock Is Beating Nvidia This Year",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdWx6b0RZdURmMkwzNUtpVk9BMDFlZDBldVRxSzJzbzNhOV96NXJuRFpjZXhXWlpfYjhXTGJTOVl3SWNCWEUwRXR1R2lxcFpuWXBYZlphanpQTkpySVZMaUZXSURneHItdW9KdDV1MnFrQW1ldmo1YTI2cXh4UWI2djdfblpfczVaMURJNWVQbl8yNGJKSHRfTlFsSWRZWjk2UHNTTlJ3?oc=5",
+"source": "RealClearMarkets",
+"published": 1794042637.0,
+"stocks": [
+"Nvidia (NVDA)"
 ],
 "keywords": []
 },
@@ -369,6 +465,18 @@
 "published": 1794037463.0,
 "stocks": [
 "Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "2af631f7e178130f",
+"title": "US Memo Said to Link Nvidia CEO Huang to Alleged Chinese Spy",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSmN3LWJySFJNSzQxRW9vQ05DV1BCMVpTbTZnSmllZUFEMDFPNUJDc0MzNkhpSzhPc3ROQ2FxTDVLMy1VLTNiclM0cXlCd2MzNXNzREtKcGhObGVlRFFxa2ZCSE1ONDlsUHNHVEhpaU1iV2lMSWhOTW9LdXpwN3R0emF6MlFPcmxkS3NxQXZyUWpCUQ?oc=5",
+"source": "FourWeekMBA",
+"published": 1794035869.0,
+"stocks": [
+"Nvidia (NVDA)"
 ],
 "keywords": []
 },
@@ -4788,115 +4896,6 @@
 "published": 1793978698.0,
 "stocks": [
 "Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "b04d227563728525",
-"title": "Scottish Mortgage sold its last Tesla stock and cut its SpaceX stake",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5fYlhWR0poM1doZ2dfOFRNU1FoM3NwN3VoVzV1N0xXOG5OZklmTU9RXy11WkpJVFA2TGxGVXRiZHkxc3lNQ3VZRk1JcEQ0U3Vqa0piWEJCUTFlLXdlaldIRFAxWUY3SXFHOUhkcUs0V00?oc=5",
-"source": "Quartz",
-"published": 1793978697.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "d8db1128abc7de61",
-"title": "Microsoft Warns Fake Game Downloads Are Secretly Monetizing Windows PCs",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Namstei1Nb0lPaUdtSWZFYlBNbnRiR2VaZ3ppVDhIOGtHRFFwelZsODU3b0Jxd0RGYzVCTGxja0xDTUdySHpWcjd2Wmp6X0JiMEkwdndRUVNjQWczWkNRVEpNZzB2SEZhbWI4VFNEdElJcDkw0gF6QVVfeXFMTmhVdEZmOC1QSk9Sa3JWRDFsT3BUZjFWYnlWUm9KQ0pFSmEwb0hJZzJsVVhuNXNWeEhFcTBRT0NvZExGclZ5clBUUUxMX3hFNnd6OEV0Z0hsTGp3bDlnd1dMWGdSS3V3a2RPTVViQ2pYOEd5SlBXM0Y3SGc?oc=5",
-"source": "CyberSecurityNews",
-"published": 1793978566.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "740536727911cb98",
-"title": "Invesco NASDAQ 100 ETF (QQQM) Sees Major Net Buying on Tuesday with Top Buys in NVIDIA, Apple, and Microsoft",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPd202eTdpNjFRQlZSUDVhQjBHa0RTbzVCUVV6TWZBNm1RdV9BTEtaTW9Pa2tseXZ4Zl91QWVEdXRPSVkxRElMakJBTExrZnE4OC1Gd3E2ZmhSeUlsbmtLVElPTVIxLWNndmE0cnQyd0w4My1LbVBfYmVDMDN2N0NuMVhPR1JpUkdaQlU0OEcxRlI5YmVjNG1KdXl6VjdpUThPdXU3aFpvaks1SFFfSk5DSWs5anlWUkVvclY2Sko1cDNhcUZDQ3d6cHdJYw?oc=5",
-"source": "SSBCrack",
-"published": 1793978475.0,
-"stocks": [
-"Nvidia (NVDA)",
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "ec2fd6acd74be37c",
-"title": "More than 100 protesters break into Microsoft data center construction site in Amsterdam",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRU1qaFJyX1Z6aGhfb1gwZmN4ekRaYzZ6T0tBa3N1ZVVOVmxfSWxOVGhWNWJPc3pRTjU1QWwwZUUyMWktZGVGYjJUTjF5OUhqSHNrcXVBT3JJYXVIN1o3Z1pjRm41U25HQWhEbnFLVGVrVENlOEpYSWlwLWtvTk1oMWNhaE0xa2w5T3oxd1Jrbm1oZW9ZWndSOVlaR1Jfc3BCRm9vUDFvWGJCNTNEUVlwcVY0SlZ4MFNfZUZwdUxfZ0FyUHpDeEoyNzdjQkM?oc=5",
-"source": "Data Center Dynamics",
-"published": 1793978452.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "d1db3e3851994220",
-"title": "Nvidia shipment worth $11.4M stolen",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95YmoySzcwcW12Zk4tMWRwLVZ3S0VXdFE0RlRKc1UwY0dpeG1ONHlOVWFZT0VaMURwVjRQc1ZHV0p3RERQcEFWaWt6YWl5SWJMSkpBR3UwR3dGMDTSAWBBVV95cUxPQzcxdEhvRm81SmZKZGlBVjhIRld2MEVwdUxMRW8xR05DcjVZMW1iOHBWY1BNM1p2TF95ZDVhQVlQOUV0RGJzSWM2ZE5LdlFyb1JsTEVDdVdIMnNxZzJLYkc?oc=5",
-"source": "KTVU",
-"published": 1793978191.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "9bbd70a54516000c",
-"title": "Cambay Solutions Joins Microsoft Financial Services AI Roundtable in NYC - From AI Experimentation to Enterprise Scale",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNYmwyRU9QU2xWMGNHX3gwNWJiX3pwRkZDcHJiLXI0Zy02RGVpN2phMXJGZHZhd3BoZng1LTZOb1hFMGFrbHVoNzNTdWJHci1ncmhUNFdXTVdId0FjTHk3V0xUdUcyV09hQ1YtQVZkamlqNEJMcjhwRkswelJOa1pFOTFLa2FyNTlYSzNlU2c5bENHRlNzUk4za2VNNG1IQWZVNmE0TkZyWTJGRnlhR3AyUzJMRXZKWVdjWEpDczhkODJPT1VZc1RlSGdfTlNJNmc5Tnd1OENIcnJkWmtLTk9oeWoxM3puVVpJdlowUk1LaFh6YTdHZWc?oc=5",
-"source": "EIN Presswire",
-"published": 1793978040.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "c770e9ac1b9b3da1",
-"title": "TSMC rises on report of potential push into advanced memory for Nvidia",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRGNTQTdxUFhhMmJMcEpnNUcwdldseWVRTmIyREZtblRncFM3cld4Y2VISnRhWW9rVDdPVHMwaDNVVFNsRjZTZmxaRXZhcm1idmk0NGZPTjlwMHJCdWwxSTBidVh5Vy1ZTjlfeDNBUjQzSDQwV1kweUlJMDdVeV9IVnRteEVsRTBhNmVfUVBUT1FqamRSN1F4RGswdXU?oc=5",
-"source": "Yahoo Finance",
-"published": 1793977980.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "9ef3404500a3ec5b",
-"title": "What to do with your retirement savings in a stock market sell-off",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQVJRWTYzc0Zib08tN19reXdjeWlKREsteWFfV3NXMWdYOVVuSlEyMjNVUE1hcFI1N1RrYjRsSTlwZUVEeVB3eVBiQkJqSWRMYm1WNVBULWpzWEdfNmJRSG9lOWZsZFNTcDAwVmtJU1F6enpWZ0VKdjdyQS1iX2NKOTRwWUtVX1VPVHptMVdiLV9YbDktZnI3eTNnYnJyUjRRQ2d4c3M5VXQ3WjNvOXMza2NEM0tSZUN0MkxyZ0NwNWh6Z0N3UWU4UmxFdU5pdkFEQmxEYnZtdTR4dw?oc=5",
-"source": "Yahoo Finance",
-"published": 1793977957.0,
-"stocks": [],
-"keywords": [
-"sell-off"
-]
-},
-{
-"key": "8a075063fa0616d0",
-"title": "Protesters storm Microsoft AI data center construction site in Amsterdam",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTG9CNy1qak9lRUJWejdRZHBvaXlPQk9nRmxFVGJNaWhHb05rdHprR18yWGtVR01ha2NYOVZzTTNDM0pGZjZubjZ3N18zdmFkTVFmakNNbjVvNS1wT1ZuRHJGRFI2TWVZZGJNZTBTSWk4ejBFOHMxNGZNcmExb3p0TkVnU0E5NklPeTlyR2w0VjZqWUZ6cnpqb3VhdGo4RkxCR09YeHJLNFNNa2V1bi14ZU52RjB3LVRJ?oc=5",
-"source": "USA Today",
-"published": 1793977828.0,
-"stocks": [
-"Microsoft (MSFT)"
 ],
 "keywords": []
 }

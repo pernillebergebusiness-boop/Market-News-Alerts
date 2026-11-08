@@ -1,5 +1,5 @@
 {
-"updated": 1794118375.4354048,
+"updated": 1794122068.4664967,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -72,6 +72,42 @@
 "Yahoo Finance: HTTPError"
 ],
 "items": [
+{
+"key": "eef1adbc78fc7971",
+"title": "Tesla is giving South Korea's luxury car giants a serious headache. NINE MONTHS at NUMBER ONE. BMW and Mercedes-Benz have spent years fighting over the imported car market. Now Tesla keeps grabbing the top spot. October alone brought another 9,",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wV1hWNGVVZ0l4UlMzQ3ViakpFSjFneWJLSmlTemxITFJfdTVUSnRNakVnOUVSNU91VFotZU5IYW9YV3A5UnA1UnoxRlRnYzNnLWFvYVd2Y0JSdVV4VzFiSkEwNU9rSUJXQ3Nhbg?oc=5",
+"source": "X",
+"published": 1794121200.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "0e086333c07eb497",
+"title": "The AI Buildout Has A New Problem, And It’s Not Nvidia — JPMorgan Sounds Alarm",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYnlpeEVydjYzaFBxal9qZ0wyNEJ5ckU4STNjVy03dFdjUGtJcUVDY3dadUcwUDNSZWJrQzFJUGgwUFEtcXpKRGlDaGsxaGdyOC02cWtRZmtoTkh1dWI2NFdnbEFLMmNkT2ZfUW00R3UzalFVNWNGWmdHVER4ZHE1UFJyei1ySW5zdS1JX1I5MDVQc2toNk9XSmtyYmc4OFZra0txd0FR?oc=5",
+"source": "Stocktwits",
+"published": 1794120629.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "2096aeac33471b5d",
+"title": "The AI Buildout Has A New Problem, And It’s Not Nvidia — JPMorgan Sounds Alarm",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTkp4cmRUcTlkUlQ1SUlEY2tvWXNBbENUVmR2WlAtQzg5RWpxVGQxLXV1Q1E1T0xQb1JHS0lUQzY1S1k2RnAwenRHT3hEV084eXpqOXlKSF9VNERvT2k2aU1sczU0NTRsLTlueXBHUTRudUZacWIzWWJ2bG9zV1RKSVpRZmlRLVhxLU16SWp1TmRnblJMRmJuQ3RR?oc=5",
+"source": "Yahoo Finance",
+"published": 1794120300.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
 {
 "key": "c2a30d56b1a91536",
 "title": "Tesla Roadster spotted in New York showing off its quad thruster outlets",
@@ -153,6 +189,18 @@
 "published": 1794114000.0,
 "stocks": [
 "Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "1a97fc617fe5690c",
+"title": "Tesla Hasn't Had A Successful New Product Launch Since JB Straubel Stepped Down As CTO",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPR0t6M1p1cWh2aWdzR1BaSWxWNWh6bmN1ZlZURlZvOS0zTG5UTEw5Ql96REE5Y19jRGRXelJiSXJGQl8xdkd0UXlWVWJGeWczeWlOVl9kU2FOOEdNbHhiVkRReDJKbFhqWWMySzlydVdqOG5wMkU5ZTFJQlRHMmVPMkxoMm1pN0piaV9PRE5YaWdCalhsY2VNZkx4QjFlR3VwTXNzbzVmQVhzSHA2TUNHdDBJX3I3a3R5Z0VLR2QxV0g?oc=5",
+"source": "CleanTechnica",
+"published": 1794113866.0,
+"stocks": [
+"Tesla (TSLA)"
 ],
 "keywords": []
 },
@@ -4834,54 +4882,6 @@
 "published": 1794005064.0,
 "stocks": [
 "Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "3ddeb8ebc0511907",
-"title": "Tesla’s Cybertruck heads for an exit after years of hype and division",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbUFOeGJpTjFGNEJyYkdiTHZWS3Y2VTgzZzVOdTZVTzlTYnRtQU5SbE1OaHgyc3B4RVR6Q2h5aVpJMXdBbUN0Y3BYMFNYOVNRWi0xY3hrMDlxWVBwVEpKSzk5V0VPNzdoZmh2NE01TlA1N196dVhURUIyUEN6bDhxZmF3?oc=5",
-"source": "KETV",
-"published": 1794004980.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "7ac859d6177b99a0",
-"title": "Wall Street stocks rally after heavy AI-related selloff",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdkNWMElVN0RDc0RadU5MSnhFNGZrcWgtZ3JYWU91TDd3OFdUWXJKR2xKUlIzWmQxN1RvVHBTYVNHNDFTX3h1b1dqLVVraVRvdER3UG9fZmZtN3l2cjlHSGJZMlBMTTNJSWlMTEtGVURRd3N4QXFndEFRel9yMkVzcnY3SDFEVlhZNlJ5YWlKLUVEUWdyakRCeWRhUXc?oc=5",
-"source": "Yahoo Finance",
-"published": 1794004759.0,
-"stocks": [],
-"keywords": [
-"selloff"
-]
-},
-{
-"key": "8585948a2c4fa634",
-"title": "You can now catch a Tesla Robotaxi in Fort Worth. What to know",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5wUHMzT3JDWkhiWFRyVDZYNHU5TnNPelg4TURxeHM5ejhiLW1DX1NVSy1PNUMtWUl5UHg5U0RRWC1nMUY2NExsZE9DVVVYT21mX05aenh5d0d6TTNGWGdRWFNMdXUtY1FxekUzZlRwSTJoSm5HUHlqVS14UzdKZ9IBfkFVX3lxTE5tQk9OMXpFRFpOZVlLcFVKYjJ5TnZoRnVUZ1NIa2xPb0dxMmNWU0hsSUpMZkFnVDFCaDBnbndEMmZBalhKamxlMjdlck13cXEzU1lReTNXRThJVEtXRUluMU9KU3JlZTNxajdDd3JFeUZ6NVZzTTBUdEM0Y05PZw?oc=5",
-"source": "Fort Worth Star-Telegram",
-"published": 1794004673.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "7bb60f03f51d102d",
-"title": "Apple Nike Plus Watch Series 4 - Apple Store sales in neutral ahead of new Apple Inc. AAPL product releases",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtekd6MVRxZ1RNY2xuY0xabkV0N180QjVPNk81MnFSb2Jmd3pQUFlveEppdXhCUDRYZDdZa0h2akxWWlJfaVAwOVRKVzBWREptbHc?oc=5",
-"source": "auroradesio.it",
-"published": 1794004409.0,
-"stocks": [
-"Apple (AAPL)"
 ],
 "keywords": []
 }

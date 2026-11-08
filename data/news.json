@@ -1,5 +1,5 @@
 {
-"updated": 1794154729.8967092,
+"updated": 1794157338.2918508,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,12 +73,120 @@
 ],
 "items": [
 {
+"key": "75ba1ec11b2f8b92",
+"title": "Why Nvidia Stock Looks Like a Bargain Right Now",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaDJTdlJrdzJEWjZqQTJpZHp3MTBtOFE3OUVJODBXMDdRUDRkUDdGLXRGcFhfMDQ1UXA0SWpsT2JadDlhdkg5bVRRcnNEd08yRng1bzc5Qkg3RDJlQk9uMlkzWXhZSEZjRzJnVUdQWkZpSkJqYTd6elEzVFYzVkg1cVFhelg2MF9KUXhiQ0o3T2tTdW03?oc=5",
+"source": "The Motley Fool",
+"published": 1794156600.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "dc816af025b2d3fe",
+"title": "Here's What The Blue Snowflake Symbol Means On A Tesla",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAyYWUyaTJGNV92OUhFaV9WQ0dqZlpXOTJMUm5sSHRtd0hCY2VPdS1YRFBIR2xvQ1g2bUNYbkFDYTBnRkRqaWZJZzhRSEc2R2JwMjdFbzR5VTNNS3BxS3lzRzRfTEJ3cUxsZWJYUHhKMA?oc=5",
+"source": "BGR",
+"published": 1794156420.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "669fabcd55ce125e",
+"title": "Investigation Finds Chinese Military-Linked Firms Somehow Gained Approval To Assemble NVIDIA H200 AI GPUs, Highlighting A Half-Baked U.S. Approval System",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVzIySHZKd3h2dkZnTm9jTFR6Ui16d3VkRHhMWmx3cVhOQXpzUkwtd1E0UnB2dmJtcXplb0gyOWZ2bGxVdEV5MkgxQkJLOFVuRkF1TXljOGtUVUdkeHd5OFg2QVZrVDRQekpkcWM1Tl95ZHppbk5NbkN6aHpFSVlsZXpHcU00d3RHZ3F2MmY3Z0RBY29MWnZpQdIBngFBVV95cUxNY2VzejNVLVBCWlVmU29LZTBHYjVXX1lpSUNaVkduZGU3cUw3OTZpVThnUXNVYzh1aWktVkI0Umx2dmV6c1pfX0l2d05mVUdXMmFCbUl6aHlieXhFVmUyVWdXQ3Q1T3VLa2ZQaWRqcHlkUXFjczhyWlFnZ1BrOGE3Rkg3RUFodU83eUhXZFR2QVVsRUY3VmNESVRKbUJwQQ?oc=5",
+"source": "Wccftech",
+"published": 1794155891.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "2cc29c234cb23f29",
+"title": "Owner Says Tesla Initially Denied His 80,000-Mile Cybertruck Powertrain Claim After a Desert Breakdown, But He Swears He’d Still Buy Another",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQWdGZmY3Ql80NmwyS0FJaEVUVzU3eFdUMkNOaXVNSXhHOElMRzNBb054VUJ3c3Nqc1pZUnNVcGZvMFN3WkpxUjdJQVloazhaWnVpMU9lb0daV1V4Sm9aQWdVQ2NnM2REemg3ZzFpZWkxR2tueUxUU1R0Uy1vblp5a05vMl95X3RnZGRNT3Q1X1ZaaFBIWFFqaTJtbVdDdFpQSmI1RGVvd0tPclhWRjNORV9LUzI4VVNMN3RxSnlsVGZpUm8?oc=5",
+"source": "Torque News",
+"published": 1794155859.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "7db2a877e7ae695b",
+"title": "Tesla to Add Extra Cybertruck Shift to Clear Order Backlog",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQ3AtM2NUbG15NTNqUTF6dkhKbFBZOW5vQU9LN0I3a0Q1TVNmTFVkVy0wc25DY0Zyc3d3RGoxcXU5cWtuTldrUWZaY1dWNW9rZlI5M242RExqZHl6bEM3MHF6RHZETC0zLUU5b0YtMENITlZqR05VN2Zpd2gyVnJDanFQXzVWUFMyMnFDU1pBQ1djdFA1S2NWbV9WV1JMUQ?oc=5",
+"source": "Not a Tesla App",
+"published": 1794155400.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "47b1200dbb6598db",
+"title": "Dow Jones Futures Loom With Market Damaged, Big Winners Broken; Apple, Amazon, Microsoft Strong",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVU9IbWdfVU5FdE02c2NySGtkOVZLa1YzMXpYS3lYNURLczg4NUcxb2lKNmJFbTVXNGh1RTllMTdrOU9EY2daWXVmVjNja3BzZ3FfdVljeDlLWVkySnZRQW5KNnJMcmdQazFGRlZoREU2UlZab19sUHpMVGtxcWllQUl2R1hzX0xlLVo1OFhiYTZNMmUyaUk2blhNbVc2QW4xZnlCUk9HZXBJUDlCQnVveWhwWXBibGNZN1RzbDNvb2JCNC1UQlRlTFZPeDZoM2lGb0xPalBReHFaM0xYd2lTWg?oc=5",
+"source": "Investor's Business Daily",
+"published": 1794154800.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "870b8a483597c817",
+"title": "Jensen Huang’s wife and daughter dress him: Who really picks the Nvidia CEO’s famous leather jacket",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPVHd6NkRyaHl0d2pzbWgtc3MyUzczZnFsNWk1UDRnOHNGQkdxR0c1T2ZUY2h6TV9EZFNOR1I4REljeGozdlVxTUxGWk4yOXVqZ0RYNVI4WWRvTjFKTnRCM0tVbUxjNFduenhDSFNxT2pLR3pNLVk4NWgzYVNUdWNGaGhKaXV6bUdtanVyNXJzMFFJdDJobEV6RlVMVFg1Vnh4S0pfckxmanEtUWh6TGplRGJBOVE2TERrRW90bDc1VjlYWEtGM193bVdDM28xVXVLRl9yQzlaclprT002aHB1U2V1VHNxU0EtdF9MYk9oTjBmRGgxWTB4T1U0TzNBUW54blHSAYcCQVVfeXFMTU1OSWRkSWE2clRyOTNjV0xYeno1V2JlZHJzVEc4U09vMFlmNjZtLVVDT2x0V29FdC1MN2drdS1Kd1puMkI1dlZKckFkT0w5OVJtYWRSMXR6bjJKOTNLV05MZnozdVdxN3dBcjdrbXBMZEFkQTBaeEt1RHJEcS1TVTJvM1NJV1NwM2VOQ2ZTMEZNdTRsX3ZVczYtOTg5bXRZVVRqWl9sd19kaWE2TnVoS2p1QnJLRkhZeFN2SHRoOWpId0xvdVRDTTJHVFhPR0VHaWJMTHJzYmNJRVRDWmhocVZ0NWdPWkE1X09jbWNrT1p3SkRMb3JGcUxweUFuREhvMEZaN041aVk?oc=5",
+"source": "The Economic Times",
+"published": 1794154709.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "185c50ed202177af",
+"title": "Why Nvidia at 13 Times Expected Earnings Still Isn’t Cheap",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSEhJbGo5Z213RFlZOGstMFRLUW52OVk0NmF1NVl6TlJVbHlzay0tZm4zLVIySnNnSjM2SFduV2psMzk2M1YxVEtSWmpyZ3JCcVQ5MXZFX2ZrdlJkM0t0UDc2a1JvMi03R2xpbVJTeU9PcG5jNTlWVUR3Zi1YVlF6dXhDa2wzM0lOazh5anRyRmlJaTBodFcxUA?oc=5",
+"source": "Yahoo Finance",
+"published": 1794154080.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
 "key": "a1ea266bfcba8070",
 "title": "Why Nvidia at 13 Times Expected Earnings Still Isn’t Cheap",
 "summary": "",
 "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTHhUYzVkM2RpVFVab2JJd2Eza0hydjlmc2I0Y25fdlNtenFjRXhlc19hNG1EYk5hc2c0LWI4UjBhSXJhU2pnLTdtdWRDSGdxNG5zYUFNNXo5N1EtMXlOS0ppdVZTUTNiUWdkMGg5RUg3cnFCZVlfYXRNN203dHZFT1pUc0IxZUczWmV4OUJ1bW52NUtYWS1Ld3p2YmhNM2ZrZlpV?oc=5",
 "source": "24/7 Wall St.",
 "published": 1794154080.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "03e84fab38343688",
+"title": "Nvidia CEO had romantic relationship with alleged Chinese spy: Report",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaUc0T05ZNTdHblpLcVp3bFlUZ0EwOVAzMnFfNnRrRFJxZnJTc0tBcHVTUEFwcGlGa3JNcm5qQnBXZ040T01xSlZRUmNHX213TDk5X09NWGZ3QV9rZDJfTDZoZmFPOGp2NUJFNUVjaFl0cUNDNG9SbDd0YkFDWkFLR3dhbFRWb0c2OXFXb0Fxd1ljLTjSAZgBQVVfeXFMUEFQSjFZSDRoY0RmSWZ5akNIcjJrQnZSS0NkV3JiWlF4bzFWXzAzNmJ1R2xSUFBEakZSVmkyTWM0NnFNTHlWU1dja0w3V092dGYzNkg5MTJZYW9WMGpKVFNCNEFaTTlSQy1GUThqVVVnRVhRSkNTMlplZXJuRmNjeDNaTi1HMFNpc2JyM0RMNWlFYzl3LXJPTy0?oc=5",
+"source": "NewsNation",
+"published": 1794153747.0,
 "stocks": [
 "Nvidia (NVDA)"
 ],
@@ -4775,114 +4883,6 @@
 "published": 1794059367.0,
 "stocks": [
 "Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "d7bdc791a8ee1f08",
-"title": "Is the much-predicted stock market crash finally here?",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdkdiZHFVX0dSVE0xVVd3ZEM2ck5RalM0RWdGS0hqN1U2M1hxRjFFbV9kb3dacElabXZfSThjQWxVSEVYLXpqc2h0cndyNE1MZ2hNejY1RENsSGpxMmJWck15LV92VEh6QnNJaEhTNmtGODJrRkQ4T3dyTFIzd29Ia1JPMnpKLW15aVE?oc=5",
-"source": "Yahoo Finance UK",
-"published": 1794058980.0,
-"stocks": [],
-"keywords": [
-"stock market crash"
-]
-},
-{
-"key": "9fdc3cbb2d8c0d17",
-"title": "NVIDIA Corporation (NVDA.NE) Stock Price, News, Quote & History",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4anJyMDUzT2Z5Q2c5ZnRjVGhtMTg1eG5nWWlVRUFlaWEwdjl6TTFwbi1ySk45bzRFU2F6WXM0YkxzbUhNNUVUZFRfNFI4dnZjNktSTk9R?oc=5",
-"source": "Yahoo! Finance Canada",
-"published": 1794058791.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "8894f580394af52c",
-"title": "Nvidia's Jensen Huang Was Romantically Involved With Alleged Chinese Spy, Financial Times Reports",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQanMyVmhPTGRRTkJhWjB4cGxBZk9DUHdCLThzbXZRU1BaQ0ZiSW1Mekd0Y2dtNW5Ld0pqVl9iaXdwbDFBVmhRSHVMc1lZN0F0ZDJQMWNIb0l0YmgyUkdjVF9oWU1ydktXaXVfZXNOSDloendCZ2czZ1E4U2U5SUhEREhjWGw0S0hua1JZ?oc=5",
-"source": "Yahoo News Singapore",
-"published": 1794058682.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "5e6c21a9a9867920",
-"title": "Nvidia may face a more hostile post-election Washington: Report",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBRUFNiNmcyU21iM043Rk5SZFNhV2NYQkFmaVRlMUdfeWpTOWdOa1VmMHJnQ2JmNFlzemU2bllnRU9vbVhKR1pRc3Y4a0tNOGRjWHc4LXhR?oc=5",
-"source": "Cryptonews.net",
-"published": 1794058473.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "23274b45d7418e79",
-"title": "Nvidia's Jensen Huang officially called to Congress due to reports of a Chinese spy plot — officials mention growing concerns over national security",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNNHVkdjFaOUpEWXc0WFNDTUVjRURnUjduSDRaQ0sxWlYxQlYxaW1mYXZoZXJ0VTVFZGtyZk5LcWRxdmlOTEtwSzFERkUwNkxsY0licnNDVkpoei1KT29nVUZ4X0V2VWxRaFNqaHRNWHhwbVl4NHFIOXJRQ3lxRFMxMFZnMl9FZEcxQ2xVcWhKTVZlM1ItZnVmdmk1ellJRkNWZ0Zva3hVRGhKVE51ckR5WjVJUG0wZGJMLWswODRfbm02Ukp1VGZuSTl5M1JjNGpGSXZIZmlmNUxSQmVzbU54SFQ0NGpqWC1nMHd6YnN3dHc0LXZ1RmswNnBQTjd4dnBERlF3X0F1ZWw0VzFUYTMwWU5tS3gtQlN5TWhJQ1kzZTIxNFE?oc=5",
-"source": "Tom's Hardware",
-"published": 1794058200.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "7dbf798b459146dd",
-"title": "Micron vs. Nvidia: Which AI Stock Is a Better Buy for 2027?",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbzVyRlZsWlZ2WUR2MlZzQlBSNTBxYmJaQk1yRE5ZeWZlRW4xTE1vTlF6VmhRYWY4aVVKU05xWTdXVkNqYllyYnRkZURKV281dWM4T3FuSTV4MnZaUFBlRVZRVThXRDBMVHNTTDg5Z01aQUZVV3lZRDlBVU1Ed0phYjhrYk1qanJDXzFlN3BMbVFTUWlzZFV0bllDNFlJRllZeWxYaHdkbVlRaEJ4SW1KWHhMS21USEtZY09lNExHUmE4Tm95cG13SHdoMnhtZ3NiYkE4WE5R?oc=5",
-"source": "The Globe and Mail",
-"published": 1794058129.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "9d20aacf081e8d84",
-"title": "tesla-v4-supercharger-evgo",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVkszSEJDTlpyaHVQNV9ieWRMMVV3OXhQdXlWd2lERXBEUUNveUZGWVAwbEtTLWZVTTdGajRWMFo1eHdObnNaY2J3MG5TOFlVV2JhVU5uRnVNai1FZVlRTC1XTFVMWUd2V3JLMWxWTmF0TUEzWlNPT05LN0p1NGVKY3N5bk1OZzBibk1lY3Y1bnBXdVdGUzNWSi1XYWlLMFpZTnUyMFRVencyWFE?oc=5",
-"source": "Teslarati",
-"published": 1794057883.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "54584537b7c93edb",
-"title": "Chinese spy agency reportedly targets Nvidia CEO",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ENzVoalJkMzQ3UkRoNGRjWG9OOFF3TzMxVFkwd3V5a2pDQ0dJT1p3eXlKV2p0UUFPOXpGNjU1azZXLTNZbHpad1d4d2RZQmhWVC1MaTRB?oc=5",
-"source": "Fox News",
-"published": 1794056891.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "f7f3331ccf8ab109",
-"title": "TSMC denies exploring 3D DRAM production at Nvidia’s request",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOWlsUXhhMFlPc2JaNHlnVEJxZWlyM0l0OWVhb0YxV3dCNGtpSklzMVIzcHk3WXNET3dyQ2I4Z3pheHZsRmp0SHlzWldiRjdMcTlFa19PWVdpVkU2Mko2YzZQMHZMRzZWUmdmdzNTaGF1S3cwUC15SXJFLWRreGRTODRHT2hsTDg?oc=5",
-"source": "Mezha.net",
-"published": 1794056821.0,
-"stocks": [
-"Nvidia (NVDA)"
 ],
 "keywords": []
 }

@@ -1,5 +1,5 @@
 {
-"updated": 1794159776.102904,
+"updated": 1794161751.8688662,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,12 +73,96 @@
 ],
 "items": [
 {
+"key": "12edd787b55ba45e",
+"title": "Nvidia CEO Jensen Huang faces bipartisan congressional scrutiny over reported China spy link",
+"summary": "Lawmakers want to question Nvidia CEO Jensen Huang following reports about his relationship with an alleged Chinese intelligence asset.",
+"link": "https://www.cnbc.com/2026/11/08/jensen-huang-nvidia-china-spy-congress.html",
+"source": "CNBC Top News",
+"published": 1794161172.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "8d7ebb1d178159fa",
+"title": "Nvidia CEO Jensen Huang faces bipartisan congressional scrutiny over reported China spy link",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTlFBMTZ4RFd1bzZnam9ka1FLSTYwWFBVYmt2aHpxZlJ4YnlpWGJabUZMVEt1cENPOU84VnhRLVJWM3YyaFlMeFNxNWExLUNqWk8wQ1NoTmdUZVY0ckpyUlJlVHc5aHZ0V1RtUmFib1J2Rl8waXBiLVZyNzZoNWU5Nw?oc=5",
+"source": "CNBC",
+"published": 1794161172.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "c804ba9e8ea17b5d",
+"title": "Oracle Falls 4% as Microsoft Reportedly Ends AI Deal [2026]",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTHBhTkZXYmhpcFZFRG1YNnBySkVuMEN0ZUZaNVRoQjVaUVVpWEVPY0ZlWXNCQ1hUNWlMYlc1Z21qTHBVT2JFTmpXUWdpclNJT0tpc0NIMkl1c2hJNmNEcTlwRFkwUWZNSEtMMC1CUVE4SnBBX01UTlVRSVl5NUxmSkpfQ1daQnY1bnZvUTNoQm1HNlFGWkFtSGln?oc=5",
+"source": "tech-insider.org",
+"published": 1794160764.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "26ef76fd303060ee",
+"title": "Microsoft Is Reportedly Getting Pickier About AI Data Center Deals. Is the Stock a Buy Now?",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQY2NZTnd4alFXamNld3FsLWVldVFRLVhKRnZLMWpwbGhtUlFCczMzUll5U2tabXl4SzhFT1BKelZuT3VRYjlPWUFRd21tN2ExSU1LTGlNb0lyT3IzZXp0MWNqWFlkeUdpS05lN2RFd2pnVUk3ck5vbFV4bEUwbHFaZDIxbHBtcnZ1TE5TUGc5ZzlJN1BNZEI1NEh0ZU11b2plZFRIX094SQ?oc=5",
+"source": "Yahoo Finance",
+"published": 1794160682.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "26f13c49cfc91e97",
+"title": "Nvidia Stock Loses Key Support, Enters Bear Market as Earnings Loom",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQek1PQXZzR2VoMExaNmRkc0p6WTZCaXJBOTl5SUlzcnotZVBLTnRHdFdoZjhwdC14a3owc0lNeGlLeElma1N3dHhQdWk2SlF5Z1d1djNpQUlBRWozSC1vWnltd2dRaFZISThLRU4xVDFTTHFYLWJzcW1FczRwcnNSb0J3VUdqaGRXdlhzeDNyRGpueXJ6VUVKcFNwd3VsZDRCd0VoV1ZKU1ZEc085amppYUFOcWRIbWdHREJiVk0yZUI?oc=5",
+"source": "Benzinga",
+"published": 1794159905.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "09f5c6b3b34df9cb",
+"title": "Tesla Announces It Will Discontinue the Cybertruck, a Culture War on Wheels",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBQNzhsUk9VMGxqSXoxRUJqbURmWjdsbmlPYjZWOTV2Y05hdnlaYTBiMjJoS2tZT1VDUER0TUVSYUtaN3J6bng1UkQ5c1Z0QmM0WGpsaUdzT1RoTDVxdmVsT2g3UEthYW5ueDRFRzhFZFY3UWVQaWt3d2FZUQ?oc=5",
+"source": "The New York Times",
+"published": 1794159638.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
 "key": "c27282065a2a3f77",
 "title": "Microsoft Is Reportedly Getting Pickier About AI Data Center Deals. Is the Stock a Buy Now?",
 "summary": "",
 "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdmxmRExkR3Bmc3lfdW8zM3A4c3lGZFlEMUVxYlFmSk1sTmt0TkNGZk5JRDh2bEVtT1loMDU5LTVnOUNOcTBSMW1hckloZm0wQksyclNlMHVEa1RTXzRJdDBVS0dMdm1CMTZZclFPa09oQnNVUDdCdnlZaUk5aXJfUlRORHhSMnJDQ2NWOExCTjZHTm5GQTdJeEl6blNYczE3NVJXMUVHUlhQOWJkcm5YMzZ0cm5CMDZIVE1tSy02aTlzV29pT2xFeWh1LUg?oc=5",
 "source": "The Motley Fool",
 "published": 1794159480.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "1ab9027c9bfd619a",
+"title": "Microsoft (MSFT) Makes the 10 Best Dow Stocks for 2027 List as Azure Growth Speeds Up",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTUF2amdRbkhVYUpfVzRDMkl6TnNrZG1Ga09ic254SVotYnQtS1hZUkVTQ1ZZUUF5aG4yUGhUQ3lrWDlpSHBGVm1aMzllSm56OGlpMWNZM0VqUXJsVDJhZ185eDU4QmtWekZURTA3QS00QXhKTVdmai0yU1pkSU45ZDdtMWZJZTdzdnpOR3NWeHdrN2hLOXk4Ug?oc=5",
+"source": "Yahoo Finance",
+"published": 1794159388.0,
 "stocks": [
 "Microsoft (MSFT)"
 ],
@@ -103,6 +187,18 @@
 "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wZ3Z4aFYyc3NydDFnaXdMYVBfMUFSOW9JNXcxaHBOZGpQSjlvOFRxOTZpZllyeU5MSzZhZWt0bDRvc3RaWVBEeFpYZThGZnZNY0VfNF91c3k0T1QtVWVWRlhHZVBBUEk?oc=5",
 "source": "CTech",
 "published": 1794159060.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "ac3525f27fe02196",
+"title": "250,000 Cybertrucks a Year Was the Plan. Tesla Sold 11,586 in 9 Months, and It’s Ending",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOV1NuWWFTQ1ZHb21ZWF9pQjZmX2JuSzhBMXpuVy1Mci15YXZFNmY4enFDaTdhbmFLWFk4Tkh2RmR1TGE4b2UtUEdES2lzR1pxZmVCTjdTcXBSVWVxTWJrZzhSYnlfWjQxNG9BNXhZODBZbmlXMDRXQ1kybEwweGpBNUU2RjlTaTRkWHN2ajNpN2xFdkFTQVNPNkZMeDdZbjYzbWdhOWxn?oc=5",
+"source": "Yahoo Autos",
+"published": 1794159023.0,
 "stocks": [
 "Tesla (TSLA)"
 ],
@@ -4785,104 +4881,6 @@
 "published": 1794062103.0,
 "stocks": [
 "Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "c9f2d627c4194244",
-"title": "Heritage Investors Management Corp Sells 2,131 Shares of Meta Platforms, Inc. $META",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeV9UN2JxTThNX0IwSy1od0hNTWY3ZXVtTENWUy03aGRzNTBQZ3oyQnFtd2dtSWhhWVhUZ1ZHVmRONE1lLXNyT3p4anowcXdScmNYbHJIOEVNbFVBRG5BMF9KUTlaOXJBR0RsWHpSTGF1Qm9OS19Jb0wwb2VoVXBxbXpkam5KZHBrcTZSS3J5LWU3NGdkN2E3SGxFVlp3ek1vWTgtQ3Z5ZWZaMko5aFFQTUxEWFBvRmFQaWdmRVYxTk50TktJdEozbmZBcTZTS05LZnlWSmxEYw?oc=5",
-"source": "MarketBeat",
-"published": 1794062014.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "1ac27b2d74feeb0e",
-"title": "Aker's Valuation Set to Reflect NAV Discount with Nscale Boost",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNaHFoQzJzcVF1VGNFTmt3QkxxN3FTU3BjS0VXVU5GdmhNWmhnbFFubGdsU2JWei1PNENZSFR4UWdMTHk0LXRSdFFUSU9iQnpyUFlCSWJHbkRFYVZLYVp5SjZkUW04b25TV0hqb1BYZ2V4SnhDbE9GV3ZXa1IzeWxqUk80VnM1Wk9vd1kwdUQ4WG9kZXZfNl9Tek5BRzJidWJFRkd6bGV0X3RIRUo2dEJPWUJsZ0M0MWpuSDU1amtxRUpuTklrbk5Rd0kxOTVXcWNiV1hITm4yOGwwdUZlZkZndjBDU1Q?oc=5",
-"source": "Simply Wall St",
-"published": 1794061839.0,
-"stocks": [
-"Aker (AKER)"
-],
-"keywords": []
-},
-{
-"key": "ac3784d64b7d56dd",
-"title": "Tesla’s Giga Shanghai Now Sources 98% of Parts Locally",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPa3BHaTBxWGFPQWc4MGEyMm9HU19DX3VrN182OWVOd1E0bkpGN1BMcjNCM0w0eU5PazVXWFRaTmF6a0xaMUEycEVQcVlhUWYzdEVXRi1zT3RQWjZuQ0g0RG1QSGhUQUFyMi1qNm80dWhjcDhfRy1oaEJlaUpIaTdEUjlfNzJ0MnEwMUd5NW9idk9kVWF1cnc?oc=5",
-"source": "Not a Tesla App",
-"published": 1794061800.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "3c57608aafa830c5",
-"title": "Meta Platforms, Inc. $META Position Lessened by Greenleaf Trust",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWi1iMC0zTVJkOEltbnBFaEMzV3g3YUYtY3dfNXFKZmJLdW93SmJJMWxRaEtwNENMQm9Sdk5MNUYxbzNLaVFENUVXZkc0U2IxWjFMU3lpZXFyWDFlRHNmUEFnOEFZLUlKd3NtWmRibzVhSWxQd0hFVXZLTUFxaUQzbmhEcVcwLTBENk5hNy0zMDhPdnJNNF8xdTlnX05BeldWQ2hsblM2eERUUkdlT3l0cjJTZHIyS0FmeWVWaXZn?oc=5",
-"source": "MarketBeat",
-"published": 1794061626.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "f26cf8b5e023e959",
-"title": "Is a Stock Market Crash Coming in 2026? Here's What Decades of History Suggest.",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA4SFJCdHVCajNSRkVaR2ZWNVdjY0wzS05YN0tvUkp5dUlDN05MVHdfS1RrejllSWpJai1EWjUtWHhURjNUTDllT2o2RFJrckRjSEx5S1oxMXFKQ2s2emE5Si1IeldvVTQwTlBBc2ppS2t0aTFVaE9XbEo1SGZ4T3M?oc=5",
-"source": "AOL.com",
-"published": 1794061320.0,
-"stocks": [],
-"keywords": [
-"stock market crash"
-]
-},
-{
-"key": "ccad176b5fff42b8",
-"title": "Jim Cramer sends a strong signal to Nvidia stock investors",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeFh5eHFFVi13TmVVX01zZFBGZFctZmU1ckM2dDhzUTZsVWhfcWFRbGppMUp2UThvRW5Ua2tHM3ZUeDFUN1IzUUF4dkg0YlRPSjJDR3p4cndOeVItRUVxbWxaaXdaVWdtTV9sTlpHVjdXRERjMGdqQ2JiTTlnVFJTd21oWDMydEpaM3hDSUQ2Wkt1cXNGLTNNNWI0QlE0U1lGWEV3?oc=5",
-"source": "TheStreet",
-"published": 1794061020.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "d0d6697ecb3cc130",
-"title": "Not Nvidia. Not Micron. After the Chip Sell-Off, I'd Buy This AI Stock and Hold It Forever.",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSkFIQnRzcUlHQ3RmeDdrb05BdzM5UnU0Z3ZmN29DQ2pDSHJ0NlNlTU5XamE0bUdKaEkxOExkTTdKRjdpX1FSUjk3a0ZDRFJPMTA0cVVUVTFJaDNjdXpva0FhMXViM1FHVHJkbUNRQ2hjOWhYdVV4Y3dzS21yZGJHbllITTBNWElSYVFQUks3UXpKcG9sVnVUTA?oc=5",
-"source": "The Motley Fool",
-"published": 1794060960.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": [
-"sell-off"
-]
-},
-{
-"key": "a229d199729ea2c7",
-"title": "Nvidia CEO Jensen Huang had a romantic relationship with alleged Chinese spy, Alice? US intelligence memo raises alarm",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQb1hpWVVCSElmTEE0Wm5OZUVqSUxabERTVjZyQWtzTTVBclZBZmQyUWtpWWk4ZkFXLURDYktmSmFqbU42NEhEc1h1Y2Fkd0ZxanlCZkN2bGx2ZlpMZjF1NmJpMFZrUUZmU3llUm54R2NyTkRHZVlPdlIxQVNoSllWbmJFODNNT3VHZVZad05taVlZVnk1MHhLMlg0a2dTUUl6cTRfM2ViVllMYWhWMTVRLThNTk95NXZ0Y0hXeHdnRTkxdVYyd2lkODJkWFpnLWNQZUltUi02ZkFyUWtSSXBJSHdHOUF5UUlKOWw0UVRZSFhlUdIB9wFBVV95cUxPWDJpamx4bkRIWDVwQWxxZ2FhS1ZwRUMtU0I1amwtTnk1dVlnSEg3ZEV6SWkwdjB1Um8wdmtDNmpZTDVWbWFFZnpvQ3cxTDBsTl9weHNJb1VaTVdSZlZBanA2eGhFYUZmdFdpaXcwUC00UkZHMm5MSXJneVppWXZHYWJueGt2YnRWSjZ6VGhWQl9iTDNzcW9ZWUJGLWpuWHEwblNHcF93dnNjM1VhaTZYanJvN1FOY1NudXFGNkhiMjNiRlNmaGVGX3Zia29GcjBpZmNQM3ZuSnRTU1k0cXFtUmhoYnFtTklEU3ZHM2dOdlVEVkRUTUpF?oc=5",
-"source": "WION",
-"published": 1794060720.0,
-"stocks": [
-"Nvidia (NVDA)"
 ],
 "keywords": []
 }

@@ -1,5 +1,5 @@
 {
-"updated": 1794100816.1093974,
+"updated": 1794104414.2372391,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -72,6 +72,66 @@
 "Yahoo Finance: HTTPError"
 ],
 "items": [
+{
+"key": "73e60ebe39d75267",
+"title": "NVIDIA's FOX blueprint sends AI agents from a defect alert to a root-cause report",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSGJIY2JvN1NHMjItRDhLNGtuMmJUUl91Zkg1VHRJZ2d3bE53d0xFQWM2Mi1tVUdrMktfS0phVld1bWpKR05TWFY1VlZuYlcyQUpOcHBzY2VWTVFmdHhuWjRCdHI1MmlVU2VPY0xFaVEzbFcxSnU5cGE4OEZieGpreUtOVHJZUU16V2dNaWNEZUpyYU1lT2FjZERhaUdETEZkSnNkVzZfTV8yNnlXSjQyNEZuVHRCcm05dUpaQUttWE9vMlJmSC1CSXpuLTlfd00?oc=5",
+"source": "MarketScale",
+"published": 1794104272.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "ce56102d19703479",
+"title": "Tesla to End Cybertruck Production in 2027 as Company Shifts Focus to Robotaxis",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSmx1WkJLQmFnYzhBX1VVQnlMVXU5cTJXUWMzSTBGeVpUSlpYVlZsREJ5cVFEOTF6RWI3Rm5PcWtINnpIWkdtVE9rdGRtODRuLXBmTEx5SzZ0VkJQb2lYSXNPcFl6ZzN3dXhfbWYzZ3hmUVJvOVBlWkN6NFUwMzA4SDlFbFJzWVRWMWZVN0JkTHlOd3Blbnc1SHRGakd6bFBWRGRGajJ0VmdXTjJaQzlsX21PSlpFMDFvTkhaNmdURk83LU5HQ3JSTHphYVN0R2s4cmdYaXBxNzRjWXNFZG0xeA?oc=5",
+"source": "NBC Palm Springs",
+"published": 1794103200.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "7a9791a6fdbcc0cb",
+"title": "Tesla Cybercab wows visitors with its butterfly doors raised at Auto Zurich 2026",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9qMFVWRXY2YnAzWnF1WDhRUVVuTUZwWVRGQUhaaElobzlqQURaSVY5VW5SVTBscHZkeGQ3S2NpT2R1NU1ZZ2tNd2g4dDRITnpENHRDZGxXb3c3NER4UmpfXzVFb3NHV1VVdVFSV2Zvbw?oc=5",
+"source": "TopElectricSUV",
+"published": 1794101363.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "913b683ed7447746",
+"title": "Microsoft: Crime Group Now Aims ARTEX AI at Financial Firms",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPM0N3MG5UUnBQT2RVcXZxVi1FczlNbmRFeUV5d0NWVlB3RXRNSTdZcFZHa0ZMRDlpcVI1T19LUDhCWEt3b25qTjZYYlNTVEFTQnUwLXpxTjNHOWRFUk5kclRMYllZQ2ZGbG5yN3VjSm5IeThoYjJTSzBWWTR6SmgySkZUdk1tSVN5LXlJYVVVcw?oc=5",
+"source": "FourWeekMBA",
+"published": 1794101269.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "b733c73e8c7117b2",
+"title": "Tesla to end Cybertruck production in Austin by mid-2027",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYlVoZllodGV4c1d3eGlnMTI3OUxBenh4RmRNSzdwT2psbUlDUVJ6dlBaYTdkVWFsQnpnMXRZVklEbmFNRWF6NHhyX3dabllad0lwRi1INjZrdGVIUXNpd3hJN0FMejExOG9DY3FRSTB3RWZIS3lFekFtdC13T1ZEZm9LemVhejlhTE9BU1czVmQxczJjTjQ5TQ?oc=5",
+"source": "CBS News",
+"published": 1794101040.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
 {
 "key": "08b39d6c3d93fb42",
 "title": "Apple Series 3 Watch Gps Only - Apple Store sales in neutral ahead of new Apple Inc. AAPL product releases",
@@ -369,6 +429,18 @@
 "published": 1794087469.0,
 "stocks": [
 "Meta (META)"
+],
+"keywords": []
+},
+{
+"key": "014ae6e859d685a1",
+"title": "US Intel: China Recruited Tech Exec to Spy on Nvidia CEO",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUUpCb1VXLTdsaGRJcVRRUUNiYVZHTFM4cG1SenljV1EySEFrSXF0UEY5ZmhYcmpweHhORHZzaS1JeV9kdzJsWk1ucEVpcldNSjVTand5cEcxdXozMkpOZkpVWGkzLTRpR0l2bzZOU2tuY0UwLXI2Y3pXNlNwOENTY0Y1c19BQk9xSTc5N2hOcWtKQQ?oc=5",
+"source": "The Tech Buzz",
+"published": 1794087172.0,
+"stocks": [
+"Nvidia (NVDA)"
 ],
 "keywords": []
 },
@@ -4809,78 +4881,6 @@
 "keywords": [
 "sell-off"
 ]
-},
-{
-"key": "0926e2c5d1231c9c",
-"title": "Cybertruck final countdown: Tesla plans to wind down pickup production in 2027",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWVNOSWlKamxXR3N5TzRiWC1VblNxb29ZOFR3WlEwZHBBR09TckVVVEVKZlFnc0d5X3pfcjlQUUptZThGTkZuMnVFWnNIU3JIWWQ5TEN0b3pKQnZqWGdvQnRQQ1lrRVBfRnZMVURBQ0lSQU0yNUFieURwZndpODdkV3U0X18wdFhhWGhabXphMnZRb3ZaX05obFBYbDI?oc=5",
-"source": "Interesting Engineering",
-"published": 1793998440.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "4c7ffb0464bc37ee",
-"title": "See Ya, Cybertruck: Tesla Prepares to Say Goodbye to Its ‘Controversial’ Pickup",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTDl0Q3pGdk16aVA1WTBTM00yUmVjSnVPWlVCY3hiUHJwTWVobVdlREdXLVZ4eEw1RjFIT2FkUDlKVVVGd202UzlVbHZ0NTE5RTdPYkxLMjhwNkowd0tPZGdPVFFpeC1xZHNsUm16UjBKR0tETWNtZGo0QUJiN0dqTWVDakhTa1JPellyYUxzN3pGNGNPRFpuNFZpVWtYUQ?oc=5",
-"source": "Yahoo Finance",
-"published": 1793998108.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "c084e8899f0c2427",
-"title": "See Ya, Cybertruck: Tesla Prepares to Say Goodbye to Its ‘Controversial’ Pickup",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdlhoM1FRb0tJUWJtSHQ0MkptOGRZSXJhYlduYkNVV2Z5UWQ3UHd2Q2RkdGtoeER6QmYwSmk0cG0xaFdVVHg1RVUwNDdSUUZsNkUwb2hDVjlJSTlpb1dTYzdWcGNkTXAzVmhKU0RDam9sRlV5UUUwYTVRV1FVYkROaFRmOGl1M1M5M2U1aF9EREFWQ1NRbkp2ay15Y3dRTXpvVVU1OWJ4eGpEVGpPSkZuaC1OQ3BGVFEtNDB1TnoxOUpkOWZNSDBnMU1mLTVKdw?oc=5",
-"source": "Investopedia",
-"published": 1793998108.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "bd8affe45b336b02",
-"title": "You Can Now Rent A Tesla With FSD On Turo",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBWTDUzbHI4bGF6MTdvQjBDdVBjRkpUTWd2LVA5MThQUGFDYTdvMFhoYmVaT3BwU0xRdU01Mm5ReGlYQ09pbjBiZ3UwR1Q4WU1aMlJ0QmFGcnBZUFFrYVRfWTlHOHlXOS12UXc?oc=5",
-"source": "CarScoops",
-"published": 1793998106.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "8ff4ff19c5cd5149",
-"title": "Did the stock market crash today? No. Stocks mostly rose Friday after Thursday's plunge",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaVctb2JXUEFBNXZfV25vQ1ZWTHpDZUk5OHpBeng5SW0zSFJ3TmdCUERTYnpCSE5SWTBSM3ROWHR3RlFuZm1VV2V1NG9hZ0RRRUduREkzMDJXUjVwclhRWTlGUzNkbUFqMmFBQTZBQzhTeXVYc3o2QlBUMVRacUhTQ2FjaFh0RnJIeUtmQ0l6cWxBZ09wR3FoNktod3FCbEUtOGF4UEJUOVNoNE9RSlRYZWJtRDJPYXpfeEE?oc=5",
-"source": "Nacionale",
-"published": 1793997889.0,
-"stocks": [],
-"keywords": [
-"stock market crash"
-]
-},
-{
-"key": "41fa4d9ad41f8874",
-"title": "EVgo opens its first Tesla Superchargers, with hundreds more planned",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNXRzSmUzcF96blF1ZE1zNGNpQUtBRlR5X2dXbHJFZ25mLWJzNDdETnQ2Y2lMMDJoaUhSamtzd0dBd1RlN0doR2xXSGc4Mm5qWlZWTE41Y3l6bWxOSUZubzJOWnlxOERtSnJ1Q3ZNYlc2Zm1sYVFDUGFzSlNpcUxhTWdFZWh6empOZ1dyaTZQYWF1X210c2FORExqb25Pc0NN?oc=5",
-"source": "Electrek",
-"published": 1793997840.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
 }
 ]
 }

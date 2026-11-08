@@ -1,5 +1,5 @@
 {
-"updated": 1794165256.5291703,
+"updated": 1794167713.6442058,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -72,6 +72,42 @@
 "Yahoo Finance: HTTPError"
 ],
 "items": [
+{
+"key": "156e46c83b6ea239",
+"title": "Microsoft Cut Some AI Caps 90%; Meta Claude Code Users Halve",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPX2gzSG5qMFpyd25BMDZXVG45ZFVpQlB3RWRRTm10dlVSSDFCRFoyVjZfZ2dtcDk4bnQwVFFreWRhaWQ2b3lPbGNzZnZqeUF2c21IZWIzREdXZUVOeFBtVWpEblNzYlpHdngxeWhIWHhJclJoOTBDdHd2T0VpeUhITi1DVlg1bnJtNDhfSWJFdw?oc=5",
+"source": "FourWeekMBA",
+"published": 1794166430.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "5196d4ee4b3a417e",
+"title": "Equinor Wins Sleipner B Lodging Approval as Mongstad Safety Orders Pile Up",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPam1hTVFQVUtCUmZRekZ3S3lsUjBYM3NQWVRlUmVNOUNoamFNdTR4SDc2dkJUVE1tbHB0SXNxclFGNDVISE1xZVBXZzVUZUd1NjVaTXFPcUMydUxWV05wbC1RQTRUdTZpbDBGUXF3MXBHN0NEOW5nWWphY000UjBNTng0aUhwckNrZF9zejkyZXRYS3ZoWUNCTjYtWHpZUHBJY1BneTRQOXprbEpWRXZLb0loaThJaVdFTnJNalNnRjRSNllEek96VER5dTN1X0NWQzlHcFNSUjY5M05QQ3N3?oc=5",
+"source": "ad-hoc-news.de",
+"published": 1794165113.0,
+"stocks": [
+"Equinor (EQNR)"
+],
+"keywords": []
+},
+{
+"key": "e8533d21166513af",
+"title": "Microsoft Office 2021 is $29.97 for a one-time license",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUVFucThZclppM2xDNU1QYzBYVnpMUmhhR3pMZnI2VXlJcFFFVTdjV3F4VVp5RUdfX1E0YTI2X29kejZQbUxJRS1DZlhra1AwQ056VGNVUGlNWnBpUHlaVHdzNmNRMk9GQUxLZmt0UmFWM2tmS1VrLU1fTU5iVzJhbFdtZEZJWGs2YTZpMU9selo0QQ?oc=5",
+"source": "SFGATE",
+"published": 1794164719.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
 {
 "key": "a24cd279120456ad",
 "title": "EV, battery & Charging News: Tesla, Cenntro, Ballard, ZF and Forum Mobility",
@@ -249,6 +285,18 @@
 "published": 1794160682.0,
 "stocks": [
 "Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "56e3dd5e3cce01c9",
+"title": "Meta Platforms Inc (MTPDL) interactive stock chart",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5OTl9PRkxJRVp3eHo5SHhRLUJyQl9pSnA1dm41LWtYa09NT2xJNUZncTd0VmlwcHZYYU92RGQtSlZ0aWNjRGJoMTVsLWhoRXkyLVdIcjVPRTJOVEk?oc=5",
+"source": "Yahoo Finance UK",
+"published": 1794160306.0,
+"stocks": [
+"Meta (META)"
 ],
 "keywords": []
 },
@@ -4830,54 +4878,6 @@
 "published": 1794065400.0,
 "stocks": [
 "Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "3586e434d20867e7",
-"title": "State Farm scales governed AI to deliver enterprise business value with Microsoft Copilot Studio and Power Platform",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZjBJQ1g1QkJhWmVoSWpOUkduYW9nOUJ5Y0FCTXM1RjM2T0NkUzF3TU93ZXhNZ2R4eWJUYzUtRkl3cUlCd2xmQnRxRzRKNXV5aUYwYnJ3eU1aZ2RZRUd5Si1Vc0M3dzM4YjY4TzdDNXd0MGhtbW1LZHl0R0hEQ3dqdF84amV2WXgtM0R4NnQtWQ?oc=5",
-"source": "Microsoft",
-"published": 1794065389.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "34b12421cf53b422",
-"title": "Fed Chair Kevin Warsh Just Issued a 6-Word Warning That Could Spell Disaster for AI Stocks",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcklfd1VuZE5aSHpBMXRZaW4wWDJRcFI1WTk5UlVoZWozSlJoei0wLXBkOVJTN3BteUhmWm8yb0FnMWloTS1McUhpTXE4VVV0VC1RNGNUMmpjVXlVZ3ZTQXNwR2xPREtWZmNDUlZqUzcyQUZ5M0w5aXd3dHRGSHk0aFRVaU9aSkxWQld5T3p4TTFLbXMwU1E?oc=5",
-"source": "Yahoo Finance",
-"published": 1794065192.0,
-"stocks": [],
-"keywords": [
-"Warsh"
-]
-},
-{
-"key": "6cbd8586bc4e943e",
-"title": "TSMC Jumped 6% on a Report It Could Make Memory Chips for Nvidia",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUENuMm5tR1ZQZ25BY0ZDQjdoQjdTZU01TS1FSU5ER0VzazVyVHVPcjFGT1VXY2tXell0VkhHcVBxV21qOFlhMUdfVEl2MkllN0FfbmFDekdzNGV1UFpiaWdhTnVXaGhuTjlZdXJ4TWw1NUNjeW1HN01HYXN6RVM3TkxVUjd5U1pCcnNUVU5BQnRmVktkZ1E?oc=5",
-"source": "Yahoo Finance",
-"published": 1794064431.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "ca3f67989838c8ae",
-"title": "TSMC Jumped 6% on a Report It Could Make Memory Chips for Nvidia",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNLThISkFpaFQ2b3BIQVVMTXFDcWdTX3d4ZnFzQVFEc2U3WGRNZUp1dlkwZmc5V29vQUVGcXZCZ3Y5X2RTRGltWC0wdkNia1VnM2pCZFlLdXFRV1UyM3lWZ2tDWUZ2Y21Bc1hrcktOUGNmRFlNSFlWNmRNVGdXekxNNkJueHdkOWtkU29yeHBERkV4RGc0azJONTJzTERxT0JOaXJValBKb1RQSzg?oc=5",
-"source": "24/7 Wall St.",
-"published": 1794064380.0,
-"stocks": [
-"Nvidia (NVDA)"
 ],
 "keywords": []
 }

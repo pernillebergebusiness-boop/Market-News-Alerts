@@ -1,5 +1,5 @@
 {
-"updated": 1794111608.3576329,
+"updated": 1794115016.473193,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -72,6 +72,66 @@
 "Yahoo Finance: HTTPError"
 ],
 "items": [
+{
+"key": "756744454be66aa2",
+"title": "US intelligence memo says China recruited a Megaspeed executive to spy on Nvidia's Jensen Huang",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQml0X0RINDc0WDc5ZmxPSnE3SkJrNWJ6eTlnc2ZobFRrbWFZWHBiVHRmUVd6QVA4Uk1LalctSk96LXIyMXVFQ3F6YmZjdGh2ajZUa2Nja1g2LWVqVXZQU1g5Zlpod1VvNTlHRTBMaERqWjVrc0NocURTekxxQ09PWkVSSkNCU2ljbTRCZ05oYlAxSEJ4QzhIVVl2SVFSTDJ6ZnhnZkZPaXE2WTVnMjRsRndfQXJXX3JtSklrYkxqZw?oc=5",
+"source": "Startup Fortune",
+"published": 1794114403.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "579387a899936b6f",
+"title": "NVIDIA reportedly funds additional CoWoS capacity",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWFNKeHVZMUxTblRWUFVucmN2ZHVCM0ZxMTJVNFhMRVMyLXF0Nmo3WV91ZmdDMnRSU09PRkwwLWRqbFFGVU5ISkxGOHhoTV9zckRYdkIyaEZGQ0FpWDFTcUU3RFlBRWhRX1p3V3BnYmNCbFQtbUd1SUNIM2Q5ejc3VGpHOXRTVl96U1Bfbk1SaHRPYmxkdDVTcFdhMmFpbTdkTmRwOA?oc=5",
+"source": "igor´sLAB",
+"published": 1794114000.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "e4e505d1366bd05c",
+"title": "Microsoft Paint update: how to check you have the fix",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1LdmotaEppeS1ta3pvZTZmemhwaGVmVDVKRDJ5LUV4R0hzUF85eTgwRjVlZk11Y0tNdWdxVFk3MXg2dUpNR1hva2FqUl82YktZbjlyRGhlN0RwcEVLemhsZmR1a2JXTmRJenBpMVhWSko?oc=5",
+"source": "TechCity",
+"published": 1794112910.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "4391dbf4e5c05478",
+"title": "Nvidia Takes Physical AI to the Auto Market First, Giving Away Models Free to Capture Compute Revenue",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGOEtzZ1ZGU3FGR0hrRHV6NW9oRWs0MFZmQjNUTFBCZ2ZwanpROTBGUFhlaWpwRHZiNTdVOWxReEhhVGd6bzVVVVNSd1lEaktZaFpseUdHYW95NncxNG5CYW1OQzV3cnpQUWdYdW9Ibkp6bUpuWmc?oc=5",
+"source": "BigGo Finance",
+"published": 1794112500.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "4c9df8adecb0299d",
+"title": "Powell Industries Stock Has The Bull Case Changed After Record Orders",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbG16Nk5xTF9tUE1LWW5QMU1VNmFxTHhYU09CTXhSckpLLW1qUlg0TW1HQ0pyOE9ER3NDNjBmMFhac2NtNi1MMTlGS1p2YlNxZ3FNYnViZFZBdE11czN1LVV6clFrWUhfdC1lbXhxMGFpYnZIam5LWklmOFJ3VEt1Y0EzZ21acTNuS2hJWWpWbmFtTF8tR1oyYVBFUGEweUE?oc=5",
+"source": "Yahoo Finance",
+"published": 1794111960.0,
+"stocks": [],
+"keywords": [
+"Powell"
+]
+},
 {
 "key": "7cd1a744884f3e3c",
 "title": "Tesla Model Y Europe Road Trip Cost: €59.53/617 km [2026]",
@@ -153,6 +213,18 @@
 "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYmFpRUc5M2NpXzhmTE5VLThIU1FndWY5QTd3VEw1Ymx6NEVkc3ZJd3FLNEx5T1hscEVwS2ZBaXRrT0RmVmptNUlJLTZrVk5qcGpKQXFJR3BnX1N2dkRpd01PcE05Sjc1QmNSX2hEeXFJbnpzZG14cjZQaFZ5NFBjUVNfc0xoWC0zbUFLZDlLcmlhNFNOQmY3RnJ3SXZGR0liU09GVWp2WmtCV3lfZ1NnWFB3NjA?oc=5",
 "source": "Korea JoongAng Daily",
 "published": 1794108506.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "d456367a5f6ba5b8",
+"title": "Should You Use Nvidia RTX Video HDR, Super Resolution, Or Both?",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA1elJmbFBONjFiSklZSjZ5S3ZvZUQwbE9ZemNwZW9jVGVmWlZHeXNYd2xPV29FeHJMbTl5dXN4dVNmYXpZTTZ1M3RJMllYYjRnSlBOLXdudV85R2MySkF3c3JSa1FLdVl0cS1MdWhCRU0zTFgyVWdSR2N3?oc=5",
+"source": "AOL.com",
+"published": 1794107820.0,
 "stocks": [
 "Nvidia (NVDA)"
 ],
@@ -268,6 +340,18 @@
 "keywords": []
 },
 {
+"key": "b15ee461dde5b15d",
+"title": "Elo and Microsoft announce AI agent solution to automate corporate payments within Excel",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPeS1hVy0xVVBsTXdES3ZfNzZJY0t6eEpUQUhLRFRJMkktZGRDbkl0cUR1YXAyRkthNEVPbUxQdWV0dk9ZSnduWjJOMUpoeC1PamU0dWJ4cnNZcFBDM2dkUHdOOWJTd192Q01qRE1sTkNZakhoLTItWTJOcUxfOGZxMTlxNXZGZy0wUjRwN2lqcmF1c2xtMjJkNVItVVNmdDJIWTUxTEZNTDl4LWxuQlIzdmxuWkp1aHMxSndOci1fbDVnNHNTNlRQUEU3NGJGcU56QmdDbk0zdlZVcUdQQ2RNT2JrOA?oc=5",
+"source": "Microsoft Source",
+"published": 1794105181.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
 "key": "53eb3d4c3a65e8c3",
 "title": "$Tesla (TSLA.US)$",
 "summary": "",
@@ -328,6 +412,18 @@
 "keywords": []
 },
 {
+"key": "45fd93e95d9f8524",
+"title": "Woman Has To Take In Tesla To Mechanic After Hamster Gets Loose In It. But The Costly Damage Is Already Done",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8teUJ1YWZ5bTU3S2g0VmE3TjZTdDlZR3U2dk5qdEFVX1pfUUxCazVaWDJCOWIzRVFDQ3AzbzZaYV9lNkdwTmpaMTl6eDdXYTZkdUx6QWhnYXNlazVhTXc?oc=5",
+"source": "Motor1.com",
+"published": 1794103660.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
 "key": "634bcbac9eb114de",
 "title": "Hwang Madison cancels Korea trip, derails meetings as Nvidia AI Day proceeds",
 "summary": "",
@@ -348,6 +444,18 @@
 "published": 1794103200.0,
 "stocks": [
 "Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "284835d7bfb84cf7",
+"title": "Meta Platforms, Inc. Depositary Shares representing a 1/20th Interest in a Share of Series A Mandatory Convertible Preferred Stock (METAM) latest press releases and corporate news – Yahoo Finance",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE42WEUxeTNTMFBkQVdzdk9VSm13TmdLTEc2dTVsZUVCRXM2bm1IR2R4Rm93NURrZ3lyODNPZXBrN1JJcUltbW03bVdWYVpqWGNzYjZFMnVrbnZJeFNPSGMyRVBaU3o3V3M?oc=5",
+"source": "Yahoo Finance Singapore",
+"published": 1794103177.0,
+"stocks": [
+"Meta (META)"
 ],
 "keywords": []
 },
@@ -4774,114 +4882,6 @@
 "published": 1794002588.0,
 "stocks": [
 "Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "71d5711ad575a6f9",
-"title": "Protesters Storm Microsoft Data Center Construction Site",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdmlZdDg0V3BodjFITUZTWU1IeDJYaVVoRVdfTkM5TE9UZU1xMzVZallQeGg2ZzdSb0E2MXVZRzZ4bXUwVkh0TGc5OHJYSVEtSTVTUU5Ebld6VjdULWpXRVRFUmxYcGpPQjZZajIxTHFIZWJoTlZVeHM4ZjRLYnYzWlZ1aThSYURxRlNWYUgxSFlwVDl0MGNXRDVQZnNhVktfSWc?oc=5",
-"source": "Talk Radio 98.3 WLAC",
-"published": 1794002557.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "1f35de27fe9a1fc0",
-"title": "Elon Musk announces Tesla will wind down Cybertruck production at Texas factory to make room for Cybercab",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVjkzMUd6c1NiUkIzNFFNNk1BcDFyZDFKdGw5dTBWNzB5X3FxUkFCZ19aYnVPZVpNT0Yzd3p5V3hycXVCejNfeHJncGhuLVpHSDA1aVRSdS11bnlqWEpNc0Q4bXJCVjVFN21fdWN2NUVPZ1RXNWRVV3dISGo2d25IbVJ5ZmdXZ1NTMUozUVlKUUdqRkZUV1E?oc=5",
-"source": "Yahoo Finance",
-"published": 1794002400.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "1aaf3c19c76ce165",
-"title": "Elon Musk once said the Cybertruck would be Tesla’s ‘best product ever.’ Now he’s winding down production",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQ2lXTktpTlozT3hmbktnSlluVl9QU3Y3UUY5eG5uRk8xRjVRdm1tOHhac2t4XzZhRkE4dHhMWkpkb1gtQ3I2a2lRb0ZrYi1aS1FhdnBIMkJZYUhDVGUwVFRVRVFHMWt1ZTFSenc1Y3JJNTdVRzV5ZHdjTHA1MEFkN3ZrMEJGNTZVRTZDLTVfNkx6TVFHTzB6MGhZWVhpd3Y0cmdqdWZfRTBEejlpQ2VIbWRWNXZXbHJOMm9Vcnh6aGd0WEt6bVRUVnpkUlRUTE5ISHFILXdMbw?oc=5",
-"source": "Fortune",
-"published": 1794002340.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "43aafd97d6543bba",
-"title": "I Reserved Tesla's $49,900 Cybertruck in 2019, but Delays, Price Hikes, and Better EV Trucks Made Me Cancel Long Before Tesla Decided To",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPclY5ODVYaWdiV21wb3BlTXpRdTdWWUZubVp4TTdjcmJuVkVXWWhOM0N2RW5mRE5EQTFHU0VOT0hyM2RLbmx2ZHBPQzB2bmI0LTFxVGZsTjZMYWxUS3hEU0xiRGxfTVFUT0F1Z0IyRm0wYTFYT1k3LUJnR1VDOGxBdm1zYnJ4S0w3ZDlDYUNBUzh3bmtzTVk0Q05OclVRd0VxZXUtSTNGY1ZjM1M1ZFppRTU2RFlHNlpjZmlMZkRR?oc=5",
-"source": "Torque News",
-"published": 1794002194.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "a2593763b6aeb1ed",
-"title": "Investment expert says Nvidia is still in a good spot despite drops",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ES1hVa2hWMldrbVdBdFFuWEZyLVNodkpkTlh1RTZyU001aDI3a3dHNURfelRmbG9kNnRCazJHanpKeEljNFR4M1I0aE1vM2stZE1HSWRnZGxLMlk?oc=5",
-"source": "Fox Business",
-"published": 1794002112.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "71438d01f1905574",
-"title": "Protesters Storm Microsoft Data Center Construction Site - 1310 WIBA",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNU2ZNUC1sckRiVjNWMlR5UFZGNXJRS2pFMFZtMi1JNlg0aDhaNkVMaF9pTk1oLTVEeWV1U1hhdG80R1I3a19MbHRGMEtkb0FQc0pTclpSSUd0X3RlY3dkLVYwM0JmN1BZWjlIRk5QdDlHTkVfbG8tVEJBS3pDSEdnOUMwN0tSSVJxeHNLcXpHYTFQYzUzVXZ5enNFcnY5QWZUS1E?oc=5",
-"source": "Madison's News/Talk Station",
-"published": 1794002100.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "04b7d08783cc38f6",
-"title": "SovAI Joins NVIDIA Inception to Build Behind-the-Meter AI Factories to the NVIDIA DSX Reference Architecture",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTFM1VVAwdHhBMGhLM3RnNGtKUHh2UGtJbEVhWnFYcVRVZGpGUkFxUFA1QzNqNGpjQXV1U09IQURBdEF1REk0bjhVbE9oSzVNRjdCczR2YnVmcGFfTVRXbDVSaGxpdzBLeFhQUGs4VzhJcHBaM2lQLXdfNHg3aFc4NF9hZHk5YTRrd21naUN6SmRZai1VazJsbnFoQjVHams?oc=5",
-"source": "Yahoo Finance",
-"published": 1794001920.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "a25861eab1234954",
-"title": "Elon Musk opens the door for a big SpaceX acquisition",
-"summary": "The rocket and satellite-internet company is looking to challenge telecom giants.",
-"link": "https://www.marketwatch.com/story/elon-musk-opens-the-door-for-a-big-spacex-acquisition-4f62bcad?mod=mw_rss_topstories",
-"source": "MarketWatch",
-"published": 1794001500.0,
-"stocks": [],
-"keywords": [
-"acquisition"
-]
-},
-{
-"key": "173ecebc4e3f0f9c",
-"title": "Nvidia CEO Jensen Huang loses $15 billion in a day and falls to 13th on the rich list",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUmVLMHhabUx6Z0M4cEwxLXhfcjhhNE1fTGtZcnZhYkdvRXJuSE1IOGJvOWQ4MkI2b2VhWTZwRDVvWHZiLUItRFBtVlM2ZHl6b0NEVFU4WWwyZ2pXcmlzZ1VZU0NIRk1QTHJhaEZhVENrdGx5SFRSRjJLSzU3TGQ4cUlFcndsUWhBQ2lQeDJfMA?oc=5",
-"source": "Martin Cid Magazine",
-"published": 1794001287.0,
-"stocks": [
-"Nvidia (NVDA)"
 ],
 "keywords": []
 }

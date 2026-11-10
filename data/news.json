@@ -1,5 +1,5 @@
 {
-"updated": 1794353085.3916543,
+"updated": 1794355091.060977,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,12 +73,96 @@
 ],
 "items": [
 {
+"key": "86a390115e263589",
+"title": "Windows 11 is now force-enabling Memory Integrity, a feature Microsoft admitted can hurt gaming performance, and here’s how to turn it off",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOZU5TaS1rSm1SblFPLWx2dlFhMktNZzZyeThFamMwLVNfOWJKOXFmZ3VoNzczR1lkLU5MYXVjVWFwcGFyWTI2cXFoMUt1RjAtMDgwbHlDcUtKRlB0WV82eFBJUDVGRHUxV0tXMkxfekZacy1OM2lCNEZGbXpETjhNMndDRF81Nk9sY210WFNfWW9pZFBkUEdITzVJUFVpWkZ3bGQtQ0JTX1I0TFVlbzNCUFFfaEljMGU5blVEVnlwSXZOdkwwQWctd1ZQZmYwNE1NRmxJMGlyT1JiREhvRWJNb1BFXzhhZWowMFBudHpPVkZSeTFZeFRTSndmY0Z6eGgzSkRNcjU3SVU?oc=5",
+"source": "Windows Latest",
+"published": 1794354649.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "8a916e7d2c416b8d",
+"title": "Tesla to wind down Cybertruck production next year",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdU13bzBiWHg2NHV1YzZzT2xiRGR1dl8yMVUtM1ZNdDg1MDhkcy1nOWhPRHYtSWc3RTFHVWdSTUt6V3VXSTNyWHFzdnYxRjM1c282MjR0ZG9HMHZpQ1EybEN1NzdPSG41Qk1yNzN2ekE4ODJkVVI2UFgtQ1AyaXFkZVAxSlUzdkdwSHI0Mg?oc=5",
+"source": "ktnv.com",
+"published": 1794354565.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "016d179327329892",
+"title": "Scoop: Commerce Department received national security warning on Nvidia CEO affair",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5NTWlEVTREeTZ0V3J5d1VBblV3Q1JiV0tqTWJUSGVJQ2MxSElWWHpVVG9lTkxKR3ctY2RDVHJUaTdWak1oS2lGSGhPbUJ6MU9CZ2xJdGY1Ui0zQy1uaFliV3c1MXprY3RDejF2eXp2WWc2WWJRSTZiOEljZw?oc=5",
+"source": "Axios",
+"published": 1794354457.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "68ce4ae56f005883",
+"title": "The scandal surrounding the head of Nvidia could have wide-ranging implications",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRlFsVVBmMXA3ZTF1eEVxVWtwUF9mUThoM3dXS1FEemVmUmt1SkdxLW5ESmp6TzRGOVNDcUxtR1VvNF9udExKdmVoaks1OTJtaEtoWUp5aHlhY1pZQU01NUxiUnFvT1pvTXlsM2FYcWs0dEluVUdsV293aDhjSlU2UzZGR0xmdXFJUW9iVWhIeGpuTU1DcDdFcTdiVTBlcHBNTkI2UUV3SmwwNXkyV2RGZ2ZocFJBWE9nYUJUcU5QUDI2dw?oc=5",
+"source": "NPR",
+"published": 1794354238.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "68c8ad781b7fe9fc",
+"title": "Nvidia faces deepening scrutiny over China chip ties, CEO affair",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUWZQSk5PbzdVdVhLaVFuakFlTy16TkhEdzcyaDJ6dmQyeDh1UFpBWFk3VjNrT24yZDgtNVU3cUZZODZyTFNxS3JScWdYWmxzcGFLOHNvVEJWSlBVckZHelJDcENpb0t1QkVyRkNON2hXX2hjcWRHN3piNFJxVWRDSEN3VHRWNVJZdHVRUHlhbFVUQ242emtCUXl5cmV4RVlnSWNjeEU1UklHZ3pBWGNCNUo5clRaWkVjRjNJUnVMbmlhUQ?oc=5",
+"source": "Reuters",
+"published": 1794353841.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "9773533239aecc04",
+"title": "OSU, Microsoft team up to create a 'smart hospital' data system with AI",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVHBwa0xLb2xHN01lYUlQRGFJMzB1RjdZVTY4dlA2YUg1QnNDOUphNVJ2RFpqcUZ3elh0Z2ltUUpqel9mcEJST3IwSGxnVDNtWWhpa3RKZmtNS1dBbnBIS09NTXA0YV9xRUVsNnJ0dXAzQmliVVFOXzZybDFxVS1yN0ZWR0ppNFhINnJJeG14UE03d1pIeW1nUi1YOXd3LU5TYXotbzl6SVpyREV4S09ybHIwbzZCTjluRzBBUEVR?oc=5",
+"source": "The Columbus Dispatch",
+"published": 1794353100.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
 "key": "7d142a7380795d60",
 "title": "Nvidia’s spy scandal threatens America’s AI edge",
 "summary": "",
 "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1tUnRhLTd0OV9sOXkybXVjb0NLVlNUX09mZkpnb0JCRVpLU0t1cWhGY3Myeks5YlJTYmRjQ2xDaUVaa0ZPRnV2WDdRMHJMUmIwcDQ3MkxuRWluMHlTWndlTWI2VVg4NGdka3I5RU5JdlVSbHFnbnpkeTJPYw?oc=5",
 "source": "Politico",
 "published": 1794352440.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "7bdd47ec076cb47a",
+"title": "Nvidia's Huang tries to project 'business as usual' in return to office after affair revelation",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8wRWhMQVVPSndyZG1Hb1FDM0M4UEpxREhfZGlYb3BTcWh6UDZXc0tXUTVhU2xzeWR4b2VYT29vTXJGa0RxRzdrOV9KMmUzN1dMb0FtWXJYcUNVdjRJaVlRT0M2NXpnWkVaNWlNR0pUYUxsWURHaDBLTldn?oc=5",
+"source": "CNBC",
+"published": 1794352294.0,
 "stocks": [
 "Nvidia (NVDA)"
 ],
@@ -127,6 +211,18 @@
 "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5tNUpWaERRaEpZWXFmM0tBRnFQQlBPVzlJUm9ldF9teW53ZjY0WHZ5X1FBdXZRWk1UR0dWRlZXX19VTDAyT2N5QVA4RzlST1FFcFpBUEVMek5OTVN1Vzk3eUNra1puWVlyVk9SMVVXX01YWm1BbUVZ?oc=5",
 "source": "CNBC",
 "published": 1794351840.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "4bd5ba087c2bab15",
+"title": "What to Watch in Nvidia Earnings: Spy Scandal, Data Center Concerns Take Center Stage",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNM1EwT3BDVXVxdlpLd182dV80azR6M2lrMHJFZlg4TElPMlpLeDVLSVFQaGk5WkVGLXZNVkNNMzJXSWtBTzRRVVFDZG84T1lRQ1pvX3d1ZkRERGZibkdaWXc3bHVjNWkxbE1SNDBnWUlEMWNRVFB3VENwQWlIWmV3d0FxSWNsanNwVE5aV0hxQ2xTbnIyblRMc0t1T3lZTzdIWE0zN01EV3BSNThSRkhobnp3?oc=5",
+"source": "Morningstar",
+"published": 1794351825.0,
 "stocks": [
 "Nvidia (NVDA)"
 ],
@@ -192,6 +288,18 @@
 "Microsoft (MSFT)"
 ],
 "keywords": []
+},
+{
+"key": "89d9da12bbd839b3",
+"title": "One reason Children’s Place is filing for bankruptcy? Not enough children.",
+"summary": "People might be having fewer children, but that isn’t the only thing to blame for Children’s Place filing for bankruptcy.",
+"link": "https://www.marketwatch.com/story/one-reason-the-childrens-place-is-going-bankrupt-not-enough-children-b275eab0?mod=mw_rss_topstories",
+"source": "MarketWatch",
+"published": 1794351360.0,
+"stocks": [],
+"keywords": [
+"bankruptcy"
+]
 },
 {
 "key": "05101f4bda0b99bd",
@@ -410,6 +518,18 @@
 "keywords": [
 "sell-off"
 ]
+},
+{
+"key": "a0a45146a81511e7",
+"title": "Anthropic’s Giant IPO Will Tie It Closer to Nvidia",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE40WWRMa0xmRm9vTGdfM2E0MXRhQUtaMmc1QnZzdm4tVG5zSlJsMWxnRzJsMXhxdlJHcC1hb0NTTF8tU25OODhVdjd4Z2JpYnpHQ3BnNktJbUZQcnFrbEJ4UW5EOXR4YVI2TXU5SnhWWXp1Y3AyeVpwVQ?oc=5",
+"source": "The New York Times",
+"published": 1794348218.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
 },
 {
 "key": "d8087f0238fbfcf4",
@@ -1321,6 +1441,18 @@
 "keywords": []
 },
 {
+"key": "3578520319ceac7c",
+"title": "Exploited Outlook Zero-Day Among 1,094 Flaws Patched by Microsoft",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONmpKRUg4TkR2ZnBwU1RzV0YxUW5VYkFZTThBdFhiZDlpT2R2Y1BlZURScDBNM1pyTjhXT2dzZTJoX3FLTDAyY2JZNFlyYXJVbFFHTTJ1U29YdTVwU09oYVJvTU42UnpWc1ZES2Vjc2JkNzBwQlpVdVF2VHVMd09UeHp0M0YwU0UyRy11bXNPWFB2aXptTTNNX2tR?oc=5",
+"source": "SecurityWeek",
+"published": 1794338386.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
 "key": "f60a95a21c118e87",
 "title": "Nvidia hires law firm Wachtell Lipton to lead Jensen Huang affair probe",
 "summary": "",
@@ -1882,6 +2014,18 @@
 "published": 1794333720.0,
 "stocks": [
 "Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "9c59645c4ccef1ef",
+"title": "Nvidia’s Real Risk Isn’t Jensen Huang’s Scandal. It’s The Family",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSVFwLXRGa1dSZ3k0OEhvLXZELVpmVjVxSDBrWkZNckpWa01CZlh0aEtKS3lZc2U0aHc5YzcyU2VYRmZkM0hTSld0RTF1M3hLSkZmcGdHNmtYdXdleEZ0TkV6WHNWRjU2ZnhRcjg1ZFZEcDdQMFdEaW5PRWtoRmVJQmhYVjFYeF9XelFpR01kSTZIcVhVVEtMazlQR1pwc1lmSkJzN2JkOFRBVUdtNXNRaEZ4aG1MUXNsb21oS2xNWm0tVlc3SjFv?oc=5",
+"source": "Forbes",
+"published": 1794333658.0,
+"stocks": [
+"Nvidia (NVDA)"
 ],
 "keywords": []
 },
@@ -4765,150 +4909,6 @@
 "published": 1794313944.0,
 "stocks": [
 "Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "4c82d40b19130b24",
-"title": "'That'll definitely bring in the year of the Linux desktop': Microsoft patent spotted for using spare GPU resources to train AI – but most Windows 11 users hate the idea already",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMzIyejBOT01EbmNfa3NpSkdTSnBpOHBGX1hEdm03OTJSUURLdUpvckh2VWFqNzY0TlNINi1DX0hpc0NMUnJnaVF0STMwa1RuM1NyMFg1VjVxLWI5N2VOX2lnUGFUOGFTLTZzakZJSlkwUnJIdkEwek1ENWY4ZWUzU0RreVRtYmVPUGQ4N3ptQUIwcWNveEpVeXdiMA?oc=5",
-"source": "Yahoo Tech",
-"published": 1794313860.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "d6c549c1a2b6b1c9",
-"title": "'That'll definitely bring in the year of the Linux desktop': Microsoft patent spotted for using spare GPU resources to train AI – but most Windows 11 users hate the idea already",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPalVYY3VlWm9KY1dkdWNxaHRBS1FvOEc4dGVrVnpZaUdFc2dZRXRuT19PY05pNjIzSFFqb3FVWnJuNGtkb0ZkMG1jaUFBOFBYSkZiWEEzdmhsWHJqdDBqTFBETlg1bVJiT292WGJycGk2aFZ4eDE3RUlpUUpTck5GVnYydEwwbmtKUzBkeDhYLTZCUkxLZktqa0VQSXN4MjlieEw1eW9iaGFHX2VCMjFIT01QdmZnZENRTGVLNzhaYm9aU1FoTTFaWFdLUHlPOFVja1d5UkNqSkdLYnpCMEZ3WC1SNldaSVZrNjJ1emZINi12b2FDXzlCR294Y3l4T3dMMHhuc0ZjMkt3cGREczg1MHN3?oc=5",
-"source": "TechRadar",
-"published": 1794313860.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "51c49a8a660abdc1",
-"title": "Nvidia, CEO Jensen Huang face shareholder suit over his affair with alleged Chinese spy",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWElsWl9WZkZTVGFobW12QzFzMHRlWXpYX0JNLVdCek9hNlVYRUFXU3BLRU5LR1lJYzlHQlo3Tm1mNVhzRmdaRWJwZ3J0RlJFWFB6a2RvRzZyUjM3N2kzNHFiX0dFQ2VKemk3N2VKSi1mWm9xRUJCeGRtQWMxaEs3WC1iNjNOVFc2VmQ1dmhRXzFldw?oc=5",
-"source": "CBS News",
-"published": 1794313680.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "26a470dfaf50ceed",
-"title": "Nvidia Lost Almost $200 Billion in Market Value on One Day as Huang Affair Sparks Espionage Investigation",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQREcwNWRYdzdGVUxkbGx3NWViWFVDM2FaSEU2T20zU252YkJTUElHWWRLcm1YbjN1WmVGSjk1b0FQVDRIX1JSV1VPUmhYMWpVdFJnWjlfQWplTEZmWXlYOWIzSVZxbVlLdzRLREhXUFNUQU9VRlpGM2VETWF4cU1fWDdpbUxnMENDeDVkZGlWUEg3c1hEREplc3U0RQ?oc=5",
-"source": "Yahoo Finance",
-"published": 1794313561.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "8d45b80cae11dec7",
-"title": "Microsoft Bing Shopping Personalizing Search Results With Questions",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNT0VzazQtQzBzYzdEb194cEVPZmk0R256NTJ2V25LZ3FUNW5sMXE4OS1US1ZWQ1dWdHdfUzBQeUR2SG9XWG1jZDUwck4tUkRrSGZ0QjJ3MnVsd3p2ZXFjNDZkVzU5SU5ITWNZYnplZkJ5elpJamZBbExDQVZ1dVR5Nw?oc=5",
-"source": "Search Engine Roundtable",
-"published": 1794313260.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "013d3bd485b939a2",
-"title": "Nvidia and Jensen Huang face shareholder lawsuit alleging investors were misled about spy affair",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVUVJQ2VKOGljZVBJeFJCcVg5aWw2WWVaVzNlNVkwUnQ0ZzV0R09hbkx3aWRVVjhDaHpUdk96UExZSjF0TlBkY2FUeG9tVjhjdVkzRXllRndzMUJ4ZWZFa2p5QWlPRGhRc0ZXMkd5Y0tyVVdfM1gyX0Q4Y21KUEVYTFhuTnFhZWR0Wm00N29DbWU4WnRpSFpfZ1ZpSQ?oc=5",
-"source": "AP News",
-"published": 1794313080.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "ecc479604ac974db",
-"title": "The Nasdaq-100 Just Had Its Best Day Since March Without Nvidia’s Help",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPR2hZMllCclhDWG95bHkzMXRidy16VnRiM1VqZ1B2bTB2aXp5VVlSTjBaRU9kY0J3QVZXSFdsMXkwbEFPM1VqOWJnVjhNYXlPV2dFeV9zSm5TaFlTYUx3cFhJUDhDSmdnRG52OEY2ZlF3elNwcFJ6MzFiM3UtMnVILUE0eXJLU1AtY2VrczRVMDZfZzA?oc=5",
-"source": "Yahoo Finance",
-"published": 1794312994.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "94e431e815981c30",
-"title": "Microsoft is Already Winning the Regulatory Shift Rewarding Incumbents",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdDZEeWd3NDY3bnY2Vlc5M1ZoUndSSUowYmdRN2gyd2tvRFg5YmM0RjNoeGxEMEhCVWkyZWUwWmNjNGpEV0Z4X3FHMWdMb1VxZmh5dk1iOFl4OG8yRlJtc0g2cm1pakJvRUliTXQyR3pmSGcxOTVVeVlNa21NY0pqTmlpZy1fVTY0M0RuMFAwY1JhRkd4Z2pmLUk5aGc0VDQ2d01yRkIzRjFFTFE?oc=5",
-"source": "Yahoo Finance",
-"published": 1794312959.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "5c9856e48d1543a0",
-"title": "Microsoft is Already Winning the Regulatory Shift Rewarding Incumbents",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRFFsbEhoYjUtc3BvN29vblB4VVR2MExmR3NLY1oySzJwMzZkVWZfc0prSm8tVDhXNUY0MFJKcFBMZkZmQ202SndwUVpvbDQzY3BZZU9wcEU4dE1Mc2xfZklFYVJfcWQwdXpQRzJ4M1hWek54bW1lU0pFQ3hFZ0pueXNlWXNEWjBXTVZqTFBGMA?oc=5",
-"source": "AOL.com",
-"published": 1794312959.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "75d1e6e2a63d14d7",
-"title": "Microsoft urges Trump administration to curb Chinese data center imports amid security concerns: Report",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxONzNZT2I3aDdUYXcxeTJxQWFWY0I4bFR6QXV2eXBJQTBqTFluLWk1VlZCaDAtamUxQktzaWhEakFwZHZTRmY0ZEEzR3R5MTJNZ2hRZDNlczFrbl9Pc2ZuN0Fic0Z1OFBCWTRUSHRUeWhYdHE5aFUwbnl4aFVfdlZ1SGY4QlRwRXcydXdCakxvaGlLZDJFV19FaGVlbFhaeUI3bjhvUXB2SDNlSElGNkc2NVJpVlZweVRtWlA0ZkIzcFJ2YTdfR2U4Q0ZnY3JRZjVrWng4V1JsSUZxamszZ21ydtIB5gFBVV95cUxQUnFhZ3RKSll4YXo3X20tcU9QbFJiUEEzODlxb3J3M1E1MXRMdzJZTExrYWNQSHZNZVBwTDlXUDFYSkktUmRQMW1ZY2xnb2daVGJLcU5QYWpVNUg5cUpnQUtrbTZKSGtocTJPNGFWUWFHbXBpU0Z0QnNyRlEtaFozWjdmZ3J0aTdSWWFFOEszb0hxNFBQVGl1WHFqYlNXdldzbkR3ejlJazVLWjhaTDM4S2szTDBtSk1lSkNRcGhWem1fUVg4ZEsxb25wa21SOFp1VmU0OVQ1dEpIMjNUd1ZsNm5rejZyUQ?oc=5",
-"source": "Firstpost",
-"published": 1794312928.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "91ce688abc1a1a94",
-"title": "Microsoft is Already Winning the Regulatory Shift Rewarding Incumbents",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQWJfR0hpUmNmdVJmaGZPUk1mbDlXdjFJVW1TRmtwWm5ZUEtvdWE5TVRXWmw2TDJkUW9HVkg4ODd6T1ZOM2lvYVBRdVc2MnQ0bEhKUkVDZ2VlVzg3a1lIU01WZDN2VkRvUDNhdFRTWlY1SENoQUt0N3Exc1A1WGtER2poeEVhYXNVbFpORUMzazNYYmtydEsyVXN6VlNYOUxmWlBjM0tXWi16ZFNOWG9neklIZ3M?oc=5",
-"source": "24/7 Wall St.",
-"published": 1794312900.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "d925c3b51c1b0227",
-"title": "Trump backs Nvidia’s Jensen Huang and Republicans select new congressional leaders: Morning Rundown",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdWVOLTBMU3pqVFc0aGJmcU5pWTFMbFVuWm5BYnB0NC1jUGQwVUlxaC1EN0lMczRvUWg5djgtcDlta2tPRFdlMVFuVmdkemRvT2ZWWkVab0g3Q3VwNWtzV0ZfQVVmaHlsOGIxSWd6NldBXzJjVGlqRWNfMVRaV3N0UmdMa3ljb25DaUlkb2d3cW9JNmRpTW1sOWE5RS1wRHh1NU9IVjQ1ODJRLWlPc3VVckY0RE1pbEpa?oc=5",
-"source": "NBC News",
-"published": 1794312833.0,
-"stocks": [
-"Nvidia (NVDA)"
 ],
 "keywords": []
 }

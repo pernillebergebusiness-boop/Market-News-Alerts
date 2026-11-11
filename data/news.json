@@ -1,5 +1,5 @@
 {
-"updated": 1794418010.2343643,
+"updated": 1794421080.149961,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,12 +73,352 @@
 ],
 "items": [
 {
+"key": "5ca84caee39184ba",
+"title": "Tesla says 50 Semi trucks are headed to Chicago",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBKRk5nRHM5a3ZvSHhEUU10aGlTZXBsX0ZRUGFaMnRmVTdPdUY3cWNrUHNUaWllSTZFa1Q0a2dja1g3dFpBaVAwY2hudXIyYlVWbGdfNzZldnZtcHpIUU9TZ0lpNkttQ3AzSmVlN3FORTh2WVR1RXEzQ1J0b1g?oc=5",
+"source": "Mezha.net",
+"published": 1794420877.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "0cccfa05f5456d10",
+"title": "Nvidia’s Jensen Huang believes suffering builds character. The spy scandal could test his philosophy.",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAxZlpDenRuRUxpZ1RsOXNXSkFqTnNCc1FYNEotdndzTEdsa0ppMUFtZlpWeDZwRHpjVGFEdTJ4bjZNdktxQk1BTjg3UTJ6MkYxMmM4ZlI3Q1IyZE1NV2RDR3ZWVVhwY0hPMkV2Y3VYREYzbWFLenFydE9n?oc=5",
+"source": "CNN",
+"published": 1794420598.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "7baae664c9638021",
+"title": "Analysis: Is Nvidia too big to fail? Its AI financing web raises the stakes",
+"summary": "The tech giant's web of ties to other companies is raising the possibility that it could do far-reaching economic and financial damage.",
+"link": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
+"source": "CNBC Top News",
+"published": 1794420590.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "6eaa9e66c8968c01",
+"title": "Elon Musk Says The Tesla Cybertruck Will Be Built Longer Than Originally Planned",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMHNGSHcyNHJkNHFJV2JzWTROR2dSaUtJQ1R4SmxpRUphZXRUOHBsRnNDbE92eFp3NG5xakVTQW9kNzRheGNoaHlPcEM4UlpoWjRoeWE3SWMwMXZNTTFUaUhNSXN4RWN0RkpPX2pTV1MtRVlRWHBMS3NxSVRJX05RWWFDTm9Qa3dveGljRHV3?oc=5",
+"source": "American Cars And Racing",
+"published": 1794420476.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "2947c308df9e6c30",
+"title": "Tesla confirms rare new delivery of 50 Semi electric trucks in Chicago",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Ba2tvaHJuWldIdFQ3YVN0Z0tvSC1CN3h4WDczNmNSN1F2V0VKMEk3NkJ6TmprQmJjRTBxYmdNRExwRWMxNGhvOHRiRzdqTUJuRlVYN2VaZzJvVkZsX3NkTFlEYzRsWjdhcF8wc1NhdFZLbHF3YVRXR3dZV0VWUQ?oc=5",
+"source": "Electrek",
+"published": 1794420180.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "dfa7166af6b606fd",
+"title": "Excel isn’t dying because of Claude Sheets, but Microsoft is in trouble if your workday starts in a chatbot instead of the Office apps you pay for every month",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQNzZ4UUV1SWxiZGUxMFdDbkVyNUJVMzR4YzhvcEk1MHliVkN3eEtWc2ZTczNLUFdob190NU94RGE1YzFFV2N1V0hlM21jUTE2SnVWVUxobmw0MFpfVW5ybmRWMzN5M1RFajFiSGk3RXA5YXNZQTB1SmhhYXV1NUw3TXR1Zkw1V3BVWHpGTENnVWQ1M3lCUzIyUmFqemNqY05Qc0VQbURrTkNpUE1FS2RfOGhXbXJ2QlB6Q2xDejhNTHdjNmNBQndyMlhoQVZGRTM3cjJYVms4UWhkQWthRzF4YUpsbk9zOGZTWlIyNlRUb2V5bTNvQ0ZWM0N3OWtZUTdPWGsyWUdvcnNvRWpsSHBkM3lwQjl1TVpWNnBqRDlybkRYZ2Vs?oc=5",
+"source": "Windows Latest",
+"published": 1794420018.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "199e19ae4e09650d",
+"title": "Tesla extends Cybertruck production slightly to handle order log",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdlRyV0R4YUtORV9vUEU2V3BySkVjRmt1eDdDamRFd0tDakpqVmxueHZxN2NsclJvdV9la0pkR3JaTHdYMzluNGFIY1Q3SFB3Y1d1ZjhaeEwtMnpPRGtuNUtCZ19DMXhpVjJGelp6X0h1RVVxX1hNZWlVZFNKYXJ0b3Z3Vml4ZWxPU0dwNEZEMjZvUQ?oc=5",
+"source": "Teslarati",
+"published": 1794419795.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "c6bc000c06b4ff9d",
+"title": "Eksperter slår alarm om Norges Bank: Ber om monsterrente",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZWduMW9DWEw1bl9OSDZJcnNkeTdISkFNUmJIVjBqWGVCYXVNb2t5S1ppUzR2bmNJbDNEaTRhWXRKc1ZxVFpNeXo4R3ZNWk93VkpJLUNFc1FKeTVtOEYwODk3enlwTTRZRWJiOGQxLW1Mb3RjanFHc1VxVkJPdE10aW5VcDNsTm03YkRDN0kxa2w4ZEJVYm51VVp1ZV9OZ3lmeXpGaDEySjZCdUdabjA0STZ0dw?oc=5",
+"source": "Nettavisen",
+"published": 1794419511.0,
+"stocks": [],
+"keywords": [
+"Norges Bank"
+]
+},
+{
+"key": "b6d156e262ec6699",
+"title": "Tesla Rises 4% as Finland Clears Its Driver-Assistance System Ahead of EU Vote; Lucid Slides 2% After Citi Cut, Rivian Dips",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQWlR3Y293ODdRY2pBWklSRGJ4YlFMbS1qVkRiYWxLRHZYU01KZkdjSnlpMlBXczAwRVJXNWNtVkVpRjZfTnlHZTRzenFRQzBZc2xhQ0NjNmVKVzVlZTdTQ2gxWWJjX1lPOGtxUHY4SzRZX3paTTlHaXQ4MmVvaTNWbllDNmdwcnVZeFV0Tm9tWGw5TFd3aU8waGcxdW5YQlFFV0xtTUc4NkJub2xwVlF4ekxQbW9SS0pKT0FsYm9oYTZqTE0yWS1vdTdRLUZjT2VCSWdscjliVlpQWjVvXzlGQURwZW41NmVHTnhFMHNINkZCRGNHa0E?oc=5",
+"source": "24/7 Wall St.",
+"published": 1794419280.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "13a138a58f33c6a1",
+"title": "A $110,000 Tesla Solar Roof never produced power — now the company is liable for fraud",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdWhJVWpraXkyNjI5ZXlRSHBQQ0lkMDVQZ2VkbkxEbTU0VU1McEhnS1FHUlkzTmRKcXA4OTd5OUxSMEZkZ3kyNjdPRnl5Qk94VVJqTVBzNXU2b2hadmQwbGNxV2xTQ0YwckFQa19TV0d4bDBTQk9STE5jdzB4ZzZHdUI1SmJBTFh3?oc=5",
+"source": "The Cool Down",
+"published": 1794419280.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "23625db581493bb3",
+"title": "This Number Tells Me The Microsoft Data Center Selloff Is Excessive, Prompting Me to Buy",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZjVJYXNReFpfNG4wSkZpTHptNGxqUWVyVGNlamhOc21QLUg2WFEyT29XM2FUa3JqS1d1em9mOGwxeFA3LWd5LXk2c01RcVp0UUZzXzdRNy0zM1FrTlh4ekxhMm5vNHBvZ0xoWkNyRXRiakQ4Wld0bUJURFA1MElRMUlWbVpfWTJrZldQc2pLcEcxMWdzeUExbnZSWFNfVk94?oc=5",
+"source": "Yahoo Finance",
+"published": 1794419126.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": [
+"selloff"
+]
+},
+{
+"key": "0e26794d8158f43d",
+"title": "This Number Tells Me The Microsoft Data Center Selloff Is Excessive, Prompting Me to Buy",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcDFRb2NpUlJCWG9WMmw4QUt0V1ZhTHJnYTRaOFd6VGJSaDFXRjJzclVWVHdTTE5rQURqYlNrSkI5RjZIdmhYVlp6bEdTc19CbEJpUEtqbnd6QVpmSnFieDNrSGNnWTJjMnVRWTVRQjl0YlpaMy1xNEkwWkRvLWxYNmhpMGNPUTB5WUdWX2ZWN2Q2MDdaTHlYeU01bWl0eGlQbzFjZHhiZURtdlEwcl90Wm5SZzlZc0ZCc1AwNml0ZDJfWXFRMmJMNkpPRQ?oc=5",
+"source": "24/7 Wall St.",
+"published": 1794419100.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": [
+"selloff"
+]
+},
+{
+"key": "9f3542dffec31ced",
+"title": "Is Nvidia Stock a Buy After Hitting a Seven-Month Low? (Hint: Yes.)",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRndXeDlNTWhHV2xYeGlZM1ZDc3ltaVdJdEliSnJNX2FlMDlIczF2Rjk1T0U5T1hScVhhYnNHai1pVVQyajgzZl80eTNCa08zdjVlRWNvYVREbFNwYnM2bUJmWVlpRzRteTJjcV84SFdENDFWQW8xZHpyRzI2T0NIVHRQREtEOW5jNGZ6R09xREgydktGQzFMZG1rbw?oc=5",
+"source": "Yahoo Finance",
+"published": 1794418862.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "03fc526e2b903f15",
+"title": "Musk Extends Tesla Cybertruck Production to End of Summer 2027",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxON0FUWTJJRGlHMWdKVTBVNjJuTWtDQkNLd1Z2OGF3RXlwOERxaUdZWkI1Y0p2UWtHcFpJZ3pVT1hrY0VuNUtZNkJweU9aQ3B2dUczVzNWMGtJN1JQVkNaeEowQUZmVmRXUENUbUM4R1ZNOWpkVmdsbTFhd3F2bkFKYms3aE5TcTlVQ0NCWmlNWXJrUnhTM2dKVHRVOVdvRWM?oc=5",
+"source": "eletric-vehicles.com",
+"published": 1794418560.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "bcfa5aa089e67322",
+"title": "Why it will be a 'painful 2027' for tech executives, especially Nvidia CEO Jensen Huang",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbHZzb183c3lPV24xQmFZOUg5NTBBUGdCWFVuU2EtRnQyT0F0bWVDVmxLQUxSSmR5WXNPY3dzclBld1ZybVBKTzNKUW9aZUF6ZF9qbUNhcDlKSklvNW1lS3ZJd2ZObmxfalpWOXJKbzBlTWdvUjBYRXZGcERmVWNFRXdHSS1nRmJPYWc?oc=5",
+"source": "CNN",
+"published": 1794418440.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "fc994328b5034c4a",
+"title": "Evercore Plays Down Microsoft 365 Disruption Fears After Anthropic’s Claude Sheets Launch – ‘Not Yet A Substitute For Excel’",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZXBUdnhrRGh1bmFtajNWcGo1YmZva2otVEYtTWx6S0NHdTduNV9FLUotUDVROXk4TklJOW1xbGpnYkxSRHhfbjRYem5lY0w0VHZ5R2F2Z01EMmtlRkFFS3M2a1F3T2NRM3JPcmZPQWVndFREUGZ6T1phMUtYczJ0RVpxdWV6ZVNObUNsaHFaYTFMZUNadVdTcDM1UlhfTlk?oc=5",
+"source": "Yahoo Finance",
+"published": 1794418428.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "f157e71915001e60",
+"title": "Musk says Tesla to extend Cybertruck production through summer 2027",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNanpDWFU2Tk5xenIyTkQzV01UNldfazEwZ2JDQkdZNl9adDdYR19UYlNINDgzVExybkhia1hsYndVZ3psQlVuSi1rYUJialg2X3JMWXd3dmpVQzJvcE4xbnpXejN5V2dkMU10ZnFGYzVWUVQ4N1NVaWdqR0ZnR24zWW96ZzF5WW5YcHdSMnBWbHFvTGp5RldYSTZweEVFaVRTX0xRNndzZ0dWY3BIR0w5TjdVaEhjdGNpZlcwRWhubFRHWmR3YnhHUFVn?oc=5",
+"source": "TradingView",
+"published": 1794418215.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "a780a062baa026a5",
+"title": "What's Going On With Microsoft Stock Wednesday?",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSWd3REhYZ1hQUlJRbjBNa2kwOURNLWU5ZnBIX1ZZdW1pYmp2bHVmLTljVURoNmJXWGswSkxJTy16MnFVd0FUSmFlNkh3TnR5Z005RkpXeXd0Q3RyQ3k2c0dOMlJaSFg3eTZ1cmxvaU9kSzY3SzNtY3NFci1LZ3d2VGZqUkktS19tcW51WmFGR1ZIT0w5aU1QWXo3cm5Tak16THc?oc=5",
+"source": "Benzinga",
+"published": 1794418212.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "df75df944b00b4d0",
+"title": "Litera Brings Document Comparison and Firm AI Search to Microsoft Copilot for Legal",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeVRwVjMxT0FMNzFjVFd6aHV0cE9xd2stOEhqTHRJbjgyMEZJcm9NWW5PY29HbVdYb2lYOWRaU0FtMnJaWGUxRUxGeG1pQ3RVUEhRd0lGT2JXek1paTdyOUVzRFJadzNXb2FfV19MenBLLUI4R25TU2hSYjRxUHYxYjZCSlN0RXotQjZGWmJHVkN2cFRZbkRaYmg1RDlaMU5jeVBnQlRNUERmSS1QMldVLTRicE5DZ2dEd1ZvWA?oc=5",
+"source": "LawSites",
+"published": 1794418129.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "5d2eeb3b05494482",
+"title": "Finland recognises Tesla's FSD Supervised as the 11th European country to do so",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNENPZnlFdFRGZjk3Wm56TEZLZHh4TVhTcEFld01iYW85UUZYV0l6c3ZWcXFBdk5aaWpROGlQZkhVdG9jaVZvRHo0U3NDRjRreG1lOFlmX2pFcXR0Q2p1SnlZakNYcHpkS1RmRlVyVmF3VjhfV3owSGl4NnJBNFlneDd3eUNyWmlnM2ZMV3VSYVQ4UHo1QkZLamlhU2hHUFRMeU42aFlnemU1QQ?oc=5",
+"source": "Startup Fortune",
+"published": 1794417854.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "e4296afb6f309ca6",
+"title": "Is Nvidia Stock a Buy After Hitting a Seven-Month Low? (Hint: Yes.)",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWlVLRnBXUGxZMGhyel81ejhOMGptWC1FUVVrd3ktTlYzSDN1R3VsTzJDNXFaSnR5c1NtYWUyUm9kR2E5RU5mZUFiX3Jfek10M3J6ODI5N1lRbVRJR2d4LUduNk9lTHo0bG1STXN4eUNiSjFsM0FSR0ktUE9CTU9nNm5ocEZQSlJIVVhUSm8zVnI3Y0phVnNZUklGQjdaU3JXb2NLeUFxS0w?oc=5",
+"source": "The Motley Fool",
+"published": 1794417660.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "53b1d138e1ffb38b",
+"title": "Could Huang, Nvidia and company's board be held liable over affair scandal?",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMjZKSmVVbEFma0huZUVIajB2eVUzdUdEd2owTjNLbTZTbFQ5Z2F5OEs4WVp0QVdhZEpDU2xXQnhnTlJpQjlkMnREdGZEbkRyVW1hLXBsWklELTUxMU52bzVXMXJkeVRrVkx5aXV0YTMwcE1BVmJfTXJ2aTg3WGNkSnZRRTFLUllxTkVVVnZCc2JicjJmWGo0T08zRThvTmNQUHVfZkp2WUJwdXhIZGxNY2xFQ1ZZbVZsajJ0YWdB?oc=5",
+"source": "Reuters",
+"published": 1794417631.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "a11199330b05e148",
+"title": "Nvidia board’s idolatry of Jensen Huang could open the door to shareholder lawsuits in Delaware Chancery Court",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdE5rdlFZTWpxZV9zZ2lpYS05RzFKYndaaUx6LWJFV2RMNFc2YjhWaGtfeC1CSno1bWt1LU9EVW50d1JxTGd2Tm1uaXF2cXo5Yy1HUzFRZUFteDJYX3YzZ0RwNzNPQWFiSE1rX1lNN3V1TmV2aVFhVkVEVS1ycXRjSFJfMkZRRFl1eDB0WGtZZkh5TlQ4c1QzRkNpSUE?oc=5",
+"source": "Fortune",
+"published": 1794417600.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "e12ef1c93177250b",
+"title": "Equinor stock advances as Wisting engineering moves ahead",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWk0tbFFSX3pmOFBScWRWVDRGTHp3UEpDUE84OVN6dGw1MmZlWHFUbExHekY0LVAwa21takZKSG5vQnR6TVdNVW9obFVDV0U4M01xZnJycDJtZlR3ZUFwNVl5TlNCWlFNM2tCNXNwaW1rWTBFN2tPc0M0dU0yNk85UGJHUDhWSGtaTUViTVIxTHZMRjNEaXBnOW10dUw3MVRXTlhvTGIzZHRfUFJneHRaRUdHandtbk5vckIyMw?oc=5",
+"source": "ad-hoc-news.de",
+"published": 1794417403.0,
+"stocks": [
+"Equinor (EQNR)"
+],
+"keywords": []
+},
+{
+"key": "dbb1fec1f49bf29a",
+"title": "Teradyne Stock Jumps. Jefferies Sees a $2 Billion Nvidia Opportunity.",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNXzgtMGRIazV0X0Vlb2NTRmZCUHZNb2tEU2s5c0tINVJHcEZET2JXXzBiVVdRNDRGdjZNUVNTaG9jYUJxVmhVSlNVSENjRldsMWN5VnQ5THhlR1Jnd3N6MmJJZ1Uyc1RBSDBlaXVGQS0zNEJob2pLcUdfbU1nU0liZjN3?oc=5",
+"source": "Barron's",
+"published": 1794417240.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
 "key": "c1dfc0feb0ed56b4",
 "title": "Has Nvidia flown too close to the sun? One analyst warns of major scrutiny ahead.",
 "summary": "A Baird analyst no longer recommends buying the chip maker’s stock as its problems mount.",
 "link": "https://www.marketwatch.com/story/has-nvidia-flown-too-close-to-the-sun-one-analyst-warns-of-major-scrutiny-ahead-a323c4dd?mod=mw_rss_topstories",
 "source": "MarketWatch",
 "published": 1794417180.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "ff83e1932508fffb",
+"title": "Michael Burry Has a Urgent Message for Nvidia Stock Investors",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQVhZeng5VGo5THNEeElQUUZyY3Y0c0FqWFd1Vk1Pek5TUllCZ1V5NE9DZ3RvVVBNd2JkYlZKLW4wSGR4dDExdFViVjFiV1NqQXNrVEhxb3pFYnh3OW5QdkpvbW9JVnJ4Y1VPRkpXeFhNSXJzaGZlaEkzclhZYTBpbW80bTdGY1ppa2NMTlZlel85ZHJGQzJjb0lGZGRmay1fcExJbk1JN0FaV0RQaWYyVUdEeEpUN3hUcTlwcDVn?oc=5",
+"source": "TradingView",
+"published": 1794417038.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "c949005f3fcc2df8",
+"title": "Tesla overtakes Waymo in Texas as Robotaxi fleet performs shock flip",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZDBoLW82YWhucXJYWDZTaW1YcmhLanlOT3hNcEtXLWdjWDdhdEZQQWFGTDVSV1VwZks1b3pPNUU2dVZqbXo0b2pBZ3Z6Xzk5b19idmpyRW90NFlFNkdpSGZvTWRsRGhzLUtfTmxJd3VQNHJOS0t4Mk1nVkJzSTBGel94dEdNX0RBZXY4OGdheUVIcUk?oc=5",
+"source": "Teslarati",
+"published": 1794417007.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "d0576ded80ab12d5",
+"title": "NVIDIA Stocks Rise Despite Baird Downgrade as $10 Billion Anthropic Bet Emerges",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMmdSdTRSdmdQT3NENEU4UEU5ODUyWFBINmZYY1RVMTZlRlRDVGttaW93WnRPUmVxdzBlZmJqMFR4SHBhMFp3ekM4N1lTQnd0dkh3WDBWQjhWa0tERTJvaUo5X29OcWNJaUE5cWZLWEN5TXF4cm9kTTVlTHVTRGk5ckRDcDAtZlRIMkMyN25mcU5XeHlPUEh2MERuWHpBUQ?oc=5",
+"source": "Yahoo Finance",
+"published": 1794416952.0,
 "stocks": [
 "Nvidia (NVDA)"
 ],
@@ -157,6 +497,18 @@
 "keywords": []
 },
 {
+"key": "93a2cad759669f5e",
+"title": "Amid Nvidia scandal, lawmakers push for tighter controls on AI chip exports",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9YNkotUk1FQmhMdGtuLTVRV01kRXBVdzJfZm02czVCODFVWDMtUmhwcklDRlFlTHpKTnBaYVlhWXNxVGlyRk1MRElWakpGZHp3aldNTVlpcGV1bUZfRVYxS2lsb0FrVU1ObWc?oc=5",
+"source": "WBUR",
+"published": 1794416507.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
 "key": "d78d4e81cc48bced",
 "title": "Meta Platforms (META) Names New AI Infrastructure Chief",
 "summary": "",
@@ -229,6 +581,18 @@
 "keywords": []
 },
 {
+"key": "8b668abb15693483",
+"title": "Microsoft Stocks Decline 2.5% as $1 Billion Anthropic Stake Tests Partner-Rival Balance",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPd2NEVEtyeThmMlBlejQ5YS0xdkVsTnhiczZRSkY2VUlWSFc1ZmhNek0tTVU5THZvZjdGbW5JWF9rSWFkanM3WkxyTlp6NDhWTHJwcGlzWFdGLXlIcXBOcndpVDlOQTZCanZOZ2VsNFdkMUdKOXZhUDlrS1lNUE9OakVMRVZnQVozTkdtYkFEM3Z3SnBQcjlFSw?oc=5",
+"source": "Yahoo Finance",
+"published": 1794416090.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
 "key": "4de0a0606a0c44a9",
 "title": "Microsoft Stocks Decline 2.5% as $1 Billion Anthropic Stake Tests Partner-Rival Balance",
 "summary": "",
@@ -249,6 +613,18 @@
 "published": 1794415968.0,
 "stocks": [
 "Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "9e0c8952b896dfc8",
+"title": "Nvidia slapped with rare Wall Street downgrade after Jensen Huang's affair",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSUVZRjM0RGdJbW5aYS14Zmp0UUNQS1BmS3RIc21RcU92VS1ob1VtMTZMeS1GQ1VDZ0FyeEZEQ3hBcDVWQ2NTdmhRak1aR2dJV2NFWHNlSERNaHZDUXowU2ZQSHVUTmVvMjJQNXA4czV1Vm10T0drTGFudnRvY1pIb01NQTFLVV95bEN2UlVjdlViNUY0di1jUHVONUdLZkl0?oc=5",
+"source": "Business Insider",
+"published": 1794415800.0,
+"stocks": [
+"Nvidia (NVDA)"
 ],
 "keywords": []
 },
@@ -285,6 +661,18 @@
 "published": 1794415203.0,
 "stocks": [
 "Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "7e8ca3aeb4f58d84",
+"title": "Nvidia CEO ‘should have known better’: Former FBI special agent",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNGFUWDJTR0k1dUQ3VEtRMzV0QTJuRldDWkJwRHg2dl9PSDZQVlZrbUVGSmNTcFJWeDJSZ2g3djVVblJuQTdVc2FLWDZ4M2RCQXNocWhmVjlKbVFubUhBS2FvVUprSXZvT0lNWjctRkNxeml3ZHNjN3ZPcDB1VDFzM1gtLVNtb25admhaT3N0UGcwYURL0gGaAUFVX3lxTFBoQy1fQXNtdmRQeGN5YXNkWmdydjNxZzF1S2taeHNzdnZhcUQzRWNCaFFIZkhtT1ViVVBXd1psMVN2N2dobWlSdDJzcVdwbTF3a1I2bGkzVEFqNEN5ZWppSjhDbXdKZG5BUTR5VDJidUF6RkhkM1RZQzZLRjNBX1dwUEYzOE04OUhuODk1Y21UQl9QSlR1clh4X3c?oc=5",
+"source": "The Hill",
+"published": 1794415020.0,
+"stocks": [
+"Nvidia (NVDA)"
 ],
 "keywords": []
 },
@@ -837,6 +1225,18 @@
 "published": 1794409470.0,
 "stocks": [
 "Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "28e4b17bc41545d1",
+"title": "Nvidia CEO Jensen Huang tries to act ‘business as usual’ in office return after ‘China spy’ affair bombshell: report",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcTNOT3l2bHdUbjJvZU1IRWxZWEwtRzB3UEEzNmgyZjhNc05pZzh1R0NPbURfeG9oWVNNSVFuZ295dFdEeGVXeUdTSXpldFdBNnp6cXVIX3haay16Um1ZNE53cU84MklTQnRqSC1pZlZtQ3Y1dFJ5bHppYkRsT09lXzZPOXpXS20zYVVRZFZRdkRNS2dwZ2F2VFVxNVl1dVU3cE5JS2ZMYW42amlqUFdEcEdVVWxMYllJZlNZX0RGNkZOZw?oc=5",
+"source": "New York Post",
+"published": 1794409440.0,
+"stocks": [
+"Nvidia (NVDA)"
 ],
 "keywords": []
 },
@@ -4480,402 +4880,6 @@
 "published": 1794377940.0,
 "stocks": [
 "Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "74ba18fbb6c32884",
-"title": "Tesla FSD (Supervised) — Approved in Finland",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbi1TR3AzNms2cGVPZ281ajM3RS1mWGRmX1FHb2piMm5JQ096RFppTUdkUzNVUDNOUHY5VkpzdHo4c3B6aVpDLXBvT0kzWTZXUFByR2hOcWtzM0JEa2RtQzVCaDBvX1N1QzU1NlpScmdXQ1hzRlFjaFlNSF9oWG9nZUJ4U0tsZlRBX3VuZjNTSlpfbVl6RXRr?oc=5",
-"source": "Electric Vehicles",
-"published": 1794377880.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "0702bcf236178a19",
-"title": "US Envoy to China Says Relations Are ‘Bumpy’ After Nvidia Affair",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTFBrcWpRSlpHNTByZHhiVWx4dzFfR2k3MEV1MWxiQzJ4c1N1R1ZmWFBhS29vVkNvakpMQmEyX0xGeEhsbzhMOVZJRG5tdUtkLW5kSmp5Sk5rSTlGZ2lxUGU2Ukg5U0FTaUNEN21zb1IzbzktY0laWWhueVRqUjFMV0J4dGZpTFIzYXBPZXltaERoTFp6U3pFUjhfdWJmZVlmY28tb1JYTEtjOWdBbVo2R2x3UQ?oc=5",
-"source": "Bloomberg.com",
-"published": 1794377760.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "2891416e19946e87",
-"title": "🇺🇸🇦🇺 Tesla Brings 600 MW Battery Megaproject Online Months Early Using Virtual Grid Testing in Australia Tesla's Controller-Hardware-In-the-Loop (CHIL) technology helped accelerate the Melbourne Renewable Energy Hub in Australia. The system simula",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90ams4TFFKMDVWSmRoTGFRZi1QT2hqR2dmbV9NNVYtand1LUpUQkNjVGxTd05UVFVDTEE0U0dId3h1RVpBUU5wS04zblQ2bFN0OE5GWGF6R3ZySkgzVFVLRS10NncwTWI0RF8wcw?oc=5",
-"source": "X",
-"published": 1794377701.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "7eb8186e4039fa20",
-"title": "Meta Platforms (META) Wins JPMorgan Backing, Is It Still 37% Below Fair Value?",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOFRKM0RTQ0U1c1Y1SW50LWp4c3phSmVxRnZJdHBvcGI5QXJ2Z0Rydkxud3pLUm9YRFUtRkhlUjVyOUwyMU5lU3BaNFQ3dktYd1ZFVTB2dy0zc0x0Y0pUZUZKMkU5T3hkM04wVVFVd2QwUS1PSklfYlR0SlhLZmRxdUhJbWphdnczNzFiaUdGYjdDUjM3U2U4X1BZN1BqQlU?oc=5",
-"source": "Yahoo Finance",
-"published": 1794377601.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "42874de39a1f9b44",
-"title": "Michael Burry calls Nvidia 'a heck of a trade' while betting big on MercadoLibre (NVDA:NASDAQ)",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbElEcU1VT2FXQU1GLUN5NlVlVl9GWmRUcmJyWmpLaUphTnF4QUotMmlEd2JPWmEtRWhZenUwR0w5dW9zZ3YyeGRJcFkxb3lzRXdtaGJmMllrcWlzMVByY19JM2NLeUJFTDk2MERjcUw2Y1NGWkZQVzZIN3VKdkNIYWowaUtSN2x1MjdDbU1mM0dOTUVOX3ZvbFVoN0FoTzNsNElWay1WZ19ZVENXaUNSN2poTmpvaWM?oc=5",
-"source": "Seeking Alpha",
-"published": 1794377280.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "c48fd67b70b40866",
-"title": "Tesla driver assistance system now permitted on Finnish roads",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMnIwSk1lWE5va1pURDRmcHF3UzBMc29mWVZSWTNwZHNYb2Judm9TS05BanZKZW9BWjVHdkttNjF2amlBSXhEeWRfMGQ1Y3Ffd1JUaThiN0VjbFRJOEtHamNWbjRGbUNWcHNGWGVYQ3FuVDBRQUVfN2NhaG0taEEtOE9pVUhxc25ISU1KZnZtdlJCczhIaWVwWnh6bmpDTWwtTzhjdlpsZFB4cDZCN0p6eGFlMWZKbGM5SEpwdzFaWXNILWRYVHA1d3VTZw?oc=5",
-"source": "TradingView",
-"published": 1794377280.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "a13476e7f6f0dfc0",
-"title": "Microsoft’s cheaper Surface laptops fix the price, but create a bigger question",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdTVoRDFJX3VZdDlGYWtjejFWdnpCeGF3SnBOcnJMRVRZYlBYeUp1dUw5X1NCYWhqaDR3QWdjTDN3ZXhwYVJsOGROZGltUnVoaHRHalhCa0NWY0t1dVVHa0JZeHdxZDJ1bFlSNTBXQm5GT1Rta2gwRHUtWk4tTnhKSkotLWNaeFJFYXZuSw?oc=5",
-"source": "The Gadgeteer",
-"published": 1794377100.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "4f58f6409f95562f",
-"title": "China optical stocks rally as Microsoft challenges proposed U.S. import curbs",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTGJYOWwzR2FhNGNQNEtMaWJpWHpXcjk4R09QSGFCajFTdHc1cTk3cFJ2blVjZmlQUFlYZ25MNlVxOU1SVUZBNkJsTzdKa1ZNckxPUXY4MHR2cE1wbE5pOV9Ia0lHTVJycE1YQmdTUDRrREFNdVptNTNlc1JiWlhlVGZmbl9zRnFZZXAxZ3BCX0RYVklXZmdPcEpaQ25rUDNLT2dDNGQxaUpPMVVRMDlqdUM4cXpxbHNuRVZaSDJhR2o2NDdzMUJySkg1N1E?oc=5",
-"source": "Investing.com",
-"published": 1794376987.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "9041dc76f51c4922",
-"title": "Aker BP ASA (0M5J.IL) Seasonal returns chart",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4xT21RWWR6TjRyMHplSzFKSFQzUlRxMVFuc0VKNHhGbmhad0pJelhpSTdsaWgzYmppNFdMS2VJUVRVNXZaNG9Ga2xyeDg1Ny0wWk9fT21jWWtGS3g5NjJNanJJa2lodw?oc=5",
-"source": "Yahoo Finance UK",
-"published": 1794376975.0,
-"stocks": [
-"Aker BP (AKRBP)"
-],
-"keywords": []
-},
-{
-"key": "6b885a0716958724",
-"title": "User finds fix for Windows 11 KB5132061 install fail, a Microsoft feature may be culprit",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVndjTXI3MU5BcVl4Q3BvdXpuaTIybERvUk5aOU9wU3dIZTVDUkJGWmFPVTlPeU1DQlN2eVBMeklGR0NmNU1tZ2pGcjZpSGdmbzNMdjRSQjhnQWV6QW9fdnZ4M2tLbm9OOXhOVnlGU2lWdE5zVHhNeFNhNXV4d1lrR0g5TENOOHZTTzNad2NyNDMzb0kwZEtDUFZwUm5YaXRORHVTdU5ncTl5NUlRUm0wUUtFeVZyYlU?oc=5",
-"source": "Neowin",
-"published": 1794376939.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "5ee4e8cf8df99c6d",
-"title": "Fidelity's Timmer Says Selloff Pushed Bitcoin Correlation With Stocks Higher",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObUhhcXBPTWp1R1NWN3VTeHJuZHFWWksxWVktbFlubE9xVmFJVmpPclFSc2VYbDBnWjRBSHkya3NyMkc4Tm1UUV9rQUVsclBpOVFRMWRrelppSks1MWRONnFCSXNVc19lUzNiSFNlSjlhWk1sOW05ZDZULTcwdnVhTEVsV0w5LXpKRkJzSjFJeXVOWTBxNHRRdlM3WldKNWZwUzM4?oc=5",
-"source": "Yahoo Finance",
-"published": 1794376800.0,
-"stocks": [],
-"keywords": [
-"selloff"
-]
-},
-{
-"key": "194847d19f3aa948",
-"title": "Microsoft employees write open letter to company, flag concerns over AI push, job security",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNYzR4NUdvN083aHRKRlM2elhjNlJXY0xJX0ZCZC02X2dEQ0hHcFZseUMzdC1RS2hKQnJlMlpiTmdDUkF0TzV5bHBlVHpTakV6XzdhTHV1MlpsakRkODg5eHNqLUVQcGd0czVQWTVHRXZreDVCaXAxTE1SY214Tnpnd2NmOENoRjFmOEpFVkIzMkxDME0wNXhmcjVIcVpZZDhKcWJKc3lqZ0hBaUM0ejV4dzYzekwwZlNNQ1FIZ3BsdElrN2hZa2VFUzlWZEVQUQ?oc=5",
-"source": "Firstpost",
-"published": 1794376600.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "d02cc29714d80be7",
-"title": "Tesla Cybertruck production to end in 2027",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWjZPX0loaHVBaEF6S3BTRVJ3REdybGFUVDdCSDVCaDdiZ2dqYlRnczJaVzN6MFVpTXptSFZNZXlHcjl0MEdzdm9ZMmdwYnhZd2dTdWZVem5rQV9ySENkT3ZicW9FTVl0LW5pRUtCZE1oa2xLUWwyUXh6dXFkVlZLS1pPcVktRnZsa0dtbmgxS3NubGRIR3g0RDE4bnIzMm1ybXVaX2lkMnBTWDhoeEF6Ymp2SFhhcjdV?oc=5",
-"source": "HT Auto",
-"published": 1794376304.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "b0b098e92198a302",
-"title": "Tesla’s China sales crash 66% to lowest level in over four years",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ0RieVo0QnpuWUsycHNuR1BWOTlDMkppWmJTVWRnWE1yWmZ3OGhJQ2lpNG9OWklHaTBIcUpXelVQbFJmRUVlNFBZMnotRFBDbjY2U1c5Y09UVDZuYkFqbGd3TUZ5V0R3WkxoZzlGWC1feGFQWnBOajUzS2VLYTBKck93Q1NwX193Y0Q4YjlhZ0VTTnBoZXVEM3RLbGJiMENFalo0?oc=5",
-"source": "Moomoo",
-"published": 1794376251.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "f462ae2b045fd12d",
-"title": "Nvidia's Woes Push It Toward 52-Week Lows (NVDA)",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNTZYV28wVzFIeU1aYVU1cG1uRFNoaldRZGNuRlc1bFF5M0tVcHd4bjFSZFhzVGZMUU9MN3BsRFAyOU5BbnEycVZlNnZMdElhSm5JR1J4aHFMQUp6ZXNueG9aR1dmbEo1MTJydXh5akJocjI3OW1XX0dVQjRqN0JEWGlydk5MRGc?oc=5",
-"source": "Seeking Alpha",
-"published": 1794375000.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "ddae232d22b88473",
-"title": "Is Equinor (OB:EQNR) Cheap As Earnings, Guidance And Buybacks Lift The Stakes?",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPd0JtTlMtaG5LSWQ5U3J0ZHF5T1IwX2RuOFNRM1QybVQ4UVRQcDFvTGlyTF8wRk4tVWhjSUN4Z09OckNtTnJWX2VwZGZFZVdsMm1qQTI1WXlMTDVYbi0yekFyV3h3WlZGUWxtZThnd2dHaDNjRS1wQmUwdUdIRXliNG5vbjZGeXpnRktIZ0swVC1jRUtlUld2dnlwT1R5ZUYzTjlzV2t0aUJ6ckZvYXhVWUExNUhOMjZBYzhlMjNlaFBXWkdwS3fSAcsBQVVfeXFMUHlsQ2RIQzFsSDlySnZydnJQcy12ZUtQWHI3Z2lZN1JxUmR4ZWpTb2JIeWNab1gwbDhibHBsZTRwRjVLUm9RMnk0TWlpQ2JxMDBoaTZ2Slk5Z1g4bUI0XzFXQWNTVEl1dHpWVU82Y2FpWG9vQlpKNEN4anV6a3FfZTJnLVZRbEVDcnpwZDY1bzl6bHlvdFFfcDVSa19DMDFFa19HVnh0eDlFd1pWOVd3UTZzcXBfWFlnaENndVp6OHp6OENHQUdIcVBiVTA?oc=5",
-"source": "Simply Wall St",
-"published": 1794374981.0,
-"stocks": [
-"Equinor (EQNR)"
-],
-"keywords": []
-},
-{
-"key": "0862c5867c2f5286",
-"title": "Nscale considers postponing $35bn IPO - Telegraph",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMTdmSjY0WU5lMWNZM2VqN21hTXQ1cHJBWTJZc3pBWEY0RmNYbUdiaGFmSTZsaXRVZHlmWDNkaVo1eXg4QXVFVUtWRXVMb2I2WC1aWXB5MG5hODFhSzNDVzJQdDJMdUxHM1hCUU1kVG55cHREWTk4cmxFRTViR0Q3QW1USEdxaUROOUw1SlY0ZjZXVnFCaFNDME5EdVd4Q2FM?oc=5",
-"source": "marketscreener.com",
-"published": 1794374840.0,
-"stocks": [
-"Aker (AKER)"
-],
-"keywords": []
-},
-{
-"key": "4f8cf977a6da6afb",
-"title": "Nvidia CEO's Affair With 'Spy' Helped China Buy $7 Billion Chips: Report",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONGhMRlAzemNLelBtWkhJZjJ5TjkwTXhRZ0t6TWFhZFJkZkczR0J2aV83bjlfZWtqbUc3eHlYa3Axd0p6czgwM1RxUTRmU2hCdldpOVZPTHR5Z19EZmIwc0hGWlRrOE1kOWo0OGFzdHZ5dmVfSmRYX1ROV2Y3eEpTRWVaeFcxWFZDSmZRWFZSNUhKOTdEUzl3TzZJLXBuUmRLX3BGQzRpZEZsLUdtMWhlRXZRdUExUdIBvgFBVV95cUxOZUM2RW9qZlEwY1cyd2JrMExqUWhDM2R3TGNXUjR1Z3ZTcWZJME5sVXBkQ2Y2VFo2cTNzU3lmVWFvWVQ0X09yTDZQTV8tZWdLaHJkbjNMeS1DY1Q4ZXlUZkE4TXhEOE5jZkhxMnJHVFpoX0p1VTFSMmNJWkp4Rjl3eFlTT1p6ejdLMHY0OUczMU11aWFGbnRTZnpfLWxuYmM2eFJaUzFmWXE3S0tvWWlGclBtYTNjbDVmbmI0QVVn?oc=5",
-"source": "NDTV",
-"published": 1794374821.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "5c2de8fa20f6dce0",
-"title": "How Nvidia CEO Jensen Huang's extramarital affair could cause collateral damage in Washington",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPVVJmVTVNR1FFM1haTmJBYVVOb0c0Rk9NWWlxLUNYX29TdFhMNXJ3RFlsWFAtTXowc2RhS0lIQXUzaG8zQXdiX2tuY194eTZMLVVZRVRnVjNlWW55QzBUNC1ZSzYxZHBfMXYyQzJfMHExbThqTEpuX0hWQW91MUJtQXdVTXhhcHlBUVppLXZScFVVN2wwTmJwMzBGSldpVUZGX0FIV0pxb3E4XzRuMnBzUGZreHBMNWVod0t0OWtQb2NubGViRkcyeDA2Z1l4clpuUEdPSm13X0dhT0dtVUFmWFl4TnYtVWZwV2l3c3AxWG81RjBpSXRORTJxY3NZZUZVRXpXVzlKbXNxOEdTNDZZ?oc=5",
-"source": "The Killeen Daily Herald",
-"published": 1794374797.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "90c2a1db9f7ad81e",
-"title": "How Nvidia CEO Jensen Huang's extramarital affair could cause collateral damage in Washington",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOHhUdHFXb3pRd05pMHh1LWcxVldiZEQ4ZWhnaDdPMnFuTk9DUU9iWENpZ2ZaUUZ1cnZNNDU1cDJtNTRVeG5wMVpDdFlmQU9SRWJnYmhWZzVMQjlvdi12c1Y5NlRDZWZhVFF3MUFpaGlpOWtzbVA5ZEx0NV82T3Uxeng4bzlEX3F4bTllU25GVDdkWGZGNjhUaXZCRzdVam5ZUTZVYVhFQlY?oc=5",
-"source": "AP News",
-"published": 1794374760.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "229d315b5cc67930",
-"title": "Chinese woman accused of spying on Nvidia boss entered Taiwan on Hong Kong passport",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdDJlMWdyOXBpTlBQYndEZ3VKZ0VNRFRiTm0zZldDSkZCZHpqcE14LVhNYjNPWHNLNmFlWDQtZUZoU0QxM3ZTdzFLcFRNVGJ4bFdFeTd3blpZQ0lNQl9GYzhSWld3eTRzdU5RbUdZSFJPMWJpeVRTWmRoelRzOTN4UFdjUk5WSWhhR25zWjNkR0EwNElpS3dOUjhCcDFydw?oc=5",
-"source": "AFP.com",
-"published": 1794374684.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "9ccc2a36bc4ea8a2",
-"title": "Breakingviews - COMMENTARY: Nvidia puts Singapore's chip hub in firing line",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcWJhRXJaWEJxUG4zWjhXZjlUUkcyWDRGakFGT3RGbER2cFFBZW1QVkRBMDhlN2VKdlhIOUpwUEgyRmVzenlzWlc3b2xVSUFfanZWaV80bThxOFlfdVBwV2t4Nm9SWTltMmxXYi16VGw5alBxUU9PYjdRQzd2eU9yUmJvSE8yWU55VFRndWhuRklfRUNwQzRUQUhTaGdTYUpYdjkxelMySQ?oc=5",
-"source": "Reuters",
-"published": 1794374340.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "c55c5ac8514517e1",
-"title": "How Nvidia CEO Jensen Huang's extramarital affair could cause collateral damage in Washington",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVkF1bXdvcy1DbUJKbDlEajZtbGFER19JbEJEVkozVGg4ZU9QU1lGQkhfdzZUY3FUMV9VTWxYZUQwa1JyZGlhLWM0emJRUnc2aFhwSkhZeXBpTXJ0NFZVaHhKZ0dEeGhma1FxNXNyUmxDTVJFY3JTOVZxUlpwdjN6NzlpUjNQck1oeU5fQ2ZPeXl3OHI5YVYyem84LVhyc3Uza2hBT1V0bmNwQnBCMFVzRHQ1ZHJWb1lYZGVwRUFreWFMd0JsUDJvRnhHeU14WER3VFNLWVZQVGkwQktX?oc=5",
-"source": "The Washington Post",
-"published": 1794374256.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "bfb5dfafb3121578",
-"title": "EXCLUSIVE: PLA-linked Chinese university bought Nvidia H200 chips despite US blacklist, records show",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZGFWV2J1LVZpcHZIbWtuMU5qVm1teTBwSTFIaVF0c2hJYzN2WFBlYmdDbHJFeVVJQk5PNzA5WTBmQlNudWpFaHpyZDBGaFJEbGMwd0FlQWNrTWpxZW9kWE5sVGxtbl9sWEljZlBtQmMyMHp1b29wNmVSdnpYOVdGcHcxclo5TjRPNXRVMFNoUUdsWnc4ZUFDM0lZMXZOa3lfQWtlN25rWHFXcFF1RXRGcmI2TmFveEli?oc=5",
-"source": "Reuters",
-"published": 1794374031.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "07ef0ff5a4df9ab6",
-"title": "EXCLUSIVE: Chinese university bought Nvidia H200 chips despite US blacklist",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZGFWV2J1LVZpcHZIbWtuMU5qVm1teTBwSTFIaVF0c2hJYzN2WFBlYmdDbHJFeVVJQk5PNzA5WTBmQlNudWpFaHpyZDBGaFJEbGMwd0FlQWNrTWpxZW9kWE5sVGxtbl9sWEljZlBtQmMyMHp1b29wNmVSdnpYOVdGcHcxclo5TjRPNXRVMFNoUUdsWnc4ZUFDM0lZMXZOa3lfQWtlN25rWHFXcFF1RXRGcmI2TmFveEli?oc=5",
-"source": "Reuters",
-"published": 1794373980.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "2d15b53b7fa68c24",
-"title": "How Nvidia CEO Jensen Huang’s extramarital affair could cause collateral damage in Washington",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPM1ZwbjlSNHRtN0lWY1pBMEFxcW5xVG1WV0NkU0JFVDBPWmh5WVJJTkFsTmpKT29GRFRMaEY1X19zc2tTbVpQWHJrZThxcVpEQ2JSOHNBakFxeUkzc1VUTGRSSFVXMGVLSHMtZWNfajRYVzZHd0FOZ0hVZzltbG1udXJBSnlJeWo0RWlTQU83ai0zMkM0QjZid2pfXzNKaVhFWlNGdEtrUmhyMVZjU0c2NGRjOVdoNU5selBkdEJHbmRuMVdHajJPYUVKdw?oc=5",
-"source": "The Seattle Times",
-"published": 1794373387.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "30e3d3605a34dcc4",
-"title": "This is a Tesla Model 3? Hoffman Badger turns EV sedan into an 11-seat electric bus",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONTNvRWZfNXJSX2NsNXdCMHNOeE1IOU11b29WVmptMHZRQ2ZWZ3dHMW53THNyZUxOVHRoMEEwQzE1TFo4ZzRxQmNNQWlXcE95VUF4ZWZqVkRFd1E5T3lJaXZKbGp4THZiRVRhQmRvcnZnWFhmTjd0UDlsY0VhVmpIU19BaUJnRncwUzdXQkFOZnJ1Z2o0ODF0dkMzeFQ2VnlWMHZiMmJuYndFY2VR?oc=5",
-"source": "EV Central",
-"published": 1794373318.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "f583b3c2669a5e3e",
-"title": "Jensen Huang: Nvidia's value plummets $430bn in two days, as CEO urged to quit",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVlFMX0lvVGs0VkFJWDYxVHN1VVBXU1Z5NnlnMHJzUEgyZTJkNTl5OHNkQThNb3hrRHgxZWhzbFBZdmdZdGFDMWJ6Ykx4NjlNTEcxSVd3Q2ZFTHZaYjNCZTQ5cVRlZW9jWUNfbUxrcHJWOE9FTXJidU5SaDdwUmV2ZnBuLS1qRjRmaDZaLWpnM3dhYmhBVXdWdFF2NVhQODNsbmxUVS1KZi1hOVhaaTlj?oc=5",
-"source": "Sky News",
-"published": 1794373242.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "7f21aa75139eade4",
-"title": "Ex-Acting US Attorney To Probe Nvidia CEO's Affair With Alleged Chinese Spy",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORDRkTFc1ZnNUSDZnRTRhdW9mc0dra0hZOXdOblYwZWE3SE51YUNzNF9wVFJ2djZ1WVpNeFBpV1A0bExtbXZMeUFzak1qVzJydXB5Y1E1SEJ3VEZzWXJTZVVGZ2dBRWxNYjFTWFNYWFdhTkxCYjlSY3g5Znd1S2hPcm1FUHMwdk9oZ2xVVy1oakVYaklxbjZMT3dBZ0dDUzRYQnhBRUh0OGpHemJaMXfSAbYBQVVfeXFMTlVKOGZLbk94SDY5S3FRRWFsOU5oMUhwS3lueno4N0ozaDZvRVE3NU4yV2FnNnNseXBCMVJaNGMyamE4N1dIMXlQVVpMQjg5a01pTlNSaTFWNWJNZS1PbnlRVEM3TlNTZHQ4MUZhSXR3MGg5eTduc1ROdWtPY0JYcWs4RVl3MTRLdUE1SUNndi1iaDVqalpkRzBtOEFjYU40b2lPNHR6SVkwUjN4MTBXVzcwV1hENGc?oc=5",
-"source": "NDTV",
-"published": 1794373228.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "4265976ce3d5d452",
-"title": "Nvidia spy scandal exposes Singapore’s role in China’s AI chip trade",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNWc2RWkwdFhTMDdpYjlfY1pQcWNnVkVDYXBYZmtEUEJVQkVpYmtZZlNpNmRIa2duTy1zeUtONHZ4eGx1UmgzbkctUHhxNERXSTJCVWhhU1BkVmhxc1FRalBONUdZS3lzc0ZTMlBZOXhUbVVzUFBXb29qOVp6N2hickhiOXU?oc=5",
-"source": "Financial Times",
-"published": 1794373222.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "a75198e8923a8d73",
-"title": "Tesla Robotaxis Extend into San Antonio",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR3FjYkc3dUUzT1ZyaVRLT2xJUUNhTFU2dlp3Vjh1LXlkMGlOX3hMZUdCZjhCR3NfY3RGbDRudWZoTy1FeVN5TVZ2bUNGczlicVBVSmprYXE3VWRKX3JUdFZZWFJCQXloRjM0WjRraFZzQkN3aUxsUUt1LVBVRVZrYW1kWQ?oc=5",
-"source": "CleanTechnica",
-"published": 1794372805.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "641b0a1df9a13193",
-"title": "Opinion | The Nvidia spy scandal was hiding in plain sight",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSkdielp1Z184RmpXa3daSjlEVlBGMTVwTGpTanpIYmhpWU5rdWZrS1I1cGRQUks0RjZaUks2bVFERmpCQmItWHA0Rllta085QTd4eUZFbTlSS3d5WVdSVmVwT3dpYUI0VTJfTDgtN0Vlamw2dWNsTy1KQy1FdXQ5dWd6ZnEyTGJ6aERBcFB5RmZ3TUw2RFRJczhMNjVvSDZRUXBTckZRZ2dIV2twNG5TLVF3?oc=5",
-"source": "The Washington Post",
-"published": 1794372304.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "d51aea9cd50597c3",
-"title": "Microsoft Auto SR exits preview, making handheld games look better without a dock",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQU0l2T05Mb3VheDdFclIxUGlCVUREWjlJbnV1dktwcmtIRUl5SHFJUERDenYwR2t6VzdhbUVRU2R1NnZuNWFBMXBaRURoZ0JTay1lcWlkNDBleTJYckpKZEZ6S0p1cWRqZGZsVmpZUFh6UjdkaG54ZGg5SlFwS3NubjdGUHZFVVNlaHFLcVJhZXlZYzJjR0d5WjVyR2s4THd6Z3N5Q0pIMVk1NkdWMTRycHdGS3p0elhXd3c?oc=5",
-"source": "Digital Trends",
-"published": 1794372010.0,
-"stocks": [
-"Microsoft (MSFT)"
 ],
 "keywords": []
 }

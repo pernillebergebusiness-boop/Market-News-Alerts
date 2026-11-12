@@ -1,5 +1,5 @@
 {
-"updated": 1794492428.07466,
+"updated": 1794495642.304918,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,6 +73,555 @@
 ],
 "items": [
 {
+"key": "7e71ddddabd21a19",
+"title": "Analysis: Jensen Huang’s exit tests Nvidia’s role as the ‘central bank of AI’",
+"summary": "The tech giant's web of ties to other companies is raising the possibility that it could do far-reaching economic and financial damage.",
+"link": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
+"source": "CNBC Top News",
+"published": 1794495316.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "8a0e76c3aa61be73",
+"title": "Microsoft Exchange Server 2016 and 2019 enter their 'permanently vulnerable' era",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNejlEYXY1enVRbmx3VE5aZmdXTVBTa1hKS0w5MENTTXhBcTQ5dWxKYlpnSjlicFM5M2x3dkVYT05aUmpSYWt0RncwOUxtOGJRRGN4eVNvLVhIZ1NrcUdLaXVBaHFNaUt0Z3FOQnNxWFR3TXZWS1Z5WVd3QzYxZGRBUGRkNktZRjFheFRvMTMwa0VHdTdUczBaRl9IUzMzdHJhYzFnUGJSdFVtdV9qZ1lkLXdxVG90SkJyc1p1VHl5djM5UWRhNHZra1ln?oc=5",
+"source": "The Register",
+"published": 1794495300.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "4978bdd4ba9203ba",
+"title": "Microsoft (MSFT) Stock: Citi and Morgan Stanley Bet on an Ignite Rebound. Here’s Why",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWGRUdW03ZmFBSlpZU0Z4N1pUZ2hPUHhWbmlzYUNYM204M2hucENjdTZGdHBvQ3pFbkdhMUlTYlNWdUJtR3E4cDJzai1KOEhKUjhKandMek1tWEV3ajZMQlhiN2d0V1FvcmprZEtGVHAxMUlsdG5NVnM4M2V4eXkxdC1DampYTFVUeU56a3ZIcHhBWlVOSUFvblE3cjY4dzF2azhHWWdB?oc=5",
+"source": "Blockonomi",
+"published": 1794495161.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "5780a7232b1d6fa2",
+"title": "Jensen and Lori Huang's Nvidia fortune is jointly controlled. How that makes things complicated now that he's resigned",
+"summary": "Jensen Huang’s $140 billion stake in Nvidia is largely held by trusts co-owned with his wife, Lori, creating added uncertainty for his financial future.",
+"link": "https://www.cnbc.com/2026/11/12/inside-jensen-and-lori-huangs-jointly-controlled-nvidia-fortune.html",
+"source": "CNBC Top News",
+"published": 1794495043.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "faace4753ac17191",
+"title": "Nvidia CEO Jensen Huang resigns after his affair raises national security concerns",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSktocy1OY2dwRlRpZnRkZ3V0d2hRdmgxRzM2bzlRVW1wdVd6a05PTGRUeTZDY3lwVkN4RFBDQUFrcmVBWmdnOVpkSVNlaVluTndndG1aeE1RQnBHY2NDcWVyeWg0VHhNQlBqejBSeXp0T0RBaTlUQS1rZ19kWEp4THhJa1cxWXhkSUl2Nm1YRG1xbmNMeV95S0NJMzl6M3c?oc=5",
+"source": "AP News",
+"published": 1794495000.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "2bbfe52f08e657f2",
+"title": "Jensen Huang built Nvidia into a behemoth. His resignation puts the entire AI boom in jeopardy.",
+"summary": "Huang fueled his company and the AI ecosystem with advanced chips and creative financing deals across the supply chain. What will happen now that’s he gone?",
+"link": "https://www.marketwatch.com/story/jensen-huang-built-nvidia-into-a-behemoth-his-scandal-puts-the-entire-ai-boom-in-jeopardy-c374b079?mod=mw_rss_topstories",
+"source": "MarketWatch",
+"published": 1794494940.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "193ec5daf7c49076",
+"title": "Who could replace Jensen Huang as Nvidia's permanent chief executive?",
+"summary": "Chief financial officer Colette Kress will replace him temporarily, but several others are in the frame as potential successors.",
+"link": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
+"source": "BBC Business",
+"published": 1794494906.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "799ecc744a027357",
+"title": "A drop for Nvidia's stock weighs on the US market, while oil prices swing | National News | 2news.com",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcWpmUGFpc3VKYm1XVkR2ZDMySl9oak5VUDJJLTNDSFY2UFpfZUZrQ2YzRTM4LW95UTBnUUptOFlBYXBsaFJJeHhKa2RCVzRjenotSVFBckYyblc0cmt6Sl95aDRfcm5qQ1ZXWWF3N1RTUFBQRUZvSmtDcFliQUN1U3lNNWg1VDVVVG5qdVluWnVSU3gtWlJISjRaaGpYZ3lrNnVLSHFtMVJCRWFCZmROb0p1ZW50cEZ2R1p6ZlBhMkliRkx6SXVUbDRqWmRVMEU?oc=5",
+"source": "KTVN",
+"published": 1794494905.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": [
+"oil prices"
+]
+},
+{
+"key": "1767d82267370331",
+"title": "A drop for Nvidia's stock weighs on the US market, while oil prices swing",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcmZ2YWRYYW1FYTkxLVNvR0RKYkt5Tkg3TkJQNUQwR1NpQmwxc3dEV04zazZhYWJzX2JHY0xWZE5tU2ExazE5ei1FZFI3MS1mTXJhY3lOeDJpa3hmWVdvUW92SjgyeXgxMThxMzdvRVU0TW9DNTl3ZDB3YzNmR2toSVZMYmQ1YjltQVZacG8wQkZDcU4zT2QxTFFXLWhObmJ1UkxLUEp5XzFhRC1Da1JYMHZHRzdUbURyNGtlMXowdmhmR003NTBVSw?oc=5",
+"source": "The Killeen Daily Herald",
+"published": 1794494905.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": [
+"oil prices"
+]
+},
+{
+"key": "2dd3307ce6184325",
+"title": "How the SpaceX Stock Slump Complicates Elon Musk’s Tesla Merger",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTzBaVl92aHI0RlRPSTh5WnJuSnFZcmk3dnRLekFnTC1hSGdUN0dIYlNlTkUzeXZsbXpGcVhNSTZna21aTEpxYzVtdFd6LW4tZ0lMMnhtNE9leGVicWpmZV9SVWlYb0VIeGZPWXZCSXlTV2Rnc0Y1aDFaUzRhUTNZNGhadTJmVjRMWTkwUGlDdw?oc=5",
+"source": "Benzinga",
+"published": 1794494898.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "fe67a173ef115a87",
+"title": "Form 4 Meta Platforms Inc For: 12 November By Investing.com",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd2VjZVNweURFZmNLajVVVmpBaUFGN0poTmxadC15NWxjbGxFdGRCZEVnVGs5VHVQSVIwNUFCbmcyUmQ2M2Z6Y1R2aTZDYTBGdXRTWlJfdU1ublowamxKUHVjNHVwamdSQzl3SFYtSFU2MVlTVGtOQk0za3FqTWhYOUFNNzR0b1pqZGx0RGNDQUNQUGZ4ZlMwWW5Cb2tMYmo4bzlleQ?oc=5",
+"source": "Investing.com UK",
+"published": 1794494760.0,
+"stocks": [
+"Meta (META)"
+],
+"keywords": []
+},
+{
+"key": "229409225dd0ce23",
+"title": "Nvidia Shares Tumble 11% At Open After Jensen Huang Resigns—Market Cap Now Below Microsoft",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQOVI3WDhEWTFKRnZOeFlYWjRqQ2ZHaTNnWG5raFNjR0s5NlpLTnVMNGtiX0hrXzUtVktHbUVBRjlZalI3eC1BZHViZnRJZTVfMFhLeUQyQklsT2xuNUhUN2I1YnJNQmtqYjJxLUxPRnZWVENlbWVFRW1lVnNEWTRIMHhrcmVLZlhHUWRFTnhtMG1wMU9KM2Z1R01NLWFzcXVHQ1Myb2d1WFZNWUswdnYwcE94Slk1cVpvVV81T1lUQ2tOV0lFY0RrdWYzTWYxSUgyLXhj?oc=5",
+"source": "Forbes",
+"published": 1794494622.0,
+"stocks": [
+"Nvidia (NVDA)",
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "a1831f07dc302b33",
+"title": "Nvidia stock sinks after CEO Jensen Huang resigns",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVVZlVEVXUFhyNHJWMVVHUUpRMGljRURYR1RkcllYY2JyOV9RdzlGeWVrV3JvbkZmbXJOUzJKOXFiMC1Iblc5Y2o2cURtSUY4T29vWUVwd2ItN3pCTjJuQkxPMzF5TV9BWVZiOEJMN2tGbWRqS2ZtODg5ZVZOcWVlMmtLYw?oc=5",
+"source": "ABC11 News",
+"published": 1794494608.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "681227eb12078019",
+"title": "Tesla stock climbs as Cybertruck production extension and Finland approval fuel optimism",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZ0twVmtmNkJVVmpoZlF4aW4zRmdCSXlkcmVTSmhQQ2czNHRPS3FGcl9OcG1wZ2JDbHhSZ0ZJTHFDV1JlUGZYNEZqMmdCdkkyOWdmTUlFeE1tMXE3NlhTOGFieUNMQXdvMXdSdGxUbHlndEUydDVsMW5QSFpPMVNzdmx6NWlBUDlyeWdISw?oc=5",
+"source": "Traders Union",
+"published": 1794494502.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "e7cd4cae3ee78bc1",
+"title": "DuPont Collaborating With Microsoft, NobleAI on AI Tools for R&D",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPM3Q5MnJPMWMtRnFkWFdWSjREUElEeWk2aVhVUmE5ZUJxcGNBUF9PTFR3cVFwWlktZDYtNkxRWHV1ckEyYXBsRE1udV92akV2dlNrSWhiS003TVNOTGJ5VUdFaU5HaDVwbXo2eE1YSjdpNFRwZVlidFdKcFBOazBWd29FVFlyZEVodERBSXlUczVrSDY5V0daRUZXYi1kV2dQMXc4dlJnN21NQ3pfZk14SFFJcUgzNWc?oc=5",
+"source": "marketscreener.com",
+"published": 1794494419.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "f0a62826bba6dfff",
+"title": "Nvidia stock falls nearly 10% as CEO Jensen Huang announces resignation",
+"summary": "Chief Financial Officer Colette Kress will serve as interim CEO until a new leader is appointed.",
+"link": "https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html",
+"source": "CNBC Top News",
+"published": 1794494374.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "f01285a92f890ea9",
+"title": "Tesla to Wind Down Cybertruck: Can Cybercab Justify the Shift?",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdTFjVDVXdzFhUDZqUFJMbjNIazBJbVp5NWo1LW5sbGt2VmVJd2E1VVZOT0d6TDFZQWloRmJEMlZqRklwZlBGTENjZHlTOWp1N3Qxem1YamtmR3JGb2ZpMGRMRW01ekFWTy1aZ1I4dTZBMmRGdnNqV0Z1eGl4VlpMVjc3eXphd1ZhUXZVOHdlcnFOMHhmRGNENF9RaG1UMXFZdVhhSm95NlVSaDQtNzgyYVZpc0Jxd0E?oc=5",
+"source": "TradingView",
+"published": 1794494250.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "a73578a6bb37508c",
+"title": "Tesla FSD Gains Ground in Europe: Is EU-Wide Approval Near?",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMEdxUVRsSl9BUnBXbExLdUZ4WGtLN3RWa2hnMHJjWkFqMnYyU2c4eDIwMU9lM1FCeTZ4dC01cGwyUFRSbGRZMGthZGMtZGxTZWJ6WHZKbEY3UXU0MnZPSU5EWGNNUE80Z2sydG1KVFhnMEMtbkdkTFVDRXFTSTlyc09CcnlzOWZlR1FDOVdWNXdMRTBzMzBwZnhHN0ZsT29EeDh2VkEtLU40TnhiNzc4OG1RNA?oc=5",
+"source": "TradingView",
+"published": 1794494250.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "5bc0f7e3da1851da",
+"title": "Police charge another Tesla driver caught asleep in rush hour as cases pile up",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcEFsaG1NY3lDM2IzSHdkSEl4TV9jdWZjSnRtS0tCSENzMGpzOW9EWHgyNXk0WTJ6czlhSVRKMi1pYlBMTEkxNUdPSzRBUy1uRDdWMXBuZzZpTVM4Y2FMdGktZWhKZzNGM2FYQi1FbTVQMnZvSGFpOGxrUENEOVV3N3hyZXdGRHBwclhR?oc=5",
+"source": "Electrek",
+"published": 1794494160.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "87ae6a49a109b827",
+"title": "A plunge for Nvidia's stock drags Wall Street lower",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOSmdHZFVYc0hjUDBTNlZVWUM4clZiMC1pM2lrWUFDN2sxX21NVktZQlF6NF9XSGc0aklKeEdfQWltTGowY1ZDQXBWZERmLVdFREdGcFJ0RGZjM0Q3TGlkb1pmeXFaSDNkZVZ3WFpscGp3TTc2dEpaYTdqUlZYMXFKSXZndmRmWlV3R0R2SHZqdEN2YlB2N2hTeV9uSGxLazlwWHctdHMzWUd3d1BkVTAwU2xUSlUySjg1M0RhcVBzQndKUDRwVkVvdWpEei1FenM0MUhYR2FPXzhMbEN0R3dnX2ZMc2g?oc=5",
+"source": "LancasterOnline",
+"published": 1794494148.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "c11fd5d3b4a4d997",
+"title": "VIEW Nvidia CEO Jensen Huang steps down",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZC1uZTVNUkdPM3M1UzkxWjJDbmNFa1RwZm9iVmFuZ0FUMW1Sa1p4NlYxY3AxbE91d3VyN0J6aHM4UWpqTHpPZkdWbS04OEFyM3JqSzdoUUxhVWlTMlBReUZvQnRQbVhxdXhFMG8yenFBeUw1aVNxR0tzMWdMSzNlME80eW1ZZWlGcXJFUg?oc=5",
+"source": "Reuters",
+"published": 1794494100.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "8492994908003ee6",
+"title": "‘A dark day for Nvidia’: Here’s what analysts have been saying about Jensen Huang’s departure",
+"summary": "The company's board convened Wednesday evening after reports emerged of Huang engaging in an affair with an employee.",
+"link": "https://www.cnbc.com/2026/11/12/jensen-huang-nvidia-affair-ceo.html",
+"source": "CNBC Top News",
+"published": 1794493738.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "e833bf2effeb3e94",
+"title": "Jensen Huang Has Been Ousted as Nvidia CEO",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxON2VaZ01EcWdXc1ZGb3plNUNMM294WGZlT0tTbWw2SFNPOHZ3ZERtQlR6RkhLRWF2cHExRnNfWGZINm1NWVoxVjRSUDRTVXRFb1RaRGcyMXFUdEd0LWtlME5SVHJETVdzOHR6eHhyNXJLVXF6cldFbnhHMXcydFMzTGhzVnhWN2RQX2d0X1N4QVZvdUU?oc=5",
+"source": "WSJ",
+"published": 1794493680.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "dc0ec4946897a91a",
+"title": "Ohio State, Microsoft Launch Five-Year Innovation Partnership",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1PQVZIQ2c2Y0RWZUxpSlZGN00tZy04ZEZfdzlMcE1Bbk1pLXlzRjh1YzExcFBBT1p3eFp4Vy1ocHhJZ3dBNDVGSWFvZlp4eHNTc3V5blpST0tZQXJlNjFQeFU2ZHVWeEE3dHZwOTlfTmN4NHdpdEVTUldYLWp4Zw?oc=5",
+"source": "Mirage News",
+"published": 1794493680.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "799dccc36606dfb5",
+"title": "Jensen Huang Resigns as Nvidia's CEO. Will an Israeli Take Over?",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOOVQwSnk4TXY4RHNhRXliYVpHVXlZMnU1bndyYmlfUTQ1WnN5R0ZiQ3NFZlUxSWNyanpIUnZlbzFVQzVZN25mUDlBX0x2VzBsa21WQ0w3N05weGxLdnVUNklqV3Y2RjkwMVpaakxNd01IUUhKOGNBVnhqd3BOZ29LUHBVVWRsNFBqZjg1Ny1PNzFmX2V1a1hJMVRCbXgwUkN4X18yWklIVzJjNWhNTWhFNk9EOE42MU1aeXhPX1BLNEF1WlhkaXN3YzF6Q3BKQmJKNjFFNVR6Q04wd3huOExpaUNxSHBHTUI1NzBVZ01idUljaVphbXl6cg?oc=5",
+"source": "Haaretz",
+"published": 1794493500.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "69645daa23e6d9cc",
+"title": "Nvidia CEO Jensen Huang Resigns. Stock Drops 10%.",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTmY5c05oNmptS3d1Z1B6aUtOaEkwMGxxbjBkendjRzNqU2lrclhPNlkxWEdlU2c5NnhUVVQ4a09vSVFOX3ZhNnNpUy1VeHo3aFlHdlAzZVdSLXQyWml3VE0xMnNNUnU5T2NCM2pHNjE2end6NjlRNVBYbkxKOGZOSTR3MU1aYk9IaWtMLQ?oc=5",
+"source": "Barron's",
+"published": 1794493380.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "855a7b3f8558ff91",
+"title": "DuPont partners with Microsoft, NobleAI on AI tools for R&D",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWjdjMkVZTHQyVDd6bk5oak1WbHQwNXQ3YjhhX0hfZUd5RDJVbXNZWl9tYzY3T1R4Qkg4dWxRcG5Nc3Jkdm5NcXhPQjU5dFJkWkYwTjhDSXhlMlkwNEEtQlN2VVp4bGsxZFpjZ1NpOUF3R1hjbWRGREhYNzVKZHoxWWFYUFF2Mzl4R0ZIV3loUFZzSDJzcWhVOV92dV9lZHpqZS1laER2V3I2ZXpqdUJMYnNTQU4?oc=5",
+"source": "Investing.com",
+"published": 1794493341.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "e74089bf7a4d25be",
+"title": "Oil prices mixed after Trump says no Iran deal needed: 'We've got their Strait'",
+"summary": "Oil prices were mixed on Thursday, after the latest comments from President Donald Trump raised worries that an end to the U.S.-Iran war was not in sight.",
+"link": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html",
+"source": "CNBC Top News",
+"published": 1794493280.0,
+"stocks": [],
+"keywords": [
+"oil prices"
+]
+},
+{
+"key": "d13d9ac8a6b2fb7d",
+"title": "Nvidia stock tumbles as CEO Jensen Huang steps down, dragging down other AI names",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVlcxMGw2ZjlXTThMWHdjWmJyRVloWUl4eVEwMWZ2M1NSdThQLUZ4YXd5RUNZdllfSkdaY1dJamE0SEFNLXZjRE0xcHFLQUpzSW0zWlBTYWIyZnBHZnBSenZOeDVWNWEwY2hyR0JOR0JLT1FEaXhzdnpoRk5Xai03Q1hPci03UHdZc3NLbzdWQVlJZkZGclp6Qno5b2lvSFd0bTNVbFpNQQ?oc=5",
+"source": "Yahoo Finance",
+"published": 1794493276.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "ca5fdecf8b85fffd",
+"title": "Nvidia's CEO was the rock star of AI before his dramatic unravelling",
+"summary": "Within days, Huang's status as a seemingly untouchable figure leading the global AI race has crumbled.",
+"link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+"source": "BBC Business",
+"published": 1794493113.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "adfed0773ad83bd7",
+"title": "Druid AI Wins 2026 Microsoft Agents Partner of the Year Award for AI Agents that do Real Work in Production",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOQXYxODk2SVJJbUctaTRDVnhiUDBTZ2ZvRThwSXlOS3A4MFRweWJfTGdmWjJ1U2ZadjE1Mkg0S1dCZFpiSks2cTlhZkVWZXlQNm9yUDNMOHhNOGhmY1k4cVpSRzNJVlNwWVQzZk5wS2ZQN0VmaTd2WmQwbmZnZV9WbVZjandROXBpaG00cldpbkVZOFF1empQXzc0TnhRT3B1VVIyYVpzVGo4dmU1Y2NWOVZ1NDBsNHktWHYxUlRodVVYZmJDLVRsSm9aZTJweHdrRmpkRkZwalNFdEs3OUY5X3BYTQ?oc=5",
+"source": "EIN News",
+"published": 1794493080.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "f0b90f99e489447d",
+"title": "Nvidia CEO Jensen Huang steps down amid alleged spy scandal",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRXk2b0ZRMGx3bUhFcDRUSzhkejMyYnFQVENtaUlBWFkwSWJ2YVJMMGpfa2d0U09BY1FfSlhYMmFYSFFsd0FDbk4tbGtRTElzU1dET2IwOVAtaGJrT0pOM01uY2c3Y0lCN3FYV0VBVDVidzh4dDlMRlhnU3pQTlpyTnFn?oc=5",
+"source": "NPR",
+"published": 1794493040.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "168609a7a19f0352",
+"title": "Who is Nvidia interim CEO Colette Kress?",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOX1JRcXNDUmNTX3hYTkxSOC12bE1PajdrdjByNkRpa3dpY0hsc2FqR3NEeTROdVFDVFRMWTYxSHduZGxoQVl0QkJIckk5MTdJaWxBZTVQLVFwWTY5TXZKS0NlTy0wYmNNa0NpUGJIWlFkQ3VsNGxEMVB3eFhSaExUVllwdVBkWE1SMl9kR2pXbw?oc=5",
+"source": "Reuters",
+"published": 1794493016.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "34f1698628a17173",
+"title": "Microsoft data-center veteran joins JDC Power Systems board",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVXQ5a1c3V25ZLWFPMFdhZDR5M1pLNnpIYWlzcGVVVENnd1FTOEZXSnZlZUNZdTZkTXBnV01vZWxDYzNXdTlXdFBYUUExNTlxZTRzazNRVmlZSjA0MnZzZzJsWEFhX1FicWwzOE1MdUtXU2RtbTltY1ZSZ2NyZWhGalNBbDU1Wmw1QTlFZzhmUS04ZDBQcGRMTg?oc=5",
+"source": "Dealroom",
+"published": 1794492973.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "079e918cdab2c7e8",
+"title": "Elon Musk Hiring NVIDIA’s Jensen Huang To Run Tesla Isn’t The Worst Idea I’ve Ever Heard",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQWNEV1gtN1VEOXFRV09pZngyT1h6VVZ2V2diNm9EUktfUUMwN01hX2lPSnA3TUlVS284azdkQ1k5amNqLVZXeWdsQVROS2cyZ1FpN0Z0SzhlUmpZRjV3dnphNkIwMDJUbzBnMWcyb3NBLWNwMDV3UTZ1Vm0xbnJsRDR1cGtWbWZoVV85ejhZblJYdmFUdy01QjlMcWI1SEVMOWpQMndNZm0zX3dkWDZKQnNralc?oc=5",
+"source": "The Autopian",
+"published": 1794492945.0,
+"stocks": [
+"Nvidia (NVDA)",
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "7f7d5f2a5633a6e8",
+"title": "What to Know About Colette Kress, Nvidia’s New Interim Chief Executive",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaGliajlaNEpxWDNkSmtUZzN5dTBVZkFiSHFCRWJQUC0wMk1xdm1nTXdfM1hZT0psZWJ4TF9HWTVqLTd4eUVfQmVleGtwT0lRWEhMWW1NZVkyOGFEVWdlOGJwemtiVUhldm1HQnJtQnlJc0lVUFJQdFQ5Wk9lSGRXc0g0b0xXTU0yZGc?oc=5",
+"source": "The New York Times",
+"published": 1794492854.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "cf0112a53558f4e2",
+"title": "Meet Colette Kress, Nvidia’s New Interim CEO",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbVQwekdOVVVwRlUyVTJQTHppYko1dFRJWGVGemprSElYSWd1RU1UVXR1QUNuZ3BUUFFQN3IzNEMyWDFhV01ORnhNNnE3U0hqUHZ3Q0VMY2hpb2ttOTNzaHg5T29PZ1RjS1U3Q1ltT0pYMlBCYUZ5WEZWdlhLb1RIUkdIRGVZb3E5WWVOaS1feFh5NnZy?oc=5",
+"source": "WIRED",
+"published": 1794492840.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "86eb636448ebd9c2",
+"title": "Jensen and Lori Huang's Nvidia fortune is jointly controlled. How that makes things complicated now that he's resigned",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWGxLNjZNa25ON3VOUTBoQXNEV0hsdlBFaWdsRklhaWVRSHhnR1ZDbFB4LUc4NE9XVmZVbF91bk4ybVJzMVAwZXZCZHJqU3ZxR1gzdjQyYmprYmo4UHJCNERfZDYxaDdLdlBrS01zNEE1Mm9jM0pOOFdlM2FFbGVmREdTTktwV3RHQm1Wd3duWWNVdEliRU04UGJNUjhXUmZDYXc?oc=5",
+"source": "CNBC",
+"published": 1794492795.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "ac843561651da52c",
+"title": "Nvidia Is Back Below $4 Trillion, and Microsoft Just Passed It",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVGV0YmFNUzE2RlFkanNCNTZnbTNWUlJVczNEQzM4aFlfMlBaWHhNZTFKRFd2N2lGTW1CNHNHdFczOXZJeV9ta010U2Jhd1haeU4yXzNhUGZKT2JQTV9NN085blpWS1ljajB1MTlqdVhFY1cxVDRGNURaZUNkcmYwMWg3QWx5Z3poeUFsMmdlU083MWlKT0JMUUN4aEw5Y1llVFBOb2RXQQ?oc=5",
+"source": "24/7 Wall St.",
+"published": 1794492780.0,
+"stocks": [
+"Nvidia (NVDA)",
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "4f176f30cd10771a",
+"title": "Nvidia CEO Jensen Huang resigns, CFO Colette Kress to serve as interim leader | CNN Business",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBVV0ZxeFgzelpIZUV3Ry1ybGhVTnBGMHpIaldZb1hTWkxrb2NJdDNFOFdoVUVTdWctOXpONXBLbVBsWDFWaHpaNTdjMlpjaGFla0FlamEtS21PMGZpbHBBOU5iQ0Nud1c3bkJXVTZBRlE?oc=5",
+"source": "CNN",
+"published": 1794492683.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "7fb5c8350321eeb5",
+"title": "Wall St set to open lower after Nvidia CEO steps down",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQY01YWkJBY3Roa2hlWkVsbHhpcHplMm5NX09pWEJlMC1rWTY1ZDJoTUh0elc0WTZvdmpDOXJhS04tN2J5Y0N4NmZPdGk0aUhKdVZLT2RMSTk4S2EyZEJMYzY3WnpMMklfRjF3ZEJXZzU3d1VBTmlWS3Y1cllaYURseVQ4Nl93RFVLOXB4M1J6bnM1YVQ5QXBaSDZCOXEwUQ?oc=5",
+"source": "Reuters",
+"published": 1794492646.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "69226e35b6a6b7d7",
+"title": "Nvidia CEO Jensen Huang resigns amid fallout from reported extramarital affairs",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAtbndYeUNrXzFJWWsyVU5vWE1pMnlrblc1RVZmaGJ1TzFQR051eVpBc2lOYVJpSnl6XzZPeENFdFpDUzd3bkpvV0d3UEp2emNhWFJ5YXUtQUI4X2p5ekNXM09lMTFSckU1ZUtka2UtMTNiSGtIUDZXeHo3SQ?oc=5",
+"source": "MS NOW",
+"published": 1794492626.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "1c2e0384f9354cc6",
+"title": "Nvidia CEO Jensen Huang resigns after his affair raises national security concerns",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa250SFhvdGZyZXFTcU1Qa1RoVVFjay1DRmRVeXZDeG5FMmgyMWNKc2E4Q2dPZ0RlWU1Pem5GZ0JPZWo5Z2tKRWxmVXBvaTczdWxrR3J5ZFdCemhkMWhHZ0d2ZTdZQTRtRk5uOE0ycVhpU0xMMjFucGhHYTVNR0YxbWFrcTY1RF9MR3V0T1lIRjljRTc4alh4WmkwSUU4d2IxUTBoMTJWT1NIclk2SWV2eXpmV2hBU1pXR3Fr0gHAAUFVX3lxTE95TDd1SGhCcVpjMFRUbkMxZ0tyWFlaWUdjeWJETzREWTctSlVhYzVwanhUNTU3SFI1Q0lzSlZnT3MtUVdKQUlJUWFUWWNwWFhzMzZ1LW0xTEQtQVFOZlVma1VUZmFIMktIRWc5dzFGT1l3TmN3blpMMTBwWFdPT0lDR3gxN1lnZ2g5YnYtLThJTDdnZ0ZFN1Z5bWE3QXctZnVDLUpYV2xyS2Z2TVBhcnF1QWo3SXBPUU5DZy1zQUVGWA?oc=5",
+"source": "PBS",
+"published": 1794492601.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "202c3479fc4bff3d",
+"title": "Nvidia vs. AMD: Which Is the Better Artificial Intelligence (AI) Stock for 2027 After the Tech Sell-Off?",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeUFRelQ3SHo1eld4ZGloSnNYNkdmcGpVdHg2WFczR1Jib3BJMG80a0xYRlU4amE5UFZqeXJNa0lscVVOdkhsek9TNHdrZFQyU0huYjZQUEtYTW9pYTA3NXhSZkloV28wSWNZbjVMTW9vRnNoSjZDdE9VWTc5ODZJNS1kdUlEVU5kdDlnXzF3c2xWV1d2bGZXNHJ4eko2cC1HNFNSSENoV0xHLW9BTFJMcjgzM3BvQUxvT3JMd244NHBVNktvYm5HR25DZmdZVDNXQmJtOE12UGJ3UQ?oc=5",
+"source": "The Motley Fool",
+"published": 1794492540.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": [
+"sell-off"
+]
+},
+{
+"key": "57764973b9c53fe7",
+"title": "Jensen Huang Fired As Nvidia CEO By Board",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50eUljWjJVUWZMeWtiNXBsbm9GZ0dUNTZjeVNlbHFPR2NMRzEwZUlSYURSbEh6bjVidzR0aU1Oc0dJS0ktTndodU9RV1RmTHNlbGRSZmNiRHBoS3p6TkkxS3ZJekRzeHZ3VmI0Z2VGRm9xZFhhclJNTEFUTXkzMlU?oc=5",
+"source": "Deadline",
+"published": 1794492480.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
 "key": "e76e1110c2933cd4",
 "title": "DuPont partners with Microsoft and NobleAI on AI tools for R&D",
 "summary": "",
@@ -85,12 +634,36 @@
 "keywords": []
 },
 {
+"key": "d4511a3e865daf1b",
+"title": "Huang, Face of the AI Boom, Ousted by Nvidia Board as CEO",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZEt6Rnp1a2x5UjJnTnQ0S0s1RDA5SkhBc0VWbHE5Y0YwU3dlbjN5MGxacXZHbnZVNjN3dG1uZWlhcVpXeFZSQy1LZWt2dlVmajBCdUR1YThadWplblgteE1jNVBFYWlKcVluSzFWS0Y0UzBiNGtNNFl2UUE5NGNCdnJ2QXZYVktYM3VyQ0lKQzFCaGtlcV9DRTA0c3JqbGFPeG9OSGxlTkh6QXZ2Z2pEZGpROA?oc=5",
+"source": "Bloomberg.com",
+"published": 1794492265.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
 "key": "f5a785f96c85d9b4",
 "title": "Nvidia CEO Jensen Huang Resigns",
 "summary": "",
 "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxON2VaZ01EcWdXc1ZGb3plNUNMM294WGZlT0tTbWw2SFNPOHZ3ZERtQlR6RkhLRWF2cHExRnNfWGZINm1NWVoxVjRSUDRTVXRFb1RaRGcyMXFUdEd0LWtlME5SVHJETVdzOHR6eHhyNXJLVXF6cldFbnhHMXcydFMzTGhzVnhWN2RQX2d0X1N4QVZvdUU?oc=5",
 "source": "WSJ",
 "published": 1794492240.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "25b452064655d2d4",
+"title": "Jensen Huang Just Resigned and Nvidia Has No Permanent CEO. The Last Company That Did That Left Shareholders 17 Points Behind the Market",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZVlXbDF4Y1ZhbW1NemxHNXNidXJnNUlnRk92MWlrNTR5NHRwRjhmSzRZSjVHb1FUeVRUX0VKdmt1cTBqVXJ3VGNXZW04YTJEdTc3R01nQkxQeEVtWURaUUttLUJab2J1cXlhWkZJb3ZLOHhnTDlhLWs0M2J6d2w5cDlGSVVrTW42WmJpZVJ5TVZkbDN2d2gwMjVGX0RDQTA?oc=5",
+"source": "Yahoo Finance",
+"published": 1794492237.0,
 "stocks": [
 "Nvidia (NVDA)"
 ],
@@ -145,6 +718,30 @@
 "keywords": []
 },
 {
+"key": "90458cff3b7f1361",
+"title": "Jensen Huang resigns as Nvidia CEO after alleged affairs",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMWVZVkVvX3UtNnFXSVJETEx3Yl9HYzM4cnc5YTEteEdUdXlfQllBdzlod3p1NEtUUWQzcHktdVdEYWR1c2dhYkNPQjJzcXJNVVdCcWNFWlI4a1NjMkNJV3BGVXl2TGFPQ0FlY2xrYS1Ua01WdmNNaFNnZ2k3ZVBhY1JFemVfVm4wZHc?oc=5",
+"source": "The Guardian",
+"published": 1794492000.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "df58b89045d13b86",
+"title": "Nvidia CEO Jensen Huang resigns amid affair scandals",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaGdweXF1cjU3bERrSG9hbnFlUHJJVFhzS0dWWFdWdTBDcDRaQnlmT2lUenRvVjZ1eURUYWNBLW9mTzQ2eU1KVGJiMGRoWVA4MjZYVlQydHVaYktXTUt5REJVSjlYNzNoUjBJUlAzUkozMmhHd1Ytb01vaTNBVV9PNWtaaXbSAYoBQVVfeXFMTzRzRDhIQ0FCOGN2bEs5R05ZQndCZ1V6UVNfeHlYNG5GMW9taGVOUWkwaHdaNHhCdEo0Q2dndmQtbFhER3RYb0I5YXU2SkVPbzZCRFdhQmU4Zl9MaXEyY0puZGw3TldkMG5TREFQZEZleV9wU2Q4bzhYbjMtSkY0em1wVUFfZnF6RGp3?oc=5",
+"source": "The Hill",
+"published": 1794492000.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
 "key": "ee34ba521fa42fa8",
 "title": "Nvidia CEO Jensen Huang resigns immediately",
 "summary": "",
@@ -181,12 +778,48 @@
 "keywords": []
 },
 {
+"key": "564815d7cbda5ea3",
+"title": "Jensen Huang Resigns as Nvidia CEO",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE92dk5ncERsbDRoczBYbGVTNU5VbERBVUlmbGFJS3BQcDFqcU50eGVCUElWYUg0bl9nTDd4OWV2WXMwSUJmUnQ1eFBLRVNacjF3Q1FxOFNBWUJMWU1VN3U1dGw2OUFYamZaV2hUdkhoQlA?oc=5",
+"source": "WIRED",
+"published": 1794491880.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
 "key": "3ff0f801ee8c1e9d",
 "title": "Nvidia CEO Jensen Huang to step down in big blow to AI boom",
 "summary": "",
 "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMEFwN0FWdjB6blNtR0RZaTBWZXZDaWVwYkhXREttY2FaYVNNVC1qNEFHYm9Yd1pDODBDN2tvNzhnMTY4cmxWYTg1WVFidzFlNVFEdlZNb3IyZG1nS2FKcHAzUERhQW9EdG9oOER6YmwydXZOd0t1VHRub1BCdFdoR1V4dktlUVUydjZWeU53aVdKMGwtOGFtZmd2T3VhODF3eXhPazVtbV81b0hpUi1vcw?oc=5",
 "source": "Reuters",
 "published": 1794491866.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "e52343baaae0639a",
+"title": "Nvidia CEO Jensen Huang resigns in wake of affair with woman suspected of spying for China",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBZT1ZmbWY1Z3Q4cE5KVWVRcWtIVkZwbFZIMzA3THRlTU1tUkM4Zi1ESHpicTFjYjlWblR0MW5TMUZMNy1MWFVzZGxPdXJzU3BIM2g4aGRSaXU3M3VHWVRfZGV5SWJLcjd2WXA3UUxn?oc=5",
+"source": "CBS News",
+"published": 1794491820.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "ae64446a3275af64",
+"title": "Jensen Huang quits as Nvidia CEO in wake of Chinese 'spy' scandal and second alleged affair",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNTM0eHNURWtpbmx3RGZUOVotcjA2SmRsSl9GdXpQdEZUQVluV0M1eDJYSWVmdHVPVHl3WFlDTlkyU2xFZFV4WU96T0VDZ0JQQ1llRnlWeGlPXzd0bXMxRmY2cUN0RnhQdXhLcThNUW9ZVHZyX3BMNksycm1lLWNjaWhZNzh0QmdfTV9FMGhNZld2eTc3TG9UVFR4eVo2SjVkN2xkR0FTSy05cV81ekd3ZGxUek1rQ01fWWVUZU5MRkNGQkY3bXVlRThn?oc=5",
+"source": "New York Post",
+"published": 1794491760.0,
 "stocks": [
 "Nvidia (NVDA)"
 ],
@@ -215,6 +848,18 @@
 "published": 1794491718.0,
 "stocks": [
 "Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "e4b5950c64396722",
+"title": "Tesla to keep producing Cybertrucks until the end of next summer",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSm14d09zX0hzTVJ3aV8zRGY0NjVYckZXUWtINDdOV2s0TzRCLTFHbk90a1FsTGlxcFYzclI3UGx0SDVJVGJxRlRJdmNEd0stZ3RFRDd1UldCQ0otU3BmMFdZbHRwS1VEeTRIU3lzNjZfNEEzOEI2VjJDTkJkQzZYZUpvNVNDNVlXOWZVWkdsRTZDdTZKNVlLZlBoeWxoRUl1T29ZSUphempFR3BYcGk0?oc=5",
+"source": "Mashable SEA",
+"published": 1794491709.0,
+"stocks": [
+"Tesla (TSLA)"
 ],
 "keywords": []
 },
@@ -291,6 +936,18 @@
 "keywords": []
 },
 {
+"key": "dfe90a796353829c",
+"title": "Meet Colette Kress, the finance chief steering Nvidia through its first CEO transition",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVFBZWEVndHlqVFZvWDB2RFZpRldQT0dhTXhBTk5SaFA5ZmJjT2lwT0h4cTVSWHRhajlZc042Y2UwYW5uZHFPdWdzRktqcUVtY1NsRG9CSTR1c2x6cVhKci1Ob3hYZ0pvWVU3aE1nbkw4S1ZOanJXUGJEdWRyV3pHajdNdGVyczlIQ2pQUlA5c3B2VmZGaXAtRnF4QmxiUQ?oc=5",
+"source": "Business Insider",
+"published": 1794491640.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
 "key": "38d06691890d87e1",
 "title": "Tesla Robotaxi reaches milestone with 24/7 service in every city",
 "summary": "",
@@ -301,6 +958,30 @@
 "Tesla (TSLA)"
 ],
 "keywords": []
+},
+{
+"key": "54cfa51245f489c0",
+"title": "Nvidia CEO Jensen Huang resigns amid spy, affair scandals",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPX2RRWEQ2Q1hFdkgyN25QY0E2S3p3X1lxc0c0QTlreWVJeGxpMlY0MmhmZlpQUUgtS3J4cmVmS3VjdnBZY051X09DMTVpeWpUY3M1SnUyR0VBdlVoT0F6QUZIVmpfcVBCb29zNUliekFCVl9YMUh0YjltRkp2Ujl1emlMMnNieGhvLU0tcXpn?oc=5",
+"source": "The Verge",
+"published": 1794491596.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "5471f4c5ec85e895",
+"title": "History Says the Nasdaq Will Soar Once Again in 2027 After the Sell-Off. The Best Growth Stock to Buy Before That Happens",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPdGIwSXlJeGZBR0daamc3dldTSkF4S0FKOFc0VDF6UmRYNG1UWnRlaENGMExMWVJJMUw0OU1wWTNvY2RyN0RfRzJVRUZFX294SXBWX01CT0dEcC1ucjBKY2RyYjdmcWtYMVl3U3NQTmd2MDM0alRSU2JfdDdEWFJEdHBIX25XZmRYRGpQV29YVzBrZExEOVVORS13ZlVvdlhZMkl6bF9CUUVrWmJfZG5saXoxOWNtU2NJOUprc2VNeUxVYzdQRnphbmVCM0dFMmZSMDZKd19tb0s1REs3NlZPbEFFTmVYMFZRajBlSFB5bU1PQ0VyUEE?oc=5",
+"source": "The Motley Fool",
+"published": 1794491580.0,
+"stocks": [],
+"keywords": [
+"sell-off"
+]
 },
 {
 "key": "bd1abe82be3b6a12",
@@ -351,6 +1032,30 @@
 "keywords": []
 },
 {
+"key": "8b3053afdfc44cc4",
+"title": "Nvidia on track to lose more than $700 billion in value as Jensen Huang resigns",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBQWTZNczhWU2w3cmgtbk0xU1NZT045SDJYRjlXX3JYMllaeVQ3NzR3ak9zRjZfdmVqSjdmNm5Zczc0MjFUN00wR3pDVlFaNExfcll6cWpwSWpacFBGXzZqaHNaQUIzUVhEUE1hMktzY3R3Zw?oc=5",
+"source": "CBS News",
+"published": 1794491460.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "c29562a5916303c6",
+"title": "Jensen Huang is out as Nvidia CEO",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdWUtVzZweFIzalQ5TGhyN0lmLTBoZ1VEQnpNLWtoZlR3SFliTjNRTzZfSjR6SlJoRXY0YzZYMHVXSUoxZVVZWmJ2WUYzU3pCVHhXZ2lJZHJfRkxQN1lqcTJxWDdoN1hsWWhURElFTTI0LW1nRGUxSmZLbnB1WUlMUHBGVFNVY3M2TFgwTlRR?oc=5",
+"source": "Business Insider",
+"published": 1794491400.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
 "key": "587b4bdfb2a9d58d",
 "title": "Jensen Huang exits Nvidia after 33 years as scandal widens over alleged affairs",
 "summary": "",
@@ -381,6 +1086,18 @@
 "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMW1VQ1JJNDFHcTRYenF1X1dGNjlybnJCM1VZY0xPMVljZGZPR3g4TEVPUmlJcTlyZFF0Q0YwVXhKSFhEWjR5TDJGS1Jmc21CX2hyVlhaaXFPNmptLW4xeTY2bllsSW5TRmxMaTNjOFk3UGNzNGxvUHpIZlJPNzYzT1hId1dhMU5tYWMwWUtrR3JTanAxaGhqRXFsOGdVZUsxeTR3Z09tZjhQZFJCNzNPcmUxU3B3RDBTTFZvVWlib1BhWG1SWGc?oc=5",
 "source": "Reuters",
 "published": 1794491270.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "49a8924de55d3c08",
+"title": "‘No family dinners’: AMD boss Lisa Su, 57, is Jensen Huang’s cousin — now she’s on the list to replace him at Nvidia",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYlRDZkI0b0dBUUxRcXluM0R5eHdJdGp5Z1hkSmRtYU5TZnFUZ1djUFpoaEx2TndXczlrcGFWQy12RWRBR1A3NjJyRHNfbzRLNEZDUDRpVXdEMldrdHZrb216ZEZHOWtKcU5xZmctYWk4b0pWSmJEa2xsX196VDh5QnZiTk9QZi1Yd3R0MVE3VHlSSFc3a0E?oc=5",
+"source": "Yahoo Finance",
+"published": 1794491100.0,
 "stocks": [
 "Nvidia (NVDA)"
 ],
@@ -471,6 +1188,18 @@
 "keywords": []
 },
 {
+"key": "bfc11eb7002fdf28",
+"title": "Anthropic Expands Claude's Workplace Arsenal to Rival Google and Microsoft: What Its New AI Tools Can Do Differently",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOFlKazMzeXpYWmVXT1dIaXE3ZUtaVHB1NHItY09pUVptSmtOYlBtZTRBUVprZ0pQaVRxQ0hhVGVrM0NYZkIwYWhxTXRnMkFfVlNaYTczR3EwYUdtNlVKQ1AtOExhcHhKcDUwckRudlNFVldkRVBKal96VU5QTk9ZM1ZYRzBVcGx5RWN2Y1VEZXgwX2xTSk9DclI5QlNlc0VmeFE?oc=5",
+"source": "Yahoo Tech",
+"published": 1794490207.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
 "key": "57b666303f18c2c7",
 "title": "Could $5,000 Invested in Nvidia Today Make You a Millionaire?",
 "summary": "",
@@ -527,6 +1256,18 @@
 "published": 1794489738.0,
 "stocks": [
 "Meta (META)"
+],
+"keywords": []
+},
+{
+"key": "1493838096d95622",
+"title": "Microsoft Edge Explained: 2026 Features, Privacy & Verdict",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5XRzZBd3FBSlJUeUxmbTVWdkNSYWs4STVsXy1xQWxmSmxaUldCM0NaemRKRjRmSXZDTUphUlJVSnhFT1otUUlsU2NWd1FkcGdySi1oMmVaNkNkNnVCMTBSRUxMcUY?oc=5",
+"source": "BetaNews",
+"published": 1794489652.0,
+"stocks": [
+"Microsoft (MSFT)"
 ],
 "keywords": []
 },
@@ -659,6 +1400,18 @@
 "published": 1794488460.0,
 "stocks": [
 "Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "06a2a7f1eff1de37",
+"title": "Woman sues Tesla after head-on crash on Bay Area highway known for street racing",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZWdDcVVsQllicWlmY2p1RklUNzBFMnpQT1BsczNmV0d0RlpIdzNrWnRkZUdUSGV2UXNDNnF6OXNvbUl5ay1iRnYyMTltYWJ1U2pCdlFsUnBnYXZYLW1PeFZtZDZ5cXpLa09ieUVZN0c5R0NIenNLM3JiR0JEck9aMmplNUQ2SW44?oc=5",
+"source": "Yahoo",
+"published": 1794488400.0,
+"stocks": [
+"Tesla (TSLA)"
 ],
 "keywords": []
 },
@@ -877,6 +1630,18 @@
 "published": 1794486611.0,
 "stocks": [
 "Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "72bf5b40f76d4750",
+"title": "Apple's Johny Srouji Eyed to Replace Nvidia CEO Jensen Huang",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRG5NQ0d3bExabGl6UHp6aE8xNFNuSG9tTkczeVhSZWxrOXptTndNRldHNUFQY3VJbUFCcFpaWUtDQi0yaDlWdEpGVTAzb3BwOWN3QnllWE91ZnBJMXNRMUlWY3M2Uk5MSTlzMDNWOFA2UURvaWxDcjZVMldkdDB6NFlpbmt4UQ?oc=5",
+"source": "MacRumors",
+"published": 1794486581.0,
+"stocks": [
+"Nvidia (NVDA)"
 ],
 "keywords": []
 },
@@ -1129,6 +1894,18 @@
 "published": 1794484887.0,
 "stocks": [
 "Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "a0e50b3bb6cc50fa",
+"title": "Tesla's Texas Robotaxi Fleet Tops Waymo: Should You Get Bullish?",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYVowWTJQSjB5OVd5MkpuTVV2OWRCOFNuMmtKckRCV0lGLWtQQUZIb05BSHBBbWdTOFJhdUFqaXZLaVBkU1pJLTFpQlhiOXFtVml1VUFLaTlvZGFvVldiQzNwN1kwZjBNVmVPVnpuWTVHeTZ1MnBVZVk0SzZfR3dUX2U5UUlqSE83WTFzZ29FTmtyV3NfaUp5X1pod0hyWXVEai1Baw?oc=5",
+"source": "Zacks Investment Research",
+"published": 1794484824.0,
+"stocks": [
+"Tesla (TSLA)"
 ],
 "keywords": []
 },
@@ -1525,6 +2302,18 @@
 "published": 1794481366.0,
 "stocks": [
 "Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "e33f769296a5ce43",
+"title": "Microsoft plans to build hyperscale data center on former Holy Cross farmland",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUS15Q01BOEZrYmFmVjVYcUNYMFlkM0x0bTRTZzhfUHRmNTJYNEkzd2xzX3VWZ2hUeVE3WDJwZ3d6ZDN2cjdudnZRdkcyejVlNnVkMk5qR1JDNGJUVlBSbFBxYWtTbVJiSDFnZU0zZ0YyVHRLTG9TS2hoMkpncmVlSk8wLS1HSXZDVVNadllBcU5FSmNuREtjaWdzU2dyYW40M0hDdWZIbW1OYkFwWjZBQUxvcDZJTm5KTnBFWHh1MUFPdw?oc=5",
+"source": "Observer Online",
+"published": 1794481363.0,
+"stocks": [
+"Microsoft (MSFT)"
 ],
 "keywords": []
 },
@@ -2045,6 +2834,18 @@
 "keywords": []
 },
 {
+"key": "553fe4e4f6634af0",
+"title": "Tesla Cybertruck RC Racer: $350, 37 MPH [2026]",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03bWEwTnhVa182bnFaakJsaURTSmhua0VkSC1lbUVibHdRTzJzV0FSYjRjenZzLS1TTGRsVEdTbEZ3RzJmZk5XWnJxdnZZUXNFdWN0ZExkbElFbmVTUWtzcDNmM25ES3VnOHFwSmhRNEI?oc=5",
+"source": "shattered.io",
+"published": 1794476706.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
 "key": "ea49359221132ccd",
 "title": "Tesla Cybertruck RC Racer: $350, 37 MPH Specs [2026]",
 "summary": "",
@@ -2500,6 +3301,18 @@
 "published": 1794474174.0,
 "stocks": [
 "Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "4eda29c87f1c5e74",
+"title": "Nvidia stock falls nearly 10% as CEO Jensen Huang announces resignation",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVFBOVnFZT1F2M3oteUktWm1qb29oLW5DLW9MZ2pBRzhEenlNZWFERC1NRXJlSV9saDN5MmNRZzdzQm0xQ0hWSzVpSktBSy00aDZlUTcyQzd2Vmlia1F1UTlEdE11anNMVE10RDNEVlc4cUlMcW5CRlpxaWFEbDh2Mg?oc=5",
+"source": "CNBC",
+"published": 1794474130.0,
+"stocks": [
+"Nvidia (NVDA)"
 ],
 "keywords": []
 },
@@ -4077,810 +4890,6 @@
 "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdXkxUWJQRHJTbE1fV2owQ3JablJRb3BMT2Z4dmVka0hCWmtVb3dFNVBxSTRHT09Lbm1jQU1wZnN5TUNBSDBJNzQ0OUFjTE1jaUI5SlYwb2xRQjVQSDBKVTdtYk85ZVRhSlZTSzBiemZqcTlHWjRtTnFQdkVzckRZNVhtejNYc2F2cnc?oc=5",
 "source": "Fortune",
 "published": 1794448860.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "b954c78fe9f8b45d",
-"title": "Nvidia board preparing to oust CEO Jensen Huang after 2nd affair with subordinate revealed, reports say",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUDZnYnlXdXcxMHZvOXpmV2sxSUUtZ01PMFNpR1dzUUFzVFlQdjJDQVhOeEctWE9GTjdUaklyNFVhMDVsZlJmWHdiV19leklaa29OaU5oVGNVVzV1TXNKUURfSkNwdUtCUm81R3g4a2UwOEpCeG1naEdQQUY5RUJ0UTVLNmd0c1VMa0hmbG05bE5FMzBnRVZ0UjJtQlRaejlsU0lsLVdKZFpEWS1DQ0N4amJ4VllZUTJ5MlZkQnhTemN3Z9IBxwFBVV95cUxORENGdVQzNHRxaENSd3RXd1owQjVtOTRDRGRmb29ybW5fQ0ZUMEE1eUxIdXpWbk4tNU9fWUFRcmZXU0FDdGpVa0JCV1daNmwzNUVfUkJWZlcxQ1N3T0xTdlI3T3dfT2hTMHJSbGVIekoyRlNnVnZsd2ctQWZVLTB2cHUzem4tR202c0RrMm9HbXVza08tOHB4cktYX3o2ZkxiSFBfWkFLT3E1cEVrSzVkcW9kdXhwbzAtbjlXRlhuV1hDTk9odXZV?oc=5",
-"source": "ABC7 Bay Area",
-"published": 1794448778.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "cacd7847e4e45da8",
-"title": "Tesla to wind down Cybertruck production next year",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVWI3ZVhncTgxUzEyeXFqNU9hZDZqQnROaWRsWGhRcWFkX1c2WHhhU19GQ2xxa2NyeGg3aGlZOEpIUUlNajZaYUFZYjV1V0FLbnVDMlVOVFo4cmxkUGRCY3NxdkxWYTlnd3pmSkNnMTE2NVUwTEZmbXNhZ3Nhd3l3T0Y1cGtMdjVUdTZLWkpPNTF0a2NEaDRGQlhMQ3dCQQ?oc=5",
-"source": "KOAA News 5",
-"published": 1794448663.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "2341eebc279b14e9",
-"title": "GOP senator feels ‘strongly’ Jensen Huang should resign at Nvidia",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSXJWS1p3UnhuRzJxaURZZHVwUFlFajJabDY4NF9tcDBwRWprUnhnWkhOakgwM1N6a3V1TTNmTDhWNzBqcFd6bHFFZElybHBlVkNVQ3paRXVKcVJHNVpBTzNNX3FxN0xyOTUtSUJsZTJwRFlUbXE1cjJ4am5sXzZEd0xGZjJpLTEyb2UzQjFtS2FNZ9IBlwFBVV95cUxPdTRpcTlTczVKRmlfUndPQ2NoYlF5VlMxQTlhUC1pellTQ1lHUHdwWjdlYl9NV2o1TDZMMm1BTWlqSmVYVDU1d0p3bmRyWkliUTNSRXhaLU5PSjVHTm1sc2p3OW5aeEpHbnZLeXdzZ3FEczhpWnJpVG5fQWJGdEFPQlF3MldfZWo4UnZnVzVJeEE0dEZpU19V?oc=5",
-"source": "The Hill",
-"published": 1794448620.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "eaa9e583f50cf0ce",
-"title": "Asian stocks fragile, Nvidia plummets as board to decide CEO's fate",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNV3B6b0hjZ0hod2RPeGhEbGNER2dVUk1vTU90aUI2V0U0WDJxVW9fUTBFc3NjRzEwXzZaNWYtY3VBcUhpZUlWS056MjItbGE0QTZvS2E1Q2tsdnYwd24yZU5aS1REMzVINTBjWTV3OWYwX1RGM21NdW9BeVBBUjRSMXZkcHRXd0tPUTBpNE5FWnBpdHVMcmhTMkd0bHVodnFxQUpR?oc=5",
-"source": "Yahoo Finance",
-"published": 1794448500.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "4223764eb5efecb0",
-"title": "Asian stocks fragile, Nvidia plummets as board to decide CEO's fate",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA1ODl5LXpyQ0RZanVjSnZGS1NjS1ljMjZvdW9xY3ZSSUxvNkY2Z3dCMThiSjdKNHI1TFRCZnBIRHdYY0UxTGh0QjRZX3Y2S25sY0k4M0dKN3VZdGNMSGk5N0tPUmVJa3ozWXRCcmluOWxVVjVfblRLdmttMA?oc=5",
-"source": "Reuters",
-"published": 1794448380.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "c51356f6befb26ce",
-"title": "Microsoft Ignite 2026 Kicks Off in San Francisco on November 17",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdUQzeHg5aExNMGlVUlg4SUV1WS14a29rQjR5OENKaWllVHV0bktGZWp5c0N4bllzZnFIcjJURHExZ1RWU01rbmNxQ2pUMUZNa1dKdnJYZ3dFbzJFS1hTcF9SanpBd2F4X2VEUmhZcHpRaXp6emlSWjVuN0ZlUWtYMWluYThJY2lPTFRtMkhiR0t0M3dGdzZ1UUo4Wm5Lek42NEh2RlY0UmxfUQ?oc=5",
-"source": "Inven Global",
-"published": 1794448300.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "51db3cd87826f49d",
-"title": "NYT reports Nvidia CEO had second extramarital relationship",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPY3FQcEhzTElDNjlfVHRkSEIxNWptVG52WGFvZk9nM2lIclo2U3dMTFBUVk1rNUViQzRaVGY2Y0pCcGtjNkhUZVR4OE5zbG83NURMNlJwbmJvRDJ1dk9mUDZwNV9ub1NMMkE0MmZmOVQwSEVZQnRtVGpIdDlSbjQ2QkpwZzJ6NGF3c0thcklzNFlmd3F6R2hrRHJMUGtsM0oxWHZmS2Vhdk9ndTctYTYtZWp6cld4Zw?oc=5",
-"source": "NBC News",
-"published": 1794448150.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "4932dcee926ae50b",
-"title": "Nvidia Stock Sinks as Jensen Huang Ouster Report Sends Investors Toward AMD, Broadcom",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRWhLdk5fdmlqYVlqUm5HM0JyQWMzemc2STRWcC16ODNaNWhmdWNyY0VSSElLMzlnQTBwbXNRUmtfUm1HYUs5ek9sRndOYjFnUlFYNUFHQVkwMjRiMmFJVTF0OXBEVm1WcWtqdlNtNUVIYWtJMDhPREJmbjFDd0hrNWd3TWwyOVNQRDJuTzhLN1NzWjFGU1pUZ0ZIWUM?oc=5",
-"source": "Yahoo Finance",
-"published": 1794448062.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "99989345dfcb0856",
-"title": "Once Hailed as Tesla’s “Best Product Ever”! Elon Musk Announces Change to Cybertruck Production Timeline",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTkVXX2RodHZnOUVZUW94T2d4X2ZJT21OUDJWUjJXME85M2czS1Nsb1NPQ0RvLXd4TGUzUXZFUFlLSUo4TmdackNaNXVQdGRpSk9hd1psVVd4TzZHOE1KN0pDT1NzR2dOQ3RrZFBSbHRTVWtMMjZTbFAtNXZLa3RpVTBtODBkamRkeVl2LVh3VmFxTHdGel9PNGtR?oc=5",
-"source": "Moomoo",
-"published": 1794447458.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "069663c4908cfa1f",
-"title": "Nvidia Board May Vote to Remove Jensen Huang as CEO Tonight. Here’s What Investors Need to Know.",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUzhSRWxqYzNXX3ZudGc0SWl2SU1kNFVjMmVTNThhV3NJMTRCdzhtVzFWV1JJS3NfWUpqVmhYTzBLd2pMdWJyS1RRVUI0elFPN0lPdk5KUEJTbzJhQnJXOGZGZVk3Z25VWWpfS1l5ODMyNDUwV3g1ckxjQWFZVW1WV3NqVmZNOFdsYmNxYVJpUE5EZjVVNHo3RA?oc=5",
-"source": "Yahoo Finance",
-"published": 1794447348.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "0f34bd7d8a314c7e",
-"title": "Nvidia Tumbles as Investors Consider Future Without CEO Huang",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSWt2M09CMmZEV2FtdDlsblRCTGFFZDZfcWNtSjdGQndIUlR1ajhVcFJGcTJuSzhQYzZsM0FyODI1dE9PaFR4TXU4dS10OERzWFhoSFhSeU8wNFh5RWgyNjM5QnRDVS1pZ2pHNUhseGVuUjdCTjJoajRQZjlmbzNkbkFscGFvTHRsV04zcldlcU5USkcyeExYemUwVkREeXR2SDdEWWNmOEhQeDREblduQlF3?oc=5",
-"source": "Bloomberg.com",
-"published": 1794447300.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "f7b91aae8e3a5edc",
-"title": "What smart people in business and tech are saying about the Nvidia board potentially ousting Jensen Huang",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRVZoY29KS0xrM2V1T3lMYmdEWF9nLU1YTzhuQWN1d1o4eTFJZmVBSjhrMHRObmxkeHFHR3NwR0dlRDRqcFZKV0dYU05FeGtHaGxmcUFGZ1VpMWtyN1BlTlktQWFPTXZpdjVPQ0ZwdWpTbU5yR0l2ZDFESDVsN19BUm1pMlp3MWwxUENkT0cxTEVGeFBlN2lwdS05TWZ5Zw?oc=5",
-"source": "Business Insider",
-"published": 1794447000.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "affda7861cfa1de8",
-"title": "Meet Ian Buck: The NVIDIA Executive Insiders Believe Is the One Man Who Can Replace Jensen Huang",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZW1ORmk3cVdkMDZ4UW5aZTdFbVQyQjV0M29rRGZxcmF2UlU3NUdfdDc0SU9IVkxrMURld3F0V1V0ajZDcUNNR3BxSzM1V01zYVNVbllBREE4OUI1R0taZHc2NXFRQ3UyRE1Rbm54UXBTNTNpc1lTOEFON2d1RjVTOE04T1gySTBaWXZQU2JPbmdwUmVxUTk0VW9ydw?oc=5",
-"source": "Yahoo Finance",
-"published": 1794446781.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "87dda6322cfcb97e",
-"title": "Alleged Chinese Spy at Center of Nvidia Firestorm Is in Beijing",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNUlsOXQyblE2RHpUVDdFYkhQR0hsbWt6V1ViYVUwNG5XWGNqY2pJcjN1Mkl1Nm1PWXIzTWo3Q1o5Z1ZLazJVejhlWkZhQjlnRGxkb2JvazZpT2tUU0h1Mk12MkNjeE82QVRyN2VRWDBTRDZiRDhrbFVpVlRoRFJ6R1pfWGJFUWZiaC1UX3FweFJGOEhwMW84Zmx5NjIyMHU0c25vbHNEUjRwczZjSzEzamZvVHg?oc=5",
-"source": "Bloomberg.com",
-"published": 1794446340.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "b24c503f233a9ed7",
-"title": "NVDA, AMD, SNDK, AVGO, AAPL: 5 Trending Stocks Today - NVIDIA (NASDAQ:NVDA)",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdVBaQ2NDX0VMX01GZk9ydUFlMWVNT04tY1pjVi1VaDNTOHNLbm9VMFYtNnAxTktMX1ZvTFFFcnRtbmNINEdqR0tqLXI4TXlqeEVPT3B4cU9IV3pzMjMxdVhmdGFWV242QlBneHpoVTY2YnRnT2wwN2UyYjBwTjBPZFM2UGV4eEpTSjFYdWVNS1N3TlVRLTNuTGd2VWhjdkxHU1VFeGh2VmlxV3dFV2RLSnI2WVlkcEJfNHNZbGZacThJSk1sRjg0TFZTUldsZjl2WDBVMmdpRzBDWm8?oc=5",
-"source": "Benzinga",
-"published": 1794446156.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "3c4271fba4965188",
-"title": "Cramer's stance on Nvidia's stock amid reports that CEO Jensen Huang may be ousted",
-"summary": "Jim Cramer said Wednesday night that he was saddened by a news report that indicated Nvidia's board of directors is preparing to fire Huang.",
-"link": "https://www.cnbc.com/investingclub/2026/11/11/jim-cramer-jensen-huang-nvidia-stock-advice.html",
-"source": "CNBC Top News",
-"published": 1794446061.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "3b023eec517fae80",
-"title": "Nvidia CEO faces allegations of second affair with employee after ties to Chinese woman suspected of espionage",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNVVB0dDJEQW85QUdlQ25MajUyc2QyeUI2RzhGMU1tMFl0ZGlZeUJlOGozbW9RZUhDbDlkZGhEbzVCVk84SjVSOHBhRm9vcW8tbGctS09oVnpKaFhmS1lRcmFRN2dIWm1lRTVSYmFKSEh4dG83aWtab3RvOE53YWRzT3g0WFdlY0M1OXN6SGZNbzI2bnN0cDdKWHMyTHladmV1Q2xmakljNExxbXctWWFKOXBLNEpBNzl5S29QYUJHelR5TVVKaFlrMzJVNXgyMERkNmdtSjB5dklPcEhxZ3lPQzY3OEVmQS1hM0Zqb2hIajU4Y1VKZlFUQVUzc196X3ZNbWdRMWRCUlhSOTA?oc=5",
-"source": "Le Monde.fr",
-"published": 1794445998.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "332834747c04f8fa",
-"title": "Nvidia stock falls 8% after report board is preparing to oust Jensen Huang after second affair",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWXg1b3NvTUx2YkVFRWswQzVlRnpNanlSTHlpbTBSS2ZjeFl6Rndwb3BOMGplOXhyYThZU0V0b1hDeFVsU3RDZk0ydXNRSlFub280YjNIcW5DY2FhVjlEYklWYU9NQTYzSkRkSHRrTWdrSlRmZkxYYVlXM0JaZ2RwWTRNSmZMcGJFd0w0TldoQTA2Q1g1NVNj?oc=5",
-"source": "Business Insider",
-"published": 1794445920.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "19c6d539a6536394",
-"title": "Nasdaq futures fall as Nvidia sinks 8% after hours on report board may oust Huang",
-"summary": "Stock futures were sliding Wednesday evening as a selloff in shares of Nvidia after the closing bell weighed on the Nasdaq-100 and dragged down shares of other chip makers.",
-"link": "https://www.marketwatch.com/story/nasdaq-futures-fall-as-nvidia-sinks-8-after-hours-on-report-board-may-oust-huang-e99b898d?mod=mw_rss_topstories",
-"source": "MarketWatch",
-"published": 1794445920.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "639da2c8a5340fd9",
-"title": "Nasdaq futures fall as Nvidia sinks 8% after hours on report board may oust Huang",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPODFpb01oaGZGanh5Njc3RFlNOTFqaTlIY3A1THoydTdUVmtrSEdaU0h3UzkzX3RMdVE4aTZzS3dsRW5CVTBqN3VPYlR4NExyeGd5aXNVVVZKemlkUmNvMWZUemVhTGtYMzQwMms5b3R1cUxNM0tVVUxlM3NyajJZNWZMaURIR3hzQU9YU0xpejZfTXl4dkdNcmh3S2djT3VxODBPLWZEbmJTWExINFhWWHcwaWRQczdOWjdiOWpISXk?oc=5",
-"source": "MarketWatch",
-"published": 1794445920.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "db0b59e9af119962",
-"title": "Nvidia’s Board May Oust Jensen Huang. 5 Major Consequences Could Follow",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVWRoemdUcWJTRjZ1U3R4amJ2dlhjNkFkd0pXVEFsUmtTTnpqX2t3R21MSDlZb1RyLXFYaW1HbHlmLTQtMjh5eXlmWFVjT0JDUDQzRW5ITWlTWGhJOWwwTnZyNEtVVEhab2ItTGw3Q2pjNzVPTFJVX3RnZ0tkYXA0TTh5VV96cWRJRXBzSWpiTGp4cldXYXJGU2hSSUFpNGxnSFUweE1nS3AtUWwzVDJjbg?oc=5",
-"source": "Inc.com",
-"published": 1794445542.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "ae9008bb3af6fb9a",
-"title": "Nvidia Board May Vote to Remove Jensen Huang as CEO Tonight. Here’s What Investors Need to Know.",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbC00Z3I5ZUhkWkp5RkpxalNEMkh0UDQyQ0wteWxQTk1tMXFVY2FNNkVJYnItTXhfMUhod2ZxY3UtUWl0RnZyZXFPZnZkRDNnMmhramsyWHl1WnJxYzFVYjhiRlZlSHVmNUd5UU9RcjA5enYyamlHMkpjNXpjdjB0VGdRdDFYTjZCR2F5ZEZTYmZjUWJIcmlpYjk0dUxGUzlRa2VOajRpT012YzY0VkJYbzZkcFZBWjZ6UjJxTk4yeTQyck5CX0Z2RDhmUUlWdnZ2QlZF?oc=5",
-"source": "The Motley Fool",
-"published": 1794445500.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "89c4470b3ae79fc9",
-"title": "Microsoft Spent $5.5B Less Than Expected and Azure Grew 48% Anyway",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPa1hKLTF4TTFaSGxmdjItVmF0YmxMRi1qakh2RVdjZmducGpleVpHdzRxNURGNkQ4TzVUU3BBS0hma2JORXlWTEE1NE9JN0t2X1YzdDZ0cXVaWHVVQ1JvcGR4ZThlWE5zM005R2JFanVOVFZNeXlOZW9hd3Z1MjdVLVoyV0UtNXktZ2cyajdB?oc=5",
-"source": "Global Data Center Hub",
-"published": 1794445278.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "cc14bf3a12b5ff37",
-"title": "Nvidia’s Disappearing Singapore Sales Deepen Mystery Around Megaspeed",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTVMxMWYtSHpfTEN1dUVzcTRpZDBkRUR4ZVBENFJxODZHaEg5WHp0ekZFdENtZEZrNDl5eENKWW11LVJFSGd4T0Y0TVNEQU0wRUhoMW5HMVdsUmZmQThZVV9WdmVXc3ZGM0F5Wk1kRlM0TEFXbG51WUNyWGt3WXlRU1I2cmNoNmNocEtkdkktdU9NTVA1dUhiWHlYRG44aUxTM3VlVmdzOU41T3Z4aGxKbkw4VG5RZw?oc=5",
-"source": "WSJ",
-"published": 1794445200.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "d53530df44ae828f",
-"title": "Microsoft Researchers Reveal How Tiny Weight Edits Can Hijack AI Models",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNemxYaHVTeHJ5WjItNmdqYVA3ejZvTkNXeXNwdVZ4NTZxR0dHb0JFRXlwaWFlaHlfZExxSHBxd3JmQTNSNUVPRkp2WFBlQ2V2MFd6dk5kd282YzlRVXNzZjhHa0dKVkg3TjF6d0ppQzZua3pHdXktMW9NLVhMRE1ZYjlKc0FMQ0FIcjhCYWQ2OEFXTGUtWkpwcnJLczVmdFE5S1Q1ODhGZW4xVDZFamFN?oc=5",
-"source": "Security Boulevard",
-"published": 1794444975.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "1da846baf5611a22",
-"title": "Cramer's stance on Nvidia's stock amid reports that CEO Jensen Huang may be ousted",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaW1tUGR6WFlEVmNGLXlEaVd2UnBSdkRKRlRxYUtieXVsbHh5WWRpNWUtMnp3WTRNUHhaYllYdG5MZEN4czNyUXJ6TVpyc2F6U0NBN3ZvM1pxWkJWSDREa0dJSlctQXQ1eGl4R3BHUTU3WEVIdTZWeGdOT0hVcHNzcVp5NklibXIwalRQWTkxcHBOdjNlXy1nSDVR?oc=5",
-"source": "CNBC",
-"published": 1794444840.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "111e3bd048185424",
-"title": "From client zero to value: Frontier Firm transformation with EY and Microsoft",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ2FHWU8wX21oc0IxTzJqd3VXcHZEMHF5NE9ZSzJmS3Fub0dQVWNRMmlVZnNHandDQzRZYVBpeUdzU2daTnNjNnpoZjlKTEJiZmRERTJkMXM5dng0dEdaaFNySEVaejE3eGhSVDNCa2NHUjF1MnkzMmlBV2x5SldXNlhMODFsWFgxYlNzaDhhR3NFUGtIYXY0aUlpQlNrOTBR?oc=5",
-"source": "EY",
-"published": 1794444826.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "54dd8c121aff2246",
-"title": "Nvidia board weighs fate of CEO Jensen Huang after affair with alleged Chinese spy",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRHgyQ1hDQlhOb0JIMEptNHA2VFpUZDFuYWl5R0RwSlpjYXNIMnJ1M0dVNnFlSUxkOVF5RFE3MUNPZWtKTkR1M3pNTEI2cC15ZGhvN240YTd0QTNYZEowNFNobjdSNm1WY1RlRXoyMUdaUE41TGtzWUNGeTFENG1PY3BNa1c5MHczSzJ4V1VZbjVISmZKOHpwNFFhOVdCZnRjSWtuM0c5WTVZa0lmS3o3YnJ5Q1pvZXo3LWtfRmV3?oc=5",
-"source": "The Washington Post",
-"published": 1794444735.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "ac17c1d2946d0c0d",
-"title": "Nvidia shares plunge amid reports board to discuss CEO Huang’s future",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNHVDc0MwMi02LVVoYnBFeGowTnN1dWJEeld1bkNFajhxbXdkekR0enhMOXFCMV92LUFSMGF2UkNzaUVIeDA3Qml5X2FsSjZWUVdZNUVleEFlZHFHZkthQU9tRHhjekFNNUt5SHc4MWM5XzdqLWM5TmRTZVVXMTk4djFhZ3ZheklQQjl5Wkt6VEx2R0NyV3lHRV92SDVQOEtrUkoyY29IQ3cyejhoV3RNd1NNZ9IBuAFBVV95cUxNOXF5RXFqV3RkNlFGNjFmUFFzUVFmZGpyOUdJV1R3NUw2YXlacktFQmhkMXRNUVdpYTFWSHhSYkhUclJsbDNOMGpCc29BbWJxdldXZ1B6SUN3VVdhNDF4d3VsTkNxY1ppRVFxS0hDdFhBN21YcTFXYTdkV0pPTTkxQ0lnUGF2Ri1YQTYwRkxudlV6RUlqaFk4U1lRcFlqeEdVejJwTlU5MG5sODRVOUJaazFKcURFTGN5?oc=5",
-"source": "Al Jazeera",
-"published": 1794444656.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "8c779bdba91874d4",
-"title": "Nvidia Board Weighs Jensen Huang Exit as Stock Faces Risk",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMGFyQXVscjdOdk0tZEtQVGxvZldibmJWOTdnd2xHeUNqY3hXOC0yZHV0Nlp4a09STkRhakhpTEUyUnV3UGRBMGlhRVdmWmR4V1hsNjNmZEFvOTQwSVR2bmR3Z0N1ckhxNEtNOHFoMGFLZ1hGVDlUcjhXd1FMMm54NHdFUWs2bV9mS29JOF9hWmJ5R3VMOHJ0bkZPSXF0T0dySU45bFVtV1RSa19xbl94a3lvalRrenM?oc=5",
-"source": "Forbes",
-"published": 1794444546.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "9797a53625b64f32",
-"title": "If Jensen Huang Goes, Nvidia Stock And The AI Industry May Suffer",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMGFyQXVscjdOdk0tZEtQVGxvZldibmJWOTdnd2xHeUNqY3hXOC0yZHV0Nlp4a09STkRhakhpTEUyUnV3UGRBMGlhRVdmWmR4V1hsNjNmZEFvOTQwSVR2bmR3Z0N1ckhxNEtNOHFoMGFLZ1hGVDlUcjhXd1FMMm54NHdFUWs2bV9mS29JOF9hWmJ5R3VMOHJ0bkZPSXF0T0dySU45bFVtV1RSa19xbl94a3lvalRrenM?oc=5",
-"source": "Forbes",
-"published": 1794444546.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "63ab036d91b31499",
-"title": "Futures Fall As Nvidia May Oust CEO Huang; Spoils Big AI-Led Rally?",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcUpoYWFMS1RDQXdNTV9hZ1pqaEhfbURMRzJmTjFnTmh4NjVzbnlOWG1YbVEtZGV4Sld1TElyTXFxR0pjekk5MFUzLUNfc3JPNkY5TnlsVFFFQlN6RUw4dnNRTGw2YVN3MDIzdHRDLXNvaHFCVko5UDVWTE0teDV1SHRHOWhDU1Rlc3VITHB1S0dfWDVKQlJwaUc2TGhsSUJPTnNfdFhwOWlrMWdmNXpSMlVwUldULXRINEE?oc=5",
-"source": "Investor's Business Daily",
-"published": 1794444540.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "48151bb3ed016994",
-"title": "Nvidia Export Curbs Could Shift AI Demand Toward These Data Center Stocks",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVTJUV2NtRlFXRDJLbmcwQmp2Zk1FTnJ2MDlNUGM5c0htWHFVZ3RBLXdvcWtVc3NFUFRpRzNmUGozY3pROG90U2c5cDFSQ09Xbm1jLWhRVGhyZFhjcFVwSkVZQnFTTVAtREFyU011VlJhUkV1eUtwQjZNdHNhZmRQWXlaVnhFZ2MwTHdKaWNGWDBtOGxrSlFXTHE5VQ?oc=5",
-"source": "Yahoo Finance",
-"published": 1794444187.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "f5208e75df957bc8",
-"title": "Stock Market Today: Nvidia Stock Slides 8% After Hours as Board Weighs Jensen Huang’s Future",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTEdzSDBUcDRkbjFSR2RCYVNiR2c1NUUwRnNibUxEOGhNOVdPVkltT2VzcVhzeVFuZFAzZndUWE5RYzdQdXg5N1VCdXdDRDJBMWhJRlAtWXg3NTNteFB5YnpLa2ZuWDJ5ODRFR2h1SWI1UUlkVDZvVE4tSE9SYzVxVEZuZ2ZiaUV3b2VxQmpfVXptRWpKWktOV0hFMDBjc2lEMjVJbzMyQk8zT1AyR3lsVDVLTUhhcE1hRE1JMlZKYkNTZVZaeDJ4TXYyU3REdw?oc=5",
-"source": "Eurasia Business News",
-"published": 1794443596.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "7ad644f0ed81636c",
-"title": "Microsoft data centers bring tax revenue and jobs to small Washington town",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQdWxDTlBCVVRDX2JqaFh1a081elc3UC1ERWhkTWFoU0VZa19OY0ExeWN2ZEp1dUxQS05pN1RVdjV2YlMwSWE1eXM4elk0MkFSemFoN1gwc1dXWG5WY2hXQXBESWlOSTB6UUYtY2kxb21UZGxJSUR1OVFBdm9nZWR0SGk4STEyRHU5YS1RMFFrQVZRN3JuOUlIZTBwbjVPZURxQkFMSlVUdndFZUtSVmRBbHktMmxFYUZheE45bGhtN1ZQM3ZRTUVuNGI5SUdlRkhEX2M3QVN6R1RUSjdSNTV6dGxBdElxN0FXbVdCbg?oc=5",
-"source": "KHOU",
-"published": 1794443329.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "35c2da2fa262dcee",
-"title": "IBM and Microsoft unveil Imagine Enterprise for workplace AI agents",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS0k4ZERTOXN1QkVIbGFNN0FqOWdVYkNZODVOdFFzcVNtQ0hwY0V5UFI4VHB4c1E5czFXN1FjTDNJbVZycFpDVjdZYThOZFNNb2N2VUJJS2RIaWlPNXNia0F5bi1MT1lWUHNTU0dieXNJMGtOWDM5dFpSSUFIbDRnbGNYNDhGYWU0RXZBcHZob044YnNmcG9Mb2s2T3ZSVWkzeTZvcGd1eUJpMGxv?oc=5",
-"source": "EdTech Innovation Hub",
-"published": 1794443213.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "28c1421ba244660e",
-"title": "Nvidia Stock Sinks as Jensen Huang Ouster Report Sends Investors Toward AMD, Broadcom - Broadcom (NASDAQ",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObTFTMVpaa04yajI5ay1ta1lWaWtQX0ZCb29TTTRkRS1QdlVoMzVLckpMS3ZnWWJkTlptbHp4c01XR1lvMEFwcW9IWDNxWFQxeldlZ2hLejhZS00zX2VTNE9mV1ZncElVclk0N1FBTFdOZHN0ZlppbUNPSS02TlgtZjdpcUlNZzl0a1BJcVhpMm0zeVQzNVNGb3RKN0RpQmJFRWtUU0w1SVYwdTNEMElSXw?oc=5",
-"source": "Benzinga",
-"published": 1794443104.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "864c3e543470e86f",
-"title": "Here's What a $10,000 Investment in Nvidia Could Be Worth if Jensen Huang Is Removed as CEO, According to Wall Street Analyst Dan Ives",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNMGZYc1p2SjB1clhNTG5QazVfT25oZDJuN0VTNVI4ZExERmJHcW54TjQyVGVlbkJ2YTcyYUdVYjM4ODBsSjVqenZvYmFVWV9VWHk1YkRIREZ3aWdEUlVHYVdWNVJsRlBvTW5fM0FDS3h5cUFYNG9haXBxYWlrc2pyb1NqNV96NEFsS1QxcmpNbnhHcm9RUmV2R0NRYVhrbGFSV1ZxbHNRZExEOUV4QVhuQkF1S2FOSG9MejFEbU0td1M2V2pZMFJVTkNOQklITXlxcmJ1QWUzbF9mY2tGaTZMeFhqRHpidDB0bFpILXNsblhaMjRwX0RNZi1JNGtJdF9MY1Yxb0RfTUhUZw?oc=5",
-"source": "The Motley Fool",
-"published": 1794442800.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "72f6a153211b2502",
-"title": "Microsoft adds ways to turn off AI features in Bing",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVnM1enlERFFWczFmTWl2WTVqc1lWTTZDT19tVlQwS1VfbmdtUm10OGk0OTJacGd5aW5YOEVYNFVsaGNJZFRqVDRzd1ZweFdGaTZ1UzRKaTZwYjNCOEpfakVJVXp4VTdoZXNVU2VEeURwQ3dKanV0b3pxVHVUcUx2ZnFnZFc?oc=5",
-"source": "Mezha.net",
-"published": 1794442629.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "f2ccf9b0c9fc91b8",
-"title": "Nvidia preparing to replace CEO Jensen Huang as second alleged affair emerges: report",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeWN0ekV3QWFzaGtVZkZ0bzZDWVZ0WWdITi0zQ3ZDRG1ONVo5TFo3a3NmcHJIcE9QeUFWZmFfT0xqQ2ZPckE3S0g3Q2dMZDFqT0pXVU54R3V1RjJ0dl9LNlJaVWJYaV9ZT0E4SFhuWk9kWVFaV0lsZF91NmpWWFpjZVpzVEdXWnZxMzNNRWJHRG5CVHluWE5VZ0lKTjVTRzhIUnJZVVF4bS1ETXJReTl3Rlp3YzPSAboBQVVfeXFMTnZxcUR0OXRBUHlvbXpCMTl2VXk2Z1h4RzI4X0RrMTdYYk1OV3VESmJRcExhc0RvS2NSVFF6cXd0MnJyd2lvRkpMSVBlODNReEtIbEtKZWhxbzd3ZW92VFVucThWbENtT29oWWdnT2I3NzNuZ0luUi1zaTlBcUlnamhxNmVzTEh0aDhzb3hfRVhwNnVIam1HYkhFd1cwa1RwN1NBaThkcTROZVlpc1F5TEdUYkQ0clR6MG5R?oc=5",
-"source": "Fox Business",
-"published": 1794442380.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "6056a4df173beff1",
-"title": "Microsoft Wants to Power Data Centers Without Subsidies or Higher Costs for Others",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUWplZVppaFdmdU9GbmZuN2dDNU9YODMzWW9CeERreGxqTlZfb1g0cVpuNjJKblNwS0VjNmlnejdpQ2hnTW9JRG9EUzNPZTVVSHVsWFY1eHBjVWtUSmtKNGVRZXBGX1ZHZFZmTzBtbVh4bldHM2ZzQ2QtSHpZSWEzMW5odV80UmMxWDdGc3d4dmxpdEFlTXhEVHM1MTJycXNldDhHYkdnUE9qZEpFQzZSWGdjZXdVaFhqOTlET1FHNzAtZEJTTTd4X3Z0dUFqV1NN?oc=5",
-"source": "marketscreener.com",
-"published": 1794442152.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "8ef2cb42dfc05a9f",
-"title": "Nvidia Falls After Report of Huang Affair With Executive",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONWZNWExZYzhIc3I3VXR0N2ZVQ2NTXzZzdmNyWUxxc2JpeGVYbS1zb0U1cXkxcldyVHBoUkVLVkFfOUUwR1dlVl84ZlpxRmpyM1YwaEJ5Y3RuX2tIcHl1QzF2bDdSS2pSWk8zY2NsWGFZRUpJdEF2ODlRdnFvc0ZUY2xydkhhRlBQNDB0U28wa3BLZjhC?oc=5",
-"source": "The Defiant",
-"published": 1794442148.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "bd31bc6d2e87f9fc",
-"title": "This Startup Guts Used Tesla Model 3s and Builds Vans That Still Supercharge",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYzlFVzhRb2Z1VVYzUjRJdFJLM1lpTHVBNzZaZGJoUE9QSkI2aHBfa1ljaktrTmFlak9tbkZhOEN2LS16SDhhSFFPSXJPY1dtRFJZWEJaUlBtQU1xWk9QOU9DZWtma0cyZnZ5X3I4OUNocko1UG5RQVcwRDlSei12dEdBRGJ6NkFFV3NfWGVEdS1vWTRUdlJWdW43em9peDUydklVLUVsQkpYdw?oc=5",
-"source": "MotorBiscuit",
-"published": 1794442081.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "ec150900c9316141",
-"title": "Nvidia Working With Outside Firm to Identify CEO Candidates",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORHllMDhIbXY1YUhLY2tZa2pNZUlzQkxlaGxGZ1pPdWI4SmxBZV9WYnlrR2hwclRrQVFXTHl5NnBBMWx1b0loTVNEUUhoR01HQ1A5ZXFoMVI1Q0xkSGRmVGtma3QxWGlrdmpCYklUZGZoRmlFYVlfQURLNUE4OVFzSnZRdG9NY3UtZ2VvOUJZY2hmV3pBenBmVlhEaEJpNW5uTHdjTlRwd2lCc3lVWmNz?oc=5",
-"source": "Bloomberg.com",
-"published": 1794441900.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "4f97523b4513bf22",
-"title": "Microsoft Wants To Power Data Centers Without Subsidies",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUnVnMDRHbF9lMmFfQjVSZzZEd2p4dGJBVm5HYjNxU0luX2VFUjVFM1dGMlFQMmVjZlpnTHJTTG5QNWdSZDlnUDFKWVhFTWZ4ZWF6SXdGb2lmNXdNMk95N2h6LXhjbFdzSGdfcWRWZmZnbW5NaEZsMG9SSmlSNHdfdGRFTi12ZXlCb19SdQ?oc=5",
-"source": "Finimize",
-"published": 1794441860.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "31120091d1349cdf",
-"title": "Microsoft's Auto SR Upscaler Goes Handheld on Xbox Ally X and X20, Gains 120 FPS Mode",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOR3NCZWV4WklBbGtJRlM4RUdzVTB5QUxHbmdTenZNM0wyYlNaVUVLYUVCVmtHSXlpVEdOSG9XNUpXOElsc3JaV2lXcUFuTGV1SVlYenpXYWlhSk5vSExsMFZ3YlozWEZ3ZEI4VG5CTElvZV9ON1JpYUZnQXJuWldJZ0xRQTkyT3NSMW5kSEpCSFphRHZlRGRQVEpPelJ6cHRQQWdqblRhdmVZS0MyXzhmUW1RY1J1M19uQWfSAb8BQVVfeXFMUEZrODQ5NmdKdG5ITGxzSlJVM21yaUVQYU1xZmc3OTA1cTl2OGp0Q0NkS3VoUnl4eFRyNlF2MFhKc1RsX1lLNGFDanlqQi1EZkJOVUZiV1MzSnJwckZGaHkyVmM5WC1YUjZwTE1GeDQ5N3V3T3Z1UlhWZEp1N0pPdXp3TmNXWU51bU80WmFwNDV6bjZYVzA4RWxYWUVhQjluR3RlWUpRM1Z5d0NORmdpcGg5S2hONndyUEh3X0xOaVU?oc=5",
-"source": "TechPowerUp",
-"published": 1794441858.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "bc86031447a1ff72",
-"title": "Microsoft admits people don't want AI in search, releases new tools to let you turn it off on Bing: \"Users want to have the option to choose whether or not AI is involved\"",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNZEFWQnA5M2haRzdNV2xRNWh0X2RhelJkS2ZwX25MbVlqcFNoMk9UUUs4SUgtMF8zYTdOeXl2SDJzbnN2VEtxaXlqUzM3WGFjN2p2S1FoSHRWNlN4LUNNSFprbjlGMlBNb0pGNTdEOG9YVmJEUHJIaXRxaHc2dW12T1FoVHJBZkU4VEZ3RUk5dF90cGhfNWktMk5WeV9IV1ZpczZwQlZZWjgtVGx0X0NVZW5SSFZSZjh3RW56NDJ4bmlpOGdXTnBWNDFMS1FpeDNVWlFLUmMwUzV3bzltRm15Wm82c1pEczV4VnB6cl9adkgtcnlaTXM5NldaSDE1S2tQM1YyUHZ0TW9nZ1ltaTB2WndqZVQyYkphcm8welZFcXlJM0R6MlhsTURTMzRTR0c5QXp3SzYzaw?oc=5",
-"source": "Windows Central",
-"published": 1794441655.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "cb086db016d00eb3",
-"title": "Microsoft will finally let you turn off AI features in Bing",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUEJXcVB5QWY0UFF3TDFpcUhYMWZMWjZqYnhHM3c3NGVEZXFMam1iX3pBMS1xSnpQQVZsblpuSU1zWnNfR2g2al9Ec09rdlFWbEQ4eEtRc2hlWDZlMEtOdWdEUWNQaEt0dkVoajNxY1JHSlZ3a3BrSzZKVGdFZGt0VE9rVEYxVkdyTXJ1eUZRZTBldw?oc=5",
-"source": "Yahoo Tech",
-"published": 1794441600.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "eb49152a65f28c4f",
-"title": "Nvidia vs. SK Hynix: Which AI Chip Stock Is a Better Buy for 2027?",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUFQyc0lKamZWa0pNblJGbVJXUTJzNWNhRUNEOWcxa1doMWZWZVpzVXJsa3poM0F1R1BaSjYxeFE1Y0NPenl6NkxuWkN1cVMyOVNZQ09iMWhtdUZFLVpvUTI4Y1pFcGZYQkNaX1gwcjAzTlBoekM5NkFldVhPLWR3S1ZCT242YWtYNTBubDNGZi1VSHVEcmVuRS1uWmZtSzdYUTUwUDVKdGxxaU9jTk1QR0h0c2JMSjA?oc=5",
-"source": "The Motley Fool",
-"published": 1794441600.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "758cc8d3ed840d7a",
-"title": "This Startup Guts Used Tesla Model 3s and Builds Vans That Still Supercharge",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQci13RjB5ZENLZm9LRjBhVDBxZHlGb0pTUUJCMFRFdktkTTZibWh3VENBemlrSjFtVklPeTl3dV9fQUl3ZWNRMS1NZjRiNkNMSzFiWXpLSkJma2p4M2pnREJIWDl6dHpsNFZvNjFVVzhUaGMxZU9iMVpkVEdUSkNNdng3d3d5TWZLbjhfWVRXWnBRQjUtSkEzR2hRbkM?oc=5",
-"source": "Yahoo Autos",
-"published": 1794441317.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "d3fa77f2c4f74f2d",
-"title": "Tesla Cybertruck RC Racer Hits Thirty Seven Miles Per Hour for $350",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lRC1aUEI2dDNSRTdmMnBTTmJ5X25jWHFoRlJfMS0xNXZBWEliNTlDZTAxSm9MRVMtM3VoZ01uSG8wYVNyd0RBTTdNZHhTdkJyeDNPSUE1S2tZX0cycWRaU1FhUW1NWC1SQlBMajM4Z255Zzh0djVYQ2tHb0Z4aE0?oc=5",
-"source": "TechEBlog -",
-"published": 1794441289.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "5a31f04dc60c2469",
-"title": "Databricks launches always-on Genie agents to take on Anthropic and Microsoft",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMklhNVBPLUhtaTlUV0JDaEJEQ1hjXzJ2TW50M042b2N3OE55dUhQdmZUUEl5V3NkcjNsTFI3LVhsdEVIU29nRUJwdHZEdHZQS2h1WFMyNUc3dENPSUR3U1g4d21tNmxheV8xdFZUdXhPVW1rejFtSzd1eVMzcWVDdk9EVHhuUDFFSTVKWGtVRHdJNkxWak55RWx2d2tnT3psTWN6WTFSZGU?oc=5",
-"source": "Startup Fortune",
-"published": 1794441067.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "234ff37ff6cf6909",
-"title": "Nvidia shares drop after hours as board meets over CEO Jensen Huang’s future",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTDEzc2M0RE5QVXh1cVZ0U1B3V2FRV2NOUWNSbnBVSGNFU0FhWVNjYWJrRXBhQlVkM3ItZ29hUVd4MkJEVW14TnBDMEwwNWRKSWNhZlc2dEV4NkNNMi1fZXU3V1FJaWpEVGNna0xlamdRVmN1TDRtcW1Cc3o0R05hUHcxYmthV2Yyb0tBbXlKa3NqLXpaaWNBSXhJaUFEUFByelB0TFRWT09rak9TUnRUYXZkUDBJbEhlaVoxYkpYTHY?oc=5",
-"source": "NBC News",
-"published": 1794441060.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "94ad8c2aaa07e34f",
-"title": "Nvidia shares drop after hours amid reports of meeting over CEO Jensen Huang’s future",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTDEzc2M0RE5QVXh1cVZ0U1B3V2FRV2NOUWNSbnBVSGNFU0FhWVNjYWJrRXBhQlVkM3ItZ29hUVd4MkJEVW14TnBDMEwwNWRKSWNhZlc2dEV4NkNNMi1fZXU3V1FJaWpEVGNna0xlamdRVmN1TDRtcW1Cc3o0R05hUHcxYmthV2Yyb0tBbXlKa3NqLXpaaWNBSXhJaUFEUFByelB0TFRWT09rak9TUnRUYXZkUDBJbEhlaVoxYkpYTHY?oc=5",
-"source": "NBC News",
-"published": 1794441060.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "283dd54a8e01f076",
-"title": "Nvidia's Board Is Reportedly Preparing to Oust Jensen Huang. The Affair Isn't the Only Problem",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ3NONmRCOHhfLXRhbjRxYkJ5MUQtbG94RTFZd2hZd0R5cWRtV1ZxWVh1XzkxckplenJyeTNrV3FwWHdTUENDb2F5MkpPVlFLeWRJdUszTUEtLW5ldDJPY1NZUG9zaU4xQTVReGo2MVlpNXdGSnIwR3FyUkJPRTVrblhYaVJUdElJNjNocll0b3NOeTZ5RncycQ?oc=5",
-"source": "Inc.com",
-"published": 1794440914.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "efff655524f721dc",
-"title": "Nvidia stock tanks after report of second Jensen Huang affair",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9kX3UxTTg4VEtSSmFIc0JiYlJzcGw0M003bURNbWZmalEzSmJ5dmM0UHZhNS1kd3VpZG9lTnJQS0hYanFQTm1xVFMxdmJzVUItMVpxVFAzdk00NlU3SnRRU3NQdmphRVF4QjlUOHlyc3h2anpVMVHSAXtBVV95cUxQWnRHZUN0ZTZmS29IcDFqWnNzYVJsZUg2emZ1MHpZX1pkWm11RktzN0U0TTNSQzhfdjlENVFkMElZTUw5MWdHQ0l5aGJrWGlSakdodmh6LU84TnZiZklhWE40b2RzT2k0dEdvenR2aVNZcGs3VlFGUmdOUzA?oc=5",
-"source": "The Hill",
-"published": 1794440880.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "d9b9ba93f8571100",
-"title": "Nvidia stock tanks after report of second Huang affair",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9kX3UxTTg4VEtSSmFIc0JiYlJzcGw0M003bURNbWZmalEzSmJ5dmM0UHZhNS1kd3VpZG9lTnJQS0hYanFQTm1xVFMxdmJzVUItMVpxVFAzdk00NlU3SnRRU3NQdmphRVF4QjlUOHlyc3h2anpVMVHSAXtBVV95cUxQWnRHZUN0ZTZmS29IcDFqWnNzYVJsZUg2emZ1MHpZX1pkWm11RktzN0U0TTNSQzhfdjlENVFkMElZTUw5MWdHQ0l5aGJrWGlSakdodmh6LU84TnZiZklhWE40b2RzT2k0dEdvenR2aVNZcGs3VlFGUmdOUzA?oc=5",
-"source": "The Hill",
-"published": 1794440880.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "4bc61b52341c2e74",
-"title": "Nvidia Working With Outside Firm to Identify CEO Candidates",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORHllMDhIbXY1YUhLY2tZa2pNZUlzQkxlaGxGZ1pPdWI4SmxBZV9WYnlrR2hwclRrQVFXTHl5NnBBMWx1b0loTVNEUUhoR01HQ1A5ZXFoMVI1Q0xkSGRmVGtma3QxWGlrdmpCYklUZGZoRmlFYVlfQURLNUE4OVFzSnZRdG9NY3UtZ2VvOUJZY2hmV3pBenBmVlhEaEJpNW5uTHdjTlRwd2lCc3lVWmNz?oc=5",
-"source": "Bloomberg",
-"published": 1794440799.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "7cdf8c7c9f37fb78",
-"title": "Microsoft donates $120,000 to help bring makerspace to Cheyenne library",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxORFhXVVRyY3k2R1FxSXZ5NTdHZTRMQWNBVHZWZzA3dEI4SktLZ1BvSkJhTXczVFJqZWhGVzNzNjcySXVMckgzU2htYWRfcGdJbGtPaXVhdU1rcjRtNlJXc0dudFFNMkdNQmlxNHFEeDd3MHR2S0Z0OTBTbTZlOU05QkY5N212Q2N5T0h3aWxYOVdZbEZqNzBCY1JxQXppY1RjRGZxSjk3dV9WelIxVUxJOFRSUmdNc2NUX2pJbEdlMmFZS0pScDBEZHBXcU5EUENsYWVKdGpZUGplWVBkaHdiWE5GbkttS3RfUC1UOHlTSTUwSERrNW9B?oc=5",
-"source": "WyomingNews.com",
-"published": 1794440758.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "6e7a502180c839ab",
-"title": "Prévision du Cours Meta Platforms (META) 2026, 2030, 2040-2060 | Objectifs Action",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1DVUF4UWwtTVlTbWR4VElXRGVDSDA5WExacExvdzJKbUtVOTR2Wnd1NzIxbkRzZ0Y5OFhfZ1p2cXdrbzRMMHF5b2JZalBHcFFhRUs4cg?oc=5",
-"source": "blockchain.news",
-"published": 1794440682.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "e48f4f72d7ef458a",
-"title": "Nvidia's stock dives as board weighs move to oust Jensen Huang",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOM3V6b0VlNWlnYlE5aTlJNUVKeU9WUXQyVFBxUGIwYldCd3EzczdrbFdXazVxUi1KblpZM1NTaFlmM29WWl9yV0ZSaWdGcHlVWGdyMmlnVVR4WEZVQ2pKRldibDlrTWhWVGZwbEppeEJfbmNxOENGOU00dXJVQU1xSFdGMlp2V21LYXJEZzhPRG5JeF9lZjVkbkxWMG1wQQ?oc=5",
-"source": "Yahoo Finance",
-"published": 1794440535.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "884eeb51571deec9",
-"title": "VIEW Nvidia is preparing to oust CEO Jensen Huang, WSJ reports",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcVJVTG1XNEk2Rm4xZFpXdXh2czIzSnZpdXMzaEpWN1RsZFJpRy1TeFNXZHBzei0tRGNSZ2JSd2ZtTnN1N3A2Q0IzTHNrelNxS2NOWVNSbjhWTlNfc012cHRHc3g0U2gzOXJ4MjRKWjNuWm9NaGt2S2ZhbHp6dmtjenFGTWstWllrYmdLcG8tOXR4b0FCcHR1Zjd2RU52REVFM2E2YmZkX0N0QQ?oc=5",
-"source": "Reuters",
-"published": 1794440346.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "7762878ee4f5d393",
-"title": "What Comes Next for NVIDIA",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ERS1WSHJCbUJ1MXdXbzBRVE5UME1iMThBclhWemdNeWFCalZkUGJWTkRFMDZfXzc4anhHdThLclpQbkpuN0xhSWxMeWxpc09MUDg5aG44ZVlKa1BwbTloLU1wOFRtM2J3Z08teVBPQU4?oc=5",
-"source": "Time Magazine",
-"published": 1794440223.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "a2d716f5fb9d785e",
-"title": "Nvidia’s Board Is Reportedly Preparing to Oust Jensen Huang. When Intel and McDonald’s Pushed Out CEOs Over Workplace Relationships, Shareholders Got Opposite Results",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOM2w3ckhfTVpKeVQxOFQ3bzh3TmZ1WUtacUpya2EwVzMtc19JLVAzRnNkS0NYVmtOak9EdzVva3d2QjVCWWd5Q0NnNWpSUzNtbFNUNzFYZTR6aDdRdkJxODd2TERReGFKX08zY2xuZHpqY0xQMWcxTFNLSFVkU2VyaW11WXZZZk8xZlZGVU54emJid3pUYUlFSWlTcFNJUHVuVW9BRE1B?oc=5",
-"source": "Yahoo Finance",
-"published": 1794440059.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "e63160bb39337512",
-"title": "Nvidia’s Board Is Meeting to Discuss Jensen Huang’s Future",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9SV0s4M3NYaTUtT2tIVWpBRHdfTk51cUIxcE0tLU9LV3M1akRWMTRheE9qY3BCa0pRVDR0MGhxaGVIcERRakZ0LWxJUWtpeFk4aW50TlRLVWt0NUEwSzVBVWFoZGNMQ0NEUWl4eUZyR3h0YmpHRjNfVk1n?oc=5",
-"source": "The New York Times",
-"published": 1794439934.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "ffe6988d38666a3e",
-"title": "Nvidia's board preparing to oust CEO Jensen Huang, sources say",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9fcFlOTlBVS01qTlJEOEJBQmtoSWxtVHpiSzhnTTdYQ2htUlJBUVQydUNMQ3dEN1RRQjZrVkZKVUxtRlhXSkhoY2FuYU5YYjdubGxtbnlrVGxEZlVTRzM4VlYxSDhZcm51UGdRVVJKR0tWV2s?oc=5",
-"source": "CBS News",
-"published": 1794439740.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "67894f87ffe77442",
-"title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaHVybW9FNEpCWHBicng4VklNQ2dQZGpVRE9oSkEyblVnVXBWdm1HdndnNXlDMXJpOGtndzViWlR1cWV4dXM2eWxLZm5PeGY3dmFjM3ZRVDY3MmE0aEJ5Y0tpdnNrNE5wbGctbVNISlpBWmhXRGlDYlBNeU1hVVdYcWZiZjZVRGdsQzVScmwzdHdKbC1KWkxhRVF5QmM5ZWpqaHVkOEtpYjA?oc=5",
-"source": "TechCrunch",
-"published": 1794439725.0,
 "stocks": [
 "Nvidia (NVDA)"
 ],

@@ -1,5 +1,5 @@
 {
-"updated": 1794547591.2854757,
+"updated": 1794551200.8645988,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -69,9 +69,47 @@
 }
 ],
 "feed_problems": [
-"Yahoo Finance: HTTPError"
+"Yahoo Finance: HTTPError",
+"Oslo Børs (Google News): HTTPError",
+"Norges Bank (Google News): HTTPError",
+"Markets (Google News): HTTPError",
+"Equinor (Google News): HTTPError",
+"Aker BP (Google News): HTTPError",
+"Aker (Google News): HTTPError",
+"Kongsberg Gruppen (Google News): HTTPError",
+"DNB (Google News): HTTPError",
+"Mowi (Google News): HTTPError",
+"Nvidia (Google News): HTTPError",
+"Meta (Google News): HTTPError",
+"Tesla (Google News): HTTPError",
+"Apple (Google News): HTTPError",
+"Microsoft (Google News): HTTPError"
 ],
 "items": [
+{
+"key": "e792ab67766018b8",
+"title": "Why Singapore keeps turning up in the fight over Nvidia chips and China",
+"summary": "Singapore said it had barred Alice Huang from re-entering the country and that U.S. authorities had provided limited help with its yearlong investigations.",
+"link": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-alice-spy-megaspeed-.html",
+"source": "CNBC Top News",
+"published": 1794550597.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "97114e25a52e3d00",
+"title": "Nvidia on track for longest weekly losing streak since 2012 as market value sinks by $1.6 trillion",
+"summary": "Jensen Huang's resignation added to Nvidia's market woes, with the stock already in a downward slide since early October.",
+"link": "https://www.cnbc.com/2026/11/13/nvidia-stock-jensen-affair-ai.html",
+"source": "CNBC Top News",
+"published": 1794549094.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
 {
 "key": "f65a671f9fa57860",
 "title": "Cathie Wood Sees Nvidia’s CAGR Slowing To 25% From 50% Over The Next Five Years: ‘You’ve Got Powerful Forces Like Elon Musk’",
@@ -4860,30 +4898,6 @@
 "published": 1794512246.0,
 "stocks": [
 "Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "3c5df58063f47a68",
-"title": "Former Nvidia CEO Huang had relationship with second employee: Reuters",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWWhsc3hxU0xHRWloRTlLcEU5QkdUYjhVVS1yc2NLMkJ4dGZQUDF4NkJqZWpfU3hJcXd6M3M0WGlkZXBTSDNjd3phWDhTa2hONkVjYUQ4c0FtaFBDUkU1ZU5RTndaVkRDTlVoR1NvREZ3SzRmaF9IVlFYWTZVRmR5UThEVlozeWJsN2JId2dEUlFPSjRETzlXN2tZODNadXhWbkdWZ19yT0RXQXJjdUp2NGFn?oc=5",
-"source": "CNBC",
-"published": 1794512094.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "7bd875023e976548",
-"title": "Jensen Huang is out and Nvidia stock is down—what market pros say about buying dips",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOTJmZlRTVHVyUF90NHVJamJqSFhyd3NpaHE0RnJzSWZWXzFPTW05QTdVWDY0RzRwdXcxeUlpekotZE4xZUlyOU5kVTFHUE1zY1c2alNKR2xZdXBCY3R0SnJmQVNWZ2EtM05sS0lCb3ZiYmtqNWZhX0ZROVoyWGFjZE5PeUFQVmhKb2lIR0ZsVEEwNFZl?oc=5",
-"source": "CNBC",
-"published": 1794512071.0,
-"stocks": [
-"Nvidia (NVDA)"
 ],
 "keywords": []
 }

@@ -1,5 +1,5 @@
 {
-"updated": 1794607086.9817188,
+"updated": 1794609522.4691346,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,12 +73,156 @@
 ],
 "items": [
 {
+"key": "bdcb0ef3b3a13962",
+"title": "Can Jensen Huang's departure help Nvidia's competitors catch up?",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMEVSSE05ZlpFQWlsTGsyems4Mmo4WnRsR0hRb3BjelhCM0ZWck11eXFaQnh5bV9NVV90SGZBNGd6YXJvQ25hRDdjWnpXU2tWRHB4UXZHWEdEX2l0ZHhfMFpFd3V3NDVaTjJWSlloNUFrUFFXZHQzVEkyZ1FsZHlnUjkzWGNkbGpaSWhaSFcxb2FvTHFyY2JGZTJXdlNscVNKZVVhY3NZdmd6QQ?oc=5",
+"source": "NPR",
+"published": 1794609010.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "834bbb5082a590f0",
+"title": "Nvidia’s week of chaos, explained",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeTBoS2xtWGVockk4TG5KQXBYRUZlTkRQdEhzVXZuZDZwbXEwWll0Y01hbGxaWjlsVktvOTJlc1FsTWhsZUQyR0E1SXN1UFQ0dUdrNC13SkdOOVpwX010SzFXTGRudEJxdENZdlNzVjFzVU01bEJDUWluMGlBUm5OR0syRzY?oc=5",
+"source": "CNN",
+"published": 1794608885.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "b664af6e7b436fd4",
+"title": "Microsoft Outlook, Teams outage disrupts businesses worldwide",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMF9CSFNHV0FMRFVZVmJwWDZUekUxa0tLNm16NzZFam1CZ2xCWmllOGxVOUVibkp2RDNqUnJ2RlZ5UEd3X3JhTFZaUHFtZFFBTnNlakZ2bWFTWWdLNTJWX2hmbkgybThiSXhPVW5pTlo2OWRuQXhqd2RiT2JJTEJPTjBuSTRQTlAzaVVOWTF3MXprYk0?oc=5",
+"source": "The Journal Record",
+"published": 1794608648.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "cb523e25dbbec336",
+"title": "Meta Platforms (NASDAQ:META) Stock Jumps 2.9% - Here's Why",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQT0RlS1BlcmxTUW8wZ3hvZXFIa3FaRDJOMkFTc1lDN011NDNOZ2J1a2JRMnJPNVhJTHR3NnpnZTRwLVFVbTF4MXk2aTdkSHZmWnRRbFlNTkxGM0I4b2JGS3ZqWHRBZF8zUWhQWDVDbW84bjFFcWdzTWdXZWllOS1JYVlHaFlmME1lYWtSTFg0QV9pWHpndG81bEl6UDlZdVZYLUswYmx2MktxbnhZRWVMdg?oc=5",
+"source": "MarketBeat",
+"published": 1794608630.0,
+"stocks": [
+"Meta (META)"
+],
+"keywords": []
+},
+{
+"key": "fda6c93a1feed333",
+"title": "Workers in our region catch up as Microsoft services return after outage",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMTE2OGV2a25VUTl2QTFCbVhjdXI5Q0ZwdHRmTW5kazVTWVR5OXFfU2NOYVRIMVdfSUVCX19laDJkNUJZVXplaThKd1dqajFhTjZOOVNGQ2lkLXVUR0xEamdSRVhCVnhFbVphZjB1cy12cUh4eTkzQ0lzUmR2eGZCdnlZcTFjRFp0SUItcEEtMUdxdi1jVE5rMWxLNExrZHlm?oc=5",
+"source": "WCAX",
+"published": 1794608520.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "a76de77b2bf03fea",
+"title": "Musk Is Willing To Crash Tesla Into the Ground so That SpaceX Could Pick Up the Pieces at a Bargain",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUUJ5aEFwRnkzS2pRNVFWdTkzajBDSHR3b1NOUjlzVFhxT0V4U3YtZmVrcFZwLWdLVmdEX0FHWVNpTmhYVmo2RVlpY0JfUS1sWXlxZkFvN2lhUlNxTHBmRWVPUkI2LUtuVUs2Y1I1WUFpb0dyQ0ZmZWlBZF9PR2hCNmsxSnJSVExiZ0ZOTmJPZDdrZXQ4R2pHNkE3bW5mY2YtdUlSeFJMSzdkdml6b2IyRm5nOHRQWVFJdnBjVjh2MVYxX21HNkp4UlBua2p5bTVFS3hvWU9iZlJ2WHduNTBF?oc=5",
+"source": "autoevolution",
+"published": 1794608401.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "ef706b15ff51a8b0",
+"title": "Faster Scientific Simulations with New FP64 Algorithms in NVIDIA cuBLAS",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYnJEaEcyZGNKcFFMd2IzNmNVd3FDU3hWT3pMb0Fia3ZYZnRrYlBkbHlJWEI5QllQemFrSU9qeEtvUm4zLUR3Z3JVVGs3ZUZHYjNTVmw1czRzbERtdDJ4VHNRYy1JQzFzVng2UUpabzVkZ3RJRG5vVTkxcTdreTBCR0pObkdxZTRsYkpsc05YSVphWUtpZW8zUjFlUl9qREFINnNBaEpobEZJQQ?oc=5",
+"source": "NVIDIA Developer",
+"published": 1794608184.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "c9e1eb8219ca216c",
+"title": "Why Microsoft took so long to recover from its massive outage",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOT1FhNEFBMnc0QUxOV19wVlVmX0RyeGMwOVNoNG4xR3NCV1pwcjFfRUdMTmZSdklCaUJQS3BGcGd2N19jdm1LX2o1MExROThaNVFNdFd2QjhyNFVVelNfSmVwM3dmNngzc1hVYWo0RmVkM0R3TmluWmk4aC1tT0xJbDdVRnFzdGhYeG9iM2ttUU1YQlFQUzJhYXFDUGJWUF9PbjFreThUUmY?oc=5",
+"source": "NBC News",
+"published": 1794607914.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "f16be41e2fa1c18f",
+"title": "Are Outages from Microsoft and the FAA related?",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1McHdjZk1oTXZUR1pxRklXb24wUUZkT1NDVHNYSkxHUnpWdTBNUmJvVElMNU5vU0d4WnU4UVpZU3VhZEE2WlZaSHFrSFdnaHRQOVNkTnpYS0QwNHFRTUtUQlJ4UzdFTTVzSEFoMnBIcw?oc=5",
+"source": "Independent Voter News",
+"published": 1794607908.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "a97ad088e8b2ce9d",
+"title": "Stock Market Today, Nov. 13: Nvidia Slides After HSBC Downgrades Stock to Hold on CEO Uncertainty",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOQWQxejA1WXFZNEtrYlpWcXFjOVgtelZwcW5xY0ZRY2N4dWk4WEUxc3lXNEg5RmpfLU52U0c0U0c3OGRzLUphSG5BSHdqOVk5UEpVNHlCZ2J1d2VVN1l4WHI0T0xFZWFGd3JUQ3dIRkRPMXF2M0ctWm5LNkh4X2trZDJzb1BORDBhZlFjdHJkcWZiVmIzbnZpTGRDbldKZjJmcEpmZFZ6UldfaHFhR3BqckVaclRsS3dLMWswLUNEUzd3bmhwaENJZFBRRlNUR2N5eGFtdlp2alpLNGRLYl9JbzdzN0hZM3V6aVBv?oc=5",
+"source": "The Motley Fool",
+"published": 1794607404.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "babb6345b7f236cd",
+"title": "Stock Market Today, Nov. 13: AMD Sinks 8.75% on Sector AI-Chip Sell-Off After Early Gains Reverse",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQR3ByQlhuVjNsVG1rZDgxV2NRcjFKWFhwbG16a2lqc0lHRWtpTFBmSjVyRGJ3SzVxT2Y3LVd5dTRrVGdnQUF6ZDVEdXd5YnQ3aFREMG1vMVp2enBqRlp3X2tXc3RZc0JIU2NzTUpVMFlrOVVKZmlmS29EMG9TN0lBUV9QcUNsR3kyS3NHZ2czQUctMVNKVDRwanpGSGRQSFBoWjFHRWtMRWJxZFZhN3NIZHAwQklPUHh3cDRuZElrazZDTENsRVIwS1JlNEZjVTVKQWpfblBHR2lzTk9NUUIySjl1blJySk5KaVE?oc=5",
+"source": "The Motley Fool",
+"published": 1794607094.0,
+"stocks": [],
+"keywords": [
+"sell-off"
+]
+},
+{
 "key": "fe5944d70ebe518b",
 "title": "How Nvidia Can Move Forward Without Its Founder",
 "summary": "",
 "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1qUHZ6NWlIVjZLZ2VSRVB4QUdOZkZiT1hkaHVueVFtcXRCYjRSV0UwU3dVWFRjOE9mUnhsVWhqVWZ3c1g5bkZrMXg2bVlFNVVjVXpBdUduNWxzN2VHWW9wUkE1YTBNZTNIZWhzUTgtMTJmOHJ6ODhPd1I0NA?oc=5",
 "source": "Harvard Business Review",
 "published": 1794606907.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "433b6143fa4e1edd",
+"title": "Better Chip Stock: Nvidia vs. AMD",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTTVvMDVuZjc0aGVFSFZkVVc4UVBCc1RnUHJhVHJBWmVoSVdvUE9jZGd4TjRGdXVVc0s5MHRmQmlETVQ2bVkxS3JLdEdiN3JBWEJKN205bzVZanFGdV9IcV8tSTZRY2RuWjkzQXpOSWFHcG5hdW1GZDVSd3M3a0FEaVpyb2xhRDVmUndld0VqRzZhMFhpZ09N?oc=5",
+"source": "Yahoo Finance",
+"published": 1794606182.0,
 "stocks": [
 "Nvidia (NVDA)"
 ],
@@ -145,6 +289,18 @@
 "keywords": []
 },
 {
+"key": "9440ead03e50b24d",
+"title": "U.S. Stocks Mixed on Nvidia Fallout Fears",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbXo0WGszbS1hZnpTdTRYYjJ0MnNDYVo3c1paejV2WkowZl93UVNiamRIQ0xEWU9HZWp3Ui14aEhFUEZkbWNQTXhfUVNSVE5tQkhELWJEcmZxYVpEM2c0aGRwdWpQZWM5MmdETXFXMDd5TTR5cHNvZUdaWmp4MlBLMG5KTm9JTFVrRmpfVA?oc=5",
+"source": "WSJ",
+"published": 1794605691.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
 "key": "90b9c8c6800b7fae",
 "title": "Never bought Nvidia stock? Its slide could still hit your 401(k).",
 "summary": "",
@@ -181,6 +337,18 @@
 "keywords": []
 },
 {
+"key": "9e7e5bb143c2b685",
+"title": "Inside Microsoft’s Rush to Get Back Online After a Global Outage",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE85c3ZSMXBHTXo4bzlJQ3hkTTFMU1J3cWlnaDVYWjUzcUJ6bkJScHdQb0NvZU8tQlZ3Y3hTN2wyVlZ5dGMxSmdnME5ZZWlVMWc2U2pRYzdtbmIwQ1ZyR0cxdUhtWTdzMHZFVzA5SjJ0S0NvbGc?oc=5",
+"source": "The New York Times",
+"published": 1794605338.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
 "key": "1526679214155627",
 "title": "Nvidia stock suffers longest weekly losing streak since 2012 as market value sinks by $1.7 trillion",
 "summary": "Jensen Huang's resignation added to Nvidia's market woes, with the stock already in a downward slide since early October.",
@@ -205,12 +373,36 @@
 "keywords": []
 },
 {
+"key": "df759028954a39d5",
+"title": "Run GPU-Powered Black Hole Interferometry with NVIDIA cuPhoton | NVIDIA Technical Blog",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZGhiVnlZZkE5NjdvMlhHWlBxakVaRnEwZ3dGdUt5RnJRRTI0aUtJZjRfWFJEUkZGWTRGZXExbTNwVFZzWWRRQ0QzWDZ1M3FGY0RXdDhHcm1QR0NQQllvUW5jaUFJOFlyd19Iajk5Tndud2xJNVN6UE15NnpoU3M2cU9Kem1NR19vX1pIdzVrUEJSLTRuWE9ScWVlNXB3QQ?oc=5",
+"source": "NVIDIA Developer",
+"published": 1794604993.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
 "key": "6efa3bca1f53b0fe",
 "title": "Run GPU-Powered Black Hole Interferometry with NVIDIA cuPhoton",
 "summary": "",
 "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZGhiVnlZZkE5NjdvMlhHWlBxakVaRnEwZ3dGdUt5RnJRRTI0aUtJZjRfWFJEUkZGWTRGZXExbTNwVFZzWWRRQ0QzWDZ1M3FGY0RXdDhHcm1QR0NQQllvUW5jaUFJOFlyd19Iajk5Tndud2xJNVN6UE15NnpoU3M2cU9Kem1NR19vX1pIdzVrUEJSLTRuWE9ScWVlNXB3QQ?oc=5",
 "source": "NVIDIA Developer",
 "published": 1794604993.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "cf727fd8a37904c5",
+"title": "Better Chip Stock: Nvidia vs. AMD",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14dC04bDEzUEFtTmpmdkU3bHdmSTZIVVM2MW5vc0RDbkdUVldRVnNpaW56UUpkTXFMdUZqS2Zsa0JwUnNvczJIbkFXMmx0RDQ1M1NRZEZfZ0VDbTRLeDFOVWktSGdJdUJ0VVNoRjNVUE0wa1Z6VEIzSURtXzNGdU0?oc=5",
+"source": "The Motley Fool",
+"published": 1794604980.0,
 "stocks": [
 "Nvidia (NVDA)"
 ],
@@ -297,6 +489,18 @@
 "published": 1794603967.0,
 "stocks": [
 "Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "b2b9a0f5b73bbb73",
+"title": "Trump set to head to Asia while questions about Nvidia's future swirl",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQWV0M0ppcXdVNXVOdFhLZHl4RVY3UXVnQVkxd1NSZTJiNmtSRkxSTlRiNXdBaF9MenNQMTFLTV80SzJqb1ItS21wLVA1YzlsM0dkaDd2S2FFcW9ia3NMM19JNHR2RERsVzd6X3VhaENhSW9VbmJWS2VLbzBpclpqTXhKbF8zY2tUQ2ZoRFBjT0RTVG1BM1JsN1FRZjF4LWpSeTFKc28tNXNHUktsYm4tVlMwbw?oc=5",
+"source": "NPR",
+"published": 1794603961.0,
+"stocks": [
+"Nvidia (NVDA)"
 ],
 "keywords": []
 },
@@ -429,6 +633,18 @@
 "published": 1794602820.0,
 "stocks": [
 "Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "33bcfb53f2654eba",
+"title": "'Nothing has changed': Why some Nvidia stock bulls aren't wavering after Jensen Huang ouster",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNElWbE1lOVJadXoxSXhxYy04M3B4ZG9PeWhIaW1lZE9maF91M3N1OXd6eFhSSDJZcVlkMm5oZFdoeDJiaVRqYnJBRVkzczJ0TG1kSjFVT0Y1dG5iV1JMS0NPTW9oeVNlYXZZS0haUThFQVNlcnhJbTlMTjAtZ1pQaFc5WDNhd1VDTFVqY1dDOF9NYlRhTE9xamFUdkpBVVo2MlIyOXJsYVdRYVNDV0RCTDRBS2dKRFc1YkR1Tnczc0VSbGNUX21pRTFsWUpDR0dNMmpLT2V4UmtheUs0WWs2YXRB?oc=5",
+"source": "Yahoo Finance",
+"published": 1794602722.0,
+"stocks": [
+"Nvidia (NVDA)"
 ],
 "keywords": []
 },
@@ -645,6 +861,18 @@
 "published": 1794600258.0,
 "stocks": [
 "Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "377c3f19cbe6ee8e",
+"title": "What NVIDIA’s CEO change means for AI and the stock market",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaUdwdVZwN0FrX29iM0lyMnIyOVAwM0RpbFhvR21QWnE1cWZZb2lsbFNzNkdXTld5U0d5MW5ra1VvMlRneE1KQlFUaG9TU0E4WEZDMnZsaWg3bjZTQkdXU0lWX0ljSFJRTldSQUhjU0hlVnhLVFBQa1lKZ3JKRDZmSzZRbDZCcWJESFByaS04QQ?oc=5",
+"source": "U.S. Bank",
+"published": 1794600256.0,
+"stocks": [
+"Nvidia (NVDA)"
 ],
 "keywords": []
 },
@@ -1197,6 +1425,18 @@
 "published": 1794595268.0,
 "stocks": [
 "Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "6083bad7149d3a05",
+"title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM2RjMXJ5cnYyUmVXT3FXVVVIeENJN0hQT3E0ZTg1YlpRSEItczBNaW1SZzlIM2hBNEZldVVzUjEwQzRDczhvVkQwMjZlLXh4U1pqd1NFcTFJOHh6MUMtQktSVmFmZUtzTUowb2hCdU1tVzY5NFFwWURpT3c5RW9zMUJOVHNvcG5aVG9lTUIzVUNqMW8yWkNzcXpidmtNRnlia3hySVpfbGRfQ3phbjJmbGZuYlhwS0E?oc=5",
+"source": "TechCrunch",
+"published": 1794595230.0,
+"stocks": [
+"Nvidia (NVDA)"
 ],
 "keywords": []
 },
@@ -4638,246 +4878,6 @@
 "published": 1794574190.0,
 "stocks": [
 "Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "d55582b2c5cf4492",
-"title": "When is Microsoft Outlook expected to be back up? Latest update as some emails appear to work",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONHRWaFR6TEd6d3p4WG9jVWJ2UzZ3OWdFWklEUFpVMVRyVDhXcV9wNnFpSXRIdERFMWFKalJqTFcyYk10YXo2RlZZSDJmTV9Ca0pEdEI5M2ZtZTFfU3h0blk2SWNYX1pGM3NHWmhHRDEwQTRWU09nRUhyNS1YanhpT19pXzA5WXhFQ1pDbGlaeFBDUDFRMldFd2tGODRpdHRaTVlmS1c3YjI5UVF5VU9ORmtsUFBuMWZfSHlGbjN4M0tpS1JfcDNYUUt4cjRkQ0VGWllZUjBR0gHeAUFVX3lxTFBSRENwWGFGZVVFejZ1Y09Ec0dWQ1ZPQnlLYUk4Z1FTMVNXTWdVQWpMUWtmMmVUajhhOWg4cUhFelFNQ3A4LVc1Zk1sSHNxbVlYRFYyYkM4TEZjV1VUM1kyX1ItLXMzbU1MU0dOVTRVQjNpRnU3WGxXZnp5V1VOdkdkWWVSb0ZxUFZjSEdtZkJhNW10RDZHLWdyY0M0VzB4OExUSEFMQ2Nka0p4WUlFdEloSHZSdEJubE5GQmlxbzFHdWg0UnBtc3dnMDEwUm0zT2FORHRtSHo5ZVlaN1NUdw?oc=5",
-"source": "NBC 5 Chicago",
-"published": 1794574144.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "7bd06c86facdf0a7",
-"title": "Microsoft Outage: Is It Fixed? Is Outlook Email Back Up for Everyone?",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdWhWemtjZ0FCVTFObDBnQ1NIa1FaLTl4aEFoZnlLTmIwRUxIb1Q3blk3ODcyWjNaMFEtY25LVGx4dzBGaUpaam96M3V6MFlENVJFZlIzVVA4Tl9vam44RHdxQ0wtamZXd19hYm9DM3hVWWNidkJQQ3hkLUZsa2cxRElBQjRtWWFzbXJwMHpqMzFEdXpIeURWNzgwR1U2ZU1k?oc=5",
-"source": "Men's Journal",
-"published": 1794574127.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "2d4bfde8bafc81a3",
-"title": "Microsoft’s massive Outlook outage continues",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9TSVRGYVNXOVAzaVNzdTAtX0NxUWJyQjZfQlZ1LTJWazdpRjNKeGpOSFVQWnNBQ2VfM25VMjk4SlRBRGlPelRqdmN4akQwZ0czWGxnbllQc29aTW5lUlhIVlhIRkpIeHA3R2REdlV6WnlJZkNQOUE?oc=5",
-"source": "The Verge",
-"published": 1794574083.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "d844223cd43b944c",
-"title": "I interviewed Huang at peak ‘Jensenmania.’ Three weeks later, Nvidia is grappling with a world without him",
-"summary": "CNBC's Arjun Kharpal, who interviewed Huang just a few weeks ago at GTC Berlin, unpacks how everything came crashing down for the popular CEO.",
-"link": "https://www.cnbc.com/2026/11/13/tech-download-jensen-huang-nvidia-departure-jensenmania.html",
-"source": "CNBC Top News",
-"published": 1794573972.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "cf8d63fb50e5e372",
-"title": "Is Microsoft Outlook still down? Here's what we know",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdnNaUFhESkx3dUtPakhnNEFKX1A1RmxZVnZrOERkWl9JQURZS0V1X3E5VDhEOGdCS0lSbkprejM0T1pGeHQ5QnBNNGtOaWpNZDdWVjVQdUY1UVRMSnlSSUJDVmpNREN3eGVCMERQTEE2UW1pV3l2QnZBU0ZNN3FSUl9jSnFWbUpZV3NQS3Z3SlZiVy1tZVBXSlJLX2IyYmg3YURERXRwX1ZHdi1DVnk0b2p2NVh6dEM2cTZhUg?oc=5",
-"source": "9News",
-"published": 1794573960.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "ba1c381eff045d31",
-"title": "Apple, Alphabet and Uber survived major founder transitions. Nvidia will be a harder test",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPclVxcFBCTWFtTWFWLWdjeVdMZ3c3Qk9IczZvam1GcHBXWkktSWV5N2l5NFBtaEpkSGh1X3J3Z0llMWxrQkJuX1ZITHhvZGs0YUxfaHRCbjY2b0ZLVzVydnNZM0JISmhRLWk1ejBja0hZRTNQZDI0MTgteGZfUWdLRlh4YmdYd9IBiwFBVV95cUxQcm1VMmJ4a1BxMXVTME9FSjZ2WHI4alZmRTM2d0pyZHBtMW9felFxTVJBUVk3SkMtZXFRWkp2dkRZYS1XeHQ0SzY5TnNYSDB4V3JPd082eGpXVUZiaWZBcEc3d0pSVWVtZXl5ZXcwSXpIYkp1eFlrVGNfUm94T0xaUUJKQW5IMklDdVFN?oc=5",
-"source": "CNBC",
-"published": 1794573860.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "1ed0ba2756cac057",
-"title": "Apple, Alphabet and Uber survived major founder transitions. Nvidia will be a harder test",
-"summary": "Like Apple, Nvidia now faces its own transition away from a founder-led company. But experts say Jensen Huang’s central role could make replacing him difficult.",
-"link": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-founder-ceo-transition.html",
-"source": "CNBC Top News",
-"published": 1794573860.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "e8532d268354c1f0",
-"title": "Texas Attorney General-Elect Says Tesla-SpaceX Merger Would Face Strict Scrutiny",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0zNElRcGdLYmdLVkw3VUNZaTQwZXV4ZnJWZ0otaGZrUEstYzg0ZmtkcHJ3OHdlUmU5M2JWWm8wTW9rNGRkRk5xV3FJaThuZUpJSTVXNQ?oc=5",
-"source": "bloomingbit",
-"published": 1794573807.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "c81a11eca9b214b3",
-"title": "The Microsoft outage means no incessant email chimes or message pings, but still we stayed online",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQTdSYkZkZlpEay1fVm9GYVQxclRTb3hOSWxRaXhmRThSaXNab284TTNOWTZseWFUclduS093V3lYUlVSLUJmWmloV1R4VlVhdEQyQVB5LUlvMVdZNldtR2FhMmFQUW1WQ1I2aE9PWGFpdEN5eGxyZkRHYk9NaTgxV28td0pubFpiRnEyOC1ta0xJaktJ?oc=5",
-"source": "AP News",
-"published": 1794573660.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "b19181373bd67d65",
-"title": "Why Tesla Stock Is Behaving Like a Safe Haven",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE85WGY1dzc4WExfaThoS2I3eVlCTVRaVk5vcmpUbVdmOGVBX3RDUzB2V2Y2TDRUcG5IdnpsTzJUYnhHWkJ2Zm9mSUxnUEtMMEhKTTU1OFlxdTdjZ2NJRTdzNVlNMGdxYVVNZ3hDZWNMVFJRclFCaTF5clhB?oc=5",
-"source": "Barron's",
-"published": 1794573600.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "2100aaa254b4fb4b",
-"title": "The Stock Market Is Bigger Than Nvidia. But What About Anthropic?",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZ3hvLVN0dVZKMTV2YVNERXMzVkZxcWZ1d19kWUpsM0RnRDJaWlZrcFhEVVZFRTZwR3lsbnNDWlNGbkdtakZKaW5mZm9BQ2NKRC1NaXJlVlF3UjBZMjRfQVM0c25Yb3hEMXlHeEF0MUNtZW5jY0E1N1QyWW5qRHptbw?oc=5",
-"source": "Barron's",
-"published": 1794573480.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "9df629e4cd3c7e50",
-"title": "Is Microsoft down? Users report issues with Outlook, 365 on Thursday",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOUtUVE82eXE0TG1YNjJOWmRRcmNhU3pZeUNZTFItRVFySUJLNVFzaXRwWkc4T1pLRjUySVYwQzYzV2VmT1M1N1VZa1d1MTJBaF83QWZZOTBKWllZb095UHYzUW5fd3dzRElwNXl0a0tLdFF0ZU5keVNfcFJzOHFLU0NldDhrV2FkSGdaazRPb2hyXzF4LUJERlJGZHVUbnViam1F?oc=5",
-"source": "USA Today",
-"published": 1794573240.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "7e1d2ca6d7875bc6",
-"title": "Microsoft says November security updates cause printing issues",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORWFPNG5EOTRrelRtX3VWRWJYNG5QenRTNm96ZGE4UnVJd1B5VEQweTAzYVh0dlZnemZiSVZYSWc2M0FsdnRWd282blVDT1AtRkoyMHMzcWc1SWV0QnQ0Z09sUUFmTXN5UWJ4Qk41VG9FUTNuWFlNaGtDYzBYbFVjZnNfbDFUNGY2X002OFp1eG5CQkFLQlU0WkFWS2l5UDZrLVp5Rk02dFFFZFRxZS1KX9IBtgFBVV95cUxPX24yeFJFS0xPX0JwOHpSdUtyS2V3RjF2c0RoVFBTN1VuUjdoNk9mbDBzRVhjQ1lfSGJOV2RpS2pVOXFqQUdSSmRKS200SktlR29JcXZwTVhRY0NzMnk2LUE1X0wwT0h1R3FuVE1sVEtmQnhIZTk0TXVmWTNlajVnbFNfSl8yMzA1d2RweHJDQzVZRlJJWjhuLW9DajJ4TXBETjA5ZktFLWJlSkJvMkJnWnlqeEF4Zw?oc=5",
-"source": "BleepingComputer",
-"published": 1794572860.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "483e953df01c2652",
-"title": "Premarket movers: Modine surges; Cerebras jumps on Microsoft deal",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdG5yd2tnd0l3NjJYbFdYeGZSYmc1NGJSdVhYYU5QOWYyQmdvYkpwbVZ2dDFGTDF3dV9EeHM0d0hsYnFzcjN0ZWlLZHMyMGJqOFMxTHM0VlVUeUZqbFVjclV3dXJFdnZia1RwNURhT2kxaXA0WUxYdGZmRG8zazhra2Z2ZU9iYS14SzRHYXZQa2lDbGhBdkRPMTliYlgxSHZYZkwzZHM3SQ?oc=5",
-"source": "Yahoo Finance",
-"published": 1794572825.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "6fabd53c4164342d",
-"title": "Meta Platforms stock faces AI test after infrastructure leadership shift",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWEdjRzBjV21BZWZHR1Zpc1EtejFSampVT25JSnpsUWNMdzk0UkpiRnprWk1kNUkxeU9YaEZaTDdBRXJ6SXVGcXVNMG50Y2ZQekR3MGFzd25TZU9lTDUtZ2JJN3FsUkEzc19YVmJUaDlRNHZ2QjZvdVVhYU5EODVxZ1ZPV2IyMENjRExhY3BTRUdseU1qOWJhZWFJZ2dyWDNFZ0lacFdjSWppS2RRMDE4NlJXMTB0T1NDQnZRQ0g1YzhpWkdJRk5ZS0hBSThhclVQ?oc=5",
-"source": "ad-hoc-news.de",
-"published": 1794572786.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "621643dc28691f17",
-"title": "Explainer: Three Israelis considered for Nvidia CEO role",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNnRYbmthdDVKdW1vSDJDb2hteXl6RnotTWxOSnFwNEZjVGQ0Z3Uya0xIQVdmMDZfZ01nTVVjZEJoSG0tMll0blhPOFNiWFYyS3lzLWlMOGM2eDlxNzM3VVhseFFOZEU4bGQzd3ExTE40cE9fRDNfOGYwRTNGSkF1ZVRUS09MQQ?oc=5",
-"source": "The Jerusalem Post",
-"published": 1794572758.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "c054c5c0eddfc3b8",
-"title": "Nvidia Succession Shows Key Part of CFOs’ Jobs: Serving as On-Call CEOs in a Pinch",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbjEzQTBEWmlhdXhxd214bjRkRXlBR09BdGpxMHlkY1d0WVgxcnpuSG83aUpJYmRMQWJFRkZFalV6QlFxTUstaWFzWHJobnhacjlRMUlyZklxSGJMbjg1SHpiVmdFdVp4Zlh6dTRmTU1ZSGFwQ1lkTlB6VFN6QWptdUhkX2tiM2JYUVBuTk9EbFZ2V0dzZUxscVhQNXZWdTRPWVctaXU3RGZlcXFqNG1EUkZSa2NuYkY5NHB0ZU9R?oc=5",
-"source": "WSJ",
-"published": 1794572700.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "653caeabcf63a974",
-"title": "Nvidia has shed nearly $500 billion in market value this week. It’s still a $4 trillion AI behemoth.",
-"summary": "Can Nvidia keep its lead in AI chips without Jensen Huang? Plus, what investors are watching on inflation.",
-"link": "https://www.marketwatch.com/story/nvidia-has-shed-nearly-500-billion-in-market-value-this-week-its-still-a-4-trillion-ai-behemoth-2ca6eba7?mod=mw_rss_topstories",
-"source": "MarketWatch",
-"published": 1794572700.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "935969d52e635f13",
-"title": "Microsoft struggles to restore email and other services in a global outage | National News | 2news.com",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPVFdHTlUtR3pFd2FTWlVHckFPNFg1d25HTXVDY0dhSS02WlZ4MjdlQ1A2VHdQVk13Ny1OR3VtSlE0RW5nRUoySl9DaW5mRkVpTnVodmRMNmNkbEhFUWloR2tWT1M4MkRTemVzOU45eW9XTVJ3dDlBVUhsRHJpVHJyX2d5b0hGanlOcks5bU4ybVp1TUVXOW9tbXVKY3dBaDdVVnJxSGluX2otaHVhN2FoS1FXMzQ5VmtCMHMwMTZhU2syaVR6cE5CeVVsX3ZWUkZ5Z1ZrWEMwenk3X3I3YTlfdmRVY0lES0xCTkN2WTRDZw?oc=5",
-"source": "KTVN",
-"published": 1794572581.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "05298503e5cbc530",
-"title": "How a sex scandal at Nvidia is putting pressure on the White House",
-"summary": "Jensen Huang's personal life may have triggered the crisis, but the questions now reach into the White House itself.",
-"link": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
-"source": "BBC Business",
-"published": 1794572550.0,
-"stocks": [
-"Nvidia (NVDA)"
 ],
 "keywords": []
 }

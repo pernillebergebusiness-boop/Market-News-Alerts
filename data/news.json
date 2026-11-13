@@ -1,5 +1,5 @@
 {
-"updated": 1794584367.2682643,
+"updated": 1794587639.0728414,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,12 +73,314 @@
 ],
 "items": [
 {
+"key": "bb3b305f02caaa59",
+"title": "A Tesla Tuning Shop Wants to Take Over the Cybertruck Line Before Tesla Kills It",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdzBpeVFXUzZRUWFveERuNlhoYWp3R0RlRE04VFRQR2t1VVVFaFVhUXhqZXdxSXNpbDlNalp1cnFtRnk5X3h4QkRLSFpOTFBhb1IyLUFITmlHcUNhRnhwbmJOa3NzelpmNFBqWEllVmo5V3hTaTEweE9OX2k4dkJKb004SXFaclJ6N2oyWl9QT0xRSFRNN0VZY2U1Yk1OSjNESXlRUmp3X0RtMUJya1lV?oc=5",
+"source": "MotorBiscuit",
+"published": 1794587462.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "a5936c621cc50089",
+"title": "Meta Platforms, Inc. (NASDAQ:META) Sees Large Increase in Short Interest",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPX2QtM1ZJb21uaWFkNFNFZDVnN3NndldLdG5JX29KV0tqZXhuLVN0elRQZF9ST253SG5wRmNtY0JkbWhybWRqdFhZaXozZENBald1aUtheWpKRzZCZ3NfekdaTnJpTjAzYjN0aUtqS1VISGxhRW1Nd2VwRmc2cS1QbWo2cC1UZ1FPVWRkRVNkOFhFUFJ1SnIzWk1mSG1UWDZUa1c2TTJSdVpwcmhFMVBFV2JTNmlXeGJ6UG4xSi1KX19hZEZndEctZEdB?oc=5",
+"source": "MarketBeat",
+"published": 1794587241.0,
+"stocks": [
+"Meta (META)"
+],
+"keywords": []
+},
+{
+"key": "23b824a07faa7c68",
+"title": "Nvidia’s stock is on a losing streak not seen in 14 years. What comes next?",
+"summary": "Nvidia has wiped out $657 billion in market capitalization this week — its sixth consecutive week of stock declines.",
+"link": "https://www.marketwatch.com/story/nvidias-stock-is-on-a-losing-streak-not-seen-in-14-years-what-comes-next-a07e801e?mod=mw_rss_topstories",
+"source": "MarketWatch",
+"published": 1794587160.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "f7a0d9c9a2653858",
+"title": "Microsoft email outages persist into second day as company scrambles for a fix",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbk14YWFobWN1bmJkTjhrc2VPMjRFRWtSbFM5bjdiZEVIMjQ3VkxEZkszck13cnFhbEl1WkIxaWJndmN6SmxSSUNHeTRmV0FMQk5xd2o1QnpBRFRuek1WTXdUaUR2X1FJcXlkYXp4UkdvLTM5TklQSDhsZDhYZFk5RlAwc0FJM2hob3pCOTZhUGZoZVQzUUttRnJjM0ZjUk9Zd1VWUGNSZlpyaC1LU1lfZ3NfRQ?oc=5",
+"source": "The Washington Post",
+"published": 1794586623.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "0c8652d7edcffa9d",
+"title": "What to Watch in Nvidia Earnings: Leadership, China, Data Center Concerns Take Center Stage",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbDhxQUxlWkU3SVVSNUZiZ0x2ZWo1WmZtRklVbWpZYThjVHBRZ28zS05kbGtNS2lzSHJsdXRRc09JcXU1clpOcWZ4VE9IT3BwMWIyNS1OS29vcEgyaVlfVnBjVUdudnJtOUdSZFFMWUFnTVpMTlc4UENmLWZwSTM2bnhoalpGME45ZGNqTFFUX2ExcXJ2WXlJMTVPVDY2d3JNZ3lucGRudVR3Y1pZLVhXeDROZEpDcEFxYnJtZ051Tk8?oc=5",
+"source": "Morningstar",
+"published": 1794586479.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "b259a5332f008c87",
+"title": "Bessent blames Lutnick’s Commerce as he slams Nvidia chip ‘leakage’ to China",
+"summary": "Jensen Huang resigned as Nvidia CEO days after admitting to an affair following scrutiny of his relationship with a woman reportedly deemed a Chinese spy.",
+"link": "https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html",
+"source": "CNBC Top News",
+"published": 1794585822.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "ff72475bc5266fea",
+"title": "Nvidia Stock Still Looks Like a Buy Without Jensen Huang",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaEFMeC0zVnlIQ2I5SWZWcDFVcnAwQk1lMGFOeks3ck9ucklxSllrckFsYTMwcHA5ZUlibEY1UGJpZG5ydjBybEdFSmdKLXlZRlcwV3lGSldESlFIVWpmd2xiMzMtQnRLQWVSdlQta3l5OExxNXpBamhqQkZLNzdRLW9aVEJQYlM2RVhrbA?oc=5",
+"source": "Inc.com",
+"published": 1794585705.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "a9464cf45d544457",
+"title": "Suspicious Tesla Triggers Investigation Into Retail Theft In San Mateo: Police",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZkZRU3otdGUzMXpSQ3RWXzFWS3VRV0NGbzlhZWl4aWtTYXJxVUdBZk9lRnY1NVgyYThHRmlUVFJ2QVRoU0kxU2VkdE9ZVDNsUTlQZkVNUkk2bktUc2Y0b0RBWVBKMTNjRGpSTXJBeGl0bk9LYlVIR29zTnI5QkpqUVdJZlVnX1pyTmI0ZGUzSThzRTM5bVNWY3AzOElCd2xyemJQZkMwUl9BeFnSAccBQVVfeXFMUGxWUUM0X1p6Zk1mT1B0eXdzaGQ2WVl4MW84dHZJakxqV0xhN3c2WmJFNnpJdC1zd3k1ZVpCdkF5em15SE9jWHlsMVdYVjZUNTZ4YXJsZ3djSUZnNkFMdEY1RjFZMmxUZzJrdkdzWVRRMm5rLXBiTS1oeldFamFQZnpBTlRTM0tjbHdWZ3d4a2tDLXUtY3FONFF0VGNIdGxQcDJ5RFgxYVlLN3RLODJiTlRmdWpaUVIzTUFrSkZ2ajBibWItdFZKOA?oc=5",
+"source": "Patch",
+"published": 1794585698.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "62f1068235345a60",
+"title": "Nvidia director sold nearly $1B in stock weeks before the Jensen Huang scandal broke — and no trading plan was flagged",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQLTktc1RQNWQxUnRyQXVkcVRpYUtRSUV6Y2dXX0lpYmduS2Q5NHBLXzc1Q2trUktLdi1RMGs4ekJycno1Q0pSTWpna29rV1p2LWNkVkhDQ2RuNmNHaGxHdkZTSEh2czQtS1RfVnFCb29DNU04a2ZjYnZXQ05nZlI3MThaQVZUTlFEMmliVmJ3R1FycnBtRFV6UndwNA?oc=5",
+"source": "Yahoo Finance",
+"published": 1794585600.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "97522a25dc47e61a",
+"title": "Tesla Model Y, Reportedly on FSD, Crashes Into Closed Express Lane Barrier After a State Trooper Reports Four Tesla Crashes at the Same Location in 1 Week",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPakdqelB2T3dMZ2ZxdHFsYmRoeHVrWm8tZjJDM0NwdDhIdzFzdnVvcXBIazhYQlNaWHk3aS02QWtNaVBka0R1NGVvZE14N0V1alVZUVlxS3BYWDM5NnhnNDlCZDNhXzZrdHd2aGVZWHVVTG5oZzFJX0lKV3lhTGY5TjRuNE1hc0ZGQWFZQ3ppUDRLSUR4SVNoMzdyUkdhUUhDSUY5WGNwQngzZWhheDdOdy1FdXpDWFg0X2FndDBMNVJnQ0U?oc=5",
+"source": "Torque News",
+"published": 1794585580.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "2588ea969b3b4219",
+"title": "What the Nvidia scandal means for the company's earnings next week",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQamtxZ1JjdTA3UF8zODVhLVE4NDNCZWczZmE1REtITGRpTURvLVpGemMtaGJIRy15U1lQal9CVFBjanlXLW5xUzNuS2x0NVM4REhHVVZadGVrejN2bkdUVHZzTjhDWEpvWnl2RWdGM2Q0UDVGWjZ5TkJCZFB3YlJsa3RPV25LNWxUOGFpNEJRdm9iN3hrbm0tNHphZmRRTGxjV1M4UUJkODdKM21kcktzeUtsREptZDhiRmVmLXd5UmQ2bFk?oc=5",
+"source": "Yahoo Finance",
+"published": 1794585543.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "fe7329648d85c9bc",
+"title": "How Nvidia’s Scandal Will Reverberate Across Washington",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQczhQMXg3MGN3cTJ4VzQ4ZUk2anFTYnlTRTZhNTFxN0cxOF8tZC10TWxBbXhnb21MTy05OEVRaExhTkNYT1JTa1g4d3pWV3RhZkZVNXNTcjd3ZWZyaDdlNTVyeS1PWFNJMEJiYUpIbEo0SGxUdldkNEs4U1QyZENnbWVrdzBtYXpCUVZmVnFBU2Q4dGYyWUFF?oc=5",
+"source": "Barron's",
+"published": 1794585480.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "4a6e407466ad0988",
+"title": "3 Favorite Warren Buffett Stocks Hit Record Highs As Nvidia Sinks Further",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWUwyNXJTU19Db3JsNEpHUXVTMHAxRmtQTG91SV92UExLZnlSQ0QzM3JLRnhsUF9Vd1g4X3hLSWhJdjRSenVFYTV5NWs1N0tqbmZGN0gyYnhNOWd1SV9hNjI5ZXN2ZmhnaG1XZWNENDdHMTZwT29ZYno4WEZ5YWFkdTFRQlBKdUFmWUJVcF9VNk5ZMWJKa2VZZXdTT0hXZWJvbmc?oc=5",
+"source": "Investor's Business Daily",
+"published": 1794585300.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "5dfead8d5f99e40b",
+"title": "Here’s What Needs to Happen for Tesla’s Bull Case to Materialize and Push Past $500 Next Year",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPT0tMQWRQUmUzN0dkV3BZZjNpOUlnVWNSWkZiM0RHMXFiVVppZjE2QVAtVElKc3dZajR1Q0daaG1XQUNvVGRqcGZjaGdSRG52Z2Vfdmo3MlBmaExUSXp3ZlZ1VEQ1VjR0ZnFmTjl4eG1JVU1aYTlZWkdsOUs1c014N21ENzFPLUhtUWZxYWcyRmxLSWpmQWE5SA?oc=5",
+"source": "Yahoo Finance",
+"published": 1794584756.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "4446c231ddbb98a3",
+"title": "Looking Past Nvidia Turmoil, Stocks Set for Best Week in Months",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSlBrdjRTd1hzdUVoVk5qRGEwY0hjenIxSGFLUnRCdUhrdkZJNlVJUkpFanRQR3R0ajJXeGFFWE5UcWtEYkpkRHQxTXhCY3BZMDZUbnF3OUd6WDdtN015NHV6NWpJZExzZnZsV0F0ZTRGSDJOYU12d2RuZWtDWG13dHN3?oc=5",
+"source": "The New York Times",
+"published": 1794584736.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "ed68396a5d7debec",
+"title": "Here's What Needs to Happen for Tesla's Bull Case to Materialize and Push Past $500 Next Year",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZy14Mjc5UGtlV3FYU256blBfb1VtRng5WDZ5TGFzTU9fU2lhVFQ2cGhudUFxLTgxRmt0dU95UV82cEpId2FoaVY5RGhzLTRkdEFib3dfRkhDeDJLUjVWTllHZlBOdFgwWV9haWpDTzNNZHVieF9wUjVHRDRFaS16Tjl4Qk50NzBaVVc3d2h1OXNCNnB3TnpXZV9Db0d5SjJNUVFjTDVlNFZHVkUxX1kxdjZhaExwMkx2cGhJVGxFajdsWUNQUHhFY3d2bHdBTUE?oc=5",
+"source": "24/7 Wall St.",
+"published": 1794584700.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "53a13c29c47ee307",
+"title": "Not Nvidia. Not Micron. This Artificial Intelligence (AI) Stock Will Be 2027’s Biggest Winner After the Latest Tech Sell-Off",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQRU1IeW81VlhpbzZhNmR3VVFHYUU2WEt3clFPZk5CaDdZWllfMWtfY095ZThtRkhqMlIyVDBtb2lZRFNMeEE2dnp1VVQ1cFFjaFdURVJ1NXZTbkhfM3lDR2JObEtwZEdhc0NPWWFSdFpPd1VobGFnYmhFQnQtQ0xYNG45VmFmNmxtdHg0c2tiU0d0Ti1sVVJkTUl4RS1fYUNSTmJrWHdTd2NaQjlCYzJ5anFwWFF2WkgtYnpUbm1BOVdDLWNMb2ZrRjRpamM1dGVVYWpXU0RrWjMzeDlTQzF5RWNoYWgzMVNCRElZRnBWQzlSZ3AybFE?oc=5",
+"source": "The Motley Fool",
+"published": 1794584640.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": [
+"sell-off"
+]
+},
+{
+"key": "c26c8c1c990f3f75",
+"title": "Microsoft Outlook outage stretches into a second day, causing widespread disruption",
+"summary": "The outage could result in a $100 million to $400 million negative impact to Microsoft if the company offers credits and other compensation to customers, one analyst said.",
+"link": "https://www.marketwatch.com/story/microsoft-stock-slumps-on-outage-that-includes-the-copilot-tool-it-has-been-heavily-promoting-4007dc4f?mod=mw_rss_topstories",
+"source": "MarketWatch",
+"published": 1794584640.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "b2307721dca91281",
+"title": "Microsoft 365 Outage Improves Into Friday—Governments, Airlines Report Disruptions",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObWVISDJ1NlJRckhTOHRNTWFMcFZkUlBFaWpJUThsenljZlpJdnliSDV4YkFXMDhFOFF0aDZzZ2xrS18wc3BWZFdIR2lncGhjSW55ZERhUURtLUdUZU1LV2xnWXJocXk2ajBSbHMtcjE2S2JFRkRXZlZYLXBQbWVHSjBMZG96Z0ltOTBZeXd5SnpId2U2UndTdXp5RjRSRG50emRER195TlNDNlVNaHRHa3BKNEtqVnctajlTUnYwZG8zaVBEWnJ1ODdXVHhvbGY5?oc=5",
+"source": "Forbes",
+"published": 1794584580.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "027da65dd2b9a1d4",
+"title": "Is Nvidia stock a falling knife or a rare buy-the-dip opportunity?",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUXJxZnVTNDdHMmRWWDhxeklzSlFLZGpWQWVubnV6ak5HVDlyRHNzYzVLbUk5UW5wTW5EWmVGNGpXVkFVT041V2Z6Zmx5SmluTWFPVUs3Z0FHMmV0M3dma1lSazljSFVLT1hzZXUtazZVSHBzRUJxWFViblBBUTVGTTlPUkRyc2c?oc=5",
+"source": "Yahoo Finance Singapore",
+"published": 1794584498.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "ebb205863de3b90b",
+"title": "Alex Kantrowitz explains why Jensen Huang's ouster as Nvidia CEO is 'good for America'",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbko1b1VldjBmaVZtdVR2YUh0eUUzR200TTc1dnZTNFVfSXBPYXNadV9FTEJBUGpaXzBHdGpFLU4td2p2TmlsRVV2YTNnQmlfTURBcGRNdHJrSlcwNFdfcnhkakNwWkhkTk9Benl4cWtwLWc3clJNbUliU284ZVBkbk5xS2NySXN0dm9pdmZicUpFcjYwWGVSeExGekpBWnRYaUJhV19PTzkxLTFodTJ1akd1X1oyY2RIeS0xMjN4THEwcE02?oc=5",
+"source": "CNBC",
+"published": 1794584350.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "47754fa1bfd06e04",
+"title": "Trump’s top economic advisers clash over Lutnick’s handling of Nvidia",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUGRWMi1MNTdhajFaclo1X3VPazhLeXlDa2ZadEdMOUtLV3BUbUhqTi0tWFQ4bzliekwtOHk5Y1gzaGlrdktFLUZnSEJKRFJHZ1Y1RHpjT1NQM0x1M2E0MklYZUlUWm5qdGpUYnFydjc2bF9IRmVFcERtczFScWU3djNVSXdUQ3VCdkZfSl84NkdVM0RTbWo3QnQtVmJ5cHFDblJNMzdRWnREd1dyLUVnUng5RjUwaF81VUVkcDQxMG1KWk80N1ZGZA?oc=5",
+"source": "The Washington Post",
+"published": 1794584341.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "9b5f0c3b60e9741f",
+"title": "Tesla trims Model Y offerings as All-Wheel-Drive gets the axe",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ2hoRlZNMGhtbHRrdHlreEVjWDRENFZqT3pkYVFHUDVXZlhIZHN6U01ZREN5dE43Rlp6T2tNX2tqZ01uZzl0SUNQbTZLcVdDZ1JDVjE1M0N1OWVUalFKdW80OUV6SGNKX0FuaHpiQTBVV3g4d3lhY1hFaWZCQTNxUTVpYWpQeUhT?oc=5",
+"source": "Teslarati",
+"published": 1794584226.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
 "key": "46ab4f668696a2fb",
 "title": "Tesla kills $41,990 Model Y AWD: all-wheel drive now costs $8,000 more",
 "summary": "",
 "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2STg4OHVTVHlFaWFmZ1JMTDE2UDNoWGdDbXFLZWt1aGw2aktjNGFxTU9oOUZKQ0tWSFJabmNOUEtkclVPbWFCeUFjaXJucTkxckd4ZlBmdTRialcyNUlXcEpzbnJhcC1OSExUT0s1ZXhmWkpIS3FEVmJBcGpGNEk?oc=5",
 "source": "Electrek",
 "published": 1794583920.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "c808084eec85652f",
+"title": "Microsoft reports progress in reviving email and other services during a global outage | National News | 2news.com",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOdkZDVGs5NGphcnJlOExJZURXN1ZrdFJYSDJNY0w3TXdDeExxdTlSWUNDRDZHcXdIZVAxdXJNUXA3cDF1anM2Nmk4SkxIUHFaMVo0RzRFQndiZ2VvQU9XVkM2N25aSjlGU3pIaUZPVjZTSXdrT1FKcTczMU5yNTdrMzNmWWs0bi1iajZ0OHhUWW5GUV96U3NyZVVqQy0tWjZFeGZ2N1JMQXVrT254bEg1YXJ5NEFic1FjVEVoZTVteE9QeUFTUTNScGY2QTVlVFBobmpEdDNpT1ZqOW9YRzhrREU2cVNFWDBaUVNnd3lZd3dBdGVCUldyRmxqV2NNOXc?oc=5",
+"source": "KTVN",
+"published": 1794583904.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "a1658bc2e81297d4",
+"title": "Tesla-SpaceX merger announcement as early as December: Bloomberg",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcXhYeHFsRGxFVkJCa0had0RLcmF4NlNNV2ZKcXNpWUVrWkpaVFhZOGJOM3J4TEcxaUpBUmlfazZMdXQ1LVRYZUZkRHZUTXBFdld4Wk9KR3RUMmRQUXduRTVkLUZpMUVaNUlFcmlOT3dHa1otd0FDMGR6MjFLMVdBeHc1bHJmMm14V3NCS1l4QmQ1c1c5T3FYYkw5Yk1HaF9YUmVWUEJ4RGJGZmxFWm1J?oc=5",
+"source": "Yahoo Finance",
+"published": 1794583860.0,
 "stocks": [
 "Tesla (TSLA)"
 ],
@@ -109,6 +411,18 @@
 "keywords": []
 },
 {
+"key": "4f3369baa687e4a2",
+"title": "Nvidia’s board is still investigating Jensen Huang despite his resignation, sources say",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOUVKdTBnQ3JZdzNiVXhaY3FZMmNIQ0hlNkNzamhaRVlXY0tPNFg2Mk5HZThiWTYxamJlLTh5dWl6WDFhcFlOOVRJNEVoVThsWmdPb0RYdTNBRFpOMUozZjY2aVhqUEFNMTNISnhjNm5xSzBYdWVVYlhRRjVhNW43NEFOdTdyLVQ2SVAzOUp5STJwb050TExSNzVpY2ZqX1NzOTFpTkRBMnZlTk9UaWczTWE3N24?oc=5",
+"source": "NBC News",
+"published": 1794583732.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
 "key": "4d9c825a28ff6613",
 "title": "Meta Platforms (META) Could Be 39% Undervalued Following Its IMAX Enhanced VR Push",
 "summary": "",
@@ -127,6 +441,18 @@
 "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTkwzTDlPTzE3S0JmU3ZsYjFfMDd6NWxlZWJpa2x6Z1RIU1ZpTl9Wa1pTVlp4STdnZlRiV1l3UlJVYW85cWFGY2J6ZnY3VU1WZVhOUWFEZWwtWDdCWjRGLUU2VXNobTJ3T1RQOHNGUmxWbzBGWjJ2b1JtRWc5SXphMVRCdmUyR2NPcktvZUZpZ0p4bjFUYy1rdWpteHNGWlM1TDNHSUtOcTd5al96cmFMZU5fanE2Y0ljQ1cyWEkxMXNfUl9USjk2dFNqSEtJUl91d3VFOVJneVpRb19RRHc?oc=5",
 "source": "The Washington Post",
 "published": 1794583619.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "6a603bcaf09cdbf6",
+"title": "Microsoft blames failed server health checks—not hackers—for global outage",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYU9XTXJfMHVLc0IxeUlObDhMTlNJanZ0YVVqVm1sZGdLSmNTSmdndDU5NEhVZG1VNVZIWjJZODFRSnlTQlpVVEhlUmdlVXRPNVFSRnB0X1g3NnBlRnNGX1RoZS1wVFNnelY4OUw0ZnJVV0NoUFhNMXVpOWJvd1dRWkpVak5xaWxQclFHZkVsQzRVamZfT3N1VVR0ZFdoaTVtQy1Pa3RpM1MxVk9waHJRTzJiVzZNelVPbUNj?oc=5",
+"source": "Ars Technica",
+"published": 1794583613.0,
 "stocks": [
 "Microsoft (MSFT)"
 ],
@@ -181,6 +507,42 @@
 "keywords": []
 },
 {
+"key": "924409edf8ecf01c",
+"title": "Why is Meta Platforms stock climbing today? By Investing.com",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcEh3T3N3anRqVFNCWXRkUW1mRVJJR2JxSEpKb0UtRHR0YU9vNEdKR1I3WW1NdmZtYWhGYVo3SVhBQUhtOWVPNktScGRBQnRvTWVNLVc5LS1hNmJnendsQ283aW9KRjNRTDd6OXR0RlU2RDUtM3lTOURsUFl3dk1TOWduTGlHVEp5UGM0MTg2OVNBbHN5bkVGN3VnM3ZMb01QbW5XSldB?oc=5",
+"source": "Investing.com South Africa",
+"published": 1794583373.0,
+"stocks": [
+"Meta (META)"
+],
+"keywords": []
+},
+{
+"key": "3ee8ac11d09bcff6",
+"title": "Apple Is the World’s Largest Company, and Nvidia Is Second. Here’s What $10,000 Invested in Each Today Could Be Worth by the End of Next Year.",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNWVJhZDJfcFlqSnN2N25TRHpLazhkbE9GRFBWODJkaGVYd3FNZzRjR0prczZNcGdVV2djMVo5bHM0ZFd2djIzYlFkVFBQUk9KYjBuSFpVTExPQjRPT2pSd2Y4TFJlaE5wUHhBdDZUbnZUQXpGNG9lY2hkdWxDVnZ4aDl2bmxtVnI0WWZDaHUybEV3RU9GaGdhSWhGMG9JWnk5NkZCazk4d01uTlRBLVNnRGptVEotdXRFS05oY0tuV3U0d2gtaHFLaVJ0cU5mdWdvVFlBaE05Mng3WXZJdDJTTDZfRng2a3lNTTczbGtYY18wSzJwbGtTelpocm1JZw?oc=5",
+"source": "The Motley Fool",
+"published": 1794583320.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "60c15ad2034cc1c8",
+"title": "SpaceX and Tesla merger talks advance as December announcement considered",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWmZFSjFzZktEbTljU2N5Q01NTE10cEh4ZVMwTWJMaUo0MlhsT3VHd0l0a09zN0V5YlJlM0ZvMDVVWkQ1bzhQSkk0OFpYMmNSb21iNzRudFVaa3gtYjNIY1VzdnZJWjdJS0xORVRIbld2bWprUVFHT25BcGtXamVUeXRlQmQxMnEzbUljLTFTWHpCRjRJMGktOFBOazZnSXM?oc=5",
+"source": "Yahoo Finance",
+"published": 1794583260.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
 "key": "85c63b099655debd",
 "title": "SpaceX and Tesla merger talks advance as December announcement considered",
 "summary": "",
@@ -189,6 +551,18 @@
 "published": 1794583260.0,
 "stocks": [
 "Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "7e99a5a41a15dead",
+"title": "Is Outlook still down? How Microsoft affected Middle Tennessee",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcUo2NjlOZTJubHMyUmZmdGk1QWtlMDNBbExId1JuZmNzNXUySnlyUU1qTDFSNjNIcjBWb3FVM0RRQm0tRE42WHo3aE9nT1hVbFdOeDZCRDNIMmJiaVRrMVUwbnozR1hYaXN3NG9aNGU2eEE1MnpSdGhVVnNDb2tGRzVsbm96VVY1M3dHNzRKSXBManVvT1pmOFpzQ29TTFJvaERkVFRZcjl5Q0FyUVk5VTgwMEtCOGs3LTFPcjJNM29PeUdCYVpfSUN2Z1U?oc=5",
+"source": "The Tennessean",
+"published": 1794583140.0,
+"stocks": [
+"Microsoft (MSFT)"
 ],
 "keywords": []
 },
@@ -225,6 +599,18 @@
 "published": 1794582776.0,
 "stocks": [
 "Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "386d2c175e2285f7",
+"title": "What do workers do when Microsoft's outage means they can't send emails? Make memes, of course.",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOb1gxRzZid3VtS2s1dVJsMzQ2a2ZTV052NzhkdTd3bF9RVW9ON0kwS2dXektWaHFObFd5MGhmRzZ1YVUxNEZ0ODBPYS12QXh0bng1XzJUelVGdEd5RkllWklOamM0NnpEUFIzRDhZaGZjZF85S3V6MVlhR0FxWmtKVEhNUWh6OC1PNWNOemU1bC1QMjQxTmJn?oc=5",
+"source": "Business Insider",
+"published": 1794582660.0,
+"stocks": [
+"Microsoft (MSFT)"
 ],
 "keywords": []
 },
@@ -326,6 +712,18 @@
 "keywords": []
 },
 {
+"key": "60222543bf4d9162",
+"title": "Bessent faults Lutnick for not cracking down on firm at center of Nvidia scandal",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdUdYd0VUTW5TOVFkMFF1VkRjTzQwb1l4MzZCbXJXcGppTGtBTkNoTGRadWh1YU5STUd1Q0pCd0MxbDFzajJXSVdENEozeDRhbTdXWVFHb2hzZDJNVFhMbmR2YWQxQlM2QkQwVDZrQ01fbFBSeklLZWpGTGN5SFdjR2NYLVR3cEZCLWxXWW5zcGZ3RGtHcUZUbloxeWFZektlUlQ4?oc=5",
+"source": "Politico",
+"published": 1794582300.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
 "key": "b80d9acee403ac68",
 "title": "Havtil orders Equinor and OSM to clean up Heidrun B",
 "summary": "",
@@ -350,6 +748,30 @@
 "keywords": []
 },
 {
+"key": "d491cf7de8f7f18f",
+"title": "Why Microsoft Outage Is the Worst Possible Timing for the Stock",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRUtKYTY3Q0wwdDR0WDQ0NlBVV0xsZVEzM0J5aDVUd1hrX2VBOXFTbks4Z2JFZFF6RG9TNjVIb3ZNRl9KRUJvNGxnYlgzQzBKbWVYWDFuU3F2X2VBdU5UWVo1OWVFOHpUX0E3RHNmNXBJQTE0dVU2R0dUS3pvVWhGNQ?oc=5",
+"source": "Barron's",
+"published": 1794582240.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "618d29be457d4e1d",
+"title": "Meta Platforms stock: Brown to take over infrastructure in 2027",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMDJKNkhNWkZKdkFBWm00cmNjcXZhbWs5N2RCeS15UWlWOG9STURGVE1xcFc1S2lHSTVzRUlVTWlmMzZFdHYzZ1dVUTJtMmlmU0xvSktCeXlidnRTSVN1YmNHazJFdUtIV0w0djAxV3dZcGExMnF2cjg3M0VURGVranFwWGRnX3o1X2NjOTBvMmNHWmZkbmFPNGIzX21EaHRhVExKSFJoLUxweFlLd0NrcUY4ZGcySXdwOWU1ZnVzUDlMUTQ?oc=5",
+"source": "ad-hoc-news.de",
+"published": 1794582208.0,
+"stocks": [
+"Meta (META)"
+],
+"keywords": []
+},
+{
 "key": "47ff30478f91e3c5",
 "title": "Form Energy Adds Meta and Tesla Veterans Lori Goler and Jon McNeill to Board as It Ramps Production for Commercial Growth",
 "summary": "",
@@ -369,6 +791,19 @@
 "source": "Bloomberg.com",
 "published": 1794581972.0,
 "stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "3faf0a6aeb709033",
+"title": "Nvidia, AMD, Microsoft, Broadcom, Coinbase, Modine, and More Stocks That Explain Today’s Market",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xNUN1dEs4N0hEbVFCd3JKNGlNTTkycmp5al82X1RBdWxPSzgxc181eF8zZHpyWHVtYlR3OWlxMTFySzlKQjVLNUg1aWFJLUVQa3c3enFtMER5QUd6OUZ0VzNvQ3o?oc=5",
+"source": "Barron's",
+"published": 1794581940.0,
+"stocks": [
+"Nvidia (NVDA)",
 "Microsoft (MSFT)"
 ],
 "keywords": []
@@ -482,6 +917,18 @@
 "keywords": []
 },
 {
+"key": "c620d4c0ac2492bd",
+"title": "Finance guru shares golden investing rule amid Nvidia stock crash",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNjdnQ3RaRGt2bXdLZVk4UVFVSjItMUY0clVBTlNOOVNoU1hkMnB2OE5SbGVfSlJoM0pvYXlVOFI3bDRkU0x3VmhIbFRjSzhqS2xmU3RaN2tSQWxqOGZSZmhiU1dwVE1MYUN0a2lGQW01VWNmeEEwbllZaGxibnV2LWFObDF4WndXb2lzMXhVcV9GNVg4dHQ0aEFYS2M5b25qeG9J?oc=5",
+"source": "Yahoo Finance",
+"published": 1794581308.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
 "key": "7245b4c3733f4c78",
 "title": "Nvidia stock slips as investors digest CEO exit, broader chip sector falls",
 "summary": "",
@@ -550,6 +997,18 @@
 "published": 1794580920.0,
 "stocks": [
 "Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "22d03fde79473ce6",
+"title": "Cramer's Mad Dash: Nvidia",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9DZzVQcDJDU0NqY3J0NTJjWmFHSVRXMXpHZHZQNmVSYks1OUpaYUN5ZVNGdWNoY0xJdF84UGxOWUVPaWFqSFRRZnZkaXRUbjVOOVd5ZFV5VEI4QWdIWUxHazlRNExQQVlwOXhldG1xZWFBRHJt?oc=5",
+"source": "CNBC",
+"published": 1794580846.0,
+"stocks": [
+"Nvidia (NVDA)"
 ],
 "keywords": []
 },
@@ -729,6 +1188,18 @@
 "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRDJ4TU4wSUpIdkYxVUNrRFZ6YzRLOVVyX0M3S3RwemNuM1I1bEZveTloQW1TSUwtMlh4RksxR2lxM2ZiU2tIRTFGS3FDR1dwSFVkRl8xMmVxQlpxd2VwV3ExdHlHUUpqOVN3UGlVdXFvaVdJYjY3YlVLXzhSVi1WTXVVcHJiNlQza2tTYlN2TVM2c0NjLXc?oc=5",
 "source": "WKYT",
 "published": 1794580020.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "7f731f250159a987",
+"title": "Not Apple. Not Microsoft. This \"Magnificent Seven\" Stock Is My Top Tech Buy for 2027.",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVTZTekVacmdSdm5PbTZfaFFSU3ktMXlSb3ljQXMtN0s2TUVOTEFTS1gxcW95WmRNakVoRTJldDd3MU83SkxxWXZuN1FjZjB4cHVSWDRYNk1CdmstRF9UT1ZJQjNJUkpCVV93QWFBVTVVTVlnT0dnVzdLTEVMMjRVb0h2LW9tMEphYkxSaGRrU29CUjlYY2puSzZRTVBTUFk2?oc=5",
+"source": "Yahoo Finance",
+"published": 1794579900.0,
 "stocks": [
 "Microsoft (MSFT)"
 ],
@@ -1564,6 +2035,18 @@
 "keywords": []
 },
 {
+"key": "7c03be3de3bd5216",
+"title": "UPDATE: Tesla crash causes $150,000 in property damage",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOc1ljcUp3RHpqb0VtQmxxYndna2NrbXdmUHA5MEZjdk9kY0FHZXdzV3dobWJaeUJmejJ5U1pHWE9XVjFESDlzZVVtdzA4N2pENXJYRHFPM0ptMEV4VnJXb0RTdFMwZXN2VWNybU5xdmdERmhKaDRGTmNBTkV5eHZIVlgtNzZ3WXZkWEVTdkdPMjlrWTJtNGJYWWN2NXNHbWtQ0gGmAUFVX3lxTE1WeU9haDRIUWRqaWRYTEQyYnFZc2Q1b1QxWE5aci1ydFB3LXRmTjhhemVXU080YVZ6R2cxeXdGNWUyZUhHQlFxWEpHWV9DSWxGQUpQSFlBamFmNnBFeUFLb2xZN01BNlcwZTNHdk82SkFoRWd4WnJZV2JvVGR0Tkh3RDd0cVpHMzVHT0lINWlhMkxlNUFZRDl3OFJOUmVSc3MzS0Q3TEE?oc=5",
+"source": "KELOLAND.com",
+"published": 1794574190.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
 "key": "d55582b2c5cf4492",
 "title": "When is Microsoft Outlook expected to be back up? Latest update as some emails appear to work",
 "summary": "",
@@ -1702,6 +2185,18 @@
 "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOUtUVE82eXE0TG1YNjJOWmRRcmNhU3pZeUNZTFItRVFySUJLNVFzaXRwWkc4T1pLRjUySVYwQzYzV2VmT1M1N1VZa1d1MTJBaF83QWZZOTBKWllZb095UHYzUW5fd3dzRElwNXl0a0tLdFF0ZU5keVNfcFJzOHFLU0NldDhrV2FkSGdaazRPb2hyXzF4LUJERlJGZHVUbnViam1F?oc=5",
 "source": "USA Today",
 "published": 1794573240.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "7e1d2ca6d7875bc6",
+"title": "Microsoft says November security updates cause printing issues",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORWFPNG5EOTRrelRtX3VWRWJYNG5QenRTNm96ZGE4UnVJd1B5VEQweTAzYVh0dlZnemZiSVZYSWc2M0FsdnRWd282blVDT1AtRkoyMHMzcWc1SWV0QnQ0Z09sUUFmTXN5UWJ4Qk41VG9FUTNuWFlNaGtDYzBYbFVjZnNfbDFUNGY2X002OFp1eG5CQkFLQlU0WkFWS2l5UDZrLVp5Rk02dFFFZFRxZS1KX9IBtgFBVV95cUxPX24yeFJFS0xPX0JwOHpSdUtyS2V3RjF2c0RoVFBTN1VuUjdoNk9mbDBzRVhjQ1lfSGJOV2RpS2pVOXFqQUdSSmRKS200SktlR29JcXZwTVhRY0NzMnk2LUE1X0wwT0h1R3FuVE1sVEtmQnhIZTk0TXVmWTNlajVnbFNfSl8yMzA1d2RweHJDQzVZRlJJWjhuLW9DajJ4TXBETjA5ZktFLWJlSkJvMkJnWnlqeEF4Zw?oc=5",
+"source": "BleepingComputer",
+"published": 1794572860.0,
 "stocks": [
 "Microsoft (MSFT)"
 ],
@@ -4384,498 +4879,6 @@
 "published": 1794559003.0,
 "stocks": [
 "Apple (AAPL)"
-],
-"keywords": []
-},
-{
-"key": "387184c1e5863ca1",
-"title": "Cincinnati Insurance Co. Purchases New Stake in Meta Platforms, Inc. $META",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNnNwR25XQ2dNNzUyQV9yc1NFcnVSTkMxeXhxUTJBVU83aFVWUW5lM21sNzNzZFBuUXZsREI2UnY2WUUzcEhyd0tMZkx2c2VjNGVNUXQxZzBiRl9ta01LZTVhbktSWVVYeHRqOHVqc3BNcVFfYVdtVHJ3cTFPYjU5c3JfTkMwM2xNbFUtOWhLTlIyem5PbFk3V3dnSUJOOFNhaWo0UGx2QTVCdE54WnFUN0sweUQwWTNmNmd4emI3cjBhTHl4M2h0LVhmNA?oc=5",
-"source": "MarketBeat",
-"published": 1794559002.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "810b5c4e682de0a4",
-"title": "Meta Platforms, Inc. $META Stock Sold by Balentine LLC",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZ0Q1Smd1TTl5WWlITDQ5dW13OFB6REFDekpoSXNDSGZHNElRY3E2Zk1ESGkxS2ZhaU42cTRicUJpQUJZd1hxYm9UcXVXU2JDM0IyZ0VZVkFBb2duZk94YmNObGsxbUhlNzJPdFF0b2xYem5IZzQwTERuV3YyeVJPNVBmb3lRa1FuY2QwZERZME4yY3hfdElYYzQzNl9qLXh6MFliZDJxVmlmeVJTbzFkZGpR?oc=5",
-"source": "MarketBeat",
-"published": 1794558753.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "584760b563d0f230",
-"title": "Meta Platforms, Inc. $META Stock: Carnegie Lake Advisors LLC Grows Stake",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVlFCM0tlT2w2SEpjazMzOVRsM0oxVFNHYzgwelNuZUVvdTJCNmNLZkt4QzExVDRFTlNaWlZRTUtCRFgyY3VZOWZHTW8tYk1jODF0b01yRDdjaFByVms3Z1UyUnBkZ3lqalJvQjhTcmpVNHBiUkx6NFVVMW9KUHRXUFBLWmxRM1hOcmVmWmlmeFFCMTNtQXFUUllJbE9kdEQ1V2JYSU5oSTZsLTcwbVJOZFJqMnVPTDd3MVlmTG93MWFKdXNheUJaNQ?oc=5",
-"source": "MarketBeat",
-"published": 1794558753.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "6a3b8d03e20311e0",
-"title": "132,856 Meta Platforms, Inc. $META Shares Acquired by Candriam S.C.A.",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdU1vQVR4Q1FScUFnMXdldUVHMGlhOG9pODFTZFdNTjdwZk5VYW5NNzJDNHE2Z3ZPU2ZfZENDQ2NiODkyRmt2czc4anNJaGl6cTZ6U09GX3h6RjBmdkZJY2JSQWNGZFRUTTBib1o5X3VNVDR5a3pqa1hHN3FCNmVSTGNwM3hpZ0ttdUNaSWRfMkZ5ZXdWenN5Y3lSMmU3Nk5VU0tjUnYyZ1JtaE01QVpCSmZkZUp1YnhaUlVDMXpXMkc?oc=5",
-"source": "MarketBeat",
-"published": 1794558753.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "55df7aba51f3c2c4",
-"title": "Avantax Planning Partners Inc. Purchases 921 Shares of Meta Platforms, Inc. $META",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSGFqU1FzT2R3M2VYTjVmdm1sRnNneFpIbFptSW1NUGZfN3FicnlDdHdqN05KZEhYd0N6VFVyN2g3dWVTeV9rR25Cd0dqajVmZ3J3TnpSNDhCSEFPemV5QVlHQVUxT3ZRVjlLd083bXJwcl9MZkpBQ2tpMjhET0pxUkgwcERJc0JUQkRjMXlhSlB2M3pUVG9hVVc2ajV0NzFvUDE5bHJ3NDV3NUVjdzNDb0dCSTZ1Z1NKS1lKN2kya0ZIMTRIUzdoQ29KUVVXa2pWaG5YWg?oc=5",
-"source": "MarketBeat",
-"published": 1794558753.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "65ae7187d7da0777",
-"title": "EXCLUSIVE: Huang exit and US scrutiny imperil $3 billion in Chinese AI projects reliant on Nvidia",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcGIzcVZhWDU2cVlTWlhGZFZUMGlCcldoTU4wc2Z2UUpqUzJiNWp3Sy1kTVFQTnRKbHVnY2cwWHh0WEx3YkV5ZVMxOUFnMmVIc0kzaHdHc0NEVm9NS3hsVTdfTHR1ZWR4OTc2NUNpXzUteWZvblRYcEFVRDBIVTQyanVZTGdDYVFTaDJLTWFYdWNmSzBtU09Dd1RZVkhLUjB0WkR2Rm0tVTZnXzctWTREMXF3QjhZNTUxMHhDWjJZMHc?oc=5",
-"source": "Reuters",
-"published": 1794558744.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "d5d25f93b814ea34",
-"title": "Microsoft 365 outage: Disruption continues with issues spanning Copilot, Exchange, and SharePoint",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSFJvczBPTzUzdDZOcUMxd1kyRlRwWWtlc3JFTVZVeWc0eFdBUmp2YWJyaGUydE5DNFJ3Sm10OFk5dWtOODZNT2ZpcW8xU1JsQ2VEb1B0WFctOUNTQzUwbmJRRUtld3lJMnpzRmFoYW9FVFVEX05VZklLWlpOTTRlOG1fYlZ5QS1KbExobWtIUGR5M0hfMmhMOWktMFpwU18yZnVIMjhrdVdLUGphN3ZEVVl6VkFxS19WdXhjVzZSZFFlc3o2TllkOGxWZDh0VzVu?oc=5",
-"source": "IT Pro",
-"published": 1794558679.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "26dbd4716e0d8090",
-"title": "Microsoft outage: when will Outlook be back, and what the clock means for cover",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQa0c1TlZfLXJLWHJhbm4yZExMQlpfM0lJcE9YSmh5bFFQdFNLd0Z5RGNOcHZqdG9vSXdHYW5DcG82U0VHLWpYeTdBNllhYmJrSmhERDNmUTVTRnlGMlQtV181RjY3Ulo3VDRPUURMWFVpa3ktMG1WcDE3UzFxd2JheW1rYXo4TFE4Vy1KS0JPSWtONFhlWkcxcTc3RDk0aUxMamQ0Z1ZaeXZ6WDJfQ0l2bWFQd09rZ0dROTF4anR5X3M2QnVlLTkwVUoxSFhkRWxzYVpya3c5WQ?oc=5",
-"source": "Insurance Business",
-"published": 1794558600.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "7fa4abefc5a8bdef",
-"title": "Microsoft global outage: attempted fix ‘not working as expected’",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVE02cTJoYWpHNFQ5a0FrOGFlaGtHY0ZReHFVV3ZPYi10TWFKTHJYcWNUQmdrZXJUNFJiRzBaclp3NkZOMFk1TUtGLXFiOHFpMTNpMzBSRi1INXVkck1pQW5ZVFU1VmZEME5TbXRKUEtLRVBQaHB1QVl2eHZlX0JCbnVQYm5mOWtacEtRNDBjakp2TVJlcVp4bVpneGNlUVk1NUE?oc=5",
-"source": "The Times",
-"published": 1794558600.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "d75a2ba5ad0b8fbe",
-"title": "Microsoft Outlook global outage repair efforts not going 'as expected'",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMVZLdEpkTE95ZU5XaDNwcUtVVXlzbkk2UnUyRGJkLWlETmg5eWlrVTRQRmxYQnRnNU9lbHQ4UGU5b1BDRDY1RmI1NUE0RUVsQVRsUFljYmtoamxCZlFmWmNSbm90YnlVSURFZHpTRXBoeTlGTUpIVlpKS3Y3VEFjT2R1eG9VdDNrMWdzRW5TVU5lanBVYXpyVnQ2OHQwU0I2TTFIM2s0VQ?oc=5",
-"source": "Euronews.com",
-"published": 1794558600.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "fe1943e9ae4bf35d",
-"title": "2,669 Apple Inc. $AAPL Shares Sold by Barrett & Company Inc.",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSzJ2Ml9GVFpoNGh3Z3A5blJSRHF3THhuUU9EQzlLOVVza01CVEVCbGhscVZFcnBMWVc2SklzTXg0Nl9ndUYwMUZKcUpUaWRJUERqTWIwVFU1bGEwcXk2bVFZTnRpTV9KeGYxVEpsSGxCMXFIMDZTbm1oajVmVEp0XzBsdGVfM0F3Vm10OUZBVkFGWkxmQjlicXJnQXBDOXpEZTRtRUgzeHdVYTFCNzVsRFZDVkFWQQ?oc=5",
-"source": "MarketBeat",
-"published": 1794558555.0,
-"stocks": [
-"Apple (AAPL)"
-],
-"keywords": []
-},
-{
-"key": "126db2dc2d50b8c8",
-"title": "Beaumont Financial Advisors LLC Sells 3,156 Shares of Apple Inc. $AAPL",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVXVFWDlRR3ZIeGlYcXJYMlNXQ2tSWVliNV8zVl8yX1BvSHlXWWhOX2drLUJyMW1rbHZ5MzhSd3VCQ2daaUplVTF4bEx4bFdFcm1nY3lCQVFvcG1sSXBaeDRpWGxZc3FZLXFsLWVhZU1RQmpUaEIybHpxZWkyWHNIeU5lb0JNQ0ozc2RJMVZiZzE5UzBPRTFQaDgwQ3RiYWxiRVZpY1IyTFFWcDZtN1J4MWdfOG52SFA4OHJJck01ZGFIY1o2RDEw?oc=5",
-"source": "MarketBeat",
-"published": 1794558555.0,
-"stocks": [
-"Apple (AAPL)"
-],
-"keywords": []
-},
-{
-"key": "00bd78efab70d033",
-"title": "Apple Inc. $AAPL Stock: Capital Investment Advisors LLC Boosts Holdings",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSU9ya203dEY2M1NKLUdNT0NzZF8tTlJEZWlfVVdLT0lsYmJHR3NuVGY4U3R4LTlPYmUwd3Z1Uk9nbTR2Skp1LVEySjU0NERhT1UzZWNueTN4QVk2ZWZ4UjM4MHVRVTEyTXZXOFBiX2g2dG9IUEZCeHBBOGlsVXZ2RjB5a0JUR3ZfaXBEYXFIZnVMY0RBMFlTa0k1TUZzYnlVaFJvckMtcnVoMVBNa1dCOUk4dzNGMnRWY1NGc3NxU1RYTEdrTF9VZA?oc=5",
-"source": "MarketBeat",
-"published": 1794558555.0,
-"stocks": [
-"Apple (AAPL)"
-],
-"keywords": []
-},
-{
-"key": "6be6279e8efda4fa",
-"title": "Apple Inc. $AAPL Stock: Capital City Trust Co. FL Cuts Position",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNmhncGh3SGNxMEp4dDN0UnJkMnZ2YS1vUHo5RUlXVTVDNWxJdk9BVG0tTFFvQnRDazBNYURYb2pNSjNuYVR2c1YxRjN1ZWswTS1icTZXWVBxMWlhc29YMjlhV2dqU0UzMWlRelpKNUpwdm9KVV8tVU9iM3l1TjZuMEVnaXNHUDJFSHozc25WV1ljTnRTYzhycWF0T3JUMGRMSW5ybEJlV200UndOQlBCOG1VeWZRcmI3MmNzSA?oc=5",
-"source": "MarketBeat",
-"published": 1794558555.0,
-"stocks": [
-"Apple (AAPL)"
-],
-"keywords": []
-},
-{
-"key": "99034fba19a04358",
-"title": "Microsoft outage continues worldwide as company struggles to restore services",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNU9wbHFoRHJ0TzJaaVk3NGtLY1dIZnBhWjNLN3VOcGNvT3pRMlFKOHZiWExxRFF4NG14MGgxX1hLV0RhOEJMSU1zM3VBOFdLTUJuUnEyQkJnbEJxeEwwZVlxVHNTVDhvVFFtOVRzZzdDUzliNkJ1U0UtbDgzVkp2Z3RxTDBpOGdnVG82RnFKa3RfWC1USll2SzhFdjRFM0hvcHZfNjJSYWlIaW5GRDk40gG3AUFVX3lxTE1DYm5fYnZfSTc4c3JFTGF1eVNVWDBybkE2YXZRMWQ1UlFSTkUwaXVsZ1VaVGNldUxsT29yVEt0enJjQnhwVDM5blBHRktZWU5pQjFQVFk4SDRuWEpiU0NkSEZQUHBNOHBGNXZiM0pzeXJZa2wzbzVvY0xQemVleTE1dEhiT3NnUjZXaE5nai1WeGxmdV9Fa3NVeGVtWU83Uy1QbkdBOWp0endDUmd0dVJ1VHRwTDYyNA?oc=5",
-"source": "NBC New York",
-"published": 1794558488.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "fe391340b3f23315",
-"title": "Jeremy Clarkson Exposes Alarming Flaws During Tesla Cybercab Ride",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBfaGQxUHhfb1FnU2VVZ2lRSTZZbjBDbXV5eG1LUGlyYzExM2ZnTjJjeGZCalozYW05MFAyQkpNWmhpS2tXTUl3a01qc2pwM0RIMmszYTFXSS1JZVFlT1ZuTkxCYXl5b0RnQjlUSzZ0R2dadkRhWW83eVBLR0c?oc=5",
-"source": "Motor1.com",
-"published": 1794558480.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "6e16ffa942d79231",
-"title": "Nvidia’s turmoil is prompting a rotation across chip stocks. Here's what we know",
-"summary": "That shift comes as Nvidia grapples with the fallout from Huang's resignation, following revelations about his multiple affairs.",
-"link": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-affairs-amd-broadcom-tsmc.html",
-"source": "CNBC Top News",
-"published": 1794558427.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "9caf4bc0512caceb",
-"title": "Apple Inc. $AAPL Stock: Atala Financial Inc Raises Position",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOc0V6R1dGdENEVXJwaUtsdnVKQjcyNnB0U0JsbDJOM280ZFYzd25OdjFNakpjUlNjQm5NcXd2NVExTTEzeGZhajA4bW9DLUZrVlg2SGVSb2ZUTDFMbzdBVGRMTlhfREFzSy1uZ29ncFY0RlBIeERYUFFzUmJRTjU1ekFfU25xR2NndzVXMXBtRFI5UEhwcE9UWmNMSlpWN3VMZVJWbHppLURPb0xnaVNQd2w3ZEVGMHlR?oc=5",
-"source": "MarketBeat",
-"published": 1794558409.0,
-"stocks": [
-"Apple (AAPL)"
-],
-"keywords": []
-},
-{
-"key": "7546052e46123cec",
-"title": "Microsoft services hit by major outage across the world",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRXd0TE5wQThHVnV4Tmp3eW5UNXhxR1FzSVZSTUtGUHM3eW5yVk5RTHhxT2VuNmpuaVpiUndXUmZPbTlWNlNWdUc3UURtWDdMTDRFV1RxOUN1X1dGc2R4SERWcHMyZTQ1TXZZaG1Oem5hMUVnam1rNU5uUGJJcFZvRTVVVTJOOE0wa3FfYUp4LVlIZ3dWcDI2QWx5VQ?oc=5",
-"source": "NBC News",
-"published": 1794558360.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "69d030610f3ace21",
-"title": "Widespread Microsoft Outlook and Microsoft 365 service disruption currently affecting users worldwide",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcVJCR0xkQl9rM2pVOVJMUlpVOWFYeE5MZGFMOTBhZnlOMm93cTF0Q3JxSGNWY3NPWU1KNTFZLU0zYmFLRm5VQ1VLZWp2WTFVc0tZRDdlWmM0RHVfWjhrZlJNOW1xSzAtQ2dBOHhKdjBLcmxDYWx5RzlzOUZ4STItWER0UHdFWWhHSnotb1p6OV8zWWpSV3NVZi1ScGdRRVFTVUdvQzFvaVM3MWlOODhfSEltODhzb1hkamVfQ2pyVmhFTmdEdzZOcVFB?oc=5",
-"source": "Scan Global Logistics",
-"published": 1794558260.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "b0766faf24f81837",
-"title": "180 Wealth Advisors LLC Purchases 1,829 Shares of Meta Platforms, Inc. $META",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNaF9XZzJsbzNxdFh0d2gwTnkwcy1WNDRFbjVjeWlMRmRvUldMRXJwN1V1WmtYVExEUWZvN2JSSlNRYmZ3RF9SbXlyYWpROFNoUC1lUHppSTZfeEdwVVhjdVBzdHduUXZ2b3JOdkdwNl81UFFJZjZyZndMLXdLZ0lveHJJRmhxdjdvbFpSc25yXzgyd1NFeUNIdS11UHhBRGtjTjR1LXR6ckdoM3RtMXBWdGxSVmpxXzR6eVllUC1yRzY0VU9tdG1oYjVDWGlPZw?oc=5",
-"source": "MarketBeat",
-"published": 1794557930.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "da3d4cc8221acf43",
-"title": "Microsoft platforms including Outlook, Teams down as tech giant struggles to fix outage",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSVhrSmRTdTNmRlhaOFEzNWpMYVpzbXEtR1B3TTFaV01vWlg1UHNOX0lReG04QzBrbEJtQ1l2eERsR3k2c1dYTVdjMDdQMHFkRFd3S0tHRXlKc0xfT252d0lxZEJneW02dWNLS19aaU81MThBaVVkcHhLRUJrZWRWYVM0WHJzbmRoMGc2Sm1lUXo5OHpuYjBQMjluZmUyNWdkQTZpQV9JN05jQmszVlRkTHVaRmg1MmxZUHpPQU5fcVpQcWly?oc=5",
-"source": "New York Post",
-"published": 1794557760.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "055fa57c0442d823",
-"title": "Microsoft outage hits hundreds of millions, CNBC anchors can't read your emails",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOW1fVDlRZjNBQlo3cE5oLXhZc0kxNElDYlNtY24zUHBsblBnbmE5OVRMZFRDbFM5WUZhOE1LbDhESGlTcjlTTng5amMwLUl2Sm1Da2xEYkVmanZIakpiT3p6WWM5elB2anAyU245Rng0VkRuYmVIaW5nUkM4cTlNbGc2YS1SdkVLREtLZDlqY3MzcDlqZWJuNVJscDB0MTBXeC1NamJKVGRDUFNTSzFybDJYd1FGMTktLXpKTQ?oc=5",
-"source": "CNBC",
-"published": 1794557732.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "3c5bf158781d3faf",
-"title": "Microsoft fixes stall as outage hits Outlook and Teams in 74 countries",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNnRGVVplQkJwOUVLOFFFdnJmR0xiVUUxV3h2bzZrN2ZsaXJ5SDBuQlVGVDh4dEduX19ncW9aenJuNlNNSmZzeVAwdDhJeC1zX3VlVy00bV90dGJYQl9yWkNxOW1MUlNabmNONHpSVFBsaHdUY1kxUWM4UkIxTmRfbkJfdE1uZzYxRVE?oc=5",
-"source": "Yahoo Finance UK",
-"published": 1794557700.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "c6f2432c4539d8cc",
-"title": "Kommentar: Brent-oljen opp USD 2,3/fat siden stengetid på Oslo Børs",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNd2lRNEw4QllHeHJ3TU5VanpYZXR4ME5IMlVqTGxMeUgxTi16VkMyTV9Cd1R6YThTVzk3SFEyU1hJZ1RzaVhURjZlSzZ2ajJtU19YVHBnRWRHbVJyb0wxNUFFeHg5ZHF3X3l2VFYtTVVkeDN3cF9QejRaaWYxVUh4MlBlZW85eGU1Q1ZqekVGRTlEazFuSWhRU0JYc1lMVDhhR1F0MDhLcUxLQWhncFdqUnNXUEVkdUVhcFE?oc=5",
-"source": "Finansavisen",
-"published": 1794557605.0,
-"stocks": [],
-"keywords": [
-"Brent"
-]
-},
-{
-"key": "a0f936676271bfb9",
-"title": "SpaceX Is Reportedly Preparing to Absorb Tesla in the Largest Corporate Merger in History",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVE5RMDBISzNhR2VTRHU2M1JCdkI5UzRYU0plMFdxN0w1TkpFeVN1TVI5M2JRTkpUSFBwaTg2TWpGQmdNRFBsYUJMNGV0UDR3UnpyUEFITlJUdU5VVUN4YkM3djJPS25CYlFkcmZNZWxCN0ZzTVlwS0NaWlFDMTkyV1F2bi11YlRhMmdsQ1pvX0I?oc=5",
-"source": "Hypebeast",
-"published": 1794557361.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "4a03d6fdf187aaf4",
-"title": "US Senate chair asks ex-Nvidia CEO Jensen Huang, Commerce Secretary Lutnick to testify",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdVBEQ2hWTWxFYV8tejNsWVN5ZGdxSkNSbDRES2RNbElaZkRKclBINlRTbTNrUEVnSUtCczdJU2QxQTR0ejBDVlpsTEZNa2o2R1F3WGdidnk0R3NtSlc3TDNLN05xU3h4SzQyWFVTY041WTRnblNVbUZOMTlDa1VCZkpwbzJkYW9zMlHSAYoBQVVfeXFMUE14TzBLeHFmM3NHelkwR19NTjFGQ05zZ0JCVk5sV1ZzZGRKVVlHM2I1WVh5WnR6dWpRTWlKaElmaUw4YXVmcVpmUDBNZktnN2VhUmwtN2hqMDdsMzlXX2dhZDJId3A4M2FmanRlR3l3R2dVMjJCOW5ReXo5eGRUaERscGV0a3ZnZkhn?oc=5",
-"source": "DW.com",
-"published": 1794557357.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "e60dd6b1b6c142b6",
-"title": "Australian minister says Microsoft doesn't believe they are 'dealing with a cyber attack'",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNY2U3MGtrWnR6a2s1RTdmWTB1dXUxcDVJV2gzN29EUDhwejhFX1Q5U0tuZzVBdG9tdHg3QklnY3Myc25ILTVudFFwQ0xndE1NaGtoSFJwV3R1OVIzWklsSm02MnBoZV9uYzhEZWxva0VQSjdBcW5Yd3gybGNoX000ekwyVk90RERuQ2ItZnFLanU2Nk5qZ2JpSTIwei1rOWpXd0lZVzlRNHF6UTFxSzNiSDlRMFN5RERCRXlqUkV3TXc1Zmc?oc=5",
-"source": "KPLC 7 News",
-"published": 1794557334.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "63435ac42b8780a4",
-"title": "Tesla FSD Referral Program Expands to Canada and Mexico - BASENOR",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMkxSY2luUEVNOVljMFdJczNTSGhhemQ4alpTV000TGsxbWZiWG5DbHBldWNDdW15UGxKMXcxbUJpbERhZ0VQZXpFRFRLQ2FFZjE1eENOYWx0WTVrWUIzTEx6YVAzaTFvampoZzhNNWRORHV5XzFSekQ2enFLb2dVMU52WFBTQjBuYXlQdmwxZXJWYkQt?oc=5",
-"source": "Tesla Accessories",
-"published": 1794557036.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "9d534bf72f17f7ff",
-"title": "Jensen Huang is out at Nvidia. Elon Musk says hiring him would be ‘an honor’",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9rTVBpYjB5SW45Z01FbGxPWDN3ZUhNMzFfakIxZFpSVjE5UDV1akZxQUFzU3lsMXhFU21QNHRfWDlRMjdLUTNGb0xOR21MMDMyRDFIcHowWHlKdThzQ0JITmItaWYzY2xzZU80UDR5T1IyTzBPbXVIS0lkbks?oc=5",
-"source": "Fortune",
-"published": 1794556980.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "d887d85ab701696d",
-"title": "Global Microsoft 365 outage: Thousands affected in Netherlands",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNE1lVDV2RDY3TXJQb0QzVE9wS3VuNVV6Zk40bWliOHA2bkNJV20tY1VkNmdKa2NxalpTNHZVQWNtd0JzalJtWFNYQUJoTjhfNlZCOVo5RUc2dzFsT0YzbnBDZzZBZGZXX3VnVGxUbmRwQk1QMmI4aS1mVTJvaWVIRldwYUYwR0RaaWlGbGVtaHFaZw?oc=5",
-"source": "NL Times",
-"published": 1794556958.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "61a5b2fa98669b36",
-"title": "What we know about the global Microsoft outage",
-"summary": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
-"link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-"source": "BBC Business",
-"published": 1794556885.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "813bd6025d3a0dbc",
-"title": "An inflation scare, workers get their fair share, and Nvidia’s billion-dollar affairs : The Indicator from Planet Money",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaGNvV2Vwcl9LY25hVTJRbnVWMzhtM2Z5V3pGcENMVUU1cEZCeEk1TjRNMjJBRkF5aTVHcDd5b3l3X0VKd3BsYnlxWXVkamJ2WDhaSUF3WVNRTnhVNWxSTGJOaVRkb3dscDlsWTg2VmdfMWsyYlFnYUdzaWNHYWdON3AyVHNXRDdPMDcwV2l4d2Y2V2Y5U1Zta2ZhdVlleHRlWGxTNHV0S24wWklZbFhJeFRVRVVHWFNqVFlOQ0NHY1IxbkYxbXc?oc=5",
-"source": "NPR",
-"published": 1794556800.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "5a4ad994998214a8",
-"title": "Key facts: Tesla-SpaceX Merger Talks; Cybercab, Robotaxi Expand",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaGFIWFNZcF9iY2JVbWs1S3BzX1duQXM2cW9PSFVoWEp3czNZLWFkUzh0SGlwenllTWZMRThEbl9Ca2dEUXYwOTliV3h2QzNpZnczb0J0OWRfSW0ydTJnUmZzZldXaFdmTHFKNjczcjVIQm9INWplUVl6YkNLQXluQzhxRl9fd2ZZSURidXFsV0h1azA5LXZXMDhvbXgyOWJzRFNrVXNmMVo0TjBKWVFGcnI1ay1STlVWN2ZCSzM4TQ?oc=5",
-"source": "TradingView",
-"published": 1794556800.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "6094048e25ca2979",
-"title": "Microsoft’s Exchange Online Failure Leaves Outlook and Connected 365 Services in Prolonged Degradation",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPcjVwLVUtX0w1b0VFd1FfWHFPenVoay1yVG11YnoxQVlJWjZrTUxqazg2QzhybG9ta3pvT2sxMjBRQlM4dWlkeE1iUW53c29tbklFQ2lpNnVhb3h6ZWlyV212RThrbjZoNVBsN0RITFQ1NndLTjlLUkRvZS10dHpRa2NzTkx4SEZveFhLYzA4TC11dFNDMUxqUG1WREhHblVyWlVsN29fSFFCZHFJaWRWTFJxRy1KMG5Uc19rV0k5Y2plVEtyVW51ZlBYOUl2aUJiTTFrN0VOVWxKeU5qR1hLOA?oc=5",
-"source": "finchannel",
-"published": 1794556684.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "d1442e4eaad705ce",
-"title": "Microsoft Outage Hits Global Operations: From Airlines To Visas",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOY3B1dVdmWW1jYlVWX0s5SllTZDVWV1h6aEx3QmEyQmk4aHEtcXZ5dW5oeHdUSFM4cUlvZGRGYW9UTVAyMnFyX0hQd2hYN1lUQm9DSlZXRUxRcGpZWUtTdGU2cFlIclFXaVZYRVlOZ1MtSTJ2bFctRGhIX1VncFhVdzZzSTlCSzVwZWNaTmN0amFXeE5DWGdwd01IamI?oc=5",
-"source": "Newsweek",
-"published": 1794556680.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "70e2bd720b976ee8",
-"title": "A baffling trail from Australia to Singapore: what is Megaspeed, the company implicated in downfall of Nvidia’s Jensen Huang?",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQanFCMXBvUGczM29qQkFnZzJEMjFHN2k0ZVZhWDZYTlUwVERqeGtNNGpmWjE0Y0J3RC1aMGVxd1JYdWNaZnAyclVTVTVreE1kSUlkclJXNUE0MHJjclFUQndxVnlNbTM2YUtiRktvWWFwVGtIRmF1T2Rqd1U5Z3BIdktScE5LVF9IclB5N1MxQnN4eGF2aG5TM0hDdEpZU0lZWk9UeC1zRFJ4SXF3OHFBdnAxSS1UUldIX2k4a1UyXzUza2lzYVdjSmJSYXNLZlFUWVJKYTFsak5UVTRpVmdDU3dYR0wteUtXZmpLS0xCTWJ2TjN2Q3V2U2pVdFlXMjliSFE?oc=5",
-"source": "The Guardian",
-"published": 1794556500.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "89d22364197cff24",
-"title": "Microsoft suffers global outage - as fix not going 'as expected'",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcXZpV1V4RVZoMGZRVmV3N05OdldVYWZOeWVlNnREbDh3Tjl3X2FYb3J2VFAzZlZsOFFNU3FVSnl0SmQ1X0h3V3dzTlo3NVFBbjZyWGJIZjRpcEhYclZzMUgwQi1LUEpYVFpLa045UW9ERi1aNm11Uk1hMWVLVl85b1kteUMtd2VfYjM1cUNZalF2Rk1XZ3kzMXNDQzU?oc=5",
-"source": "Sky News",
-"published": 1794556129.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "3653686ea657c2a2",
-"title": "Microsoft Outage: What Went Wrong And Why Is It Taking So Long To Fix It?",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNkhHdlBNMk5vdEhzRHpxbHNwTDNHSWdRcmpFMlJiYlVFR2Y4TmtjNS1LTWVCTEhWNTVsZTctaVczdFhfUnpEbUN4eVJWaTlGQ3dmS1pGX2ZqbW9GN2RWZGtyblo5bVR1UXpwVWNsSVNCSlhEQlpqdHhIQkF2dzdIY1hLMW0welh5R3UyUUFjREdOZzQ2Wld0a0VWUTRHSVRHWkQxa2RlZmtlTWs4Q3BjeXNzajRVM3lPOHRKb2lB0gHGAUFVX3lxTE9WM0Q3ZnNUX2ttVkdvTHhSeTIwdUg5V3ZVcG5UX0JJb2otX29qaVhfTjRvNnV0bGhxWTJUWV9MLWQ5cDRLdEtad0RPUXlRZFR6ZlZzXzZ0dWhkWmhaNFoxNDlCQ1JCX3RXRGNZRllqcjU5Wm9CeTYzbHRrNTZVN2tYRExrSUZuMGtxaDgxTzMyckw0dXE0SmlPUGg3SGlpVlNFUjY4SzRTc0s1OGo2MDRlS19qYzh6aEFPMUo5VG1QaURqZGpUUQ?oc=5",
-"source": "NDTV",
-"published": 1794556049.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "51941fae4594d1cd",
-"title": "Microsoft outage hits companies and governments worldwide as it struggles to restore services",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYWY5MnRXdTRCaHJZT3BKRWs4TzQxdUR3NEZzQ3ZsTmxCLW9wcFJJMzFaLS1pVGhtb3BabWdhN3pvQUhPU0FNbDJMV2I0a3BWaGtuQWpxVVNxRTZIUGhNS3c5RG5oVHNGaGg3XzJDdkE1V0RBWFJKVzMzTFVnN3otc0xZNWhCWWducmlfS2dXZ3lGcUtWcFJQWkxnejVqWjFxTlZKbENDamJfUQ?oc=5",
-"source": "AP News",
-"published": 1794556020.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "e1f62702f42cfe3c",
-"title": "Form 4 Meta Platforms Inc: Javier Olivan (COO) For: 9 November",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUUxfdXJuNnlDM3ZPemVKNXVxbFNhQ1F4bXJUR2tpOTVzUlBVdm54alIxOTZWVmFuRlRZbTNObXl0S3AybFFKU2oyZFlib3k5V0FQd09FZlNybERhdmZpbmk3c0RCLURTZ0tiZEk3RFJBOE16ekY0QWdPNkQ5TkFDNHk0dnV5VnJUX2h6Q1lGOGVaWHAyTExWazc0eW0wdmR2bFFueWVoQzF0aVNxazNWbkdBcDRCV292OC00?oc=5",
-"source": "Investing.com Nigeria",
-"published": 1794555770.0,
-"stocks": [
-"Meta (META)"
 ],
 "keywords": []
 }

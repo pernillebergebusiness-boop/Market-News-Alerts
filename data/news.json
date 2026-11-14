@@ -1,5 +1,5 @@
 {
-"updated": 1794688003.7029994,
+"updated": 1794690317.6696084,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -72,6 +72,30 @@
 "Yahoo Finance: HTTPError"
 ],
 "items": [
+{
+"key": "e3f481a5c41bf4a6",
+"title": "Tesla Cybercabs Filmed by the Dozen in Dallas Before Planned Launch",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONDlzMHQ5VDU2SEVJcFJFQW1OSUJRZjFJU2pfZGZBcENST0ZHb2xocXBSUWlwemRZVUZmMTBVWWdySVUtUHgwUjB2TWY5YzBsTTA1Zk1UYjhMb0h5dG9NUHhqOHA2R3hSMXdBU1lDSkZHSW91Q0U0UkpRdGJTN3VBeVNYMzYwVFU4OGlzT05nbE5SdXc5Wko3RzRCWjZLeTBJamtwblFn?oc=5",
+"source": "Electric Vehicles",
+"published": 1794689100.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "7b669fec087b882e",
+"title": "Blumenthal says Lutnick ‘must go’ following Nvidia scandal",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLXF2TW1semtjZmNCMEVCZUN0czVVc3ZpTmlCRXg1Q1ZMMmdwS1ZsdG1Db1ZqTHpwYXBfQXd2YVRUSm14VnNVTzVnTUpiR3o1UkllUlBYaEtHX01fYW9wbERYWGJvZWJfV1RSTi0xaGh1V19PWU04bHBMRnp3R2VfN3lLc0NmdHJocVhlUEg0bTlzTWFuVHfSAZsBQVVfeXFMT1A1UWZqRC0yNV80UEtmQV9DSmROa2NKLVhmcTZnMjhBX3ltdmJrMXYzTTQ3VkozenJpazNyTVRHNFh2cVpINnZhcEpJSC1wVHBhbVRrTWlodDlrTTN5YnZ4VXphbDNQV182NnNXbGtObTBhc180UkRZNTlKNDhpUkxCakx5Y3BzcGR2ZUpqSGw1ZHAxS3dBeTdVcUU?oc=5",
+"source": "The Hill",
+"published": 1794688380.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
 {
 "key": "6c8079d1bd20e444",
 "title": "Emirates Pokes Fun At US’ Aviation Disaster From Ground Stop & Microsoft Outage",
@@ -261,6 +285,18 @@
 "published": 1794681300.0,
 "stocks": [
 "Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "04f232b660a7faeb",
+"title": "What to Know About Nvidia’s Investigation After CEO’s Affair",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOXRtcTJ0d2pQR3BqR2p6V2pSUk1BYldyZ1FjaG5Hb004YktMaDV0T1JKVTZhdlVXQ09EZ0FvNFJsMldneEZOTVpFVkJid2JyMW9MTHZnek5iMVpyZk5XcjJoZWxRYm5XclNveVNZTDduMF9zMTR6Q2J1cVQ0N01lNGpTN1hPOEFGeC1tOTZ2Wi1SYVF2bXBOR3hsMA?oc=5",
+"source": "WSJ",
+"published": 1794681287.0,
+"stocks": [
+"Nvidia (NVDA)"
 ],
 "keywords": []
 },
@@ -1101,6 +1137,18 @@
 "published": 1794671160.0,
 "stocks": [
 "Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "ebfd59ceedafa134",
+"title": "Nationwide Microsoft Outlook services restored following outage",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSGVnS2pXTzFlRjJBS19mR21RRVVnN1gxelhqR2JuSnh1NTd4NWRhaUVVOU9RMkhlRndLbTdsYV9ZYndXazFZV19CbXBOUlFtR1lxUXFfVTZDd0hYUjd0SkEwS2E4aUJNUXVCMmxIQ3lGMzZ4TDhUWk1Ea0hfZkFicDRB?oc=5",
+"source": "News 9",
+"published": 1794671100.0,
+"stocks": [
+"Microsoft (MSFT)"
 ],
 "keywords": []
 },
@@ -4826,54 +4874,6 @@
 "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ1dyUFlEbEc1YXdFX1U2Mmd4WUFQWHd3QlFlOVBWUGFNYXVQYlhTOUhuMjJ0cXBGdUtLNXVQTzBZc3ZHWFN0a2JheE5DOXYzTnkydjQ3RGhqenpha3l0TExmT2ZEZTI4VHZvYktqOTlLVFlwYXdJSG5KdU9ZOXcyRW1SQjRvSkttaENoMlpiaDNMT3FkdFhPeEhadUxWakRTY1BRWg?oc=5",
 "source": "Yahoo Finance",
 "published": 1794613376.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "1b7ce6f05f6bfe3f",
-"title": "S&P 500, Dow, Nasdaq End Lower Amid Nvidia Turmoil, But Record Best Week Since August — SPCX, NVDA, ARM, AZN In Focus",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWUpjR2Y4OTNkb290ZEs3VzNwNWlSRW5zQ19LYVJwRXQ1OTdtbUZadkdQUmNPZ0RaTHQ5VnVVXzA1VWp6VEJjQlkyeGFFNjJwVmdnU2dKM3J2WXpsYVVqRjRCZ0poOUhUWnRTbDZQX0tBbUo3QXlMVTdEV1BxQ0FGcWItZWZpcEZTd2dpZVRR?oc=5",
-"source": "Yahoo Finance",
-"published": 1794613049.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "9bc371453dd101ee",
-"title": "The Tesla Model Y Dual Motor Now Costs a Lot More",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWloydWNXUkFyZmRnaVRocFFsWFowZGtSaV96U05EYXFISlVYdjFoTVp1enF5SEZlOHI0YVhvb0l5QWpGeFNuR0ZwallBYWJoRHFsVEdWa3NDYzVCbFdMbGFjSjBMZGh0QzJmbnJRRjVRMHg0dFJaMGY5bGxEVGNTNQ?oc=5",
-"source": "Yahoo",
-"published": 1794611760.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "2292cd53a7b9315b",
-"title": "Jensen Huang commemorative plaque gone from famed Denny’s where he founded Nvidia in wake of scandals",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNmRmS2UydkJ1US05cG81b3pnY1QzdEF1dHFoVXdYbnZwazBwWDd1VnZCa2tnbFpNeXpOeGNUMllpSlhyQUhQSGNnbFNJdzdsRndQZDA4NFdlc3ctNlBUY2dxMTZFRWwzOFBWcWhmemlpTXl5TnFhejRjb21EMzcxRzZqUUpRNFlBenhKcEw4LXo2U1RxR2tqTXJVQTFtbTRsaEFQM1c4V3VLSVp6c1ZyRENKa2s3TS1GWlExRTgyekJPd214QkE?oc=5",
-"source": "New York Post",
-"published": 1794611520.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "f8db777c248a08be",
-"title": "Nvidia approaches Arm CEO Haas as employees seek Huang's return, reports say",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMW5kZ01Wbk9TVFVaV1BrRXYwZEs0RmNORjJySnlqTDR5V2E2dlcwcVFFdHBVbG9nQjBPaXFWUjFpX2ZpR0gwUWE0N1ZBODl0VjFWdVBYLUJUYkFWZThNRmJEenhjbnVKTzA4Tkt6T1lPN1NzcTJPTFVDRFV2VFNrWWJ3ei14Q2JPQmZKd19jSUo2MHlIdVZhR3plaWtnNERYdG0yTi1XZThxLTZoZ0xzZUJ0dmN3OHJERlRuN0ZXSQ?oc=5",
-"source": "Reuters",
-"published": 1794611515.0,
 "stocks": [
 "Nvidia (NVDA)"
 ],

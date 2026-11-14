@@ -1,5 +1,5 @@
 {
-"updated": 1794630310.6209505,
+"updated": 1794633471.310918,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,6 +73,66 @@
 ],
 "items": [
 {
+"key": "b260a069d7026cf4",
+"title": "World recovers from the day Microsoft stood still",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcjRkbzl2ZFV2cXV1WXpzOXQ5U1FGdk5qajVMLUMxeWlqOUs0MGN0ZzBXN29xd3VrTzZ5QlhyQ3YzV1lLWlVnMnlwYXdSMkFTRExESXBZSmZVTTVwVXpwWEVfM3BuSWhrRlZ2YWJOOWdOQVkxWGdVdF82XzJJVGRoMlBpNkRnV3IzUFNsaThn?oc=5",
+"source": "Morning Brew",
+"published": 1794632922.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "7d150eb21c25c091",
+"title": "Tesla Cybercab Orders Open: $299/Month Autonomy Plan and Delivery City Pick - BASENOR",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYkNLcDRoT3k5UHB5NTE4Y1k1cTFlYXE2aFIzZ05XMzYzaUpPVG1Od1U2SmRoWGVOanpIeUN4eXUwZlI2MzFkdWpMM05vRUtvRUluTXBXc3MzY1JseThWSVQwY0F2UVV1WVAyMkR2dmJnWndSb3JzY19iVUlQSVZwczJ3VmRITDRpYU9vckNvWXRkOF81Vk9RaHdxaVVRa0w2d1JIYjlNOUFGLU5C?oc=5",
+"source": "Tesla Accessories",
+"published": 1794632727.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "8388b11f3f7ef268",
+"title": "Tesla invites select customers to buy Cybercab for personal use",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcGgzMS1yMHhhem9TSVJvWDNRcmZSa2dQZE5yNzhCdGRsc01MUVhPVGZvWTQ3TWl3N3pIRjhWb1cxZHI3UnNsZWh1MERRR3VwTWZCeHBSQW5sa0EweWhPcVRUamRib014X2YyMDJLOUJiRF9jNGtoeV9aRmxxU1VtSlZkNVBqTUk2b0I1Uml2aWpidmJPUzdfLVo1cEJVTkNFWlNHQ2tJYU9vU19zQU9LOXN5YmkzSlk?oc=5",
+"source": "marketscreener.com",
+"published": 1794632372.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "1fd4cad65468ec2c",
+"title": "Elon Musk, Tom Lee, Shopify CEO Sign ‘Stand With Jensen’ Petition To Reinstate Him As Nvidia CEO",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMEx0TURqbXpxMG5VRk1HZjNXMTNTV1F2cUNhWkVWOVVUaV9QU2hmX3UzcjRsVVkxbkxLY2pfS3hzZXpzdU1UY1ZOWll5Qnc1cDR3b1d2eVNLV1pJQl96Mktwek1wNlpNM2hCSHNubmVLN1F2QmtpdlREV2pySTBmSUNybHdqNjBRZVgtNm5Fend0d296?oc=5",
+"source": "Yahoo Finance",
+"published": 1794630728.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "f48f4981143a64a5",
+"title": "No emails and office chaos for thousands during Microsoft Outlook outage",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQkM0cjM3d2R1S01uNVdtNWhKTUYxaDREQXRxeVdiLUxESHNEcXRrQS1LU2FZS0s4bHg3WEJOY2ppMjgzZ1prLUZaLTdBNF8wNU56Z3Byd1Nya2FCOXBCemxVOHY5MktCYm5UTWJQVGRIYmFCNGU4d0MwU2xJTWk0dy1Qbm9HT1RKeklBaklqN2U0UTV3emJLc3ZuME9Kd9IBsgFBVV95cUxOVVBRbUpVZEJzUllDaF9ZSjRocFNPd1hzdERFOGxsRmxMU05rSDlMOVk0Smx1YS0zRmhFcHFXZXFmWjctMXg5bTR6T2NLYVlnU0hOTlhxcUN2bnFEZlRmMXE4c3FzZG9UMHQ3eWoyZ1JhUDduWU1yaDg5RXlGTGhNZzFtLWl0SmI3RVdRbFNzcUEyOEZtRnV3MjFXcmI0eUpnejBUUl95bXFhaTdPSGJXdkZR?oc=5",
+"source": "WLBT",
+"published": 1794630480.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
 "key": "563713d0ab97561f",
 "title": "Microsoft melder at dataproblemene er løst",
 "summary": "Microsoft opplyser at tjenestene som har vært rammet av datatrøbbel siden torsdag, nå er gjenopprettet. Alt skal nå fungere som normalt. Like etter klokken 5 natt til lørdag norsk tid meldte selskapet at tjenestene var tilbake. Blant annet ",
@@ -85,6 +145,18 @@
 "keywords": []
 },
 {
+"key": "77b2cf6175c09e9e",
+"title": "How To Handle This Market; Nvidia Earnings, Anthropic IPO Ahead",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQmoxeERFTVM2VG9DVVBnRERlZG4tcU0tOGFveC1mYlhEZEJydUZNM2ptaExRYU1LYXg3XzlUUHhtZ29JSF9OYlZtd0FSaF9mME9TYzhTWUVJT0lSSGVPSTMxZlhkTWhQMVp4MkRFVUdUZHRTNVd1bTdTckF2Q3VYdUxKY3kyaFpDaTZkQ1BVMHdrTUNQLUhnVVhPZzJIM3h6Tlg2THNnZU5NRDRvV3NFZUlta28wVXloNGhfNUFFTWdKR3Q3Vk05RnBhQXdWQkl3UTlGRC1RRGo2QU9rTmc?oc=5",
+"source": "Investor's Business Daily",
+"published": 1794628560.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
 "key": "c0065cb536577561",
 "title": "Tesla Unveils Cybercab Subscription Model: $29,990 Price Tag Plus $299 Monthly Fee",
 "summary": "",
@@ -93,6 +165,18 @@
 "published": 1794628023.0,
 "stocks": [
 "Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "e1fd7e0bafff34a1",
+"title": "Microsoft denies role in FAA ground stop that caused 10,000+ flight delays and 6,600 cancellations; compa",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPc1ZnYjZNdmJkWkNFakdpVUlpMkFBM1I3dlJqNHdUdTdUUUk0d0lZTTJDV3ZxNnBBejY0c1pmZm43Qk5hN2hsaDVubVZ6bUtoT2F5U21WaERzc3dCRU1IY29OV3l5bU5XbWVvNG9xM1BrejNKZjcwanhYanBneHNoQTVUUVBrSkR4T1M5REU1bXJTWElCcGdYWFZfYUJRTThBWHY3Vmk5TjNWVGtacmxIc3NCQUhKM2RKSktadzlJRzh6WUN3WFdqYlBUTHBRa0tjdlQ4eFZQTkJSLXVVcENnSXotWXBEOFdBdklubmJlVG1XV25obkM4RloyS3FLOF9taXFRTzNGdldQSnhKc3M0dUFCMXo5RWgyRVJJRm9uQk0tQ0JRZnplbkt5SVlGWUxDTm9MajkzdHAtX080aHRzUdIBxgJBVV95cUxNZXNDX0dPN1gzU2N5UUpOaWVuTzBCQTVoc1NSNXJoMUdITGdfNFZsYUJPLTd3YkdFa2x1V1B5WnJDZ1RRaGZwX3g1cnhLLWppNzZ5dkpRU3Mtdl9DVXNMbFRQU0xCU3B4Q1o0QWFFZWhRNTFZMm02cmRkS1RIQ00xUTBYNTNudGgyZG1VeVJsQi1tcXBQMk1SaWZqVEg0UENVSVZVcm11dk0zdnJzblRoLVZaSW5FaU5YeEVONFNFQTNQV1p0TXkxMGNJdnBkbGZDcXNjWDB0UzltYkVZczN1bUZoeXllbmJIdHh2YkpsNjRBdHdXMlJqLVdYemJjQ3dqQXRnc0tOZUJMNkNOTHFQVHI3SW9VUlRfN3MwdGdOWW5VQmNldm5kNXByRVFfY09BSEkwMElDVXZBZlBuekl2bG1idk41UQ?oc=5",
+"source": "The Times of India",
+"published": 1794628020.0,
+"stocks": [
+"Microsoft (MSFT)"
 ],
 "keywords": []
 },
@@ -141,6 +225,18 @@
 "published": 1794623612.0,
 "stocks": [
 "Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "e9dd2c0bc01753ce",
+"title": "Ontario Teachers Cut Tesla And Doubled Down On SpaceX",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZVU5X2hKWW9pdlhOdU9pcmZ1bmJCbXVNbDVnMlIzb3o2ZE5QSDhfZjhQMjYxeEI5SktwNnJnX1luMk95cmhUNXFzTG1Fcnl1VE93cWc5STJRc0xrbVFqX1k4OEs3cjVxR1FtZ0ZIQ2pleFNxakE4U3U3a0RGZkxOUlVGNEMwdmE4RHc?oc=5",
+"source": "Finimize",
+"published": 1794623123.0,
+"stocks": [
+"Tesla (TSLA)"
 ],
 "keywords": []
 },
@@ -4778,103 +4874,6 @@
 "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeENuMk4tX1MwYkVSbFlHNFhKc0RGTFBMbTdrMzRLYktPdDBfeFJmT3lhZkp4QmZsOFo5SUVSZFh5VzZPN2xMZ0FMcXZzOXVTSzJkWUdJSFdRSjVNZHVnV3pXWDh2Mk1kM19uSkw5MlFKSS1qcnpzbG4zcjRJM3VGX1MzaEtsdHExWlloTWdzQ0cxaFFvNUJzWk9CcXJRVGdvSGpGT3RJSHZFNUcxTkplNnF4cDdxUQ?oc=5",
 "source": "Bloomberg.com",
 "published": 1794581972.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "3faf0a6aeb709033",
-"title": "Nvidia, AMD, Microsoft, Broadcom, Coinbase, Modine, and More Stocks That Explain Today’s Market",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xNUN1dEs4N0hEbVFCd3JKNGlNTTkycmp5al82X1RBdWxPSzgxc181eF8zZHpyWHVtYlR3OWlxMTFySzlKQjVLNUg1aWFJLUVQa3c3enFtMER5QUd6OUZ0VzNvQ3o?oc=5",
-"source": "Barron's",
-"published": 1794581940.0,
-"stocks": [
-"Nvidia (NVDA)",
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "b42b3f0e0eaf0ca8",
-"title": "Nvidia stock sinks 2% in fallout from Jensen Huang resignation",
-"summary": "Jensen Huang resigned as CEO of Nvidia on Thursday after coming under scrutiny for two extramarital affairs.",
-"link": "https://www.cnbc.com/2026/11/13/nvidia-nvda-stock-jensen-huang-transition.html",
-"source": "CNBC Top News",
-"published": 1794581712.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "a6c03b91b9b8ed19",
-"title": "Bessent points to Lutnick’s Commerce as he slams Nvidia chip ‘leakage’ to China",
-"summary": "Jensen Huang resigned as Nvidia CEO days after admitting to an affair following scrutiny of his relationship with a woman reportedly deemed a Chinese spy.",
-"link": "https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html",
-"source": "CNBC Top News",
-"published": 1794581615.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "a505cd7be6c0c5ab",
-"title": "Nvidia stiger igjen på Wall Street etter kaoset",
-"summary": "Databrikkegiganten Nvidia steg igjen i det New York-børsen åpnet for handel fredag. I tidlig handel fredag er Nvidias aksje opp 0,6 prosent. (NTB)",
-"link": "https://www.nrk.no/nyheter/nvidia-stiger-igjen-pa-wall-street-etter-kaoset-1.18081445",
-"source": "NRK siste",
-"published": 1794581565.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "cab75a983fb0c62b",
-"title": "Nvidia stigier igjen på Wall Street etter kaoset",
-"summary": "Databrikkegiganten Nvidia steg igjen i det New York-børsen åpnet for handel fredag. I tidlig handel fredag er Nvidias aksje opp 0,6 prosent. (NTB)",
-"link": "https://www.nrk.no/nyheter/nvidia-stigier-igjen-pa-wall-street-etter-kaoset-1.18081445",
-"source": "NRK siste",
-"published": 1794581565.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "4bf4cc6686e538c6",
-"title": "Is Tesla The Apple Of The EV Industry?",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONlJYaDEyZ1pzbTFRSVRPdUJ4X2VuZWNWaGtVR00zNy1zeUlvcW91bW9TVDBBSGQ0dU5aSWRuQ0NLRTNtQTJzXzB0N3JBMVl6aGMtaU9PRWZSaW5SelJScVE2cmxaWlBKYWxDVjhhNXg0X3R6dXp3V1VpTHhndmdRLQ?oc=5",
-"source": "CleanTechnica",
-"published": 1794581554.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "b4bc99182dad7d8c",
-"title": "Tesla Cybertruck resale value in 2026: 3 things sellers need to know, per myEV",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50eDlTcjV2eHN4QXdLRnFyY0ZxV2t5c1labjA1TGpyR3E1MjN2MzBGT1AzTlJzdGYzcV9UbnNGUEpQMmx4UzdWdkI3YTBYZ3Q2WXQ3ajlHWGo2c2l2RkE?oc=5",
-"source": "qz.com",
-"published": 1794581526.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "338c92974328b73f",
-"title": "Microsoft outage updates. Was it a cyberattack? Company responds",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPYXYyRG0xNUJKVG1DSWw2dG90eGxCZzB1bmR1YjA3WTEyVEowcWtlZkhhNXpQZjU3cVUxTTMySkNwUW9JQkNYTkVfUzdrQTl3UmVtT1d3SHFrSFo3YnhlUWpWYmdrdUQ2cldJdzFZSHFBTGRWdGRxUVZlVmp4YmZMNmpWR1lUN2xzS2hSNmNfYVd4N1ZISkMySlFHUlVqNE9faEp6Q0Q0QjhiQ0pnLUREWTBsbjFCTm9YU1BjSGRYUTdCb1A3alNWRHhBYUxTVDU2aHV3S203N3RHLVYwNEdFTzdqbkl0QUQ5RmszUTJHa3N3Vk1QWmp1Nw?oc=5",
-"source": "Shreveport Times",
-"published": 1794581520.0,
 "stocks": [
 "Microsoft (MSFT)"
 ],

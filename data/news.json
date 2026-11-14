@@ -1,5 +1,5 @@
 {
-"updated": 1794686031.393039,
+"updated": 1794688003.7029994,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -72,6 +72,54 @@
 "Yahoo Finance: HTTPError"
 ],
 "items": [
+{
+"key": "6c8079d1bd20e444",
+"title": "Emirates Pokes Fun At US’ Aviation Disaster From Ground Stop & Microsoft Outage",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUU84V3lpV3NzZ19YbndTb3I1RGJtU1V6eExMaWlvUFpyZVVOaE9oV1pVMG05dVQ3NmwxLWhGVXp6bi1MOUNiWnFwZ2Jabm0zWXoycG5IR1V0SnNYcHEtNng0akhPek4xNGpXMllDMGxyc2RYdmV5S2xoLXZucHZmWnFxQ0ZaVFVZd0U5bTBKMVFDRjZpZlA2d2ZR?oc=5",
+"source": "Simple Flying",
+"published": 1794687027.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "a889f240a39799bd",
+"title": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPb3UyZjZ1cldRQm96REJfQ2QyeTB2MnJ0cEFNM0xBR0x5SjBWRVVYZ0Foc1BQUGRZcDZpUDc0b2FsSnZvZDRjQ3c3UVpzMVVnVVNWZTlvNGZ2LUtRa191dDVYQXN1Y0JCNURBYWNZakx0ZzI0OHdhSzdhdXhZYXNYbUxHdG8tVmIzcHlzaklfaU1WTkhvTVJONnlsczdUMjFOUjBsa1FGSGZaZVNCUkFXVTNJRWMtcjFMdV9xNTlQSjA2cGZGU1E?oc=5",
+"source": "TechCrunch",
+"published": 1794686684.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "c6958e602a089bf2",
+"title": "Juicy 6% Yields Gain Appeal After Nvidia Drama: Credit Weekly",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTzVYbEh2b3Y2SkVCTlRkZXpFWGhVTVNRdUFhWk9XMW1QbEl6X0NyMkdIVFJFQjNlUXd5QjNqeE14eUh0MW41bzYwUmpDemZSZ1BnOHJHRk8taUFtaE5hR0ROc2otbjBaTDJwUE5EbXNrQjlxcjZfSWdrZnNPOV96TWJMQlRNNXdUZUVvcFBVbzl1MlNtUHBCLS1kRWZKSERYOENCbGFCUFhnUUtNMUNF?oc=5",
+"source": "Bloomberg.com",
+"published": 1794686400.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "9cb1f310d54c5897",
+"title": "The Chinese spy allegation that toppled Nvidia's CEO is starting to look shaky",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWTNUMDdhTjZBOXhTMUpjTVZsdm9oM1hDRkdhblZHTTlEbzFlbVgxN0VtUVdXMlVNSDNaSldFTS1VdkhpUzBvZ0x4SUxRbWV5SHVMc0RUNmt3dUxUTHJEVGF3RHdxbER1V1dxVU9hY0g1dEpZdE1WVGVQNlFCRlY4S1VqaVN2aG9zazBGUDJwZWt1WHcwai14X0ZhNkhoeXNUcG83Zw?oc=5",
+"source": "Business Insider",
+"published": 1794686400.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
 {
 "key": "0f553e5166d1dce4",
 "title": "Give your Mac or PC Microsoft Office Home 2024 for a one-time $104 payment",
@@ -217,6 +265,18 @@
 "keywords": []
 },
 {
+"key": "cbf2698d5bcacec6",
+"title": "Jim Cramer has a strong take on Nvidia's next chapter",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWDVSZVZES3c4LThOc0w5ZHo5VzJLa1JLeEJ3emlxVVJldTRlbDlfaDdCSkV2MUhYdEZEYXhVRGdndU1QanhFSFk3bkVMdHUxMXlhTkhfOWtvcFI2RWpTbzFuZlJ5cUZRNHA5UGNvOVkwb29rei1GQ2gxTFhTcFNqLXowVE56UUJieExMaHlPNGx1NHlHWHNmSXdBSQ?oc=5",
+"source": "Yahoo Finance",
+"published": 1794681180.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
 "key": "aab8806ea8b562ed",
 "title": "What Is Next for Jensen Huang? His Top Options After Leaving Nvidia",
 "summary": "",
@@ -331,6 +391,18 @@
 "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUzZTLThfUTBLbjBidmFtRFpIajRTR09DbkduYS0yQmoxbjl4a3l5cEZxVWFYVWEzb3JfNkZKT1AtYWRTcFp1QjE5XzZFbjQ1TVlWOENHU29udGlqcjhjWHVkUzlyN2dRaE1NblpnYkhSN0d4NEloaGdNNmJIY3Rzc3FPYlktREdGMTQwdEpERUx4anlOc2lYZ1R0Rk90aDRrdnJpalUzMUxPcGxvWnc?oc=5",
 "source": "24/7 Wall St.",
 "published": 1794678480.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "b6d9efbe6809a571",
+"title": "Who Makes Tesla Batteries, And Where Are They Produced?",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPanBHOUJIOHhBV3ZoR1lCU0o1cTRxNWNYZHRlRUlwRmMxNkZYWWo2dEstekxsdkpPYml4QjY2Zk5IeVVIVndfMlVvd0hWbkZjdUtOY2l3bGQyVlFQZXRaX0h4NktRVDJzMjVFYWV3UFFRRThaX2t0anl2NFd2SUE5c3FHcGgxN192NmF4MUhJeWFQN2ktZXM4X2FIdEJ3ZDMxQjNvR1VB?oc=5",
+"source": "Yahoo Autos",
+"published": 1794678420.0,
 "stocks": [
 "Tesla (TSLA)"
 ],
@@ -1003,6 +1075,18 @@
 "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdjY0ZVBKLXJXMk1MNnotdU9ZMllGb0lqM3NBc0MwbTZ6X0VlZnV6ZWFlSng1cHJvVm9OUVdVU2Y4NWgyTkIzN2M3ZFAxdTRvMUZMbWJZWlpnYlpOc2NYVzdhbW4xVXg5b2JFN1FKbUxXSWQ4S0pQanVtTExBdV9peXdLalZmaWZ3b0lZV0RNazkteXQ1Ni04Ug?oc=5",
 "source": "GV Wire",
 "published": 1794671218.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "941243cc3097f1b7",
+"title": "Romantic photos show ex-Nvidia boss Jensen Huang with alleged Chinese spy lover as company faces legal peril",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQU01oNDZvLVR1ekU5c1RYdUFfdmpSenNDZHBINzVkZ3FDcXJKcHFkZXFaZkJZTlpUaHpCbmc4bGhueWpxaDVoQ2k2UnBHOE1SeHZtdkRMYXdoNnJCRkJ2aVJmSlZOMW9NY0NSX0RKb3QzN2ZYNDNjT2RMMURrcWYzYVcxZmZQQWFobHU0Ri1BSVVxdFVna3VDRFJ5U3NzXzdmTHEwQktma2NyRl9kbGpjN3hwV2FrUUluMGVCTXpQamdZaENKYUl6MmhGVXVDRkdTY0d5SlVXLTZVcTg?oc=5",
+"source": "New York Post",
+"published": 1794671160.0,
 "stocks": [
 "Nvidia (NVDA)"
 ],
@@ -4792,91 +4876,6 @@
 "published": 1794611515.0,
 "stocks": [
 "Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "96aaa656f2bc2777",
-"title": "PODCAST: FAA issues ground stop, Nvidia and Microsoft latest, Pope returns home in Peru (Updated)",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRWJ3V2hTUXNWcFdGRV9VLUt5WjFuYjV2T1g4QVJKbmVmNXYxSXZnV0tDWWh6RWdpVnJVa0tjMGJ3UHJOaXg3T2diS1J1RTBMQTVhV2lENG40WDZPRzA4S3B2YWxBTW92Y3VqQ28tZTJsTUpLcW5mbVNWZ1JmQW9oNHE3bDFRaFVlOElVRVNjb3hDQk5fSEU4SFhDem9SSnVmcElxSQ?oc=5",
-"source": "Reuters",
-"published": 1794611398.0,
-"stocks": [
-"Nvidia (NVDA)",
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "e8b664209f6467ad",
-"title": "Wall Street stocks mostly lower as Nvidia extends slump",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYTQ0Qi0tTlhXZ254X2s0WmREa0U4Uzdaa01KZGo3V0lCbHFtM29qc0YzNHNvUHQ0LVN5WFBDSlBnSGJXZlh5Wm5GM09PVG5JdVVlTU9wWEhPVEhCUzRScWV3RDBicnVUbTVRQVJ6ZTlYRmJUTHJKOE45SUVPQ0Z4cFdGSnN1NmlsbUtUOTEza1FDMGdwaXhDTV9kdm8?oc=5",
-"source": "Yahoo Finance",
-"published": 1794611224.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "4b1f2df3a555659f",
-"title": "Tech issue grounds all U.S. flights day after global Microsoft outage",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbW5CV3htWXNNYTFBaWJUTllaXzVjV3RDZC13ZE5xZ09WQi1SYUxEUUI3YjJCYzdrRnh1MGhnY2tFRmhiWnNzVnBaZEQ4d3IweHBQaGE5cy1XT1prckFWek1hcEZDSURoMDh3b1Qxc1FhXy0ycEMyXzc0aThNbDhreUdaZGNnNEIyUEE?oc=5",
-"source": "Northeastern Global News",
-"published": 1794611211.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "0090c61e1384fd70",
-"title": "DHS chief sees no link between Microsoft outage and FAA ground stop, doesn’t rule out AI",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQ3FIR1BiR0ZyRXJUMjdBeW83d1hxZFJxbnM0WkhOOGRiWWowb2gxb3VrYUhmdWVPVXFiU1AzYkZzeERRMWZSQVBkTWEtV05EN3I3dks0Y2JnTUlRSmtBOE0zYWVnZEthMlJEQ010MUJfVDkyQ1l3azdmS1FkSmxzZEQxQzFpODZSTGhnVmxMWVVBTnhjN2xpajRKOTRpdlBHSEFDb3VuLUJrWlJ2OHptWE1feERyZC11ZnVtWWpGSG0?oc=5",
-"source": "GeekWire",
-"published": 1794611050.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "4b8b12b1691a9167",
-"title": "DHS chief sees no Microsoft link in FAA ground stop, says possible AI role being investigated",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQ3FIR1BiR0ZyRXJUMjdBeW83d1hxZFJxbnM0WkhOOGRiWWowb2gxb3VrYUhmdWVPVXFiU1AzYkZzeERRMWZSQVBkTWEtV05EN3I3dks0Y2JnTUlRSmtBOE0zYWVnZEthMlJEQ010MUJfVDkyQ1l3azdmS1FkSmxzZEQxQzFpODZSTGhnVmxMWVVBTnhjN2xpajRKOTRpdlBHSEFDb3VuLUJrWlJ2OHptWE1feERyZC11ZnVtWWpGSG0?oc=5",
-"source": "GeekWire",
-"published": 1794611050.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "8c0ea93b4400e0d6",
-"title": "Woman Hits Parked Tesla at California Supercharger, Accuses Owner of Racism As He Starts Filming",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZlk4eU1Gb2dhcS02bjhLbjNCWTNjdnpRaE1ENXVMS0FjOVB2c2tDaTdyNmwwRWgxN0JKSkpFQXVqck9oRkdGTFRqTGZRX1RORGROMUpBbEYxcjBvRi0zeG4xZ1NrcUlDVHMxRG5jV3pjemJfdk5YVG82OUhqaEtTU2hrdk03OVpQeVN5YzZmOEF0amZISkx1bkdXSWpvbFRtcnY0?oc=5",
-"source": "Yahoo Autos",
-"published": 1794610838.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "340ef1017693b7ef",
-"title": "Porsche CEO Takes a Swipe at Elon Musk’s Flying Tesla Roadster: ‘We Want to Steer Clear of Effects and Shows’",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMHVub0gtYWpqQVVJaDdnaDltMU1LQndmaW9zOENzdFAwU3BTbi1HS3VjQjlwb3d2LUREUVlWazd3R0wzSEdzbXBKSlRBcDMwWXZ2bUpXQm9Wb0RpYWgxWUVDWjFnRVZQVTJlSmdzUUUzRFByazdVZmw1UDB5emQzX2Z5QU1FNzE5MldsQ0NKMXpuZ3ZMRzdrRl8yRQ?oc=5",
-"source": "Yahoo Autos",
-"published": 1794610805.0,
-"stocks": [
-"Tesla (TSLA)"
 ],
 "keywords": []
 }

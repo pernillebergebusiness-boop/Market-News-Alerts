@@ -1,5 +1,5 @@
 {
-"updated": 1794699136.2590108,
+"updated": 1794701703.1260417,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,6 +73,68 @@
 ],
 "items": [
 {
+"key": "3a8452b65b43bd75",
+"title": "Where was Nvidia’s security team?",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE00NFBKNVAtbmtnZUd0M3VkSGVvU0J5UjJEWWJnT21OWDQ2NzhOcUV6d3BUVk5JTUE0MzEzMi05ZTU5b1dEYklfMExMRzNIOGVhX3EzaHo1WV8tdUhWNWlHdTRfYzljeFFzQXhsOElEY2ZNRWcw?oc=5",
+"source": "TechCrunch",
+"published": 1794701287.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "e6f3d067345eee07",
+"title": "Warren Buffett’s Berkshire Just Hit a Record High as Nvidia Sank. A 67-Year-Old Who Bought 1,000 Shares in 2016 Can Sell $106,000 of It This Year and Pay 0% on the Gain",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPODJfX05LOWRHRWdaT2ZTTjFxTnZzb25YZmFfWGxrS1FrNG51TXpxQURpZ1NYX2hHWVpraDZqeUVUd2V6U2VkTGdvZ3ViX3pPMm41RU51S0RRMzdLYnFGdUxnZ0xKMFp2Ym43RGdEdUl1c1BTaDNmS2hrMDYyaWgxYjhMeFY2V1hWRTMtMWsyZHl4V1Nwa18tUnN3M2djc0E?oc=5",
+"source": "Yahoo Finance",
+"published": 1794700380.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": [
+"record high"
+]
+},
+{
+"key": "d314e0aa42aade82",
+"title": "Nvidia's Ousted CEO Said a 1-Gigawatt Data Center Delay Costs $10 Billion a Quarter. Here's Why That Matters for Power Stocks.",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUWl6b2pYWE9JeUVLZm9CdVJKMG5tZVpVczRqb3cySk5NcjVVZFlMNFBZcnMycmYyZlZIcFk5a3pfdS1BaWthZ0hpaFVMOWxlbmpfOWxWV3YtSXVnV2pFR1RwN25hNlJxZzlGTWsxVExXTGI0cXZuOTRPQXVLNUVwdHVUa0tySVozLVhHVEtzcWw2MzNEWUE?oc=5",
+"source": "The Motley Fool",
+"published": 1794699900.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "ee92d83829ecc4bb",
+"title": "Musk says Nvidia will lose 'critical' deals without Jensen Huang",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNVR0VGFBanIyWWVqbzVleDFVdHJGWFJVTnU0QnJNN3RzMmxydlUzVW9LZXo2OFg2elRqWkhnYW93c0R2c19qQnBxZm5LOEhqWHE1N1J1azNSLXNST2lJOFppOFVPUDBDaDhFMWIzaWVaYWdWZUp4U0lEbUtoUzJ0MHVSM25uTUF3MHd4N2xINFFsblNtZ2ZjdGlOTnQweUdjWEtjN2ZPUG8tUdIBrwFBVV95cUxQR3dSXzE2eS1MMWhKZWs5WmlsenpDdThpRE85OXRzdE9oSUxoNmNfWlBjT0U4ZXFHUnpBYTdTM1ZKcklRXzZ0TzZkelUtUVZRZ2RNWHZQejRYQzllNGtBUm9DVU11WE4yVEtvblVraVBhNVZCNkQ3Nm9DWXB0WTJGejdIOUdZSzRZNnpvakczeFE1aS1peVcxMzRjYjlkOFhtVXctUDZNOVBEQjU0LUZF?oc=5",
+"source": "The Korea Times",
+"published": 1794698820.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "4f200e46d581ba5f",
+"title": "Tesla Opens Cybercab Pre-Orders for Select Customers With $299 Autonomy Subscription: how 11 outlets framed it",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxONWVJME5UcXlFUkdtSUFkNHg5MVNmMWdXd3VrQzFTd1laNVd5RUpqXzJZM1dNMF93UmFuVEwyQlJqbzFzRFFjNnNFUjZDUU0tTEdjLUlTaDRidjNRZzBhNWtsS190VHU4Q2oxeFpCUGllTkFRTDA5ZENPSVZkX2QxY0drbU1MS3hsS19SQ0FCSjJLaEhPcW53OVV5ZTZHTzlEdEdvTTFmclp2bmdFMlBHeXlCS0VmUnpYN3phNU92VzZnLXU0YWZaOFQzZ0ZQYlozNmtaSTRrWGVRLVA1dGhUQ1p6UzhIcUZPTkE?oc=5",
+"source": "NewsCord",
+"published": 1794698467.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
 "key": "051709f52364cc34",
 "title": "Microsoft outage continues",
 "summary": "",
@@ -91,6 +153,18 @@
 "link": "https://news.google.com/rss/articles/CBMixANBVV95cUxNUEtoR1hGeE9SeHNaRnJuRVFzSE0yR2lYOWVMcGpERXpjaFU1UHduX3lobThYZzNodUdLRTFQM2lUMVNHWGJTTkRYNXZsczk5NWgxQ1FnV2g4N2JsR3JKM3lKU1hyYm9KTHNvQmlnS2lJc0Z6RkpxVTFCM1ZpYW1uWTF4YVhOSm1ObWlJU212Z3pNMUxDQWx0NDQ0QmlWaUpDZDROMXpBUzlQWGh5S2VkT1AyaVlPQ0FUek9kcmpxY2lEQllNYUFneGxHUmZxYkJzZVdBRFdLTFBaaDJRcV85N29NM1lBVHY1TGprSGFMdUIydjFFdlRKY1N5Yk02ZkRSSGQwa3luYUNIWld2dHpnT09pSXFGeE9wTUg5UjBGcDU2OU5LSUFiNFRNMmVuVDllQ2JGWVRKSVd2TkZtdWxtQU1mVkxHZXhOSlUyTnk1d1NkYzRtS2NvR053eFhINERXQ0NsUkVRa0R5YmNiSHc1MlJpZmF6MGFtYWFSRDBVYkNVeGtHcEtVd0hCRXhkbEVOd1hXYjhDRjdINUMyTVdYTnkwVDVXem1sY0w3Q1ZxcU9nZUVhb2txUXpfVG1nMVRKVnBOZQ?oc=5",
 "source": "The Globe and Mail",
 "published": 1794696749.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "d551d6318dbc62f1",
+"title": "Elon Musk's Tesla and SpaceX Lost More Than $420 Billion in Combined Market Value in Two Days After Democrats Swept the Midterms, With Investors Fearing New Congressional Probes. Here's Why That Political Risk Matters for Shareholders",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOS0thRUx6eUphUHZrRXRYYWxQVnlUenk5eDg4WEd6bkFvYW9rYWFkSy1iRVZ1Y0pscGRlUUh4TmxSQXVXYUpJelA4OGs0T2FxSDA1UEROSGxCanU3VVVfejJZLXJQNkd1WkZkajA3VWlpb1VpbU9XSEdhclF5WXBLdkpVNk9oUkdlUndqSDc4NHRWMFRUb1U5aQ?oc=5",
+"source": "Yahoo Finance",
+"published": 1794696482.0,
 "stocks": [
 "Tesla (TSLA)"
 ],
@@ -333,6 +407,18 @@
 "published": 1794688380.0,
 "stocks": [
 "Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "ab1fefd453fc6cda",
+"title": "2 construction workers die after being hit by Tesla at Pickering mall",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNY2t6Mmw0c1o3WG5Ld3lNUlgyX25UbENtX2pJdjRab0N2YUlIdmN3bk05WVZKY2x6eTFtU1ZfNE9mb3FEclJDd0tLM0k4Q25QN0VPYjVfeWs3dHNPckE2d2lkRnhFN1Fad3VZNlpuRU1YZWNCb1JhLW1uWDlYTXpvMHEweDBnWG1GLU5rRF9JTDJORkJadHZOQnkyT2MwU0Z3X09RRjBuRzNPblIzZHJicmJKQ29kQQ?oc=5",
+"source": "CP24",
+"published": 1794687066.0,
+"stocks": [
+"Tesla (TSLA)"
 ],
 "keywords": []
 },
@@ -4790,90 +4876,6 @@
 "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQWV2alBLQVV4UzlJSGJacVYyNjlrV25vNi1uM1BfUXdtVGhTZWsyRThzYzdYVXZ1bExsdWkxQ3FLT3RXUFlhVE8yNzNtQnpnQnNRUnBXYmRsSHBwWjJabGI2bFUwd1JXVTZfY3Bqdjd1eHdaSW5Id1R5UjZJVm5NN0V3RzhDSmxSN2Y0S2ZyaEROYWptTm5nVktCVUEtMDd5QWtmcTRvXzl0Q1VlQVpTam9Bb3E1dkJIc1RWVmE5d29rbGhsRm1wRVZMMmRTdlhNcVFwaw?oc=5",
 "source": "Eurasia Business News",
 "published": 1794618592.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "010f2870316b9902",
-"title": "Institutional Flow in Meta Platforms (META): 83% of the Options Money Is in Calls",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdUx1TWdfTDZwWmNwTGs3U2lKX0xMUF9BUWtObG93T25ZdU5pOV9GZ3FJZGZBWGFjWlRLSWJEMjg4RzhxWkZwXzM1M1I5M2RwYU00d1o1bUlQNXd5dllrNTU5UG5NS2ppTTZzNGF4d0k2TGVIZ1ZxU2hBcFdkNG92ZEc2ajRjeUNwaU5aaGVGbFRRREVYZkhXNlNsZmN4cTlBSGtHbjhDc1FhdmRSUG1KMDBOSQ?oc=5",
-"source": "Moomoo",
-"published": 1794618344.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "4c43a11d444bf474",
-"title": "Can Elon Musk Bring Jensen Huang Back as Nvidia CEO?",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONEtyRXhGWFZvMWswbUZ1bzRvQ0FvNTBzR2dZZ1c5Z19wcktIQllKdzhIR1RXSGFCVlpDel84MjM4YVU1VTVQVzFlNlQ3THdGWHpRd1ZIenVUUFU1bXpJeDdLUmtHTVQ5dmU0aVlaUXFuNUk1dEg1bUVNVHpaUldWVEVmY1RZUmJKMF96Y0hzQWpoU1hlVzl0eQ?oc=5",
-"source": "Yahoo Finance",
-"published": 1794618000.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "527978a83b4ead43",
-"title": "Microsoft ‘deeply sorry’ for global disruption that could have billion-dollar impact on Australia",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdlQ5Ty14MWpQMERrSHcyTkVNRUxnQXIwbFBZNURDMEhOLXhwMWpLWHhhMGxLU3hhbGthT21ab09GM3hpWmtjTzRESEVoTFdjUjF6UzRiTThGUk9rQWJfR000X29EeFZ5b3hScjVNOGZwYklWQUlIeDRmbll1c0E2Qm9rbnJ3bVpuOGxUSnU4Q0pudGVZdy1WX05aWkFOOFozaVctbDJucFZDSlJKSjdjcWlyUmpxU0h6bHlZRjlyRWR0OEpnUFU4TVNoYk5aRmFTSGFxVEVjMVJfbWF5MXpoQnNfdkw?oc=5",
-"source": "The Guardian",
-"published": 1794617640.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "14344e0a72eb60ff",
-"title": "Microsoft outage doesn’t appear connected to ground stop, company says",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTEo3MG84WE51Zkt6ZEhZN3dtNjczTnlqREtFdjZPQTFwQlpYb0x3aG1haUJFNkwyTWxjVUh0N253SGxIYUwxUTFlWjlpWXowX19fdXhrOU1fN2lZZUV2V3IzRGxEY2VlX2xuYVFFM29kUndQVURBbVNvX3BNZWdqdnZpd19IN29oRkYwVHJ0dlFsQS1qU1M3d0lPdXZyLWdlNUJ0ZGVuNC1mRmFBVkpvTlpYcDBWaWJJRXdF?oc=5",
-"source": "NBC News",
-"published": 1794617568.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "04f97d527876913b",
-"title": "Microsoft says 'no indication' US nationwide flight ground stop linked to its services",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQT3NEVHRGQjVLQmxJcG9FelNUWUxhLVI0Rnotb1RaVFh0LUVmUWtFNFhJaHZ3SXJuaEFCeVkzcVNPUWNfcTJJVlo4RGVjT2JreGdBd2tpM1NSMDRxQ09xOENSdGZfc204ME9Md0g5bnFENkUzUHVQR0xpYjJFQTBiOE5FaGpZR0dPQ24yQ1dzakl2aFRyZU1ZOUFuaVhnbF93VldNRF9vM0hlM1R0cDgyQ2FNZW9YUEJOd0hBNFp0QQ?oc=5",
-"source": "Anadolu Ajansı",
-"published": 1794617378.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "922f2a55215af972",
-"title": "‘Sorry for the disruption’: Microsoft outage causes 2 days of trouble",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOemhOLU5LQWJXeVNRRGFYSV9NVldpQnVMS3RpUEEtY3lSeVlmR3lEaWNYS0VEV29sdFdDNUNyRnhLcXdlQmhlOVREV25YaEllald4eVQ2cXp3aTBNOWl0R1lOZ1dGaExac2ZFMThERDlSSDNrcnY5dFcwQmE2N250b0pNcHEybFR0QmxWajJkRFlmSmJ0eW0talE3QnB0V0dmSnEtWnZCdHF5WHU2TG9uQnY1TmJBQQ?oc=5",
-"source": "The Seattle Times",
-"published": 1794617233.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "030875cd23be3105",
-"title": "Jensen Huang Just Resigned From Nvidia. A Study of 187 Forced CEO Exits Shows What Could Happen Next",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdHV0RWZPdXNSSjlGcVAtMms1QkpodEhZanJPN3BNUW92TFdHLXZ6QkhGVkZHNUtWamthNW9CMFFPUEw4dHo4S1B4cW04UmJUSkJpZHBjVmhZaXVYRHlCcWM4NXRzN1VqdExKOGFrejl0LXRGb21tOFJodE12S2hBenVSX291VEFtZWFTZ1RqbUpaZWNvdjZlUUhyRWp6WVgyY0RSZmtfend6TW5NSWExb0Q0dFhKOFlPcmNhNVJaX2stZ2hMc0ZIeVI2VzlpR0ZyOGVJcnd6MXhyVzA?oc=5",
-"source": "24/7 Wall St.",
-"published": 1794617220.0,
 "stocks": [
 "Nvidia (NVDA)"
 ],

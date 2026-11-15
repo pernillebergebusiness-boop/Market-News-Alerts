@@ -1,5 +1,5 @@
 {
-"updated": 1794709298.8348012,
+"updated": 1794712446.961033,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,6 +73,54 @@
 ],
 "items": [
 {
+"key": "fec24271232de45a",
+"title": "This Honda Civic Is The Direct Ancestor Of The OG Tesla Roadster",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdTVyb2pSUnRvdWpFMGUwNmdrMGNvMnZrSEN6RDlqOFVORVVCSlVpbDJlc2FSTms0Z3RWSktKZlBZM2otRlJDRWNTamJuTGE1TGZPelVLSmpCZFJUSGtldmZTT1BxSFVWeXJoR2szVUhfaE9XcDVmSzFQcVpja0ZwMUxIUWRaNDN1aFBhUV93LWJ6SUJNRU5vVV92dw?oc=5",
+"source": "Jalopnik",
+"published": 1794709500.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "a2cd857d27e5b1bd",
+"title": "Korean Investors Bet on NVIDIA Despite CEO Scandal",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZFBfNzJsQklZUEpraFVqTEFiaHZ5NENZdXp2ajJxeTF0UzFLd2ItQTVmclZNOFlqMjluQXBqTXBBUnBqTXpXYzhuUGxwMk9mQW54ZkpWdzV2N0NfMFhmNHhwUExZZE1XdzZkZGtYTEowVGkydk0tWmNrX0IwYVpzeHlrVkFDZTA0anJCSlhB?oc=5",
+"source": "조선일보",
+"published": 1794709488.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "542165a8f61dffaf",
+"title": "Microsoft Confirms November Windows Updates Cause Activation Error 0x80041008 and Printing Failures",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPamJNYXZUS0pQeU5UdlZ1ejQ4bGQyODUwcFhhRVBnU0QwRFh1b1Azam1Vdk9hSFNCeXo0Wk14TV9CRzA3SW9fdTV5NWR0VXRTOVI4QXVNazdVUER2UDRjcUM5bGxjMngyaDktTEk2UjFGTzVkM2FYbzVGTEVfMVkxM1BjTDUyZ0FTNXVDSVhIVnhqOEtHVlhpeHpDOGtzT0RzaHYxVTRNNzc0SWdPdlNFUDJfT0xxUXlEOXNsdl9DTU9LcGJpQWVNTnZWS0E4LXM?oc=5",
+"source": "gHacks",
+"published": 1794709397.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "be2a1f772914f429",
+"title": "Broadcom Jumped as Nvidia Fell. This Is What Has Investors Excited.",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVE80a0hXWnVIcExDQVV4M1llcExRWVFKUUhDUVlwcHB6c0VvdEhEYWNvRElGV0tlTjBxcFMwSTlXSTlWemNDWmNvalRDRm5Bc0ZhTXpXSjZ3bU5NQ2ZZQnZ3aDlDWWdWcW5DMmpYY3drVzVsRkJaNkpJVElsYk82bXhlSHZEYVlWZXIwR1BVTVZEMEdkd0ZZT1dKbEhCUy04LVdnRQ?oc=5",
+"source": "Yahoo Finance",
+"published": 1794709200.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
 "key": "6dd18ce81970b009",
 "title": "Broadcom Jumped as Nvidia Fell. This Is What Has Investors Excited.",
 "summary": "",
@@ -117,6 +165,18 @@
 "published": 1794705900.0,
 "stocks": [
 "Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "328df679ca939c0f",
+"title": "Microsoft announces service ‘restored,’ global outage over",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOEVOZkJlWFdLNUl1QnVTdk82ZDBaTDUxMkNQdFpVSkFjLTdqRXpQeTlpQ0NGMmNrZ0N0Y2ljbjItWExBMEx3VWZLWjRycHlQT0hPZlpUNno5eS1OUFBya0xtVkY0WE9FckdGVmJySEowSGhCZ2FQdnJHVG9IaEZDZEJfa0F5NVNxZEFvLWIxN3NnWVgtMTFDSXZBY29zYXdkSTBJU01Eam5iR0pENU9J0gG0AUFVX3lxTE80UFNOOHRXbzVhZW9mWm1TVzRHM2FUclRlTS11WnV4aFNZMFk1b0h1OGdRNm13OTYxTkNnRFFES3A1R01NMkFSbllKM1pJWTZFOFlyRFE4WW9xOFE1WE1zbDZSeUcxbUdrTjR6Q0tjUW9yZjZfZE9NT1FXUDFCeTkwWUdSU2pZdlNENDdEQm9scUwtNlNTQno1YTdQX2VibmRWVDFoNjBPczBPRE1ZN1NzU1gtag?oc=5",
+"source": "Malay Mail",
+"published": 1794705892.0,
+"stocks": [
+"Microsoft (MSFT)"
 ],
 "keywords": []
 },
@@ -4818,66 +4878,6 @@
 "published": 1794623914.0,
 "stocks": [
 "Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "67c9361a7909c372",
-"title": "Musk støtter opprop for å få Huang tilbake som Nvidia-sjef",
-"summary": "Elon Musk sier han vil skrive under på et opprop for å få Jensen Huang tilbake som toppsjef i Nvidia. Huang trakk seg torsdag. – Det er en underskriftskampanje på gang for å få Jensen gjeninnsatt, jeg skal også skrive under, skriver Elon Mu",
-"link": "https://www.nrk.no/nyheter/musk-stotter-opprop-for-a-fa-huang-tilbake-som-nvidia-sjef-1.18081725",
-"source": "NRK siste",
-"published": 1794623612.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "e9dd2c0bc01753ce",
-"title": "Ontario Teachers Cut Tesla And Doubled Down On SpaceX",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZVU5X2hKWW9pdlhOdU9pcmZ1bmJCbXVNbDVnMlIzb3o2ZE5QSDhfZjhQMjYxeEI5SktwNnJnX1luMk95cmhUNXFzTG1Fcnl1VE93cWc5STJRc0xrbVFqX1k4OEs3cjVxR1FtZ0ZIQ2pleFNxakE4U3U3a0RGZkxOUlVGNEMwdmE4RHc?oc=5",
-"source": "Finimize",
-"published": 1794623123.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "7fb5126538c5aba8",
-"title": "Tesla invites select customers to order Cybercab for $29,990 plus $299 a month",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMWF6X19BSFViTjEwS2w1V1hqNTdqdlVNWmFZQnJoa1JFTmdGa0NyVnBGSWd3OExFNGdwR3dfWWpNYUUzU1MwZGRVQkFFaUpsbXBWdDVTdzZISVJOdVlhMi1vVVp3S3lUSjhhNXNOMTZpUkNzajdUU2E5aFhUdHlSTWo1V3gyZw?oc=5",
-"source": "Mezha.net",
-"published": 1794622898.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "a260c86e6c8dacf0",
-"title": "Outlook and Teams recover from 24-hour outage as Microsoft says it’s ‘deeply sorry’",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNX18yZzRQNXVrOUx0V1ptNzdEQ21wa3BZX2pOVnN1bGxjUDVzbm1Iak1fRy16MklnY21IQm5SVGM0NFFUQ1phYkxsY3ltczBFbXkwaUZ4Y1pxYnc2dzVNOW12cndvdl95M0Q1VW9FbFYxSkFOdTh1aGpfNnFaa0Z3Tmt6RnA5Vk1DVFUyS1JlcVJRNDg?oc=5",
-"source": "Forbes Australia",
-"published": 1794622740.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "7e4aa44d717821df",
-"title": "Aker ASA (AKAAF) Seasonal returns chart",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4ybU1RcE85VkwwSGpkbFRIdFo1UmZ5ZHpmMm53ZEw2ZHhpRC10N29sNElOM005TmNIVUhDY1dwdENmN3FhNlgyTjlGcGMtb19oQWJleUozNldpMXhweEwwaW9pNA?oc=5",
-"source": "Yahoo Finance UK",
-"published": 1794622602.0,
-"stocks": [
-"Aker (AKER)"
 ],
 "keywords": []
 }

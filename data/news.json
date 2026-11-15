@@ -1,5 +1,5 @@
 {
-"updated": 1794729332.8285875,
+"updated": 1794732105.749557,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -73,6 +73,138 @@
 ],
 "items": [
 {
+"key": "1bc385da9ac5c45c",
+"title": "Megaspeed says Alice Huang left in 2025 as it launches internal probe into reports about its business",
+"summary": "The Singapore-based cloud computing company has faced heightened scrutiny since reports linked Nvidia's Jensen Huang to former Megaspeed executive Alice Huang.",
+"link": "https://www.cnbc.com/2026/11/15/megaspeed-alice-huang-probe-nvidia-scandal.html",
+"source": "CNBC Top News",
+"published": 1794731686.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "3517bd6edd69ad6a",
+"title": "Kiran Mazumdar-Shaw sees Zoho opportunity after Microsoft outage",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdTdiWEhIQkhGMnpoS1l2RTVqU3lSZHlvUmNOVUZ4MHBqRloxazVHTU9pS2RObzlLblRkUkxBM2k4SzR0VFo5b2g3SWVHU05OOTFqUEdlTG1MRU56c25jTXIwYXpNZDV6ZjJMMFZwZE9CZUdtaDdmUXZIcy1SQWFzejVZS2FlWExNLVdVcnhKQkRTMjJRcURKZWtqWkd0UEJlZGFJc2gyZ2R0emN3ckw4SmxiNjJZcm9mYlB1c2NRazRtWjh3MGdTbTMtRTfSAcwBQVVfeXFMTXU3YlhISEJIRjJ6aEtZdkU1alN5UmR5b1JjTlVGeDBwakZaMWs1R01PaUtkTm85S25UZFJMQTNpOEs0dFRaOW9oN0llR1NOTjkxalBHZUxtTEVOenNuY01yMGF6TWQ1emYyTDBWcGRPQmVHbWg3ZlF2SHMtUkFhc3o1WUthZVhMTS1XVXJ4SkJEUzIyUXFESmVralpHdFBCZWRhSXNoMmdkdHpjd3JMOEpsYjYyWXJvZmJQdXNjUWs0bVo4dzBnU20zLUU3?oc=5",
+"source": "Storyboard18",
+"published": 1794731462.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "3eb77954e76701f9",
+"title": "The post-Jensen era: Four major threats to Nvidia, Wall Street and Israel",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSRjMtUm5lcGtWNkg0WnJzaW80a0FjME9MSU9aMnh0VXVGX0xGVi1FSFF4ZV85SGcxQWZiT1ZxdG0zdUd0WHFFdUNka18teVM2R0ZuUHllaFRXd3VIRVRhazBPYW50ams?oc=5",
+"source": "CTech",
+"published": 1794730680.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "a613fcca47a1dc7d",
+"title": "Automotive Cybersecurity Researcher Uses Switch 2 Controller to Control Tesla Vehicle Functions-Internet Info Agency",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5MQVAtallTQ3RlQXh5SlNjX1lyX0xuNXF2Vk1CU0Z3ZWtrVlZOVDhCaFJHeExVS2UyUWQ5bVQ0UVFPbVlHWmNzbVBBaVQwOXBwLWJuT3pMS1VBWUUwQ0REcw?oc=5",
+"source": "网通社",
+"published": 1794730275.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "9fbd75caa8cda8b2",
+"title": "Nvidia exposed to massive lawsuits following CEO ouster",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0wQm5TUGppdTJqUGVYeVFubWd0UlM0Y3RlNHN6dEFFdzZITjdzLU9yclB2YXBfT2diOEljYWNpcHVYM1Q4ek0wOVg4SllUSmJEQ2NDWjQ2dUk5SDhMcXVlMFg0WGhqaDJvZVdPejhIaW5uN2Q5R28xSA?oc=5",
+"source": "The Jerusalem Post",
+"published": 1794730200.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "6136b683566404f8",
+"title": "John Langford leaves Microsoft as AI Frontiers shuts down",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOHVybkpTTzR4VW1mdHJEY1BrSGdEWWZNR1FNU3BIZ1pMOHRTNDhqcnd4cS1sVExnS2VjVFBuZW9YRVh6ZDhobW5HTU1xY3JoeW9qQU1iSTVwSU9XdjR1V3I5dTZEdDlDZFU2WEg5dU1zWi1lMXAydk5XeUxtQkJqVW9BUmtXWGxwS19MSi0xeDlWQkthWVE?oc=5",
+"source": "Pasquale Pillitteri",
+"published": 1794730199.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "1bc47020f0c6b03d",
+"title": "AMD Soars 19% in a Week on Oppenheimer’s Upgrade and Nvidia’s Turmoil: “Demand Is Higher Than Supply”",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbG53SlF1U0dVV2RkWjRXMWJ3T3ZpTUFqQ1lGLU5MWG5Cdl93eHlVYzN0d0pJNmhtT3otRlMwRmVKdnpjVlFOZWF5M1NMSlBpQjdtT2NadzE5el91cHF1YkhfcGtoMjV1SlZkVG9PNl9XeFlNTUFEakZzVjNHRUo0NGJFM0w3SjVHa2pOcnh4TmI5NFFYcEstR2ZB?oc=5",
+"source": "Yahoo Finance",
+"published": 1794729996.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "5f25b7ca3043dfd3",
+"title": "Tesla Robotaxi UI: 5 Details That Matter - BASENOR",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1tbWNjbjRPY0xJWUJuQW00U1h4NXBkN3AxY2FyTDZvclBaR05kbmVFcFg4T1EyNV9IWDVsc0Vja2ZpR0xQemk4NWRCSHhYRmNDaldDX2xUaGRTT1lNMmpEOVZVdHI5UlRhdUdKZVljMHg0VThhMkFMcmpZMDJaSms?oc=5",
+"source": "Tesla Accessories",
+"published": 1794729836.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "d8dc488dd061ceba",
+"title": "Key facts: Tesla Merger Talks; $29,990 Cybercab Offer; S&P 500 Impact",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZlZNMUZoTUszUmkwQkNtcC1XVkVndklQbHhKR01hMm12cy05Wmo5TUx1V0NYSThwMVZzNmJfNkJuUFJwZjh6X1RqLVZEc3JYcXlUaFRVX0V2aGsyd0s1eVRMNlRaUWt5QjBCclR0WVhzRUk5alVhbHo3ek1fS3F1RlY4Z2hJU2tPYURXYjhPZGVoTnFDY3d2Q2lNdnVnNi14aFFGTzJUOWVKaWJWRlEyVzhad0dUUFVIQVJsSzJkb0w3MFVEbnc?oc=5",
+"source": "TradingView",
+"published": 1794729600.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "144fd1544f366357",
+"title": "Key facts: Tesla–SpaceX Merger; S&P Eligibility; Booster Self-Destructs",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOS2M4QnNtbk9vYTAtZ2RicWprN244MFpHdS1HMGROSU5rS1FLdHRqby1fdGJILVQwcTZVbUJ3OXRqdDR2c2NReG05bE1pZnF3R1licUwtem9jRHpKNm5LZ2p1ZkF6Rjd1eUNZdGlkbnMzWG1yb2xtOHRfUjJrZUIyM2ZkWUVwT3E3RkJyVVpCZFp4amFsMmRLNlhxLWctNmItU2FWWGxnVXBGU3NZZjJZTGFvRURuUFlFMHpybXpQTDZyYUxtZ2NhVF93?oc=5",
+"source": "TradingView",
+"published": 1794729600.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "9a4f07785ea7f53e",
+"title": "Nvidia Investors Press Board to Keep Jensen Huang Return Option Alive After Abrupt Exit",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1HMWhVOUt1OHBCOVdNdXl4QWVRdV9ZY01WaTc3R2tXS3p0R0hfM3NyQ2ltbHhmSl81U2txNWxWSzFSTk1jaldRS01kU3pOUVRXX19hZFcyaDBJekRnMDJBckYtS204cy1RQm9UYzNTWlE4cEY1MlE?oc=5",
+"source": "BigGo Finance",
+"published": 1794729300.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
 "key": "7ab84db0c32bdc7c",
 "title": "Tesla sells the Cybercab privately, but keeps control of the car",
 "summary": "",
@@ -91,6 +223,18 @@
 "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPd19EaGk4TnFfYzdnWHJNalQ5dk8tdGgxaEFuNUxOVkRNbDFiNF9pVS1hX1dxUld0ZV9STEJwSXBieGhVSzFtRlhDVVkwVjd4TXpkLVMwRndZZ014bmFxVTFyZ2ZIa2tLQ2RUWk81dEQtSjRyaWxrWFJ0MkJza19ZQTNwLUlHblhNTTBKdmJVQzk1VkJKdFJIODdwblY?oc=5",
 "source": "Yahoo Finance",
 "published": 1794727802.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "188cd1e20ce73de4",
+"title": "Dan Ives Says Nvidia Turmoil Could Hand Big Tech an Unexpected AI Advantage as Hyperscalers Gain, Dismiss",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQb3Jhc0JMRGxBeFZibHhIeFdBbGJzOGZyVkJGUjEzOXQwbkxSdFh0ZGJzZng2R3pVTi1YYm56SkVrWlhvOGRwZFBDZ0RySnVCRjFic21VeDhNWUM4SHNBNlRJa01CRmw1UjNVbW0wdDM1bE1FejFKbkVpTzJ0LUh4ZnVfU01uZHpma2p6Y053d1ozRU9CS3Z5UWFtMUh0N1d1QzFYdXhWMElCcXpkRVpjNDN4YzF3VWstRnF1ZUgwRDV1UzZTYVJBQk5ydWYtcFk5OFlXMjV2RmpiVDNlMVpiVDg3SUNiQm5tUnJJUzd4WDEyOFB6cUQxMGJHRk9hdVpNUm9mUjNCUUpRUXF6TFZETWhB?oc=5",
+"source": "Benzinga",
+"published": 1794727776.0,
 "stocks": [
 "Nvidia (NVDA)"
 ],
@@ -205,6 +349,18 @@
 "keywords": []
 },
 {
+"key": "8c45798f1779a91d",
+"title": "Ex-Nvidia CEO Jensen Huang carried a secret for more than a year. It led to his downfall",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNb3ZnNmdEVkgwMHM3Ml9oWU9ZWEdwT0E3MEx4Rk05dndPVlU5M1djVFdrX2xHNGRSeURiTktDOG96YVlmNHpRMHAxUHZBYVZvdm5fUmVzZDVpM2xwNklkQ05qcXFSMTNtUkVndlFNUm14Tm5YYjVpaVVMakVJVk5oQnAxUm9MOEVhNkdWcXk1dHpseVJNd2hDMHlRNERyRjdqWHJpSGlSSDFlMFU5cVN3YkJsbU85dmlXRXhIX1g5TWREc3M?oc=5",
+"source": "The Business Times",
+"published": 1794725520.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
 "key": "c12fb78f88336489",
 "title": "Elon Musk Backs Jensen Huang Comeback as Petition to Reinstate Ex-NVIDIA CEO Surpasses 135,000 Signatures",
 "summary": "",
@@ -237,6 +393,18 @@
 "published": 1794725147.0,
 "stocks": [
 "Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "b99d7215209726b3",
+"title": "Nvidia's Jensen Huang Is 'Irreplaceable' And Worth $1 Trillion To The Story, Says Dan Ives Amid Support From Elon Musk, Gavin Baker And Others",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPN0FGUXoxSDJxX3o3SGE5dzMtcjVHYkl2a0VXRzJoZTNyWDJiQkdwbHpTa2NRV3VWTG1wTUtuMzF2ZEJBbnpzVzU2dEVOaDRncm52bzgxeXJfSVdxOFo3aTdMVUwzR3hXRk5rZUJvOGpiSXhxTnlGcDZlRzhObmhfNkN3VmFvRDBSNXM3OE45WFpxQnplVGdzcUZkakdJV080TFlkckJaWQ?oc=5",
+"source": "Yahoo Finance",
+"published": 1794724740.0,
+"stocks": [
+"Nvidia (NVDA)"
 ],
 "keywords": []
 },
@@ -4709,174 +4877,6 @@
 "published": 1794644971.0,
 "stocks": [
 "Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "e8daff3098ca4939",
-"title": "Microsoft says consumer products, services fully recovered as of Friday",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPT0hIbzF4aXFjY0pCajVmRzZ2c05wMDllNTJpN1RVVGNnMkljT2JEMmJoQkJVQlhYRmlCcldkRWlwUC1RTFZxamFJaEVVd01QLUYtOFJ2SEVwS0x4d0hQcFRhc0pZYWRsZVdwa1FSbmhuMUNwa29icVdfOWpYWW1RV3ZwZjlEYUFwa2JVSDZGY25hM3JQUW95UFUzSUxxcHlFSnc1MGJfaVB3TzdFSmkxTdIBtgFBVV95cUxNcl9vS1BZVjBSbEIwNE52X3g3Z3lVSDJwUXlGQ0pKZy0wNkZYWlhzYzJJSVk2Nm5FTlE3MWlvT3pDN1loek1jLTVmcjhIeUlsengybHgwYk8wTV8xaTc5ajBBeWFvaDFabnBxUWUzM0gxd0Vndm9maVY1Wm9ndUFvWk9IV0JSeUF2Z1lrOGxvR2psTE5ISUJmYmhhMjhhc2l2YkM1NllPTHlqR0pWLUd3Njd0NVFodw?oc=5",
-"source": "A News",
-"published": 1794644882.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "4e020922ceb0fa1e",
-"title": "LinkedIn, Microsoft, and the Convenient Silencing of Pro Israel Voices",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQT1Z6cHRNVjVWMi1QSGkwMlZ0N1JzVnB1MzlYZm15emtjTzNmUEZxb2FpNHpLSEVMUWhQckJCWEc3aXVqSFZPbTNDMklYV2UtZDVTMUl1eWFKc3pOcW1kMGVZVk43ZEFTQ2FUMnR5dkN2ay1hNWxBeENZMU1ESnRFaTdqNy1LR1l2dGMzV1ZSanBsYnp0Z3h6N0RSYXEtdTk4eS1N?oc=5",
-"source": "The Times of Israel",
-"published": 1794644880.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "ae9b25202a8c7d66",
-"title": "Microsoft restores Outlook, Teams after daylong global outage",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeFhydDc0Ty1zZDZXTjlOcFFpTGpySkI5SlNlSXBXVmFMVTlqajBOY0lYTUxCbWtxOFFOLW9Od3BNWXNWckk5M1dIcllHZ1pYUzF0TXZ5WW43clRKREljR1RIcF96VllOWkZINWEyQndUZTREaEhDeFM5eW8tSnV6Zw?oc=5",
-"source": "The Chicago Crusader",
-"published": 1794644781.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "667afc58ced9ee6b",
-"title": "Microsoft restores service to Outlook and Teams after global outage",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTHVldWNnWFNWMUl0R1pTN1ZhVmlnMU9MTk9sbGw4WHBORlJpd3VXbFlwNzdYY3REUHRtX01oMzU0eDVBdm9sSW9HRHo0QmJFT2dSRnBDMmVDd3k1X0dmMWlxSWhkeFE5M2dHQXNac0FHQlBFQUc1cVVjX09JX3g0R0FPOVJURDVrWGdsQnl5WG1uSjNGaHFBXzFPS25qNmPSAaQBQVVfeXFMUGtTUUJSbGFHQlVWdk5TSk5yOW94N0RiLXhPSS1jTzVvY2lMUVczenEzTEZCVEI5YUJUTWxDcHhQbmw4TmxIZWFjZDdseUpzeVFRU1VkazZaZ1N5QlJvRmFOTFBRQWdsdUlIQnlSbjgzaDEtZGJMN3RvSUdqV3lYX0xTVExqQ21LWHdibjZjS1YwYWdYSGdqamd3VmptWmlBbHVpNDY?oc=5",
-"source": "The Times of Israel",
-"published": 1794644772.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "ecfa6340c95845c3",
-"title": "A lifetime Microsoft Office license for Windows is $24.97 with coupon code DEAL20",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaDUwUXNjNTlEcC1JUHNHTXliYjZQYzlBYUhwYmRtY0YxZnBlV294REpkUWRMQXFiaEpHUFlMckREaWEwbVNNYTZObGVCcU9hWk43dlg2UjZUTDV2X1pwRDJHZlhvZU84ZndrS081bmdNZ0d2aGI4bWNmUTJsRjRzbWJpRXdoN08xVWhFem5ES3A3OWowZUY5ajFBTGE1cjFrYjBGN2JlNjZRemw2WXpMd0xBRjRVRGM2OTQtWGRsMXlPNm8?oc=5",
-"source": "PCWorld",
-"published": 1794644533.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "6c8a83a71cc0757d",
-"title": "Apple Inc. $AAPL Shares Bought by Ascent Wealth Partners LLC",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdVVtREp2bEJaM3hEc0Uwazcxb3lfMU5uWS0xUHhGVS1PRThGdFNoVHZ5eHFPaHVISjhoVWxpWWlIRExxWjFBeWxuYlFiczNBdDhGVXpCdzY3aUNialFJSnc2dUdJUnFqb1BGUzZKaHdXbGx0b1NrNHJ5WG81TmV0WkRCeEt2Q08tVDlWVEQtb0JRd1k5dUIwVVp1MUFZb3hjZk1sa3pKLWVDZFVtUWJvdmFMNGZ0ajVGWnhR?oc=5",
-"source": "MarketBeat",
-"published": 1794644493.0,
-"stocks": [
-"Apple (AAPL)"
-],
-"keywords": []
-},
-{
-"key": "21ec097953c603a6",
-"title": "Nvidia’s Meteoric Rise, in One Chart",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBTT3UxS2N3Wjg3ZlFSd3h0NXlIcnlSR0tiOVlpMW9LeVFEazNOMWVqZ1ZiYnFHX0x3UmVBdXliczNoNUhaSzl4cVpoZXB5blpWV0gwWUY0V1BFUVlUNzE1QWxZVUZBck1pYnQ0OEpZOE15Y3lHMFI4?oc=5",
-"source": "WSJ",
-"published": 1794644137.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "f59e57a7a9f10985",
-"title": "Microsoft says services fully restored after outage roiled world",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRTAwY1pTczhZVmNBMjc0ZWt1Sk9pdGl5bkVlZzNfcHV5RzZDdGtCUkRFN1I5WGo5TzBlbDZHaHk3R0Y1clhFdEY3VEwwallsUlpqWERGVTd5b0Z0b3ZKd195T1FwMHNDNmwzREQ3VnlRNXBjcUFWWE9ibjFIaVZPWFdR?oc=5",
-"source": "The Japan Times",
-"published": 1794644022.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "7fe9b33e6fc0cb50",
-"title": "Meta Platforms, Inc. $META Shares Newly Purchased by Accuvest Global Advisors",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSWJEQzY3eklEdTRXcDk3QlFicVV4Q2dNSlh0bGJVQ1JkY2NheXdhQ09qYUVUay0zTWc0YkZGU3lDU2pFUU0zRTM4VzdwdlVyMmItMUN1cWFzZE9sUU9jaE1KN2poYWZsWTlTM29CRE4tVWZjUXQwRk1YVnA3RE1CME0zTmdFUmlWUkpKOVh5MW5hdXR1eXlocEo0eGhHUExuOXZ1Qk10UF9IeEJvM3Y0eUZma0R2Yk9Xb3BsdWxDRVVmNWh0SzdIMFVuaHJ3eXZf?oc=5",
-"source": "MarketBeat",
-"published": 1794644018.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "16babe5c503cd4d8",
-"title": "Microsoft 'deeply sorry' for outage as it restores coverage",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcjNwZlA0Vm1UN3NDZGpicVYwNkFrRUhWZC1DR1k3X0MyQnJxLVk0VjRmTW1Zbk5mSDN2aWlyclBFREFVTVdqYklqOVhrbnN0bFpmdXo1NFR1SDZOZVIwMzVDTkRwUkd1ekZ0dkduMjBoNng3VG0zRmZ1cEk1eXh3TndLc3VCS0JJZEVYYWhlaWswNU1nNG42dU9lQWtidUZzM0RKbkNFSHdlLWdI?oc=5",
-"source": "ABC News & Headlines – Australian Broadcasting Corporation",
-"published": 1794643425.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "0790c5a363233157",
-"title": "Investor Focus: Nvidia CEO Crisis, Anthropic IPO Valuation, and Undervalued UK Stocks After Earnings",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSi1TSllfc0ZQWDhWSlhyRkMzTjFXemdoX3o5azdSeWl6TWVtUEtQYzZubmtGNWVfWnppYklfTDR3U1V3Zk1WVnE3ZV9FMWt4SnF4VzN1bm42cE44VGpMVTBzUW51UlRlR0lId1M1MW92T0psZDBaNF92QWJkY2MyVjN0OV9VZ2RCZ3ZTejZBQVBRaDg1eTUweElTakVYWXlYenFYNXBWMU96eDBRckdwWk1RVnd6VE9XTWlnc2JRUU5wM3RzUGVrcE1mNnJMdHdCdFkwNA?oc=5",
-"source": "Morningstar",
-"published": 1794643357.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "987ea8360699e48b",
-"title": "Tesla invites select customers to buy Cybercab for personal use",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWE9RSGUwWDAzVms5ZGZVZlpvTFhDUno1ay0tOTVIT1VNbjBWVkhsdzRTRWtaSWhjeF9mUFlsNTVQLTVPVEt1RGVlZzFDcDJZU0lQdTQwREtrOTkxanBwSnhMcTBNYzV4UHlacWZXZUpMTVNvMEYtMm5lWDR4UFVOZUJHcXV6TmJ0R2NrelM0Q1Y1OVVCbUNlT3dLdnUwZnZvSzhnWk1lVDlzLXhBVnBqMFZJdDVtaFVrOWl5bUtYbw?oc=5",
-"source": "Reuters",
-"published": 1794643332.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "0aa6b410875106b2",
-"title": "Nvidia Co-Founder Jensen Huang’s Downfall Is a Sign of Silicon Valley’s Power Drain",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1pTWpBNEFVQXdpaDFva1g3eFVXMExBVzdia3oxdDdmVURaLXl3aEt0enBhYmU2Y1NTdE4xUU03Yzg1bjJCRmxHX2J4WWNKd1RvbDY4TUxxcDI4WklaaVh0Zm5uVjgzcHd0V29vRmtjV0hjUUpNUi1v?oc=5",
-"source": "WSJ",
-"published": 1794643304.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "3d846b81a6adc3ef",
-"title": "Tesla invites select customers to buy Cybercab for personal use",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOWE5iOHhTcnhQUEFsemhUVmxBMGVkLVFaMVZMd2JuRG9nQmUwM28zTFNhVmxDMktxVGRvb1p4RXAxWlpyYklHR09DUWR1R1I4dXMtR2pvSTgySnRndVlYaEFzSmoxb3ZQSlVvcGdnTWRwQWVyV1JOVTFHTmx4M2s0Rk9uQmVWRUx3Y2ZLV2dWSUZDS3Jxblh4ajhXRXBJOTBDT25lLXNaYTEtOVplUFVVVWxzX0daMUg3dTJwckExcmpLdEtZcWo4eG9QTlBHTXZqZkNzdmFhQmpFaWpnUmlzamp0S2tqMVhWZEFDM3RLM3NKRjItaHc?oc=5",
-"source": "The Lufkin Daily News",
-"published": 1794643291.0,
-"stocks": [
-"Tesla (TSLA)"
 ],
 "keywords": []
 }

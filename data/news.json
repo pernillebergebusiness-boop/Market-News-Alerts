@@ -1,5 +1,5 @@
 {
-"updated": 1794781640.802739,
+"updated": 1794783857.1760776,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -72,6 +72,79 @@
 "Yahoo Finance: HTTPError"
 ],
 "items": [
+{
+"key": "14fccf8b364b67f6",
+"title": "Microsoft to publish full review after global M365 outage linked to network upgrade issue",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMlB4Q1RhRTRDUTRtUG16MVhmdU5PNTQ5NXVFZXpiRDBhQzU0N0NRSG1lVnpUWlJmY1gzUy1udkc1TFBZeWVMQkdOVDhwZldJSVVxRG9QMDc5N0FMV3FQNF9wRlpUYW5qTFRmdlMxc1JxVTAzNmdmNEVneGsxTjRKbjh3VkN3T0JFVy03QVI0UmRRQ0dBdlctRFF4clEzakQ1TUpqNmZvTGNRMXhSeTc3Y0gtRExUM0FUVGkxM2ViYmx6RWFPZUtwc0RoMkdMWlRSN1E?oc=5",
+"source": "ARNnet",
+"published": 1794783786.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "f92d3293637ba8c8",
+"title": "Dow Jones Futures Due; How Will Nvidia React As Jensen Huang Mulls Return?",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQmoxeERFTVM2VG9DVVBnRERlZG4tcU0tOGFveC1mYlhEZEJydUZNM2ptaExRYU1LYXg3XzlUUHhtZ29JSF9OYlZtd0FSaF9mME9TYzhTWUVJT0lSSGVPSTMxZlhkTWhQMVp4MkRFVUdUZHRTNVd1bTdTckF2Q3VYdUxKY3kyaFpDaTZkQ1BVMHdrTUNQLUhnVVhPZzJIM3h6Tlg2THNnZU5NRDRvV3NFZUlta28wVXloNGhfNUFFTWdKR3Q3Vk05RnBhQXdWQkl3UTlGRC1RRGo2QU9rTmc?oc=5",
+"source": "Investor's Business Daily",
+"published": 1794783480.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "8bf58c6fddd1c2e9",
+"title": "Ex-Tesla Autopilot Trio’s Zeromatter Hits $1.1B, 6.9x Raised",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTmc4UGZMWHFKdmg4MG9FZ2hMcWdBeU91NTUtdVc5X0hocmpxSEhJMW5OSnpENTRfYVlnTkZiWjVOSDdDX042SG5QMjFPdEJLTS1rUE5ZVmk2RTNaN3ZuVndmb1B3dFlsRHh0a0hCcHhQMTdDWllKZ1BtbHhSeVpwTkVxaG81WE5jN0FPbmln?oc=5",
+"source": "FourWeekMBA",
+"published": 1794783029.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "687deae4aa06ddbd",
+"title": "Jensen Huang plots return to role as Nvidia boss",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORGlsR0xkME5nUnc0dDhNVmRaUDMtckItNjBRRUxTWlQ3TTR6c0VIQ29qNjZ6RDRzTWJ2OTNnV3hvRWxUQWd0dG03dS1FTHMyNWptOVF0YnVlcEFMc1M2MHJrdWhoNG12LXd6UHZpU3BwTVNxYTE4Y08wSlU4RWVkSGRCUTFCNWNibVVSeWJKMTU1c3VYUGdnMGpySWlJV1N3SHhLaGtNVzd2YmpKZzBzQ3VB?oc=5",
+"source": "The Times",
+"published": 1794782100.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "173f8a803426e404",
+"title": "An Nvidia engineer says he's quitting because Jensen Huang was ousted: 'So disappointing'",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOd1E5M2dQU2lJZTItcGoxT3RMV2Rsak9GUXphQWhtSjBkalhjenlCR21MX1dzRlRqSEJHX1o5cWhzck0ydk9lc1pPR2t3dDBvcXZxeTNteldyZzlMdkM0cS1kTUc3VlNGOGRuTTJJcjdJLTY1a3NWMi03RmRsRnNlV0hJWDdPUnBMVFBqNlFB?oc=5",
+"source": "Business Insider",
+"published": 1794781860.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "3dd743dcab17cad7",
+"title": "Vanguard Russell 1000 Value ETF (NASDAQ: VONV) Surges 24.8% In 2026 While Holding Amazon, Apple, And Microsoft Without A Single Nvidia Share",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOaWdzSmE1blM0cEh2Wk0tbVo4VkdVQXBVMkF5dUZDLUh1SUNJTnRQU21IT3llcEFDSzc0VENGNTB5ZlR1VTJfc0xHNUdvWkpOdkVMMlNFV21KeEgzUEt3SmhnVmRWMGppb3ExMDNQMzJDNmhaanFoS3ZNdVZmbWlTd3lLUFFBdTAzZVNrUFVnN0lZTHBjQzMyTzZ4Y2I0bENoTVc0VGV6V3ZRT3ZkX1BESWhDYlFPVE5KYmhpN3RaLTZOd1FXejBBQkhjalZFVGJPNTVMZjBiczVCejEtOUpDaTEycDRNSndXN1ZtcW9KVmVMTzZVNHF1eEVaTVYxbnMweXQ2M0lNcWc1QWdleEdicA?oc=5",
+"source": "Foreign Policy Journal",
+"published": 1794781020.0,
+"stocks": [
+"Nvidia (NVDA)",
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
 {
 "key": "289e8fe4f7228825",
 "title": "Vanguard Russell 1000 Value ETF (NASDAQ: VONV) Surges 24.8% In 2026 While Holding Amazon, Apple, And Microsoft Without A Single Nvidia Share",
@@ -167,6 +240,18 @@
 "published": 1794780000.0,
 "stocks": [
 "Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "a0509ec52746f7dd",
+"title": "Commentary: Microsoft discovers AI can’t keep the email going",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZWxqS1c3YjRKWWJOOTFQdVBIZkhjTlBqNGloUjFGS2lVSkk5UlhYWDh4OU4wTXJvU0xDRjJ2NjlWVFVlYWV5dktwR29IaTY0ZG1SaU5GSzVBUzk3Um0wWUJTblNicG1BUGN5VDlKWWVHc2RqRFctWFlpZ3hvSTVURTFzU2FsSS1UTHhMbVNyaWVObG1td0JLZTctZGhXZzVVd1pQcWNfU3lpdw?oc=5",
+"source": "CNA",
+"published": 1794779940.0,
+"stocks": [
+"Microsoft (MSFT)"
 ],
 "keywords": []
 },
@@ -399,6 +484,18 @@
 "keywords": []
 },
 {
+"key": "91c3e69e36e34dae",
+"title": "Jensen Huang plots return as Nvidia CEO with allies: report",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQTU0NHhzSUkxVDBSdlZwa1JlOEY0SG9QVmpKSFVLa1FKd0JSa1N0WDRVb2VyME9maTJSMmNBdlh3clQzMTh2UmJHSGVsZGpIeWh4R0dCRWlyV3k2ZnFWLXlkTDIxNDh0U0dLZVpDS21TZDJMX0R5Qy1SYUVtZFIwaUcxWGJVUUNzVnhoM2xQckI3RHZobzl6RVgtVTI?oc=5",
+"source": "Yahoo Finance",
+"published": 1794776232.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
 "key": "29c17d36f6b0178e",
 "title": "Jensen Huang plots return as Nvidia CEO with allies: report",
 "summary": "",
@@ -503,6 +600,18 @@
 "published": 1794774468.0,
 "stocks": [
 "Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "8adcb903f2846031",
+"title": "Jensen Huang eyeing comeback as Nvidia CEO forming ‘war room’ with allies in wake of Chinese spy, employee affairs: report",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQVGFEZDhRUGtfVlBDMFFEdmxVRy02a1hyZW03ZVQyRlAtQ3V4RDlxalpCUFRPQzlfWF9GLWkyS3VuemU0MTNGaUcyOFh4V2xQT205eERybzhRcUJSUUJjU1R5ZWN6V3gyUWJ1VTY2QmpXZEtDWm5PNThJZVNFd0pnNnJXbjZrbXF0NGs4Y3ZuVFRCQ3lrVTVxRy1NSW5yNTUwVW4xaHVPTGFvVXdZNlVObHVqeUtPRmcwRTl2ODJaTGV1NW1MMjhxc1lXLXlUSXNQSFQtMG1pTWlrbkJETW5wbVNCdzdkYzJvUDZaNw?oc=5",
+"source": "New York Post",
+"published": 1794774000.0,
+"stocks": [
+"Nvidia (NVDA)"
 ],
 "keywords": []
 },
@@ -1391,6 +1500,18 @@
 "published": 1794762704.0,
 "stocks": [
 "Meta (META)"
+],
+"keywords": []
+},
+{
+"key": "b7888e8943d30bc3",
+"title": "American billionaire Elon Musk's Tesla puts $29,990 Cybercab robotaxi on sale",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeDNXSm1aUDNIOERBd1hFalpkdmpLZmc2RUhQZnh2bUloT1AzOXIzVkY5bU5GVE1KRXFIdUZydGd6MTZMd1hyd09uaGhpN2pPczdaNzNyVEZiRGhTdUZsRW1TZXRyUXJFNDk5QXpUNWlpMEw0X2VMNWhGTVVfdmtzWFV1MUpXWS1RTjdnRUpEdjRoYTk5NklwSkpicFVfQlJoRDI4RlVQcElESFNyR0xnNGJGZUh3QThGT0hz?oc=5",
+"source": "Billionaires.Africa",
+"published": 1794762689.0,
+"stocks": [
+"Tesla (TSLA)"
 ],
 "keywords": []
 },
@@ -4763,126 +4884,6 @@
 "published": 1794717158.0,
 "stocks": [
 "Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "308af5fd3fe877ee",
-"title": "Tesla Sells Driverless Cybercab to U.S. Individuals for $29,990",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxON3Mtd1hTRzdJRnE3bm1vc1BBQmVKSTZ3NU5nUmd3bnItWTBfMUUzSXBKQmRxZkhXZVNCRmphdFUyZzR3WFlZMnNqc1c0NFMwRUlWUWdpeEtNRDl6R0tKNUYzdWk1OHJQTzZrSDNycDZGLTU3c0lhVzhzcGF6ZDFnWnNyS1dCYnEz?oc=5",
-"source": "조선일보",
-"published": 1794716623.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "0bebecf98465dc15",
-"title": "Jensen Huang’s 33-Year Nvidia Era Ends; Bill Gates, Steve Jobs Cases Offer Clues to What’s Next",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBfSjJoMHR3VmlZUWU5ck1SQ1JfS1lYcXhOZW5vck5pemxsSmJqbjdSYkhBWjF2UWh4TzNUU2lVREVTU2kzMUVaUlg0dDR4WENPRllsWg?oc=5",
-"source": "bloomingbit",
-"published": 1794715530.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "dc1fa9b7fb05395c",
-"title": "Microsoft 365 Outage Lasting Over 24 Hours Drew 7.4 Million Reports",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeGJLeDlKdWU0c2oyU1RmenRRcEdQdzBQc3BGcGZlNjN2YzhIcEZScHgxTjR1ckZXZXhTYVd2SkFYSzlhcVQ0RTZhMXFxV3JIbWVpeTl3cmRfczZTVm1vWmw0RVF1a2RzQmpadFl3Y2VMOHlhRTlQdUVCNlVfbmVvZllMbVVSQTlO?oc=5",
-"source": "JournalArta",
-"published": 1794715511.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "0f8ea0336322888e",
-"title": "AI Debt Risks Mount: Why Borrowing by Meta, Alphabet, Microsoft and Oracle Worries Investors",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNaEpPZzJXdWZGekJuTVJaclVjbm9oaUJZZ1U2aVJzenZyVU4yM081TzdQZUoxTXhydldqV0l4ZzItZzBCR3lkZm1hcFEtTFo1bmVvbnphdnAybUpKTDFRYlpuZUpNNjNjb0UzaUUwMmJtTjQ4X1lpeGotbzZtdjRkYzNvZGluN2ZSWWU4dXBySnZ0Umt2d0FDY0JKdUZLVjdZdXE4VHdDSWIwNmF5ZnFVUnV6YUZtXzA1dmxLMzVTTlYteTZQalhpZUdiN1BCX2prVTQ3SEthZW05RUpSajBYOFMyUQ?oc=5",
-"source": "TradingKey",
-"published": 1794715443.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "0dbcbebe33e4e27e",
-"title": "Tesla Cybercab Now Orderable for Personal Use: $29,990 Price, $299 Monthly Subscription - News and Statistics",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS25QbFhCZEJ1UTNhcC1ENFgyOXBqenBnbGpCcDJscHpwZEFuaEhoNVV5VS1UaTZJOUtzenBaMjY3UTJ1YXRVNWRDbXRKMHU3bVpucGtyTW1NZG9Qbk16SFhlVkU3WTNFS1JXajJ5ZWNJajNVTVJOU3J1U0hmR3Q4eFVMVWFWUHdDMlJselZYZ1UwRWdjVjhnbl9yUXZkanJQc2taM2UwZFphQkYtVk9RWGhMZGFMdDBKMWw4bXRwVFl4RU0?oc=5",
-"source": "IndexBox",
-"published": 1794715241.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "68b87fecdc8709c2",
-"title": "When Nvidia's ex-CEO Jensen Huang, in a closed-door meeting with more than 30 company executives, reporte",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPcjVtbDhoWVVZUVFFVWRmQ3FIbUM3OHNuTzRVNHdzcFNSM01NSjZTZHZGdWVPbXRjSEs3azM4VU1aWmFaRVpkSG5MWl9GQl9rUU1NQUJ0Qko2QmdxRk9zNDNWdzdualhYQjZkOF82ZGxXcGdYb0pUZG5pTzRrcU1sRXhCakpnWUdkYlY4WTZVT1RLRmlFODdsMTh0Q1ZyRXkyS2NxTlFaeHkzS2NwNDZtWFZuamR5dzNjcHNTSkVyX3NRV1RHTzFlMU5hclMzR1ltX1VGak1sYnUzRXM4RTRGWWZOYlY5cmdLMWZaVWg3bkhrMWlVRzhyeF9BTGZzbGZiY29nMEdqQnF4MzF5dHpQcnU3Uk9zUmFYd1R5S3YxdU1YREdaZmZMVUNZMVY4R0Y1dnJzOEYtQkpWR3htMnBZOGVpSVNHR1ZTeEJzYlQxa1lHbkhmVVBR0gHcAkFVX3lxTE94WDl2TDNkT1MzWDZ4dkV2S05BVnB6N19meWVMZE1iNGVURmhwdzRQR2xSX3lrR1FVdXlmSmEta291RnQ4YXo1aXI4NWtkVDRSZzZlZ21pQ0RYbkFJUVB2R1laUGl1blIyOEo3cG5rR01LM0FEX3NrUUp5U0hUQlZCTGM4dE0yTUlaMm1zT2FEcGxvUGhKOVpzWEFFRjJ4amVBNE9kcV9HZ3RFQl96NnA4WFFzRGNHRXRJbWNKWkhidmxtZjFqMHhyNlpoQW5qTU9LTTEzNU43el9xQlgyUzVaM0hvS3pzUmVvTFo0RmxVYU5vdTRrRW9RbXZ6cE1LYkNTdkZ4TExucTZfMEJvVjlnVjRyNmZxS2EyZXotbGtlakhIczJ4clFSV3IwZlhRYWk4TmNpa2RrTTFJYVphRTNYc3lJNHNOdDRlT3ZlS3UwbF9zN2NPaU02MG9xVw?oc=5",
-"source": "The Times of India",
-"published": 1794714180.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "d153032f61530624",
-"title": "I hope you die: Inside Jensen Huang's reported tirades at Nvidia board meetings",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcmhRQ09hRVktUUZQUlVkejc3Z3RaSU1nRmpoVHotWnNCYzN0MmdhQjVENDg4R0lXazRXbVJmbFFaRWkzM2Z2MkNiQ1hYN1VVOGtWalhBSExTSWhkU0hoN1AwUEhMcTFKYzI1Q3NpWlYxRUI4S1dvd3RzZTJzV2FzZF80NjJhcHF2cEVsalZ1aG9NOXkyZEFyM2dqbE51QmdPbXV1MGIzb29ia3FtNDdlQ2tLWVZRWEN6SmNQSG8tQXBSZVFsMVpJbmtn0gHPAUFVX3lxTFBxa1ZkWnpkVjJMOGJYUWx0R2M3Tnlhd0N5MGpPQjBwR0ZDX2tzWjFqdXktdExqZ1liWW9KbGp6ZW5LeU1NSlk1bnRjazMwRVBPQmZqenlBV3drRG90ckhsQmFKYWc3Y0h5YzQyVExUcmpuTFpPbWpKRExEZTA0MV9EQUdRLTlpYW5UVHZBMXpGWml6YmQxT3RYd3BjWmtwcHVJQzlIRkJjTk1KNTZ3bEhlSS1VWTJFallxYlN2czc4VW13Y29ZdnNvWmd0am5Idw?oc=5",
-"source": "India Today",
-"published": 1794714022.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "206f33784b6a6044",
-"title": "Microsoft Ignite Is Next Week. Here's What It Needs to Prove About Windows and AI",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdFFFWWFJRFNJWlBxSjE1cHdPaV9uOGp0SWh5WWlnbEl4MXl1andsZ01ReUJkMzAzQllQeDIzQWE2aWpacjNHaUk4NWtHbkk4eTh1WFFxd1BWR2xUT2V3YXExQWZEQkZnVzk1Ung0U1doVHF0UkZUa1R3ZzJqZ0k2VXl6QjRBdFNES0pndWtVSmFOSWE3bkhRY1BkZi1iN2ZzanE2SXktbmdENFp4ZmlTV2JmelcyNnY1WHgxdV95ZjJ4dXc3NHB1NnFfMVZRRktQ?oc=5",
-"source": "PCMag Middle East",
-"published": 1794713986.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "8204cf71451a3dc0",
-"title": "Michael Burry sees 2 chip winners in Nvidia’s shake-up",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNemRLWWd6UXU5YmtNbXVWNlVrazRvMHV6YmhzZ01ncllzTVVFQXdoVkk4eWVETl9YYTNWM0pXSW1mQnpBMmlHbnhsMVJzVUpYNlRLX1lYVEV0NENIQmhTc29XLWp4eXpZekxvUWNhQklISzhkMlFWa0JBRlFSdm5RVnFJaVpab3ZUYUYzM1YtUUcyX3kt?oc=5",
-"source": "Yahoo Finance",
-"published": 1794713580.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "c6bbd925cfaab79b",
-"title": "Tesla is inviting select customers to buy a Cybercab for personal use at $29,990 plus a $299-a-month autonomy subscription, with first deliveries listed for Austin and no steering wheel or pedals in the car",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5VZDlCYk5HZXJSU0N5NDRWam9SR3hpU2pFZC02bGJuekdfcDd2SzN6R0JWaTBKTEVxSDhiWDlUb3V6a3JXM2xHY0FHOVBja0Q5d182S1YwUW1JWXhLVk5Td213cy1CVWlCQ0FfXzgwaWpKQQ?oc=5",
-"source": "Make Tech Easier",
-"published": 1794713358.0,
-"stocks": [
-"Tesla (TSLA)"
 ],
 "keywords": []
 }

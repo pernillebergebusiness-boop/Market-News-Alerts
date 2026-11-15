@@ -1,5 +1,5 @@
 {
-"updated": 1794712446.961033,
+"updated": 1794715578.818298,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -72,6 +72,66 @@
 "Yahoo Finance: HTTPError"
 ],
 "items": [
+{
+"key": "206f33784b6a6044",
+"title": "Microsoft Ignite Is Next Week. Here's What It Needs to Prove About Windows and AI",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdFFFWWFJRFNJWlBxSjE1cHdPaV9uOGp0SWh5WWlnbEl4MXl1andsZ01ReUJkMzAzQllQeDIzQWE2aWpacjNHaUk4NWtHbkk4eTh1WFFxd1BWR2xUT2V3YXExQWZEQkZnVzk1Ung0U1doVHF0UkZUa1R3ZzJqZ0k2VXl6QjRBdFNES0pndWtVSmFOSWE3bkhRY1BkZi1iN2ZzanE2SXktbmdENFp4ZmlTV2JmelcyNnY1WHgxdV95ZjJ4dXc3NHB1NnFfMVZRRktQ?oc=5",
+"source": "PCMag Middle East",
+"published": 1794713986.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "8204cf71451a3dc0",
+"title": "Michael Burry sees 2 chip winners in Nvidia’s shake-up",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNemRLWWd6UXU5YmtNbXVWNlVrazRvMHV6YmhzZ01ncllzTVVFQXdoVkk4eWVETl9YYTNWM0pXSW1mQnpBMmlHbnhsMVJzVUpYNlRLX1lYVEV0NENIQmhTc29XLWp4eXpZekxvUWNhQklISzhkMlFWa0JBRlFSdm5RVnFJaVpab3ZUYUYzM1YtUUcyX3kt?oc=5",
+"source": "Yahoo Finance",
+"published": 1794713580.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "c9c82685c534e729",
+"title": "Equinor Earnings Call Highlights Strong Cash Flow and Growth",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNandiVFlvTjk0aVJxcTJFX3FPVlluNk5YT3c4Z1JMVjM5NnM0eldDeFRGUHFhNVV1bFZ6YTdXUDRwMW1mWXhSamt4NnF6elNsV09IeU44UWhSN2ZQdW4zdjY3NzJfNVpNSjRvZW5Ob2JGcHE5cW41Qmc2d0tBXzVIeGIxVkNzN3FFbm52SEM1bmpRRnEtdlIyM0FFOUE2SUJIR2ZweHRPZ09YSDd2TDhxQldR?oc=5",
+"source": "TipRanks",
+"published": 1794713067.0,
+"stocks": [
+"Equinor (EQNR)"
+],
+"keywords": []
+},
+{
+"key": "ca8e161edc117e19",
+"title": "Canadian homeowner seeks solar-powered Tesla charging — and gets a warning about extra equipment",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQktFV2E5ZWkyQkNKbzZVUjJVVjVCNnBhUlZFTTYtcE4wVzZDMWpIcGpfYzgteVZnWE5rUnNlMDdoUGs3OWczYzJYczE0LUNfbUsxSWNhM0VXMDVpM1oyQjBoU3Qtb05ITXo2UWY1c2NNZkJuZjNIWGVZZU1WalV2VGtjT3F5NDh6?oc=5",
+"source": "The Cool Down",
+"published": 1794712440.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "acc10f9ac3dd9295",
+"title": "Intel Core Ultra 9 275HX and Nvidia RTX 5080 gaming laptop with 32GB RAM and 2TB SSD is $650 off in early Black Friday deal",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdmVtX19xRUI4X29JVGd2Rkh6dlk0WVQ4aWtkMklFa09lcnNmMVpDeUt0MkpWUDdILUJZTVlmVVlXM2habTc2aWxIZ2hGRUZRNm0xeUs4Qm1qcC1wT0dfN3BYYm50SkF1clJFQUUtYVBIQ09SOXVPQW1jMS0xNkxPaGtlUE8zR0hyRENkNDFheEROR2xIbk13bmd0OHdNS3h0cEZyZmV6YkRYWlVadVdDQzhLNG5INFFoQk1ZSnYxajZlaDFvcEMwcUtiUnNjVW9GbEtLUnN4VXBEcEhwWU5HM1B2SnlVUkhI?oc=5",
+"source": "PC Guide",
+"published": 1794712331.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
 {
 "key": "fec24271232de45a",
 "title": "This Honda Civic Is The Direct Ancestor Of The OG Tesla Roadster",
@@ -501,6 +561,18 @@
 "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSVI2UWhIOVhMU0RDVVhvMkxmWVc2Zi1sSTdmNEc5NDN4MkRiQmxOSm8xdjhGT0lheEhsdFNGbDlOSnNxMGMzZ3hETm1vb1l4YWdEMjZBNndkdXNCaW9BRXZCSzBMY2o1R0VWMGxMRU1oRUtlcDFFbGlWZGVqTzhiREpvcDI2V0t3dFZqVnhYWEoyUGNaY2JoMXRLbmE5TG5lR010c1dQaW1NWFF4UDJfcGthN2VJRUYtT3hOSXVUaGttZw?oc=5",
 "source": "GeekWire",
 "published": 1794694216.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "5d7b275071fc8609",
+"title": "3 AI Chip Stocks Retail Investors May Be Missing Beyond Nvidia",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYTU4MTUtSndpZFFoWUR1VEhjZE9yak8wdWViV3VzT2hzeEhSaDZYVlVSNHRxVE1sWXhMM3RxblNELS03ZTBNVm5YLVJwc0NsUmlUTFIwM2hfc2R2dkNheGlxeFhiRXZXUWNiY1VGRmZ5VnpZZHF3ZzdYODVUUllKX3R5TF9DT2xwWXBNMTBKeXE?oc=5",
+"source": "Yahoo Finance",
+"published": 1794694146.0,
 "stocks": [
 "Nvidia (NVDA)"
 ],
@@ -4804,78 +4876,6 @@
 "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQmoxeERFTVM2VG9DVVBnRERlZG4tcU0tOGFveC1mYlhEZEJydUZNM2ptaExRYU1LYXg3XzlUUHhtZ29JSF9OYlZtd0FSaF9mME9TYzhTWUVJT0lSSGVPSTMxZlhkTWhQMVp4MkRFVUdUZHRTNVd1bTdTckF2Q3VYdUxKY3kyaFpDaTZkQ1BVMHdrTUNQLUhnVVhPZzJIM3h6Tlg2THNnZU5NRDRvV3NFZUlta28wVXloNGhfNUFFTWdKR3Q3Vk05RnBhQXdWQkl3UTlGRC1RRGo2QU9rTmc?oc=5",
 "source": "Investor's Business Daily",
 "published": 1794628560.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "c0065cb536577561",
-"title": "Tesla Unveils Cybercab Subscription Model: $29,990 Price Tag Plus $299 Monthly Fee",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaVZRTF9Bc1B6UmlYcGF2dGxDRmo3S3NNN0p5VGc2U0JaWElTVjIxNUxoNFJSaGpYZXpqdzdDOTYxZlhRTjhYaUd6TUd1N184NWU0bnFyZ1RLTDJRTzA0dnlDemxtTlZqNTA0TTNiNFRkb2R1RUlGbnBxUUJqZFdFb1JRUkZWM3paR1JUOEtWa0p3UkRwVGNONVhaWU85SVJCelo2dWV0UXpvM3dzNl9abWt6OA?oc=5",
-"source": "KuCoin",
-"published": 1794628023.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "e1fd7e0bafff34a1",
-"title": "Microsoft denies role in FAA ground stop that caused 10,000+ flight delays and 6,600 cancellations; compa",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPc1ZnYjZNdmJkWkNFakdpVUlpMkFBM1I3dlJqNHdUdTdUUUk0d0lZTTJDV3ZxNnBBejY0c1pmZm43Qk5hN2hsaDVubVZ6bUtoT2F5U21WaERzc3dCRU1IY29OV3l5bU5XbWVvNG9xM1BrejNKZjcwanhYanBneHNoQTVUUVBrSkR4T1M5REU1bXJTWElCcGdYWFZfYUJRTThBWHY3Vmk5TjNWVGtacmxIc3NCQUhKM2RKSktadzlJRzh6WUN3WFdqYlBUTHBRa0tjdlQ4eFZQTkJSLXVVcENnSXotWXBEOFdBdklubmJlVG1XV25obkM4RloyS3FLOF9taXFRTzNGdldQSnhKc3M0dUFCMXo5RWgyRVJJRm9uQk0tQ0JRZnplbkt5SVlGWUxDTm9MajkzdHAtX080aHRzUdIBxgJBVV95cUxNZXNDX0dPN1gzU2N5UUpOaWVuTzBCQTVoc1NSNXJoMUdITGdfNFZsYUJPLTd3YkdFa2x1V1B5WnJDZ1RRaGZwX3g1cnhLLWppNzZ5dkpRU3Mtdl9DVXNMbFRQU0xCU3B4Q1o0QWFFZWhRNTFZMm02cmRkS1RIQ00xUTBYNTNudGgyZG1VeVJsQi1tcXBQMk1SaWZqVEg0UENVSVZVcm11dk0zdnJzblRoLVZaSW5FaU5YeEVONFNFQTNQV1p0TXkxMGNJdnBkbGZDcXNjWDB0UzltYkVZczN1bUZoeXllbmJIdHh2YkpsNjRBdHdXMlJqLVdYemJjQ3dqQXRnc0tOZUJMNkNOTHFQVHI3SW9VUlRfN3MwdGdOWW5VQmNldm5kNXByRVFfY09BSEkwMElDVXZBZlBuekl2bG1idk41UQ?oc=5",
-"source": "The Times of India",
-"published": 1794628020.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "87e9cecd255b861e",
-"title": "What we know about the longest ground stop since 9/11",
-"summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack or a Microsoft outage.",
-"link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
-"source": "BBC World",
-"published": 1794627921.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "325679c1f71c455f",
-"title": "Tesla Opens Sales Of Autonomous Cybercab For ‘Select’ Customers",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMThvUmpYTW5TY3k5M3dGODhWa0RtOS1XY1ZHMVBBMEl0eU5UTVBLbWNZLVRTeFhBWnQzMjRMSF8zNV9oMWRUbzRhN0tieHJkblRyc0lZdnJQYmJ1aThMUGptc3VqbU1Fc0VqUldRUUptODA5VU5uZHhoS0FRS240MlB3MVpLRTE4d3cwODBMdndrS19GYkJEbExXSHZ6SVdOcjhuMkR5ek0?oc=5",
-"source": "WSJ",
-"published": 1794626169.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "095bc841058ee8eb",
-"title": "Tesla: Sales Of Self-Driving Cybercab Coming Soon To Invitees: $20/hr?",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYjBqeklPMW5zaVVNQjJMRGtkUGJMQ0o5TTVBS3VDZWJRcnpBM1B2ZmJnMjVuNl9HcmEzRklmdkgzUnlScGp6dkJWV2tWcF9uV3J6dk9JLTFoczdIVGZMSHRKTGpseUN6ZEYxTHJ0clBZU1ZPZlh4S0NWQ0dwanJ6U2FoSWdJYS1jcEQ3SVJkS0dYNG5Xb2xNdE92OWt1QXRNSzNRZVZfT3J1bGVBM2xwNkUyc19iUGJPSkJLOQ?oc=5",
-"source": "Forbes",
-"published": 1794624201.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "4f60c120ac873e8a",
-"title": "Elon Musk Says He Is ‘Signing’ Petition to Reinstate Jensen Huang as Nvidia Employees Rally Behind Former CEO",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcDZDTkpPaWlick9rQWppWlcxT1ppdEswU1FxSzdWTGI2RUZpckdFWmpjYVJicHVtanduZ1h0ejNhenpTNUIyeDRlRV9OcWRIWFkzYmJBYzNDNUoxNmcwamZNZ0pFdWNsTWdsTXJIbmNEUzJHLWtOaHR6OE82MFdZc0RRUlgtTUt4cXc?oc=5",
-"source": "Benzinga",
-"published": 1794623914.0,
 "stocks": [
 "Nvidia (NVDA)"
 ],

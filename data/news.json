@@ -1,5 +1,5 @@
 {
-"updated": 1794879915.737607,
+"updated": 1794883098.5720963,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -70,15 +70,98 @@
 ],
 "feed_problems": [
 "Yahoo Finance: HTTPError",
-"Norges Bank (Google News): HTTPError",
-"Aker (Google News): HTTPError",
-"Kongsberg Gruppen (Google News): HTTPError",
-"DNB (Google News): HTTPError",
-"Tesla (Google News): HTTPError",
+"Mowi (Google News): HTTPError",
+"Nvidia (Google News): HTTPError",
 "Apple (Google News): HTTPError",
 "Microsoft (Google News): HTTPError"
 ],
 "items": [
+{
+"key": "835cc59a9c3c2bb2",
+"title": "Tesla deemed liable for fraud after Solar Roof ‘experiment’ on a home",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcFZRWm9jb1pSbTRISF91a2tRa1VHcFBHOHk0aGU0QWNmeWRqSEtXaTk3SDZSUFJ0M1J1YU8wSUZSaFR5ODlrbVRFSVZFbnRkelItYkNfRHB1cjlYVW9aSE9UdnNpMUVlV1NOOHRnbDhQcU1abTllZDZ4VjMzUzV3MDN0bFhURDBGWjNZYkRsMGZjMjdHMi1YcFZzSko0alFsSF9pZGNXbC1qVnNiV010THpTd0c?oc=5",
+"source": "Moomoo",
+"published": 1794881992.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "82e79d02e40ede83",
+"title": "Stocks tumble on Wall Street as Nvidia leads another sell-off in technology companies",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVDFYbmVnck1RWnN5N1NwcExiWThENE1IVTRQRHJJX1MwQlNtXzdWMGJUTGkxWFBfWVdxTFNLTTNqTVFnZnVIcnBXTHdqR2NZTXNzQzQ3RmhPLWVLS1V0eEVJcjhMM2hWUllrd1I5aFJWZGVtRUJ2NGg2MlZOTEdhRg?oc=5",
+"source": "Sonoma Index-Tribune",
+"published": 1794881697.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": [
+"sell-off"
+]
+},
+{
+"key": "756dd882a3e89d62",
+"title": "Meta Platforms (META) Faces Fresh Questions As Insurers Pile Into AI Debt",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQLXpxdWY0ZTBXQzlfZlFRMnRQa3lHSGd3M1lrZ01GVFZzT0Q5UXNnWHotazZpY2QzcUlIZ2F1WHpGbWhpWEF3bjBmUmMxNGlndG4xcXRJMlhvTTJLSER1amFXRUt4XzJnOV8ydmZCY2ZrS0JjaTh0ek9TRG00NlBpc3dkcm0tU1MwN1N2bWFEM1BIZ29SYmh1ZUQxX1k4MG5US1NEUngtYlA1V2xybEVZb1Vjc2dKc0RfYmQ5eFV4Y3Q5Zi1fOW9QZ2FR0gHPAUFVX3lxTE5zbkxUNTRSVk9lUFViRGRDZ3U3XzNNZEMtNGVOVEo0cUNqOXNraU52OVk2b1dIUUdaeGxrM2F0eGxzYnljWTQtRzkyWmF1Q0VfUVFuaDRiVXh1M2xjanRVSFBIVkhkQWRNeklBbkZkcFota3JhRGNqeGNGd1dTNEdOcFN0eUdZTVk4cGVsdkJPREMwTEt1NUhGNDRsNngzYThXLTE5OHFDWE5wTXdhWHlsWV9CTVZ2dDRiOEhVSHd4TG0zbDFTQVJjaURrNXhSWQ?oc=5",
+"source": "Simply Wall St",
+"published": 1794881393.0,
+"stocks": [
+"Meta (META)"
+],
+"keywords": []
+},
+{
+"key": "c236995bf54262d1",
+"title": "Institutional Flow in Meta Platforms (META): 63% of the Options Money Is in Calls, Nov 16",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPd2EwLWt1bHVBX2xvUXlzNDFuNkl2U3ZtdEJiVVltZ296bnpmNlRMVzc3YUg5TkxVajJKQkhJZk9GOXBycmVZUUR6SUFZdG5tN3BEaEs4d2V5YXQxcFNPS0pya1lQV1plQ0VTN05pb3l1anluOTU4ZnJlR2tYN0g1SUlDZzBRV1JhX2N5eV9VWDBwNGdCWms5SnFDLUtHdEM4akkwdS1lN0dIRGVCMjdMdkl2SQ?oc=5",
+"source": "Moomoo",
+"published": 1794881102.0,
+"stocks": [
+"Meta (META)"
+],
+"keywords": []
+},
+{
+"key": "b375bcbc026f9888",
+"title": "Western New York celebrates 130 years since Tesla’s historic AC power transmission",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPNHdNZ2ZxanhFSE1XeW1ZTFhUTkUyZE9zU1dvR25aWmY5QS1YbFhBMjFQQVZVRFN0NHZ4VGRRbkczc21ad05yc0dwcUxZMjgtOXRsTTYtSFdMYjl4SWVZV2ktZWlqNm1WS3k5MGotN0lkVDBHdGJlNWhHMS1FOTJFVEZkLVBCcnhJLUM3c1B5djB4ZVBOUXoyMThZdXljN2xXNlhfdkNla2ZrMG04aldkTVpNVFliWkVqbC1kX3FPMEVxRFYtMURSMXc3by1zR3lQN24wYW96aFU1bjFSVDNGLUZFMDlHZU9hQmtIaVBEU25nRG9YZURURWhad3l5UQ?oc=5",
+"source": "WGRZ",
+"published": 1794880680.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "710eae3c918ffa80",
+"title": "Tesla Wants to Build 1 Million Cybercabs in Europe. There’s Just One Problem.",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1XdE9TRTJFRHpDa213dnNzdTh5R3o0VmJiRlBubkZYWkNVZnZVSUx1OEloYVg5QmxCTHV1ZXlSeXpmSzJOTy1haFB5SE1FREVZWXo3THI3SkhJZWJIN014dTJ6eGV2bHBjWVRPaWw3WVFtV3lpNEhwcGhacw?oc=5",
+"source": "AOL.com",
+"published": 1794879900.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "ac10d64ed6b7f974",
+"title": "Asia shares stumble on tech weakness ahead of Nvidia earnings",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWHJDZmFjdW9lam5TbVQ0SExud2d3RmVmNmYyYmdtXzdiUWxwSlNyRXZjTElYb2gwWWZLQmIxMDBoN0pvb2tSYzZtVVIzeGp5dGxIWU1ZRWpmaFUyN1NwRUVWOUpSTDN6dUZwQUkwRXM0M2lVSHJpM0FyamV2anZZaEFMalNBbHViT3JISXV5VTh4azdkeDZNRWJmODJmVzVYY3BseExzWlU?oc=5",
+"source": "Yahoo Finance",
+"published": 1794878940.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
 {
 "key": "f5e223ab6d01e0f5",
 "title": "Jensen Huang Wants To Come Back — Nvidia Board Needs To Stand Firm",
@@ -88,6 +171,43 @@
 "published": 1794877246.0,
 "stocks": [
 "Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "65f13095eb7d5018",
+"title": "Tesla board member Joe Gebbia: Nvidia should “reinstate” Jensen Huang to let investigation play out",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaWE3THY0VkpxQmdJaGZTOVhVbWZ5bkNDeUZaUC1HT0hCcGNlNDFpRXkzSVZqU2VDZ3hwNVdodldDVjc4X1dTMTNFdFllWW5TS0JrQ1gzUml1SVNVa3oxb2JJXzVuMk1mc1l4dW9sYjkzWHRTRGJVUGtxVlV2LUhtLTBB?oc=5",
+"source": "Yahoo Finance",
+"published": 1794877200.0,
+"stocks": [
+"Nvidia (NVDA)",
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "3fecb82e7cae08ae",
+"title": "Buyer Beware: Your $29,990 Tesla Cybercab May Be Illegal",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOREswLXo3SGZMdkdReEJzZHJKRmNwRFctamVaeWtrSFBxTFg2dXdVOGdBenlweXctLXV4ajFodmh3M2JacjlKdWpMUy1JQkp0akw0MkI2SXZhNm00bmZROVoxV3EzdHdzN3Y1WGdpdm80MU1KZk40V1kzN0ZMS0ZrcWgteFBSV1RS?oc=5",
+"source": "American Cars And Racing",
+"published": 1794876948.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "9c86b9a6130b7dd0",
+"title": "‘He chooses death’: Trial ends for man accused of killing colleague at Fremont Tesla factory",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaDNmOXN0RXlRcjRrMTVPdWM3VWlaMXFHZHg4dEZHYWFPMGtfMDc3bFo3Q3doRlJOUXlBUVo5RVc1YVdfZEtnNkZheS15R19JYnlRR1EtbkhocWNabHdqeS1UcXRnaElsMGN5UjlpOTJhSExQa1hrNXJzaXlZdmF1bDJ6eWFrRUdobmlMZ1B3b0tGMXZFNkdybjRxS25EbWlOcFNUalAtdS1wRGpPeUt0TTUwSWlrZGYxRVVRWnZFX0VHb0I4V2dlbw?oc=5",
+"source": "The Mercury News",
+"published": 1794876294.0,
+"stocks": [
+"Tesla (TSLA)"
 ],
 "keywords": []
 },
@@ -584,6 +704,18 @@
 "published": 1794868094.0,
 "stocks": [
 "Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "b0effe1d1ec3b1bb",
+"title": "Tesla Was Supposed To Be Losing Europe. The Data Says Otherwise",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA5UXlPRmFOX0ZScVZ3dzJiWWUxdWgtd1JwV01veXhTTk1DSnJ1dU5GX0ZZNmpKd2o5akxuRmJ6N0trckItSEV1T0RsRGNxUlVYZElUU3VHYTBNLVliVU0zLUxKUml4V2dyTzNQUmsxeXFsQQ?oc=5",
+"source": "InsideEVs",
+"published": 1794868039.0,
+"stocks": [
+"Tesla (TSLA)"
 ],
 "keywords": []
 },
@@ -4764,138 +4896,6 @@
 "published": 1794839546.0,
 "stocks": [
 "Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "9243628cca687451",
-"title": "Last week’s Microsoft outage took out Pa. lawmakers’ email for 18 hours",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQXF0YlJFeUpreWRScWlqNGZiaDNGS0pFUFAyc05fUVdpMVFkMEsyUll1UWdfdUg0SkZtbXlvMWxkRWNJWlhRbkR5WDZBRHNNOEpaMmVUQVpLRVZIV2l1WnhhdThSUmlWRFJvbWVrcGN0REtvVmhhVWlUVUdiTjdWa3QxM3NEbUJkOG43d3Bwa3J3Q3g5aGl4QnRHNkFHUXVWOXY0TA?oc=5",
-"source": "The Morning Call",
-"published": 1794839493.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "c280371c6ee1e1cf",
-"title": "U.S. Stock Market Today, November 16, 2026: Nvidia Earnings Loom as Oil Slips and Gold Struggles",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNXpQeDJwUEFjb1VpWUJVcjlHZGFCSGZJNmVKeDZOdmFCc0xXZFlLdVIxTGlJc0ZDaElpbTdCNnVIZlpSMEhkN0g0c3B1YVFFV1l3MUZuekFINUJqVGRLR2ZYNGlMU3Q1eHEyM3VSYkplZHVzTTh2eG5hSU9uNkVFVjZ5d254Qmc0dzN2NEk3WEhHVmlQUy1MemFrcmJYVFJqeDl0NG1rXzB2bGlON1dZTUV2VUFNX1R1endoX3Z0QjVyeWw1MUtDQzZ6TUw3eWp3aWc?oc=5",
-"source": "Eurasia Business News",
-"published": 1794839483.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "1fa16e4deca6ddcb",
-"title": "Microsoft identifies issues leading to global Outlook outage - ABC News",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSkN4WThKb2FtZFpzdldyVHZkSGd0ckYzcjk2WVc5N3RkSUd0TUhSVjZBLU5jdEdZemktUmhWc191ekVGV3czTE0yX2RpaWlKN2ZsVzZsSk1wX2h0QmVqaXFPTU1XQkpzQXZWem1id2lBb0NYcXZPeVh0NGg1SVk4TUFvTFBLS21admNjUHlMdUNTSzJY0gGaAUFVX3lxTFBJbGVqV1NLRlZ2ZHdSMjJPUVJCeUQtLTVqLTJjaHJFMXV2VVc3MlVwUmQzSUVYNlR4cmtvY28yTTVhYUVmRFR6MENfcE9UTkszWUxoemU1dTFkY2pSWHF1UDlQaVFuQmVweExzZW14XzdvMklReHZENlZiZUJwTnVHZEJGOUkwTkttQ3U2WDdjZUUtSEp1bGRBZ2c?oc=5",
-"source": "Breaking News, Latest News and Videos",
-"published": 1794839274.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "4fe868a2cdcdbc2c",
-"title": "Tesla Aftermarket Modifier Proposes Taking Over Cybertruck Production Line and Developing New Three-Row CyberSUV Model",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaFpYcTNrRUk4bFctVHdDaWxnd2hqUUtSS1dldy1Ld0QwZzJmOU4xa0k2RXBrbFFucVFDVjVRNWt5MG91dEtNRThGdkFjbFFXUFRFRHJjVGZrOEx4cWRzdHQ3Vmw1bjJHTWxOT3NLTTFDSjFzNXR1cWpZQ3BNc2NoWHhiV1ZTV1dxenhQdTNmVzg5bFdEQ21EaXlMN3BGUU1LUEZETC1iZThrWU5IYS1RSjhuRktpcXk3VF8ya3p1SQ?oc=5",
-"source": "Moomoo",
-"published": 1794839194.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "1aad5bdaf25cf6c7",
-"title": "Tesla to Invest $3.3 Billion in Berlin Hall That Could Build Cybercabs",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVHZCM08tdTktTGJuU3diWXZka0hZTXNvOE1fZ055SVpvUmZndEVmOTRVcG1PUG9TUzA1WGRmaGFBbnRmRlRGZ3FFbGo4NF9iQ0FTaVhUcnpJbVh0aWQ0QnlxTVNqZDh6N1ZwODhLRS15X2Y2N3dyY0QxSVdNVFFlLXpZRTUzVk1WbGkyWlVSNkJkQlNyMzNEMFF1ZDFzUEVWbldCUTNyZEc?oc=5",
-"source": "Electric Vehicles",
-"published": 1794839040.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "a1812f7b4976c44e",
-"title": "Tesla to Invest $3.3 Billion in Berlin Hall That Could Build Cybercabs",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVHZCM08tdTktTGJuU3diWXZka0hZTXNvOE1fZ055SVpvUmZndEVmOTRVcG1PUG9TUzA1WGRmaGFBbnRmRlRGZ3FFbGo4NF9iQ0FTaVhUcnpJbVh0aWQ0QnlxTVNqZDh6N1ZwODhLRS15X2Y2N3dyY0QxSVdNVFFlLXpZRTUzVk1WbGkyWlVSNkJkQlNyMzNEMFF1ZDFzUEVWbldCUTNyZEc?oc=5",
-"source": "eletric-vehicles.com",
-"published": 1794839040.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "39a58a823ac7b7ef",
-"title": "XRP Price Struggles Below $1: Anthropic IPO and Nvidia Earnings Could Trigger Another 33% Drop",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPemFndmNYT09rN1ZhMjVScUh2NGZxc3R0a0xnbndvWXF5aWZXZjdwOGRqenVkd2E1NHZyS3FNdUM4UkY1cV8yNG9uMXNLMDdKZmxaMnBQM3NhUnFTbzBTcWhOZERkWXh6MGc5SzBPbmpfd0RiZTdteXF0dThkNHRUdUxpYV95WUhIQTk2bUd0WVFNWkxEZU1z?oc=5",
-"source": "Yahoo Finance",
-"published": 1794838968.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "3471729fdb1a414f",
-"title": "Microsoft Reveals Windows Bug That Crashed Over 80% of Servers During Global Microsoft 365 Outage",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOG5vZ2NENldNeVQ1a1p5RmpIZjh4TlkzcUtHc3BUS2VHWENZR0NTLVoxbmZPaXhWMHh5d0dYbWh3TGxJN0hqOHdicjRGUW1weHdFaFk1VklzUXJlZ3ZKcjBJNDB5MXFURllHUDBLT2pvQ0U1UjhxWVdud3U5ZmplOGN1VDVWUG1xeEpjUdIBkgFBVV95cUxPckV5MXlmRXdHU2QyR2hkTEtXeVdOWjNtVjlWVjkyNmZrUXFaT1lDNVF6ekNhOFlrU3NIX296VHNnRUJZb2l6WmhOaHBCYmRJdGVlVTRFRU9jQ3pUaVlucnVkVllxeEY1Wl9lcXVjUmlvcThKUmVmakVtcnJaMmQ1M3VNelFGZEpudnBGVXdmbEtGQQ?oc=5",
-"source": "GBHackers News",
-"published": 1794838833.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "93540503f6306487",
-"title": "Virtana Brings Agentic Observability to Microsoft Teams, Salesforce Slack and Anthropic Claude",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVW9sV0pXNGN6UVRtck5ZUXZoMzVZMDM2cmJLLWRsaElIenJuWl9NMjJNS2JrVXRWQm5uSGIxd05jek5nVzJfaTIzQklJWkNlUC11M0lsOGRGcEtJOElxakduZkxoRzNGUWNuMHZ3TkdlVHhweEFpbW9aTVFScDhJcG1lT3JHQVFzeHVGb0xlWFlvY0V2WHpFMF9uU1lZRS13SWo4dmxGRWlYQmVrZ1lNdklTd2k4ZXdDYjAzRk5LZDlIWndaQ1FyY0cxdzhhUQ?oc=5",
-"source": "AiThority",
-"published": 1794838775.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "fec8b93867175617",
-"title": "Tesla to invest €3 billion in German plant to build Cybercabs",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWTVvbTQ1NEZtQkNYdGxvUGUzSVMxY3QyckJqekd6ODViU1NPWnRmenUtblIxc25feDRTVVp1QWdhRFhKdm9ucnE5ZWRMV0FkNFpaU25hc3licE8wMi1hRHA4eXVxTXR2NTJfbWlPTDVIbzNUT0d4YnNHTjh0SWxPWk1DQmxZN2NUc2J1TTlFeGd4UWlR?oc=5",
-"source": "Yahoo Finance",
-"published": 1794838718.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "9f241ae94a621c86",
-"title": "Meta Platforms stock outlook: Buyers keep control as $655.08 resistance approaches",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTElmbG5yNUdLZ3ZrMlJFNVhJeDVzMVBYWlg3OVN6aVl1ZGpWVXJGcGYtTVNtWklfOEhWZ1lJNlg1MzZnOFhfTDAyNGFHeHBLQjhkeWEwRlVTZHVHM3lHdzlOX2VMbmR4dXV2NGFsUXY4YldoWFpxMGhYT1NjMWljcVBnV3plTzhGWXNJ?oc=5",
-"source": "Traders Union",
-"published": 1794838661.0,
-"stocks": [
-"Meta (META)"
 ],
 "keywords": []
 }

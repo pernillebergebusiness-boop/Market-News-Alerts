@@ -1,5 +1,5 @@
 {
-"updated": 1794886247.8516462,
+"updated": 1794890324.1344614,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -70,9 +70,59 @@
 ],
 "feed_problems": [
 "Yahoo Finance: HTTPError",
-"Norges Bank (Google News): HTTPError"
+"Norges Bank (Google News): HTTPError",
+"Markets (Google News): HTTPError",
+"Microsoft (Google News): HTTPError"
 ],
 "items": [
+{
+"key": "7f0f8c423905504d",
+"title": "SPCX Stock Dethrones Intel As Nvidia’s Biggest Holding — Druckenmiller Buys In And Tepper Ups His Stake Over 1,600%",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNX01yOEN1TGxCekQ5dld3ZjJDWjlQMGVzRy1TNk9BRi1KaTVqWjRxczNid0Z1dE4yNTdzMmViNGpUaklaSy1TUXFPXy1xUHVyb0tnRnIwZ1U3MENqLWtHX0h0emFYVFZ4ZmlFaDlROGVtUl9JQ09JT2JsSG8xNzdSNzdCRHNpYkdYRjdDS0ZqbWIwSmdJN19qN3MwMVpGTU0?oc=5",
+"source": "Yahoo Finance",
+"published": 1794887793.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "6e1d63abb3bf3bdd",
+"title": "Trump says he may raise Jensen Huang's Nvidia resignation with Xi if the Chinese leader brings it up first",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWEk3akRQSk9oWUswVWtMOU9HLXFGWHJqZUVoamlXV2FOak1Fa1lMN240WmRZbDg2TnI5MWhFdW83X2ZxV2ZvWnYweDRpZTNrc1VLLUowYXNDTWdCOGFETVZrLU83ODc3UkstRnNVNGlGVWM0dTFqblc0SWpZZjNZbDQ2N2V6aW1QajdISy1BUQ?oc=5",
+"source": "Latin Times",
+"published": 1794887275.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "2e4549cdbc7525c2",
+"title": "Nvidia's Biggest Jensen Huang Problem Was Hiding in Plain Sight",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYUdfT05qSXdMWjNJVElnRU1lQUJNNjkzYVBmTW9odkhvZmtCZUJuQkp4cW5qSHRiQkpleno3TzY0QTBFcHZRZ1p5LTFHaU9XbEpKd0xWM3FQTjNidTh4Q0VLV1c3R2VDSU5KZlBmOVdwTjh6NzQ4dFB0MC1fdVlFZmNKQjlvbk5rdFYxbVFUQWxVandtc2FoYVNudURodC1ES3ln?oc=5",
+"source": "Yahoo Finance",
+"published": 1794887040.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "1fbae9d0ec8aea08",
+"title": "Nvidia's Biggest Jensen Huang Problem Was Hiding in Plain Sight",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTzFuSDRXSHBpNkpPVWpudlpZYzU0SENsOTc3SEZ6Tlp3bFkyX2RGU2h5NFllcVZEaHJVTlVoNGNpdlVPOVFUc2FJUEZiWXJHM3RZWExyU0x5OVhMZ1NtdWhicVoteHBDZ3VnNnBjdVNyUmhRMVN5OUFHVlBOUUE1TnBTNXdDSmZaYlVzeUJvTUVTdF9taDRTRks1enFGZGRmLXJYZWN0UkdkZw?oc=5",
+"source": "The Motley Fool",
+"published": 1794885840.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
 {
 "key": "d8026f18de3a9953",
 "title": "Gene Munster Says Nvidia Could Follow Apple's Multiple Path - NVIDIA (NASDAQ:NVDA)",
@@ -80,6 +130,18 @@
 "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPd0ppZUtCR3ZBQnFqT1pkM1FrY2w2VGk5ZWNhUFhzbzNuSnV2LXBOTzNGUWFLaFc4NGp1elF5N2NyMHh6NkxrRmJ0ejRJTllSM0l5X2tZMDJWVmJDZGIwUHpxYWVPN3FoV0FyQXo0N1BaTWNFZlZhaG1WRUhmVTQ4UjZyeXZuTHBXVzA3bUlWa0l1Q0F3NjBhY1lyMlJKa2pHeWhEQ1cwZDRKcWtWOVR1Rmc3ZXdVdDVlX0tVdk01eElUeW8y?oc=5",
 "source": "Benzinga",
 "published": 1794885835.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "66dff704ecc4ed3f",
+"title": "How Nvidia’s Board Made Billions While Overseeing the Company",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaElGSXRGa2ZfTVl4cGtPY09zWHlKMWR4d2RidXpGQXBQRHlNYlRXYU5GaGp6NVFYcTdGb0dWbW9LaC1ua2ttckNKNHlRdlZ0SlNwbnFxMHJxYkQwbm1OR1ROVGtud2h1ZXpUYXhEODIzX0JmT2gyVzJZR01hZXFsa2VhVTExeG4xSjREdTV4dlZXZldsWGd1emlQZUZPa2M?oc=5",
+"source": "WSJ",
+"published": 1794885240.0,
 "stocks": [
 "Nvidia (NVDA)"
 ],
@@ -106,6 +168,30 @@
 "published": 1794885030.0,
 "stocks": [
 "Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "f0c01e74c5aa2c10",
+"title": "Madison Huang’s Nvidia Role: $1.23M Pay, Age 35",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPanNxSkZCR2VMRlBkWFd3c0M2QVNsV0s5LWgxRVdfSDVfd2Y0aWhIOUZibXVfSE9rXzlTcG94dFBfcHF0VkdrWFJfR05fWk1zemFOdlZ2bWJCN20wM2pMMjduajBYVUhmMkw0blh4NnZRYmIxOXNoVEhOMXdPOGVPV0VvVGhsZHhKUXNMOFA3WnU?oc=5",
+"source": "shattered.io",
+"published": 1794884584.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "33ebd2be85ae26d5",
+"title": "Madison Huang, 35, played a powerful and sometimes disruptive role at Nvidia, the company her father, Jensen Huang, co-founded. Before Mr. Huang resigned last week, she had become his de facto chief of staff, with considerable authority over more seaso",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNWlGYnAyZ2hEMkRsSVl6NEE0cFpjLXBvVVl5T3J2UnRBRElwV0Y4MFNoWWxXeGV1a2NsekpYNDRwWVNqeUNCR2dJalZvUU1QTDdDSU93UHlBNzVabGlfNnZwTGxNMDdidWZHQ0VOQlloamtnWTloOVFGd2UyOTdaWTlrUmp4bk5iZ1ZkeVE3UlZLalg2VWJNUU1TTm0yUDdWcnlyS1B4SkVpWXJKZDM2RmdpamZuTHFGQjRmR3BoczRKTVdYUm5FNTFsMFVJYWh5MFBZ?oc=5",
+"source": "Facebook",
+"published": 1794884522.0,
+"stocks": [
+"Nvidia (NVDA)"
 ],
 "keywords": []
 },
@@ -202,6 +288,18 @@
 "published": 1794882362.0,
 "stocks": [
 "Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "1ebef30941660dd5",
+"title": "AMD’s Nvidia Rally Fades: Michael Burry Calls AMD ‘Too Expensive As Eternal Alternative’",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTko2RWtHaDczOXQweUt1UDl5X2ozam9EMmtUVDdfY1JibHdnaGFIWVdzSy00SWEwcEtRZkN6aFdfZVpiOXpjNE5rZXRPNHBxdkJkeml3RmVzeENKT2RjaW4wMlJnNTVNWGw0R1d4ODRPd3F2YUdzMWdMcWpvTmtmc2pCV2N4VTd5Yjlub2Y3RnIzeTI3NzAxZWxDVQ?oc=5",
+"source": "Yahoo Finance",
+"published": 1794882000.0,
+"stocks": [
+"Nvidia (NVDA)"
 ],
 "keywords": []
 },
@@ -4799,102 +4897,6 @@
 "published": 1794842326.0,
 "stocks": [
 "Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "064d06a9c0d2d19a",
-"title": "Tesla Wants To Sell You A Cybercab",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE82TXcwZWR2bllEQ2U0amxJQU16TUstU25RUjItcl9kRHZSVk8yZkNKM0lKc3ZsTmhCWWQ2LW9RODJ3MVVaQUJkZnEzd3UzSGpqNWZ5bWZhd2J6X3pOMy1UZlJLcDhUbHhjZnBsS2M4aw?oc=5",
-"source": "Jalopnik",
-"published": 1794842326.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "380f05b84a136653",
-"title": "Should Nvidia stock be a buy ahead of earnings?",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdzFjdXVCYTYweU53RmZfTk9na0VVcnFnS2kxbUNBcndUZ1AzWElDUHNsZXd0ekZiNnphOUZvbkxwRnFTajNGRXJWY1R5QmpSTmpHVVNlQVdXdE9fR0F0QWhkVE5DSG5QLTY3QkQ1cXVrRVZWYWRKTDlCRVVPbFZVZkxWc2NQdFIwY2RJOFMtc0xnTTBQT3l6Rw?oc=5",
-"source": "Yahoo Finance",
-"published": 1794842314.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "6d90b3d47ab63d7b",
-"title": "Trump Says He’s Open to Reinstatement of Jensen Huang as Nvidia Chief",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZmV2OVRDYmh5blducVRCZ3JwTlNja3FxWVZCclptZUlkOFp3OElmYW1NUXBnekxueElVNTBDd0QyNVYwZUFPanZwdDctMVZMOU54dnVlUll2RjdHM2oyb2RrbXdJcmtaMnJfU0VGdlRaREdDVjdQNHFHV2JQUWdfa0NZQQ?oc=5",
-"source": "The New York Times",
-"published": 1794842264.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "10d8ab23b97c0fbf",
-"title": "Tesla Inc Stock (TSLA) Moved Down by 3.35% on Nov 16: Facts Behind the Movement",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaWphUGVnb0sxMERJZ0UyUE5kTDBqeDBxaGI1TmtYOVBybXBMN3RnbFplTDgxdWc0REpZLUxEWHh0ZVdmeGJsWlFScVh3TEk3YWNTR1NrWG5HMVJWNVJldnBfYzUyejJTYkxkV1Y1VjBWVTVuU3l1d3RqaXAzZlFLMWJMXzFPTEFHcENn?oc=5",
-"source": "TradingKey",
-"published": 1794842130.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "6884070acd40f286",
-"title": "After Nvidia scandal, Commerce Department moves to curb remote access to AI chips",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdExOdWF1TUJkSHUySjhXbUZmV05xRC1KdlFfWmJUX1dxMjNENXhIR1c0bHJhUWZtOXNyb1BPcmdUR1ZzUjJRdXZLM3pjdkhaOVhTeTlYMnpfZlZPdFZaREVuME9XLVlmNFAtbVFwTGZ4ZFlZR09feXlDeGJzeVdhaGtrS3Z6X2NNOVlrOXlhcEV2SlFIcTBkdXZlSVJmaEE?oc=5",
-"source": "CBS News",
-"published": 1794842032.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "0a498302ab166a82",
-"title": "Tesla Cybercab Now Available to Pre-Order for Personal Use With a $299 Monthly Fee",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQ2djWHVUd0FyS3hlQUdUcU1vWDVDSkJmTXVZY1JLWVFXZS12MGkxakhmbURncC1pVFByZWJNZFFEbFJrdzBZVU5zWktFdllLMmt3TURMTWpkNEtmT0h3R2M2a25lR0g1OXh0UFpldDUtWEg2RWMwZW9ZX08zTDdCMjA5dEZKejd1MklMaWpJUXU5V0NOQ25iNHFpVDk?oc=5",
-"source": "Yahoo Finance",
-"published": 1794841994.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "20de6e0265a2f0be",
-"title": "Tesla on Autopilot/FSD hit an overturned truck at 71 mph, killing 3",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObmZVTUtGc3R1T2tqSy1QNEd2ajE3QXZFU0pIT0o1Z2ZraHlibTdRWDNFYURiSE1Ic3pFWklWSmhWYkxtekhYa0ltMjdYczZuN0RZZXVJTVo4elRfZHpwT0dXWThHbldocWpQc1VEV3NIOUpnRUo3UnFXN1dTSVhueElEcVdPQQ?oc=5",
-"source": "Electrek",
-"published": 1794841980.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "c6ea400381f9d467",
-"title": "Why is Meta Platforms stock sliding today?",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcHNmVmZmZ1hYcVM5ZVAyNHZKU3NnNFhLRzBpZ1g5OVFuRktuSi1RZVpCYnlySEtOQjdMcjhrLTVGSEpQZVdZQWktQmhrZ29xMGFEal9fZzR6dDJ6TXY1dW1qS3JjTlk4QUFjUE5fdUxNeWE0ZUtKWXVzMm5PSGRISlRnQTRHN0N0Sl9lVjB4bEtSSE52VmpUZWxzLXkyTVA4MjY1eWNR?oc=5",
-"source": "Investing.com",
-"published": 1794841969.0,
-"stocks": [
-"Meta (META)"
 ],
 "keywords": []
 }

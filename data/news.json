@@ -1,5 +1,5 @@
 {
-"updated": 1794875097.7362988,
+"updated": 1794879915.737607,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -70,11 +70,87 @@
 ],
 "feed_problems": [
 "Yahoo Finance: HTTPError",
-"Oslo Børs (Google News): HTTPError",
+"Norges Bank (Google News): HTTPError",
+"Aker (Google News): HTTPError",
 "Kongsberg Gruppen (Google News): HTTPError",
-"Nvidia (Google News): HTTPError"
+"DNB (Google News): HTTPError",
+"Tesla (Google News): HTTPError",
+"Apple (Google News): HTTPError",
+"Microsoft (Google News): HTTPError"
 ],
 "items": [
+{
+"key": "f5e223ab6d01e0f5",
+"title": "Jensen Huang Wants To Come Back — Nvidia Board Needs To Stand Firm",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZ0twa1M1ZW5rNTNGWFNjU2ZxbDNLZUpXajA3OXpoQVlUaXVmTUVtYlREOHBLWTVmQ2E2RVJuOG5YTFJUOGNLM0Z1VUgwclNPWW5OQTI5Qk9QUGFvbEVMUi1LZS1EUXN2M3gyeWIxWmhPVF84eHlQRG5EUFR0ejJzcWJKNklTaUlrOGNRdno5aTZXNVlfbzNOdVVSc0FNa1VGUHNoNkFqNHhKRWVMSGdyTU9oVEtvcENyX3V4cw?oc=5",
+"source": "Forbes",
+"published": 1794877246.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "e5535f9658368e5c",
+"title": "Put-Downs, Parties and a ‘Royal Family’: The Culture Inside Jensen Huang’s Nvidia",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcVF2cDIwWEpiWEpTYjNSNFBJY1dVMjNTaXJyLUpBYmZ6XzdpR0dHY0EtdGlWdlNLUmFCbFE4MUpORWpuZTRqUjROOVdRM0h3MWVmRUViNTlTeVQyOGpGblRpNWp1U1RDWVFxZVZ3Wk4yU3dfdmRZdkJvY0JGbGRzNy1IcUJOVXZ2UDBZMU10Nlp4TDd2enk3VlBROUw3cTU0UWRnUG9xa083QlBtd3JWb3NzSWI?oc=5",
+"source": "WSJ",
+"published": 1794876180.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "c829e639da907fbc",
+"title": "Elon Musk Wants Jensen Huang Back at Nvidia. Here’s What’s at Stake for SpaceX",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeG81RGtYb2hnSmd6Vk9NSmFJdkJEakl5SkxxUXViak95cmhobzNxb090T1FrRnk0ajhNR1FZLVhMa3U2OXpMUlJLTjFMbUdFVWttS1V2SkZHdTdFUktJbXZUeXY0R285OC1uMWZrVXpRNTlMclo2alhaR2piQWtwOVdkczdLUnUteVAxQktnTlZzUWVTN2d4eVE1TklSSGU1ZG5CZFU3VXFxV2poTmY0OVFFejBIaDZWbW84cA?oc=5",
+"source": "The Motley Fool",
+"published": 1794875940.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "85cbe8e4c99a5984",
+"title": "Nvidia Directors Rule Out Huang’s Return as Company Prepares to Report Earnings",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQnMyVTl1YTN0bW14WmZsZUQ1S0x2QUZsajVRZjNKYmw2N2dPXzFybmt0YW0wNFlyd1d6OXRmck9TendUcTVibFZnTjFfcl9iUGp0My04dHBjOF9uTEd5SnRYdE9GUFBuQUVDbzlJTHlwdHRoSzBOR1lKWWlnLUhSU0YwZkFzeFQxQThiWUFXLWdydlQzNnJqY2NxMGZFY2F4?oc=5",
+"source": "Yahoo Finance",
+"published": 1794875820.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "a33717f18f66c23d",
+"title": "Trump Backs Huang Comeback While Nvidia Board Seeks New CEO",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTzZFZHJxQ1ZMaW5Ba1V4bm8taHd4bFBvYUZHWFY4SFpydml5YUVhLTRCaEFsNG9TbjY1dl9ac2tDek1DemJ0M3FwQTNtQm5aNV83RjFsZEZTNmJ2WHRJRWtHUVRDVEdnTUJtSzlaMWZfSEU2anpRSmVGcG9SUEgxN3c1WG5UcVBkdG02bmsyQkxvNlVqeEV2SDFORlA3VGNHZnpha2EyQ3V5aDVIS1E?oc=5",
+"source": "Bloomberg.com",
+"published": 1794875760.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "1cadcaa3afef497c",
+"title": "Bill Ackman lays out how an activist investor effort to restore Jensen Huang as Nvidia CEO could work",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZW00NnVuX3p0ajVmYnJGckViOFpuRERuX2FhaHlvTTBLTGxGYUpNWEQ1M0dkeG5yZXFLdlhoTFVxOFJCeTViTFFncE1uZU1sczN3Yy1SeGxwRW53cDUyMDEyNGFsVEROdHVjUy12ZmhsUkhyZGFpb3daQjNpWnVscDc1T0cxSmRlVFB2SUIwZEZnX0lzZnI4bTA4ZVNqVmxSTXRXSVV3Mkt5ZWY4THZYVk1R?oc=5",
+"source": "Business Insider",
+"published": 1794874440.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
 {
 "key": "f37f9240cadbf157",
 "title": "Tesla may test customer-owned Robotaxis as early as next month, Musk says",
@@ -84,6 +160,18 @@
 "published": 1794874384.0,
 "stocks": [
 "Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "9a24ac8f29663217",
+"title": "Broadcom vs. Nvidia: Which Semiconductor Stock Is the Better AI Buy over the Next 3 Years?",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQM21RZnFIZlRKZ283MTNwZGhGWXZtR2pKcTBIMHFjdnJaczA0TFg2aVJzVTNhYU9HR3lQOTF2b0lEZTE5Wl9ndzB1NW9rU2dycElmeXQ5Y1RId3drTkxMWmpmZTlyWFRTMFY1cEt3ck9neFhZQzlfQUVwVlpSSTRTNTNuSFpjdDAyRV9WXzdLaU5FbmdnZjl0RThqeXhLaEFkVENaVkNhZ3R5anY0NjkwOWdzRENyY0tBM0NISGxEVjlOTmJjR2V4UDRR?oc=5",
+"source": "The Motley Fool",
+"published": 1794873720.0,
+"stocks": [
+"Nvidia (NVDA)"
 ],
 "keywords": []
 },
@@ -136,6 +224,18 @@
 "keywords": []
 },
 {
+"key": "1aa01486522998b6",
+"title": "Madison Huang, Jensen Huang’s Daughter, Became a Powerful Force at Nvidia",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQlVCR0tGc19ieDFBWFluaUdCU0lMaUJ2OG5MNm9VMnNxMkd5WXNMNDV3MEY5NzU4MW5kdWxYVzFzMmJzT2N3WGUwLWRQNjdReUZOWFZOS0M4Z1hJRUVJd0tVQXZyZVp3aExhNDZaQjdEOHlWQ3ZfTE12eDRCbGUtWDBzUXM?oc=5",
+"source": "The New York Times",
+"published": 1794871794.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
 "key": "214ae8676000e66e",
 "title": "Could everything be broken? Grounded jets, bank trouble, Microsoft outage, AI chaos make some wonder",
 "summary": "",
@@ -154,6 +254,18 @@
 "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQY29YTk5iU1MzaDlHR1JZaWJHNlh1ZXAyMERVdjhoRG1CdHF5NmtPQ3JjSlQ0TkJmeVJOZmRHTHhhUjR6NkxOcEMtSGxpUzZKalJUMnctZkJpbkIteU9MSnpfRDRFMUJ2VHV1NU40djlkZXVoN0dGWjdsWkxaa1lLV29nclhMVi1MLXJoSkFDM2RzeG1yR0pGUzQ0emlQcEFDbDFENXlkNll2c2x4WFpRYWI2cVBJbW1QdjVxVzhoaXljdHptZFVRaQ?oc=5",
 "source": "Eurasia Business News",
 "published": 1794871539.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "c37c1a45576e75d3",
+"title": "Jim Cramer says Nvidia’s leadership shake-up won’t derail the AI trade",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNak9UOS1QUm40bEFlZ2QxdERtR083dVVEQVl4R0I5ZExZdWQwZlRyQ01IMVJpUmlHS2hSTzl1Q1BuaG80b2JGc1M0VVFmckhOQndEMFdWdjRUV3drYTZWTXlXc2dPSzZZTVN4ZUsxT3R4ZExYa3BNUTZXQzhlUFlwWGNCc9IBiAFBVV95cUxPRHRDU2h2UFJxWUk2VkxtOUhyN0IyekI4UTlQQmdGNVQzb0M0SWUwRU5nQndleWpsR00yV1lUVFBzNFpiSmhYcmpMczRwa09MV1VRbl85YXlhSnVvNld6TU9MQkxvdlNSWnZNMW5xTnJHODNMZ1JYblN2ckM5MnVUT3prTkNfV21P?oc=5",
+"source": "CNBC",
+"published": 1794871427.0,
 "stocks": [
 "Nvidia (NVDA)"
 ],
@@ -192,6 +304,18 @@
 "published": 1794871086.0,
 "stocks": [
 "Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "4a6a89c4729189f9",
+"title": "Tech Leaders Want Jensen Huang to Return to Nvidia. Here’s What That Would Mean for the Stock Price.",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcTdGMlQwdmZzb1JVejBNbnk0c25zTW0tUFoxQnBQM2tIVVhWdTNVbWlBQ1ZNczBkQjlhYnZXQl9BbkZmZDV6dWZ6WGJZZFota05mbVBkRTZUQlJUZTB5YThxNnNCN0FlcExyckh2MEhfZW9EQ2NZWWp3cTZGNU81WXVMb2pxMTBqdVpKTDRtTG1aRjd1eWxrNlNKcFFYLUlqb2J0Y2lkQXFTMUUzT0JOY2FobV9wUkpCVEk4VDRlWGUxbUVJN3NUb3VNaDRxODQ2UHBIaHFSYkQ?oc=5",
+"source": "The Motley Fool",
+"published": 1794870900.0,
+"stocks": [
+"Nvidia (NVDA)"
 ],
 "keywords": []
 },
@@ -402,6 +526,18 @@
 "keywords": []
 },
 {
+"key": "b63ec6d39095816b",
+"title": "Berkshire Hathaway Slashes This Top 5 Stock; Nvidia Boosts SpaceX",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWmtSdzA4SVl6UlZEclpaQVd2b2NSaXRLQWZDTzVIQ3dRYnU2elJoVEtmbFhWb0tMbVZiSVVnMHVSWHdRS3V2VW5uYmY3cnFWU1FHbmo1aF85QzFVY0VCVnRRcXZLSHFGNGlfWExtRlJpRU5idDgxMGlKWWlQdVhwZmkyZFVtVnNsTHc2SzVoXzR1R2xLXzVfMFJ1RnJCU2RJZDJj?oc=5",
+"source": "Investor's Business Daily",
+"published": 1794868740.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
 "key": "2e27173507f49fae",
 "title": "'Fast Money' traders weigh Nvidia sell-off ahead of earnings",
 "summary": "",
@@ -518,6 +654,18 @@
 "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVFVRTjVuUWNiM1EwR1JwdVpSc2VlOHlYUVh1c3YzSEFkRUNXQjBVcVBaZUxLWHNhM1g2Ym9FREFDbHpVTEh1endhV2czc2FrNHozQ2t0c093dWxqbzN6clYyQkl0MXBBNTIyalowM1ZYeVVDYlppbUpxbGFBNjJlSFNSVHBzaDRkTFROdmp0UnQxSU1xUk44?oc=5",
 "source": "Yahoo Finance",
 "published": 1794867722.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "c658d5a27bb3a6dd",
+"title": "Nvidia dismisses campaign to bring back Jensen Huang as Trump backs effort",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaNjZSeXBveGFTaEJEM1lROVBGeWI3TEpuWWcyblp2RGZxeXAtVVZhdWRyUlZISHNFNTgtUEZNUWt0TWVIY3B1T3pZR0hjQmNDUXV0NFdlUHUzMEU?oc=5",
+"source": "BBC",
+"published": 1794867687.0,
 "stocks": [
 "Nvidia (NVDA)"
 ],
@@ -676,6 +824,18 @@
 "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSHFoREFNUWJRYTJxR0pTRnpHM2Q1NlhjQ1pjN0w3U1FWM09sclNuMlVNLWx4YXF0TURpOEdtSk9sc3BXTEpBakhLd21neWhod2pvZ1hRNVAtZWxNTlZmUXl4TXNJQ0MyTTFqa0tpRGVmOVpQZlRidlZzYkFLYnlNSXduLUtPSXo3QUJ0aVhlM0xWVFNh?oc=5",
 "source": "Bloomberg.com",
 "published": 1794866811.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "750181dc076410d6",
+"title": "U.S. Stocks Extend Slide on Nvidia, China Fears",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWFF6T2tpa2JWRXltSGhKSThhb0FaSFJ4OUpfQko5N2IzRFBraDNmdjBtaGxnWkZaMTh3a2hmSm9tcmlHMjRMU0lPcTZScHFWRHo2d0pHZlZKMUhNVGphMURVTzNCRFdTMGt2TmpzRjZBaGdpZ1hLYk14X1RQSVFuV0VPS2dPdVVTWC02VmFlVVZzTTg?oc=5",
+"source": "WSJ",
+"published": 1794866760.0,
 "stocks": [
 "Nvidia (NVDA)"
 ],
@@ -4736,162 +4896,6 @@
 "published": 1794838661.0,
 "stocks": [
 "Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "97de953ee248714b",
-"title": "Microsoft is bundling 25 games with new Windows PCs until the end of 2026",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHbHZQMTFIcXpPX3YyRUp3UHZlMEdDaG9CSFlOYWJpZUw0SWwwZFM4LXpGRmxEVk4tZ1I1NTB1V2dka2M2SUY3ajdOczVRR1NpREsyeHUxOFUxNGZlbGMzZ0l3U3hIOWhZSk5aZS0zZ1p6SmtyVXpnLWIzdU1tLXc?oc=5",
-"source": "Club386",
-"published": 1794838657.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "18c9bc141d97d205",
-"title": "Tesla announces $3.3 billion expansion of Germany plant",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1GVWRwXzZFYmxwLU1XOEU4V1BCOWxKamo1OWZFNHZidXJfelc5ai1IS2FaNm5vU290dUxjcTBUN05UbTFoZlo1UEFUT0E3Z0VIU3Mwa2p6dXY5Skl4Rzk2bngxVENwNzM4ZTJUVmtVcHJJMG5wclRxZ0tKTQ?oc=5",
-"source": "AOL.com",
-"published": 1794838623.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "a72f410b388c1a3d",
-"title": "Nvidia can replace Jensen Huang, but not the handshakes behind its chips: Chart of the Day",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOaFZ2M3VxVWV2X0QtX0hLUUE3SWszcXZ2MVFKc2NJUU5ld0J5TUx5LWdhcmpFREptUW1UclpCUjkwN2RLUEtOSlk0R3ozZVdEZWlIdV9Hd25kazRLVk1mZTJHR2NoZ01hT05NSFhVVlNLdGZvRWFKcHFTZGlaQW5LcWRLYkp5aVNTQ0MyYUNZeHNtR1hLX3RZVV9BQV8xMVNGQXBoelo4V0JpYm81ZDlnVnFyT3RkNG04eFdaUy1ZSG52cm10bXpxekZWMVlwVUN4QlhyRExMUHJnbVg0dEE?oc=5",
-"source": "Yahoo Finance",
-"published": 1794838618.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "f4d797381f40c808",
-"title": "Tesla’s New Radio Control Cybertruck Looks Legit, And Is Actually Kind Of Innovative",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOXdWbHVHSEJWNWgzdkJrS1d2N25pSVY3bzVzOEU0RndrSF9DQkRvRFJNbnpka1hnUVF0WHh1dDJOX3NFamRaTlB5MnFIRG5PaG5oY0Z6WWJHWGZaeFpYVFZibThxdDM4dGE3YnBFVklpVjR6MjFiX21RZmJjSXJ4VnluUFpqOEZ1RTRzS0FpUElNUmJ1Y1JhSVNrb1ZJSUYwQ1RsUEtndkM?oc=5",
-"source": "The Autopian",
-"published": 1794838582.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "e9f1966e218ca6e4",
-"title": "Microsoft remote lock may not stop data access, experts say",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB4WmZTZ3FEOHhVM2ZJVGVaUHY2OWYycEdLM21pZUhuUFkxV2hxRmFVcUFjNHZBY2p6WU5Vd0FjSW15WklmaV9BLUVmN3R2NnJVc0pHMWlfNEVCWTZvbmxfWlR0TWRycXRPWkhVSlY4TEJjT0k1RzdmVlhBdS0?oc=5",
-"source": "Cybernews",
-"published": 1794838500.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "a9ebdbde9f0fac09",
-"title": "If a Stock Market Crash Is Coming in 2027, Warren Buffett’s Advice Makes My Next Move Clear",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTjFrVFpDUUxZcXQzN09fT3FPU1RJZGZXNXduY19XZ251c0ZRN3lvX0FoMXpHRmJ4WDhqR01wb2xVZEJjRlhPZW9Dc0NiSW1PbWR6MVJQUTdlUWhrcXFxTUhIbFpWcXRjNHVreDhTWXJ3b1BnUDZFamkxMXFKclJSQTNhVU5NR21fUmhVVlhZQ24tUEVuTDZ0MEtja3k1RmdZY2xzYzhEYl96VFA1cHJoRlhURWhYaUUtTXF1eDJ3Y2VjZXQ5ajNubWFXMDM?oc=5",
-"source": "The Motley Fool",
-"published": 1794838500.0,
-"stocks": [],
-"keywords": [
-"stock market crash"
-]
-},
-{
-"key": "8fdfaff2be89f99a",
-"title": "We Tried Mercedes’ New Semi-Autonomous-Driving Tech. Tesla’s Is Better.",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQjNrVEVoQjVYWk1VeF9EazdVWEdfamE0YW1paG5vT29wNnpCY3AtLWtNM05yQlN2Wl94R1ZUckU3WUF1VDhLZkFSdmQ3QldNZy1iNm96djBtQV9hRl9neFFYUHpYY0t3b1c1Y2V0ZHZ5N0M4ZDcxVmxVZ2poMkdiMXJQemFxWjhjd1lZQWljQ1NxQQ?oc=5",
-"source": "MotorTrend",
-"published": 1794838499.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "b7d79182350b1651",
-"title": "Jim Cramer's top 10 things to watch in the stock market Monday",
-"summary": "Nvidia is leading the Nasdaq and other AI stocks lower this morning.",
-"link": "https://www.cnbc.com/investingclub/2026/11/16/jim-cramers-top-10-things-to-watch-in-the-stock-market-monday.html",
-"source": "CNBC Top News",
-"published": 1794838498.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "84d53b1774811d6f",
-"title": "SanDisk Falls 7% as AI Chip Selloff Hits Memory Stocks Despite Evercore’s $2,500 Target; Micron and Western Digital Drop 6%",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMXJZV2dnblBhdF9IUjZmbXJBTVQ0dVVyWDgxUWx1dmxJRHNteVctbEY5bmJ0VmJUSVlCSlJRV3hSRDEzOUNHV2JVOWhBR3U1TUs4eDdvODZjZWtlQ0ZfOEhfYVdKdXpNdC0zYld0NFFZV0ZiNGFpRm1oellWSVNIaHUwbVoyem5sWVNyYmFKRnM?oc=5",
-"source": "Yahoo Finance",
-"published": 1794838389.0,
-"stocks": [],
-"keywords": [
-"selloff"
-]
-},
-{
-"key": "4666c26d850948da",
-"title": "Tesla to invest additional EUR3 bln at German plant, FAZ reports",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPb2c3VmQ0SjZrOTVaOUdMa2FYbEwwN1IwS2FabEl3d0JDY2VsVXg2bjMyVTZuSmhKakxJUUZXNHhRQUhjMTJRdElCWkVpNmJHZkZaQU1FZ1hRZUFTbXZxck9YU2t5TzhCZDVEcjFKeWxXcHc3QTZYbVJ1al9wQTdaQnU3VjUwVHlyVWZGY0pmcnNaYWhuU3JJd2VIUURob3BWRUJ6RUlYdlQ5RDctbC1EZzlxeFVZa1U?oc=5",
-"source": "marketscreener.com",
-"published": 1794838326.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "f6c921dc48f59eb9",
-"title": "Tesla to invest €3B in Brandenburg factory",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQN09hOEUzdEhwLVFicGNnSDZYZGR1cmliWWJyUW5fOWNDZjU3bGxsRTFHX1BoOUI3TTlwckFVbllCMkw0Ukx5a2lFU3VqNzIwRy12OE5xWWdpYVpPWnZDMjc2ZTZEVEJtNmw2S0t0Y3lMT1Nsd0NiZmpZWXQyZ0Nlb0hCUG1UaGlHc3BtcGt0bXJyYXBW?oc=5",
-"source": "Breakingthenews.net",
-"published": 1794838320.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "ff23254e2207f7f8",
-"title": "NVIDIA Falls 4% Ahead of Earnings as Elon Musk Joins Calls to Reinstate Jensen Huang; AMD Drops 6%, Taiwan Semiconductor Slides 5%",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVTN6c1RxdUhEaFJpcmd1amZzR19ISTZfTlhqc0lVNXR3ZE9HQzF6eWlYb3R0TnZZc2FNczBHRkRwTWlLV2RwV2RJSENsMmtFdFUyck5VLUh5eVRHSTliOFJ6U2JpVlJHc0tNX284SE42RGtEMldnXzM0MFVGX2ZLbE9WUHNJYkZYSm1oYi1xeFI3OEFDbnRHcVVn?oc=5",
-"source": "Yahoo Finance",
-"published": 1794838251.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "1d7ebf69bce3572f",
-"title": "NVIDIA Falls 4% Ahead of Earnings as Elon Musk Joins Calls to Reinstate Jensen Huang; AMD Drops 6%, Taiwan Semiconductor Slides 5%",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNTlF0QzdtLURGTVV5cHVhYzlGdXdHMG80eFVuWVk1QVlQOU5kWHo3d0l1cjBxYmlYT0E2Y0pzNnA3cEQxNUpmX0ZOSDk3d2ZIbkl2WkkxMTdDZTV0d0dPcWFQc1haX19jbmdzLS0xSWY4WGJUcGFBY0FKYVF6YVJxb3JPc3RwVVRZRF9VMXB4MXFuM09Sazk0ZlJaSS11UnRhMWpSZzVvOTNYY3Q4TWhvaV9tSGlEMU5vaHY3ZFRnamU2bV9zc3VUWnVOMnJqSFM3WHNGaUV0c2hKY0F4MF9MWnJDTGNqc2VnWUt5V3JVeHAwVWVQWjV1ZVBqb1RFUQ?oc=5",
-"source": "24/7 Wall St.",
-"published": 1794838200.0,
-"stocks": [
-"Nvidia (NVDA)"
 ],
 "keywords": []
 }

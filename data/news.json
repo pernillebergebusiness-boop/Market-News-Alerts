@@ -1,5 +1,5 @@
 {
-"updated": 1794973049.0245016,
+"updated": 1794976863.1710997,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -69,9 +69,108 @@
 }
 ],
 "feed_problems": [
-"Yahoo Finance: HTTPError"
+"Yahoo Finance: HTTPError",
+"Markets (Google News): HTTPError",
+"Kongsberg Gruppen (Google News): HTTPError",
+"Tesla (Google News): HTTPError"
 ],
 "items": [
+{
+"key": "320eabf11cc80963",
+"title": "'Who and what comes next': Analysts expect Nvidia investor uncertainty despite earnings beat",
+"summary": "Nvidia’s Q3 results should help ease short-term concerns, but uncertainty remains around long-term leadership.",
+"link": "https://www.cnbc.com/2026/11/18/nvidia-earnings-market-analysis.html",
+"source": "CNBC Top News",
+"published": 1794976829.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "6266ad62eccd935f",
+"title": "Form 4 Meta Platforms Inc: Aaron Anderson (Chief Accounting Officer) For: 15 November",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNlMydTJ3NFNfNWUwR1l1eHo1LXR2Q3NTNnNjYTZEdWdaMHpnUkJmTXhybUhpQUsyVXZfYWE4V0dxQTBQQmdOc0RFSG83TVBrN0dEX0xRQnhtdF92dG9UeE12d3ZPWXI4alNGY3gyVDZTYm43MjExT2hqR3JEZVJneHUxNC16bkhqWTYyQUVGQ1dDWlNOWnRYcmZ3M3NWSzVFLTJzb25YcnR6ZS1VeEJqSE9ZdklEVjcxS2FnV1F1NFMweUVaNzRweS02Z29FSHlCY1lDNi1fMkFqQQ?oc=5",
+"source": "Investing.com Nigeria",
+"published": 1794976542.0,
+"stocks": [
+"Meta (META)"
+],
+"keywords": []
+},
+{
+"key": "b059adc43b066ffc",
+"title": "Apple, banks, FAA and Microsoft outages raise questions: A cybersecurity expert weighs in",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOczdEZW5LYUR2RWdCMGNyYW5fZnpHMDJaT3Y0bjNyOFUta2JHbTd6VUh5SnQyQTR4NzNvTUJZRk1VM2ZKVFU4d0FFUzBpR0JSampzRm14djlzcmg3OEFwVGdiWWtWUERFMFRJZ2E3S2VmdXRyLTdCX2hpcS0yS3JFeHRrZURYQ2pxdjN4YURYQnQycGFtWFdCYUQzc1htYzFiektWaXUwbUd6MkRpQVZJSFlOclNDendXTzNMY3J2QQ?oc=5",
+"source": "WMTV 15 NEWS",
+"published": 1794976020.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "5cff3248cd97a92d",
+"title": "Equinor Reports Cyberattack on IT Systems; Operations, Production Unaffected",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVEhOVGNkYnhzZXh5ck4zVllYMnRzUXU0UHhHb2lrLVJmVFVveF81ejk1QnI2ZlJhdXhObGxVb09KaFBEbk1qS3IzRm56OXFRR25rbWNERks0SHdONGEtRXhZcF95VElkcV94aUNPM01zUV9Ma2NzSzJ6dmhpNmJDa1BiQ3k1aEZJWV9meXhMdzVLbWd2SHdJRHU1UUxOVmRCdlBTeDltVzBKM09FS0o1cUQ0cWxRV1FtZm9penhBUDNXNWFrRnc?oc=5",
+"source": "marketscreener.com",
+"published": 1794975801.0,
+"stocks": [
+"Equinor (EQNR)"
+],
+"keywords": []
+},
+{
+"key": "4c1ded2b083f1620",
+"title": "Nvidia’s Earnings Shows The AI Race Must Go On Without Jensen Huang",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbXIyRGs3X19hUS01dVBra3U3WGlUVmpfRWNEN1VYMk03T3hBN3ZxaENFeWRDR2JlNUI4Mkc1TmNISFdsd0xqeTljQUtKemxXTzBheTVKdTlweTl5TnczNlFhQlhOcXA0MUNuRnVkN0ZUUGh1WHhlT0xITGhURzdQc0UtYXY3U3lMdkkyQlRwM1RSQWJGR1Etc0ZxWjJYWTU2ampMVXlxa3k5SmxkQ1Bz?oc=5",
+"source": "Inc.com",
+"published": 1794975176.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "5b5a0cfb8d23d265",
+"title": "Dow Jones Futures: Techs Rise After Nvidia Beats, Says This On Jensen Huang; Target, Anthropic IPO Ahead",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM2s3XzVKLXc1azMwV2VhVlhPalU1a2UxbDY5aW9XejYxRDlwbHhvdkc2aVhYd1ZLaGx2ZU5nVm1KWWhXd2FXeTMyZDQycXU4Z0RPMEZ6MUo2Z0p1dHV5anBMZmNIQ0M3WExTbUJzd08wRVAxdzNmMGgyU1ZWRXlQYWpudmhDREhneU9BVkt2WDZHaWtmZldHQmx6N3QzQlh1UTBSYnoxR28tZTlBeDR5WnB0Zw?oc=5",
+"source": "Investor's Business Daily",
+"published": 1794974700.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "104121da30ac2498",
+"title": "'Who and what comes next': Analysts expect Nvidia investor uncertainty despite earnings beat",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5xUUJPejlwZHBQYmxGcGU1ckJDbG1WOC1GZzJyV3p4a3F0VWRDZWZqNVN6ZWludjhIVmxqejA3VFhPSmJ1QUFUcHJGVm9aelBCTUNhOGZNdW5CbDh1ajZkQjNFTVkyaWpFVE9QMXlXejFEX2llNlhz0gF8QVVfeXFMTWwtR0N6UWNpRW5hNkVKTjNyOHhIZGg4aVFOazE3Z2VxbnJEdXhPUElZcEtDR3QzbjZyeUtxLTVvT0JzTW1yZWRkNXJoUy1XXzE3NjExcThhZ0VlbnpHY29EVk8za0ZqVGJVbm05YkhkU19Ha0J4c0VwZV90dA?oc=5",
+"source": "CNBC",
+"published": 1794974640.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "be60297e1ec4276c",
+"title": "Nvidia Earnings: Business as Usual as Forecasts Suggest That All Is Well and Shares Are Cheap",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQU0tKbHM5YVdOQmlES1FiU0JLcVd3N0JwUTNXMmk1OEZtZGQtR0FOY2E3eC0zTVF5d1hZcEJQc21YSExyOGtxbHp0WG9veEtTZEVvaG1MNmRldTVGcndHYmV4UHRFd3k0ZjBaaUVUUnpNRUhscVdKUDRvNXpwalBwcndJU3BnQ3M4OUM0VVJvd0VGSVNfaE9kYTFLd3RwMEdRbktJdENKZjVMRXFxVlNkQXR0c0NMbExa?oc=5",
+"source": "Morningstar",
+"published": 1794974492.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
 {
 "key": "39831bc215ae3067",
 "title": "Tesla unveils world’s most advanced solid-state power platform with 98.86% efficiency",
@@ -93,6 +192,18 @@
 "published": 1794972137.0,
 "stocks": [
 "Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "8b807e073fa2bfd5",
+"title": "With Jensen Huang gone, Colette Kress shows Nvidia is still at the center of AI",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUXpyNGgxb1B4NDFaT1ZKS2JRSmxQeVRrMG5oaTlQRmNRV01zY05acGJNZU5BRTI4QURLWVA2cDhmZGNjRGppdWxxWjdXcm9Gd2dydFdPMDF6U2h1NVpzYzU5SGstSEZBbldNV0szMm9JblNDQkswd1pvWVJjOElHU2JHZ2RZUVFDU0JIZWlTT2NuR01jTEZvOFk2aklMeVRHVU55d00zLWfSAa4BQVVfeXFMUERzcUNtczNMNlFnbkVzZlc0aEtNT0VRUmVMdXJBejY0ZldiUlppUFh4QTRLUjlFeUk0cnd3STZUMjQtWVVjLXFtelI0S0FUUFhHMWdXWUpHY2xOOFprTWg4aXBOYlJOcU9nTG9nMjI0T2tBMkFOZ0dpVnBNcHpvQkNLZVhYSnpXVTQtd0VtZ1JMM3FaRUpMMVZSY0dkLUtrNFkxcmpnNGo4MzlvZjJn?oc=5",
+"source": "CNBC",
+"published": 1794971700.0,
+"stocks": [
+"Nvidia (NVDA)"
 ],
 "keywords": []
 },
@@ -163,6 +274,18 @@
 "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWkg1ZDlTTnhHeGNPUmJMRXVFVXdtZEZYZ0Ryb0R2TG1wbFZVN2dZeXl5aWEzV0lhX3Z0VUhWRG1VQzVhcHV6QVZKWFNjYjZDeU5yVEdqbDJKSzBVa1JIYW5iRENkcTRJX0RIbVFEQUpPWE5aRHlpRTV5OUY0dmcyNHp5NlBOOFR3eDhIM0ZKX0VQdzlGamFLRkZZSko?oc=5",
 "source": "NBC News",
 "published": 1794969660.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "52509414c75087a1",
+"title": "Nvidia posts strong Q3 results as board rules out Huang's return - as it happened",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTEV2TkgtMVlQa05ZX0FaYzB1eWF3Z196RXNMdnYyakRJNklIRW9Xb3J4cGd0VkFrNE5pZFluQ21xNFItU25Wem8xblFRbTFYc1FuT1dnaFZLWldsaVVtNS1lWWZNd1VHWl9JRDI2N1RCOHJHLWNuOFpHaGJiTGJneElkQ3RYWHZOMmltVmlmNzlGVEhCWUF0SW5Yd1hYMm5NYWdfVXN6Tm5jSzE3XzRFc2c5aW13M3pU?oc=5",
+"source": "Reuters",
+"published": 1794969293.0,
 "stocks": [
 "Nvidia (NVDA)"
 ],
@@ -559,6 +682,18 @@
 "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRnZTNFdIdW9wNFlvYlVBZEFUN3ZmbUt6b2VfM1Z3X3lsY1NnYXFnTU4wWndDWmI0elJibE8yWUp2bEVfYTRXbkJJZlZLdk1md3pHdlZiODFPOUt3NVRRVXZJYmJjOHpRRHJYakpvQUF3aUNTeXVJbm8yWmZDSmF4TzlLZ3VQUk5jT001RVVYQy12M3ZySHJPNnhPSQ?oc=5",
 "source": "Yahoo Finance",
 "published": 1794964037.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "af792ecca571958c",
+"title": "Jeff Bezos has some advice for Nvidia’s board on its CEO search",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRmtRcmxWVFdUSkZhanAxaXFtZUI4UU1BWTA1QkNpNnBWMzRXMGVzLXRHZm1EQXIyRVd1UTJwdXBOWF9nZWIzb2IyNWVpR082amk0b3VDZ1BqWFdvdXdqeDRTckpaMWoyOWgzSFdnbXRuLTdZS050TTZRMHdRbERMSUVRVE1UZzNOTmF0ZWpJSkJuQlRQMDdOVw?oc=5",
+"source": "GeekWire",
+"published": 1794964018.0,
 "stocks": [
 "Nvidia (NVDA)"
 ],
@@ -1175,6 +1310,18 @@
 "published": 1794958821.0,
 "stocks": [
 "Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "1501e478fd8756de",
+"title": "Nvidia is abandoning China after Jensen Huang’s ouster",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdnRIYmFRMXJud2Y0bDNwTjVVSUlBN1FKNTNqMWhib1UxVHhqME1faU43TWluTWRlbEp4Q0RaRkF3VVNqRFlmc3BoX21xQ1Fob0EyX0w3ZmYwSElKUjlYNDJ1WkVCRGZtZnVSdDRhQWVid1F2Mzd0ZFpITzhFb1FwSnZTZUpPZ1VCbHpfRTY4Nl9iQQ?oc=5",
+"source": "TechCrunch",
+"published": 1794958668.0,
+"stocks": [
+"Nvidia (NVDA)"
 ],
 "keywords": []
 },
@@ -4733,150 +4880,6 @@
 "published": 1794939121.0,
 "stocks": [
 "Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "5c6d67bfb98569ed",
-"title": "Microsoft aims to challenge OpenAI, Anthropic with cheaper, specialized AI models",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWnpSWUhVX2NkMm9wR1R1dE92a2VBYVM5TUpKc19Ia3NsSlVmUmZfTjNfYVVuTnU4ZjJPMHJJWHNrclcxT3dSZGZ5ckdDYlM3M3BvcGVNNGtkb1ZKZk5KM2ZvOGJKdVhtLU5fQ3JtSDZsMW5rbGwwczhEX2R4TTY5Nm9n?oc=5",
-"source": "Axios",
-"published": 1794939100.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "c934f38d5c5645ed",
-"title": "Equinor detects cyberattack against some IT systems",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUTdVUVVtcmFYWms2YkJuU3lxZ05RakxKbndJakRORnJVLVRSQ0ItMnVSR2RaaGRRZmJsYzRkYlZrYkl0NGJ4LWdUcW5UOUsxa1F2LWw5LTBWc1VhdHlsZGFWM0VXdGZ0aWxMeGg4Vk9JdGYweGQ4NjVteVpQR2ZjSF9vbWRrTW42c2h1bkhEX2RSQ1VxWlVsRHhrNkJnUjQ?oc=5",
-"source": "Reuters",
-"published": 1794939014.0,
-"stocks": [
-"Equinor (EQNR)"
-],
-"keywords": []
-},
-{
-"key": "c1d08c2902c7522f",
-"title": "Microsoft aims to challenge OpenAI, Anthropic with cheaper, specialized AI models",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQY204cWRjMmQwMnNNSEI1b2Q1RDFJVV96dTFwSXdta1luWWxtdTZvSW1hNUFCQlZsZlE5Zi1obVYwSG0yVC0wT1ZrNDdudnQ5SzVHX2lLSTVadGVqT1lJOXAwaGpHbG5ocG9GTnVleGx5Z0lKNWtnMEVwNWZsY3NJRUNtOXpBb2JQcFRURVJwbWpwWnZKRTE5TUF1RVNlaUh0Y1ZWOUtKWGE?oc=5",
-"source": "Yahoo Finance",
-"published": 1794939007.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "48f32184b19db4e6",
-"title": "Equinor detects cyberattack against some IT systems",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeGpTcHZlVENfdnFQUnRwODE0ZjByUGRXX2M5NkpiR3pLa05zRzRzQlc0SkxYU0FQUDBrR1ZhNlZmUlp3MWhyWll0VFhBMDBPRnNFVnpYZzUxdjVsN01HNTc0eEo3M0RJM2tFOW1ZbVVWdE01QllBNEJhMGI3T0FRaDZqUkJTV0IwZHRSa01zME1SdUQ4OF8wWllyYw?oc=5",
-"source": "Euronext Markets: Real-time Stock Market Data | live",
-"published": 1794939000.0,
-"stocks": [
-"Equinor (EQNR)"
-],
-"keywords": []
-},
-{
-"key": "a6d9aca71accc49a",
-"title": "Form 4 Meta Platforms Inc For: 17 November By Investing.com",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONTVjcl91SDNzODVKeERfX0hsQmxxV3pFNTlaTksydFhqSlhMdWdqT05kR3Qzdjd6Y1RTRDVNV2dUdktYY1lqOUtwR3hjcXJFUHNLdC1HbXZkU0hXT1dvXzcxYnBaV2hQT2dsVW5nbVN2ay1JZFFhT294WVdUZmhBUXZPYTN1TFZzSkIzbWFkejE4MXBIQWtIeWZnVUY1REZiUF9Pdw?oc=5",
-"source": "Investing.com Canada",
-"published": 1794938835.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "8d9fbb47a09a4061",
-"title": "Ex-Nvidia CEO Jensen Huang signals interest in returning to the company following scandal",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObnhLd21OYlROQnV3Z2ZRc29BZlRubWM4T2tVN3d3ektLVUdiMXNSS1dhclFQNVZrUEVrdG5rUHFUY0ozQWJJRjFFVlFvVjJ0SC15eEdoUm1JUEdwY2FZdTgyNmNDQnozOWRXSGJBRlVHaC13M09mZ0U3em9hYkp2V1BFWHJvR2ViRFZGcEk5RE8yTWNwUmM5dlhBMC1oMGYzYzE3TXl5akNYTGlOb2c?oc=5",
-"source": "AP News",
-"published": 1794938820.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "d3d03495b5330b5b",
-"title": "Pågående cyberangrep mot Equinor",
-"summary": "Equinor har avdekket et pågående cyberangrep mot enkelte IT-systemer, skriver de i en pressemelding. – Relevante ressurser er mobilisert for å nøytralisere angrepet og gjenopprette full integritet i systemene, heter det. – Det er ingen indi",
-"link": "https://www.nrk.no/nyheter/pagaende-cyberangrep-mot-equinor-1.18083829",
-"source": "NRK",
-"published": 1794938721.0,
-"stocks": [
-"Equinor (EQNR)"
-],
-"keywords": []
-},
-{
-"key": "2a4660a42d048209",
-"title": "Copilot at Microsoft Ignite: Expanding what’s possible with intelligence built for work",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQm5ka2JwWW41TURfckR5a2x4U0tSLTdudWZpb1lxc0ZqSk54UWFKckFVMUlXSUJGcE5HYlJyV0s1NFlNSktiOXZlTWJsbVZSNDVmYks2Y3QxUm5vOGstUHlpZDcyMXlVbzBsTHZMMzI2MUFtUWhuT1ZXZ2llV0t3djBGeXpPX1ctNFBxLTlYNTZpWUFpb01KcTRGbUlXM0pPMklic1BGM2RLT2oxdlUxc0F6WWIxWkhQbUFsLWFLLXVNNXJDQzZSbVJ6SXROaW9HTFVFMk4wQTRMUQ?oc=5",
-"source": "Microsoft",
-"published": 1794938700.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "5ed0a76b4d0960af",
-"title": "Introducing the new Microsoft IQ: Putting your organization's intelligence to work in every agent",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTGVUMVZ5NV9JdzlzbHF5cXNkMGU2TThOcGlidWNJT2JtZ2NGZm9oTHk1empEcjgzNWU4TWRsZV9OdGJfa21pRXNwaGpBLXAwY0lsRW1qSGF4NTlwTnk1SDR4d1VxTmFpaGNreWtheDZvT1JlUTBkd2ZidVc2SV9qVlpqWnFxTV94QUNHN3ZfUUJsLXFTWEppU254Ui14RVJkcTVDZDlaRXFwa0ZHbVBZVjRBRFlSUEZDRXlpa1liNEh3bVJ6X1RnZXJsc3dheUVD?oc=5",
-"source": "Microsoft Azure",
-"published": 1794938700.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "33b710a22eb49b8f",
-"title": "Liquidware Unveils FleetCTRL Preview at Microsoft Ignite 2026, Bringing Enterprise Orchestration to AVD and Windows 365",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPX0N5V3VDM0pQY183Ni15ajZZNzJxQzVyWTJoRjNQUVZZdFJyTDV0cnFqMHRQdm05WHF6SDQ2eExtUktsaUE4TWJ3Ny1jOThlTjFHMDE2ZzBQRlY0NlJ2ZW5lVUowZE54RG5xZXNpZXFGQjZRSEZ6SU1kdWhnQTRMOTd0emp2dVhtMUJlSXJEN29OWHlWbUxkWGVnelE0cGpQajRrUUZlWXBvODBWMmZvWG0xVkdldHJNc2o0UUtFUVE1dDlhVndJQjJJRUJuVE5PeDc3aExoVGo0LTQ?oc=5",
-"source": "VMblog",
-"published": 1794938696.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "fdd934428a54a712",
-"title": "The New York Times. . Elon Musk’s companies, Tesla and SpaceX, have built a major presence in Texas, backed in part by Republican lawmakers who offered incentives and favorable policies. Now, Democrats in power could bring new scrutiny to those polici",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNc19XNjk3MklOMXNCdHd0djJ2WWlRT1gxcTRKaW9GQnJubTdvUG16RE1iaXdYQ1NTOEZyVjlaX1ZQMUNwNV9NZXc2eUNyeTRjbmlpUTRkeUJfanNSSy1QWFpHcnk0aG5OUTd2VjMxT2N0elRWbnBvVndNNXFsTHZjTXhDY1ZGMUFOdGUtaW1LZHdqNXd1RXBFMGctRV9ad3V3WDdad1ZJRDAxQU1VN0Y5Tm91ZVdnNDk4Um00RF9jMlhHQmVVQW9US0xZQVlfaHU3M1ZRZw?oc=5",
-"source": "Facebook",
-"published": 1794938626.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "a0e5b0a55928a45a",
-"title": "GitHub Copilot app, Microsoft Ignite releases",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWVVhZlB6VDRvcmFXZVJNQXJVRVJZaHhyZjh2X1RWdzQ1b2IyNjNZaTViR1NrbW1yVFMyVWdCWWdmQ0poUjhOUWRxMW1Wcnhob3BhRXFlU0p2NWlZT0tIN3Fub1dmb2VZaFd2QkFUSXlhX3JLNVFySGpFU1dJcl9vMDc0TkF3b1NIcG5mbjNWcw?oc=5",
-"source": "The GitHub Blog",
-"published": 1794938622.0,
-"stocks": [
-"Microsoft (MSFT)"
 ],
 "keywords": []
 }

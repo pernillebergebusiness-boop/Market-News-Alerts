@@ -1,5 +1,5 @@
 {
-"updated": 1795104870.36518,
+"updated": 1795108801.37234,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -69,9 +69,35 @@
 }
 ],
 "feed_problems": [
-"Yahoo Finance: HTTPError"
+"Yahoo Finance: HTTPError",
+"Oslo Børs (Google News): HTTPError",
+"Norges Bank (Google News): HTTPError",
+"Markets (Google News): HTTPError",
+"Equinor (Google News): HTTPError",
+"Aker BP (Google News): HTTPError",
+"Aker (Google News): HTTPError",
+"Kongsberg Gruppen (Google News): HTTPError",
+"DNB (Google News): HTTPError",
+"Mowi (Google News): HTTPError",
+"Nvidia (Google News): HTTPError",
+"Meta (Google News): HTTPError",
+"Tesla (Google News): HTTPError",
+"Apple (Google News): HTTPError",
+"Microsoft (Google News): HTTPError"
 ],
 "items": [
+{
+"key": "44f3a66040d7dfaf",
+"title": "Trump kjøpte Nvidia-aksjer for flere millioner kroner i september",
+"summary": "USAs president Donald Trump kjøpte aksjer i Nvidia for inntil 265.000 dollar i september, ifølge en redegjørelse. Samtidig solgte han aksjer for inntil 15.000 dollar, ifølge den siste økonomiske redegjørelsen fra presidenten, som publiseres",
+"link": "https://www.nrk.no/nyheter/trump-kjopte-nvidia-aksjer-for-flere-millioner-kroner-i-september-1.18085362",
+"source": "NRK siste",
+"published": 1795106570.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
 {
 "key": "6b40f6e40741f7c0",
 "title": "Nvidia's billionaire ex-CEO Jensen Huang washed dishes at Denny's — it's still the only other job on his résumé",
@@ -4865,18 +4891,6 @@
 "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWHNRcEVuR1ViVWpUY0p5RnIyekVpWDRTVUFLXzhLYnFDZ2tfeGctTGFkcENyRFliRXVRSktrc3hiTU01ZW9oY1dzaVJ2dzBNcTBxLWZienhFM0I0dVFDYXp3NTVjM3lZNGhxMXpuZUhuLXdUd1o0RTN2VVR0bzRDNnE0LXByUDJvWFl3VUFra1JDQXZmbV9FejNKdEI?oc=5",
 "source": "Yahoo Finance",
 "published": 1795044091.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "799aca677c3c2cc4",
-"title": "Moody’s Lowers Nvidia’s Ratings Outlook to Stable From Positive",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdDduRmdCRExobWhOYnpFNkpNNVo4VE1aZ2I4alRxem5qNXNkcUJwVk1ZNXhSNGRzWmZwX0djSTVFVFktaFFFejhRRGFpaEx5TUF2aEZHZTMyYWRocThJM0s1eElwdXNlSkdZYXpmc1lYYUFValVmcG1nQ1dVck0tbmM1djRtdDR5ejQ2b095dGV6TWpwTzB2aEZXX0VWdUtGc1dyakpubkNhNGZCc2FvdGxUbG4?oc=5",
-"source": "Bloomberg",
-"published": 1795043882.0,
 "stocks": [
 "Nvidia (NVDA)"
 ],

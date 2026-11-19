@@ -1,5 +1,5 @@
 {
-"updated": 1795053416.913708,
+"updated": 1795056300.033213,
 "watchlist": [
 {
 "label": "Equinor (EQNR)",
@@ -69,9 +69,178 @@
 }
 ],
 "feed_problems": [
-"Yahoo Finance: HTTPError"
+"Yahoo Finance: HTTPError",
+"Mowi (Google News): HTTPError"
 ],
 "items": [
+{
+"key": "91f74c12c731c1f3",
+"title": "Musk says Jensen Huang is irreplaceable, regrets midterm spending",
+"summary": "Elon Musk spoke about Jensen Huang, his U.S. midterms spending and overlaps between SpaceX and Tesla at the Dealbook Summit.",
+"link": "https://www.cnbc.com/2026/11/19/elon-musk-jensen-huang-midterms.html",
+"source": "CNBC Top News",
+"published": 1795056096.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "d829bec57468d9c9",
+"title": "Microsoft and Salesforce Introduce Copilotforce Integrations for Copilot, Teams and Fabric",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSU9fNVFoWWtySG5wSUhmbG9uYWVCSXNfazNZSENJYXdROThwTmJUaElpS1piQUtmYUN0QnFxOGZqSEpxYi1hRGg2WGdOOUJqTnlPeW56dVhKQ2wySFY1NzB3QXljTUtqY3VUbEs5T05DUFVibFVDeVZoa3E5OUJIMXFXU2VfS2lSWVFiVkJpRXdwTkx5bEVJTktqQjNmMnZvSkdqcmZlNk5uejNONzN0M3ZjRll1Z3BnMG5KaXZyUzI1a003clRHaGZfSkRUX1J0Wmc4V29R?oc=5",
+"source": "HPCwire",
+"published": 1795056027.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "bb73c56e6412f267",
+"title": "Elon Musk says Tesla plans to make an autonomous Model Y with no steering wheel",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPU3BVSkNtTXpvSHp4UHpCRFRoZjkzYXpqUEhoMUpldWZwLTNmRFA3amhvRDJqTmE3WlVqeXMtRU1nT2ZYZmNyR0Nidl9YWEJqUDFZSEVFckVISl9HX3RRZFhrZ0EwZXp4TkZsUWJXMEMwS1BBRlVsYXdkQ1g0aVdaNFFLRE9ob3l6akZjVmdGTXY4Nm9XYkNsMUF2OU1nN3Q1TFBMb3hn?oc=5",
+"source": "Business Insider",
+"published": 1795055340.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "9569d19daefa342f",
+"title": "Microsoft brings AI inference closer to enterprise data with Windows Server 2028",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVjZZWFZqOXNOM2NqaVJRR3E3ZG1LT2xYcjVqeE40Rk55aDJXUkp3eWpET0pCNk1halNncFV6dWZyUVdWV3hpaTNTaEo3ekRSemtLVWwyOHNzcTJnZDJKeGNldVEwQy1LSzVUeUxQNHp3RjRGN3JjZ1VFWnBvLWdlQXhMUEdNMERNa2FmRElnUXFuQ041aFhqVjhvbTFzeUk5enBPWHRZUXVpTkYydUl0cC1oM1VVaENpRjVVdkJSbTVTM1lPbF9DY3pR?oc=5",
+"source": "Network World",
+"published": 1795055240.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "20cda0eabce572da",
+"title": "Meta suspends plan to issue new shares to Mark Zuckerberg amid Delaware lawsuit: Why investors are challenging the deal",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOc3ZFa0x3aGpkRU96YkdkS082OFRvMzRaSkpKenBNOXZyTU1meE9UbmJpR1dpajlSaEdCal9UaXlmR2tyZ1RucDVHeFdSR3JCY0NFV2V0bmRWNHY5akp5cDFtN0diR3p1VG90OXA1eHAwbnRQbEFkVEgyWi0zSllzTVQxaGVoa1JpQTIzU1EwcldKb0pDODUyWVpDeVczZDh3akFMVm9YQVVpUGtIWVBlX3dlTW1wT1BZckp0c3RNek5XdnFGYk1TVGVoSU9Tc3pEMDB0UXdTM0RzcnhSNVN6UmwyNTJHaFkyQ05BSlNRa2RJN3E2M3p6QkUxekZZOTJHcHlCclg4Z1VXZ9IBjwJBVV95cUxQY0xMaGZVbDhCcDFVN0JLek1jUGhoSnY4Y2JISXhpNXF2SGg2RFVzT240VjVyN3FBUU1BNDk1VVJjWWdXUF82TzduS0NzMkVvM1F1MUJCdVg0V0l3UHpIcThQa0hqdk5PMnBmeUFES3FJSGFhWjNiTlV5cGU5YzNpUml4VS1mWjN6VTBWYTNOZ2pNUWNOUDJPV3ZSMmxDOGpBTUZ6Ymo2LUdHQVVLVlBrU1hNYXFlbVk2Ukl0MjkzRF9LWkNGUUlUMFFPNEV0ajY2MXptODlkVFg5ZzBlME90WXFDdWdmS0pnXy1fM2ozeHVWNU5sNjJEZkJXdWFPQ2lqTG56ejlmTEtteUt0SkFj?oc=5",
+"source": "Livemint",
+"published": 1795055158.0,
+"stocks": [
+"Meta (META)"
+],
+"keywords": []
+},
+{
+"key": "f7fbb40e18bd3256",
+"title": "Tesla Cybertruck to be discontinued in favor of more Cybercab production",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNURiT1RBR3NjM05mMUVBYlFlRnBYUDZMaVNCMGFMNm1oWW54S1hxcUNyRV9NVjQwTlZ5M1dkOXk2ZjA0ZDVsR0tRbjhiUTdDcWl0a2FMYXJUdTM1Y1p3NThELVZSOWNSZ0xyUU9Sd0Jua0Z5YWhWTlhOUmp3cjhhWGplSXJ1QnUzdmI1WXlQcTlNS1ZRNWZiT3NVRng1YWNZU3NmeTBZWEZUTTBOSVpn?oc=5",
+"source": "The Daily Texan",
+"published": 1795054783.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "6b964c262d4fa4c9",
+"title": "What NICE (TASE:NICE)'s Microsoft AI Tie Up Means For Shareholders",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWFZ0ZklOLXZIUE44OW9zOEN5LVlpanIzYVROdVlydm13U2pNdDRQb0VyZ0owZFNaQk5sTG5NQVBRRW1Wb2R0ZkN5SFItbzZHT041YUQxRVR5X1FLcU5LbU5TdkZHUkVBaDMzeTRjcFpGY2dIWW1TcThvNlJpcXRTNlZB?oc=5",
+"source": "Yahoo Finance Singapore",
+"published": 1795054740.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "45e697fc76be5aa5",
+"title": "US lawmakers seek Microsoft briefing on reported AI deal talks with ByteDance By Reuters",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcnFONW9OdU9CSW1yVEI0MjB6YWxlY2NPbER5YlNtZG8wdHp0QjZwbDlONFNydmx5X0xnTUFzVktxTW1tZjhuV0hiVVdxdWExdmI5cWFLWTRIV3hfaUVJZTdxclp1cURwRThiT0o2Y2FWVWtKR0p6ODlnTUFWT0J3UlJJWWZNVVNWTmQwMVFBbXFjODBFOHFvSWF1UE5hWHZWWWlXQlIzZkg5YUcwaXJQQVVIR08ycFpWNG1LWUhIOEs5Xy1JM0VsUDJKcHNBTjFlSEVUUHdReVA1Z1Nj?oc=5",
+"source": "Investing.com",
+"published": 1795054580.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "9b55454c9e3ffea0",
+"title": "Microsoft awards $200,000 to expand robotics education at Millennium High School",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMHNpVUVUczU3ZlZSdGFtRWo2cTA1WXVuVm5VQmJ4VnRfbXhwV2ZITGNINFR4OTNKUkw0QUhQZlVJb3NsSi1oOWs1cmI4emdTLTFNeXJjdkdaYUdsaGU3ZG96VWNiQnFieHV1dGo2MGx4VWtMTTE5WUhIV0VQUGtHd1h6MnBqbjQ1cXU3Z0NiSk1jUGZpb3pmUFBSOHJ3TlJfalA1cnF5ZW5mVFdMenQxeGF6UVJiendlWENsTg?oc=5",
+"source": "Your Valley",
+"published": 1795054560.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "9669025489577e54",
+"title": "Tesla Autonomous Permit Filing: 5 Details That Matter - BASENOR",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQd2owUkNzdzFpcE9hYVhuZ0dybUdpQjdWLWFXVDFBNE52RTRtdHZZVWFicU10SndiOHNtUkZDX1pZUHZvMkNQZWZPcFA0SmdKS2VGRDlVR2QxZkplQmVDaFM3OEdZS3RMM3RUclB5QTdwM1NrSURLWXhNRjd5Qld3ZFBOYnRMWlcxakFWLTIzR3M?oc=5",
+"source": "Tesla Accessories",
+"published": 1795054102.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "7ee03f79f5e95b8a",
+"title": "A Tesla Model Y Without A Steering Wheel Is Coming: Musk",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBSQXVCcnMtZnpMdUNQLXhJUjJJSmR6VGFnWDdVT2hieWpIeHRISUtNdW9hT3hKSnJscHhxS1NPYnY2bFh0Y3I4QWlFdHUyUDdrNFNjOWxCX0xCQTg3ZDBFZ2hhUnpXcGVOb0thWFREb28yMnpnbWd5QXJR?oc=5",
+"source": "InsideEVs",
+"published": 1795054080.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "288c4ba6e954851a",
+"title": "Nvidia Moves Up Raises and Stock Grants After Jensen Huang Exit",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNa2tsQ05tYkdyX2hiVE9odTZsOTZHVHNtLVRVN1NYbTd5V2VlT3hQRjZkVTVNNFdKcGpsRm84MVpCS2MyYTJoQU9OMWdtcFJQTS1zUkVOMnFlUHhBeGdmQ2dqaVdQN2JDejg3QnlNczdlTjhxalhoY2JncndMbWRHSHpiV3V4bGFRSGo1ajZGd3FLVTg?oc=5",
+"source": "Mitrade",
+"published": 1795054060.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "7df8667ae06b8a2f",
+"title": "ASU expert disputes spying claims in NVIDIA scandal",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeDhpQWx5Y25xWDk5Q0tZQ1FzSVRYUlVDXzZUZ2V1NUZIbnBhQnBvRWJZV3FYRUdJQ25mbmFRaHExcUlXQnpSUHg4cGY4OUJkclNyNm1ZS3Vxd3lXWi0xeGp3akdRNmNqNHJpT3BRelIxWDNSQ1BqblZsUXJZWm5naTNGMVJEQWlUSGtVZkUzdmFKcnM?oc=5",
+"source": "AZ Family",
+"published": 1795053600.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
+"key": "6f89e378f88f2e00",
+"title": "Exclusive | Wall Street Pledged to Mobilize $500 Billion for Nvidia—But Hasn’t Put Up a Dime",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWjdzR25CWl9WWlp1SVp4cVl0OE1TUWhmVXBKZVJ1RFNudjFKOEtabjJCX1o0bTRteGZPbVZmRURDazJ3a2UtajRYQ3d2eENyUFpCNHoxZzlSWFRHYnlITVNoSWx4V0g5bjN0S2o0MWVsMm9XSzN3Znd2Zk9CbVkxc2VKa0xJUDRWRGh0aVdEcU4tNTVNVkw3cV9SQUc0d3Nya1dCNkFLTlc0VWdqTWh6M0VwZlQ?oc=5",
+"source": "WSJ",
+"published": 1795053600.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
 {
 "key": "b7329d6c8a391df6",
 "title": "Tesla crashes make headlines, Lidar makes sense, IONNA makes it easy",
@@ -115,6 +284,18 @@
 "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOb3g1Nk13T0N1V18yZ3l5Z0hNdzNoUWZTcmZJS01GbEw3TGVrR1dZalNJQi1RaW9qdk92eHBCdXdGT1pzMmJsNzRYa3FkQkdxZFliX2RaeEZNRXZqaGZCbm50cUMySUN3R0IxdG5SRDlXQ3dtLWtYOEoteGRpUTBKN19UaUYzWVFpX3BNeDRYemRuSlZFakhZdnpwZWpDcC1XVTdUQVpkaTF0eW45Uzc0SzJ1Slhfd2pxeTRCYUJXOFctNGZSQW5FQWFlQm8wNTctUWRnMw?oc=5",
 "source": "CNBC",
 "published": 1795052092.0,
+"stocks": [
+"Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "119dbe9a1b0e72d0",
+"title": "Water pours from ceiling at Microsoft conference amid record San Francisco rain - ABC News",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5FWEttRnJWbVBCVm15RjBHenlEbXplQXZaUFJrOWlOV05za2tLcHJ1U0FSRmJGZG1ISlgtc3JaZDY3eGFkMVg0R1NLZmg?oc=5",
+"source": "Breaking News, Latest News and Videos",
+"published": 1795051879.0,
 "stocks": [
 "Microsoft (MSFT)"
 ],
@@ -856,6 +1037,18 @@
 "keywords": []
 },
 {
+"key": "0686a5dd9e826c8c",
+"title": "Why the Nvidia scandal is a national security issue",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNd3ZmNDJjYWdHSUU1TTlNSnNOakRWV3kyZld4OWdaZXc5X0ROTWVFaV9GTzYzRk1Td2J5TmJsak96dkxLQ2dmdG96bWlyOUtob1o5WHZkZzFaanl0WmZPQ3NYQzZlWnEwOWJrM1RRQnFuYnlGMFN6Qzhjd3dwUF9WVC1Id0RjVUNhaWIyT05DM05fUGZlR19Da0VmSGU?oc=5",
+"source": "NPR",
+"published": 1795039976.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
+},
+{
 "key": "e24d82ecf2b9b725",
 "title": "Stock Market Today, Nov. 18: Nvidia Slips on Strong Results as Succession and China Business Risks Weigh",
 "summary": "",
@@ -902,6 +1095,18 @@
 "keywords": [
 "stock market crash"
 ]
+},
+{
+"key": "5ede7d39868ce5ca",
+"title": "Arm CEO Haas Approached by Nvidia Board’s Recruitment Firm",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSkdMM3B6VU5DaTBZaEZfWnQwQ2RIRjg0WkRUVkxLM2JmcUxxMHpCUHBjRzNmTHFFMXRzM1R4Z2kzZ0ZIOFdmeVFZdGMwSFpQMGQydWZHWVR2V3Ytczd2b3YtVkM5Y3lGRl9KN2VBWllFSXpKdDRmVGl6NGdJTzgyemZyeldNbE9fdGgwTEtfclhzTjZGT0YycW41S2NMVGYzOFJqX1dTcTAyVFZReVZQaXFqUnU?oc=5",
+"source": "Bloomberg",
+"published": 1795039528.0,
+"stocks": [
+"Nvidia (NVDA)"
+],
+"keywords": []
 },
 {
 "key": "ac9fdc1d60e86998",
@@ -974,6 +1179,18 @@
 "Nvidia (NVDA)"
 ],
 "keywords": []
+},
+{
+"key": "6ae47f901aad85d0",
+"title": "S&P 500 Breaks Critical Support: Is a Bigger Stock Market Crash Coming?",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQm5IdlBBNDVfaDlsUU1ZU0lMUmhRWjBPUEczdTJtMmdLcjduTkJnLUdRNE05cjNQOElUUnpoZHN4bEF0TVdRRDAwb2ZMQWpDODc0T3dMQWRZVDl2M0x2SlBRR3VkTWg2Sm9ZeDZKYVYtSVVIQm1SSkNjSFZrdlNTNjFNWHRNRzBJXzNoanJYNkRXTzZrdExPR1ln?oc=5",
+"source": "Yahoo Finance",
+"published": 1795039003.0,
+"stocks": [],
+"keywords": [
+"stock market crash"
+]
 },
 {
 "key": "c7de98e49cdf045e",
@@ -1072,6 +1289,18 @@
 "keywords": []
 },
 {
+"key": "71c13c3614138e8e",
+"title": "Tesla Scores Legal Win Against Manitoba in EV Rebate Case",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcjlYQ3B5anNPanBLQkQzTXBacy1ObkFLY0xPTkRaUXV0dlhpS3E5N0JfVDNsMW9vN2Uycm9wcmMwemdlU3JmNWlZYm4zcnE5X0JQaWM1VlVYN2k3LVFhSFQ1cUZ1NkRidi1ra0JWMEszMUYyM0xPb3lsd0lVQkE3Wk5abkNvWG1PcU5oUEw2N2NNUVdzd3lTcmZFU1g5ZzRkb3h2My1tYnAzcUtkZGsyNEdyX0pCNkR4UmVDcFFfV0M?oc=5",
+"source": "Bloomberg",
+"published": 1795038387.0,
+"stocks": [
+"Tesla (TSLA)"
+],
+"keywords": []
+},
+{
 "key": "4450fbea7d20412e",
 "title": "Tesla Scores Legal Win Against Manitoba in EV Rebate Case",
 "summary": "",
@@ -1128,6 +1357,18 @@
 "published": 1795038187.0,
 "stocks": [
 "Microsoft (MSFT)"
+],
+"keywords": []
+},
+{
+"key": "77e1191d72bdf877",
+"title": "Stocks Fall as Nvidia’s Earnings Rally Sputters: Markets Wrap",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUHhZZG5FcFhON3BCMkRyY201M2FVdVRTaUF2a29ScWc3ZTd4TkI1Zm44SXNOcmZoOE9tN29nalFxMllaQV9ZQVp5SFNKbFlmVWtxVmtjdGl4WVVRRnpFeVZaVjVCVGozeFVWYzF6NnM1dERENnQ5SWpLTlNsejBDS21mS2k2aUhQeHZHNU80V2dvbG9h?oc=5",
+"source": "Bloomberg",
+"published": 1795038006.0,
+"stocks": [
+"Nvidia (NVDA)"
 ],
 "keywords": []
 },
@@ -1356,6 +1597,18 @@
 "published": 1795035702.0,
 "stocks": [
 "Tesla (TSLA)"
+],
+"keywords": []
+},
+{
+"key": "78580fd8a3395e3f",
+"title": "Nvidia Tells Employees That Company Is Moving On From Huang Era",
+"summary": "",
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdmJBeTBNRzc2WnpadnRGaVh0cE8zTEhIVGstcmtqZnF0cHh2THdwSHNPYzJ6aXZmbGZiYXZvMzV5WTlpN2c4R0F5dS01R0VjcENMVTZpTXcwWVROTmNlZTJsY3BtcldDZFltVG4zVWhZTTNXZmlkS1ItWXJEVkRyRVNhWkU5NTEyRDdweFNhZk41aGQ1U3hIMGJyMnVyTHhEbXVVYTF2MXZSTXJYRTFFdHFFVG8?oc=5",
+"source": "Bloomberg",
+"published": 1795035603.0,
+"stocks": [
+"Nvidia (NVDA)"
 ],
 "keywords": []
 },
@@ -4628,259 +4881,6 @@
 "published": 1795010880.0,
 "stocks": [
 "Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "5d119e2bf8f7ad51",
-"title": "Meta Platforms shares weekly forecast: remains defensive after more than 3% drop and negative MACD",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObEFhcm41OVVVQ2taWDNyUmdjX1VXeWxZenVtenR0Ul8tdlZlOEctcjlQR25SSnpRa0c3Wml6ZjBCb3NyMEMwb0RFY0RHX3lnclRfTHQ0cmRjN3hLNU9LbUZtd3JZeVh2OU83SlFTNVBSck1vUEp3ZFpRaUpybTJVb1cwRU9mek9hZ0E?oc=5",
-"source": "Traders Union",
-"published": 1795010846.0,
-"stocks": [
-"Meta (META)"
-],
-"keywords": []
-},
-{
-"key": "ca47a968e2c40f26",
-"title": "NiCE Unites AI and Human Agents with Microsoft on One Connected Customer Service Stack",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdGIyNDlHQUFmckdEdFBTSVFydjZEYnlDcVFHUV9iT19BVUFhTzJpLWducDBtNUNsRVdTTElxTV9NeXRZT2pGR09Mc2lYenhIb1FOWmxNYjBQUWlZdlJBQ1NFQUhIdWtadEJHejBZa3k3cTNpS1lRQ0U1UmQ5MWpFSVBHOHAzZ1Yxd3J0eUhVM0wxN2t2Qmc?oc=5",
-"source": "Yahoo Finance",
-"published": 1795010820.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "3d0950a5bb113fed",
-"title": "Jim Cramer's top 10 things to watch in the stock market Wednesday",
-"summary": "Can Nvidia hold these gains after earnings?",
-"link": "https://www.cnbc.com/investingclub/2026/11/18/jim-cramers-top-10-things-to-watch-in-the-stock-market-wednesday.html",
-"source": "CNBC Top News",
-"published": 1795010768.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "a6fd14c1b12975e9",
-"title": "2027 Tesla Model Y L",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1uRWdxaF9nNFJvOFFNbW93QmU4VHQ4WmlGTUFmNHNUZnN1VjdxajRtamkzRG9rNjlCN1ZWUXdRSnVNaW5MT3Y5SExsbjl2TW5qRDdIQmFxcTY4V203RmhxR3lPc1hXXzd5Y2gySmJMbVlJTi1iZmJaMDU2NVJNZw?oc=5",
-"source": "MotorWeek",
-"published": 1795010762.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "4af6960317d40d4e",
-"title": "Conga Brings Its Commerce Suite to Microsoft Marketplace, Integrated with Dynamics 365 and Copilot",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaFFtSlRKVWx3TjZlUmc2NnNYOW5XUi1BcG1NY0UwbDJCQjhxSjZqT1hEUE5MN3YxcjJpMVVQZlVUakstQUFibXI5WTU3ZUZRY3hQMEVIV1hOTlVQN0lEVnB0emRGQkRMcUhONnNJZWItaGswbWlpX0xHeWxWT1RicTZDcU9lcnFtb3h3VGIwNXBpU2NBbjVYTTl3ODNzUHM?oc=5",
-"source": "Yahoo Finance",
-"published": 1795010700.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "e666a6f56912b1c6",
-"title": "The 3 Best AI Stocks to Buy Now (Yes, Nvidia Is One of Them)",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQa2lIN3NYUWZiUGNDU2lOcVgxUHZheVI0STc3MXlReVZ0NEllc3ktenRlUXZQT0g2T1VrN1JlLUJXMzlObUxKUkJxRW0tMWdwdDU0RjROVWJaUVJSM3RIRTBpSm1uS25rQW95Nm96NGVJRXJlUUZBOXdERGc0bTdsRTFZVWh6MU4tZ2RXY3dn?oc=5",
-"source": "Yahoo Finance",
-"published": 1795010642.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "a18842ebf42c062a",
-"title": "Nvidia and Microsoft Bring RTX Spark to Compact Desktops",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOLW9yVU9DNFVxZEJ3SDJfaG5tS3VOT3ZMVGxwS1cyUVFETEFLYmN1UVJocFB0dmd5eml1dEx0QXAzb2hBZ3JnckdodndMU3R6bWZxNkxTbFlLOFdvczRkRGlLalhVYmdicHBES1JTWmMtM3B6b3NPSHpPbEkzMmxIZ3Y5Q2VWZmlEazN3?oc=5",
-"source": "PCMag",
-"published": 1795010576.0,
-"stocks": [
-"Nvidia (NVDA)",
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "1cadf2df3b97aad4",
-"title": "Owl Labs Introduces a 360° Center-of-the-Table Microsoft Teams Room on Android, Now Certified for Microsoft Teams",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOcHh4TXhkbGVLeTdrN2R1OGk3aWZkaW9LTHBUUTY0bWxfQlVuZzdDZ1d6dW9JQ2JOV000eVM4dVo4UEd4Y2NuNFYxVmdBRjJzT05pNTBuRy1rY01qTVVPek1oWXgtZzR3Vl80VVh2ektheHZCSWJOYk5iMVA2OVQ3UjZZRUt0Wi12UV90aU91VUF4RXdEaHJlTExhZFhiQWJzaGFpaWU0WU5nWjBfTi1xNnFmV2E0aGJ6TjNhcnJiRVRGeGJSZ1ZuT3VmQ1FDdWdMQWw2U0VneElJVmY5Nl9IMkRGWkgwMTU4VGVJYjRpNC01OURSQzRWZkVzNlJEMmdfemdUQnp3?oc=5",
-"source": "Rutland Herald",
-"published": 1795010565.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "418065d71814a5a1",
-"title": "Delinea Platform Sentinel Solution Brings Privileged Access Activity to Microsoft Sentinel",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPT1NnYThjQm5LZnJNZG5vVEl6WUN5eDVaVEZHQjA1VGstc3FJUTRSVDVpb1ZjRjBPd1djN2FuVGozV0ZKbjdOaTEwdUt6QjdienJ0Z3ZYalpjaWplcHA2NUwzMWdHc1g2dkRDMHc0M0p6VTdZajNYQ1ROREx4TWljbk1uZ0xDN1lrMWIzOW1wVVFDYlBpTWhPVGg3b1UtSVRRMy1PSExXVk8?oc=5",
-"source": "Yahoo Finance",
-"published": 1795010520.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "fbbe76403220f4ca",
-"title": "Nvidia’s earnings boom meets a governance test",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUkVsSFBWUkR1V0tTdUdjUFZTRC1jOGZpbUVKQ04yMlplMDdySl9mekFSMFhfZEVWNXRWNWhqclZFbm9OTExNNUs0eHlNZjdBVlNuTUR5TjlOc2JTS0JJRktaY0loUzBfZjJoQS1ueS1VcGRpZ1QwTEZmVjBoYUZiMC1Ia1I?oc=5",
-"source": "Fortune",
-"published": 1795010520.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "328bd37e41dda41c",
-"title": "I’m furious that I love Nvidia’s RTX Spark so much",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQ0NYVFhxb1R5V1lsZXFMYS1nYzY1WnRnM3VVdXl6X3J6RHl3R1R2SzMtVEJMQnlIT2R0SFl1VmdpNm0xLWtyUEZRUWJNalBPUW9PMTNPLXZ3Z1FjXzB3VFY1cldtV0gzMmRHNVFvalRjdnY0SFZZREpwOEUzOW03ZlVoVU5Lb01UTXFmVnRDdzdEbVEyVWNCVg?oc=5",
-"source": "PCWorld",
-"published": 1795010476.0,
-"stocks": [
-"Nvidia (NVDA)"
-],
-"keywords": []
-},
-{
-"key": "38cd119fa2a0ea8b",
-"title": "Syndigo Helps Brands and Retailers Get Products to Market Faster with Microsoft Copilot",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdkVUeUtrbUFSaW9UUXJ5TDYtdnBWUjhkY0xZVEZDVldxZFhTWUpJaFQ2d3BOSHJIbnF3RXVPTVFJZG44U0Q4NnR2ZTg3SDZNd2w1aXN5SVlqV0NhUEpVRFA1OHJRRUdPTW5sRzZubWkzbVVCMWRuaC00c2o0QnY1U1pZLVFZemdrMFNuTGtobm1JdkRRX1RzUjRYMUl3VWRWRHhRR0ln?oc=5",
-"source": "Yahoo Finance",
-"published": 1795010460.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "ad042c38b5a9e840",
-"title": "Bad News For Tesla, As Waymo Gets Pulled Off The Road",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNUNVODllaWVGbmZZbzRZdk1Kb0NGVlFOUXc5TG4zRlNhN085VXhfcUlfVFV3c2JHeExIaXhjbmZNV2VnOWZzT1JieVlEa2daNHhkdXVyR2RaUjJKQXVyTTZFdDFQS3pDVjRKekRvbjBPQ3pzVUdoeDBIcm9fMEMwV3FlMmZNMHMzSFhCTnFMZw?oc=5",
-"source": "Yahoo Finance",
-"published": 1795010402.0,
-"stocks": [
-"Tesla (TSLA)"
-],
-"keywords": []
-},
-{
-"key": "1fa01e9004f9f389",
-"title": "Straive Deepens Microsoft Partnership, Showcases 700+ AI Solution Accelerators at Microsoft Ignite 2026",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQzhoZmkxNVMxNkRKdFkzR25JWTg2dEpyTk1YbW52XzhQUENZV3JSTU8yVXliN0ZjRVZMT3FqYndTeHZFTkthVXZwdE5hNXBmaWV3d0MtZDRoTUQ5T2gzQVpJdGphN013ZnNad2lRaWdkTXhJTnAwTlpvcWJZZzk5OWwxTXotWUp6elNnT3RNV0dXQ2pKSDA2c2xkRmtUMm9vZVBqWW1ISGI1Wl9obkh3Rg?oc=5",
-"source": "Yahoo Finance",
-"published": 1795010400.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "5f9ea4ce00f52366",
-"title": "Rubrik Launches Configuration Resilience for Microsoft 365",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTmJPbjZDR0J6YWduc1FudW9idEozUVh2NmFUdHUzRnNmUWEzU2RadksyTGlYbHpRa3RxY1RhQy1fSHNhNjlrWGVoWVp0a1Q1TkxKZElobHdkTzZ6TExJT0t4NThobWx2Y3RrcTBNRHN3X0thbUdZTENvZWdaTWg5RXJEY2phT25sNnYtUWdINXhPbG1TN2NBTlZSeFBoYlpDUGhMTmlUU01MTFlRam9YYzlRMVg?oc=5",
-"source": "Yahoo Finance",
-"published": 1795010400.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "a0a4516ee6749e7a",
-"title": "Rubrik Announces Protection for Microsoft Azure Cosmos DB",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQX3g1MHVfWElnSEUtTzItTUlSYmJxdEVtd0dkbHQ4aW5rWVZERDNUUjRsN3U3MHlJZnNHajRsbEFrOEw3dDBrQ2JRcFhsR2I2SWZoU0tOX3YwY0RSSkNHM1hMNXN5QW1jSlN1SE1XVWVYaGJPQVV6TnpNaWU5Y1YwLWdCODhfY3FHNUZmS1BkdmNSVS1WQTEzeExzY0pRTXlocEMyYnlyTmgxbUE?oc=5",
-"source": "Yahoo Finance",
-"published": 1795010400.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "fec2d8e672373e23",
-"title": "IBM and Red Hat Bring Lightwell Network to Microsoft Marketplace",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRkRPb3RYVG9zNWpod1ZFMnFRWlF0OFlwaXRYaGxqRUlHdTlrNHlDQ2g1UWpNVm0tTjlMSy13Z2dKNjhpRVBIMWoxQUp5ZVZZX0NGb2pJNzVLanFiOEpZSWI2ZUc4QnJYcENydklxRURPQVlHNGF0ajJacGRSbzBaUGU5aDZfcW94d3FkSnNDM2V2dw?oc=5",
-"source": "Yahoo Finance",
-"published": 1795010400.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "1703c7ebd77ad7c1",
-"title": "Red Hat Deepens Collaboration with Microsoft to Power the Future of Enterprise Virtualization",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMk5tS1VGT09Va2ZvVGxCWTI3WTRwWWxXSU1pWWM3dnhFUWJoLVdmalE3eVpBUWlyVmtkTXZaZTUyYnJ5UGZxNFNsSk4tQ0JlV3pEenhYTm9zQXoyTGNjVkU3eGVnTzA4YWJRMV8tdGtwOVdSV1RlRnB2eW5fRW82Uy1QaWJFMms5elNjSkt4YWYyd2E3WHBaaFZWUDZxOVZZZXc?oc=5",
-"source": "Yahoo Finance",
-"published": 1795010400.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "1d816a49960e2f4e",
-"title": "Microsoft Nears $500 Million Deal to Sell AI to ByteDance, Irking OpenAI",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObldnbUFFRTFOdWN6N3BFWjN2cmdqcXNnZ3JjTTNEMWNnWEdYUkFqVjZncEJFSnZjcHBrbUJSbU5PaVg5QWwwNWd2Z1p4NmF1N3FfMEFnMVRuSElIZ2szdWtOOUI1RGVxZUo3T2NFQl91bVE0ZGI0TDk4WnJmNHZ1b1p5ZGFyVzFBbEMtWko4dV9vRDUwVHd6Z0tYU1hYTlhKVGNwY2ktOA?oc=5",
-"source": "The Information",
-"published": 1795010400.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "322c43d62e209e1e",
-"title": "BCG and Microsoft Expand Collaboration with New Model for AI-Powered Business Reimagination",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVVM0aDZUYUdBSTVMWWJoQVkybzdFQkFvVGQ2MTRmcVl6V2duTVNkckFPZHF6UUQ5TmIzQ1Y5SkhDTFdEZ0xmTm96MHI5VXEtTXZlTjFudVl2QXVuVWZPSHdxRnpUaEd1Z0lENEd2QXRrcDlIazAzaDhpSkNHR2RqYW5GSE9SN29ndG4wYzhublpQRXRreTN1MmU3MktrU2M3OG0yaWpMUQ?oc=5",
-"source": "Yahoo Finance",
-"published": 1795010400.0,
-"stocks": [
-"Microsoft (MSFT)"
-],
-"keywords": []
-},
-{
-"key": "6f01f54cf09cbc2d",
-"title": "Bad News For Tesla, As Waymo Gets Pulled Off The Road",
-"summary": "",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVV9xeWJBbjZCVU1DMWdwb0tBZTRDYU5fOXFULTVMckJEZnJuNUdTRGx5aUZObmpxOXd4MnZDZEpSWFgzOEdwLW9vbWprS0d1bF9DZmxUY2k0SFM1WHlOc2Y2b2tpaTd3OTdyRVB5MEx4M2RFMW9MME9LZHU5b3N5MUJOWjJoYXU5ZUExVC1HOWRkcU14Y05GY0xTM0k?oc=5",
-"source": "24/7 Wall St.",
-"published": 1795010400.0,
-"stocks": [
-"Tesla (TSLA)"
 ],
 "keywords": []
 }
